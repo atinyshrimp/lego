@@ -86,7 +86,7 @@ console.table(deals_ascending_prices);
 function sortDealsByDate(deals) {
   try {
     return deals.sort(
-      (a, b) => Date.parse(b["published"]) - Date.parse(a["published"]) // ascending order
+      (a, b) => Date.parse(b["published"]) - Date.parse(a["published"]) // descending order
     );
   } catch (e) {
     console.log(e);
@@ -170,6 +170,22 @@ console.log(`Average percentage discount: ${average_discount}%`);
 //
 // 2. Log the variable
 // 3. Log the number of deals by community
+
+const communities = {};
+
+// Add the unique communities stored earlier in `communities`
+unique_communities.forEach((community) => (communities[community] = []));
+
+// Push the current deal into the array for this community
+deals.forEach((deal) => communities[deal.community].push(deal));
+
+// Log the communities object
+console.log(communities);
+
+// Log the number of deals for each community
+Object.keys(communities).forEach((community) => {
+  console.log(`${community}: ${communities[community].length} deals`);
+});
 
 // 🎯 TODO 9: Sort by price for each community
 // 1. For each community, sort the deals by discount price, from highest to lowest
