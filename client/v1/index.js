@@ -82,6 +82,19 @@ console.table(deals_ascending_prices);
 // 2. Create a variable and assign it the list of deals by date from recent to old
 // 3. Log the variable
 
+// https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/parse
+function sortDealsByDate(deals) {
+  try {
+    return deals.sort(
+      (a, b) => Date.parse(b["published"]) - Date.parse(a["published"]) // ascending order
+    );
+  } catch (e) {
+    console.log(e);
+  }
+}
+var deals_descending_dates = sortDealsByDate(deals);
+console.table(deals_descending_dates);
+
 // 🎯 TODO 6: Filter a specific percentage discount range
 // 1. Filter the list of deals between 50% and 75%
 // 2. Log the list
