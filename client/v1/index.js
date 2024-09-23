@@ -41,11 +41,12 @@ console.log(highest_reduction);
  * 🧱
  */
 
-
-
 // 🎯 TODO 2: Number of deals
 // 1. Create a variable and assign it the number of deals
 // 2. Log the variable
+
+var nb_deals = deals.length;
+console.log(`number of deals: ${nb_deals}`);
 
 // 🎯 TODO 3: Website name
 // 1. Create a variable and assign it the list of shopping community name only
