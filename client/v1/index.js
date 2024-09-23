@@ -66,15 +66,18 @@ console.log(`number of communities: ${uniqueCommunities.length}`);
 // 3. Log the variable
 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
-function sortDealsByPrice(deals) {
+function sortDealsByPrice(deals, ascending = true) {
   try {
-    return deals.sort((a, b) => a.price - b.price); // ascending order
+    return deals.sort((a, b) =>
+      ascending ? a.price - b.price : b.price - a.price
+    );
   } catch (e) {
     console.log(e);
   }
 }
 
 var dealsAscendingPrices = sortDealsByPrice(deals);
+console.log("Deals sorted by ascending price:");
 console.table(dealsAscendingPrices);
 
 // 🎯 TODO 5: Sort by date
