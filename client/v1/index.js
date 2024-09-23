@@ -29,6 +29,8 @@ console.log(MY_FAVORITE_DEALERS[0]);
 // 0. I have 2 favorite lego sets shopping communities stored in MY_FAVORITE_DEALERS variable
 // 1. Create a new variable and assign it the link of the lego set with the highest reduction I can find on these 2 websites
 // 2. Log the variable
+highest_reduction = "https://www.avenuedelabrique.com/lego-movie/70824-la-reine-watevra-wa-nabi/p5202"; // avenuedelabrique.com w/ -60%
+console.log(highest_reduction);
 
 /**
  * 🧱
