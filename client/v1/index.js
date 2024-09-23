@@ -108,6 +108,24 @@ console.table(filtered_deals);
 // 1. Determine the average percentage discount of the deals
 // 2. Log the average
 
+// Filter out deals that have a valid discount and calculate the sum of their discounts
+var totalDiscount = deals
+  .filter((deal) => deal.discount !== null) // Remove deals without a discount
+  .reduce((sum, deal) => sum + deal.discount, 0); // Sum all the discounts
+
+// Count the number of deals that have a valid discount
+var countDiscountedDeals = deals.filter(
+  (deal) => deal.discount !== null
+).length;
+
+// Calculate the average discount
+var averageDiscount = totalDiscount / countDiscountedDeals;
+
+// Log the average discount
+console.log(
+  `Average percentage discount: ${Number(averageDiscount.toFixed(2))}%`
+);
+
 /**
  * 🏎
  * We are almost done with the `deals` variable
