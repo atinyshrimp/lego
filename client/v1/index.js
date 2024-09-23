@@ -29,9 +29,9 @@ console.log(MY_FAVORITE_DEALERS[0]);
 // 0. I have 2 favorite lego sets shopping communities stored in MY_FAVORITE_DEALERS variable
 // 1. Create a new variable and assign it the link of the lego set with the highest reduction I can find on these 2 websites
 // 2. Log the variable
-var highest_reduction =
+var highestReduction =
   "https://www.avenuedelabrique.com/lego-movie/70824-la-reine-watevra-wa-nabi/p5202"; // avenuedelabrique.com w/ -60%
-console.log(highest_reduction);
+console.log(highestReduction);
 
 /**
  * 🧱
@@ -46,19 +46,19 @@ console.log(highest_reduction);
 // 1. Create a variable and assign it the number of deals
 // 2. Log the variable
 
-var nb_deals = deals.length;
-console.log(`number of deals: ${nb_deals}`);
+var nbDeals = deals.length;
+console.log(`number of deals: ${nbDeals}`);
 
 // 🎯 TODO 3: Website name
 // 1. Create a variable and assign it the list of shopping community name only
 // 2. Log the variable
 // 3. Log how many shopping communities we have
 
-var unique_communities = Array.from(
+var uniqueCommunities = Array.from(
   new Set(deals.map((deal) => deal["community"])) // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 );
-console.log(unique_communities);
-console.log(`number of communities: ${unique_communities.length}`);
+console.log(uniqueCommunities);
+console.log(`number of communities: ${uniqueCommunities.length}`);
 
 // 🎯 TODO 4: Sort by price
 // 1. Create a function to sort the deals by price
@@ -74,8 +74,8 @@ function sortDealsByPrice(deals) {
   }
 }
 
-var deals_ascending_prices = sortDealsByPrice(deals);
-console.table(deals_ascending_prices);
+var dealsAscendingPrices = sortDealsByPrice(deals);
+console.table(dealsAscendingPrices);
 
 // 🎯 TODO 5: Sort by date
 // 1. Create a function to sort the deals by date
@@ -92,22 +92,22 @@ function sortDealsByDate(deals) {
     console.log(e);
   }
 }
-var deals_descending_dates = sortDealsByDate(deals);
-console.table(deals_descending_dates);
+var dealsDescendingDates = sortDealsByDate(deals);
+console.table(dealsDescendingDates);
 
 // 🎯 TODO 6: Filter a specific percentage discount range
 // 1. Filter the list of deals between 50% and 75%
 // 2. Log the list
 
-function filterDeals(range_beg = 50, range_end = 75) {
+function filterDeals(rangeBeg = 50, rangeEnd = 75) {
   try {
-    if (range_beg >= 0 && range_end <= 100) {
-      if (range_beg < range_end) {
+    if (rangeBeg >= 0 && rangeEnd <= 100) {
+      if (rangeBeg < rangeEnd) {
         return deals.filter(
           (deal) => deal["discount"] >= 50 && deal["discount"] <= 75
         );
       } else {
-        throw new RangeError("range_beg has to be lesser than range_end");
+        throw new RangeError("rangeBeg has to be lesser than rangeEnd");
       }
     } else {
       throw new RangeError("input discount has to be between 0 and 100");
@@ -117,8 +117,8 @@ function filterDeals(range_beg = 50, range_end = 75) {
   }
 }
 
-var filtered_deals = filterDeals();
-console.table(filtered_deals);
+var filteredDeals = filterDeals();
+console.table(filteredDeals);
 
 // 🎯 TODO 7: Average percentage discount
 // 1. Determine the average percentage discount of the deals
@@ -127,26 +127,26 @@ console.table(filtered_deals);
 function getDiscountAverage(deals) {
   try {
     // Filter out deals that have a valid discount and calculate the sum of their discounts
-    let total_discount = deals
+    let totalDiscount = deals
       .filter((deal) => deal.discount !== null) // Remove deals without a discount
       .reduce((sum, deal) => sum + deal.discount, 0); // Sum all the discounts
 
     // Count the number of deals that have a valid discount
-    let count_discounted_deals = deals.filter(
+    let countDiscountedDeals = deals.filter(
       (deal) => deal.discount !== null
     ).length;
 
     // Calculate and return the average discount
-    let avg_discount = total_discount / count_discounted_deals;
-    return Number(avg_discount.toFixed(2)); // Round the average to the 100th
+    let averageDiscount = totalDiscount / countDiscountedDeals;
+    return Number(averageDiscount.toFixed(2)); // Round the average to the 100th
   } catch (e) {
     console.log(e);
   }
 }
 
 // Log the average discount
-var average_discount = getDiscountAverage(deals);
-console.log(`Average percentage discount: ${average_discount}%`);
+var averageDiscount = getDiscountAverage(deals);
+console.log(`Average percentage discount: ${averageDiscount}%`);
 
 /**
  * 🏎
@@ -174,7 +174,7 @@ console.log(`Average percentage discount: ${average_discount}%`);
 const communities = {};
 
 // Add the unique communities stored earlier in `communities`
-unique_communities.forEach((community) => (communities[community] = []));
+uniqueCommunities.forEach((community) => (communities[community] = []));
 
 // Push the current deal into the array for this community
 deals.forEach((deal) => communities[deal.community].push(deal));
