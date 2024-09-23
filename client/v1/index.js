@@ -55,7 +55,7 @@ console.log(`number of deals: ${nb_deals}`);
 // 3. Log how many shopping communities we have
 
 var unique_communities = Array.from(
-  new Set(deals.map((deal) => deal["community"]))
+  new Set(deals.map((deal) => deal["community"])) // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 );
 console.log(unique_communities);
 console.log(`number of communities: ${unique_communities.length}`);
@@ -98,6 +98,11 @@ console.table(deals_descending_dates);
 // 🎯 TODO 6: Filter a specific percentage discount range
 // 1. Filter the list of deals between 50% and 75%
 // 2. Log the list
+
+var filteredDeals = deals.filter(
+  (deal) => deal["discount"] >= 50 && deal["discount"] <= 75
+);
+console.table(filteredDeals);
 
 // 🎯 TODO 7: Average percentage discount
 // 1. Determine the average percentage discount of the deals
