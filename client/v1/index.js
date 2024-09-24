@@ -557,6 +557,18 @@ console.log(
 // 1. Find the item with the uuid `f2c5377c-84f9-571d-8712-98902dcbb913`
 // 2. Log the item
 
+function findItemById(data, id) {
+  try {
+    return data.find((deal) => deal.uuid == id);
+  } catch (e) {
+    console.log(e);
+  }
+}
+
+const UUID_TO_FIND = "f2c5377c-84f9-571d-8712-98902dcbb913";
+console.log(`Item with id "${UUID_TO_FIND}":`);
+console.log(findItemById(VINTED, UUID_TO_FIND));
+
 // 🎯 TODO 14: Delete a specific item
 // 1. Delete the item with the uuid `f2c5377c-84f9-571d-8712-98902dcbb913`
 // 2. Log the new list of items
