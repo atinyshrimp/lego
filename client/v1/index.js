@@ -664,3 +664,6 @@ console.log(
 // 🎯 LAST TODO: Save in localStorage
 // 1. Save MY_FAVORITE_DEALERS in the localStorage
 // 2. log the localStorage
+
+localStorage.setItem("myFavoriteDealers", JSON.stringify(MY_FAVORITE_DEALERS));
+console.log(localStorage);
