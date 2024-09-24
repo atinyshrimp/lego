@@ -573,6 +573,19 @@ console.log(findItemById(VINTED, UUID_TO_FIND));
 // 1. Delete the item with the uuid `f2c5377c-84f9-571d-8712-98902dcbb913`
 // 2. Log the new list of items
 
+function deleteItem(data, id) {
+  try {
+    let indexItemToDelete = data.indexOf(findItemById(data, id));
+
+    // Delete only one element staring from this index
+    data.splice(indexItemToDelete, 1);
+  } catch (e) {
+    console.log(e);
+  }
+}
+deleteItem(VINTED, UUID_TO_FIND);
+console.table(VINTED);
+
 // 🎯 TODO 5: Save a favorite item
 // We declare and assign a variable called `sealedCamera`
 let sealedCamera = {
