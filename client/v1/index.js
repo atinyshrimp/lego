@@ -65,7 +65,14 @@ console.log(`number of communities: ${uniqueCommunities.length}`);
 // 2. Create a variable and assign it the list of sets by price from lowest to highest
 // 3. Log the variable
 
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+/** Sorts an array of deals by their `price` property.
+ *
+ * @param {Array} deals - The list of deal objects to be sorted.
+ * @param {boolean} ascending - Whether to sort in ascending order. Defaults to `true`.
+ * @returns {Array} A new array of deals sorted by price.
+ *
+ * @see {@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort|Reference} for sorting functionality.
+ */
 function sortDealsByPrice(deals, ascending = true) {
   try {
     return deals.sort((a, b) =>
@@ -85,7 +92,14 @@ console.table(dealsAscendingPrices);
 // 2. Create a variable and assign it the list of deals by date from recent to old
 // 3. Log the variable
 
-// https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/parse
+/** Sorts an array of deals by their `published` date.
+ *
+ * @param {Array} deals - The list of deal objects to be sorted.
+ * @param {boolean} chronological - Whether to sort in chronological order (oldest to most recent). Defaults to `false` (most recent to oldest).
+ * @returns {Array} A new array of deals sorted by the `published` date.
+ *
+ * @see {@link https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/parse|Reference} for using dates.
+ */
 function sortDealsByDate(deals, chronological = false) {
   try {
     return deals.sort(
@@ -98,6 +112,7 @@ function sortDealsByDate(deals, chronological = false) {
     console.log(e);
   }
 }
+
 var dealsDescendingDates = sortDealsByDate(deals);
 console.table(dealsDescendingDates);
 
@@ -105,6 +120,14 @@ console.table(dealsDescendingDates);
 // 1. Filter the list of deals between 50% and 75%
 // 2. Log the list
 
+/** Filters the deals based on a discount percentage range.
+ *
+ * @param {number} [rangeBeg = 0] - The beginning of the discount range (inclusive). Must be between 0 and 100. Defaults to 0.
+ * @param {number} [rangeEnd = 100] - The end of the discount range (inclusive). Must be between 0 and 100. Defaults to 100.
+ * @returns {Array} A new array of deals that have a discount within the specified range.
+ * @throws {RangeError} If `rangeBeg` is greater than or equal to `rangeEnd`.
+ * @throws {RangeError} If `rangeBeg` or `rangeEnd` is outside the allowed range (0 to 100).
+ */
 function filterDeals(rangeBeg = 0, rangeEnd = 100) {
   try {
     if (rangeBeg >= 0 && rangeEnd <= 100) {
@@ -130,6 +153,12 @@ console.table(filteredDeals);
 // 1. Determine the average percentage discount of the deals
 // 2. Log the average
 
+/** Calculates the average discount percentage from a list of deals.
+ *
+ * @param {Array} deals - The list of deal objects to process.
+ * @returns {number} The average discount percentage, rounded to two decimal places.
+ * @throws {Error} If any error occurs during calculation.
+ */
 function getDiscountAverage(deals) {
   try {
     // Filter out deals that have a valid discount and calculate the sum of their discounts
@@ -454,6 +483,12 @@ console.table(VINTED);
 // The p95 value (95th percentile) is the lower value expected to be exceeded in 95% of the vinted items
 
 // Average
+/** Calculates the average price from a list of deals.
+ *
+ * @param {Array} data - The list of deal objects to process.
+ * @returns {number} The average price, rounded to two decimal places.
+ * @throws {Error} If any error occurs during the calculation.
+ */
 function getPriceAverage(data) {
   try {
     // Filter out deals that have a valid price and calculate the sum of their prices
@@ -475,12 +510,13 @@ function getPriceAverage(data) {
 var vintedAverage = getPriceAverage(VINTED);
 console.log(`Average price on Vinted: €${vintedAverage}`);
 
-// Function to compute percentiles, adapted from:
-// https://snippets.bentasker.co.uk/page-1907020841-Calculating-Mean,-Median,-Mode,-Range-and-Percentiles-with-Javascript-Javascript.html
 /** Calculate the 'q' quartile of an array of values
  *
  * @param arr - array of values
  * @param q - percentile to calculate (e.g. 95)
+ *
+ * @see {@link https://snippets.bentasker.co.uk/page-1907020841-Calculating-Mean,-Median,-Mode,-Range-and-Percentiles-with-Javascript-Javascript.html|Original source} for the quartile calculation method.
+ *
  */
 function calcQuartile(arr, q) {
   let a = arr.slice();
@@ -520,27 +556,41 @@ console.log(`Price's 99th percentile: €${p99Price}`);
 // // 1. Log if we have very old items (true or false)
 // // A very old item is an item `released` more than 3 weeks ago.
 
+/** Checks whether an item is considered "old" (released more than 3 weeks ago).
+ *
+ * @param {Object} item - The item to check. Must have a `released` property in a date string format.
+ * @param {string} item.released - The release date of the item, formatted as a string (e.g., "2024-09-01").
+ * @returns {boolean} `true` if the item is older than 3 weeks, `false` otherwise.
+ * @throws {Error} If an error occurs while parsing the date.
+ */
 function isOldItem(item) {
   try {
     let today = Date.now();
-    let spanFor3Weeks = 60 * 60 * 24 * 21 * 1e3;
+    let spanFor3Weeks = 60 * 60 * 24 * 21 * 1e3; // 60 seconds * 60 minutes * 24 hours * 21 days * 1000 milliseconds (1e3)
     return today - Date.parse(item.released) > spanFor3Weeks;
   } catch (e) {
     console.log(e);
   }
 }
 
-console.log("Is Sept. 1st, 2024 considered old: ");
-console.log(
-  isOldItem({
-    title: "",
-    link: "",
-    price: 0,
-    released: "2024-09-01",
-    uuid: "",
-  })
-);
+// console.log("Is Sept. 1st, 2024 considered old: ");
+// console.log(
+//   isOldItem({
+//     title: "",
+//     link: "",
+//     price: 0,
+//     released: "2024-09-01",
+//     uuid: "",
+//   })
+// );
 
+/** Checks whether an array of deals contains any "old" items (released more than 3 weeks ago).
+ *
+ * @param {Array} data - An array of deal objects to check.
+ * @param {Object} data[].released - Each deal must have a `released` property in a date string format.
+ * @returns {boolean} `true` if any deal is older than 3 weeks, `false` otherwise.
+ * @throws {Error} If any error occurs during the check.
+ */
 function containsOldItems(data) {
   try {
     return data.some((deal) => isOldItem(deal));
@@ -557,6 +607,15 @@ console.log(
 // 1. Find the item with the uuid `f2c5377c-84f9-571d-8712-98902dcbb913`
 // 2. Log the item
 
+const UUID_TO_FIND = "f2c5377c-84f9-571d-8712-98902dcbb913";
+
+/** Finds and returns a deal by its UUID.
+ *
+ * @param {Array} data - An array of deal objects.
+ * @param {string} id - The UUID of the deal to find.
+ * @returns {Object|undefined} The deal object if found, or `undefined` if no deal matches the UUID.
+ * @throws {Error} If an error occurs during the search.
+ */
 function findItemById(data, id) {
   try {
     return data.find((deal) => deal.uuid == id);
@@ -565,7 +624,6 @@ function findItemById(data, id) {
   }
 }
 
-const UUID_TO_FIND = "f2c5377c-84f9-571d-8712-98902dcbb913";
 console.log(`Item with id "${UUID_TO_FIND}":`);
 console.log(findItemById(VINTED, UUID_TO_FIND));
 
@@ -573,6 +631,12 @@ console.log(findItemById(VINTED, UUID_TO_FIND));
 // 1. Delete the item with the uuid `f2c5377c-84f9-571d-8712-98902dcbb913`
 // 2. Log the new list of items
 
+/** Deletes a deal from the array by its UUID.
+ *
+ * @param {Array} data - An array of deal objects.
+ * @param {string} id - The UUID of the deal to delete.
+ * @throws {Error} If the item cannot be found or if an error occurs during deletion.
+ */
 function deleteItem(data, id) {
   try {
     let indexItemToDelete = data.indexOf(findItemById(data, id));
@@ -583,6 +647,7 @@ function deleteItem(data, id) {
     console.log(e);
   }
 }
+
 deleteItem(VINTED, UUID_TO_FIND);
 console.table(VINTED);
 
@@ -636,6 +701,15 @@ const deal = {
 
 // 1. Compute the potential highest profitability based on the VINTED items
 // 2. Log the value
+
+/** Finds the highest profitability of a given item compared to other deals.
+ *
+ * @param {Array} data - An array of deal objects to compare.
+ * @param {Object} item - The reference item to compute profitability for. Must have a `legoId` and `price` property.
+ * @param {string} item.legoId - The identifier of the item (e.g., the LEGO set ID).
+ * @param {number} item.price - The purchase price of the item.
+ * @returns {number} The highest profitability, rounded to two decimal places.
+ */
 function findHighestProfitability(data, item) {
   // Get items referencing the right Lego set
   let matchingItems = data.filter((deal) => deal.title.includes(item.legoId));
