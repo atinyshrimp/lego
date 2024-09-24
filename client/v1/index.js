@@ -520,6 +520,39 @@ console.log(`Price's 99th percentile: €${p99Price}`);
 // // 1. Log if we have very old items (true or false)
 // // A very old item is an item `released` more than 3 weeks ago.
 
+function isOldItem(item) {
+  try {
+    let today = Date.now();
+    let spanFor3Weeks = 60 * 60 * 24 * 21 * 1e3;
+    return today - Date.parse(item.released) > spanFor3Weeks;
+  } catch (e) {
+    console.log(e);
+  }
+}
+
+console.log("Is Sept. 1st, 2024 considered old: ");
+console.log(
+  isOldItem({
+    title: "",
+    link: "",
+    price: 0,
+    released: "2024-09-01",
+    uuid: "",
+  })
+);
+
+function containsOldItems(data) {
+  try {
+    return data.some((deal) => isOldItem(deal));
+  } catch (e) {
+    console.log(e);
+  }
+}
+
+console.log(
+  `Data contains deals older than 3 weeks: ${containsOldItems(VINTED)}`
+);
+
 // 🎯 TODO 13: Find a specific item
 // 1. Find the item with the uuid `f2c5377c-84f9-571d-8712-98902dcbb913`
 // 2. Log the item
