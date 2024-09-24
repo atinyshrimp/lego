@@ -586,7 +586,7 @@ function deleteItem(data, id) {
 deleteItem(VINTED, UUID_TO_FIND);
 console.table(VINTED);
 
-// 🎯 TODO 5: Save a favorite item
+// 🎯 TODO 15: Save a favorite item
 // We declare and assign a variable called `sealedCamera`
 let sealedCamera = {
   title: "La caméra Hommage à Walt Disney lego set 43230",
@@ -603,7 +603,11 @@ let camera = sealedCamera;
 camera.favorite = true;
 
 // 1. Log `sealedCamera` and `camera` variables
+console.log(sealedCamera);
+console.log(camera);
+
 // 2. What do you notice?
+// `camera` also has its "favorite" property set to true...
 
 // we make (again) a new assignment again
 sealedCamera = {
@@ -615,8 +619,13 @@ sealedCamera = {
 };
 
 // 3. Update `camera` property with `favorite` to true WITHOUT changing sealedCamera properties
+// Copy all the properties with spread syntax, and add `favorite`
+camera = { ...sealedCamera, favorite: true };
 
-// 🎯 TODO 11: Compute the profitability
+console.log(sealedCamera);
+console.log(camera);
+
+// 🎯 TODO 16: Compute the profitability
 // From a specific deal called `deal`
 const deal = {
   title: "La caméra Hommage à Walt Disney",
