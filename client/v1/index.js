@@ -194,6 +194,20 @@ Object.keys(communities).forEach((community) => {
 // 1. For each community, sort the deals by discount price, from highest to lowest
 // 2. Log the sort
 
+// Copy the `communities` variable
+var sortedCommunities = communities;
+
+// Use the created function to sort each community
+Object.keys(sortedCommunities).forEach((community) => {
+  sortedCommunities[community] = sortDealsByPrice(
+    sortedCommunities[community],
+    false
+  );
+});
+
+// Log the sorted communities
+console.log(sortedCommunities);
+
 // 🎯 TODO 10: Sort by date for each community
 // 1. For each set, sort the deals by date, from old to recent
 // 2. Log the sort
