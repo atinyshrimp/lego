@@ -215,6 +215,20 @@ console.log(sortedCommunities);
 // 1. For each set, sort the deals by date, from old to recent
 // 2. Log the sort
 
+// Copy the `communities` constant
+var sortedCommunitiesPerDate = communities;
+
+// Sort the communities
+Object.keys(sortedCommunitiesPerDate).forEach((community) => {
+  sortedCommunitiesPerDate[community] = sortDealsByDate(
+    sortedCommunitiesPerDate[community],
+    true
+  );
+});
+
+// Log the sort
+console.log(sortedCommunitiesPerDate);
+
 /**
  * 🧥
  * Cool for your effort.
