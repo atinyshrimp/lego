@@ -86,10 +86,13 @@ console.table(dealsAscendingPrices);
 // 3. Log the variable
 
 // https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/parse
-function sortDealsByDate(deals) {
+function sortDealsByDate(deals, chronological = false) {
   try {
     return deals.sort(
-      (a, b) => Date.parse(b["published"]) - Date.parse(a["published"]) // descending order
+      (a, b) =>
+        chronological
+          ? Date.parse(a["published"]) - Date.parse(b["published"]) // oldest to most recent
+          : Date.parse(b["published"]) - Date.parse(a["published"]) // most recent to oldest
     );
   } catch (e) {
     console.log(e);
