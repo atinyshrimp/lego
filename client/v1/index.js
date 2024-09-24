@@ -444,11 +444,77 @@ const VINTED = [
  * 💶
  */
 
+console.log("Deals on VINTED:");
+console.table(VINTED);
+
 // 🎯 TODO 11: Compute the average, the p95 and the p99 price value
 // 1. Compute the average price value of the listing
 // 2. Compute the p95 price value of the listing
 // 3. Compute the p99 price value of the listing
 // The p95 value (95th percentile) is the lower value expected to be exceeded in 95% of the vinted items
+
+// Average
+function getPriceAverage(data) {
+  try {
+    // Filter out deals that have a valid price and calculate the sum of their prices
+    let totalPrice = data
+      .filter((deal) => deal.price !== null) // Remove deals without a price
+      .reduce((sum, deal) => sum + deal.price, 0); // Sum all the prices
+
+    // Count the number of deals that have a valid price
+    let countDeals = data.filter((deal) => deal.price !== null).length;
+
+    // Calculate and return the average price
+    let averagePrice = totalPrice / countDeals;
+    return Number(averagePrice.toFixed(2)); // Round the average to the 100th
+  } catch (e) {
+    console.log(e);
+  }
+}
+
+var vintedAverage = getPriceAverage(VINTED);
+console.log(`Average price on Vinted: €${vintedAverage}`);
+
+// Function to compute percentiles, adapted from:
+// https://snippets.bentasker.co.uk/page-1907020841-Calculating-Mean,-Median,-Mode,-Range-and-Percentiles-with-Javascript-Javascript.html
+/** Calculate the 'q' quartile of an array of values
+ *
+ * @param arr - array of values
+ * @param q - percentile to calculate (e.g. 95)
+ */
+function calcQuartile(arr, q) {
+  let a = arr.slice();
+  // Turn q into a decimal (e.g. 95 becomes 0.95)
+  q = q / 100;
+
+  // Sort the array into ascending order
+  let data = sortDealsByPrice(a, true);
+
+  // Work out the position in the array of the percentile point
+  let p = (data.length - 1) * q;
+  let b = Math.floor(p);
+
+  // Work out what we rounded off (if anything)
+  let remainder = p - b;
+
+  // See whether that data exists directly
+  if (data[b + 1].price !== undefined) {
+    return (
+      parseFloat(data[b].price) +
+      remainder * (parseFloat(data[b + 1].price) - parseFloat(data[b].price))
+    );
+  } else {
+    return parseFloat(data[b].price);
+  }
+}
+
+// 95th percentile price value
+var p95Price = calcQuartile(VINTED, 95);
+console.log(`Price's 95th percentile: €${p95Price}`);
+
+// 99th percentile price value
+var p99Price = calcQuartile(VINTED, 99);
+console.log(`Price's 99th percentile: €${p99Price}`);
 
 // 🎯 TODO 12: Very old listed items
 // // 1. Log if we have very old items (true or false)
