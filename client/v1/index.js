@@ -607,7 +607,7 @@ console.log(sealedCamera);
 console.log(camera);
 
 // 2. What do you notice?
-// `camera` also has its "favorite" property set to true...
+// `sealedCamera` also has its "favorite" property set to true...
 
 // we make (again) a new assignment again
 sealedCamera = {
@@ -636,6 +636,24 @@ const deal = {
 
 // 1. Compute the potential highest profitability based on the VINTED items
 // 2. Log the value
+function findHighestProfitability(data, item) {
+  // Get items referencing the right Lego set
+  let matchingItems = data.filter((deal) => deal.title.includes(item.legoId));
+
+  // Get the highest resale price
+  const highestResalePrice = Math.max(
+    ...matchingItems.map((item) => item.price)
+  );
+
+  // Compute profitability
+  return Number((highestResalePrice - item.price).toFixed(2));
+}
+
+console.log(
+  `Highest profitability for Lego ${
+    deal.legoId
+  } amongst VINTED deals: €${findHighestProfitability(VINTED, deal)}`
+);
 
 /**
  * 🎬
