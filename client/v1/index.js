@@ -105,12 +105,12 @@ console.table(dealsDescendingDates);
 // 1. Filter the list of deals between 50% and 75%
 // 2. Log the list
 
-function filterDeals(rangeBeg = 50, rangeEnd = 75) {
+function filterDeals(rangeBeg = 0, rangeEnd = 100) {
   try {
     if (rangeBeg >= 0 && rangeEnd <= 100) {
       if (rangeBeg < rangeEnd) {
         return deals.filter(
-          (deal) => deal["discount"] >= 50 && deal["discount"] <= 75
+          (deal) => deal["discount"] >= rangeBeg && deal["discount"] <= rangeEnd
         );
       } else {
         throw new RangeError("rangeBeg has to be lesser than rangeEnd");
@@ -123,7 +123,7 @@ function filterDeals(rangeBeg = 50, rangeEnd = 75) {
   }
 }
 
-var filteredDeals = filterDeals();
+var filteredDeals = filterDeals(50, 75);
 console.table(filteredDeals);
 
 // 🎯 TODO 7: Average percentage discount
