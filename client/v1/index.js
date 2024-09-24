@@ -629,8 +629,8 @@ console.log(camera);
 // From a specific deal called `deal`
 const deal = {
   title: "La caméra Hommage à Walt Disney",
-  retail: 75.98,
-  price: 56.98,
+  retail: 75.98, // prix de base
+  price: 56.98, // prix d'achat sur revendeur
   legoId: "43230",
 };
 
