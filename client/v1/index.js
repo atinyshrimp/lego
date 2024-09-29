@@ -55,7 +55,7 @@ console.log(`number of deals: ${nbDeals}`);
 // 3. Log how many shopping communities we have
 
 var uniqueCommunities = Array.from(
-  new Set(deals.map((deal) => deal["community"])) // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+  new Set(deals.map((deal) => deal.community)) // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 );
 console.log(uniqueCommunities);
 console.log(`number of communities: ${uniqueCommunities.length}`);
@@ -105,8 +105,8 @@ function sortDealsByDate(deals, chronological = false) {
     return deals.sort(
       (a, b) =>
         chronological
-          ? Date.parse(a["published"]) - Date.parse(b["published"]) // oldest to most recent
-          : Date.parse(b["published"]) - Date.parse(a["published"]) // most recent to oldest
+          ? Date.parse(a.published) - Date.parse(b.published) // oldest to most recent
+          : Date.parse(b.published) - Date.parse(a.published) // most recent to oldest
     );
   } catch (e) {
     console.log(e);
@@ -133,7 +133,7 @@ function filterDeals(rangeBeg = 0, rangeEnd = 100) {
     if (rangeBeg >= 0 && rangeEnd <= 100) {
       if (rangeBeg < rangeEnd) {
         return deals.filter(
-          (deal) => deal["discount"] >= rangeBeg && deal["discount"] <= rangeEnd
+          (deal) => deal.discount >= rangeBeg && deal.discount <= rangeEnd
         );
       } else {
         throw new RangeError("rangeBeg has to be lesser than rangeEnd");
