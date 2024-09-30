@@ -145,10 +145,26 @@ const render = (deals, pagination) => {
  * Select the number of deals to display
  */
 selectShow.addEventListener("change", async (event) => {
-  const deals = await fetchDeals(
-    currentPagination.currentPage,
-    parseInt(event.target.value)
-  );
+  const newPageSize = parseInt(event.target.value);
+  const maxPage =
+    Math.trunc(currentDeals.length / currentPagination.pageSize) + 1;
+  const newPage =
+    currentPagination.currentPage <= maxPage
+      ? currentPagination.currentPage
+      : maxPage;
+
+  const deals = await fetchDeals(newPage, newPageSize);
+
+  setCurrentDeals(deals);
+  render(currentDeals, currentPagination);
+});
+
+/**
+ * Select the page number to display
+ */
+selectPage.addEventListener("change", async (event) => {
+  const page = parseInt(event.target.value);
+  const deals = await fetchDeals(page, selectShow.value);
 
   setCurrentDeals(deals);
   render(currentDeals, currentPagination);
