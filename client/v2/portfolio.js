@@ -171,29 +171,27 @@ selectPage.addEventListener("change", async (event) => {
 });
 
 let filters = document.querySelector("#filters");
-Array.from(filters.querySelectorAll("span")).map((filterOption) => {
+filters.querySelectorAll("span").forEach((filterOption) => {
   filterOption.addEventListener("click", async (event) => {
     let filteredDeals;
+
+    // Fetch all deals first (assuming we are fetching all available data)
     const allDeals = await fetchDeals(1, currentPagination.count);
     setCurrentDeals(allDeals);
-    console.table(currentDeals);
-    // console.log(filterOption.innerHTML);
-    switch (filterOption.innerHTML) {
-      case "By best discount":
-        filteredDeals = filterDeals(currentDeals, 50);
-        console.table(filteredDeals);
-        break;
-      case "By most commented":
-        break;
-      case "By hot deals":
-        break;
+
+    // Apply the filter based on the filter option selected
+    if (filterOption.innerHTML === "By best discount") {
+      filteredDeals = filterDeals(currentDeals, 50);
     }
 
-    let dealsToDisplay =
-      filteredDeals != undefined ? filteredDeals : currentDeals;
-    currentPagination.pageCount = 1;
-    setCurrentDeals(dealsToDisplay);
-    render(dealsToDisplay, currentPagination);
+    // If filteredDeals exist, update the UI with the filtered results
+    if (filteredDeals) {
+      setCurrentDeals({
+        result: filteredDeals,
+        meta: { currentPage: 1, pageCount: 1 },
+      });
+      render(filteredDeals, currentPagination);
+    }
   });
 });
 
