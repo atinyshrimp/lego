@@ -18,7 +18,7 @@ const getIdsFromDeals = (deals) => {
  * @throws {RangeError} If `rangeBeg` is greater than or equal to `rangeEnd`.
  * @throws {RangeError} If `rangeBeg` or `rangeEnd` is outside the allowed range (0 to 100).
  */
-function filterDeals(data, rangeBeg = 0, rangeEnd = 100) {
+function filterDealsByDiscount(data, rangeBeg = 0, rangeEnd = 100) {
   try {
     if (rangeBeg >= 0 && rangeEnd <= 100) {
       if (rangeBeg < rangeEnd) {
@@ -31,6 +31,14 @@ function filterDeals(data, rangeBeg = 0, rangeEnd = 100) {
     } else {
       throw new RangeError("input discount has to be between 0 and 100");
     }
+  } catch (e) {
+    console.log(e);
+  }
+}
+
+function filterDealsByComments(data, limit = 15) {
+  try {
+    return data.filter((deal) => deal.comments >= limit);
   } catch (e) {
     console.log(e);
   }

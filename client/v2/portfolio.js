@@ -160,7 +160,7 @@ selectShow.addEventListener("change", async (event) => {
 });
 
 /**
- * Select the page number to display
+ * Feature 1 - Browse pages
  */
 selectPage.addEventListener("change", async (event) => {
   const page = parseInt(event.target.value);
@@ -170,6 +170,9 @@ selectPage.addEventListener("change", async (event) => {
   render(currentDeals, currentPagination);
 });
 
+/**
+ * Feature 2 - Filter by best discount
+ */
 let filters = document.querySelector("#filters");
 filters.querySelectorAll("span").forEach((filterOption) => {
   filterOption.addEventListener("click", async (event) => {
@@ -180,8 +183,18 @@ filters.querySelectorAll("span").forEach((filterOption) => {
     setCurrentDeals(allDeals);
 
     // Apply the filter based on the filter option selected
-    if (filterOption.innerHTML === "By best discount") {
-      filteredDeals = filterDeals(currentDeals, 50);
+    switch (filterOption.innerHTML) {
+      case "By best discount":
+        filteredDeals = filterDealsByDiscount(currentDeals, 50);
+        break;
+
+      case "By most commented":
+        filteredDeals = filterDealsByComments(currentDeals, 15);
+        break;
+
+      default:
+        filteredDeals = currentDeals; // Default, no filtering
+        break;
     }
 
     // If filteredDeals exist, update the UI with the filtered results
