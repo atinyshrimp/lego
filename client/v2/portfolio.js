@@ -45,7 +45,7 @@ const setCurrentDeals = ({ result, meta }) => {
 /**
  * Fetch deals from api
  * @param  {Number}  [page=1] - current page to fetch
- * @param  {Number}  [size=12] - size of the page
+ * @param  {Number}  [size=6] - size of the page
  * @return {Object}
  */
 const fetchDeals = async (page = 1, size = 6) => {
@@ -171,7 +171,7 @@ selectPage.addEventListener("change", async (event) => {
 });
 
 /**
- * Feature 2 - Filter by best discount
+ * Filter Features
  */
 let filters = document.querySelector("#filters");
 filters.querySelectorAll("span").forEach((filterOption) => {
@@ -184,12 +184,16 @@ filters.querySelectorAll("span").forEach((filterOption) => {
 
     // Apply the filter based on the filter option selected
     switch (filterOption.innerHTML) {
-      case "By best discount":
+      case "By best discount": // Feature 2 - Filter by best discount
         filteredDeals = filterDealsByDiscount(currentDeals, 50);
         break;
 
-      case "By most commented":
-        filteredDeals = filterDealsByComments(currentDeals, 15);
+      case "By most commented": // Feature 3 - Filter by most commented
+        filteredDeals = filterDealsByComments(currentDeals);
+        break;
+
+      case "By hot deals": // Feature 4 - Filter by hot deals
+        filteredDeals = filterDealsByTemperature(currentDeals);
         break;
 
       default:
@@ -197,14 +201,25 @@ filters.querySelectorAll("span").forEach((filterOption) => {
         break;
     }
 
-    // If filteredDeals exist, update the UI with the filtered results
-    if (filteredDeals) {
-      setCurrentDeals({
-        result: filteredDeals,
-        meta: { currentPage: 1, pageCount: 1 },
-      });
-      render(filteredDeals, currentPagination);
-    }
+    // Paginate the filtered deals before rendering
+    const paginatedDeals = paginateDeals(
+      filteredDeals,
+      currentPagination.currentPage,
+      selectShow.value
+    );
+
+    // Update pagination meta for filtered results
+    const filteredPagination = {
+      currentPage: 1,
+      pageCount: Math.ceil(filteredDeals.length / parseInt(selectShow.value)),
+      pageSize: parseInt(selectShow.value),
+      count: filteredDeals.length,
+    };
+
+    // Render paginated filtered deals
+    setCurrentDeals({ result: paginatedDeals, meta: filteredPagination });
+    render(currentDeals, currentPagination);
+    console.table(currentPagination);
   });
 });
 
