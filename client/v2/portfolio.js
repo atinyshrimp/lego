@@ -170,6 +170,33 @@ selectPage.addEventListener("change", async (event) => {
   render(currentDeals, currentPagination);
 });
 
+let filters = document.querySelector("#filters");
+Array.from(filters.querySelectorAll("span")).map((filterOption) => {
+  filterOption.addEventListener("click", async (event) => {
+    let filteredDeals;
+    const allDeals = await fetchDeals(1, currentPagination.count);
+    setCurrentDeals(allDeals);
+    console.table(currentDeals);
+    // console.log(filterOption.innerHTML);
+    switch (filterOption.innerHTML) {
+      case "By best discount":
+        filteredDeals = filterDeals(currentDeals, 50);
+        console.table(filteredDeals);
+        break;
+      case "By most commented":
+        break;
+      case "By hot deals":
+        break;
+    }
+
+    let dealsToDisplay =
+      filteredDeals != undefined ? filteredDeals : currentDeals;
+    currentPagination.pageCount = 1;
+    setCurrentDeals(dealsToDisplay);
+    render(dealsToDisplay, currentPagination);
+  });
+});
+
 document.addEventListener("DOMContentLoaded", async () => {
   const deals = await fetchDeals();
 
