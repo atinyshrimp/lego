@@ -30,6 +30,7 @@ const selectShow = document.querySelector("#show-select");
 const selectPage = document.querySelector("#page-select");
 const selectLegoSetIds = document.querySelector("#lego-set-id-select");
 const sectionDeals = document.querySelector("#deals");
+const sectionSales = document.querySelector("#sales");
 const spanNbDeals = document.querySelector("#nbDeals");
 const filters = document.querySelector("#filters");
 const selectSort = document.querySelector("#sort-select");
@@ -69,6 +70,31 @@ const fetchDeals = async (page = 1, size = 6) => {
   }
 };
 
+/** Fetch sales from API
+ *
+ * @param {String} id - The ID of the lego set to look up
+ * @returns A list of Vinted sales for the `id`
+ */
+const fetchSales = async (id) => {
+  try {
+    const response = await fetch(
+      `https://lego-api-blue.vercel.app/sales?id=${id}`
+    );
+    const body = await response.json();
+
+    if (body.success !== true) {
+      console.error(body);
+      return null;
+    }
+
+    console.log(body.data.result);
+    return body.data.result;
+  } catch (error) {
+    console.error(error);
+    return null;
+  }
+};
+
 /**
  * Render list of deals
  * @param  {Array} deals
@@ -92,6 +118,31 @@ const renderDeals = (deals) => {
   fragment.appendChild(div);
   sectionDeals.innerHTML = "<h2>Deals</h2>";
   sectionDeals.appendChild(fragment);
+};
+
+/** Render list of Vinted sales
+ *
+ * @param {Array} sales
+ */
+const renderSales = (sales) => {
+  const fragment = document.createDocumentFragment();
+  const div = document.createElement("div");
+  const template = sales
+    .map((sale) => {
+      return `
+      <div class="sale" id=${sale.uuid}>
+        <span>${selectLegoSetIds.value}</span>
+        <a href="${sale.link}">${sale.title}</a>
+        <span>${sale.price}</span>
+      </div>
+    `;
+    })
+    .join("");
+
+  div.innerHTML = template;
+  fragment.appendChild(div);
+  sectionSales.innerHTML = "<h2>Vinted Sales</h2>";
+  sectionSales.appendChild(fragment);
 };
 
 /**
@@ -132,11 +183,35 @@ const renderIndicators = (pagination) => {
   spanNbDeals.innerHTML = count;
 };
 
-const render = (deals, pagination) => {
+const render = async (deals, pagination) => {
   renderDeals(deals);
   renderPagination(pagination);
   renderIndicators(pagination);
   renderLegoSetIds(deals);
+};
+
+const renderPaginatedDeals = (deals) => {
+  // Paginate the new deals before rendering
+  const paginatedDeals = paginateDeals(
+    deals,
+    currentPagination.currentPage,
+    selectShow.value
+  );
+
+  // Update pagination meta for new results
+  const newPagination = {
+    currentPage: 1,
+    pageCount: Math.ceil(deals.length / parseInt(selectShow.value)),
+    pageSize: parseInt(selectShow.value),
+    count: deals.length,
+  };
+
+  setCurrentDeals({
+    result: paginatedDeals,
+    meta: newPagination,
+  });
+
+  render(currentDeals, currentPagination);
 };
 
 /**
@@ -174,7 +249,7 @@ filters.querySelectorAll("span").forEach((filterOption) => {
     let filteredDeals;
 
     // Fetch all deals first (assuming we are fetching all available data)
-    const allDeals = fetchDeals(1, currentPagination.count);
+    const allDeals = await fetchDeals(1, currentPagination.count);
     setCurrentDeals(allDeals);
     console.table(currentDeals);
 
@@ -200,25 +275,7 @@ filters.querySelectorAll("span").forEach((filterOption) => {
         break;
     }
 
-    // Paginate the filtered deals before rendering
-    const paginatedDeals = paginateDeals(
-      filteredDeals,
-      currentPagination.currentPage,
-      selectShow.value
-    );
-
-    // Update pagination meta for filtered results
-    const filteredPagination = {
-      currentPage: 1,
-      pageCount: Math.ceil(filteredDeals.length / parseInt(selectShow.value)),
-      pageSize: parseInt(selectShow.value),
-      count: filteredDeals.length,
-    };
-
-    // Render paginated filtered deals
-    setCurrentDeals({ result: paginatedDeals, meta: filteredPagination });
-    render(currentDeals, currentPagination);
-    console.table(currentPagination);
+    renderPaginatedDeals(filteredDeals);
   });
 });
 
@@ -229,27 +286,14 @@ selectSort.addEventListener("change", async (event) => {
   setCurrentDeals(allDeals);
   let sortedDeals = sortDeals(currentDeals, event.target.value);
 
-  // Paginate the sorted deals before rendering
-  const paginatedDeals = paginateDeals(
-    sortedDeals,
-    currentPagination.currentPage,
-    selectShow.value
-  );
+  renderPaginatedDeals(sortedDeals);
+});
 
-  // Update pagination meta for sorted results
-  const sortedPagination = {
-    currentPage: 1,
-    pageCount: Math.ceil(sortedDeals.length / parseInt(selectShow.value)),
-    pageSize: parseInt(selectShow.value),
-    count: sortedDeals.length,
-  };
-
-  setCurrentDeals({
-    result: paginatedDeals,
-    meta: sortedPagination,
-  });
-
-  render(currentDeals, currentPagination);
+// Feature 7 - Display Vinted sales
+selectLegoSetIds.addEventListener("change", async (event) => {
+  const selectedSet = event.target.value;
+  const vintedSales = await fetchSales(selectedSet);
+  renderSales(vintedSales);
 });
 
 document.addEventListener("DOMContentLoaded", async () => {

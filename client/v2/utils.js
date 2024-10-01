@@ -7,7 +7,7 @@
  * @returns {Array} list of lego set ids
  */
 const getIdsFromDeals = (deals) => {
-  return deals.map((deal) => deal.id);
+  return Array.from(new Set(deals.map((deal) => deal.id)));
 };
 
 /** Filters the deals based on a discount percentage range.
