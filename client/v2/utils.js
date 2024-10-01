@@ -76,3 +76,26 @@ function paginateDeals(deals, page = 1, size = 6) {
   const endIndex = startIndex + size;
   return deals.slice(startIndex, endIndex);
 }
+
+/** Sorts an array of deals by their `price` property.
+ *
+ * @param {Array} deals - The list of deal objects to be sorted.
+ * @param {String} selectValue - Name of the property according to which the sorting must be made.
+ * @returns {Array} A new array of deals sorted by the property given by `selectedValue`.
+ *
+ * @see {@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort|Reference} for sorting functionality.
+ */
+function sortDeals(deals, selectValue) {
+  try {
+    const splittedValue = selectValue.split("-");
+    const ascending = splittedValue[1] === "asc" ? true : false;
+    let propName = splittedValue[0];
+    propName = propName === "date" ? "published" : propName;
+
+    return deals.sort((a, b) =>
+      ascending ? a[propName] - b[propName] : b[propName] - a[propName]
+    );
+  } catch (e) {
+    console.log(e);
+  }
+}

@@ -31,6 +31,8 @@ const selectPage = document.querySelector("#page-select");
 const selectLegoSetIds = document.querySelector("#lego-set-id-select");
 const sectionDeals = document.querySelector("#deals");
 const spanNbDeals = document.querySelector("#nbDeals");
+const filters = document.querySelector("#filters");
+const selectSort = document.querySelector("#sort-select");
 
 /**
  * Set global value
@@ -141,9 +143,7 @@ const render = (deals, pagination) => {
  * Declaration of all Listeners
  */
 
-/**
- * Select the number of deals to display
- */
+// Select the number of deals to display
 selectShow.addEventListener("change", async (event) => {
   const newPageSize = parseInt(event.target.value);
   const maxPage =
@@ -159,9 +159,7 @@ selectShow.addEventListener("change", async (event) => {
   render(currentDeals, currentPagination);
 });
 
-/**
- * Feature 1 - Browse pages
- */
+// Feature 1 - Browse pages
 selectPage.addEventListener("change", async (event) => {
   const page = parseInt(event.target.value);
   const deals = await fetchDeals(page, selectShow.value);
@@ -170,29 +168,30 @@ selectPage.addEventListener("change", async (event) => {
   render(currentDeals, currentPagination);
 });
 
-/**
- * Filter Features
- */
-let filters = document.querySelector("#filters");
+// Filter Features
 filters.querySelectorAll("span").forEach((filterOption) => {
-  filterOption.addEventListener("click", async (event) => {
+  filterOption.addEventListener("click", async () => {
     let filteredDeals;
 
     // Fetch all deals first (assuming we are fetching all available data)
-    const allDeals = await fetchDeals(1, currentPagination.count);
+    const allDeals = fetchDeals(1, currentPagination.count);
     setCurrentDeals(allDeals);
+    console.table(currentDeals);
 
     // Apply the filter based on the filter option selected
     switch (filterOption.innerHTML) {
-      case "By best discount": // Feature 2 - Filter by best discount
+      // Feature 2 - Filter by best discount
+      case "By best discount":
         filteredDeals = filterDealsByDiscount(currentDeals, 50);
         break;
 
-      case "By most commented": // Feature 3 - Filter by most commented
+      // Feature 3 - Filter by most commented
+      case "By most commented":
         filteredDeals = filterDealsByComments(currentDeals);
         break;
 
-      case "By hot deals": // Feature 4 - Filter by hot deals
+      // Feature 4 - Filter by hot deals
+      case "By hot deals":
         filteredDeals = filterDealsByTemperature(currentDeals);
         break;
 
@@ -221,6 +220,36 @@ filters.querySelectorAll("span").forEach((filterOption) => {
     render(currentDeals, currentPagination);
     console.table(currentPagination);
   });
+});
+
+/** Sorting */
+selectSort.addEventListener("change", async (event) => {
+  // Fetch all deals first (assuming we are fetching all available data)
+  const allDeals = await fetchDeals(1, currentPagination.count);
+  setCurrentDeals(allDeals);
+  let sortedDeals = sortDeals(currentDeals, event.target.value);
+
+  // Paginate the sorted deals before rendering
+  const paginatedDeals = paginateDeals(
+    sortedDeals,
+    currentPagination.currentPage,
+    selectShow.value
+  );
+
+  // Update pagination meta for sorted results
+  const sortedPagination = {
+    currentPage: 1,
+    pageCount: Math.ceil(sortedDeals.length / parseInt(selectShow.value)),
+    pageSize: parseInt(selectShow.value),
+    count: sortedDeals.length,
+  };
+
+  setCurrentDeals({
+    result: paginatedDeals,
+    meta: sortedPagination,
+  });
+
+  render(currentDeals, currentPagination);
 });
 
 document.addEventListener("DOMContentLoaded", async () => {
