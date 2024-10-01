@@ -23,6 +23,7 @@ This endpoint accepts the following optional query string parameters:
 
 // current deals on the page
 let currentDeals = [];
+let currentSales = [];
 let currentPagination = {};
 
 // instantiate the selectors
@@ -30,8 +31,9 @@ const selectShow = document.querySelector("#show-select");
 const selectPage = document.querySelector("#page-select");
 const selectLegoSetIds = document.querySelector("#lego-set-id-select");
 const sectionDeals = document.querySelector("#deals");
-const sectionSales = document.querySelector("#sales");
 const spanNbDeals = document.querySelector("#nbDeals");
+const sectionSales = document.querySelector("#sales");
+const spanNbSales = document.querySelector("#nbSales");
 const filters = document.querySelector("#filters");
 const selectSort = document.querySelector("#sort-select");
 
@@ -87,7 +89,6 @@ const fetchSales = async (id) => {
       return null;
     }
 
-    console.log(body.data.result);
     return body.data.result;
   } catch (error) {
     console.error(error);
@@ -143,6 +144,7 @@ const renderSales = (sales) => {
   fragment.appendChild(div);
   sectionSales.innerHTML = "<h2>Vinted Sales</h2>";
   sectionSales.appendChild(fragment);
+  renderIndicators(currentPagination);
 };
 
 /**
@@ -181,6 +183,7 @@ const renderIndicators = (pagination) => {
   const { count } = pagination;
 
   spanNbDeals.innerHTML = count;
+  spanNbSales.innerHTML = currentSales ? currentSales.length : 0; // Feature 8 - Specific indicators
 };
 
 const render = async (deals, pagination) => {
@@ -292,8 +295,8 @@ selectSort.addEventListener("change", async (event) => {
 // Feature 7 - Display Vinted sales
 selectLegoSetIds.addEventListener("change", async (event) => {
   const selectedSet = event.target.value;
-  const vintedSales = await fetchSales(selectedSet);
-  renderSales(vintedSales);
+  currentSales = await fetchSales(selectedSet);
+  renderSales(currentSales);
 });
 
 document.addEventListener("DOMContentLoaded", async () => {
