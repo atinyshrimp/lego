@@ -34,6 +34,10 @@ const sectionDeals = document.querySelector("#deals");
 const spanNbDeals = document.querySelector("#nbDeals");
 const sectionSales = document.querySelector("#sales");
 const spanNbSales = document.querySelector("#nbSales");
+const spanAvgPrice = document.querySelector("#average");
+const spanP5Price = document.querySelector("#p5Price");
+const spanP25Price = document.querySelector("#p25Price");
+const spanP50Price = document.querySelector("#p50Price");
 const filters = document.querySelector("#filters");
 const selectSort = document.querySelector("#sort-select");
 
@@ -183,7 +187,21 @@ const renderIndicators = (pagination) => {
   const { count } = pagination;
 
   spanNbDeals.innerHTML = count;
-  spanNbSales.innerHTML = currentSales ? currentSales.length : 0; // Feature 8 - Specific indicators
+  if (currentSales.length > 0) {
+    spanNbSales.innerHTML = currentSales.length; // Feature 8 - Specific indicators
+
+    // Feature 9 - average, p25, p50 and p95 price value indicators
+    spanAvgPrice.innerHTML = `€ ${getSalesPriceAverage(currentSales)}`;
+    spanP5Price.innerHTML = `€ ${calcQuartile(currentSales, 5).toFixed(2)}`;
+    spanP25Price.innerHTML = `€ ${calcQuartile(currentSales, 25).toFixed(2)}`;
+    spanP50Price.innerHTML = `€ ${calcQuartile(currentSales, 50).toFixed(2)}`;
+  } else {
+    spanNbSales.innerHTML = 0;
+    spanAvgPrice.innerHTML = 0;
+    spanP5Price.innerHTML = 0;
+    spanP25Price.innerHTML = 0;
+    spanP50Price.innerHTML = 0;
+  }
 };
 
 const render = async (deals, pagination) => {

@@ -99,3 +99,64 @@ function sortDeals(deals, selectValue) {
     console.log(e);
   }
 }
+
+// Feature 9 - average, p25, p50 and p95 price value indicators
+/** Calculate the 'q' quartile of an array of values
+ *
+ * @param arr - array of values
+ * @param q - percentile to calculate (e.g. 95)
+ *
+ * @see {@link https://snippets.bentasker.co.uk/page-1907020841-Calculating-Mean,-Median,-Mode,-Range-and-Percentiles-with-Javascript-Javascript.html|Original source} for the quartile calculation method.
+ *
+ */
+function calcQuartile(arr, q) {
+  let a = arr.slice();
+  // Turn q into a decimal (e.g. 95 becomes 0.95)
+  q = q / 100;
+
+  // Sort the array into ascending order
+  let data = sortDeals(a, "price-asc");
+
+  // Work out the position in the array of the percentile point
+  let p = (data.length - 1) * q;
+  let b = Math.floor(p);
+
+  // Work out what we rounded off (if anything)
+  let remainder = p - b;
+
+  // See whether that data exists directly
+  if (data.length > 1 && data[b + 1].price !== undefined) {
+    return (
+      parseFloat(data[b].price) +
+      remainder * (parseFloat(data[b + 1].price) - parseFloat(data[b].price))
+    );
+  } else {
+    return parseFloat(data[b].price);
+  }
+}
+
+/** Calculates the average discount percentage from a list of deals.
+ *
+ * @param {Array} sales - The list of deal objects to process.
+ * @returns {number} The average price, rounded to two decimal places.
+ * @throws {Error} If any error occurs during calculation.
+ */
+function getSalesPriceAverage(sales) {
+  try {
+    // Filter out sales that have a valid price and calculate the sum of their discounts
+    const totalPrice = sales
+      .filter((sale) => parseFloat(sale.price) !== null) // Remove sales without a discount
+      .reduce((sum, sale) => sum + parseFloat(sale.price), 0); // Sum all the discounts
+    console.log(totalPrice);
+
+    // Count the number of sales that have a valid discount
+    const countSales = sales.filter((sale) => sale.discount !== null).length;
+    console.log(countSales);
+
+    // Calculate and return the average discount
+    const averageDiscount = totalPrice / countSales;
+    return Number(averageDiscount.toFixed(2)); // Round the average to the 100th
+  } catch (e) {
+    console.log(e);
+  }
+}
