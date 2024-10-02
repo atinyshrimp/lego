@@ -110,11 +110,15 @@ const renderDeals = (deals) => {
   const div = document.createElement("div");
   const template = deals
     .map((deal) => {
+      const isFavorite = isFavoriteDeal(deal.uuid);
       return `
       <div class="deal" id=${deal.uuid}>
         <span>${deal.id}</span>
         <a href="${deal.link}" target="_blank">${deal.title}</a>
         <span>${deal.price}</span>
+        <button class="favorite-btn" data-id="${deal.uuid}">
+          ${isFavorite ? DEL_FAV_TEXT : ADD_FAV_TEXT}
+        </button>
       </div>
     `;
     })
@@ -124,6 +128,11 @@ const renderDeals = (deals) => {
   fragment.appendChild(div);
   sectionDeals.innerHTML = "<h2>Deals</h2>";
   sectionDeals.appendChild(fragment);
+
+  // Attach listener to the favorite buttons
+  document.querySelectorAll(".favorite-btn").forEach((button) => {
+    button.addEventListener("click", toggleFavorite);
+  });
 };
 
 /** Render list of Vinted sales
@@ -274,9 +283,8 @@ filters.querySelectorAll("span").forEach((filterOption) => {
     let filteredDeals;
 
     // Fetch all deals first (assuming we are fetching all available data)
-    const allDeals = await fetchDeals(1, currentPagination.count);
-    setCurrentDeals(allDeals);
-    console.table(currentDeals);
+    let allDeals = await fetchDeals(1, currentPagination.count);
+    allDeals = allDeals.result;
 
     // Apply the filter based on the filter option selected
     switch (filterOption.innerHTML) {
@@ -293,6 +301,11 @@ filters.querySelectorAll("span").forEach((filterOption) => {
       // Feature 4 - Filter by hot deals
       case "By hot deals":
         filteredDeals = filterDealsByTemperature(currentDeals);
+        break;
+
+      // Feature 13
+      case "By favorites":
+        filteredDeals = allDeals.filter((deal) => isFavoriteDeal(deal.uuid));
         break;
 
       default:

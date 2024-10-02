@@ -1,6 +1,9 @@
 // Invoking strict mode https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode#invoking_strict_mode
 "use strict";
 
+const ADD_FAV_TEXT = "Add to Favorites";
+const DEL_FAV_TEXT = "Unsave";
+
 /**
  *
  * @param {Array} deals - list of deals
@@ -177,4 +180,36 @@ const calculateLifetimeValue = (sales) => {
   const diffDays = Math.ceil(diffTime / (1e3 * 60 * 60 * 24));
 
   return diffDays > 0 ? `${diffDays} days` : "1 day";
+};
+
+// Feature 13 - Save as favorite
+const getFavoriteDeals = () => {
+  const favorites = localStorage.getItem("favoriteDeals");
+  return favorites ? JSON.parse(favorites) : [];
+};
+
+const saveFavoriteDeals = (favorites) => {
+  localStorage.setItem("favoriteDeals", JSON.stringify(favorites));
+};
+
+const isFavoriteDeal = (dealId) => {
+  const favorites = getFavoriteDeals();
+  return favorites.includes(dealId);
+};
+
+const toggleFavorite = (event) => {
+  const dealId = event.target.getAttribute("data-id");
+  let favorites = getFavoriteDeals();
+
+  if (favorites.includes(dealId)) {
+    // If the deal if already a favorite, we remove it
+    favorites = favorites.filter((id) => id !== dealId);
+    event.target.innerHTML = ADD_FAV_TEXT;
+  } else {
+    favorites.push(dealId);
+    event.target.innerHTML = DEL_FAV_TEXT;
+  }
+
+  saveFavoriteDeals(favorites);
+  console.table(getFavoriteDeals());
 };
