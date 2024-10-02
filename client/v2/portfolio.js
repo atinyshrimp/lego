@@ -113,7 +113,7 @@ const renderDeals = (deals) => {
       return `
       <div class="deal" id=${deal.uuid}>
         <span>${deal.id}</span>
-        <a href="${deal.link}">${deal.title}</a>
+        <a href="${deal.link}" target="_blank">${deal.title}</a>
         <span>${deal.price}</span>
       </div>
     `;
@@ -138,7 +138,7 @@ const renderSales = (sales) => {
       return `
       <div class="sale" id=${sale.uuid}>
         <span>${selectLegoSetIds.value}</span>
-        <a href="${sale.link}">${sale.title}</a>
+        <a href="${sale.link}" target="_blank">${sale.title}</a>
         <span>${sale.price}</span>
       </div>
     `;
