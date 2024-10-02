@@ -147,11 +147,9 @@ function getSalesPriceAverage(sales) {
     const totalPrice = sales
       .filter((sale) => parseFloat(sale.price) !== null) // Remove sales without a discount
       .reduce((sum, sale) => sum + parseFloat(sale.price), 0); // Sum all the discounts
-    console.log(totalPrice);
 
     // Count the number of sales that have a valid discount
     const countSales = sales.filter((sale) => sale.discount !== null).length;
-    console.log(countSales);
 
     // Calculate and return the average discount
     const averageDiscount = totalPrice / countSales;
@@ -160,3 +158,23 @@ function getSalesPriceAverage(sales) {
     console.log(e);
   }
 }
+
+// Feature 10 - Lifetime value
+const calculateLifetimeValue = (sales) => {
+  if (sales.length === 0) {
+    return "No data to analyze";
+  }
+
+  // Extract the dates from the sales data
+  const salesDates = sales.map((sale) => new Date(sale.published * 1e3));
+
+  // Find the earliest & latest sales
+  const earliestDate = new Date(Math.min(...salesDates));
+  const latestDate = new Date(Math.max(...salesDates));
+
+  // Calculate the difference in time and convert to days
+  const diffTime = Math.abs(latestDate - earliestDate);
+  const diffDays = Math.ceil(diffTime / (1e3 * 60 * 60 * 24));
+
+  return diffDays > 0 ? `${diffDays} days` : "1 day";
+};

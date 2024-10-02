@@ -34,10 +34,11 @@ const sectionDeals = document.querySelector("#deals");
 const spanNbDeals = document.querySelector("#nbDeals");
 const sectionSales = document.querySelector("#sales");
 const spanNbSales = document.querySelector("#nbSales");
-const spanAvgPrice = document.querySelector("#average");
+const spanAvgPrice = document.querySelector("#averagePrice");
 const spanP5Price = document.querySelector("#p5Price");
 const spanP25Price = document.querySelector("#p25Price");
 const spanP50Price = document.querySelector("#p50Price");
+const spanLifetime = document.querySelector("#lifetimeValue");
 const filters = document.querySelector("#filters");
 const selectSort = document.querySelector("#sort-select");
 
@@ -202,6 +203,9 @@ const renderIndicators = (pagination) => {
     spanP25Price.innerHTML = 0;
     spanP50Price.innerHTML = 0;
   }
+
+  // Feature 10 - Lifetime value
+  spanLifetime.innerHTML = calculateLifetimeValue(currentSales);
 };
 
 const render = async (deals, pagination) => {
