@@ -303,7 +303,7 @@ filters.querySelectorAll("span").forEach((filterOption) => {
         filteredDeals = filterDealsByTemperature(currentDeals);
         break;
 
-      // Feature 13
+      // Feature 14 - Filter by favorites
       case "By favorites":
         filteredDeals = allDeals.filter((deal) => isFavoriteDeal(deal.uuid));
         break;
