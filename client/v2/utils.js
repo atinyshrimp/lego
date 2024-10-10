@@ -218,6 +218,8 @@ const toggleFavorite = (event) => {
  *
  * @param {Number} number - Number to format
  * @returns {String} A string including the symbol for the currency, and the formatted number according to the locale
+ *
+ * @see {@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat|Reference}
  */
 function formatPrice(number) {
 	return new Intl.NumberFormat("en-US", {

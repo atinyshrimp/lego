@@ -118,16 +118,18 @@ const renderDeals = (deals) => {
         <div class="deal card mb-4" id=${deal.uuid}">
           <div class="card-body d-block">
             <div class="row">
-              <div class="col-md-9">
-                <a href="${deal.link}" target="_blank">
+              <div class="col-md-9" style="width: 85%;">
+                <a href="${deal.link}" target="_blank"">
                   <h5 class="card-title clamp-2-lines">${deal.title}</h5>
                 </a>
               </div>
-              <button class="btn col favorite-btn" style="width: fit-content;" data-id="${
-								deal.uuid
-							}">
-                ${isFavorite ? DEL_FAV_ICON : ADD_FAV_ICON}
-              </button>
+              <div class="col px-0 ms-2">
+                <button class="btn favorite-btn" style="width: fit-content;" data-id="${
+									deal.uuid
+								}">
+                  ${isFavorite ? DEL_FAV_ICON : ADD_FAV_ICON}
+                </button>
+              </div>
                 <h6 class="card-subtitle mb-2 text-muted">${deal.id}</h6>
             </div>
             <p class="badge rounded-pill text-bg-danger mb-0">${
