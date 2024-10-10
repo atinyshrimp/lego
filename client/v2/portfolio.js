@@ -23,8 +23,10 @@ This endpoint accepts the following optional query string parameters:
 
 // current deals on the page
 let currentDeals = [];
+let unfilteredDeals = [];
 let currentSales = [];
 let currentPagination = {};
+let isListFiltered = false;
 
 // instantiate the selectors
 const selectShow = document.querySelector("#show-select");
@@ -48,8 +50,8 @@ const selectSort = document.querySelector("#sort-select");
  * @param {Object} meta - pagination meta info
  */
 const setCurrentDeals = ({ result, meta }) => {
-	currentDeals = result;
-	currentPagination = meta;
+  currentDeals = result;
+  currentPagination = meta;
 };
 
 /**
@@ -59,22 +61,22 @@ const setCurrentDeals = ({ result, meta }) => {
  * @return {Object}
  */
 const fetchDeals = async (page = 1, size = 6) => {
-	try {
-		const response = await fetch(
-			`https://lego-api-blue.vercel.app/deals?page=${page}&size=${size}`
-		);
-		const body = await response.json();
+  try {
+    const response = await fetch(
+      `https://lego-api-blue.vercel.app/deals?page=${page}&size=${size}`
+    );
+    const body = await response.json();
 
-		if (body.success !== true) {
-			console.error(body);
-			return { currentDeals, currentPagination };
-		}
+    if (body.success !== true) {
+      console.error(body);
+      return { currentDeals, currentPagination };
+    }
 
-		return body.data;
-	} catch (error) {
-		console.error(error);
-		return { currentDeals, currentPagination };
-	}
+    return body.data;
+  } catch (error) {
+    console.error(error);
+    return { currentDeals, currentPagination };
+  }
 };
 
 /** Fetch sales from API
@@ -83,22 +85,22 @@ const fetchDeals = async (page = 1, size = 6) => {
  * @returns A list of Vinted sales for the `id`
  */
 const fetchSales = async (id) => {
-	try {
-		const response = await fetch(
-			`https://lego-api-blue.vercel.app/sales?id=${id}`
-		);
-		const body = await response.json();
+  try {
+    const response = await fetch(
+      `https://lego-api-blue.vercel.app/sales?id=${id}`
+    );
+    const body = await response.json();
 
-		if (body.success !== true) {
-			console.error(body);
-			return null;
-		}
+    if (body.success !== true) {
+      console.error(body);
+      return null;
+    }
 
-		return body.data.result;
-	} catch (error) {
-		console.error(error);
-		return null;
-	}
+    return body.data.result;
+  } catch (error) {
+    console.error(error);
+    return null;
+  }
 };
 
 /**
@@ -106,14 +108,14 @@ const fetchSales = async (id) => {
  * @param  {Array} deals
  */
 const renderDeals = (deals) => {
-	sectionDeals.innerHTML = "";
+  sectionDeals.innerHTML = "";
 
-	const fragment = document.createDocumentFragment();
-	const div = document.createElement("div");
-	const template = deals
-		.map((deal) => {
-			const isFavorite = isFavoriteDeal(deal.uuid);
-			return `
+  const fragment = document.createDocumentFragment();
+  const div = document.createElement("div");
+  const template = deals
+    .map((deal) => {
+      const isFavorite = isFavoriteDeal(deal.uuid);
+      return `
       <div class="col-4">
         <div class="deal card mb-4" id=${deal.uuid}">
           <div class="card-body d-block">
@@ -125,38 +127,38 @@ const renderDeals = (deals) => {
               </div>
               <div class="col px-0 ms-2">
                 <button class="btn favorite-btn" style="width: fit-content;" data-id="${
-									deal.uuid
-								}">
+                  deal.uuid
+                }">
                   ${isFavorite ? DEL_FAV_ICON : ADD_FAV_ICON}
                 </button>
               </div>
                 <h6 class="card-subtitle mb-2 text-muted">${deal.id}</h6>
             </div>
             <p class="badge rounded-pill text-bg-danger mb-0">${
-							deal.temperature
-						}°</p>
+              deal.temperature
+            }°</p>
             <p class="card-text text-decoration-line-through text-muted mb-0">${formatPrice(
-							deal.retail
-						)}</p>
+              deal.retail
+            )}</p>
             <p class="card-text mb-0">${formatPrice(deal.price)}</p>
           </div>
         </div>
       </div>
     `;
-		})
-		.join("");
+    })
+    .join("");
 
-	div.classList.add("row");
-	div.id = "deals-items";
-	div.classList.add("overflow-auto");
-	div.innerHTML = template;
-	fragment.appendChild(div);
-	sectionDeals.appendChild(fragment);
+  div.classList.add("row");
+  div.id = "deals-items";
+  div.classList.add("overflow-auto");
+  div.innerHTML = template;
+  fragment.appendChild(div);
+  sectionDeals.appendChild(fragment);
 
-	// Attach listener to the favorite buttons
-	document.querySelectorAll(".favorite-btn").forEach((button) => {
-		button.addEventListener("click", toggleFavorite);
-	});
+  // Attach listener to the favorite buttons
+  document.querySelectorAll(".favorite-btn").forEach((button) => {
+    button.addEventListener("click", toggleFavorite);
+  });
 };
 
 /** Render list of Vinted sales
@@ -164,24 +166,24 @@ const renderDeals = (deals) => {
  * @param {Array} sales
  */
 const renderSales = (sales) => {
-	const fragment = document.createDocumentFragment();
-	const div = document.createElement("div");
-	const template = sales
-		.map((sale) => {
-			return `
+  const fragment = document.createDocumentFragment();
+  const div = document.createElement("div");
+  const template = sales
+    .map((sale) => {
+      return `
       <div class="sale" id=${sale.uuid}>
         <span>${selectLegoSetIds.value}</span>
         <a href="${sale.link}" target="_blank">${sale.title}</a>
         <span>${sale.price}</span>
       </div>
     `;
-		})
-		.join("");
+    })
+    .join("");
 
-	div.innerHTML = template;
-	fragment.appendChild(div);
-	sectionSales.appendChild(fragment);
-	renderIndicators(currentPagination);
+  div.innerHTML = template;
+  fragment.appendChild(div);
+  sectionSales.appendChild(fragment);
+  renderIndicators(currentPagination);
 };
 
 /**
@@ -189,14 +191,14 @@ const renderSales = (sales) => {
  * @param  {Object} pagination
  */
 const renderPagination = (pagination) => {
-	const { currentPage, pageCount } = pagination;
-	const options = Array.from(
-		{ length: pageCount },
-		(value, index) => `<option value="${index + 1}">${index + 1}</option>`
-	).join("");
+  const { currentPage, pageCount } = pagination;
+  const options = Array.from(
+    { length: pageCount },
+    (value, index) => `<option value="${index + 1}">${index + 1}</option>`
+  ).join("");
 
-	selectPage.innerHTML = options;
-	selectPage.selectedIndex = currentPage - 1;
+  selectPage.innerHTML = options;
+  selectPage.selectedIndex = currentPage - 1;
 };
 
 /**
@@ -204,12 +206,12 @@ const renderPagination = (pagination) => {
  * @param  {Array} lego set ids
  */
 const renderLegoSetIds = (deals) => {
-	const ids = getIdsFromDeals(deals);
-	const options = ids
-		.map((id) => `<option value="${id}">${id}</option>`)
-		.join("");
+  const ids = getIdsFromDeals(deals);
+  const options = ids
+    .map((id) => `<option value="${id}">${id}</option>`)
+    .join("");
 
-	selectLegoSetIds.innerHTML = options;
+  selectLegoSetIds.innerHTML = options;
 };
 
 /**
@@ -217,58 +219,58 @@ const renderLegoSetIds = (deals) => {
  * @param  {Object} pagination
  */
 const renderIndicators = (pagination) => {
-	const { count } = pagination;
+  const { count } = pagination;
 
-	spanNbDeals.innerHTML = count;
-	if (currentSales.length > 0) {
-		spanNbSales.innerHTML = currentSales.length; // Feature 8 - Specific indicators
+  spanNbDeals.innerHTML = count;
+  if (currentSales.length > 0) {
+    spanNbSales.innerHTML = currentSales.length; // Feature 8 - Specific indicators
 
-		// Feature 9 - average, p25, p50 and p95 price value indicators
-		spanAvgPrice.innerHTML = `€ ${getSalesPriceAverage(currentSales)}`;
-		spanP5Price.innerHTML = `€ ${calcQuartile(currentSales, 5).toFixed(2)}`;
-		spanP25Price.innerHTML = `€ ${calcQuartile(currentSales, 25).toFixed(2)}`;
-		spanP50Price.innerHTML = `€ ${calcQuartile(currentSales, 50).toFixed(2)}`;
-	} else {
-		spanNbSales.innerHTML = 0;
-		spanAvgPrice.innerHTML = 0;
-		spanP5Price.innerHTML = 0;
-		spanP25Price.innerHTML = 0;
-		spanP50Price.innerHTML = 0;
-	}
+    // Feature 9 - average, p25, p50 and p95 price value indicators
+    spanAvgPrice.innerHTML = `€ ${getSalesPriceAverage(currentSales)}`;
+    spanP5Price.innerHTML = `€ ${calcQuartile(currentSales, 5).toFixed(2)}`;
+    spanP25Price.innerHTML = `€ ${calcQuartile(currentSales, 25).toFixed(2)}`;
+    spanP50Price.innerHTML = `€ ${calcQuartile(currentSales, 50).toFixed(2)}`;
+  } else {
+    spanNbSales.innerHTML = 0;
+    spanAvgPrice.innerHTML = 0;
+    spanP5Price.innerHTML = 0;
+    spanP25Price.innerHTML = 0;
+    spanP50Price.innerHTML = 0;
+  }
 
-	// Feature 10 - Lifetime value
-	spanLifetime.innerHTML = calculateLifetimeValue(currentSales);
+  // Feature 10 - Lifetime value
+  spanLifetime.innerHTML = calculateLifetimeValue(currentSales);
 };
 
 const render = async (deals, pagination) => {
-	renderDeals(deals);
-	renderPagination(pagination);
-	renderIndicators(pagination);
-	renderLegoSetIds(deals);
+  renderDeals(deals);
+  renderPagination(pagination);
+  renderIndicators(pagination);
+  renderLegoSetIds(deals);
 };
 
 const renderPaginatedDeals = (deals) => {
-	// Paginate the new deals before rendering
-	const paginatedDeals = paginateDeals(
-		deals,
-		currentPagination.currentPage,
-		selectShow.value
-	);
+  // Paginate the new deals before rendering
+  const paginatedDeals = paginateDeals(
+    deals,
+    currentPagination.currentPage,
+    selectShow.value
+  );
 
-	// Update pagination meta for new results
-	const newPagination = {
-		currentPage: 1,
-		pageCount: Math.ceil(deals.length / parseInt(selectShow.value)),
-		pageSize: parseInt(selectShow.value),
-		count: deals.length,
-	};
+  // Update pagination meta for new results
+  const newPagination = {
+    currentPage: 1,
+    pageCount: Math.ceil(deals.length / parseInt(selectShow.value)),
+    pageSize: parseInt(selectShow.value),
+    count: deals.length,
+  };
 
-	setCurrentDeals({
-		result: paginatedDeals,
-		meta: newPagination,
-	});
+  setCurrentDeals({
+    result: paginatedDeals,
+    meta: newPagination,
+  });
 
-	render(currentDeals, currentPagination);
+  render(currentDeals, currentPagination);
 };
 
 /**
@@ -277,90 +279,113 @@ const renderPaginatedDeals = (deals) => {
 
 // Select the number of deals to display
 selectShow.addEventListener("change", async (event) => {
-	const newPageSize = parseInt(event.target.value);
-	const maxPage =
-		Math.trunc(currentDeals.length / currentPagination.pageSize) + 1;
-	const newPage =
-		currentPagination.currentPage <= maxPage
-			? currentPagination.currentPage
-			: maxPage;
+  const newPageSize = parseInt(event.target.value);
+  const maxPage =
+    Math.trunc(currentDeals.length / currentPagination.pageSize) + 1;
+  const newPage =
+    currentPagination.currentPage <= maxPage
+      ? currentPagination.currentPage
+      : maxPage;
 
-	const deals = await fetchDeals(newPage, newPageSize);
-	console.table(deals);
+  const deals = await fetchDeals(newPage, newPageSize);
+  console.table(deals);
 
-	setCurrentDeals(deals);
-	render(currentDeals, currentPagination);
+  setCurrentDeals(deals);
+  render(currentDeals, currentPagination);
 });
 
 // Feature 1 - Browse pages
 selectPage.addEventListener("change", async (event) => {
-	const page = parseInt(event.target.value);
-	const deals = await fetchDeals(page, selectShow.value);
+  const page = parseInt(event.target.value);
+  const deals = await fetchDeals(page, selectShow.value);
 
-	setCurrentDeals(deals);
-	render(currentDeals, currentPagination);
+  setCurrentDeals(deals);
+  render(currentDeals, currentPagination);
 });
 
 // Filter Features
 filters.querySelectorAll("span").forEach((filterOption) => {
-	filterOption.addEventListener("click", async () => {
-		let filteredDeals;
+  filterOption.addEventListener("click", async () => {
+    let filteredDeals;
 
-		// Fetch all deals first (assuming we are fetching all available data)
-		let allDeals = await fetchDeals(1, currentPagination.count);
-		allDeals = allDeals.result;
+    // Check if the button is already active (clicked again)
+    if (filterOption.classList.contains("active")) {
+      // Remove active class and go back to unfiltered deals
+      filterOption.classList.remove("active");
+      renderPaginatedDeals(unfilteredDeals); // Render unfiltered deals
+      unfilteredDeals = [];
+      isListFiltered = false;
+      return; // Stop execution to prevent re-filtering
+    }
 
-		// Apply the filter based on the filter option selected
-		switch (filterOption.innerHTML) {
-			// Feature 2 - Filter by best discount
-			case "By best discount":
-				filteredDeals = filterDealsByDiscount(currentDeals, 50);
-				break;
+    // Make sure to remove the "active" class from all buttons first
+    filters.querySelectorAll("span").forEach((btn) => {
+      btn.classList.remove("active");
+    });
 
-			// Feature 3 - Filter by most commented
-			case "By most commented":
-				filteredDeals = filterDealsByComments(currentDeals);
-				break;
+    filterOption.classList.add("active");
 
-			// Feature 4 - Filter by hot deals
-			case "By hot deals":
-				filteredDeals = filterDealsByTemperature(currentDeals);
-				break;
+    const listToFilter = !isListFiltered ? currentDeals : unfilteredDeals;
 
-			// Feature 14 - Filter by favorites
-			case "By favorites":
-				filteredDeals = allDeals.filter((deal) => isFavoriteDeal(deal.uuid));
-				break;
+    // Store the unfiltered version before filtering so we can get back to it
+    unfilteredDeals = currentDeals;
 
-			default:
-				filteredDeals = currentDeals; // Default, no filtering
-				break;
-		}
+    // Fetch all deals first (assuming we are fetching all available data)
+    let allDeals = await fetchDeals(1, currentPagination.count);
+    allDeals = allDeals.result;
 
-		renderPaginatedDeals(filteredDeals);
-	});
+    // Apply the filter based on the filter option selected
+    switch (filterOption.innerHTML) {
+      // Feature 2 - Filter by best discount
+      case "Best discount":
+        filteredDeals = filterDealsByDiscount(listToFilter, 50);
+        break;
+
+      // Feature 3 - Filter by most commented
+      case "Popular":
+        filteredDeals = filterDealsByComments(listToFilter);
+        break;
+
+      // Feature 4 - Filter by hot deals
+      case "Hot deals":
+        filteredDeals = filterDealsByTemperature(listToFilter);
+        break;
+
+      // Feature 14 - Filter by favorites
+      case "Favorites":
+        filteredDeals = allDeals.filter((deal) => isFavoriteDeal(deal.uuid));
+        break;
+
+      default:
+        filteredDeals = unfilteredDeals; // Default, no filtering
+        break;
+    }
+    isListFiltered = true;
+    console.table(filteredDeals);
+    renderPaginatedDeals(filteredDeals);
+  });
 });
 
 /** Sorting */
 selectSort.addEventListener("change", async (event) => {
-	// Fetch all deals first (assuming we are fetching all available data)
-	const allDeals = await fetchDeals(1, currentPagination.count);
-	setCurrentDeals(allDeals);
-	let sortedDeals = sortDeals(currentDeals, event.target.value);
+  // Fetch all deals first (assuming we are fetching all available data)
+  const allDeals = await fetchDeals(1, currentPagination.count);
+  setCurrentDeals(allDeals);
+  let sortedDeals = sortDeals(currentDeals, event.target.value);
 
-	renderPaginatedDeals(sortedDeals);
+  renderPaginatedDeals(sortedDeals);
 });
 
 // Feature 7 - Display Vinted sales
 selectLegoSetIds.addEventListener("change", async (event) => {
-	const selectedSet = event.target.value;
-	currentSales = await fetchSales(selectedSet);
-	renderSales(currentSales);
+  const selectedSet = event.target.value;
+  currentSales = await fetchSales(selectedSet);
+  renderSales(currentSales);
 });
 
 document.addEventListener("DOMContentLoaded", async () => {
-	const deals = await fetchDeals();
+  const deals = await fetchDeals();
 
-	setCurrentDeals(deals);
-	render(currentDeals, currentPagination);
+  setCurrentDeals(deals);
+  render(currentDeals, currentPagination);
 });
