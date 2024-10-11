@@ -149,7 +149,7 @@ const renderDeals = (deals) => {
     .join("");
 
   div.classList.add("row");
-  div.id = "deals-items";
+  div.classList.add("items");
   div.classList.add("overflow-auto");
   div.innerHTML = template;
   fragment.appendChild(div);
@@ -166,20 +166,35 @@ const renderDeals = (deals) => {
  * @param {Array} sales
  */
 const renderSales = (sales) => {
+  sectionSales.innerHTML = "";
+
   const fragment = document.createDocumentFragment();
   const div = document.createElement("div");
-  const template = sales
-    .map((sale) => {
-      return `
-      <div class="sale" id=${sale.uuid}>
-        <span>${selectLegoSetIds.value}</span>
-        <a href="${sale.link}" target="_blank">${sale.title}</a>
-        <span>${sale.price}</span>
+  let template;
+  if (sales !== undefined) {
+    template = sales
+      .map((sale) => {
+        return `
+        <div class="sale" id=${sale.uuid}>
+          <span>${selectLegoSetIds.value}</span>
+          <a href="${sale.link}" target="_blank">${sale.title}</a>
+          <span>${sale.price}</span>
+        </div>
+      `;
+      })
+      .join("");
+  } else {
+    currentSales = [];
+    template = `
+      <div class="alert alert-warning" role="alert">
+        Choose a Lego set to filter the sales by!
       </div>
-    `;
-    })
-    .join("");
+      `;
+  }
 
+  div.classList.add("row");
+  div.classList.add("items");
+  div.classList.add("overflow-auto");
   div.innerHTML = template;
   fragment.appendChild(div);
   sectionSales.appendChild(fragment);
@@ -206,12 +221,20 @@ const renderPagination = (pagination) => {
  * @param  {Array} lego set ids
  */
 const renderLegoSetIds = (deals) => {
+  const legoSection = document.getElementById("lego");
+  if (isTabActive("nav-deals-tab")) {
+    legoSection.style.display = "none";
+    return;
+  }
+
+  legoSection.style.display = "block";
   const ids = getIdsFromDeals(deals);
+  const placeholer = `<option selected>Lego set to filter by</option>`;
   const options = ids
     .map((id) => `<option value="${id}">${id}</option>`)
     .join("");
 
-  selectLegoSetIds.innerHTML = options;
+  selectLegoSetIds.innerHTML = placeholer + options;
 };
 
 /**
@@ -244,6 +267,7 @@ const renderIndicators = (pagination) => {
 
 const render = async (deals, pagination) => {
   renderDeals(deals);
+  renderSales();
   renderPagination(pagination);
   renderIndicators(pagination);
   renderLegoSetIds(deals);
@@ -381,6 +405,12 @@ selectLegoSetIds.addEventListener("change", async (event) => {
   const selectedSet = event.target.value;
   currentSales = await fetchSales(selectedSet);
   renderSales(currentSales);
+});
+
+document.querySelectorAll(".nav-link").forEach((link) => {
+  link.addEventListener("click", () => {
+    render(currentDeals, currentPagination);
+  });
 });
 
 document.addEventListener("DOMContentLoaded", async () => {

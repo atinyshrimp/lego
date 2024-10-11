@@ -10,7 +10,7 @@ const DEL_FAV_ICON = `<i class="fi fi-ss-heart" style="color: #E02A29;"></i>`;
  * @returns {Array} list of lego set ids
  */
 const getIdsFromDeals = (deals) => {
-	return Array.from(new Set(deals.map((deal) => deal.id)));
+  return Array.from(new Set(deals.map((deal) => deal.id)));
 };
 
 /** Filters the deals based on a discount percentage range.
@@ -22,21 +22,21 @@ const getIdsFromDeals = (deals) => {
  * @throws {RangeError} If `rangeBeg` or `rangeEnd` is outside the allowed range (0 to 100).
  */
 function filterDealsByDiscount(data, rangeBeg = 0, rangeEnd = 100) {
-	try {
-		if (rangeBeg >= 0 && rangeEnd <= 100) {
-			if (rangeBeg < rangeEnd) {
-				return data.filter(
-					(deal) => deal.discount >= rangeBeg && deal.discount <= rangeEnd
-				);
-			} else {
-				throw new RangeError("rangeBeg has to be lesser than rangeEnd");
-			}
-		} else {
-			throw new RangeError("input discount has to be between 0 and 100");
-		}
-	} catch (e) {
-		console.log(e);
-	}
+  try {
+    if (rangeBeg >= 0 && rangeEnd <= 100) {
+      if (rangeBeg < rangeEnd) {
+        return data.filter(
+          (deal) => deal.discount >= rangeBeg && deal.discount <= rangeEnd
+        );
+      } else {
+        throw new RangeError("rangeBeg has to be lesser than rangeEnd");
+      }
+    } else {
+      throw new RangeError("input discount has to be between 0 and 100");
+    }
+  } catch (e) {
+    console.log(e);
+  }
 }
 
 /** Filters the deals by the number of comments
@@ -46,11 +46,11 @@ function filterDealsByDiscount(data, rangeBeg = 0, rangeEnd = 100) {
  * @returns {Array} - The filtered deals with more than `lowerBound` comments
  */
 function filterDealsByComments(data, lowerBound = 15) {
-	try {
-		return data.filter((deal) => deal.comments >= lowerBound);
-	} catch (e) {
-		console.log(e);
-	}
+  try {
+    return data.filter((deal) => deal.comments >= lowerBound);
+  } catch (e) {
+    console.log(e);
+  }
 }
 
 /** Filters the deals by the temperature of the deals
@@ -60,11 +60,11 @@ function filterDealsByComments(data, lowerBound = 15) {
  * @returns {Array} - The filtered deals which temperature is higher than `lowerBound`
  */
 function filterDealsByTemperature(data, lowerBound = 100) {
-	try {
-		return data.filter((deal) => deal.temperature >= lowerBound);
-	} catch (e) {
-		console.log(e);
-	}
+  try {
+    return data.filter((deal) => deal.temperature >= lowerBound);
+  } catch (e) {
+    console.log(e);
+  }
 }
 
 /** Paginate deals based on the current page and page size
@@ -75,9 +75,9 @@ function filterDealsByTemperature(data, lowerBound = 100) {
  * @returns {Array} - Paginated deals
  */
 function paginateDeals(deals, page = 1, size = 6) {
-	const startIndex = (page - 1) * size;
-	const endIndex = startIndex + size;
-	return deals.slice(startIndex, endIndex);
+  const startIndex = (page - 1) * size;
+  const endIndex = startIndex + size;
+  return deals.slice(startIndex, endIndex);
 }
 
 /** Sorts an array of deals by their `price` property.
@@ -89,18 +89,18 @@ function paginateDeals(deals, page = 1, size = 6) {
  * @see {@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort|Reference} for sorting functionality.
  */
 function sortDeals(deals, selectValue) {
-	try {
-		const splittedValue = selectValue.split("-");
-		const ascending = splittedValue[1] === "asc" ? true : false;
-		let propName = splittedValue[0];
-		propName = propName === "date" ? "published" : propName;
+  try {
+    const splittedValue = selectValue.split("-");
+    const ascending = splittedValue[1] === "asc" ? true : false;
+    let propName = splittedValue[0];
+    propName = propName === "date" ? "published" : propName;
 
-		return deals.sort((a, b) =>
-			ascending ? a[propName] - b[propName] : b[propName] - a[propName]
-		);
-	} catch (e) {
-		console.log(e);
-	}
+    return deals.sort((a, b) =>
+      ascending ? a[propName] - b[propName] : b[propName] - a[propName]
+    );
+  } catch (e) {
+    console.log(e);
+  }
 }
 
 // Feature 9 - average, p25, p50 and p95 price value indicators
@@ -113,29 +113,29 @@ function sortDeals(deals, selectValue) {
  *
  */
 function calcQuartile(arr, q) {
-	let a = arr.slice();
-	// Turn q into a decimal (e.g. 95 becomes 0.95)
-	q = q / 100;
+  let a = arr.slice();
+  // Turn q into a decimal (e.g. 95 becomes 0.95)
+  q = q / 100;
 
-	// Sort the array into ascending order
-	let data = sortDeals(a, "price-asc");
+  // Sort the array into ascending order
+  let data = sortDeals(a, "price-asc");
 
-	// Work out the position in the array of the percentile point
-	let p = (data.length - 1) * q;
-	let b = Math.floor(p);
+  // Work out the position in the array of the percentile point
+  let p = (data.length - 1) * q;
+  let b = Math.floor(p);
 
-	// Work out what we rounded off (if anything)
-	let remainder = p - b;
+  // Work out what we rounded off (if anything)
+  let remainder = p - b;
 
-	// See whether that data exists directly
-	if (data.length > 1 && data[b + 1].price !== undefined) {
-		return (
-			parseFloat(data[b].price) +
-			remainder * (parseFloat(data[b + 1].price) - parseFloat(data[b].price))
-		);
-	} else {
-		return parseFloat(data[b].price);
-	}
+  // See whether that data exists directly
+  if (data.length > 1 && data[b + 1].price !== undefined) {
+    return (
+      parseFloat(data[b].price) +
+      remainder * (parseFloat(data[b + 1].price) - parseFloat(data[b].price))
+    );
+  } else {
+    return parseFloat(data[b].price);
+  }
 }
 
 /** Calculates the average discount percentage from a list of deals.
@@ -145,73 +145,73 @@ function calcQuartile(arr, q) {
  * @throws {Error} If any error occurs during calculation.
  */
 function getSalesPriceAverage(sales) {
-	try {
-		// Filter out sales that have a valid price and calculate the sum of their discounts
-		const totalPrice = sales
-			.filter((sale) => parseFloat(sale.price) !== null) // Remove sales without a discount
-			.reduce((sum, sale) => sum + parseFloat(sale.price), 0); // Sum all the discounts
+  try {
+    // Filter out sales that have a valid price and calculate the sum of their discounts
+    const totalPrice = sales
+      .filter((sale) => parseFloat(sale.price) !== null) // Remove sales without a discount
+      .reduce((sum, sale) => sum + parseFloat(sale.price), 0); // Sum all the discounts
 
-		// Count the number of sales that have a valid discount
-		const countSales = sales.filter((sale) => sale.discount !== null).length;
+    // Count the number of sales that have a valid discount
+    const countSales = sales.filter((sale) => sale.discount !== null).length;
 
-		// Calculate and return the average discount
-		const averageDiscount = totalPrice / countSales;
-		return Number(averageDiscount.toFixed(2)); // Round the average to the 100th
-	} catch (e) {
-		console.log(e);
-	}
+    // Calculate and return the average discount
+    const averageDiscount = totalPrice / countSales;
+    return Number(averageDiscount.toFixed(2)); // Round the average to the 100th
+  } catch (e) {
+    console.log(e);
+  }
 }
 
 // Feature 10 - Lifetime value
 const calculateLifetimeValue = (sales) => {
-	if (sales.length === 0) {
-		return "No data to analyze";
-	}
+  if (sales.length === 0) {
+    return "No data to analyze";
+  }
 
-	// Extract the dates from the sales data
-	const salesDates = sales.map((sale) => new Date(sale.published * 1e3));
+  // Extract the dates from the sales data
+  const salesDates = sales.map((sale) => new Date(sale.published * 1e3));
 
-	// Find the earliest & latest sales
-	const earliestDate = new Date(Math.min(...salesDates));
-	const latestDate = new Date(Math.max(...salesDates));
+  // Find the earliest & latest sales
+  const earliestDate = new Date(Math.min(...salesDates));
+  const latestDate = new Date(Math.max(...salesDates));
 
-	// Calculate the difference in time and convert to days
-	const diffTime = Math.abs(latestDate - earliestDate);
-	const diffDays = Math.ceil(diffTime / (1e3 * 60 * 60 * 24));
+  // Calculate the difference in time and convert to days
+  const diffTime = Math.abs(latestDate - earliestDate);
+  const diffDays = Math.ceil(diffTime / (1e3 * 60 * 60 * 24));
 
-	return diffDays > 0 ? `${diffDays} days` : "1 day";
+  return diffDays > 0 ? `${diffDays} days` : "1 day";
 };
 
 // Feature 13 - Save as favorite
 const getFavoriteDeals = () => {
-	const favorites = localStorage.getItem("favoriteDeals");
-	return favorites ? JSON.parse(favorites) : [];
+  const favorites = localStorage.getItem("favoriteDeals");
+  return favorites ? JSON.parse(favorites) : [];
 };
 
 const saveFavoriteDeals = (favorites) => {
-	localStorage.setItem("favoriteDeals", JSON.stringify(favorites));
+  localStorage.setItem("favoriteDeals", JSON.stringify(favorites));
 };
 
 const isFavoriteDeal = (dealId) => {
-	const favorites = getFavoriteDeals();
-	return favorites.includes(dealId);
+  const favorites = getFavoriteDeals();
+  return favorites.includes(dealId);
 };
 
 const toggleFavorite = (event) => {
-	const dealId = event.target.getAttribute("data-id");
-	let favorites = getFavoriteDeals();
+  const dealId = event.target.getAttribute("data-id");
+  let favorites = getFavoriteDeals();
 
-	if (favorites.includes(dealId)) {
-		// If the deal if already a favorite, we remove it
-		favorites = favorites.filter((id) => id !== dealId);
-		event.target.innerHTML = ADD_FAV_ICON;
-	} else {
-		favorites.push(dealId);
-		event.target.innerHTML = DEL_FAV_ICON;
-	}
+  if (favorites.includes(dealId)) {
+    // If the deal if already a favorite, we remove it
+    favorites = favorites.filter((id) => id !== dealId);
+    event.target.innerHTML = ADD_FAV_ICON;
+  } else {
+    favorites.push(dealId);
+    event.target.innerHTML = DEL_FAV_ICON;
+  }
 
-	saveFavoriteDeals(favorites);
-	console.table(getFavoriteDeals());
+  saveFavoriteDeals(favorites);
+  console.table(getFavoriteDeals());
 };
 
 /** Formats a number into a readable currency
@@ -222,8 +222,13 @@ const toggleFavorite = (event) => {
  * @see {@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat|Reference}
  */
 function formatPrice(number) {
-	return new Intl.NumberFormat("en-US", {
-		style: "currency",
-		currency: "EUR",
-	}).format(number);
+  return new Intl.NumberFormat("en-US", {
+    style: "currency",
+    currency: "EUR",
+  }).format(number);
+}
+
+function isTabActive(tabId) {
+  const tab = document.querySelector(`#${tabId}`);
+  return tab.classList.contains("active");
 }

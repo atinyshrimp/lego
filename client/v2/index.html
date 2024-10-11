@@ -55,7 +55,7 @@
       a:hover {
         color: #e02a29;
       }
-      #deals-items {
+      .items {
         max-height: 70vh;
       }
       .filter:hover {
@@ -104,6 +104,7 @@
   </header>
   <body class="px-3">
     <div class="row border-top">
+      <!-- Left column, with options & info about the page -->
       <div class="col-3">
         <section class="mt-2 mb-4" id="lego">
           <h2>Lego sets</h2>
@@ -192,6 +193,8 @@
           </div>
         </section>
       </div>
+
+      <!-- Main column, with the tabs and the deals & sales cards -->
       <div class="col border-start">
         <nav class="nav nav-tabs nav-justified">
           <button
@@ -221,14 +224,14 @@
         </nav>
         <div class="tab-content" id="nav-content">
           <section
-            class="tab-pane fade show active py-3 px-3"
+            class="tab-pane fade show active p-3"
             id="nav-deals"
             role="tabpanel"
             aria-labelledby="nav-deals-tab"
             tabindex="0"
           ></section>
           <section
-            class="tab-pane fade"
+            class="tab-pane fade p-3"
             id="nav-sales"
             role="tabpanel"
             aria-labelledby="nav-sales-tab"
