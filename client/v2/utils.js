@@ -1,8 +1,12 @@
 // Invoking strict mode https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode#invoking_strict_mode
 "use strict";
 
-const ADD_FAV_ICON = `<i class="fi fi-rs-heart" style="color: #4C5156;"></i>`;
-const DEL_FAV_ICON = `<i class="fi fi-ss-heart" style="color: #E02A29;"></i>`;
+const ADD_FAV_ICON = `<i class="fi fi-rs-heart ${
+  isDarkModeEnabled() ? "dark-mode" : ""
+}" style="color: #4C5156;"></i>`;
+const DEL_FAV_ICON = `
+<i class="fi fi-ss-heart" style="color: #E02A29;"></i>`;
+const DARK_MODE_CLASS = "dark-mode";
 
 /**
  *
@@ -231,4 +235,87 @@ function formatPrice(number) {
 function isTabActive(tabId) {
   const tab = document.querySelector(`#${tabId}`);
   return tab.classList.contains("active");
+}
+
+// Function to enable dark mode
+const enableDarkMode = () => {
+  document.body.classList.add(DARK_MODE_CLASS);
+  document
+    .querySelectorAll(".nav-link")
+    .forEach((link) => link.classList.add(DARK_MODE_CLASS));
+  document.body
+    .querySelectorAll("p")
+    .forEach((p) => p.classList.add(DARK_MODE_CLASS));
+  document.body
+    .querySelectorAll("div")
+    .forEach((div) => div.classList.add(DARK_MODE_CLASS));
+
+  document.body
+    .querySelectorAll(".btn-outline-secondary")
+    .forEach((btn) => btn.classList.add(DARK_MODE_CLASS));
+
+  document.querySelector(".nav-tabs").classList.add(DARK_MODE_CLASS);
+
+  document
+    .querySelectorAll(".card")
+    .forEach((card) => card.classList.add(DARK_MODE_CLASS));
+
+  document.querySelectorAll(".favorite-btn").forEach((btn) => {
+    const icon = btn.querySelector("i");
+    if (icon.classList.contains("fi-rs-heart")) {
+      icon.classList.add(DARK_MODE_CLASS);
+    }
+  });
+
+  document
+    .querySelectorAll("#deal-price")
+    .forEach((text) => text.classList.add(DARK_MODE_CLASS));
+  // document.getElementById("options").classList.add(DARK_MODE_CLASS);
+
+  localStorage.setItem("darkMode", "enabled"); // Save user preference
+  document.querySelector(".form-check-label").innerHTML = "Peak the sunlight";
+};
+
+// Function to disable dark mode
+const disableDarkMode = () => {
+  document.body.classList.remove(DARK_MODE_CLASS);
+  document
+    .querySelectorAll(".nav-link")
+    .forEach((link) => link.classList.remove(DARK_MODE_CLASS));
+  document.body
+    .querySelectorAll("p")
+    .forEach((p) => p.classList.remove(DARK_MODE_CLASS));
+  document.body
+    .querySelectorAll("div")
+    .forEach((div) => div.classList.remove(DARK_MODE_CLASS));
+
+  document.body
+    .querySelectorAll(".btn-outline-secondary")
+    .forEach((btn) => btn.classList.remove(DARK_MODE_CLASS));
+
+  document.querySelector(".nav-tabs").classList.remove(DARK_MODE_CLASS);
+
+  document
+    .querySelectorAll(".card")
+    .forEach((card) => card.classList.remove(DARK_MODE_CLASS));
+
+  document.querySelectorAll(".favorite-btn").forEach((btn) => {
+    const icon = btn.querySelector("i");
+    if (icon.classList.contains("fi-rs-heart")) {
+      icon.classList.remove(DARK_MODE_CLASS);
+    }
+  });
+
+  document
+    .querySelectorAll("#deal-price")
+    .forEach((text) => text.classList.remove(DARK_MODE_CLASS));
+
+  // document.getElementById("options").classList.remove(DARK_MODE_CLASS);
+
+  localStorage.setItem("darkMode", "disabled"); // Save user preference
+  document.querySelector(".form-check-label").innerHTML = "Enable dark mode";
+};
+
+function isDarkModeEnabled() {
+  return localStorage.getItem("darkMode") === "enabled";
 }

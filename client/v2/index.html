@@ -19,6 +19,10 @@
       rel="stylesheet"
       href="https://cdn-uicons.flaticon.com/2.6.0/uicons-solid-straight/css/uicons-solid-straight.css"
     />
+    <link
+      rel="stylesheet"
+      href="https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-rounded/css/uicons-regular-rounded.css"
+    />
     <style>
       @font-face {
         font-family: QuarterFree;
@@ -40,6 +44,7 @@
       p,
       div {
         font-family: Rumaila;
+        color: #4c5156;
       }
       h1,
       h2 {
@@ -68,10 +73,18 @@
         background-color: #e02a29;
         border-color: #ffffff;
       }
+      .nav-tabs.dark-mode {
+        --bs-nav-tabs-border-color: #e02a29;
+        --bs-nav-tabs-link-hover-border-color: #ebd800 #ebd800 #e02a29;
+        --bs-nav-tabs-link-active-color: #e02a29;
+        --bs-nav-tabs-link-active-bg: #4c5156;
+        --bs-nav-tabs-link-active-border-color: #e02a29 #e02a29 #4c5156;
+      }
       .nav-link {
         color: #4c5156;
       }
-      .nav-link:hover {
+      .nav-link:hover,
+      .nav-link.dark-mode:hover {
         color: #ebd800;
       }
       .nav-link.active {
@@ -97,13 +110,63 @@
         line-height: 1.5rem;
         max-height: 3rem; /* 2 lines * line-height */
       }
+      .form-check-input:checked {
+        background-color: #e02a29;
+        border-color: #e02a29;
+      }
+
+      /* Dark mode */
+      body.dark-mode,
+      p.dark-mode,
+      div.dark-mode {
+        background-color: #4c5156;
+        color: #e4e4da;
+      }
+
+      .nav-link.dark-mode {
+        color: #e4e4da;
+      }
+
+      .btn-outline-secondary.dark-mode {
+        --bs-btn-bg: #e4e4da;
+        --bs-btn-color: #4c5156;
+        --bs-btn-border-color: transparent;
+        --bs-btn-hover-bg: #ebd800;
+        --bs-btn-hover-border-color: #4c5156;
+        --bs-btn-active-color: #e4e4da;
+        --bs-btn-active-bg: #e02a29;
+        --bs-btn-active-border-color: #e4e4da;
+      }
+
+      .card.dark-mode {
+        --bs-card-border-color: #e4e4da;
+        --bs-card-color: #e4e4da;
+        --bs-card-bg: transparent;
+      }
+
+      .favorite-btn i.dark-mode {
+        color: #e4e4da !important;
+      }
     </style>
   </head>
-  <header class="px-3 py-4">
-    <h1>Lego</h1>
+  <header class="row align-items-center w-100 px-3 py-4">
+    <h1 class="col">Lego</h1>
+    <div class="col form-check form-switch form-check-reverse">
+      <input
+        class="form-check-input align-items-center"
+        type="checkbox"
+        id="darkModeToggle"
+      />
+      <label
+        class="form-check-label"
+        for="flexSwitchCheckReverse"
+        style="font-size: 0.8rem"
+        >Enable dark mode</label
+      >
+    </div>
   </header>
   <body class="px-3">
-    <div class="row border-top">
+    <div class="row">
       <!-- Left column, with options & info about the page -->
       <div class="col-3">
         <section class="mt-2 mb-4" id="lego">
@@ -187,7 +250,7 @@
       </div>
 
       <!-- Main column, with the tabs and the deals & sales cards -->
-      <div class="col border-start">
+      <div class="col">
         <nav class="nav nav-tabs nav-justified">
           <button
             class="nav-link active"

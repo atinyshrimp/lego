@@ -29,6 +29,8 @@ let currentPagination = {};
 let isListFiltered = false;
 
 // instantiate the selectors
+const darkModeToggle = document.getElementById("darkModeToggle");
+const savedDarkMode = localStorage.getItem("darkMode");
 const selectShow = document.querySelector("#show-select");
 const selectPage = document.querySelector("#page-select");
 const selectLegoSetIds = document.querySelector("#lego-set-id-select");
@@ -117,7 +119,9 @@ const renderDeals = (deals) => {
       const isFavorite = isFavoriteDeal(deal.uuid);
       return `
       <div class="col-4">
-        <div class="deal card mb-4" id=${deal.uuid}">
+        <div class="deal card mb-4 ${
+          isDarkModeEnabled() ? "dark-mode" : ""
+        }" id=${deal.uuid}">
           <div class="card-body d-block">
             <div class="row">
               <div class="col-md-9" style="width: 85%;">
@@ -140,7 +144,9 @@ const renderDeals = (deals) => {
             <p class="card-text text-decoration-line-through text-muted mb-0">${formatPrice(
               deal.retail
             )}</p>
-            <p class="card-text mb-0">${formatPrice(deal.price)}</p>
+            <p class="card-text mb-0 ${
+              isDarkModeEnabled() ? "dark-mode" : ""
+            }" id="deal-price">${formatPrice(deal.price)}</p>
           </div>
         </div>
       </div>
@@ -458,6 +464,18 @@ document.querySelectorAll(".nav-link").forEach((link) => {
   link.addEventListener("click", () => {
     render(currentDeals, currentPagination);
   });
+});
+
+if (savedDarkMode === "enabled") {
+  enableDarkMode(); // Apply dark mode
+  darkModeToggle.checked = true; // Ensure the toggle is checked
+}
+darkModeToggle.addEventListener("change", () => {
+  if (darkModeToggle.checked) {
+    enableDarkMode(); // Enable dark mode
+  } else {
+    disableDarkMode(); // Disable dark mode
+  }
 });
 
 document.addEventListener("DOMContentLoaded", async () => {
