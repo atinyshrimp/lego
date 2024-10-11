@@ -32,10 +32,10 @@ let isListFiltered = false;
 const selectShow = document.querySelector("#show-select");
 const selectPage = document.querySelector("#page-select");
 const selectLegoSetIds = document.querySelector("#lego-set-id-select");
+const paginationInfo = document.querySelector("#pagination-info");
 const sectionDeals = document.querySelector("#nav-deals");
-const spanNbDeals = document.querySelector("#nbDeals");
 const sectionSales = document.querySelector("#nav-sales");
-const spanNbSales = document.querySelector("#nbSales");
+const sectionIndicators = document.getElementById("indicators");
 const spanAvgPrice = document.querySelector("#averagePrice");
 const spanP5Price = document.querySelector("#p5Price");
 const spanP25Price = document.querySelector("#p25Price");
@@ -198,6 +198,7 @@ const renderSales = (sales) => {
   div.innerHTML = template;
   fragment.appendChild(div);
   sectionSales.appendChild(fragment);
+  renderPagination(currentPagination);
   renderIndicators(currentPagination);
 };
 
@@ -214,6 +215,38 @@ const renderPagination = (pagination) => {
 
   selectPage.innerHTML = options;
   selectPage.selectedIndex = currentPage - 1;
+
+  const itemsPerPage = parseInt(selectShow.value);
+  const rangeBeg = selectPage.selectedIndex * itemsPerPage + 1;
+  const rangeEnd = (selectPage.selectedIndex + 1) * itemsPerPage;
+  const nbDeals = currentPagination.count;
+  const nbSales = currentSales.length > 0 ? currentSales.length : 0;
+
+  if (isTabActive("nav-deals-tab")) {
+    document.getElementById("pagination-info").style.display = "block";
+    paginationInfo.innerHTML = `
+    <div class="text-muted float-end">
+      Showing ${rangeBeg} - ${
+      rangeEnd > nbDeals ? nbDeals : rangeEnd
+    } out of ${nbDeals} deal(s)
+    </div>
+    `;
+  } else {
+    if (currentSales.length === 0) {
+      document.getElementById("pagination-info").style.display = "none";
+      return;
+    }
+    document.getElementById("pagination-info").style.display = "block";
+
+    // Feature 8 - Specific indicators
+    paginationInfo.innerHTML = `
+    <div class="text-muted float-end">
+      Showing ${rangeBeg} - ${
+      rangeEnd > nbSales ? nbSales : rangeEnd
+    } out of ${nbSales} sale(s) 
+    </div>
+    `;
+  }
 };
 
 /**
@@ -244,21 +277,34 @@ const renderLegoSetIds = (deals) => {
 const renderIndicators = (pagination) => {
   const { count } = pagination;
 
-  spanNbDeals.innerHTML = count;
-  if (currentSales.length > 0) {
-    spanNbSales.innerHTML = currentSales.length; // Feature 8 - Specific indicators
+  // Hide indicators if we are on the "Deals" tab
+  if (isTabActive("nav-deals-tab")) {
+    sectionIndicators.style.display = "none";
+    return;
+  }
 
+  // Display the indicators agains
+  sectionIndicators.style.display = "block";
+
+  if (currentSales.length > 0) {
     // Feature 9 - average, p25, p50 and p95 price value indicators
-    spanAvgPrice.innerHTML = `€ ${getSalesPriceAverage(currentSales)}`;
-    spanP5Price.innerHTML = `€ ${calcQuartile(currentSales, 5).toFixed(2)}`;
-    spanP25Price.innerHTML = `€ ${calcQuartile(currentSales, 25).toFixed(2)}`;
-    spanP50Price.innerHTML = `€ ${calcQuartile(currentSales, 50).toFixed(2)}`;
+    spanAvgPrice.innerHTML = `${formatPrice(
+      getSalesPriceAverage(currentSales)
+    )}`;
+    spanP5Price.innerHTML = `${formatPrice(
+      calcQuartile(currentSales, 5).toFixed(2)
+    )}`;
+    spanP25Price.innerHTML = `${formatPrice(
+      calcQuartile(currentSales, 25).toFixed(2)
+    )}`;
+    spanP50Price.innerHTML = `${formatPrice(
+      calcQuartile(currentSales, 50).toFixed(2)
+    )}`;
   } else {
-    spanNbSales.innerHTML = 0;
-    spanAvgPrice.innerHTML = 0;
-    spanP5Price.innerHTML = 0;
-    spanP25Price.innerHTML = 0;
-    spanP50Price.innerHTML = 0;
+    spanAvgPrice.innerHTML = "NaN";
+    spanP5Price.innerHTML = "NaN";
+    spanP25Price.innerHTML = "NaN";
+    spanP50Price.innerHTML = "NaN";
   }
 
   // Feature 10 - Lifetime value
@@ -321,6 +367,7 @@ selectShow.addEventListener("change", async (event) => {
 // Feature 1 - Browse pages
 selectPage.addEventListener("change", async (event) => {
   const page = parseInt(event.target.value);
+  console.log(selectShow.value);
   const deals = await fetchDeals(page, selectShow.value);
 
   setCurrentDeals(deals);
