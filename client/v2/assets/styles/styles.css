@@ -1,4 +1,4 @@
-/* Custom fonts */
+/* ===== Custom fonts ===== */
 @font-face {
   font-family: QuarterFree;
   src: url("../fonts/Quarter-Free-BF66fe9906c9172.otf");
@@ -9,7 +9,7 @@
   src: url("../fonts/Rumaila-BF66f66ad473692.otf");
 }
 
-/* Variables definition */
+/* ===== Variables definition ===== */
 :root {
   --bu-text: #4c5156;
   --bu-bg: #e4e4da;
@@ -17,7 +17,30 @@
   --bu-divider: #ebd800;
 }
 
-/* Styles for HTML tags */
+/* ===== Scrollbar CSS ===== */
+.items::-webkit-scrollbar {
+  width: 6px;
+}
+
+.items::-webkit-scrollbar-track {
+  background: var(--bu-bg);
+}
+
+.items::-webkit-scrollbar-thumb {
+  opacity: 0;
+  background-color: var(--bu-text);
+  border-radius: 15px;
+}
+
+.items::-webkit-scrollbar-thumb:hover {
+  background-color: var(--bu-divider);
+}
+
+.items::-webkit-scrollbar-thumb:active {
+  background-color: var(--bu-accent);
+}
+
+/* ===== Styles for HTML tags ===== */
 body {
   background-color: var(--bu-bg);
   color: var(--bu-text);
@@ -59,7 +82,7 @@ a:hover {
   color: #e02a29;
 }
 
-/* Overriden Bootstrap styles */
+/* ===== Overriden Bootstrap styles ===== */
 .btn-outline-secondary {
   --bs-btn-color: #4c5156;
   --bs-btn-border-color: #4c5156;
@@ -122,7 +145,7 @@ a:hover {
   --bs-pagination-disabled-bg: var(--bu-bg);
 }
 
-/* Styles for created classes & IDs */
+/* ===== Styles for created classes & IDs ===== */
 .items {
   max-height: 70vh;
 }
@@ -154,7 +177,7 @@ a:hover {
   height: 3rem; /* 2 lines * line-height */
 }
 
-/* Dark mode **/
+/* ===== Dark mode ===== */
 body.dark-mode {
   --bu-text: #e4e4da;
   --bu-bg: #4c5156;
