@@ -52,8 +52,8 @@ const selectSort = document.querySelector("#sort-select");
  * @param {Object} meta - pagination meta info
  */
 const setCurrentDeals = ({ result, meta }) => {
-	currentDeals = result;
-	currentPagination = meta;
+  currentDeals = result;
+  currentPagination = meta;
 };
 
 /**
@@ -63,22 +63,22 @@ const setCurrentDeals = ({ result, meta }) => {
  * @return {Object}
  */
 const fetchDeals = async (page = 1, size = 6) => {
-	try {
-		const response = await fetch(
-			`https://lego-api-blue.vercel.app/deals?page=${page}&size=${size}`
-		);
-		const body = await response.json();
+  try {
+    const response = await fetch(
+      `https://lego-api-blue.vercel.app/deals?page=${page}&size=${size}`
+    );
+    const body = await response.json();
 
-		if (body.success !== true) {
-			console.error(body);
-			return { currentDeals, currentPagination };
-		}
+    if (body.success !== true) {
+      console.error(body);
+      return { currentDeals, currentPagination };
+    }
 
-		return body.data;
-	} catch (error) {
-		console.error(error);
-		return { currentDeals, currentPagination };
-	}
+    return body.data;
+  } catch (error) {
+    console.error(error);
+    return { currentDeals, currentPagination };
+  }
 };
 
 /** Fetch sales from API
@@ -87,22 +87,22 @@ const fetchDeals = async (page = 1, size = 6) => {
  * @returns A list of Vinted sales for the `id`
  */
 const fetchSales = async (id) => {
-	try {
-		const response = await fetch(
-			`https://lego-api-blue.vercel.app/sales?id=${id}`
-		);
-		const body = await response.json();
+  try {
+    const response = await fetch(
+      `https://lego-api-blue.vercel.app/sales?id=${id}`
+    );
+    const body = await response.json();
 
-		if (body.success !== true) {
-			console.error(body);
-			return null;
-		}
+    if (body.success !== true) {
+      console.error(body);
+      return null;
+    }
 
-		return body.data.result;
-	} catch (error) {
-		console.error(error);
-		return null;
-	}
+    return body.data.result;
+  } catch (error) {
+    console.error(error);
+    return null;
+  }
 };
 
 /**
@@ -110,18 +110,18 @@ const fetchSales = async (id) => {
  * @param  {Array} deals
  */
 const renderDeals = (deals) => {
-	sectionDeals.innerHTML = "";
+  sectionDeals.innerHTML = "";
 
-	const fragment = document.createDocumentFragment();
-	const div = document.createElement("div");
-	const template = deals
-		.map((deal) => {
-			const isFavorite = isFavoriteDeal(deal.uuid);
-			return `
+  const fragment = document.createDocumentFragment();
+  const div = document.createElement("div");
+  const template = deals
+    .map((deal) => {
+      const isFavorite = isFavoriteDeal(deal.uuid);
+      return `
       <div class="col-4">
         <div class="card mb-4 ${isDarkModeEnabled() ? "dark-mode" : ""}" id=${
-				deal.uuid
-			}">
+        deal.uuid
+      }">
           <div class="card-body d-block">
             <div class="row">
               <div class="col-md-9" style="width: 85%;">
@@ -131,40 +131,40 @@ const renderDeals = (deals) => {
               </div>
               <div class="col px-0 ms-2">
                 <button class="btn favorite-btn" style="width: fit-content;" data-id="${
-									deal.uuid
-								}">
+                  deal.uuid
+                }">
                   ${isFavorite ? DEL_FAV_ICON : ADD_FAV_ICON}
                 </button>
               </div>
                 <h6 class="card-subtitle mb-2 text-muted">${deal.id}</h6>
             </div>
             <p class="badge rounded-pill text-bg-danger mb-0">${
-							deal.temperature
-						}°</p>
+              deal.temperature
+            }°</p>
             <p class="card-text text-decoration-line-through text-muted mb-0">${formatPrice(
-							deal.retail
-						)}</p>
+              deal.retail
+            )}</p>
             <p class="card-text mb-0 ${
-							isDarkModeEnabled() ? "dark-mode" : ""
-						}" id="deal-price">${formatPrice(deal.price)}</p>
+              isDarkModeEnabled() ? "dark-mode" : ""
+            }" id="deal-price">${formatPrice(deal.price)}</p>
           </div>
         </div>
       </div>
     `;
-		})
-		.join("");
+    })
+    .join("");
 
-	div.classList.add("row");
-	div.classList.add("items");
-	div.classList.add("overflow-auto");
-	div.innerHTML = template;
-	fragment.appendChild(div);
-	sectionDeals.appendChild(fragment);
+  div.classList.add("row");
+  div.classList.add("items");
+  div.classList.add("overflow-auto");
+  div.innerHTML = template;
+  fragment.appendChild(div);
+  sectionDeals.appendChild(fragment);
 
-	// Attach listener to the favorite buttons
-	document.querySelectorAll(".favorite-btn").forEach((button) => {
-		button.addEventListener("click", toggleFavorite);
-	});
+  // Attach listener to the favorite buttons
+  document.querySelectorAll(".favorite-btn").forEach((button) => {
+    button.addEventListener("click", toggleFavorite);
+  });
 };
 
 /** Render list of Vinted sales
@@ -172,23 +172,23 @@ const renderDeals = (deals) => {
  * @param {Array} sales
  */
 const renderSales = async (sales) => {
-	sectionSales.innerHTML = "";
+  sectionSales.innerHTML = "";
 
-	const fragment = document.createDocumentFragment();
-	const div = document.createElement("div");
-	let allDeals = await fetchDeals(1, currentPagination.count);
-	allDeals = allDeals.result;
+  const fragment = document.createDocumentFragment();
+  const div = document.createElement("div");
+  let allDeals = await fetchDeals(1, currentPagination.count);
+  allDeals = allDeals.result;
 
-	let template;
-	if (sales !== undefined) {
-		const legoId = selectLegoSetIds.value;
-		template = sales
-			.map((sale) => {
-				return `
+  let template;
+  if (sales !== undefined) {
+    const legoId = selectLegoSetIds.value;
+    template = sales
+      .map((sale) => {
+        return `
         <div class="col-4">
           <div class="card mb-4 ${isDarkModeEnabled() ? "dark-mode" : ""}" id=${
-					sale.uuid
-				}">
+          sale.uuid
+        }">
             <div class="card-body d-block">
               <div class="row">
                 <div class="col-md-9" style="width: 85%;">
@@ -198,46 +198,46 @@ const renderSales = async (sales) => {
                 </div>
                 <div class="col px-0 ms-2">
                   <button class="btn favorite-btn" style="width: fit-content; display: none;" data-id="${
-										sale.uuid
-									}">
+                    sale.uuid
+                  }">
                     ${ADD_FAV_ICON}
                   </button>
                 </div>
                   <h6 class="card-subtitle mb-2 text-muted">${legoId}</h6>
               </div>
               <p class="badge rounded-pill text-bg-info mb-0">${findHighestProfitability(
-								allDeals,
-								{
-									legoId: legoId,
-									price: sale.price,
-								}
-							)}%</p>
+                allDeals,
+                {
+                  legoId: legoId,
+                  price: sale.price,
+                }
+              )}%</p>
               <p class="card-text mb-0 ${
-								isDarkModeEnabled() ? "dark-mode" : ""
-							}" id="sale-price">${formatPrice(sale.price)}</p>
+                isDarkModeEnabled() ? "dark-mode" : ""
+              }" id="sale-price">${formatPrice(sale.price)}</p>
             </div>
           </div>
         </div>
       `;
-			})
-			.join("");
-	} else {
-		currentSales = [];
-		template = `
+      })
+      .join("");
+  } else {
+    currentSales = [];
+    template = `
       <div class="alert alert-warning" role="alert">
         Choose a Lego set to filter the sales by!
       </div>
       `;
-	}
+  }
 
-	div.classList.add("row");
-	div.classList.add("items");
-	div.classList.add("overflow-auto");
-	div.innerHTML = template;
-	fragment.appendChild(div);
-	sectionSales.appendChild(fragment);
-	renderPagination(currentPagination);
-	renderIndicators(currentPagination);
+  div.classList.add("row");
+  div.classList.add("items");
+  div.classList.add("overflow-auto");
+  div.innerHTML = template;
+  fragment.appendChild(div);
+  sectionSales.appendChild(fragment);
+  renderPagination(currentPagination);
+  renderIndicators(currentPagination);
 };
 
 /**
@@ -245,46 +245,90 @@ const renderSales = async (sales) => {
  * @param  {Object} pagination
  */
 const renderPagination = (pagination) => {
-	const { currentPage, pageCount } = pagination;
-	const options = Array.from(
-		{ length: pageCount },
-		(value, index) => `<option value="${index + 1}">${index + 1}</option>`
-	).join("");
+  const { currentPage, pageCount } = pagination;
+  const paginationContainer = document.querySelector(".pagination");
 
-	selectPage.innerHTML = options;
-	selectPage.selectedIndex = currentPage - 1;
+  paginationContainer.innerHTML = ""; // Clear previous pagination
 
-	const itemsPerPage = parseInt(selectShow.value);
-	const rangeBeg = selectPage.selectedIndex * itemsPerPage + 1;
-	const rangeEnd = (selectPage.selectedIndex + 1) * itemsPerPage;
-	const nbDeals = currentPagination.count;
-	const nbSales = currentSales.length > 0 ? currentSales.length : 0;
+  // Feature 1 - Browse pages
+  // Previous button
+  const prevDisabled = currentPage === 1 ? "disabled" : "";
+  paginationContainer.innerHTML += `
+    <li class="page-item ${prevDisabled}">
+      <a class="page-link" href="#" aria-label="Previous" data-page="${
+        currentPage - 1
+      }">
+        <i class="fi fi-rr-caret-left"></i>
+      </a>
+    </li>
+  `;
 
-	if (isTabActive("nav-deals-tab")) {
-		document.getElementById("pagination-info").style.display = "block";
-		paginationInfo.innerHTML = `
-    <div class="text-muted float-end">
-      Showing ${rangeBeg} - ${
-			rangeEnd > nbDeals ? nbDeals : rangeEnd
-		} out of ${nbDeals} deal(s)
-    </div>
+  // Page numbers
+  for (let page = 1; page <= pageCount; page++) {
+    const activeClass = page === currentPage ? "active" : "";
+    paginationContainer.innerHTML += `
+      <li class="page-item ${activeClass}">
+        <a class="page-link" href="#" data-page="${page}">${page}</a>
+      </li>
     `;
-	} else {
-		if (currentSales.length === 0) {
-			document.getElementById("pagination-info").style.display = "none";
-			return;
-		}
-		document.getElementById("pagination-info").style.display = "block";
+  }
 
-		// Feature 8 - Specific indicators
-		paginationInfo.innerHTML = `
-    <div class="text-muted float-end">
-      Showing ${rangeBeg} - ${
-			rangeEnd > nbSales ? nbSales : rangeEnd
-		} out of ${nbSales} sale(s) 
-    </div>
-    `;
-	}
+  // Next button
+  const nextDisabled = currentPage === pageCount ? "disabled" : "";
+  paginationContainer.innerHTML += `
+    <li class="page-item ${nextDisabled}">
+      <a class="page-link" href="#" aria-label="Next" data-page="${
+        currentPage + 1
+      }">
+        <i class="fi fi-rr-caret-right"></i>
+      </a>
+    </li>
+  `;
+
+  // Add event listeners to pagination links
+  document.querySelectorAll(".page-link").forEach((link) => {
+    link.addEventListener("click", async (event) => {
+      event.preventDefault();
+      const page = parseInt(event.target.getAttribute("data-page"));
+      if (!isNaN(page)) {
+        const newDeals = await fetchDeals(page, selectShow.value);
+        setCurrentDeals(newDeals);
+        render(currentDeals, currentPagination); // Re-render deals and pagination
+      }
+    });
+  });
+
+  const itemsPerPage = parseInt(selectShow.value);
+  const rangeBeg = (currentPage - 1) * itemsPerPage + 1;
+  const rangeEnd = currentPage * itemsPerPage;
+  const nbDeals = currentPagination.count;
+  const nbSales = currentSales.length > 0 ? currentSales.length : 0;
+
+  if (isTabActive("nav-deals-tab")) {
+    document.getElementById("pagination-info").style.display = "block";
+    paginationInfo.innerHTML = `
+		<div class="text-muted float-end">
+		Showing ${rangeBeg} - ${
+      rangeEnd > nbDeals ? nbDeals : rangeEnd
+    } out of ${nbDeals} deal(s)
+		</div>
+		`;
+  } else {
+    if (currentSales.length === 0) {
+      document.getElementById("pagination-info").style.display = "none";
+      return;
+    }
+    document.getElementById("pagination-info").style.display = "block";
+
+    // Feature 8 - Specific indicators
+    paginationInfo.innerHTML = `
+		<div class="text-muted float-end">
+		Showing ${rangeBeg} - ${
+      rangeEnd > nbSales ? nbSales : rangeEnd
+    } out of ${nbSales} sale(s) 
+		</div>
+		`;
+  }
 };
 
 /**
@@ -292,20 +336,20 @@ const renderPagination = (pagination) => {
  * @param  {Array} lego set ids
  */
 const renderLegoSetIds = (deals) => {
-	const legoSection = document.getElementById("lego");
-	if (isTabActive("nav-deals-tab")) {
-		legoSection.style.display = "none";
-		return;
-	}
+  const legoSection = document.getElementById("lego");
+  if (isTabActive("nav-deals-tab")) {
+    legoSection.style.display = "none";
+    return;
+  }
 
-	legoSection.style.display = "block";
-	const ids = getIdsFromDeals(deals);
-	const placeholer = `<option selected>Lego set to filter by</option>`;
-	const options = ids
-		.map((id) => `<option value="${id}">${id}</option>`)
-		.join("");
+  legoSection.style.display = "block";
+  const ids = getIdsFromDeals(deals);
+  const placeholer = `<option selected>Lego set to filter by</option>`;
+  const options = ids
+    .map((id) => `<option value="${id}">${id}</option>`)
+    .join("");
 
-	selectLegoSetIds.innerHTML = placeholer + options;
+  selectLegoSetIds.innerHTML = placeholer + options;
 };
 
 /**
@@ -313,72 +357,72 @@ const renderLegoSetIds = (deals) => {
  * @param  {Object} pagination
  */
 const renderIndicators = (pagination) => {
-	const { count } = pagination;
+  const { count } = pagination;
 
-	// Hide indicators if we are on the "Deals" tab
-	if (isTabActive("nav-deals-tab")) {
-		sectionIndicators.style.display = "none";
-		return;
-	}
+  // Hide indicators if we are on the "Deals" tab
+  if (isTabActive("nav-deals-tab")) {
+    sectionIndicators.style.display = "none";
+    return;
+  }
 
-	// Display the indicators agains
-	sectionIndicators.style.display = "block";
+  // Display the indicators agains
+  sectionIndicators.style.display = "block";
 
-	if (currentSales.length > 0) {
-		// Feature 9 - average, p25, p50 and p95 price value indicators
-		spanAvgPrice.innerHTML = `${formatPrice(
-			getSalesPriceAverage(currentSales)
-		)}`;
-		spanP5Price.innerHTML = `${formatPrice(
-			calcQuartile(currentSales, 5).toFixed(2)
-		)}`;
-		spanP25Price.innerHTML = `${formatPrice(
-			calcQuartile(currentSales, 25).toFixed(2)
-		)}`;
-		spanP50Price.innerHTML = `${formatPrice(
-			calcQuartile(currentSales, 50).toFixed(2)
-		)}`;
-	} else {
-		spanAvgPrice.innerHTML = "NaN";
-		spanP5Price.innerHTML = "NaN";
-		spanP25Price.innerHTML = "NaN";
-		spanP50Price.innerHTML = "NaN";
-	}
+  if (currentSales.length > 0) {
+    // Feature 9 - average, p25, p50 and p95 price value indicators
+    spanAvgPrice.innerHTML = `${formatPrice(
+      getSalesPriceAverage(currentSales)
+    )}`;
+    spanP5Price.innerHTML = `${formatPrice(
+      calcQuartile(currentSales, 5).toFixed(2)
+    )}`;
+    spanP25Price.innerHTML = `${formatPrice(
+      calcQuartile(currentSales, 25).toFixed(2)
+    )}`;
+    spanP50Price.innerHTML = `${formatPrice(
+      calcQuartile(currentSales, 50).toFixed(2)
+    )}`;
+  } else {
+    spanAvgPrice.innerHTML = "NaN";
+    spanP5Price.innerHTML = "NaN";
+    spanP25Price.innerHTML = "NaN";
+    spanP50Price.innerHTML = "NaN";
+  }
 
-	// Feature 10 - Lifetime value
-	spanLifetime.innerHTML = calculateLifetimeValue(currentSales);
+  // Feature 10 - Lifetime value
+  spanLifetime.innerHTML = calculateLifetimeValue(currentSales);
 };
 
 const render = async (deals, pagination) => {
-	renderDeals(deals);
-	renderSales();
-	renderPagination(pagination);
-	renderIndicators(pagination);
-	renderLegoSetIds(deals);
+  renderDeals(deals);
+  renderSales();
+  renderPagination(pagination);
+  renderIndicators(pagination);
+  renderLegoSetIds(deals);
 };
 
 const renderPaginatedDeals = (deals) => {
-	// Paginate the new deals before rendering
-	const paginatedDeals = paginateDeals(
-		deals,
-		currentPagination.currentPage,
-		selectShow.value
-	);
+  // Paginate the new deals before rendering
+  const paginatedDeals = paginateDeals(
+    deals,
+    currentPagination.currentPage,
+    selectShow.value
+  );
 
-	// Update pagination meta for new results
-	const newPagination = {
-		currentPage: 1,
-		pageCount: Math.ceil(deals.length / parseInt(selectShow.value)),
-		pageSize: parseInt(selectShow.value),
-		count: deals.length,
-	};
+  // Update pagination meta for new results
+  const newPagination = {
+    currentPage: 1,
+    pageCount: Math.ceil(deals.length / parseInt(selectShow.value)),
+    pageSize: parseInt(selectShow.value),
+    count: deals.length,
+  };
 
-	setCurrentDeals({
-		result: paginatedDeals,
-		meta: newPagination,
-	});
+  setCurrentDeals({
+    result: paginatedDeals,
+    meta: newPagination,
+  });
 
-	render(currentDeals, currentPagination);
+  render(currentDeals, currentPagination);
 };
 
 /**
@@ -387,132 +431,122 @@ const renderPaginatedDeals = (deals) => {
 
 // Select the number of deals to display
 selectShow.addEventListener("change", async (event) => {
-	const newPageSize = parseInt(event.target.value);
-	const maxPage =
-		Math.trunc(currentDeals.length / currentPagination.pageSize) + 1;
-	const newPage =
-		currentPagination.currentPage <= maxPage
-			? currentPagination.currentPage
-			: maxPage;
+  const newPageSize = parseInt(event.target.value);
+  const maxPage =
+    Math.trunc(currentDeals.length / currentPagination.pageSize) + 1;
+  const newPage =
+    currentPagination.currentPage <= maxPage
+      ? currentPagination.currentPage
+      : maxPage;
 
-	const deals = await fetchDeals(newPage, newPageSize);
-	console.table(deals);
+  const deals = await fetchDeals(newPage, newPageSize);
+  console.table(deals);
 
-	setCurrentDeals(deals);
-	render(currentDeals, currentPagination);
-});
-
-// Feature 1 - Browse pages
-selectPage.addEventListener("change", async (event) => {
-	const page = parseInt(event.target.value);
-	console.log(selectShow.value);
-	const deals = await fetchDeals(page, selectShow.value);
-
-	setCurrentDeals(deals);
-	render(currentDeals, currentPagination);
+  setCurrentDeals(deals);
+  render(currentDeals, currentPagination);
 });
 
 // Filter Features
 filters.querySelectorAll("span").forEach((filterOption) => {
-	filterOption.addEventListener("click", async () => {
-		let filteredDeals;
+  filterOption.addEventListener("click", async () => {
+    let filteredDeals;
 
-		// Check if the button is already active (clicked again)
-		if (filterOption.classList.contains("active")) {
-			// Remove active class and go back to unfiltered deals
-			filterOption.classList.remove("active");
-			renderPaginatedDeals(unfilteredDeals); // Render unfiltered deals
-			unfilteredDeals = [];
-			isListFiltered = false;
-			return; // Stop execution to prevent re-filtering
-		}
+    // Check if the button is already active (clicked again)
+    if (filterOption.classList.contains("active")) {
+      // Remove active class and go back to unfiltered deals
+      filterOption.classList.remove("active");
+      renderPaginatedDeals(unfilteredDeals); // Render unfiltered deals
+      unfilteredDeals = [];
+      isListFiltered = false;
+      return; // Stop execution to prevent re-filtering
+    }
 
-		// Make sure to remove the "active" class from all buttons first
-		filters.querySelectorAll("span").forEach((btn) => {
-			btn.classList.remove("active");
-		});
+    // Make sure to remove the "active" class from all buttons first
+    filters.querySelectorAll("span").forEach((btn) => {
+      btn.classList.remove("active");
+    });
 
-		filterOption.classList.add("active");
+    filterOption.classList.add("active");
 
-		const listToFilter = !isListFiltered ? currentDeals : unfilteredDeals;
+    const listToFilter = !isListFiltered ? currentDeals : unfilteredDeals;
 
-		// Store the unfiltered version before filtering so we can get back to it
-		unfilteredDeals = currentDeals;
+    // Store the unfiltered version before filtering so we can get back to it
+    unfilteredDeals = currentDeals;
 
-		// Fetch all deals first (assuming we are fetching all available data)
-		let allDeals = await fetchDeals(1, currentPagination.count);
-		allDeals = allDeals.result;
+    // Fetch all deals first (assuming we are fetching all available data)
+    let allDeals = await fetchDeals(1, currentPagination.count);
+    allDeals = allDeals.result;
 
-		// Apply the filter based on the filter option selected
-		switch (filterOption.innerHTML) {
-			// Feature 2 - Filter by best discount
-			case "Best discount":
-				filteredDeals = filterDealsByDiscount(listToFilter, 50);
-				break;
+    // Apply the filter based on the filter option selected
+    switch (filterOption.innerHTML) {
+      // Feature 2 - Filter by best discount
+      case "Best discount":
+        filteredDeals = filterDealsByDiscount(listToFilter, 50);
+        break;
 
-			// Feature 3 - Filter by most commented
-			case "Popular":
-				filteredDeals = filterDealsByComments(listToFilter);
-				break;
+      // Feature 3 - Filter by most commented
+      case "Popular":
+        filteredDeals = filterDealsByComments(listToFilter);
+        break;
 
-			// Feature 4 - Filter by hot deals
-			case "Hot deals":
-				filteredDeals = filterDealsByTemperature(listToFilter);
-				break;
+      // Feature 4 - Filter by hot deals
+      case "Hot deals":
+        filteredDeals = filterDealsByTemperature(listToFilter);
+        break;
 
-			// Feature 14 - Filter by favorites
-			case "Favorites":
-				filteredDeals = allDeals.filter((deal) => isFavoriteDeal(deal.uuid));
-				break;
+      // Feature 14 - Filter by favorites
+      case "Favorites":
+        filteredDeals = allDeals.filter((deal) => isFavoriteDeal(deal.uuid));
+        break;
 
-			default:
-				filteredDeals = unfilteredDeals; // Default, no filtering
-				break;
-		}
-		isListFiltered = true;
-		console.table(filteredDeals);
-		renderPaginatedDeals(filteredDeals);
-	});
+      default:
+        filteredDeals = unfilteredDeals; // Default, no filtering
+        break;
+    }
+    isListFiltered = true;
+    console.table(filteredDeals);
+    renderPaginatedDeals(filteredDeals);
+  });
 });
 
 /** Sorting */
 selectSort.addEventListener("change", async (event) => {
-	// Fetch all deals first (assuming we are fetching all available data)
-	const allDeals = await fetchDeals(1, currentPagination.count);
-	setCurrentDeals(allDeals);
-	let sortedDeals = sortDeals(currentDeals, event.target.value);
+  // Fetch all deals first (assuming we are fetching all available data)
+  const allDeals = await fetchDeals(1, currentPagination.count);
+  setCurrentDeals(allDeals);
+  let sortedDeals = sortDeals(currentDeals, event.target.value);
 
-	renderPaginatedDeals(sortedDeals);
+  renderPaginatedDeals(sortedDeals);
 });
 
 // Feature 7 - Display Vinted sales
 selectLegoSetIds.addEventListener("change", async (event) => {
-	const selectedSet = event.target.value;
-	currentSales = await fetchSales(selectedSet);
-	renderSales(currentSales);
+  const selectedSet = event.target.value;
+  currentSales = await fetchSales(selectedSet);
+  renderSales(currentSales);
 });
 
 document.querySelectorAll(".nav-link").forEach((link) => {
-	link.addEventListener("click", () => {
-		render(currentDeals, currentPagination);
-	});
+  link.addEventListener("click", () => {
+    render(currentDeals, currentPagination);
+  });
 });
 
 if (savedDarkMode === "enabled") {
-	enableDarkMode(); // Apply dark mode
-	darkModeToggle.checked = true; // Ensure the toggle is checked
+  enableDarkMode(); // Apply dark mode
+  darkModeToggle.checked = true; // Ensure the toggle is checked
 }
 darkModeToggle.addEventListener("change", () => {
-	if (darkModeToggle.checked) {
-		enableDarkMode(); // Enable dark mode
-	} else {
-		disableDarkMode(); // Disable dark mode
-	}
+  if (darkModeToggle.checked) {
+    enableDarkMode(); // Enable dark mode
+  } else {
+    disableDarkMode(); // Disable dark mode
+  }
 });
 
 document.addEventListener("DOMContentLoaded", async () => {
-	const deals = await fetchDeals();
+  const deals = await fetchDeals();
 
-	setCurrentDeals(deals);
-	render(currentDeals, currentPagination);
+  setCurrentDeals(deals);
+  render(currentDeals, currentPagination);
 });
