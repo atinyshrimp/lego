@@ -86,6 +86,13 @@ a:hover {
   border-color: var(--bu-accent);
 }
 
+.form-select {
+  color: var(--bu-text);
+  background-color: var(--bu-bg);
+  border-radius: 1rem;
+  border-color: var(--bu-text);
+}
+
 .nav {
   --bs-nav-tabs-border-color: var(--bu-bg);
   --bs-nav-tabs-link-hover-border-color: #e9ecef #e9ecef var(--bu-bg);
@@ -131,6 +138,10 @@ a:hover {
 
 .filter {
   font-size: small;
+  border-radius: 1rem;
+  width: fit-content;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 
 .clamp-2-lines {

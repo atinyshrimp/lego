@@ -44,19 +44,25 @@
   <body class="px-3">
     <div class="row">
       <!-- Left column, with options & info about the page -->
-      <div class="col-3">
+      <div class="col-2">
         <section class="mt-2 mb-4" id="lego">
           <h2>Lego sets</h2>
           <div>
-            <label>Lego set id:</label>
-            <select id="lego-set-id-select"></select>
+            <select
+              class="form-select form-select-sm"
+              id="lego-set-id-select"
+            ></select>
           </div>
         </section>
         <section class="mt-2 mb-4" id="options">
           <h2>Filters</h2>
-          <div id="sort">
+          <div class="w-auto mb-2 d-inline-flex align-items-center" id="sort">
             <label for="sort-select">Sort:</label>
-            <select name="sort" id="sort-select">
+            <select
+              class="form-select form-select-sm ms-2"
+              name="sort"
+              id="sort-select"
+            >
               <option value="price-asc">Cheaper</option>
               <option value="price-desc">Expensive</option>
               <option value="date-desc">Recently published</option>
@@ -65,24 +71,16 @@
           </div>
           <div class="px-2 my-3" id="filters">
             <div class="row gap-2">
-              <span
-                class="btn btn-sm btn-outline-secondary col-md-4 filter"
-                style="width: fit-content; border-radius: 1rem"
+              <span class="btn btn-sm btn-outline-secondary col-md-4 filter"
                 >Popular</span
               >
-              <span
-                class="btn btn-sm btn-outline-secondary col-md-4 filter"
-                style="width: fit-content; border-radius: 1rem"
+              <span class="btn btn-sm btn-outline-secondary col-md-4 filter"
                 >Best discount</span
               >
-              <span
-                class="btn btn-sm btn-outline-secondary col-md-4 filter"
-                style="width: fit-content; border-radius: 1rem"
+              <span class="btn btn-sm btn-outline-secondary col-md-4 filter"
                 >Hot deals</span
               >
-              <span
-                class="btn btn-sm btn-outline-secondary col-md-4 filter"
-                style="width: fit-content; border-radius: 1rem"
+              <span class="btn btn-sm btn-outline-secondary col-md-4 filter"
                 >Favorites</span
               >
             </div>
@@ -146,9 +144,9 @@
         <!-- Rendered items' cards -->
         <div class="row">
           <div class="pt-3 px-4 d-flex justify-content-between">
-            <div id="show">
+            <div class="w-auto d-inline-flex align-items-center" id="show">
               <label for="show-select">Show:</label>
-              <select id="show-select">
+              <select class="form-select form-select-sm ms-1" id="show-select">
                 <option value="6">6</option>
                 <option value="12">12</option>
                 <option value="24">24</option>
