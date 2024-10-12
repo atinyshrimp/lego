@@ -182,12 +182,19 @@ const renderSales = async (sales) => {
   if (sales !== undefined) {
     const legoId = selectLegoSetIds.value;
     template = sales
+      // sorting the sales by highest profitability
+      .sort(
+        (a, b) =>
+          findHighestProfitability(allDeals, {
+            legoId: legoId,
+            price: b.price,
+          }) -
+          findHighestProfitability(allDeals, { legoId: legoId, price: a.price })
+      )
       .map((sale) => {
         return `
         <div class="col-4">
-          <div class="card mb-4 ${isDarkModeEnabled() ? "dark-mode" : ""}" id=${
-          sale.uuid
-        }">
+          <div class="card mb-4" id=${sale.uuid}">
             <div class="card-body d-block">
               <div class="row">
                 <div class="col-md-9" style="width: 85%;">
@@ -211,9 +218,9 @@ const renderSales = async (sales) => {
                   price: sale.price,
                 }
               )}%</p>
-              <p class="card-text mb-0 ${
-                isDarkModeEnabled() ? "dark-mode" : ""
-              }" id="sale-price">${formatPrice(sale.price)}</p>
+              <p class="card-text mb-0" id="sale-price">${formatPrice(
+                sale.price
+              )}</p>
             </div>
           </div>
         </div>
