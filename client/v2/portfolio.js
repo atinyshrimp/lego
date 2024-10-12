@@ -38,6 +38,7 @@ const paginationInfo = document.querySelector("#pagination-info");
 const sectionDeals = document.querySelector("#nav-deals");
 const sectionSales = document.querySelector("#nav-sales");
 const sectionIndicators = document.getElementById("indicators");
+const sectionOptions = document.getElementById("options");
 const spanAvgPrice = document.querySelector("#averagePrice");
 const spanP5Price = document.querySelector("#p5Price");
 const spanP25Price = document.querySelector("#p25Price");
@@ -304,6 +305,10 @@ const renderPagination = (pagination) => {
 
   if (isTabActive("nav-deals-tab")) {
     document.getElementById("pagination-info").style.display = "block";
+    sectionOptions.style.display = "block";
+    document.querySelector(".pagination").style.display = "flex";
+    document.getElementById("show").style.visibility = "";
+
     paginationInfo.innerHTML = `
 		<div class="text-muted float-end">
 		Showing ${rangeBeg} - ${
@@ -312,6 +317,10 @@ const renderPagination = (pagination) => {
 		</div>
 		`;
   } else {
+    document.querySelector(".pagination").style.display = "none";
+    document.getElementById("show").style.visibility = "hidden";
+    sectionOptions.style.display = "none";
+
     if (currentSales.length === 0) {
       document.getElementById("pagination-info").style.display = "none";
       return;
