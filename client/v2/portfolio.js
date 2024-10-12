@@ -337,19 +337,17 @@ const renderPagination = (pagination) => {
     // Feature 8 - Specific indicators
     paginationInfo.innerHTML = `
 		<div class="text-muted float-end">
-		Showing ${rangeBeg} - ${
-      rangeEnd > nbSales ? nbSales : rangeEnd
-    } out of ${nbSales} sale(s) 
+		Showing ${nbSales} sale(s) 
 		</div>
 		`;
   }
 };
 
-/**
- * Render lego set ids selector
+/** Render lego set ids selector
+ *
  * @param  {Array} lego set ids
  */
-const renderLegoSetIds = (deals) => {
+const renderLegoSetIds = async (deals) => {
   const legoSection = document.getElementById("lego");
   if (isTabActive("nav-deals-tab")) {
     legoSection.style.display = "none";
@@ -357,9 +355,14 @@ const renderLegoSetIds = (deals) => {
   }
 
   legoSection.style.display = "block";
-  const ids = getIdsFromDeals(deals);
+  let allDeals = await fetchDeals(1, currentPagination.count);
+  allDeals = allDeals.result;
+
+  const ids = getIdsFromDeals(allDeals);
   const placeholer = `<option selected>Lego set to filter by</option>`;
   const options = ids
+    .filter((id) => id !== "")
+    .sort((a, b) => a - b)
     .map((id) => `<option value="${id}">${id}</option>`)
     .join("");
 
