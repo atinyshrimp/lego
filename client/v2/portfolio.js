@@ -119,9 +119,7 @@ const renderDeals = (deals) => {
       const isFavorite = isFavoriteDeal(deal.uuid);
       return `
       <div class="col-4">
-        <div class="card mb-4 ${isDarkModeEnabled() ? "dark-mode" : ""}" id=${
-        deal.uuid
-      }">
+        <div class="card mb-4" id=${deal.uuid}">
           <div class="card-body d-block">
             <div class="row">
               <div class="col-md-9" style="width: 85%;">
@@ -144,9 +142,9 @@ const renderDeals = (deals) => {
             <p class="card-text text-decoration-line-through text-muted mb-0">${formatPrice(
               deal.retail
             )}</p>
-            <p class="card-text mb-0 ${
-              isDarkModeEnabled() ? "dark-mode" : ""
-            }" id="deal-price">${formatPrice(deal.price)}</p>
+            <p class="card-text mb-0" id="deal-price">${formatPrice(
+              deal.price
+            )}</p>
           </div>
         </div>
       </div>
