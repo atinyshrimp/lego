@@ -21,14 +21,16 @@ This endpoint accepts the following optional query string parameters:
 - `id` - lego set id to return
 */
 
-// current deals on the page
+/** Global variables and selectors
+ *
+ */
 let currentDeals = [];
 let unfilteredDeals = [];
 let currentSales = [];
 let currentPagination = {};
 let isListFiltered = false;
 
-// instantiate the selectors
+// Selectors
 const darkModeToggle = document.getElementById("darkModeToggle");
 const savedDarkMode = localStorage.getItem("darkMode");
 const selectShow = document.querySelector("#show-select");
@@ -39,26 +41,18 @@ const sectionDeals = document.querySelector("#nav-deals");
 const sectionSales = document.querySelector("#nav-sales");
 const sectionIndicators = document.getElementById("indicators");
 const sectionOptions = document.getElementById("options");
+const filters = document.querySelector("#filters");
+const selectSort = document.querySelector("#sort-select");
+
+// Indicator elements
 const spanAvgPrice = document.querySelector("#averagePrice");
 const spanP5Price = document.querySelector("#p5Price");
 const spanP25Price = document.querySelector("#p25Price");
 const spanP50Price = document.querySelector("#p50Price");
 const spanLifetime = document.querySelector("#lifetimeValue");
-const filters = document.querySelector("#filters");
-const selectSort = document.querySelector("#sort-select");
 
-/**
- * Set global value
- * @param {Array} result - deals to display
- * @param {Object} meta - pagination meta info
- */
-const setCurrentDeals = ({ result, meta }) => {
-  currentDeals = result;
-  currentPagination = meta;
-};
-
-/**
- * Fetch deals from api
+/** Fetch deals from API
+ *
  * @param  {Number}  [page=1] - current page to fetch
  * @param  {Number}  [size=6] - size of the page
  * @return {Object}
@@ -69,20 +63,15 @@ const fetchDeals = async (page = 1, size = 6) => {
       `https://lego-api-blue.vercel.app/deals?page=${page}&size=${size}`
     );
     const body = await response.json();
-
-    if (body.success !== true) {
-      console.error(body);
-      return { currentDeals, currentPagination };
-    }
-
+    if (body.success !== true) throw new Error("Failed to fetch deals");
     return body.data;
   } catch (error) {
     console.error(error);
-    return { currentDeals, currentPagination };
+    return { result: currentDeals, meta: currentPagination };
   }
 };
 
-/** Fetch sales from API
+/** Fetch sales from API for a given lego set ID
  *
  * @param {String} id - The ID of the lego set to look up
  * @returns A list of Vinted sales for the `id`
@@ -93,21 +82,55 @@ const fetchSales = async (id) => {
       `https://lego-api-blue.vercel.app/sales?id=${id}`
     );
     const body = await response.json();
-
-    if (body.success !== true) {
-      console.error(body);
-      return null;
-    }
-
+    if (body.success !== true) throw new Error("Failed to fetch sales");
     return body.data.result;
   } catch (error) {
     console.error(error);
-    return null;
+    return [];
   }
 };
 
-/**
- * Render list of deals
+/** Create HTML template for each deal
+ *
+ * @param {*} deal
+ * @returns
+ */
+const createDealTemplate = (deal) => {
+  const isFavorite = isFavoriteDeal(deal.uuid);
+  return `
+    <div class="col-4">
+      <div class="card mb-4" id=${deal.uuid}>
+        <div class="card-body d-block">
+          <div class="row">
+            <div class="col-md-9" style="width: 85%;">
+              <a href="${deal.link}" target="_blank">
+                <h5 class="card-title clamp-2-lines">${deal.title}</h5>
+              </a>
+            </div>
+            <div class="col px-0 ms-2">
+              <button class="btn favorite-btn" style="width: fit-content;" data-id="${
+                deal.uuid
+              }">
+                ${isFavorite ? DEL_FAV_ICON : ADD_FAV_ICON}
+              </button>
+            </div>
+            <h6 class="card-subtitle mb-2 text-muted">${deal.id}</h6>
+          </div>
+          <p class="badge rounded-pill text-bg-danger mb-0">${
+            deal.temperature
+          }°</p>
+          <p class="card-text text-decoration-line-through text-muted mb-0">${formatPrice(
+            deal.retail
+          )}</p>
+          <p class="card-text mb-0">${formatPrice(deal.price)}</p>
+        </div>
+      </div>
+    </div>
+  `;
+};
+
+/** Render list of deals
+ *
  * @param  {Array} deals
  */
 const renderDeals = (deals) => {
@@ -115,47 +138,9 @@ const renderDeals = (deals) => {
 
   const fragment = document.createDocumentFragment();
   const div = document.createElement("div");
-  const template = deals
-    .map((deal) => {
-      const isFavorite = isFavoriteDeal(deal.uuid);
-      return `
-      <div class="col-4">
-        <div class="card mb-4" id=${deal.uuid}">
-          <div class="card-body d-block">
-            <div class="row">
-              <div class="col-md-9" style="width: 85%;">
-                <a href="${deal.link}" target="_blank"">
-                  <h5 class="card-title clamp-2-lines">${deal.title}</h5>
-                </a>
-              </div>
-              <div class="col px-0 ms-2">
-                <button class="btn favorite-btn" style="width: fit-content;" data-id="${
-                  deal.uuid
-                }">
-                  ${isFavorite ? DEL_FAV_ICON : ADD_FAV_ICON}
-                </button>
-              </div>
-                <h6 class="card-subtitle mb-2 text-muted">${deal.id}</h6>
-            </div>
-            <p class="badge rounded-pill text-bg-danger mb-0">${
-              deal.temperature
-            }°</p>
-            <p class="card-text text-decoration-line-through text-muted mb-0">${formatPrice(
-              deal.retail
-            )}</p>
-            <p class="card-text mb-0" id="deal-price">${formatPrice(
-              deal.price
-            )}</p>
-          </div>
-        </div>
-      </div>
-    `;
-    })
-    .join("");
+  const template = deals.map((deal) => createDealTemplate(deal)).join("");
 
-  div.classList.add("row");
-  div.classList.add("items");
-  div.classList.add("overflow-auto");
+  div.classList.add("row", "items", "overflow-auto");
   div.innerHTML = template;
   fragment.appendChild(div);
   sectionDeals.appendChild(fragment);
@@ -246,8 +231,30 @@ const renderSales = async (sales) => {
   renderIndicators(currentPagination);
 };
 
-/**
- * Render page selector
+/** Create pagination button
+ *
+ * @param {*} page
+ * @param {*} disabled
+ * @param {*} icon
+ * @param {*} ariaLabel
+ * @returns
+ */
+const createPaginationButton = (
+  page,
+  disabled,
+  icon,
+  ariaLabel,
+  newClass = "disabled"
+) => `
+  <li class="page-item ${disabled ? newClass : ""}">
+    <a class="page-link" href="#" data-page="${page}" aria-label="${ariaLabel}">
+      ${icon}
+    </a>
+  </li>
+`;
+
+/** Render pagination using Bootstrap
+ *
  * @param  {Object} pagination
  */
 const renderPagination = (pagination) => {
@@ -258,38 +265,31 @@ const renderPagination = (pagination) => {
 
   // Feature 1 - Browse pages
   // Previous button
-  const prevDisabled = currentPage === 1 ? "disabled" : "";
-  paginationContainer.innerHTML += `
-    <li class="page-item ${prevDisabled}">
-      <a class="page-link" href="#" aria-label="Previous" data-page="${
-        currentPage - 1
-      }">
-        <i class="fi fi-rr-caret-left"></i>
-      </a>
-    </li>
-  `;
+  paginationContainer.innerHTML += createPaginationButton(
+    currentPage - 1,
+    currentPage === 1,
+    `<i class="fi fi-rr-caret-left"></i>`,
+    "Previous"
+  );
 
   // Page numbers
   for (let page = 1; page <= pageCount; page++) {
-    const activeClass = page === currentPage ? "active" : "";
-    paginationContainer.innerHTML += `
-      <li class="page-item ${activeClass}">
-        <a class="page-link" href="#" data-page="${page}">${page}</a>
-      </li>
-    `;
+    paginationContainer.innerHTML += createPaginationButton(
+      page,
+      page === currentPage,
+      page,
+      "",
+      "active"
+    );
   }
 
   // Next button
-  const nextDisabled = currentPage === pageCount ? "disabled" : "";
-  paginationContainer.innerHTML += `
-    <li class="page-item ${nextDisabled}">
-      <a class="page-link" href="#" aria-label="Next" data-page="${
-        currentPage + 1
-      }">
-        <i class="fi fi-rr-caret-right"></i>
-      </a>
-    </li>
-  `;
+  paginationContainer.innerHTML += createPaginationButton(
+    currentPage + 1,
+    currentPage === pageCount,
+    `<i class="fi fi-rr-caret-right"></i>`,
+    "Next"
+  );
 
   // Add event listeners to pagination links
   document.querySelectorAll(".page-link").forEach((link) => {
@@ -343,6 +343,16 @@ const renderPagination = (pagination) => {
   }
 };
 
+/** Set global deals and pagination data
+ *
+ * @param {Array} result - deals to display
+ * @param {Object} meta - pagination meta info
+ */
+const setCurrentDeals = ({ result, meta }) => {
+  currentDeals = result;
+  currentPagination = meta;
+};
+
 /** Render lego set ids selector
  *
  * @param  {Array} lego set ids
@@ -369,8 +379,8 @@ const renderLegoSetIds = async (deals) => {
   selectLegoSetIds.innerHTML = placeholer + options;
 };
 
-/**
- * Render page selector
+/** Render page selector
+ *
  * @param  {Object} pagination
  */
 const renderIndicators = (pagination) => {
@@ -418,6 +428,10 @@ const render = async (deals, pagination) => {
   renderLegoSetIds(deals);
 };
 
+/** Utility function for rendering paginated deals
+ *
+ * @param {*} deals
+ */
 const renderPaginatedDeals = (deals) => {
   // Paginate the new deals before rendering
   const paginatedDeals = paginateDeals(
@@ -463,70 +477,76 @@ selectShow.addEventListener("change", async (event) => {
   render(currentDeals, currentPagination);
 });
 
-// Filter Features
-filters.querySelectorAll("span").forEach((filterOption) => {
-  filterOption.addEventListener("click", async () => {
-    let filteredDeals;
+/**
+ * Handle filters
+ */
+const handleFilterClick = async (event) => {
+  const filterOption = event.target;
+  let filteredDeals;
 
-    // Check if the button is already active (clicked again)
-    if (filterOption.classList.contains("active")) {
-      // Remove active class and go back to unfiltered deals
-      filterOption.classList.remove("active");
-      renderPaginatedDeals(unfilteredDeals); // Render unfiltered deals
-      unfilteredDeals = [];
-      isListFiltered = false;
-      return; // Stop execution to prevent re-filtering
-    }
+  // Check if the button is already active (clicked again)
+  if (filterOption.classList.contains("active")) {
+    // Remove active class and go back to unfiltered deals
+    filterOption.classList.remove("active");
+    renderPaginatedDeals(unfilteredDeals); // Render unfiltered deals
+    unfilteredDeals = [];
+    isListFiltered = false;
+    return; // Stop execution to prevent re-filtering
+  }
 
-    // Make sure to remove the "active" class from all buttons first
-    filters.querySelectorAll("span").forEach((btn) => {
-      btn.classList.remove("active");
-    });
-
-    filterOption.classList.add("active");
-
-    const listToFilter = !isListFiltered ? currentDeals : unfilteredDeals;
-
-    // Store the unfiltered version before filtering so we can get back to it
-    unfilteredDeals = currentDeals;
-
-    // Fetch all deals first (assuming we are fetching all available data)
-    let allDeals = await fetchDeals(1, currentPagination.count);
-    allDeals = allDeals.result;
-
-    // Apply the filter based on the filter option selected
-    switch (filterOption.innerHTML) {
-      // Feature 2 - Filter by best discount
-      case "Best discount":
-        filteredDeals = filterDealsByDiscount(listToFilter, 50);
-        break;
-
-      // Feature 3 - Filter by most commented
-      case "Popular":
-        filteredDeals = filterDealsByComments(listToFilter);
-        break;
-
-      // Feature 4 - Filter by hot deals
-      case "Hot deals":
-        filteredDeals = filterDealsByTemperature(listToFilter);
-        break;
-
-      // Feature 14 - Filter by favorites
-      case "Favorites":
-        filteredDeals = allDeals.filter((deal) => isFavoriteDeal(deal.uuid));
-        break;
-
-      default:
-        filteredDeals = unfilteredDeals; // Default, no filtering
-        break;
-    }
-    isListFiltered = true;
-    console.table(filteredDeals);
-    renderPaginatedDeals(filteredDeals);
+  // Make sure to remove the "active" class from all buttons first
+  filters.querySelectorAll("span").forEach((btn) => {
+    btn.classList.remove("active");
   });
+
+  filterOption.classList.add("active");
+
+  const listToFilter = !isListFiltered ? currentDeals : unfilteredDeals;
+
+  // Store the unfiltered version before filtering so we can get back to it
+  unfilteredDeals = currentDeals;
+
+  // Fetch all deals first (assuming we are fetching all available data)
+  let allDeals = await fetchDeals(1, currentPagination.count);
+  allDeals = allDeals.result;
+
+  // Apply the filter based on the filter option selected
+  switch (filterOption.innerHTML) {
+    // Feature 2 - Filter by best discount
+    case "Best discount":
+      filteredDeals = filterDealsByDiscount(listToFilter, 50);
+      break;
+
+    // Feature 3 - Filter by most commented
+    case "Popular":
+      filteredDeals = filterDealsByComments(listToFilter);
+      break;
+
+    // Feature 4 - Filter by hot deals
+    case "Hot deals":
+      filteredDeals = filterDealsByTemperature(listToFilter);
+      break;
+
+    // Feature 14 - Filter by favorites
+    case "Favorites":
+      filteredDeals = allDeals.filter((deal) => isFavoriteDeal(deal.uuid));
+      break;
+
+    default:
+      filteredDeals = unfilteredDeals; // Default, no filtering
+      break;
+  }
+  isListFiltered = true;
+  renderPaginatedDeals(filteredDeals);
+};
+
+filters.querySelectorAll("span").forEach((filterOption) => {
+  filterOption.addEventListener("click", handleFilterClick);
 });
 
-/** Sorting */
+/**
+ * Handle sort change
+ */
 selectSort.addEventListener("change", async (event) => {
   // Fetch all deals first (assuming we are fetching all available data)
   const allDeals = await fetchDeals(1, currentPagination.count);
@@ -561,6 +581,9 @@ darkModeToggle.addEventListener("change", () => {
   }
 });
 
+/**
+ * Handle page load and initial fetch
+ */
 document.addEventListener("DOMContentLoaded", async () => {
   const deals = await fetchDeals();
 
