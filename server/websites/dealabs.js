@@ -31,19 +31,14 @@ const parse = (data) => {
       const legoId = match === null ? "" : match[0]; // Regular expression for Lego IDs
 
       /** Get the price infos */
-      const price = $(element)
-        .find("div.threadGrid-title span.overflow--fade")
-        .text();
-      const nextBestPrice = $(element)
-        .find(
-          "div.threadGrid-title span.overflow--fade span.overflow--wrap-off span.mute--text"
-        )
-        .text();
-      const discount = $(element)
-        .find(
-          "div.threadGrid-title span.overflow--fade span.overflow--wrap-off span.text--color-charcoal"
-        )
-        .text();
+      const price = JSON.parse(
+        $(element)
+          .find("div.threadGrid-title span.overflow--fade div.js-vue2")
+          .first()
+          .attr("data-vue2")
+      ).props.threadId;
+      const nextBestPrice = price;
+      const discount = price;
 
       const comments = JSON.parse(
         $(element)
@@ -54,9 +49,11 @@ const parse = (data) => {
           .attr("data-vue2")
       ).props.threadId; // the thread ID, I cannot find real data...
 
-      const temperature = $(element)
-        .find("div.threadGrid-headerMeta div div.flex")
-        .html();
+      let temperature = $(element)
+        .find("div.threadGrid-headerMeta div div.flex div.js-vue2")
+        .attr("data-vue2");
+      temperature =
+        temperature === undefined ? "" : JSON.parse(temperature).attrs.threadId; // the thread ID, I cannot find real data...
 
       /* Get the date */
       // Retrieve date in raw text
@@ -72,7 +69,9 @@ const parse = (data) => {
 
       // Add the current year if omitted in the string
       const publication = Date.parse(
-        containsYear ? textDate : textDate + " 2024"
+        containsYear
+          ? textDate
+          : textDate + ` ${new Date(Date.now()).getFullYear()}`
       );
 
       return {
