@@ -1,5 +1,6 @@
 const fetch = require("node-fetch");
 const cheerio = require("cheerio");
+const { text } = require("express");
 
 /**
  * Parse webpage data response
@@ -12,12 +13,7 @@ const parse = (data) => {
 
   return $("article.thread div.threadGrid")
     .map((_, element) => {
-      // const price = parseFloat($(element).find("span.prodl-prix span").text());
-
-      // const discount = Math.abs(
-      // 	parseInt($(element).find("span.prodl-reduc").text())
-      // );
-
+      /** Get content from the header of the deal */
       const imgUrl = JSON.parse(
         $(element).find("div.threadGrid-image div.js-vue2").attr("data-vue2")
       )["props"]["threadImageUrl"];
@@ -29,12 +25,12 @@ const parse = (data) => {
         .find("div.threadGrid-title strong.thread-title a")
         .attr("href");
 
-      // Get the Lego set ID from the title of the deal
+      /** Get the Lego set ID from the title of the deal */
       const IDPattern = /\d{5}/;
       const match = title.match(IDPattern);
       const legoId = match === null ? "" : match[0]; // Regular expression for Lego IDs
 
-      // Get the price infos
+      /** Get the price infos */
       const price = $(element)
         .find("div.threadGrid-title span.overflow--fade")
         .text();
@@ -49,21 +45,36 @@ const parse = (data) => {
         )
         .text();
 
-      const comments = parseInt(
+      const comments = JSON.parse(
         $(element)
-          .find("div.threadGrid-footerMeta div span.footerMeta-actionSlot a ")
-          .text()
+          .find(
+            "div.threadGrid-footerMeta div span.footerMeta-actionSlot div.js-vue2"
+          )
+          .last()
+          .attr("data-vue2")
+      ).props.threadId; // the thread ID, I cannot find real data...
+
+      const temperature = $(element)
+        .find("div.threadGrid-headerMeta div div.flex")
+        .html();
+
+      /* Get the date */
+      // Retrieve date in raw text
+      const textDate = JSON.parse(
+        $(element)
+          .find("div.threadGrid-headerMeta div div.js-vue2")
+          .last()
+          .attr("data-vue2")
+      ).props.metaRibbons[0].longText;
+
+      // Regex to check if the string contains the year
+      const containsYear = textDate.match(/\d{4}/) !== null;
+
+      // Add the current year if omitted in the string
+      const publication = Date.parse(
+        containsYear ? textDate : textDate + " 2024"
       );
 
-      const temperature = parseInt(
-        $(element)
-          .find("div.threadGrid-headerMeta div div.flex div span")
-          .text()
-      );
-
-      const publication = $(element)
-        .find("div.threadGrid-headerMeta div div.boxAlign-jc--all-fe span span")
-        .text();
       return {
         imgUrl,
         title,
