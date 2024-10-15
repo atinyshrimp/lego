@@ -1,5 +1,6 @@
 const fetch = require("node-fetch");
 const cheerio = require("cheerio");
+const fs = require("fs");
 const { text } = require("express");
 
 /**
@@ -8,7 +9,7 @@ const { text } = require("express");
  * @return {Object} deal
  */
 const parse = (data) => {
-  const $ = cheerio.load(data, { xmlMode: true });
+  const $ = cheerio.load(data, { xmlMode: true }, true);
   console.log($);
 
   return $("article.thread div.threadGrid")
@@ -21,14 +22,15 @@ const parse = (data) => {
       const title = $(element)
         .find("div.threadGrid-title strong.thread-title a")
         .attr("title");
+
       const link = $(element)
         .find("div.threadGrid-title strong.thread-title a")
         .attr("href");
 
       /** Get the Lego set ID from the title of the deal */
-      const IDPattern = /\d{5}/;
-      const match = title.match(IDPattern);
-      const legoId = match === null ? "" : match[0]; // Regular expression for Lego IDs
+      const idPattern = /\d{5}/; // Regular expression pattern for 5 digits in a row (Lego set ID)
+      const foundLegoId = title.match(idPattern);
+      const legoId = foundLegoId === null ? "" : foundLegoId[0];
 
       /** Get the price infos */
       const price = JSON.parse(
@@ -37,7 +39,9 @@ const parse = (data) => {
           .first()
           .attr("data-vue2")
       ).props.threadId;
+
       const nextBestPrice = price;
+
       const discount = price;
 
       const comments = JSON.parse(
@@ -108,7 +112,12 @@ module.exports.scrape = async (url) => {
 
   if (response.ok) {
     const body = await response.text();
+    const dealsDoc = parse(body);
 
+    // Store the JSON documents into a JSON file
+    fs.writeFileSync(`data/deals.json`, JSON.stringify(dealsDoc, null, 2));
+
+    // Return the JSON documents
     return parse(body);
   }
 
