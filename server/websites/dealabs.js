@@ -3,8 +3,8 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 const { text } = require("express");
 
-/**
- * Parse webpage data response
+/** Parse webpage data response
+ *
  * @param  {String} data - html response
  * @return {Object} deal
  */
@@ -94,8 +94,23 @@ const parse = (data) => {
     .get();
 };
 
-/**
- * Scrape a given url page
+const saveJSONfile = (path, fileName, document) => {
+  try {
+    // Check path name
+    const pathName = String(path).endsWith("/") ? path : path + "/";
+
+    // Store the JSON documents into a JSON file
+    fs.writeFileSync(
+      `${pathName}${fileName}.json`,
+      JSON.stringify(document, null, 2)
+    );
+  } catch (e) {
+    console.error(e);
+  }
+};
+
+/** Scrape a given url page
+ *
  * @param {String} url - url to parse
  * @returns
  */
@@ -114,11 +129,10 @@ module.exports.scrape = async (url) => {
     const body = await response.text();
     const dealsDoc = parse(body);
 
-    // Store the JSON documents into a JSON file
-    fs.writeFileSync(`data/deals.json`, JSON.stringify(dealsDoc, null, 2));
+    saveJSONfile(dealsDoc);
 
     // Return the JSON documents
-    return parse(body);
+    return dealsDoc;
   }
 
   console.error(response);
