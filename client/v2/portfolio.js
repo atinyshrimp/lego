@@ -101,11 +101,10 @@ const createDealTemplate = (deal) => {
     <div class="col-4">
       <div class="card mb-4" id=${deal.uuid}>
         <div class="card-body d-block">
+          <!-- First row: Title and LEGO ID -->
           <div class="row">
             <div class="col-md-9" style="width: 85%;">
-              <a href="${deal.link}" target="_blank">
-                <h5 class="card-title clamp-2-lines">${deal.title}</h5>
-              </a>
+              <h5 class="card-title clamp-2-lines">${deal.title}</h5>
             </div>
             <div class="col px-0 ms-2">
               <button class="btn favorite-btn" style="width: fit-content;" data-id="${
@@ -116,13 +115,33 @@ const createDealTemplate = (deal) => {
             </div>
             <h6 class="card-subtitle mb-2 text-muted">${deal.id}</h6>
           </div>
-          <p class="badge rounded-pill text-bg-danger mb-0">${
-            deal.temperature
-          }°</p>
-          <p class="card-text text-decoration-line-through text-muted mb-0">${formatPrice(
-            deal.retail
-          )}</p>
-          <p class="card-text mb-0">${formatPrice(deal.price)}</p>
+
+          <!-- Second row: Temperature and Comments on the left, Prices and CTA on the right -->
+          <div class="row justify-content-between">
+            <!-- Left Column: Temperature and Comments -->
+            <div class="col-6 d-flex flex-column align-items-start">
+              <p class="badge rounded-pill text-bg-danger mb-0">${
+                deal.temperature
+              }°</p>
+              <div class="d-inline-flex align-items-center pt-1">
+                <p class="m-0">${deal.comments} </p>  &nbsp;
+                <i class="fi fi-rr-comment-dots"></i>
+              </div>
+            </div>
+
+            <!-- Right Column: Prices and CTA Button -->
+            <div class="col-6 d-flex flex-column align-items-end" style="width: fit-content;">
+              <p class="card-text text-decoration-line-through text-muted mb-0 d-inline-block">${formatPrice(
+                deal.retail
+              )}</p>
+              <p class="card-text mb-0 d-inline-block">${formatPrice(
+                deal.price
+              )}</p>
+              <span class="btn p-0" style="width: fit-content;"><a href=${
+                deal.link
+              } target="_blank"><i class="fi fi-rr-up-right-from-square"></i></a></span>
+              </div>
+          </div>
         </div>
       </div>
     </div>
