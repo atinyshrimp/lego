@@ -104,7 +104,11 @@ const createDealTemplate = (deal) => {
           <!-- First row: Title and LEGO ID -->
           <div class="row">
             <div class="col-md-9" style="width: 85%;">
-              <h5 class="card-title clamp-2-lines">${deal.title}</h5>
+              <a href="#" class="deal-title" data-bs-toggle="modal"  data-bs-target="#dealModal" data-uuid="${
+                deal.uuid
+              }" data-id="${deal.id}">
+                <h5 class="card-title clamp-2-lines">${deal.title}</h5>
+              </a>
             </div>
             <div class="col px-0 ms-2">
               <button class="btn favorite-btn" style="width: fit-content;" data-id="${
@@ -170,6 +174,36 @@ const renderDeals = (deals) => {
   });
 };
 
+const createSaleTemplate = (sale, profitability, legoId = undefined) => {
+  return `
+          <div class="col-4">
+            <div class="card mb-4" id=${sale.uuid}">
+              <div class="card-body d-block">
+                <div class="row">
+                  <div class="col-md-9" style="width: 85%;">
+                    <a href="${sale.link}" target="_blank"">
+                      <h5 class="card-title clamp-2-lines">${sale.title}</h5>
+                    </a>
+                  </div>
+                  <div class="col px-0 ms-2">
+                    <button class="btn favorite-btn" style="width: fit-content; display: none;" data-id="${
+                      sale.uuid
+                    }">
+                      ${ADD_FAV_ICON}
+                    </button>
+                  </div>
+                    <h6 class="card-subtitle mb-2 text-muted">${legoId}</h6>
+                </div>
+                <p class="badge rounded-pill text-bg-info mb-0">${profitability}%</p>
+                <p class="card-text mb-0" id="sale-price">${formatPrice(
+                  sale.price
+                )}</p>
+              </div>
+            </div>
+          </div>
+        `;
+};
+
 /** Render list of Vinted sales
  *
  * @param {Array} sales
@@ -195,41 +229,15 @@ const renderSales = async (sales) => {
           }) -
           findHighestProfitability(allDeals, { legoId: legoId, price: a.price })
       )
-      .map((sale) => {
-        return `
-        <div class="col-4">
-          <div class="card mb-4" id=${sale.uuid}">
-            <div class="card-body d-block">
-              <div class="row">
-                <div class="col-md-9" style="width: 85%;">
-                  <a href="${sale.link}" target="_blank"">
-                    <h5 class="card-title clamp-2-lines">${sale.title}</h5>
-                  </a>
-                </div>
-                <div class="col px-0 ms-2">
-                  <button class="btn favorite-btn" style="width: fit-content; display: none;" data-id="${
-                    sale.uuid
-                  }">
-                    ${ADD_FAV_ICON}
-                  </button>
-                </div>
-                  <h6 class="card-subtitle mb-2 text-muted">${legoId}</h6>
-              </div>
-              <p class="badge rounded-pill text-bg-info mb-0">${findHighestProfitability(
-                allDeals,
-                {
-                  legoId: legoId,
-                  price: sale.price,
-                }
-              )}%</p>
-              <p class="card-text mb-0" id="sale-price">${formatPrice(
-                sale.price
-              )}</p>
-            </div>
-          </div>
-        </div>
-      `;
-      })
+      .map((sale) =>
+        createSaleTemplate(
+          sale,
+          findHighestProfitability(allDeals, {
+            legoId: legoId,
+            price: sale.price,
+          })
+        )
+      )
       .join("");
   } else {
     currentSales = [];
@@ -597,6 +605,61 @@ darkModeToggle.addEventListener("change", () => {
     enableDarkMode(); // Enable dark mode
   } else {
     disableDarkMode(); // Disable dark mode
+  }
+});
+
+// Add event listener to deal titles to open modal and populate with data
+document.addEventListener("click", async (event) => {
+  console.log(`Event target: ${event.target}`);
+  if (event.target.parentElement.classList.contains("deal-title")) {
+    const uuid = event.target.parentElement.getAttribute("data-uuid");
+    const legoId = event.target.parentElement.getAttribute("data-id");
+
+    // Find the deal information
+    const deal = currentDeals.find((deal) => deal.uuid === uuid);
+
+    // Populate deal info in the modal
+    const modalDealInfo = document.getElementById("modalDealInfo");
+    modalDealInfo.innerHTML = `
+      <h5>${deal.title}</h5>
+      <p>LEGO ID: ${deal.id}</p>
+      <p>Temperature: ${deal.temperature}°</p>
+      <p>Comments: ${deal.comments}</p>
+      <p>Retail Price: ${formatPrice(deal.retail)}</p>
+      <p>Discounted Price: ${formatPrice(deal.price)}</p>
+      <p>Publication Date: ${new Date(
+        deal.published * 1e3
+      ).toLocaleDateString()}</p>
+    `;
+
+    // Fetch sales information for the LEGO ID
+    let sales = await fetchSales(deal.id);
+    console.table(sales);
+
+    // Get top 5 most rentable sales
+    sales = sales
+      .sort((a, b) => getProfitability(deal, b) - getProfitability(deal, a))
+      .slice(0, 5);
+    console.table(sales);
+
+    // Populate sales info in the modal
+    const modalSalesInfo = document.getElementById("modalSalesInfo");
+    modalSalesInfo.innerHTML = sales
+      .map((sale) =>
+        createSaleTemplate(sale, getProfitability(deal, sale), deal.id)
+      )
+      .join("");
+
+    // Calculate and display sales indicators
+    const modalIndicators = document.getElementById("modalIndicators");
+    const indicators = calculateSalesIndicators(sales); // Implement this function
+    console.log(indicators);
+    modalIndicators.innerHTML = `
+      <p>Average Price: ${formatPrice(indicators.average)}</p>
+      <p>P25: ${formatPrice(indicators.p25)}</p>
+      <p>P50: ${formatPrice(indicators.p50)}</p>
+      <p>P95: ${formatPrice(indicators.p95)}</p>
+    `;
   }
 });
 

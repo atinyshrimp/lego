@@ -209,5 +209,45 @@
     ></script>
     <script type="text/javascript" charset="UTF-8" src="utils.js"></script>
     <script type="text/javascript" charset="UTF-8" src="portfolio.js"></script>
+
+    <!-- Modal -->
+    <div
+      class="modal fade"
+      id="dealModal"
+      data-bs-backdrop="static"
+      data-bs-keyboard="false"
+      tabindex="-1"
+      aria-labelledby="dealModalLabel"
+      aria-hidden="true"
+    >
+      <div
+        class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable"
+      >
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="dealModalLabel">Deal Information</h5>
+          </div>
+          <div class="modal-body">
+            <!-- Deal Info will be populated here -->
+            <div id="modalDealInfo"></div>
+            <hr />
+            <h6>Top 5 Relevant Sales</h6>
+            <div class="d-flex gap-2 overflow-auto" id="modalSalesInfo"></div>
+            <hr />
+            <h6>Sales Indicators</h6>
+            <div id="modalIndicators"></div>
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-secondary"
+              data-bs-dismiss="modal"
+            >
+              Close
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
   </body>
 </html>

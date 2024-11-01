@@ -164,6 +164,15 @@ function getSalesPriceAverage(sales) {
   }
 }
 
+function calculateSalesIndicators(sales) {
+  return {
+    average: getSalesPriceAverage(sales),
+    p25: calcQuartile(sales, 25),
+    p50: calcQuartile(sales, 50),
+    p95: calcQuartile(sales, 95),
+  };
+}
+
 // Feature 10 - Lifetime value
 const calculateLifetimeValue = (sales) => {
   if (sales.length === 0) {
@@ -278,4 +287,8 @@ function findHighestProfitability(data, item) {
   return Number(
     (((item.price - highestResalePrice) * 100) / highestResalePrice).toFixed(2)
   );
+}
+
+function getProfitability(deal, sale) {
+  return Number(((sale.price - deal.price) / deal.price) * 100).toFixed(2);
 }
