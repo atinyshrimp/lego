@@ -175,11 +175,11 @@ a:hover {
 .clamp-2-lines {
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   overflow: hidden;
   text-overflow: ellipsis;
   line-height: 1.5rem;
-  height: 3rem; /* 2 lines * line-height */
+  height: 4.5rem; /* 3 lines * line-height */
 }
 
 /* ===== Modal Custom Styles ===== */

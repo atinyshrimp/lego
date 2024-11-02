@@ -102,22 +102,25 @@ const createDealTemplate = (deal) => {
       <div class="card mb-4" id=${deal.uuid}>
         <div class="card-body d-block">
           <!-- First row: Title and LEGO ID -->
-          <div class="row">
-            <div class="col-md-9" style="width: 85%;">
+          <div class="row mb-2 justify-content-between">
+            <div class="col-md-3">
+              <img class="img-fluid img-thumbnail" src="https://placehold.jp/1000x1000.png">
+            </div>
+            <div class="col-md-7 pt-1 px-0">
               <a href="#" class="deal-title" data-bs-toggle="modal"  data-bs-target="#dealModal" data-uuid="${
                 deal.uuid
               }" data-id="${deal.id}">
                 <h5 class="card-title clamp-2-lines">${deal.title}</h5>
               </a>
+              <h6 class="card-subtitle mb-2 text-muted">${deal.id}</h6>
             </div>
-            <div class="col px-0 ms-2">
+            <div class="col" style="width: 10%; flex: 0 0 auto;">
               <button class="btn favorite-btn" style="width: fit-content;" data-id="${
                 deal.uuid
               }">
                 ${isFavorite ? DEL_FAV_ICON : ADD_FAV_ICON}
               </button>
             </div>
-            <h6 class="card-subtitle mb-2 text-muted">${deal.id}</h6>
           </div>
 
           <!-- Second row: Temperature and Comments on the left, Prices and CTA on the right -->
@@ -174,34 +177,48 @@ const renderDeals = (deals) => {
   });
 };
 
-const createSaleTemplate = (sale, profitability, legoId = undefined) => {
+const createSaleTemplate = (
+  sale,
+  profitability,
+  legoId = undefined,
+  modal = false
+) => {
   return `
-          <div class="col-4">
-            <div class="card mb-4" id=${sale.uuid}">
-              <div class="card-body d-block">
-                <div class="row">
-                  <div class="col-md-9" style="width: 85%;">
-                    <a href="${sale.link}" target="_blank"">
-                      <h5 class="card-title clamp-2-lines">${sale.title}</h5>
-                    </a>
-                  </div>
-                  <div class="col px-0 ms-2">
-                    <button class="btn favorite-btn" style="width: fit-content; display: none;" data-id="${
-                      sale.uuid
-                    }">
-                      ${ADD_FAV_ICON}
-                    </button>
-                  </div>
-                    <h6 class="card-subtitle mb-2 text-muted">${legoId}</h6>
-                </div>
-                <p class="badge rounded-pill text-bg-info mb-0">${profitability}%</p>
-                <p class="card-text mb-0" id="sale-price">${formatPrice(
-                  sale.price
-                )}</p>
-              </div>
+    <div class="col-4">
+      <div class="card mb-4" id=${sale.uuid}">
+        <div class="card-body d-block">
+          <div class="row justify-content-between">
+            <div class="col" style="width: 37%; flex: 0 0 auto;">
+              <img class="img-fluid img-thumbnail" src="https://placehold.jp/1000x1000.png">
+            </div>
+            <div class="col ${modal ? "px-0" : ""}">
+              <a href="${sale.link}" target="_blank"">
+                <h5 class="card-title clamp-2-lines" ${
+                  modal ? 'style= "height: 3rem !important;"' : ""
+                }>${sale.title}</h5>
+              </a>
+              <h6 class="card-subtitle mb-2 text-muted" style="display: ${
+                modal ? "none" : "block"
+              };">${legoId}</h6>
+              <p class="badge rounded-pill text-bg-info mb-0">${profitability}%</p>
+              <p class="card-text mb-0" id="sale-price">${formatPrice(
+                sale.price
+              )}</p>
+            </div>
+            <div class="col px-0 ms-2" style="width: ${
+              modal ? 9 : 7
+            }%; flex: 0 0 auto;">
+              <button class="btn favorite-btn mt-1" style="width: fit-content; display: none;" data-id="${
+                sale.uuid
+              }">
+                ${ADD_FAV_ICON}
+              </button>
             </div>
           </div>
-        `;
+        </div>
+      </div>
+    </div>
+  `;
 };
 
 /** Render list of Vinted sales
@@ -235,7 +252,8 @@ const renderSales = async (sales) => {
           findHighestProfitability(allDeals, {
             legoId: legoId,
             price: sale.price,
-          })
+          }),
+          legoId
         )
       )
       .join("");
@@ -613,7 +631,6 @@ document.addEventListener("click", async (event) => {
   console.log(`Event target: ${event.target}`);
   if (event.target.parentElement.classList.contains("deal-title")) {
     const uuid = event.target.parentElement.getAttribute("data-uuid");
-    const legoId = event.target.parentElement.getAttribute("data-id");
 
     // Find the deal information
     const deal = currentDeals.find((deal) => deal.uuid === uuid);
@@ -630,7 +647,7 @@ document.addEventListener("click", async (event) => {
     modalDealInfo.innerHTML = `
       <div class="row">
       <div class="col-md-3">
-      <img class="img-fluid" src="https://placehold.jp/1000x1000.png" alt="${
+      <img class="rounded img-fluid" src="https://placehold.jp/1000x1000.png" alt="${
         deal.uuid
       }-img"/>
       </div>
@@ -656,20 +673,18 @@ document.addEventListener("click", async (event) => {
     sales = sales
       .sort((a, b) => getProfitability(deal, b) - getProfitability(deal, a))
       .slice(0, 5);
-    console.table(sales);
 
     // Populate sales info in the modal
     const modalSalesInfo = document.getElementById("modalSalesInfo");
     modalSalesInfo.innerHTML = sales
       .map((sale) =>
-        createSaleTemplate(sale, getProfitability(deal, sale), deal.id)
+        createSaleTemplate(sale, getProfitability(deal, sale), deal.id, true)
       )
       .join("");
 
     // Calculate and display sales indicators
     const modalIndicators = document.getElementById("modalIndicators");
     const indicators = calculateSalesIndicators(sales); // Implement this function
-    console.log(indicators);
     modalIndicators.innerHTML = `
       <p>Average Price: ${formatPrice(indicators.average)}</p>
       <p>P25: ${formatPrice(indicators.p25)}</p>
