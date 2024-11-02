@@ -10,22 +10,21 @@ const { text } = require("express");
  */
 const parse = (data) => {
   const $ = cheerio.load(data, { xmlMode: true }, true);
-  console.log($);
+  // console.log($);
 
-  return $("article.thread div.threadGrid")
+  return $("article.thread")
     .map((_, element) => {
+      const content = JSON.parse(
+        $(element).find("div.js-vue2").attr("data-vue2")
+      ).props.thread;
       /** Get content from the header of the deal */
       const imgUrl = JSON.parse(
         $(element).find("div.threadGrid-image div.js-vue2").attr("data-vue2")
-      )["props"]["threadImageUrl"];
+      ).props.threadImageUrl;
 
-      const title = $(element)
-        .find("div.threadGrid-title strong.thread-title a")
-        .attr("title");
+      const title = content.title;
 
-      const link = $(element)
-        .find("div.threadGrid-title strong.thread-title a")
-        .attr("href");
+      const link = content.link;
 
       /** Get the Lego set ID from the title of the deal */
       const idPattern = /\d{5}/; // Regular expression pattern for 5 digits in a row (Lego set ID)
@@ -33,52 +32,25 @@ const parse = (data) => {
       const legoId = foundLegoId === null ? "" : foundLegoId[0];
 
       /** Get the price infos */
-      const price = JSON.parse(
-        $(element)
-          .find("div.threadGrid-title span.overflow--fade div.js-vue2")
-          .first()
-          .attr("data-vue2")
-      ).props.threadId;
+      const price = content.price;
 
-      const nextBestPrice = price;
+      const nextBestPrice = content.nextBestPrice;
 
-      const discount = price;
+      const discount =
+        nextBestPrice !== 0
+          ? Number(Number((1 - price / nextBestPrice) * 100).toFixed(0))
+          : NaN;
 
-      const comments = JSON.parse(
-        $(element)
-          .find(
-            "div.threadGrid-footerMeta div span.footerMeta-actionSlot div.js-vue2"
-          )
-          .last()
-          .attr("data-vue2")
-      ).props.threadId; // the thread ID, I cannot find real data...
+      const comments = content.commentCount; // the thread ID, I cannot find real data...
 
-      let temperature = $(element)
-        .find("div.threadGrid-headerMeta div div.flex div.js-vue2")
-        .attr("data-vue2");
-      temperature =
-        temperature === undefined ? "" : JSON.parse(temperature).attrs.threadId; // the thread ID, I cannot find real data...
+      const temperature = content.temperature; // the thread ID, I cannot find real data...
 
       /* Get the date */
-      // Retrieve date in raw text
-      const textDate = JSON.parse(
-        $(element)
-          .find("div.threadGrid-headerMeta div div.js-vue2")
-          .last()
-          .attr("data-vue2")
-      ).props.metaRibbons[0].longText;
-
-      // Regex to check if the string contains the year
-      const containsYear = textDate.match(/\d{4}/) !== null;
-
       // Add the current year if omitted in the string
-      const publication = Date.parse(
-        containsYear
-          ? textDate
-          : textDate + ` ${new Date(Date.now()).getFullYear()}`
-      );
+      const publication = content.publishedAt;
 
       return {
+        // content,
         imgUrl,
         title,
         legoId,
@@ -104,6 +76,8 @@ const saveJSONfile = (path, fileName, document) => {
       `${pathName}${fileName}.json`,
       JSON.stringify(document, null, 2)
     );
+
+    console.log(`${document.length} documents saved!`);
   } catch (e) {
     console.error(e);
   }
@@ -114,28 +88,47 @@ const saveJSONfile = (path, fileName, document) => {
  * @param {String} url - url to parse
  * @returns
  */
-module.exports.scrape = async (url) => {
-  // Making the browser believe the scraper is a "real person"
-  const opts = {
-    method: "GET",
-    headers: {
-      "User-Agent":
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-    },
-  };
-  const response = await fetch(url, opts);
+module.exports.scrape = async (baseUrl, maxPages = 12) => {
+  let currentPage = 1;
+  let allDeals = [];
+  let hasMorePages = true;
 
-  if (response.ok) {
-    const body = await response.text();
-    const dealsDoc = parse(body);
+  while (hasMorePages && currentPage <= maxPages) {
+    // Update page
+    const url = `${baseUrl}${
+      baseUrl.includes("?") ? "&" : "?"
+    }page=${currentPage}`;
+    console.log(`Scraping page: ${currentPage}`);
+    // Making the browser believe the scraper is a "real person"
+    const opts = {
+      method: "GET",
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+      },
+    };
+    const response = await fetch(url, opts);
 
-    saveJSONfile(dealsDoc);
-
-    // Return the JSON documents
-    return dealsDoc;
+    if (response.ok) {
+      const body = await response.text();
+      const dealsDoc = parse(body);
+      if (dealsDoc.length === 0) {
+        hasMorePages = false;
+      } else {
+        allDeals = allDeals.concat(dealsDoc);
+        currentPage++;
+      }
+    } else {
+      console.error(`Failed to fetch page ${currentPage}:`, response.status);
+      hasMorePages = false;
+    }
   }
 
-  console.error(response);
+  // Remove empty legoId, mostly not Lego sets
+  allDeals = allDeals.filter((deal) => deal.legoId !== "");
 
-  return null;
+  console.log(`Saving ${allDeals.length} JSON documents...`);
+  saveJSONfile("server/data", "deals", allDeals);
+  // Return the JSON documents
+  return allDeals;
 };
