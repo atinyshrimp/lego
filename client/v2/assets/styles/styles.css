@@ -20,6 +20,7 @@
 /* ===== Scrollbar CSS ===== */
 ::-webkit-scrollbar {
   width: 6px;
+  height: 6px;
 }
 
 ::-webkit-scrollbar-track {
@@ -192,14 +193,14 @@ a:hover {
 /* Modal Header */
 .modal-header {
   background-color: var(--bu-accent); /* Accent color for the header */
-  color: #fff; /* White text for contrast */
+  color: #e4e4da; /* White text for contrast */
   border-bottom: 1px solid var(--bu-divider); /* Divider color for separation */
 }
 
 .modal-title {
   font-family: QuarterFree;
   font-weight: bold; /* Make the title bold */
-  color: #fff; /* White text color */
+  color: #e4e4da; /* White text color */
 }
 
 /* Modal Body */
@@ -217,13 +218,12 @@ a:hover {
 /* Buttons in the modal */
 .modal-footer .btn {
   background-color: var(--bu-accent); /* Accent color for button background */
-  color: var(--bu-text); /* White text for buttons */
+  color: #e4e4da; /* White text for buttons */
   border: none; /* Remove button border */
 }
 
 .modal-footer .btn:hover {
   background-color: #d00000; /* Darker shade for hover effect */
-  color: #fff; /* White text on hover */
 }
 
 /* ===== Dark mode ===== */

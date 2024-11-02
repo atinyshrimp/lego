@@ -226,6 +226,12 @@
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title" id="dealModalLabel">Deal Information</h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
           </div>
           <div class="modal-body">
             <!-- Deal Info will be populated here -->
@@ -237,14 +243,13 @@
             <h6>Sales Indicators</h6>
             <div id="modalIndicators"></div>
           </div>
-          <div class="modal-footer">
-            <button
-              type="button"
-              class="btn btn-secondary"
-              data-bs-dismiss="modal"
-            >
-              Close
-            </button>
+          <div class="modal-footer align-items-center">
+            <a href="#" target="_blank">
+              <button type="button" class="btn btn-secondary">
+                See deal
+                <i class="fi fi-rr-up-right-from-square"></i>
+              </button>
+            </a>
           </div>
         </div>
       </div>

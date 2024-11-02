@@ -618,18 +618,34 @@ document.addEventListener("click", async (event) => {
     // Find the deal information
     const deal = currentDeals.find((deal) => deal.uuid === uuid);
 
+    // Configure "See Deal" button
+    document
+      .getElementsByClassName("modal-footer")[0]
+      // .getElementsByTagName("button")[0]
+      .getElementsByTagName("a")[0]
+      .setAttribute("href", deal.link);
+
     // Populate deal info in the modal
     const modalDealInfo = document.getElementById("modalDealInfo");
     modalDealInfo.innerHTML = `
-      <h5>${deal.title}</h5>
-      <p>LEGO ID: ${deal.id}</p>
-      <p>Temperature: ${deal.temperature}°</p>
-      <p>Comments: ${deal.comments}</p>
-      <p>Retail Price: ${formatPrice(deal.retail)}</p>
-      <p>Discounted Price: ${formatPrice(deal.price)}</p>
-      <p>Publication Date: ${new Date(
-        deal.published * 1e3
-      ).toLocaleDateString()}</p>
+      <div class="row">
+      <div class="col-md-3">
+      <img class="img-fluid" src="https://placehold.jp/1000x1000.png" alt="${
+        deal.uuid
+      }-img"/>
+      </div>
+      <div class="col">
+          <h5>${deal.title}</h5>
+          <p>LEGO ID: ${deal.id}</p>
+          <p>Temperature: ${deal.temperature}°</p>
+          <p>Comments: ${deal.comments}</p>
+          <p>Retail Price: ${formatPrice(deal.retail)}</p>
+          <p>Discounted Price: ${formatPrice(deal.price)}</p>
+          <p>Publication Date: ${new Date(
+            deal.published * 1e3
+          ).toLocaleDateString()}</p>
+        </div>
+      </div>
     `;
 
     // Fetch sales information for the LEGO ID
