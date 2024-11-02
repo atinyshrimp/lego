@@ -46,7 +46,7 @@ const selectSort = document.querySelector("#sort-select");
 
 // Indicator elements
 const spanAvgPrice = document.querySelector("#averagePrice");
-const spanP5Price = document.querySelector("#p5Price");
+const spanP95Price = document.querySelector("#p95Price");
 const spanP25Price = document.querySelector("#p25Price");
 const spanP50Price = document.querySelector("#p50Price");
 const spanLifetime = document.querySelector("#lifetimeValue");
@@ -452,18 +452,18 @@ const renderIndicators = (pagination) => {
     spanAvgPrice.innerHTML = `${formatPrice(
       getSalesPriceAverage(currentSales)
     )}`;
-    spanP5Price.innerHTML = `${formatPrice(
-      calcQuartile(currentSales, 5).toFixed(2)
-    )}`;
     spanP25Price.innerHTML = `${formatPrice(
       calcQuartile(currentSales, 25).toFixed(2)
     )}`;
     spanP50Price.innerHTML = `${formatPrice(
       calcQuartile(currentSales, 50).toFixed(2)
     )}`;
+    spanP95Price.innerHTML = `${formatPrice(
+      calcQuartile(currentSales, 95).toFixed(2)
+    )}`;
   } else {
     spanAvgPrice.innerHTML = "NaN";
-    spanP5Price.innerHTML = "NaN";
+    spanP95Price.innerHTML = "NaN";
     spanP25Price.innerHTML = "NaN";
     spanP50Price.innerHTML = "NaN";
   }
@@ -635,7 +635,7 @@ darkModeToggle.addEventListener("change", () => {
 
 // Add event listener to deal titles to open modal and populate with data
 document.addEventListener("click", async (event) => {
-  console.log(`Event target: ${event.target}`);
+  console.log(`Event target: ${event.target.outerHTML}`);
   if (event.target.parentElement.classList.contains("deal-title")) {
     const uuid = event.target.parentElement.getAttribute("data-uuid");
 
@@ -659,7 +659,7 @@ document.addEventListener("click", async (event) => {
       }-img"/>
       </div>
       <div class="col">
-          <h5>${deal.title}</h5>
+          <strong><h5>${deal.title}</h5></strong>
           <p>LEGO ID: ${deal.id}</p>
           <p>Temperature: ${deal.temperature}°</p>
           <p>Comments: ${deal.comments}</p>
@@ -674,7 +674,13 @@ document.addEventListener("click", async (event) => {
 
     // Fetch sales information for the LEGO ID
     let sales = await fetchSales(deal.id);
-    console.table(sales);
+    const { average, p25, p50, p95 } = calculateSalesIndicators(sales);
+
+    // Get the price frequencies
+    const { prices, frequencies } = getPriceFrequency(sales);
+    const minPrice = Math.min(...prices);
+    const maxPrice = Math.max(...prices);
+    console.log(prices);
 
     // Get top 5 most rentable sales
     sales = sales
@@ -691,12 +697,123 @@ document.addEventListener("click", async (event) => {
 
     // Calculate and display sales indicators
     const modalIndicators = document.getElementById("modalIndicators");
-    const indicators = calculateSalesIndicators(sales); // Implement this function
+
+    // Destroy canvas if it already exists
+    const chartStatus = Chart.getChart("salesDistributionChart");
+    if (chartStatus !== undefined) {
+      chartStatus.destroy();
+    }
+
+    // Get the canvas element
+    const canvas = document.getElementById("salesDistributionChart");
+    const ctx = canvas.getContext("2d");
+
+    // Function to normalize the data value to a tick index range [0, prices.length - 1]
+    const normalize = (value) =>
+      ((value - minPrice) / (maxPrice - minPrice)) * (prices.length - 1);
+    console.log(`Normalized P25: ${normalize(p25)}`);
+    console.log(`Normalized P50: ${normalize(p50)}`);
+    console.log(`Normalized P95: ${normalize(p95)}`);
+    console.log(`Normalized Average: ${normalize(average)}`);
+
+    // Create the chart
+    const salesChart = new Chart(ctx, {
+      type: "line",
+      data: {
+        labels: prices, // X-axis labels (sorted prices)
+        datasets: [
+          {
+            label: "Sales Price Distribution",
+            data: frequencies, // Dummy data to keep the line chart layout
+            borderColor: "rgba(54, 162, 235, 0.8)",
+            backgroundColor: "rgba(54, 162, 235, 0.2)",
+            pointBackgroundColor: "rgba(54, 162, 235, 1)",
+            pointBorderColor: "#fff",
+            pointRadius: 0,
+            fill: false,
+            tension: 0.4,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        scales: {
+          x: {
+            title: { display: true, text: "Sales Price (€)" },
+          },
+          y: {
+            title: { display: true, text: "Frequency" }, // Hide the y-axis since we're not using it for frequency
+          },
+        },
+        // plugins: {
+        //   annotation: {
+        //     annotations: {
+        //       // Vertical line for p25
+        //       p25Line: {
+        //         type: "line",
+        //         xMin: normalize(p25),
+        //         xMax: normalize(p25),
+        //         borderColor: "rgba(153, 102, 255, 1)",
+        //         borderWidth: 2,
+        //         // label: {
+        //         //   content: "P25",
+        //         //   enabled: true,
+        //         //   position: "top",
+        //         // },
+        //       },
+        //       // Vertical line for p50
+        //       p50Line: {
+        //         type: "line",
+        //         xMin: normalize(p50),
+        //         xMax: normalize(p50),
+        //         borderColor: "rgba(54, 162, 235, 1)",
+        //         borderWidth: 2,
+        //         label: {
+        //           content: "P50",
+        //           enabled: true,
+        //           position: "top",
+        //         },
+        //       },
+        //       // Vertical line for p95
+        //       p95Line: {
+        //         type: "line",
+        //         xMin: normalize(p95),
+        //         xMax: normalize(p95),
+        //         borderColor: "rgba(255, 159, 64, 1)",
+        //         borderWidth: 2,
+        //         label: {
+        //           content: "P95",
+        //           enabled: true,
+        //           position: "top",
+        //         },
+        //       },
+        //       // Vertical line for average
+        //       averageLine: {
+        //         type: "line",
+        //         xMin: normalize(average),
+        //         xMax: normalize(average),
+        //         borderColor: "red",
+        //         borderWidth: 2,
+        //         borderDash: [5, 5],
+        //         label: {
+        //           content: "Average",
+        //           display: true,
+        //           position: "top",
+        //         },
+        //       },
+        //     },
+        //   },
+        // },
+      },
+    });
+
     modalIndicators.innerHTML = `
-      <p>Average Price: ${formatPrice(indicators.average)}</p>
-      <p>P25: ${formatPrice(indicators.p25)}</p>
-      <p>P50: ${formatPrice(indicators.p50)}</p>
-      <p>P95: ${formatPrice(indicators.p95)}</p>
+      <p class="indicator-btn" data-indicator="average">Average Price: ${formatPrice(
+        average
+      )}</p>
+      <p class="indicator-btn" data-indicator="p25">P25: ${formatPrice(p25)}</p>
+      <p class="indicator-btn" data-indicator="p50">P50: ${formatPrice(p50)}</p>
+      <p class="indicator-btn" data-indicator="p95">P95: ${formatPrice(p95)}</p>
     `;
   }
 });

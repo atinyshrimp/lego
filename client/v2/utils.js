@@ -323,3 +323,22 @@ function timeAgo(unixTime) {
   if (seconds > 1) return `${seconds} seconds ago`;
   return "just now";
 }
+
+// Function to process sales data and count occurrences of each price
+function getPriceFrequency(sales) {
+  const priceCount = {};
+
+  // Count each price occurrence
+  sales.forEach((sale) => {
+    const price = parseFloat(sale.price);
+    priceCount[price] = (priceCount[price] || 0) + 1;
+  });
+
+  // Extract unique prices and their counts
+  const prices = Object.keys(priceCount)
+    .map((price) => parseFloat(price))
+    .sort((a, b) => a - b);
+  const frequencies = prices.map((price) => priceCount[price]);
+
+  return { prices, frequencies };
+}

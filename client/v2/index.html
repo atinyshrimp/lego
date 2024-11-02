@@ -93,10 +93,6 @@
             <span id="averagePrice">0</span>
           </div>
           <div>
-            <span>p5 sales price value: </span>
-            <span id="p5Price">0</span>
-          </div>
-          <div>
             <span>p25 sales price value: </span>
             <span id="p25Price">0</span>
           </div>
@@ -104,6 +100,11 @@
             <span>p50 sales price value: </span>
             <span id="p50Price">0</span>
           </div>
+          <div>
+            <span>p95 sales price value: </span>
+            <span id="p95Price">0</span>
+          </div>
+
           <div>
             <span>Lifetime value: </span>
             <span id="lifetimeValue">10 days</span>
@@ -209,6 +210,8 @@
     ></script>
     <script type="text/javascript" charset="UTF-8" src="utils.js"></script>
     <script type="text/javascript" charset="UTF-8" src="portfolio.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.1.0/dist/chartjs-plugin-annotation.min.js"></script>
 
     <!-- Modal -->
     <div
@@ -241,6 +244,11 @@
             <div class="d-flex gap-2 overflow-auto" id="modalSalesInfo"></div>
             <hr />
             <h6>Sales Indicators</h6>
+            <canvas
+              id="salesDistributionChart"
+              width="400"
+              height="200"
+            ></canvas>
             <div id="modalIndicators"></div>
           </div>
           <div class="modal-footer align-items-center">
