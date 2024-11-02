@@ -182,6 +182,19 @@ a:hover {
   height: 4.5rem; /* 3 lines * line-height */
 }
 
+.deal-tab {
+  cursor: url("../images/Lego_Man_Pointer.png"), pointer !important;
+  color: #f49b00;
+}
+
+.deal-tab span {
+  cursor: inherit;
+}
+
+.deal-tab:hover {
+  color: var(--bu-accent);
+}
+
 /* ===== Modal Custom Styles ===== */
 .modal-content {
   background-color: var(--bu-bg); /* Use background color from your palette */

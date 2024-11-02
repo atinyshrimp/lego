@@ -292,3 +292,34 @@ function findHighestProfitability(data, item) {
 function getProfitability(deal, sale) {
   return Number(((sale.price - deal.price) / deal.price) * 100).toFixed(2);
 }
+
+/**
+ * Converts a Unix timestamp to a human-readable relative time string
+ * @param {number} unixTime - The Unix timestamp in seconds
+ * @returns {string} - A string representing the relative time (e.g., "a month ago")
+ */
+function timeAgo(unixTime) {
+  const currentTime = Date.now();
+  const publicationTime = unixTime * 1000; // Convert Unix time to milliseconds
+  const elapsedTime = currentTime - publicationTime;
+
+  const seconds = Math.floor(elapsedTime / 1000);
+  const minutes = Math.floor(seconds / 60);
+  const hours = Math.floor(minutes / 60);
+  const days = Math.floor(hours / 24);
+  const months = Math.floor(days / 30);
+  const years = Math.floor(months / 12);
+
+  if (years > 1) return `${years} years ago`;
+  if (years === 1) return "a year ago";
+  if (months > 1) return `${months} months ago`;
+  if (months === 1) return "a month ago";
+  if (days > 1) return `${days} days ago`;
+  if (days === 1) return "a day ago";
+  if (hours > 1) return `${hours} hours ago`;
+  if (hours === 1) return "an hour ago";
+  if (minutes > 1) return `${minutes} minutes ago`;
+  if (minutes === 1) return "a minute ago";
+  if (seconds > 1) return `${seconds} seconds ago`;
+  return "just now";
+}

@@ -131,8 +131,12 @@ const createDealTemplate = (deal) => {
                 deal.temperature
               }°</p>
               <div class="d-inline-flex align-items-center pt-1">
-                <p class="m-0">${deal.comments} </p>  &nbsp;
-                <i class="fi fi-rr-comment-dots"></i>
+                <i class="fi fi-rr-comment-dots"></i> &nbsp;
+                <p class="pb-1 m-0">${deal.comments} </p>
+              </div>
+              <div class="d-inline-flex align-items-center pt-1">
+                <i class="fi fi-rr-pending"></i> &nbsp;
+                <p class="pb-1 m-0">${timeAgo(deal.published)}</p> 
               </div>
             </div>
 
@@ -144,10 +148,13 @@ const createDealTemplate = (deal) => {
               <p class="card-text mb-0 d-inline-block">${formatPrice(
                 deal.price
               )}</p>
-              <span class="btn p-0" style="width: fit-content;"><a href=${
+              <a role="button" class="btn d-inline-flex align-items-center p-0 mt-2 deal-tab" href="${
                 deal.link
-              } target="_blank"><i class="fi fi-rr-up-right-from-square"></i></a></span>
-              </div>
+              }" target="_blank">
+                <span style="margin-bottom:.4rem;">See deal &nbsp;</span>
+                <i class="fi fi-rr-up-right-from-square"></i>
+              </a>              
+            </div>
           </div>
         </div>
       </div>
