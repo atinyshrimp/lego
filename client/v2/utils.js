@@ -27,9 +27,11 @@ function filterDealsByDiscount(data, rangeBeg = 0, rangeEnd = 100) {
   try {
     if (rangeBeg >= 0 && rangeEnd <= 100) {
       if (rangeBeg < rangeEnd) {
-        return data.filter(
-          (deal) => deal.discount >= rangeBeg && deal.discount <= rangeEnd
-        );
+        return data
+          .filter(
+            (deal) => deal.discount >= rangeBeg && deal.discount <= rangeEnd
+          )
+          .sort((a, b) => b.discount - a.discount);
       } else {
         throw new RangeError("rangeBeg has to be lesser than rangeEnd");
       }
@@ -49,7 +51,9 @@ function filterDealsByDiscount(data, rangeBeg = 0, rangeEnd = 100) {
  */
 function filterDealsByComments(data, lowerBound = 15) {
   try {
-    return data.filter((deal) => deal.comments >= lowerBound);
+    return data
+      .filter((deal) => deal.comments >= lowerBound)
+      .sort((a, b) => b.comments - a.comments);
   } catch (e) {
     console.log(e);
   }
@@ -63,7 +67,9 @@ function filterDealsByComments(data, lowerBound = 15) {
  */
 function filterDealsByTemperature(data, lowerBound = 100) {
   try {
-    return data.filter((deal) => deal.temperature >= lowerBound);
+    return data
+      .filter((deal) => deal.temperature >= lowerBound)
+      .sort((a, b) => b.temperature - a.temperature);
   } catch (e) {
     console.log(e);
   }
