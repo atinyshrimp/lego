@@ -10,7 +10,7 @@ async function sandbox(
     console.log(`🕵️‍♀️  browsing ${website} website`);
 
     // const deals = await dealabs.scrape(website);
-    const sales = await vinted.scrape(website);
+    const sales = await vinted.scrape();
 
     // console.log(deals);
     console.log("done");

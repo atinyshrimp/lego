@@ -77,7 +77,9 @@ function getLegoIds() {
   const dealsData = JSON.parse(fs.readFileSync(dealsFilePath, "utf-8"));
 
   // Extract unique Lego IDs from the deals data
-  return [...new Set(dealsData.map((deal) => deal.legoId))];
+  return [
+    ...new Set(dealsData.map((deal) => deal.legoId).sort((a, b) => a - b)),
+  ];
 }
 
 async function scrapeVintedForLegoId(legoId, cookieString, writable = true) {
@@ -135,20 +137,30 @@ async function scrapeVintedForLegoId(legoId, cookieString, writable = true) {
   return allItems;
 }
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 module.exports.scrape = async (legoId = undefined) => {
   // Get cookies for Vinted session
   const cookieString = await extractCookies();
 
   if (legoId === undefined) {
     const legoIds = getLegoIds();
+    let counter = 0;
 
     for (const legoId of legoIds) {
+      counter++;
+      console.log(`[${counter}/${legoIds.length}]`);
       await scrapeVintedForLegoId(legoId, cookieString);
+
+      // Delay of 2000ms (2 seconds) between each request
+      await sleep(2000);
     }
 
     console.log("Scraping completed for all Lego IDs.");
   } else {
-    const sales = await scrapeVintedForLegoId(legoId, cookieString);
+    const sales = await scrapeVintedForLegoId(legoId, cookieString, false);
     console.log(sales);
     console.log(`Scraping completed for Lego ID ${legoId}.`);
   }
