@@ -1,6 +1,7 @@
 /* eslint-disable no-console, no-process-exit */
 const avenuedelabrique = require("./websites/avenuedelabrique");
 const dealabs = require("./websites/dealabs");
+const vinted = require("./websites/vinted");
 
 async function sandbox(
   website = "https://www.avenuedelabrique.com/nouveautes-lego"
@@ -8,7 +9,8 @@ async function sandbox(
   try {
     console.log(`🕵️‍♀️  browsing ${website} website`);
 
-    const deals = await dealabs.scrape(website);
+    // const deals = await dealabs.scrape(website);
+    const sales = await vinted.scrape(website);
 
     // console.log(deals);
     console.log("done");
