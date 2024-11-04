@@ -1,6 +1,19 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
+// Get cookies for Vinted session
+var cookieString;
+
+var opts = {
+	method: "GET",
+	headers: {
+		Accept: "application/json, text/plain, */*",
+		Cookie: cookieString,
+		"User-Agent":
+			"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+	},
+};
+
 /** Extracts cookies from the Vinted website.
  *
  * @async
@@ -21,27 +34,64 @@ async function extractCookies() {
 	return cookieString;
 }
 
-/** Parses the body of the Vinted API response to extract sale details.
- *
- * @param {Object[]} body - The response body from the Vinted API.
- * @returns {Object[]} - An array of sale objects containing id, price, imgUrl, title, and link.
- */
-function parse(body) {
-	return body.map((sale) => {
-		const id = sale.id;
-		const price = Number(sale.total_item_price);
-		const imgUrl = sale.photo.url;
-		const title = sale.title;
-		const link = sale.url;
+async function getPublicationDate(itemId, user) {
+	const url = `https://www.vinted.fr/api/v2/users/${user}/items?page=1&per_page=21&cond=active&selected_item_id=${itemId}`;
 
-		return {
-			link,
-			price,
-			title,
-			imgUrl,
-			id,
-		};
-	});
+	const response = await fetch(url, opts);
+	if (response.ok) {
+		const data = await response.json();
+		const dateISO = data.items[0].created_at_ts; // Assuming this is the ISO date string
+		const dateUnix = Math.floor(new Date(dateISO).getTime() / 1000); // Convert to Unix timestamp
+		return dateUnix;
+	} else {
+		console.error(
+			`Failed to fetch data for Lego ID ${legoId}:`,
+			response.status
+		);
+	}
+}
+
+/**
+ * Parses the body of the Vinted API response to extract sale details.
+ * @async
+ * @param {Object[]} body - The response body from the Vinted API.
+ * @returns {Promise<Object[]>} - A promise that resolves to an array of sale objects containing id, price, imgUrl, title, link, and date.
+ */
+async function parse(body) {
+	return Promise.all(
+		body.map(async (sale) => {
+			const id = sale.id;
+			const price = Number(sale.total_item_price);
+			const imgUrl = sale.photo.url;
+			const title = sale.title;
+			const link = sale.url;
+
+			try {
+				const date = await getPublicationDate(sale.id, sale.user.id);
+				return {
+					link,
+					price,
+					title,
+					imgUrl,
+					date,
+					id,
+				};
+			} catch (err) {
+				console.error(
+					`Failed to fetch publication date for sale ID ${id}:`,
+					err
+				);
+				return {
+					link,
+					price,
+					title,
+					imgUrl,
+					date: null, // or some default value if the date couldn't be fetched
+					id,
+				};
+			}
+		})
+	);
 }
 
 /** Reads and extracts unique Lego IDs from the deals.json file.
@@ -67,7 +117,7 @@ function getLegoIds() {
  * @param {boolean} [writable=true] - Whether to write the results to a JSON file.
  * @returns {Promise<Object[]>} - A promise that resolves to an array of item objects.
  */
-async function scrapeVintedForLegoId(legoId, cookieString, writable = true) {
+async function scrapeVintedForLegoId(legoId, writable = true) {
 	let allItems = [];
 	let currentPage = 1;
 	let hasMorePages = true;
@@ -76,22 +126,13 @@ async function scrapeVintedForLegoId(legoId, cookieString, writable = true) {
 	while (hasMorePages) {
 		const url = `https://www.vinted.fr/api/v2/catalog/items?page=${currentPage}&per_page=96&time=${unixNow}&search_text=${legoId}&catalog_ids=&size_ids=&brand_ids=89162&status_ids=&material_ids=`;
 
-		const opts = {
-			method: "GET",
-			headers: {
-				Accept: "application/json, text/plain, */*",
-				Cookie: cookieString,
-				"User-Agent":
-					"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-			},
-		};
-
 		try {
 			const response = await fetch(url, opts);
 			if (response.ok) {
 				const data = await response.json();
 				if (data.items.length > 0) {
-					allItems = allItems.concat(parse(data.items));
+					const sales = await parse(data.items);
+					allItems = allItems.concat(sales);
 					currentPage++;
 					hasMorePages = currentPage <= data.pagination.total_pages;
 				} else {
@@ -138,8 +179,8 @@ function sleep(ms) {
  * @returns {Promise<void>} - A promise that resolves when the scraping is complete.
  */
 module.exports.scrape = async (legoId = undefined) => {
-	// Get cookies for Vinted session
-	const cookieString = await extractCookies();
+	cookieString = await extractCookies();
+	opts.headers.Cookie = cookieString;
 
 	if (legoId === undefined) {
 		const legoIds = getLegoIds();
@@ -148,15 +189,15 @@ module.exports.scrape = async (legoId = undefined) => {
 		for (const legoId of legoIds) {
 			counter++;
 			console.log(`[${counter}/${legoIds.length}]`);
-			await scrapeVintedForLegoId(legoId, cookieString);
+			await scrapeVintedForLegoId(legoId);
 
-			// Delay of 2000ms (2 seconds) between each request
-			await sleep(2000);
+			// Delay of 1000ms (1 second) between each request
+			await sleep(1000);
 		}
 
 		console.log(`Scraping completed for all ${legoIds.length} Lego IDs.`);
 	} else {
-		const sales = await scrapeVintedForLegoId(legoId, cookieString, false);
+		const sales = await scrapeVintedForLegoId(legoId, false);
 		console.log(sales);
 		console.log(`Scraping completed for Lego ID ${legoId}.`);
 	}

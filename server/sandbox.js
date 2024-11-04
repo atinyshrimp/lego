@@ -4,21 +4,21 @@ const dealabs = require("./websites/dealabs");
 const vinted = require("./websites/vinted");
 
 async function sandbox(
-  website = "https://www.avenuedelabrique.com/nouveautes-lego"
+	website = "https://www.avenuedelabrique.com/nouveautes-lego"
 ) {
-  try {
-    console.log(`🕵️‍♀️  browsing ${website} website`);
+	try {
+		console.log(`🕵️‍♀️  browsing ${website} website`);
 
-    // const deals = await dealabs.scrape(website);
-    const sales = await vinted.scrape();
+		// const deals = await dealabs.scrape(website);
+		const sales = await vinted.scrape(website);
 
-    // console.log(deals);
-    console.log("done");
-    process.exit(0);
-  } catch (e) {
-    console.error(e);
-    process.exit(1);
-  }
+		// console.log(deals);
+		console.log("done");
+		process.exit(0);
+	} catch (e) {
+		console.error(e);
+		process.exit(1);
+	}
 }
 
 const [, , eshop] = process.argv;
