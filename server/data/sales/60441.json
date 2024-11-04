@@ -4,6 +4,7 @@
     "price": 25.9,
     "title": "Lego City Space Explorer 60441 3 sets en 1 neuf et emballé",
     "imgUrl": "https://images1.vinted.net/t/04_00aa5_NavmpW1pQxMzx3bYBtKdmzKW/f800/1730654295.jpeg?s=0d53aa8a4a95d46ee9cf1f7059ab61917426d2ff",
+    "publicationDate": 1730654295,
     "id": 5325051738
   },
   {
@@ -11,6 +12,7 @@
     "price": 9.1,
     "title": "LEGO City Space polybag 952405",
     "imgUrl": "https://images1.vinted.net/t/02_007df_5GX2cjmUHqDWvFhBN9umWK62/f800/1730640879.jpeg?s=1ecd8d064f9c195da881990c141a4c6c033238da",
+    "publicationDate": 1730640879,
     "id": 5322778646
   },
   {
@@ -18,13 +20,23 @@
     "price": 26.43,
     "title": "Lego 60441",
     "imgUrl": "https://images1.vinted.net/t/04_01655_meEuiXcHdmkwzV8hyJatxjLw/f800/1729725371.jpeg?s=df4f646afe3f734974abbb71a00b6e2840759052",
+    "publicationDate": 1729725371,
     "id": 5268725564
+  },
+  {
+    "link": "https://www.vinted.fr/items/5327478577-pack-lego-espace-60441-navette-robot-vaisseau-space",
+    "price": 26.95,
+    "title": "Pack Lego espace 60441 navette robot vaisseau Space",
+    "imgUrl": "https://images1.vinted.net/t/04_017cc_opQD76YJtWpjnHuADqVEk17n/f800/1730711237.jpeg?s=d8ac90d684ba31b421f1e4444144f08068501395",
+    "publicationDate": 1730711237,
+    "id": 5327478577
   },
   {
     "link": "https://www.vinted.fr/items/5284726632-lego-city-60441-space-explorers-pack",
     "price": 26.95,
     "title": "Lego City 60441 Space Explorers pack",
     "imgUrl": "https://images1.vinted.net/t/04_00210_Lsk5dHbtiNhUFmfyg664vtfS/f800/1730025748.jpeg?s=256b300f2a94060ae62589aa46860fd2344750e0",
+    "publicationDate": 1730025748,
     "id": 5284726632
   },
   {
@@ -32,6 +44,7 @@
     "price": 29.58,
     "title": "Lego 60441 Space Explorers Pack",
     "imgUrl": "https://images1.vinted.net/t/02_0081a_DXUWGFvyJ91DbYab1k9c4nXU/f800/1730459358.jpeg?s=b51f0290c2af4150c23cf5800d610f680c5c8967",
+    "publicationDate": 1730459358,
     "id": 5310604159
   },
   {
@@ -39,6 +52,7 @@
     "price": 32.19,
     "title": "Lego City Space 60441 (3-in-1 with 60428 60430 30663) New",
     "imgUrl": "https://images1.vinted.net/t/02_00094_frGf1djrMrGid8zDCHqtBpYu/f800/1726518393.jpeg?s=2acce2a2a03ed91dac9620e7781dda649b8988ce",
+    "publicationDate": 1726518393,
     "id": 5058268527
   },
   {
@@ -46,6 +60,7 @@
     "price": 38.5,
     "title": "Lego space 3 en 1",
     "imgUrl": "https://images1.vinted.net/t/01_020df_BSbpYFcy87CNYsxusfFmr58H/f800/1727784630.jpeg?s=7c01bf236b052ce3434d7aaab875edeb8a42ddd8",
+    "publicationDate": 1727784630,
     "id": 5140416937
   }
 ]

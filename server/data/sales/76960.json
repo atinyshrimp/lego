@@ -4,20 +4,39 @@
     "price": 3.85,
     "title": "Notice lego set 76960",
     "imgUrl": "https://images1.vinted.net/t/01_0022b_w4yrK5tne1F6NH1hjo9g5RJM/f800/1718801007.jpeg?s=0c221735bcb40580f89de169d52078d11f4c374a",
+    "publicationDate": 1718801007,
     "id": 4662509221
+  },
+  {
+    "link": "https://www.vinted.fr/items/5327340555-lego-jurassic-park-76960-la-decouvert-du-brachiosaure",
+    "price": 68.94,
+    "title": "Lego jurassic park 76960 la découvert du brachiosaure",
+    "imgUrl": "https://images1.vinted.net/t/03_002f0_qTYmxh9yFR8yGedAsAitePVv/f800/r1/1730709059.jpeg?s=953503db767017aba8494305a726968f76f2bb8f",
+    "publicationDate": 1730709059,
+    "id": 5327340555
   },
   {
     "link": "https://www.vinted.fr/items/5172024531-lego-jurassic-park-76960-minifigs",
     "price": 32.2,
     "title": "Lego Jurassic Park 76960 (minifigs)",
     "imgUrl": "https://images1.vinted.net/t/02_02677_CM7Vh8niVXfoadLWcyhdqG3w/f800/1728234985.jpeg?s=5cf052baa47d6a13751761ea365525903fc105a0",
+    "publicationDate": 1728234985,
     "id": 5172024531
+  },
+  {
+    "link": "https://www.vinted.fr/items/5328920351-nieuwe-doos-lego-jurassic-76960",
+    "price": 63.7,
+    "title": "Nieuwe doos lego jurassic 76960",
+    "imgUrl": "https://images1.vinted.net/t/04_003e4_GgMgQG8Lx9pGp1L5dy3vKJ9A/f800/1730726262.jpeg?s=60ad80b2bad9532466a38be279a330921a5942f9",
+    "publicationDate": 1730726262,
+    "id": 5328920351
   },
   {
     "link": "https://www.vinted.fr/items/4848090324-lot-lego-sans-la-boite-harry-potter",
     "price": 53.2,
     "title": "Lot lego (sans la boîte Harry potter)",
     "imgUrl": "https://images1.vinted.net/t/03_00ba7_fpcKGA9NeCPy96g3wqB9Xk9v/f800/1722800541.jpeg?s=699a705e9c2d16b607d2328f6e666e20044e3136",
+    "publicationDate": 1722800541,
     "id": 4848090324
   },
   {
@@ -25,62 +44,71 @@
     "price": 68.95,
     "title": "Lego jurassic park 76960, le brachiosaure, dinosaure",
     "imgUrl": "https://images1.vinted.net/t/03_01fcb_YcnSXMs3gzB4imBWuBCgMsKL/f800/1730306633.jpeg?s=6161f6ec80fd84421b32fe2c241d8294bfb342eb",
+    "publicationDate": 1730306633,
     "id": 5303830838
-  },
-  {
-    "link": "https://www.vinted.fr/items/3998644181-new-lego-star-wars-the-mandalorian-n-1-starfighter-microfighter-76960",
-    "price": 18.33,
-    "title": "(New) Lego Star Wars - The Mandalorian N-1 Starfighter Microfighter #76960",
-    "imgUrl": "https://images1.vinted.net/t/03_0141d_tYR4TJhCYJrCMSVx7MC2bjjY/f800/1705691689.jpeg?s=94a67a0768481070dd4e76605b3b1c4576fe170e",
-    "id": 3998644181
   },
   {
     "link": "https://www.vinted.fr/items/5314516941-lego-76960-vaste-prijs",
     "price": 68.95,
     "title": "Lego 76960 vaste prijs",
     "imgUrl": "https://images1.vinted.net/t/01_020ab_G1465vEo3p18w3erRC3XJGyr/f800/1730526592.jpeg?s=74da453a4b2b8d78cbf516a680d81e1d0959a5a6",
+    "publicationDate": 1730526592,
     "id": 5314516941
   },
   {
-    "link": "https://www.vinted.fr/items/5323294781-lego-jurassic-park-76960-brachiosaure",
-    "price": 74.2,
-    "title": "Lego jurassic Park 76960 brachiosaure",
-    "imgUrl": "https://images1.vinted.net/t/04_00182_tWCaL1CKPTuxzo5uYxSCvuqY/f800/1730643871.jpeg?s=926a117dbb3929f950a01151ade188878daa858c",
-    "id": 5323294781
+    "link": "https://www.vinted.fr/items/3998644181-new-lego-star-wars-the-mandalorian-n-1-starfighter-microfighter-76960",
+    "price": 18.33,
+    "title": "(New) Lego Star Wars - The Mandalorian N-1 Starfighter Microfighter #76960",
+    "imgUrl": "https://images1.vinted.net/t/03_0141d_tYR4TJhCYJrCMSVx7MC2bjjY/f800/1705691689.jpeg?s=94a67a0768481070dd4e76605b3b1c4576fe170e",
+    "publicationDate": 1705691689,
+    "id": 3998644181
   },
   {
     "link": "https://www.vinted.fr/items/5311534070-lego-jurassic-park-brachiosaurus-76960-sealed",
     "price": 68.95,
     "title": "Lego Jurassic Park, Brachiosaurus, 76960, sealed!",
     "imgUrl": "https://images1.vinted.net/t/04_00ab4_bgSEuMSdxE2zm47ktVaaoWWr/f800/1730467784.jpeg?s=238ba0c73b8fddc5348e14470c1a0fec21990f69",
+    "publicationDate": 1730467784,
     "id": 5311534070
+  },
+  {
+    "link": "https://www.vinted.fr/items/5323294781-lego-jurassic-park-76960-brachiosaure",
+    "price": 74.2,
+    "title": "Lego jurassic Park 76960 brachiosaure",
+    "imgUrl": "https://images1.vinted.net/t/04_00182_tWCaL1CKPTuxzo5uYxSCvuqY/f800/1730643871.jpeg?s=926a117dbb3929f950a01151ade188878daa858c",
+    "publicationDate": 1730643871,
+    "id": 5323294781
   },
   {
     "link": "https://www.vinted.fr/items/5269961800-lego-76960-jurassic-park-la-decouverte-du-brachiosaure",
     "price": 77.35,
     "title": "LEGO 76960 Jurassic Park La Découverte du Brachiosaure",
     "imgUrl": "https://images1.vinted.net/t/03_0092a_WRkRRjpLNtiuYtbQCPUXz2tn/f800/1729766299.jpeg?s=501a408e807169fc05f7e1fa80bec5dd3bc547d1",
+    "publicationDate": 1729766299,
     "id": 5269961800
-  },
-  {
-    "link": "https://www.vinted.fr/items/5321834411-lego-76960-la-decouverte-du-brachiosaure",
-    "price": 83.65,
-    "title": "Lego 76960 La découverte du brachiosaure",
-    "imgUrl": "https://images1.vinted.net/t/04_01f48_Wi39Bp4pS9KHhYWQL15RUeXY/f800/1730634925.jpeg?s=055d098e0398243dd9a0f8eabc6e3d85f5ab3f9f",
-    "id": 5321834411
   },
   {
     "link": "https://www.vinted.fr/items/5305564239-lego-76960-brachiosaurus-discovery",
     "price": 68.95,
     "title": "Lego 76960 Brachiosaurus Discovery",
     "imgUrl": "https://images1.vinted.net/t/04_00c5b_jLE7DbAKhab2vFW5QfPq2cfv/f800/1730358862.jpeg?s=c5ac58f6faf6f6c35039a9d9c9eeb22978c209bc",
+    "publicationDate": 1730358862,
     "id": 5305564239
+  },
+  {
+    "link": "https://www.vinted.fr/items/5321834411-lego-76960-la-decouverte-du-brachiosaure",
+    "price": 83.65,
+    "title": "Lego 76960 La découverte du brachiosaure",
+    "imgUrl": "https://images1.vinted.net/t/04_01f48_Wi39Bp4pS9KHhYWQL15RUeXY/f800/1730634925.jpeg?s=055d098e0398243dd9a0f8eabc6e3d85f5ab3f9f",
+    "publicationDate": 1730634925,
+    "id": 5321834411
   },
   {
     "link": "https://www.vinted.fr/items/5045679788-lot-lego-jurassiques-park",
     "price": 210.7,
     "title": "Lot lego jurassiques Park",
     "imgUrl": "https://images1.vinted.net/t/02_023f4_RfbUjMTYPUJHSVgRyaPYcHDU/f800/1726390261.jpeg?s=3e3de762577ef7b20f68139dbe8b2b6d61632e04",
+    "publicationDate": 1726390261,
     "id": 5045679788
   },
   {
@@ -88,6 +116,7 @@
     "price": 73.15,
     "title": "Lego jurassic word 76960",
     "imgUrl": "https://images1.vinted.net/t/04_01049_QJE1BgytVxWXAFiQGUEoaWmB/f800/1730322958.jpeg?s=75eebc49378129a8985c4afa35620ddf68cdd571",
+    "publicationDate": 1730322958,
     "id": 5305078205
   },
   {
@@ -95,6 +124,7 @@
     "price": 89.95,
     "title": "LEGO 76960 brachiosauro jurassic parc world Expert New *TC",
     "imgUrl": "https://images1.vinted.net/t/04_0113c_p6qEqgSDgSSxSpSGeUVdJp9e/f800/1730371512.jpeg?s=b0498918bec66552d2e9e0a86f23d58841f6feae",
+    "publicationDate": 1730371512,
     "id": 5306368789
   },
   {
@@ -102,6 +132,7 @@
     "price": 105.7,
     "title": "Lego 76960 Neuf",
     "imgUrl": "https://images1.vinted.net/t/02_02303_v5VUEtBJCD5Uo5frepmbFnok/f800/1729082531.jpeg?s=5940efdc23fc5a0e0e2617ac27ed14fde4f3e3b5",
+    "publicationDate": 1729082531,
     "id": 5227060505
   },
   {
@@ -109,6 +140,7 @@
     "price": 84.7,
     "title": "Lego 76960 - Jurassic World  - Descubrimiento del Braquiosaurio",
     "imgUrl": "https://images1.vinted.net/t/02_0042b_TmgqQG28p7n4uRuMs8AoMyq4/f800/1730465825.jpeg?s=e1e96fdfa0031982b10d710ed6836d1d1a664163",
+    "publicationDate": 1730465825,
     "id": 5311312330
   },
   {
@@ -116,6 +148,7 @@
     "price": 88.89,
     "title": "(New) Lego Jurassic World - Brachiosaurus Discovery #76960",
     "imgUrl": "https://images1.vinted.net/t/03_00602_wcvz31EhqFwcNU9D3wsxPZjc/f800/1704915560.jpeg?s=d457f1951b6e1ba1591afadad7866efe9d308d70",
+    "publicationDate": 1704915560,
     "id": 3963987387
   },
   {
@@ -123,6 +156,7 @@
     "price": 201.25,
     "title": "Lego Jurassic",
     "imgUrl": "https://images1.vinted.net/t/02_00adb_CRQPYVfjsdckiuNqFSwoFSQH/f800/1712587263.jpeg?s=aab8faeec1f0454a0bb9ea21c17d6b310328d826",
+    "publicationDate": 1712587263,
     "id": 4335325108
   },
   {
@@ -130,6 +164,7 @@
     "price": 89.95,
     "title": "Lego Jurassic World / Jurassic Park 76960: Brachiosaurus Discovery",
     "imgUrl": "https://images1.vinted.net/t/02_009c0_zTdHUkeESsVAxa6HxZ7Cjtyz/f800/1729614464.jpeg?s=1d577f8c8b467e665e5e8ddd217d1cae773b5942",
+    "publicationDate": 1729614464,
     "id": 5262022163
   }
 ]

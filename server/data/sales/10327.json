@@ -4,6 +4,7 @@
     "price": 8.05,
     "title": "Lego dune issus du set 10327",
     "imgUrl": "https://images1.vinted.net/t/04_0176c_hiqZfGGQg9XeBXVPPDjRCSEj/f800/1730030348.jpeg?s=46cf2d8b2560b05e3c619bbd29cec02c4bb0b04d",
+    "publicationDate": 1730030348,
     "id": 5285446989
   },
   {
@@ -11,6 +12,7 @@
     "price": 110.95,
     "title": "Lego Dune Atreides Royal Ornithopter",
     "imgUrl": "https://images1.vinted.net/t/02_00877_oBRxsFHFoLwKgDpQUTJJzVeF/f800/1730569330.jpeg?s=5c7f4196e722416fb97105f6087b3ddc468825b5",
+    "publicationDate": 1730569330,
     "id": 5318603240
   },
   {
@@ -18,6 +20,7 @@
     "price": 95.2,
     "title": "Lego DUNE 10327. No minifigures",
     "imgUrl": "https://images1.vinted.net/t/02_00439_ogbCWVFniEuWo1ckSeYm4TjT/f800/1728913339.jpeg?s=e47e1f4f1b6436aaa800df340ca7b7d12644f315",
+    "publicationDate": 1728913339,
     "id": 5216663761
   },
   {
@@ -25,41 +28,47 @@
     "price": 84.7,
     "title": "Lego 10327 dune - minifigures",
     "imgUrl": "https://images1.vinted.net/t/01_010ec_cEzoYogpBWwuDpVvBce8Yog8/f800/1729157860.jpeg?s=e8b0a7846c0ab38181c627ca5f43ee17549d4d67",
+    "publicationDate": 1729157860,
     "id": 5231147646
-  },
-  {
-    "link": "https://www.vinted.fr/items/4876329200-lego-dune-ornithopter-minifigure-standdisplay-minifigures-not-included",
-    "price": 28.95,
-    "title": "Lego Dune Ornithopter Minifigure Stand/Display (Minifigures not included)",
-    "imgUrl": "https://images1.vinted.net/t/02_02558_RnvA1mpjSHRYEzJS5NUbqiRF/f800/1723405301.jpeg?s=25962582c151a26a0098078f5ddf5c2505c83110",
-    "id": 4876329200
   },
   {
     "link": "https://www.vinted.fr/items/5306504135-lego-10327-nuevo-e-sellado",
     "price": 116.2,
     "title": "Lego 10327 NUEVO e sellado",
     "imgUrl": "https://images1.vinted.net/t/04_0134e_tPBbjzDdyUHdb9pv9urft3GJ/f800/1730372964.jpeg?s=3e18aa52e422f5893f605142ddfcc7b0ec304685",
+    "publicationDate": 1730372964,
     "id": 5306504135
   },
   {
-    "link": "https://www.vinted.fr/items/5259594464-lego-dune-ornithopter-10327-en-tres-bon-etat",
-    "price": 126.7,
-    "title": "Lego dune ornithopter 10327 en très bon état",
-    "imgUrl": "https://images1.vinted.net/t/03_0203a_DFpdsYJPmxzhbjFX6AXb3X3X/f800/1729591778.jpeg?s=7343e61753eecd68bd907a7bc449b6be63d7e81b",
-    "id": 5259594464
+    "link": "https://www.vinted.fr/items/4876329200-lego-dune-ornithopter-minifigure-standdisplay-minifigures-not-included",
+    "price": 28.95,
+    "title": "Lego Dune Ornithopter Minifigure Stand/Display (Minifigures not included)",
+    "imgUrl": "https://images1.vinted.net/t/02_02558_RnvA1mpjSHRYEzJS5NUbqiRF/f800/1723405301.jpeg?s=25962582c151a26a0098078f5ddf5c2505c83110",
+    "publicationDate": 1723405301,
+    "id": 4876329200
   },
   {
     "link": "https://www.vinted.fr/items/5276787257-lego-icons-10327-dune-atreides-royal-ornithopter",
     "price": 121.45,
     "title": "Lego icons 10327 Dune Atreides Royal Ornithopter",
     "imgUrl": "https://images1.vinted.net/t/03_01b28_aHrxg5ZMmJfxg9iudjWWaBLQ/f800/1729875142.jpeg?s=bb9bf9b076d48149bed3bd2b17b4a7f958a559b8",
+    "publicationDate": 1729875142,
     "id": 5276787257
+  },
+  {
+    "link": "https://www.vinted.fr/items/5259594464-lego-dune-ornithopter-10327-en-tres-bon-etat",
+    "price": 126.7,
+    "title": "Lego dune ornithopter 10327 en très bon état",
+    "imgUrl": "https://images1.vinted.net/t/03_0203a_DFpdsYJPmxzhbjFX6AXb3X3X/f800/1729591778.jpeg?s=7343e61753eecd68bd907a7bc449b6be63d7e81b",
+    "publicationDate": 1729591778,
+    "id": 5259594464
   },
   {
     "link": "https://www.vinted.fr/items/5193543979-lego-10327-nuovo-dune-atreides-royal-ornithopter",
     "price": 123.55,
     "title": "Lego 10327 NUOVO Dune Atreides Royal Ornithopter",
     "imgUrl": "https://images1.vinted.net/t/03_001e8_k5A9MtxjoMKN7wTgp6MhDTK8/f800/1728572957.jpeg?s=d6bb987446015b3f2457c8ea7c7ce2d1d24723de",
+    "publicationDate": 1728572957,
     "id": 5193543979
   },
   {
@@ -67,6 +76,7 @@
     "price": 100.45,
     "title": "LEGO Icons Dune Atreides Royal Ornithopter",
     "imgUrl": "https://images1.vinted.net/t/04_0114f_Q5DhJbCpUuXrS4defUveKpWh/f800/1729781671.jpeg?s=f2b738f58b2712e5b82a0bf27f240b6d24577284",
+    "publicationDate": 1729781671,
     "id": 5271507621
   },
   {
@@ -74,6 +84,7 @@
     "price": 116.2,
     "title": "Lego Dune 10327 atreides royal ornithopter",
     "imgUrl": "https://images1.vinted.net/t/01_003e8_JMWv8PYdmrrzA7F3mKDzRJXS/f800/1727615575.jpeg?s=739674be0df9f3a177ac60ec9d7426242f8e03ad",
+    "publicationDate": 1727615575,
     "id": 5128264339
   },
   {
@@ -81,6 +92,7 @@
     "price": 105.7,
     "title": "Lego icons neuf",
     "imgUrl": "https://images1.vinted.net/t/01_005a2_WHz8W4YYJPy8bFpuD6EuekVz/f800/1730278216.jpeg?s=6eb79995ba24f3eb288582ffea10f13c950ec98c",
+    "publicationDate": 1730278216,
     "id": 5301058323
   },
   {
@@ -88,6 +100,7 @@
     "price": 104.65,
     "title": "Dune Atreides Royal Ornithopter - Lego 10327",
     "imgUrl": "https://images1.vinted.net/t/01_00062_xwUHHMWo18ZTGSf1oyjMCiGb/f800/1729192606.jpeg?s=86c375514e1f25a260eed49f035a84fb3974cfcc",
+    "publicationDate": 1729192606,
     "id": 4912875885
   },
   {
@@ -95,6 +108,7 @@
     "price": 137.2,
     "title": "10327 LEGO Dune Atreides Royal Ornithopter",
     "imgUrl": "https://images1.vinted.net/t/01_00e57_KjmWaDHBLD5AjZ2dppcGvKGG/f800/1721818183.jpeg?s=cba90b296fb9256766b082dbff7294f76c9db77b",
+    "publicationDate": 1721818183,
     "id": 4802968221
   },
   {
@@ -102,20 +116,15 @@
     "price": 163.45,
     "title": "LEGO Atreides Royal Ornithopter - 10327",
     "imgUrl": "https://images1.vinted.net/t/01_00b52_C1vfjFPiLzTWQECMtoRhdF5R/f800/1726506418.jpeg?s=069b5a846cc76609fdf605091426bc9b2d0b0250",
+    "publicationDate": 1726506418,
     "id": 5057108313
-  },
-  {
-    "link": "https://www.vinted.fr/items/5138089032-lego-icons-10327-dune-atreides-royal-ornithopter",
-    "price": 121.45,
-    "title": "LEGO Icons 10327 - Dune Atreides Royal Ornithopter",
-    "imgUrl": "https://images1.vinted.net/t/03_01ae8_dEPMDM7TDP4xmsApfBWCTggW/f800/1728841651.jpeg?s=80289d65f1d0fa9cb2a400b843970f6fbcd742f6",
-    "id": 5138089032
   },
   {
     "link": "https://www.vinted.fr/items/4329701135-lego-10327",
     "price": 147.7,
     "title": "Lego 10327",
     "imgUrl": "https://images1.vinted.net/t/02_01d6b_VpsGG3fkpknKopu88WVA3zrW/f800/1712498800.jpeg?s=d975cf863b19fcf987258e4660189ab48e30f5f5",
+    "publicationDate": 1712498800,
     "id": 4329701135
   },
   {
@@ -123,13 +132,23 @@
     "price": 147.7,
     "title": "10327 LEGO Icons - Dune Atreides Ornitottero Reale",
     "imgUrl": "https://images1.vinted.net/t/01_004c5_9SWTB6L2vKJP1pjxfqihN7xr/f800/1715959146.jpeg?s=67e33474f779af688bb257c5a99b57fec8145eb5",
+    "publicationDate": 1715959146,
     "id": 4516206789
+  },
+  {
+    "link": "https://www.vinted.fr/items/5213519982-lego-10327-icons-dune-atreides-ornitottero-reale",
+    "price": 146.65,
+    "title": "LEGO 10327 Icons Dune Atreides Ornitottero Reale",
+    "imgUrl": "https://images1.vinted.net/t/02_00e28_j2Ju8X4kVqE6xcPzwHEyf7Rf/f800/1728850363.jpeg?s=47fad550a582a7fc76e69572195ca26e1978735c",
+    "publicationDate": 1728850363,
+    "id": 5213519982
   },
   {
     "link": "https://www.vinted.fr/items/5137463540-lego-dune-10327-nuovo-misb",
     "price": 137.2,
     "title": "Lego Dune 10327 nuovo MISB",
     "imgUrl": "https://images1.vinted.net/t/01_01ff8_JQbDW7CUobUq8udS4Nwqwh99/f800/1727720804.jpeg?s=af2984746ccd4172d659955ffa09f8b3fe484a52",
+    "publicationDate": 1727720804,
     "id": 5137463540
   },
   {
@@ -137,48 +156,47 @@
     "price": 126.7,
     "title": "Lego icons 10327",
     "imgUrl": "https://images1.vinted.net/t/04_016de_jxctotZ8UbgQbpuMVdHHvA6x/f800/1730224649.jpeg?s=98f0e865e0c3a753a3bf69cb3b1f4e53e3536e39",
+    "publicationDate": 1730224649,
     "id": 5299325117
-  },
-  {
-    "link": "https://www.vinted.fr/items/5213519982-lego-10327-icons-dune-atreides-ornitottero-reale",
-    "price": 146.65,
-    "title": "LEGO 10327 Icons Dune Atreides Ornitottero Reale",
-    "imgUrl": "https://images1.vinted.net/t/02_00e28_j2Ju8X4kVqE6xcPzwHEyf7Rf/f800/1728850363.jpeg?s=47fad550a582a7fc76e69572195ca26e1978735c",
-    "id": 5213519982
-  },
-  {
-    "link": "https://www.vinted.fr/items/5151335719-lego-10327-icons-dune-atreides-royal-ornithopter",
-    "price": 128.8,
-    "title": "Lego 10327 - Icons  - Dune: Atreides Royal Ornithopter",
-    "imgUrl": "https://images1.vinted.net/t/01_000a2_5knGJ5YJauFD79jpaMjCEcwU/f800/1727957668.jpeg?s=d4f83cd1dc7bd072113f77bed54ddfdb1f0a3c5e",
-    "id": 5151335719
   },
   {
     "link": "https://www.vinted.fr/items/5186496063-lego-dune-atreides-royal-ornithopter",
     "price": 131.95,
     "title": "Lego Dune Atreides Royal Ornithopter",
     "imgUrl": "https://images1.vinted.net/t/01_020b3_BV1mbg2nmNEE2EHohNysPaVU/f800/1728746634.jpeg?s=4bb052d415cdc291eafa8434d146222c41d55ca0",
+    "publicationDate": 1728746634,
     "id": 5186496063
   },
   {
-    "link": "https://www.vinted.fr/items/5097797578-lego-atreides-royal-ornithopter-set-10327",
-    "price": 126.7,
-    "title": "Lego Atreides Royal Ornithopter set 10327",
-    "imgUrl": "https://images1.vinted.net/t/01_01497_Qfqgj1G5VGv41zBZudVeg8Hg/f800/1727129662.jpeg?s=390824bf26e43667eda3685aa7434fddc82e541a",
-    "id": 5097797578
+    "link": "https://www.vinted.fr/items/5151335719-lego-10327-icons-dune-atreides-royal-ornithopter",
+    "price": 128.8,
+    "title": "Lego 10327 - Icons  - Dune: Atreides Royal Ornithopter",
+    "imgUrl": "https://images1.vinted.net/t/01_000a2_5knGJ5YJauFD79jpaMjCEcwU/f800/1727957668.jpeg?s=d4f83cd1dc7bd072113f77bed54ddfdb1f0a3c5e",
+    "publicationDate": 1727957668,
+    "id": 5151335719
   },
   {
     "link": "https://www.vinted.fr/items/4386572860-lego-dune-atreides-ornitottero-reale-10327-no-minifigure",
     "price": 126.69,
     "title": "LEGO Dune Atreides Ornitottero Reale 10327, no minifigure",
     "imgUrl": "https://images1.vinted.net/t/01_01c95_McVVpMBFPLotduTBFyKHgxMy/f800/1713630422.jpeg?s=c0c7d66c4f567b8592f5e412da618c29187eb236",
+    "publicationDate": 1713630422,
     "id": 4386572860
+  },
+  {
+    "link": "https://www.vinted.fr/items/5097797578-lego-atreides-royal-ornithopter-set-10327",
+    "price": 126.7,
+    "title": "Lego Atreides Royal Ornithopter set 10327",
+    "imgUrl": "https://images1.vinted.net/t/01_01497_Qfqgj1G5VGv41zBZudVeg8Hg/f800/1727129662.jpeg?s=390824bf26e43667eda3685aa7434fddc82e541a",
+    "publicationDate": 1727129662,
+    "id": 5097797578
   },
   {
     "link": "https://www.vinted.fr/items/5199816630-lego-icons-10327-dune-atreides-royal-orithopter",
     "price": 136.15,
     "title": "Lego Icons 10327 Dune Atreides Royal Orithopter",
     "imgUrl": "https://images1.vinted.net/t/02_00591_bTNeNZezZrUvURS61EesAc1B/f800/1728675032.jpeg?s=26bd8353e85c400fbde2419b7f802931e6333803",
+    "publicationDate": 1728675032,
     "id": 5199816630
   },
   {
@@ -186,6 +204,7 @@
     "price": 131.95,
     "title": "Lego Icons 10327",
     "imgUrl": "https://images1.vinted.net/t/01_02340_bR7H6EiUM5byJsThBg9f4S2w/f800/1728065385.jpeg?s=01c016eaa673df783eaf8f44890d62792f33acb6",
+    "publicationDate": 1728065385,
     "id": 5158657803
   },
   {
@@ -193,27 +212,31 @@
     "price": 137.2,
     "title": "Set Lego 10327 : Dune",
     "imgUrl": "https://images1.vinted.net/t/03_0015d_qpMCT5EKvciTDYUNecWpyLzf/f800/1727175762.jpeg?s=4ce446ba48012c3c879f99924d5340952b97faa0",
+    "publicationDate": 1727175762,
     "id": 5099399627
-  },
-  {
-    "link": "https://www.vinted.fr/items/5137110785-lego-10327-dune-athreides-royal-neuf-et-scelle",
-    "price": 146.65,
-    "title": "Lego 10327 Dune Athreides Royal NEUF et scellé",
-    "imgUrl": "https://images1.vinted.net/t/02_0227a_mkgUBrhhMEK9wBVfMWj6QzDi/f800/1727717303.jpeg?s=f3a6deda82480ad53c35f302b89a4134c6219fc1",
-    "id": 5137110785
   },
   {
     "link": "https://www.vinted.fr/items/4512659308-lego-10327-fine-helicopter",
     "price": 142.45,
     "title": "Lego 10327 fine helicopter",
     "imgUrl": "https://images1.vinted.net/t/02_01687_1ViJBA8oZ4YBDiQxbn7wv76N/f800/1715879213.jpeg?s=e5735347a03b3e0681f930f6f583bcf86f9e9be1",
+    "publicationDate": 1715879213,
     "id": 4512659308
+  },
+  {
+    "link": "https://www.vinted.fr/items/5137110785-lego-10327-dune-athreides-royal-neuf-et-scelle",
+    "price": 146.65,
+    "title": "Lego 10327 Dune Athreides Royal NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/02_0227a_mkgUBrhhMEK9wBVfMWj6QzDi/f800/1727717303.jpeg?s=f3a6deda82480ad53c35f302b89a4134c6219fc1",
+    "publicationDate": 1727717303,
+    "id": 5137110785
   },
   {
     "link": "https://www.vinted.fr/items/4643886455-lego-dune-icons-10327-atrides-elicottero",
     "price": 147.69,
     "title": "Lego DUNE Icons 10327 Atrides Elicottero",
     "imgUrl": "https://images1.vinted.net/t/01_00faf_51VEQQVpdXia1uGmR9Y5VKF5/f800/1718443614.jpeg?s=25cdc79fd15b818015d0b26a9a6ced4eab00a9f1",
+    "publicationDate": 1718443614,
     "id": 4643886455
   },
   {
@@ -221,6 +244,7 @@
     "price": 142.45,
     "title": "Lego 10327 dune",
     "imgUrl": "https://images1.vinted.net/t/01_01c91_CHvpCvYkPSwbEjrexHo6vqKf/f800/1714746495.jpeg?s=7dfbebf3e4af145ad79d880081e9d9b5f1ee659a",
+    "publicationDate": 1714746495,
     "id": 4451761203
   },
   {
@@ -228,6 +252,7 @@
     "price": 142.45,
     "title": "Lego icons 10327 dune new!",
     "imgUrl": "https://images1.vinted.net/t/01_00836_WVvKGR1jqmyzXuA6iAFGyKdA/f800/1714747592.jpeg?s=f49cea99c132f9715bb56702c4b9af4e6f0686fb",
+    "publicationDate": 1714747592,
     "id": 4451851708
   },
   {
@@ -235,6 +260,7 @@
     "price": 142.45,
     "title": "10327",
     "imgUrl": "https://images1.vinted.net/t/02_000dd_LUSDHArfY7qDMFTLk4X7X6e8/f800/1717955110.jpeg?s=990496a4732d637b3af06ea61e3e1b7c972235bc",
+    "publicationDate": 1717955110,
     "id": 4620739282
   },
   {
@@ -242,6 +268,7 @@
     "price": 147.7,
     "title": "LEGO 10327 - Dune: Atreides Royal Ornithopter",
     "imgUrl": "https://images1.vinted.net/t/01_0157a_gVCma6iWqPktyBLtbY8NngxU/f800/1716844828.jpeg?s=d0d3771bfefa87f534956300009895938c072616",
+    "publicationDate": 1716844828,
     "id": 4564363583
   },
   {
@@ -249,6 +276,7 @@
     "price": 163.45,
     "title": "Lego 10327 Dune Ornithopter",
     "imgUrl": "https://images1.vinted.net/t/03_00701_7WsraJtwMJhYtWV1F4nbkd9s/f800/1724941294.jpeg?s=8f655158ace67f8ddfbd44020f132031c496b907",
+    "publicationDate": 1724941294,
     "id": 4957337684
   }
 ]

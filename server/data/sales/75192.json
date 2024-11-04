@@ -4,6 +4,7 @@
     "price": 4.9,
     "title": "Lego Star Wars Rey sw0677 75236 75148 75178 75105 75192 75099",
     "imgUrl": "https://images1.vinted.net/t/01_0220a_Kc9Mt5eFkUCWgwi3YYWkN1Kd/f800/1728897966.jpeg?s=26c478767dbd18ca21d5aa0f65a8a1b69df43d1b",
+    "publicationDate": 1728897966,
     "id": 5214898583
   },
   {
@@ -11,27 +12,31 @@
     "price": 420.7,
     "title": "75192 lego Faucon Millenium",
     "imgUrl": "https://images1.vinted.net/t/03_024bb_Z9VwzPuS8Cknffq24he3EDNz/f800/1729611648.jpeg?s=f1c27f81a459cb1fbd6488fc293cd7f8aa89e80f",
+    "publicationDate": 1729611648,
     "id": 5261718689
-  },
-  {
-    "link": "https://www.vinted.fr/items/5289725469-lego-millennium-falcon-75192",
-    "price": 37.45,
-    "title": "Lego  Millennium Falcon 75192",
-    "imgUrl": "https://images1.vinted.net/t/01_017e5_KZPiRiCjzd4sjq1UEdPZvyrc/f800/1730062256.jpeg?s=52c5b0ebc7121c2d762175403e0e0c515571ac0d",
-    "id": 5289725469
   },
   {
     "link": "https://www.vinted.fr/items/5084466075-lego-75192",
     "price": 420.7,
     "title": "Lego 75192",
     "imgUrl": "https://images1.vinted.net/t/02_01458_pN1s26HZiJeAnM3e4rVR9uro/f800/1726960077.jpeg?s=a14a3172562916392f3b47467e4c69aa6c4dec0e",
+    "publicationDate": 1726960077,
     "id": 5084466075
+  },
+  {
+    "link": "https://www.vinted.fr/items/5289725469-lego-millennium-falcon-75192",
+    "price": 37.45,
+    "title": "Lego  Millennium Falcon 75192",
+    "imgUrl": "https://images1.vinted.net/t/01_017e5_KZPiRiCjzd4sjq1UEdPZvyrc/f800/1730062256.jpeg?s=52c5b0ebc7121c2d762175403e0e0c515571ac0d",
+    "publicationDate": 1730062256,
+    "id": 5289725469
   },
   {
     "link": "https://www.vinted.fr/items/5149609592-lego-star-wars-minifig-chewbacca-sw0532-neuf",
     "price": 6.9,
     "title": "Lego star wars minifig Chewbacca sw0532 neuf",
     "imgUrl": "https://images1.vinted.net/t/02_01958_6SoV4iRoGLfcUKh7THedoeCs/f800/1727939837.jpeg?s=a559ead139339255d71485f3c372bf8f1ec52c99",
+    "publicationDate": 1727939837,
     "id": 5149609592
   },
   {
@@ -39,62 +44,71 @@
     "price": 7.58,
     "title": "LEGO Star Wars sw0676 75192 Finn Minifigure Good Condition",
     "imgUrl": "https://images1.vinted.net/t/01_01df1_UjLWcZXCxkMUJ5UHcHwJRSoH/f800/1728299373.jpeg?s=2443bbdb0e1d5ed7c9a3729b49db6cd9fd0d4719",
+    "publicationDate": 1728299373,
     "id": 5175418995
-  },
-  {
-    "link": "https://www.vinted.fr/items/4991592041-lego-star-wars-box-millennium-falcon-75192",
-    "price": 53.2,
-    "title": "LEGO Star Wars BOX Millennium Falcon 75192",
-    "imgUrl": "https://images1.vinted.net/t/02_0169a_AEbEdeCMVwa7BqLTb6q1pM85/f800/1725547220.jpeg?s=e7138dc00ca547945c661bda8468a42d09931dc5",
-    "id": 4991592041
-  },
-  {
-    "link": "https://www.vinted.fr/items/4811188573-lot-de-3-barre-modifiees-100-lego",
-    "price": 2.28,
-    "title": "Lot de 3 barre modifiées 100% lego",
-    "imgUrl": "https://images1.vinted.net/t/01_0248f_YhsvsmKK1UshuajWFbVizucV/f800/1721995100.jpeg?s=4d66a5a2640f03259a07e5aefd52f92ebe6e967e",
-    "id": 4811188573
-  },
-  {
-    "link": "https://www.vinted.fr/items/4828554852-lego-75365-star-wars-chewbacca",
-    "price": 4.89,
-    "title": "Lego 75365 Star Wars Chewbacca",
-    "imgUrl": "https://images1.vinted.net/t/03_011bf_i1Hs5F8qDdwrtBv93ZiZ9ZyQ/f800/1722368571.jpeg?s=2fbed9a7b4b2abbb35887df868b775134628f25f",
-    "id": 4828554852
   },
   {
     "link": "https://www.vinted.fr/items/5149584291-lego-star-wars-minifig-c3po-sw0700-neuf",
     "price": 10.05,
     "title": "Lego star wars minifig c3po sw0700 neuf",
     "imgUrl": "https://images1.vinted.net/t/01_008a0_SMjcApFHx7WiPJgCjXugqSPa/f800/1727939320.jpeg?s=dc5518d3bfc90df51e0730d53878035360a50aff",
+    "publicationDate": 1727939320,
     "id": 5149584291
+  },
+  {
+    "link": "https://www.vinted.fr/items/4991592041-lego-star-wars-box-millennium-falcon-75192",
+    "price": 53.2,
+    "title": "LEGO Star Wars BOX Millennium Falcon 75192",
+    "imgUrl": "https://images1.vinted.net/t/02_0169a_AEbEdeCMVwa7BqLTb6q1pM85/f800/1725547220.jpeg?s=e7138dc00ca547945c661bda8468a42d09931dc5",
+    "publicationDate": 1725547220,
+    "id": 4991592041
+  },
+  {
+    "link": "https://www.vinted.fr/items/4828554852-lego-75365-star-wars-chewbacca",
+    "price": 4.89,
+    "title": "Lego 75365 Star Wars Chewbacca",
+    "imgUrl": "https://images1.vinted.net/t/03_011bf_i1Hs5F8qDdwrtBv93ZiZ9ZyQ/f800/1722368571.jpeg?s=2fbed9a7b4b2abbb35887df868b775134628f25f",
+    "publicationDate": 1722368571,
+    "id": 4828554852
+  },
+  {
+    "link": "https://www.vinted.fr/items/4811188573-lot-de-3-barre-modifiees-100-lego",
+    "price": 2.28,
+    "title": "Lot de 3 barre modifiées 100% lego",
+    "imgUrl": "https://images1.vinted.net/t/01_0248f_YhsvsmKK1UshuajWFbVizucV/f800/1721995100.jpeg?s=4d66a5a2640f03259a07e5aefd52f92ebe6e967e",
+    "publicationDate": 1721995100,
+    "id": 4811188573
   },
   {
     "link": "https://www.vinted.fr/items/3973841635-lego-han-solo-star-wars-75192-swsh0841",
     "price": 16.45,
     "title": "Lego han solo star Wars 75192 swsh0841",
     "imgUrl": "https://images1.vinted.net/t/03_025ec_C4Fj8hWhLEikcXcBnHBDeGqp/f800/1705163460.jpeg?s=b758f592c0f2db3fa19b526205088a37456e1e4b",
+    "publicationDate": 1705163460,
     "id": 3973841635
-  },
-  {
-    "link": "https://www.vinted.fr/items/5323210805-lego-75192-millennium-falcon",
-    "price": 765,
-    "title": "LEGO 75192 Millennium Falcon",
-    "imgUrl": "https://images1.vinted.net/t/04_0061d_rxU8Eyr4QQD2hg8gEzB4ZRpH/f800/1730643394.jpeg?s=bcb6ae0af4041c5fe3fec8b11615deacac0c1088",
-    "id": 5323210805
   },
   {
     "link": "https://www.vinted.fr/items/5251850908-lepin-star-wars-star-plan-construction-pas-lego",
     "price": 263.2,
     "title": "LEPIN Star wars star plan construction (pas lego)",
     "imgUrl": "https://images1.vinted.net/t/03_023f1_c1AdxnbzE1qC1XfaUSngUfsD/f800/1729449180.jpeg?s=f886543095f60ab88eef557d2845680efe17039c",
+    "publicationDate": 1729449180,
     "id": 5251850908
+  },
+  {
+    "link": "https://www.vinted.fr/items/5323210805-lego-75192-millennium-falcon",
+    "price": 765,
+    "title": "LEGO 75192 Millennium Falcon",
+    "imgUrl": "https://images1.vinted.net/t/04_0061d_rxU8Eyr4QQD2hg8gEzB4ZRpH/f800/1730643394.jpeg?s=bcb6ae0af4041c5fe3fec8b11615deacac0c1088",
+    "publicationDate": 1730643394,
+    "id": 5323210805
   },
   {
     "link": "https://www.vinted.fr/items/3489272057-lego-star-wars-millennium-falcon-75192",
     "price": 561,
     "title": "Lego Star Wars Millennium Falcon 75192",
     "imgUrl": "https://images1.vinted.net/t/03_01639_TAreViHDNgjXSZsj3zTtumP4/f800/1695038861.jpeg?s=c613e1f069165a57df77739a8236b567b912e414",
+    "publicationDate": 1695038861,
     "id": 3489272057
   },
   {
@@ -102,6 +116,7 @@
     "price": 473.2,
     "title": "Lego scatole vuote e libretti di istruzioni",
     "imgUrl": "https://images1.vinted.net/t/03_0009f_b2Nyarn31s3cbH4K4ov36SPy/f800/1729432344.jpeg?s=6c70949ce311449ae5ea06742c2acb5060aef6fa",
+    "publicationDate": 1729432344,
     "id": 5249147701
   },
   {
@@ -109,6 +124,7 @@
     "price": 714,
     "title": "LEGO Faucon Millenium 75192 neuf scellé",
     "imgUrl": "https://images1.vinted.net/t/01_02269_fYkknPdEtQxW4AomEtjK61tT/f800/1727513794.jpeg?s=053fcd87686a37b63806a88a5b2b3344276f84ec",
+    "publicationDate": 1727513794,
     "id": 5119613129
   },
   {
@@ -116,20 +132,15 @@
     "price": 622.2,
     "title": "Lego UCS Faucon Millenium",
     "imgUrl": "https://images1.vinted.net/t/03_02697_kTqHG2BkNXamuHbgHeiXMWrk/f800/1723891401.jpeg?s=1e01d77ed6f367611c2435ccafd21f7e5501641f",
+    "publicationDate": 1723891401,
     "id": 4897354694
-  },
-  {
-    "link": "https://www.vinted.fr/items/5186345669-lego-millenium-falcon-75192-usata",
-    "price": 510,
-    "title": "Lego Millenium Falcon 75192 usata",
-    "imgUrl": "https://images1.vinted.net/t/01_0040d_fffn7kwrTDMWLdyq3srDr1Me/f800/1728469758.jpeg?s=ea3d3cb84842ec98240e7742f42521c115c281bb",
-    "id": 5186345669
   },
   {
     "link": "https://www.vinted.fr/items/5119221693-lego-star-wars-75192-millenium-falcon",
     "price": 703.8,
     "title": "Lego Star Wars - 75192 - Millenium Falcon",
     "imgUrl": "https://images1.vinted.net/t/01_01fe1_kzuU7JgVft96BoWWei3844SA/f800/1727509203.jpeg?s=d69edfaac77f17e8793e4b3b4563312746431245",
+    "publicationDate": 1727509203,
     "id": 5119221693
   },
   {
@@ -137,62 +148,71 @@
     "price": 627.3,
     "title": "Lego faucon millénium 75192",
     "imgUrl": "https://images1.vinted.net/t/02_00b94_z8muHgb1wTKwnF9whcS3duqm/f800/1729107814.jpeg?s=ce6dcaf9ecfc918ff8442a00a00706ee6aac024b",
+    "publicationDate": 1729107814,
     "id": 5229646123
   },
   {
-    "link": "https://www.vinted.fr/items/2761220020-lot-x2-plaque-2x4-avec-broches-gris-fonce-4509884-piece-detachee-lego-b35",
-    "price": 2.38,
-    "title": "lot x2 Plaque 2x4 avec broches gris foncé 4509884 pièce détachée Lego #B35",
-    "imgUrl": "https://images1.vinted.net/t/03_0116f_xgik5hhiBM4jYVzrvcqkSpdb/f800/1678140421.jpeg?s=dc2017aae1e48be4bbf9ca1d0192c820bead9faa",
-    "id": 2761220020
+    "link": "https://www.vinted.fr/items/5186345669-lego-millenium-falcon-75192-usata",
+    "price": 510,
+    "title": "Lego Millenium Falcon 75192 usata",
+    "imgUrl": "https://images1.vinted.net/t/01_0040d_fffn7kwrTDMWLdyq3srDr1Me/f800/1728469758.jpeg?s=ea3d3cb84842ec98240e7742f42521c115c281bb",
+    "publicationDate": 1728469758,
+    "id": 5186345669
   },
   {
     "link": "https://www.vinted.fr/items/5287178763-millenium-falcon-star-wars",
     "price": 158.2,
     "title": "Millenium falcon Star wars",
     "imgUrl": "https://images1.vinted.net/t/01_026b5_uLWVMXWvmoewUoocd3SJnYVo/f800/1730041438.jpeg?s=65e7580c9f48d19d5d3ec4895cf332a1083853e4",
+    "publicationDate": 1730041438,
     "id": 5287178763
   },
   {
-    "link": "https://www.vinted.fr/items/5269724752-lego-millennium-falcon-75192",
-    "price": 610.98,
-    "title": "Lego Millennium Falcon 75192",
-    "imgUrl": "https://images1.vinted.net/t/04_00e6e_QLychr9U161zkcQRWRkBfoAg/f800/1729763847.jpeg?s=1d205d6b3e97a4f16c4f58743d2d76829b2c0035",
-    "id": 5269724752
-  },
-  {
-    "link": "https://www.vinted.fr/items/4564043309-lego-sw-75192",
-    "price": 510,
-    "title": "Lego SW 75192",
-    "imgUrl": "https://images1.vinted.net/t/03_01e6a_2nag9xdn8yL9NCytGv1fMZ8V/f800/1716839464.jpeg?s=cba851b0ba3442ead78f6945cebbba9d4561ca74",
-    "id": 4564043309
+    "link": "https://www.vinted.fr/items/2761220020-lot-x2-plaque-2x4-avec-broches-gris-fonce-4509884-piece-detachee-lego-b35",
+    "price": 2.38,
+    "title": "lot x2 Plaque 2x4 avec broches gris foncé 4509884 pièce détachée Lego #B35",
+    "imgUrl": "https://images1.vinted.net/t/03_0116f_xgik5hhiBM4jYVzrvcqkSpdb/f800/1678140421.jpeg?s=dc2017aae1e48be4bbf9ca1d0192c820bead9faa",
+    "publicationDate": 1678140421,
+    "id": 2761220020
   },
   {
     "link": "https://www.vinted.fr/items/2046938185-lot-x2-plaque-4-x-6-charniere-trappe-gris-fonce-92099-piece-detachee-lego-a14",
     "price": 2.17,
     "title": "lot x2 Plaque 4 x 6 charnière trappe gris foncé 92099 pièce détachée Lego #A14",
     "imgUrl": "https://images1.vinted.net/t/03_01e73_W7q7gAmRBvRgc39KJTsucQY8/f800/1658313025.jpeg?s=a25df3d4bee79ed0782f6883b94d6853d77a4abd",
+    "publicationDate": 1658313025,
     "id": 2046938185
   },
   {
-    "link": "https://www.vinted.fr/items/5127101651-lego-star-wars-millennium-falcon-75192",
-    "price": 571.2,
-    "title": "Lego Star Wars Millennium Falcon 75192",
-    "imgUrl": "https://images1.vinted.net/t/03_0092e_hkqZt3SqwaWmgVBttw8Lvsyr/f800/1727609112.jpeg?s=baf767627ea036f812c034d506925cf3ee6ee876",
-    "id": 5127101651
+    "link": "https://www.vinted.fr/items/4564043309-lego-sw-75192",
+    "price": 510,
+    "title": "Lego SW 75192",
+    "imgUrl": "https://images1.vinted.net/t/03_01e6a_2nag9xdn8yL9NCytGv1fMZ8V/f800/1716839464.jpeg?s=cba851b0ba3442ead78f6945cebbba9d4561ca74",
+    "publicationDate": 1716839464,
+    "id": 4564043309
   },
   {
     "link": "https://www.vinted.fr/items/5031318174-lego-falcon-ucs-75192-sigillato",
     "price": 754.8,
     "title": "Lego Falcon UCS - 75192 - Sigillato",
     "imgUrl": "https://images1.vinted.net/t/03_00e27_J8jeWUNqHPK6XVySKtt2WVVt/f800/1726153898.jpeg?s=b5964c3d6c5b5e3c64aa7bcbd48cef10010f66dd",
+    "publicationDate": 1726153898,
     "id": 5031318174
+  },
+  {
+    "link": "https://www.vinted.fr/items/5127101651-lego-star-wars-millennium-falcon-75192",
+    "price": 571.2,
+    "title": "Lego Star Wars Millennium Falcon 75192",
+    "imgUrl": "https://images1.vinted.net/t/03_0092e_hkqZt3SqwaWmgVBttw8Lvsyr/f800/1727609112.jpeg?s=baf767627ea036f812c034d506925cf3ee6ee876",
+    "publicationDate": 1727609112,
+    "id": 5127101651
   },
   {
     "link": "https://www.vinted.fr/items/4811409840-millennium-falcon-lego-compatible-75192",
     "price": 273.7,
     "title": "Millennium falcon lego compatible 75192",
     "imgUrl": "https://images1.vinted.net/t/02_022a2_rcJ9d3NZ872okV6UYAqewnvZ/f800/1721998083.jpeg?s=969c546ad8618534a9194aff73f47f7a6de937b4",
+    "publicationDate": 1721998083,
     "id": 4811409840
   },
   {
@@ -200,6 +220,7 @@
     "price": 1.75,
     "title": "lot x2 Cône gris bleuté foncé 1x1 avec rainure supérieure 4589b pièce détachée Lego #A14",
     "imgUrl": "https://images1.vinted.net/t/02_00ea9_UnLzutNUWQpp55WgayHNQNRb/f800/1658306108.jpeg?s=9776d4fcf7cfd05bdd908dc00416c8b4ae00b061",
+    "publicationDate": 1658306108,
     "id": 2046659678
   },
   {
@@ -207,6 +228,7 @@
     "price": 612,
     "title": "Lego Star Wars 75192 avec lumière et support",
     "imgUrl": "https://images1.vinted.net/t/02_0025f_5ERDZhWxCDhJD8Wb1tsGUfbi/f800/1728934681.jpeg?s=bef5c962b4942b46298ac06c59dc3d2053a6eee1",
+    "publicationDate": 1728934681,
     "id": 3330219091
   },
   {
@@ -214,6 +236,7 @@
     "price": 836.39,
     "title": "lego 75192",
     "imgUrl": "https://images1.vinted.net/t/03_01c98_u9YrADqEmBrTgTUwY9K7jNuY/f800/1728119696.jpeg?s=883f42b292af8fb96c88a7120639be84c331ed3f",
+    "publicationDate": 1728119696,
     "id": 5160446151
   },
   {
@@ -221,48 +244,55 @@
     "price": 867,
     "title": "Lego 75192+Vitrine",
     "imgUrl": "https://images1.vinted.net/t/02_01666_NrkfPtmCwLp1erXADFafcWs2/f800/1722063408.jpeg?s=5d4e78282961e9c8558b420cbef26c4d5cd69df2",
+    "publicationDate": 1722063408,
     "id": 4755407210
-  },
-  {
-    "link": "https://www.vinted.fr/items/5099106062-lego-millennium-falcon-ucs",
-    "price": 714,
-    "title": "Lego Millennium Falcon UCS",
-    "imgUrl": "https://images1.vinted.net/t/03_019d6_bLsCkNgZsmTgLND5Xb8GuYti/f800/1727172907.jpeg?s=43251930d78987c03373b655c127c289b456fad9",
-    "id": 5099106062
   },
   {
     "link": "https://www.vinted.fr/items/5140887744-lego-star-wars-75192-millennium-falcon-ultimate",
     "price": 765,
     "title": "Lego - Star Wars - 75192 - Millennium Falcon - Ultimate",
     "imgUrl": "https://images1.vinted.net/t/02_00be3_JMLJ27Ck2njY4J9y2McjkTX1/f800/1727788790.jpeg?s=654e44addaf575ce8de3c6e6bffecc8510660755",
+    "publicationDate": 1727788790,
     "id": 5140887744
+  },
+  {
+    "link": "https://www.vinted.fr/items/5099106062-lego-millennium-falcon-ucs",
+    "price": 714,
+    "title": "Lego Millennium Falcon UCS",
+    "imgUrl": "https://images1.vinted.net/t/03_019d6_bLsCkNgZsmTgLND5Xb8GuYti/f800/1727172907.jpeg?s=43251930d78987c03373b655c127c289b456fad9",
+    "publicationDate": 1727172907,
+    "id": 5099106062
   },
   {
     "link": "https://www.vinted.fr/items/5121175067-lego-millennium-falcon-75192",
     "price": 714,
     "title": "Lego Millennium Falcon 75192",
     "imgUrl": "https://images1.vinted.net/t/03_011da_TwPPNyYXL7EDMH7Sk5qWVodk/f800/1727526417.jpeg?s=ca125ab6153a4621248b8df883092a3825176034",
+    "publicationDate": 1727526417,
     "id": 5121175067
-  },
-  {
-    "link": "https://www.vinted.fr/items/5024031899-lego-star-wars-75192-millennium-falcon-ucs",
-    "price": 765,
-    "title": "Lego star wars 75192 millennium falcon UCS",
-    "imgUrl": "https://images1.vinted.net/t/02_000df_xSBz1aR9Ei4DqLonozK8mmGt/f800/1726055352.jpeg?s=00c83d7729cbfb7748ba08817e88d632981d09ad",
-    "id": 5024031899
   },
   {
     "link": "https://www.vinted.fr/items/4457864041-lego-usc-faucon-millenium-75192",
     "price": 714,
     "title": "Lego USC Faucon Millenium 75192",
     "imgUrl": "https://images1.vinted.net/t/01_0180b_ZGKuujwTWsrg6gk7SFvhxNvC/f800/1714852162.jpeg?s=f04f20d50ad7cce37f556b14c3c58f8f3dd68485",
+    "publicationDate": 1714852162,
     "id": 4457864041
+  },
+  {
+    "link": "https://www.vinted.fr/items/5024031899-lego-star-wars-75192-millennium-falcon-ucs",
+    "price": 765,
+    "title": "Lego star wars 75192 millennium falcon UCS",
+    "imgUrl": "https://images1.vinted.net/t/02_000df_xSBz1aR9Ei4DqLonozK8mmGt/f800/1726055352.jpeg?s=00c83d7729cbfb7748ba08817e88d632981d09ad",
+    "publicationDate": 1726055352,
+    "id": 5024031899
   },
   {
     "link": "https://www.vinted.fr/items/3819568806-lego-star-wars-faucon-millenium",
     "price": 765,
     "title": "Lego Star Wars faucon millenium ",
     "imgUrl": "https://images1.vinted.net/t/02_01204_VCdNo3XCAweMfBBn3LfyLGAq/f800/1701159548.jpeg?s=d75d8f036a7dad19facefb626a892b154676cf05",
+    "publicationDate": 1701159548,
     "id": 3819568806
   },
   {
@@ -270,6 +300,7 @@
     "price": 1.96,
     "title": "Lot x2 Brique 2x2 avec goupille et trou d'essieu gris bleuté foncé 6232 pièce détachée Lego #B35",
     "imgUrl": "https://images1.vinted.net/t/03_005f4_JwMrJneouaytXp9xaZo84XjT/f800/1678139994.jpeg?s=536dec894a309984780a596eee578e3727d9367a",
+    "publicationDate": 1678139994,
     "id": 2761207107
   },
   {
@@ -277,6 +308,7 @@
     "price": 867,
     "title": "Lego Millennium Falcon - 75192",
     "imgUrl": "https://images1.vinted.net/t/03_00fe6_oNvL26XFxu65xAHNFww9jwCb/f800/1716738702.jpeg?s=8894920272dff7c5bf9c3815dd1a9d5d677ae56e",
+    "publicationDate": 1716738702,
     "id": 4557674987
   },
   {
@@ -284,6 +316,7 @@
     "price": 814.98,
     "title": "Lego star wars UCS 75192 Millennium Falcon",
     "imgUrl": "https://images1.vinted.net/t/02_0064e_pUpDCMH7ehDzXnysNjHb9BAm/f800/1726150443.jpeg?s=6abc713aed5abd17d7c31b42078406d0e19809e2",
+    "publicationDate": 1726150443,
     "id": 5030934444
   },
   {
@@ -291,6 +324,7 @@
     "price": 816,
     "title": "Lego 75192",
     "imgUrl": "https://images1.vinted.net/t/01_01a02_jC1BLGQLmviw2BVC46Vhd1Ww/f800/1727011719.jpeg?s=70311dabe73de0c40882049343f217df1a766f81",
+    "publicationDate": 1727011719,
     "id": 5088045937
   },
   {
@@ -298,34 +332,55 @@
     "price": 867,
     "title": "LEGO Halcon Milenario 75192",
     "imgUrl": "https://images1.vinted.net/t/02_01d57_dprHK3uJ77exizUechyr79qT/f800/1729025095.jpeg?s=9183c5d80ec2dcf890da3320e48c378a320f653b",
+    "publicationDate": 1729025095,
     "id": 5224568552
-  },
-  {
-    "link": "https://www.vinted.fr/items/4546234906-75192-millennium-falcon-in-brown-box",
-    "price": 765,
-    "title": "75192 Millennium falcon in brown box",
-    "imgUrl": "https://images1.vinted.net/t/03_00fa5_DfxejZrtp1bYakEkUc6xtTME/f800/1716495491.jpeg?s=77f58885b6e78db92bf1fc3b84e71b52fd2371eb",
-    "id": 4546234906
   },
   {
     "link": "https://www.vinted.fr/items/5015872323-lego-millennium-falcon-75192-ucs-brand-new-misb",
     "price": 703.8,
     "title": "LEGO Millennium Falcon 75192 UCS Brand New MISB",
     "imgUrl": "https://images1.vinted.net/t/01_0228e_G4mSptrfWDbC1CiF7dLPc4Sb/f800/1725927748.jpeg?s=2696f8c96203cefe97dd4f1d2fecd5efeb059f85",
+    "publicationDate": 1725927748,
     "id": 5015872323
+  },
+  {
+    "link": "https://www.vinted.fr/items/5269724752-lego-millennium-falcon-75192",
+    "price": 610.98,
+    "title": "Lego Millennium Falcon 75192",
+    "imgUrl": "https://images1.vinted.net/t/04_00e6e_QLychr9U161zkcQRWRkBfoAg/f800/1729763847.jpeg?s=1d205d6b3e97a4f16c4f58743d2d76829b2c0035",
+    "publicationDate": 1729763847,
+    "id": 5269724752
+  },
+  {
+    "link": "https://www.vinted.fr/items/4546234906-75192-millennium-falcon-in-brown-box",
+    "price": 765,
+    "title": "75192 Millennium falcon in brown box",
+    "imgUrl": "https://images1.vinted.net/t/03_00fa5_DfxejZrtp1bYakEkUc6xtTME/f800/1716495491.jpeg?s=77f58885b6e78db92bf1fc3b84e71b52fd2371eb",
+    "publicationDate": 1716495491,
+    "id": 4546234906
   },
   {
     "link": "https://www.vinted.fr/items/5252180471-lego-star-wars-millennium-falcon-75192-ultimate-collector-series",
     "price": 795.6,
     "title": "LEGO Star Wars Millennium Falcon 75192 Ultimate Collector Series",
     "imgUrl": "https://images1.vinted.net/t/03_01aaf_LLmZSStKheZL86H4MCwTWpFV/f800/1729452501.jpeg?s=f04f429c923498a2fd838ae445a2c3c463fe41a4",
+    "publicationDate": 1729452501,
     "id": 5252180471
+  },
+  {
+    "link": "https://www.vinted.fr/items/4713426482-faucon-millenium-de-lego-75192",
+    "price": 693.6,
+    "title": "Faucon Millenium de Lego 75192",
+    "imgUrl": "https://images1.vinted.net/t/02_0148e_2PUdAFW6NN8NatUZvp6pNgtG/f800/1719918223.jpeg?s=78c8ab228cad6dee9681892b8ef5f042cdbd1a06",
+    "publicationDate": 1719918223,
+    "id": 4713426482
   },
   {
     "link": "https://www.vinted.fr/items/4703055021-75192-lego-faucon-millenium",
     "price": 897.6,
     "title": "75192. LEGO Faucon millenium",
     "imgUrl": "https://images1.vinted.net/t/02_01bd1_jJbpbX86prDbvZrrgXvLir5N/f800/1719715249.jpeg?s=215f31dbf95296b753ed206755ff22eb7b352e00",
+    "publicationDate": 1719715249,
     "id": 4703055021
   },
   {
@@ -333,20 +388,15 @@
     "price": 867,
     "title": "Lego 75192",
     "imgUrl": "https://images1.vinted.net/t/01_02581_hLns7uZjK11PpKVoKPoBuwa2/f800/1715863161.jpeg?s=8d93a382e9870f5d582fc834285910fb9a89dfa9",
+    "publicationDate": 1715863161,
     "id": 4511296781
-  },
-  {
-    "link": "https://www.vinted.fr/items/4713426482-faucon-millenium-de-lego-75192",
-    "price": 693.6,
-    "title": "Faucon Millenium de Lego 75192",
-    "imgUrl": "https://images1.vinted.net/t/02_0148e_2PUdAFW6NN8NatUZvp6pNgtG/f800/1719918223.jpeg?s=78c8ab228cad6dee9681892b8ef5f042cdbd1a06",
-    "id": 4713426482
   },
   {
     "link": "https://www.vinted.fr/items/4100830388-millenium-falcon-lego-star-wars-75192",
     "price": 663,
     "title": "Millenium Falcon Lego Star Wars 75192 ",
     "imgUrl": "https://images1.vinted.net/t/03_00add_rjqAuQhuZ3VqTTsjz4M3rsLb/f800/1708079622.jpeg?s=88485040890a26138f6d32de41b3ef97d516a21c",
+    "publicationDate": 1708079622,
     "id": 4100830388
   },
   {
@@ -354,6 +404,7 @@
     "price": 826.2,
     "title": "Lego 75192 Star Wars Millennium Falcon Sigillato",
     "imgUrl": "https://images1.vinted.net/t/03_00bbd_ng1orJNJDRhPwH3jRyWaUECA/f800/1725884961.jpeg?s=1288d25e4412bb89c404679fd0945fb16bd6e83d",
+    "publicationDate": 1725884961,
     "id": 5012382482
   },
   {
@@ -361,6 +412,7 @@
     "price": 763.98,
     "title": "Lego 75192 Millennium Falcon UCS",
     "imgUrl": "https://images1.vinted.net/t/03_0150c_YmCZTBrtDhFoMTFJkL7e9ULW/f800/1644508293.jpeg?s=bda4a7fa709a0968773601331e335c0714cae911",
+    "publicationDate": 1644508293,
     "id": 1624126742
   },
   {
@@ -368,27 +420,31 @@
     "price": 795.6,
     "title": "LEGO 75192 Millennium Falcon ucs misb Brown box",
     "imgUrl": "https://images1.vinted.net/t/01_001d7_1TsGg3FW2W86fppaVWrMLBL9/f800/1683757013.jpeg?s=d0de0e6dc3438a999af260cadc72453b47596829",
+    "publicationDate": 1683757013,
     "id": 3006260873
-  },
-  {
-    "link": "https://www.vinted.fr/items/4379799655-lego-75192-faucon-millenium-neuf-scelle",
-    "price": 856.8,
-    "title": "Lego 75192 faucon millenium neuf scellé",
-    "imgUrl": "https://images1.vinted.net/t/01_001fd_EUuV2tQsEtCLSFA2kgRoSfxb/f800/1713385755.jpeg?s=95fa296fa3c2f9db2b6b36fbfc16f6468f71bec8",
-    "id": 4379799655
   },
   {
     "link": "https://www.vinted.fr/items/2143900544-millenium-falcon-ucs-lego-75192",
     "price": 703.8,
     "title": "Millenium falcon ucs lego 75192",
     "imgUrl": "https://images1.vinted.net/t/03_0088e_pNJbfEUxzcLfzniA5ChctH2L/f800/1661700308.jpeg?s=d698a35f8ffbae1ddb84c1f5978753bee7b7f3c1",
+    "publicationDate": 1661700308,
     "id": 2143900544
+  },
+  {
+    "link": "https://www.vinted.fr/items/4379799655-lego-75192-faucon-millenium-neuf-scelle",
+    "price": 856.8,
+    "title": "Lego 75192 faucon millenium neuf scellé",
+    "imgUrl": "https://images1.vinted.net/t/01_001fd_EUuV2tQsEtCLSFA2kgRoSfxb/f800/1713385755.jpeg?s=95fa296fa3c2f9db2b6b36fbfc16f6468f71bec8",
+    "publicationDate": 1713385755,
+    "id": 4379799655
   },
   {
     "link": "https://www.vinted.fr/items/4885418285-lego-technic-42054",
     "price": 399.7,
     "title": "Lego Technic 42054",
     "imgUrl": "https://images1.vinted.net/t/01_00e67_AT9E87revqx76zdo2BEVDhqL/f800/1723629377.jpeg?s=75e9262d381f826b94cd61c8fc00e4a7b2f6bc5b",
+    "publicationDate": 1723629377,
     "id": 4885418285
   },
   {
@@ -396,27 +452,31 @@
     "price": 969,
     "title": "Lego millennium falcon 75192",
     "imgUrl": "https://images1.vinted.net/t/03_00f74_jFYfnVe99frfpGbaFuC2uVBR/f800/1695032369.jpeg?s=9853911f0da2dae17f8fe5dc6bfb6e32906cc3c6",
+    "publicationDate": 1695032369,
     "id": 3488716434
-  },
-  {
-    "link": "https://www.vinted.fr/items/1630784234-lego-star-wars-75192-faucon-millenium-ucs",
-    "price": 763.98,
-    "title": "Lego Star Wars 75192 - Faucon Millenium UCS",
-    "imgUrl": "https://images1.vinted.net/t/03_00df8_3CK7uzHJSL1z481CaZzpZJfh/f800/1644766087.jpeg?s=4a312d8ec166ab8766895e6d079bd8bf0c8545e4",
-    "id": 1630784234
   },
   {
     "link": "https://www.vinted.fr/items/4054018521-millennium-falcon-lego-75192-signed",
     "price": 7140,
     "title": "Millennium Falcon lego 75192 signed",
     "imgUrl": "https://images1.vinted.net/t/03_0044f_1V5k4Xt3A5FuTCcFgno82meR/f800/1706899811.jpeg?s=6e41273ef90a423f7f9444899290fa82450e7109",
+    "publicationDate": 1706899811,
     "id": 4054018521
+  },
+  {
+    "link": "https://www.vinted.fr/items/1630784234-lego-star-wars-75192-faucon-millenium-ucs",
+    "price": 763.98,
+    "title": "Lego Star Wars 75192 - Faucon Millenium UCS",
+    "imgUrl": "https://images1.vinted.net/t/03_00df8_3CK7uzHJSL1z481CaZzpZJfh/f800/1644766087.jpeg?s=4a312d8ec166ab8766895e6d079bd8bf0c8545e4",
+    "publicationDate": 1644766087,
+    "id": 1630784234
   },
   {
     "link": "https://www.vinted.fr/items/4434803135-millennium-falcon-lego-75192-ucs",
     "price": 765,
     "title": "Millennium falcon lego 75192 UCS",
     "imgUrl": "https://images1.vinted.net/t/01_00773_nmjidbKtdFfZVEr1kknFvFkV/f800/1714406427.jpeg?s=e70c7f505e5d655a6531fa7ac1d8d575f1b75282",
+    "publicationDate": 1714406427,
     "id": 4434803135
   },
   {
@@ -424,6 +484,7 @@
     "price": 867,
     "title": "LEGO 75192 Millennium Falcon  ",
     "imgUrl": "https://images1.vinted.net/t/02_00e26_8VVndYeYayEQ685RX5LYexpQ/f800/1679568322.jpeg?s=36c1638716e9a5518a24848416154c75f72db527",
+    "publicationDate": 1679568322,
     "id": 2820295392
   },
   {
@@ -431,6 +492,7 @@
     "price": 524.65,
     "title": "Lego 100% originale - Porsche 911 gt3 Rs 42056",
     "imgUrl": "https://images1.vinted.net/t/03_01d16_nxgVFu8FsdzJiduL8G1XFQgE/f800/1709055316.jpeg?s=be68877451da17aad2bd0a82b0d62654e5f5c91b",
+    "publicationDate": 1709055316,
     "id": 4156288186
   },
   {
@@ -438,6 +500,7 @@
     "price": 816,
     "title": "Lego Millenium Falcon 75192",
     "imgUrl": "https://images1.vinted.net/t/01_01dd8_GAYmfsdCSJwavfwsUepL7KB9/f800/1668854672.jpeg?s=6a392d3ab25a89723d4a4ce7ec1097c58862c900",
+    "publicationDate": 1668854672,
     "id": 2432626543
   }
 ]

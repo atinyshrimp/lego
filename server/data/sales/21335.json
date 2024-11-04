@@ -4,6 +4,7 @@
     "price": 231.7,
     "title": "Lego 21335 phare motorisée lighthouse motorised",
     "imgUrl": "https://images1.vinted.net/t/04_01420_sUNLhiLKbFG6Bh2w63jums5q/f800/1730495725.jpeg?s=f09105018a8e632d4efee1909d17671fbec9a60f",
+    "publicationDate": 1730495725,
     "id": 5314115680
   },
   {
@@ -11,6 +12,7 @@
     "price": 15.4,
     "title": "Instruccion del set 21335",
     "imgUrl": "https://images1.vinted.net/t/03_02019_vk4psERdLVzGeNFRjUF3q4s4/f800/1726004982.jpeg?s=9bbb38b95f4bebb2f88d65cdb2326276bd5e0886",
+    "publicationDate": 1726004982,
     "id": 5021973403
   },
   {
@@ -18,6 +20,7 @@
     "price": 11.2,
     "title": "Lego minifiguras del set 21335",
     "imgUrl": "https://images1.vinted.net/t/03_00fe7_mvtHmxYo4pNVpXqaq8fe42Xh/f800/1709907236.jpeg?s=dadcdb1638281aee6ac63e73dea4a899ae25e697",
+    "publicationDate": 1709907236,
     "id": 4196780238
   },
   {
@@ -25,6 +28,7 @@
     "price": 252.7,
     "title": "Lego ideas 21335, le phare motorisé. Neuf scellé.",
     "imgUrl": "https://images1.vinted.net/t/02_00703_8DfNzH1dHcTrs9PQLFksk7Aq/f800/1730231993.jpeg?s=74ce9aaad2ec3afe3176e2cc22e35f9fc73529ad",
+    "publicationDate": 1730231993,
     "id": 5299932011
   },
   {
@@ -32,6 +36,7 @@
     "price": 273.7,
     "title": "Lego 21335 faro",
     "imgUrl": "https://images1.vinted.net/t/04_000d6_QGgSvWJkXn7Ap9a5J2eqLujW/f800/1730542316.jpeg?s=7da04b68ed9873ab38c55b32580e848346ab80b1",
+    "publicationDate": 1730542316,
     "id": 5315285663
   },
   {
@@ -39,27 +44,31 @@
     "price": 315.7,
     "title": "Lego Phare",
     "imgUrl": "https://images1.vinted.net/t/04_025d7_5oAXfUtovbUZ2vL19F2fAUTT/f800/1730364724.jpeg?s=9b02d3ce1e25286fdd15827e508b5f8c2092e31f",
+    "publicationDate": 1730364724,
     "id": 5305822091
-  },
-  {
-    "link": "https://www.vinted.fr/items/5262006430-faro-motorizado-lego-compatible-21335",
-    "price": 179.2,
-    "title": "Faro Motorizado Lego compatible 21335",
-    "imgUrl": "https://images1.vinted.net/t/04_01885_ztibUjjG3PK3BKqBTgs9xQwd/f800/1729614315.jpeg?s=396d49728e82901b4992c33163cae4f06869cc99",
-    "id": 5262006430
   },
   {
     "link": "https://www.vinted.fr/items/5317516027-faro-lego-replica-non-originale",
     "price": 126.7,
     "title": "Faro lego, replica non originale",
     "imgUrl": "https://images1.vinted.net/t/04_00569_8LEuJHJdBYYFNpyx3x9pfYrv/f800/1730559962.jpeg?s=1e5de639cf484fc12eaf535ad4bef1e8425cdbf0",
+    "publicationDate": 1730559962,
     "id": 5317516027
+  },
+  {
+    "link": "https://www.vinted.fr/items/5262006430-faro-motorizado-lego-compatible-21335",
+    "price": 179.2,
+    "title": "Faro Motorizado Lego compatible 21335",
+    "imgUrl": "https://images1.vinted.net/t/04_01885_ztibUjjG3PK3BKqBTgs9xQwd/f800/1729614315.jpeg?s=396d49728e82901b4992c33163cae4f06869cc99",
+    "publicationDate": 1729614315,
+    "id": 5262006430
   },
   {
     "link": "https://www.vinted.fr/items/5306561878-lego-ideas-21335-le-phare-motorise-neuf",
     "price": 242.2,
     "title": "LEGO Ideas 21335 : Le Phare Motorisé [ NEUF ]",
     "imgUrl": "https://images1.vinted.net/t/03_00701_NnfHB5teqS4ttZysC5ASuQBN/f800/1730373594.jpeg?s=d87f710b4767ff4552f3ce55fa6d1b23aac21e36",
+    "publicationDate": 1730373594,
     "id": 5306561878
   },
   {
@@ -67,13 +76,23 @@
     "price": 242.2,
     "title": "Lego Ideas 21335 le phare motorisé neuf et scellé",
     "imgUrl": "https://images1.vinted.net/t/04_01713_MqmACtZtDgtskxU3bLzcWA8Q/f800/1730457656.jpeg?s=3a605cd5d39110bab987511d91a8d489989162cd",
+    "publicationDate": 1730457656,
     "id": 5310409089
+  },
+  {
+    "link": "https://www.vinted.fr/items/5322410106-lego-ideas-21335",
+    "price": 252.7,
+    "title": "LEGO Ideas 21335",
+    "imgUrl": "https://images1.vinted.net/t/02_00e41_8k7BVtek4VQ9h46w6EyczPBN/f800/1730638637.jpeg?s=5def1ef7cbe26851a69acf2934b8ca45470558c5",
+    "publicationDate": 1730638637,
+    "id": 5322410106
   },
   {
     "link": "https://www.vinted.fr/items/5326639522-lego-21335-le-phare-motorise",
     "price": 252.7,
     "title": "Lego 21335 - Le phare motorisé",
     "imgUrl": "https://images1.vinted.net/t/04_00132_DVFwEhCqWvHNe5t9pFaDNz34/f800/1730668708.jpeg?s=df7a32a20cd411c8cc63d17c4279f2bb3a6586df",
+    "publicationDate": 1730668708,
     "id": 5326639522
   },
   {
@@ -81,20 +100,15 @@
     "price": 10.68,
     "title": "Lego Dish 8 x 8 Inverted (Radar) - Solid Studs Black",
     "imgUrl": "https://images1.vinted.net/t/03_00a76_95nw9ckziq8mbPUr8JBpLZts/f800/1686641624.jpeg?s=e2c7038dc506301c11035a551ba93e59e316b011",
+    "publicationDate": 1686641624,
     "id": 3131099403
-  },
-  {
-    "link": "https://www.vinted.fr/items/5322410106-lego-ideas-21335",
-    "price": 252.7,
-    "title": "LEGO Ideas 21335",
-    "imgUrl": "https://images1.vinted.net/t/02_00e41_8k7BVtek4VQ9h46w6EyczPBN/f800/1730638637.jpeg?s=5def1ef7cbe26851a69acf2934b8ca45470558c5",
-    "id": 5322410106
   },
   {
     "link": "https://www.vinted.fr/items/5176199109-lego-ideas-21335-motorized-lighthouse-misb",
     "price": 263.19,
     "title": "Lego Ideas 21335 Motorized Lighthouse MiSB 💡",
     "imgUrl": "https://images1.vinted.net/t/01_012cf_B8DnWUDWYbiVpaxmYcfaoWtS/f800/1728306026.jpeg?s=abba2b9993a90a6154e08406f3f0a720862b935a",
+    "publicationDate": 1728306026,
     "id": 5176199109
   },
   {
@@ -102,6 +116,7 @@
     "price": 189.7,
     "title": "Lego Star Wars",
     "imgUrl": "https://images1.vinted.net/t/01_0009f_xqVcrcj74xAqR7jz6FdBSsH6/f800/1729946570.jpeg?s=16894bede9888f04c0a20fa6ebd48832b996cedc",
+    "publicationDate": 1729946570,
     "id": 5280131534
   },
   {
@@ -109,27 +124,15 @@
     "price": 221.2,
     "title": "Lego faro 21335",
     "imgUrl": "https://images1.vinted.net/t/03_00429_fYLHxkVt1K3g7xiyCVBhnX4h/f800/1720034720.jpeg?s=85de4c6f6e5455e8691d6111d85209ac0b3a24a9",
+    "publicationDate": 1720034720,
     "id": 4720371419
-  },
-  {
-    "link": "https://www.vinted.fr/items/4047477081-lego-21335-le-phare-motorise",
-    "price": 242.2,
-    "title": "Lego 21335 - Le phare motorisé",
-    "imgUrl": "https://images1.vinted.net/t/02_011a1_w7Fmj6xzMWvMLjdyLtViLhV4/f800/1706735560.jpeg?s=44f251307fd6bf39d627e18abc5bc8dd840ecc3e",
-    "id": 4047477081
-  },
-  {
-    "link": "https://www.vinted.fr/items/4479518204-lego-21335-motorized-lighthouse",
-    "price": 242.2,
-    "title": "LEGO 21335 Motorized LightHouse",
-    "imgUrl": "https://images1.vinted.net/t/02_008c9_47gDNV7YkGxLLbVq78KVZfzm/f800/1715251963.jpeg?s=34872bab797d115d802ae40e72912b2cfdf0ed3e",
-    "id": 4479518204
   },
   {
     "link": "https://www.vinted.fr/items/3523487275-lego-ideas-21335-phare-motorise-neuf-et-scelle",
     "price": 262.15,
     "title": "Lego Ideas 21335 Phare Motorisé NEUF et scellé",
     "imgUrl": "https://images1.vinted.net/t/01_00d0b_7tXesRfwZkEzhjnwvwVBPNRR/f800/1695662816.jpeg?s=d522f6fa9df50de2050db4752b61b71606be3699",
+    "publicationDate": 1695662816,
     "id": 3523487275
   },
   {
@@ -137,13 +140,31 @@
     "price": 168.7,
     "title": "LEGO Ideas (CUUSOO) #009 21301 Birds/Vogels NIEUW",
     "imgUrl": "https://images1.vinted.net/t/04_00957_nKWFTf6BE4BQUpZc5wBn4yLS/f800/1730641150.jpeg?s=d2e1a49cebd8cc8622e0cd4cb7f2a07c13bd97b4",
+    "publicationDate": 1730641150,
     "id": 5322824609
+  },
+  {
+    "link": "https://www.vinted.fr/items/4047477081-lego-21335-le-phare-motorise",
+    "price": 242.2,
+    "title": "Lego 21335 - Le phare motorisé",
+    "imgUrl": "https://images1.vinted.net/t/02_011a1_w7Fmj6xzMWvMLjdyLtViLhV4/f800/1706735560.jpeg?s=44f251307fd6bf39d627e18abc5bc8dd840ecc3e",
+    "publicationDate": 1706735560,
+    "id": 4047477081
+  },
+  {
+    "link": "https://www.vinted.fr/items/4479518204-lego-21335-motorized-lighthouse",
+    "price": 242.2,
+    "title": "LEGO 21335 Motorized LightHouse",
+    "imgUrl": "https://images1.vinted.net/t/02_008c9_47gDNV7YkGxLLbVq78KVZfzm/f800/1715251963.jpeg?s=34872bab797d115d802ae40e72912b2cfdf0ed3e",
+    "publicationDate": 1715251963,
+    "id": 4479518204
   },
   {
     "link": "https://www.vinted.fr/items/3303114567-lego-ideas-21335-phare-motorise-neuf-et-scelle",
     "price": 250.6,
     "title": "Lego Ideas 21335 Phare Motorisé NEUF et scellé",
     "imgUrl": "https://images1.vinted.net/t/01_00590_F9TvsgatUTXQTeNiQwqFdw3d/f800/1690915426.jpeg?s=1620e972bd8e8da31fb230754a839c1302e4b917",
+    "publicationDate": 1690915426,
     "id": 3303114567
   },
   {
@@ -151,6 +172,7 @@
     "price": 294.7,
     "title": "Lego Ideas 21335 Motorized Lighthouse inclusief lichtset",
     "imgUrl": "https://images1.vinted.net/t/02_01b22_PPxDcawNxggGF1jgUAbfWY1S/f800/1729427218.jpeg?s=6c36f5218def929ad68df7540632c3178398bd33",
+    "publicationDate": 1729427218,
     "id": 5248238066
   },
   {
@@ -158,6 +180,7 @@
     "price": 268.45,
     "title": "Phare LEGO 21335",
     "imgUrl": "https://images1.vinted.net/t/01_0150a_QwQt9avHQNS6CojR3j2Gst3B/f800/1710002703.jpeg?s=812f7a1824e1e3c96b437dfe95cece20e26366b2",
+    "publicationDate": 1710002703,
     "id": 4201600752
   },
   {
@@ -165,6 +188,7 @@
     "price": 273.7,
     "title": "Lego ideas set 21335 lighthouse nuovo misb sigillato",
     "imgUrl": "https://images1.vinted.net/t/03_008ab_xkjKsqvFrHw6itXhnQh9Zfog/f800/1715669074.jpeg?s=e70e87b94e0f6d51d2b13fc9e0597aafcf86f093",
+    "publicationDate": 1715669074,
     "id": 4500729752
   },
   {
@@ -172,34 +196,39 @@
     "price": 272.65,
     "title": "Lego Ideas 21335 - Le Phare Motorisé",
     "imgUrl": "https://images1.vinted.net/t/02_02686_mfUA3P8xsHhQhbWeag6xKx2d/f800/1701263543.jpeg?s=45dba12640c0ce8e4f322200380987ba8fa5df8b",
+    "publicationDate": 1701263543,
     "id": 3824846395
-  },
-  {
-    "link": "https://www.vinted.fr/items/5143881122-lego-21335-new-sealed",
-    "price": 273.69,
-    "title": "Lego 21335 new sealed",
-    "imgUrl": "https://images1.vinted.net/t/03_01a86_cd3Z4UiWdcmujpYsna8Yu2SC/f800/1727826561.jpeg?s=f07f227066b1853da826326873991878940b5439",
-    "id": 5143881122
   },
   {
     "link": "https://www.vinted.fr/items/4155474163-lego-ideas-21335-lighthouse-motorised",
     "price": 271.6,
     "title": "Lego ideas 21335 Lighthouse Motorised ",
     "imgUrl": "https://images1.vinted.net/t/02_01f0b_1yPkhy4AtesikWLLWLwv8XQe/f800/1709045206.jpeg?s=7cb66b162b8c6be9272d6195baafb101ba1a296a",
+    "publicationDate": 1709045206,
     "id": 4155474163
+  },
+  {
+    "link": "https://www.vinted.fr/items/5143881122-lego-21335-new-sealed",
+    "price": 273.69,
+    "title": "Lego 21335 new sealed",
+    "imgUrl": "https://images1.vinted.net/t/03_01a86_cd3Z4UiWdcmujpYsna8Yu2SC/f800/1727826561.jpeg?s=f07f227066b1853da826326873991878940b5439",
+    "publicationDate": 1727826561,
+    "id": 5143881122
   },
   {
     "link": "https://www.vinted.fr/items/5053098021-lego-faro-motorizzato-21335",
     "price": 314.65,
     "title": "Lego Faro motorizzato 21335",
     "imgUrl": "https://images1.vinted.net/t/03_00040_BTPWsjhR3gYU55nTJEzum3Jf/f800/1726469645.jpeg?s=2b9776f9aadaa2271be362fa76c5157190a62207",
+    "publicationDate": 1726469645,
     "id": 5053098021
   },
   {
     "link": "https://www.vinted.fr/items/4797717708-lego-21335-farol-motorizado",
-    "price": 247.44,
+    "price": 242.19,
     "title": "Lego 21335 Farol motorizado",
     "imgUrl": "https://images1.vinted.net/t/02_01cd7_F3oy54jK5FJK2HHnaxFSv1Nq/f800/1721689912.jpeg?s=6310df64fd4a834bd449783596fc0d62592a6399",
+    "publicationDate": 1721689912,
     "id": 4797717708
   },
   {
@@ -207,6 +236,7 @@
     "price": 294.7,
     "title": "LEGO Ideas 21335 Faro motorizzato MISB nuovo! 💥",
     "imgUrl": "https://images1.vinted.net/t/02_015a6_uTJVaDd1byDACSCc3iZMjRaL/f800/1724706335.jpeg?s=ef826778f2d3bfdc7144917f0defe964cc1c5aff",
+    "publicationDate": 1724706335,
     "id": 4944862524
   },
   {
@@ -214,6 +244,7 @@
     "price": 294.7,
     "title": "Lego 21335 MISB",
     "imgUrl": "https://images1.vinted.net/t/02_00093_Fv9QziPkQhYAwbzCz35qjz6p/f800/1694978151.jpeg?s=f0e9503a4d37dfff16bfc8c292e1d08b0312a6bc",
+    "publicationDate": 1694978151,
     "id": 3487121061
   },
   {
@@ -221,6 +252,7 @@
     "price": 305.2,
     "title": "Set 21335 New and Sealed ",
     "imgUrl": "https://images1.vinted.net/t/02_011dd_T9CH4hsbdgAf727Sz8cYGwz2/f800/1700510834.jpeg?s=ba5aca26953d453721b9e2e139df6ca525d8d9f1",
+    "publicationDate": 1700510834,
     "id": 3787920523
   }
 ]

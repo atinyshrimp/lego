@@ -4,6 +4,7 @@
     "price": 11.2,
     "title": "Lego Hedwige 76425",
     "imgUrl": "https://images1.vinted.net/t/03_01e0c_vV92vXpz5hQ18rh3gBEg2V7X/f800/1730373249.jpeg?s=de99c766d9473fed383daa36475d315d7adf835e",
+    "publicationDate": 1730373249,
     "id": 5306530415
   },
   {
@@ -11,6 +12,7 @@
     "price": 17.5,
     "title": "Lego 76425 Harry Potter Edwige",
     "imgUrl": "https://images1.vinted.net/t/01_01932_MXP2mQ2mNiZWXUMkdaJka7j2/f800/1730657266.jpeg?s=fc31208dbe9e1f65eaa6111b7a6fa1ace421ce6c",
+    "publicationDate": 1730657266,
     "id": 5325456359
   },
   {
@@ -18,6 +20,7 @@
     "price": 16.45,
     "title": "Lego Harry Potter",
     "imgUrl": "https://images1.vinted.net/t/04_01c84_BxhYnTvuqXSaokyqLhbYWDrv/f800/1729675776.jpeg?s=731a1af301e1cb80ac58195b948307a84e5238c6",
+    "publicationDate": 1729675776,
     "id": 5264495812
   },
   {
@@ -25,20 +28,15 @@
     "price": 15.4,
     "title": "Harry Potter | Hedwig at Four Privet Drive | 76425",
     "imgUrl": "https://images1.vinted.net/t/04_02332_ffe1is2k6N8ZHcYycmGHA5Ev/f800/1729709055.jpeg?s=2ede0c64dafafe2b0639d7910da0128b2cbd1d0a",
+    "publicationDate": 1729709055,
     "id": 5267924703
-  },
-  {
-    "link": "https://www.vinted.fr/items/4925952071-76425-lego-harry-potter-panneau-privet-drive-avec-hedwige",
-    "price": 19.37,
-    "title": "76425 LEGO Harry Potter Panneau Privet Drive avec Hedwige",
-    "imgUrl": "https://images1.vinted.net/t/03_005bb_rx47bjYWUMsrYqDPxF52ctMN/f800/1724408009.jpeg?s=53281f35f0c12df27edfe9853d95825e53e5d88a",
-    "id": 4925952071
   },
   {
     "link": "https://www.vinted.fr/items/5318325742-lego-76425-hedwig-privet-drive",
     "price": 16.45,
     "title": "Lego 76425 Hedwig privet drive",
     "imgUrl": "https://images1.vinted.net/t/04_014df_dwc8iQ6vQeD7cGrLUquXYzxt/f800/1730566572.jpeg?s=0b89bfe20d9d0448c0545ad9f1266bfd01544548",
+    "publicationDate": 1730566572,
     "id": 5318325742
   },
   {
@@ -46,13 +44,23 @@
     "price": 16.45,
     "title": "Lego Harry Potter 76425",
     "imgUrl": "https://images1.vinted.net/t/01_0086f_j92rdEeK7HhjLizy2W3FfkhL/f800/1725806842.jpeg?s=962da57e21a7adecf70c963d780e7734446c9821",
+    "publicationDate": 1725806842,
     "id": 5007334827
+  },
+  {
+    "link": "https://www.vinted.fr/items/4925952071-76425-lego-harry-potter-panneau-privet-drive-avec-hedwige",
+    "price": 19.37,
+    "title": "76425 LEGO Harry Potter Panneau Privet Drive avec Hedwige",
+    "imgUrl": "https://images1.vinted.net/t/03_005bb_rx47bjYWUMsrYqDPxF52ctMN/f800/1724408009.jpeg?s=53281f35f0c12df27edfe9853d95825e53e5d88a",
+    "publicationDate": 1724408009,
+    "id": 4925952071
   },
   {
     "link": "https://www.vinted.fr/items/5188588005-lego-harry-potter",
     "price": 18.55,
     "title": "Lego Harry Potter",
     "imgUrl": "https://images1.vinted.net/t/01_00af5_rkTZifQxWee17pmPwFpokVoV/f800/1728489069.jpeg?s=5a4ee3babffae5f88553c00191a5584b383e94f3",
+    "publicationDate": 1728489069,
     "id": 5188588005
   },
   {
@@ -60,6 +68,7 @@
     "price": 5.95,
     "title": "Lego 76425 Harry Potter stickers",
     "imgUrl": "https://images1.vinted.net/t/04_00aa3_cQpdPgTDJy3SWBN2SSR6jKSY/f800/1730408787.jpeg?s=0042aa5e00816ea2ad849df447bdbef442d91647",
+    "publicationDate": 1730408787,
     "id": 5309118078
   },
   {
@@ -67,6 +76,7 @@
     "price": 16.45,
     "title": "Lego 76425 harry Potter privet drive novo selado caixa impecável",
     "imgUrl": "https://images1.vinted.net/t/04_01ec0_7Ui6Vh9GxqLT7aSwDkNNvMkJ/f800/1729604802.jpeg?s=3498878219b56b250cfc3f89874f29441d4f37f8",
+    "publicationDate": 1729604802,
     "id": 5260966969
   },
   {
@@ -74,6 +84,7 @@
     "price": 19.6,
     "title": "Lego 76425 Marvel",
     "imgUrl": "https://images1.vinted.net/t/02_019dd_NEyy9p88h3hkaMxgnKUovqCy/f800/1729929385.jpeg?s=8c3cd0336afc43352fbb3676a6fc15d44700baef",
+    "publicationDate": 1729929385,
     "id": 5278260934
   },
   {
@@ -81,27 +92,39 @@
     "price": 19.08,
     "title": "Lego harry potter Hedwig 76425",
     "imgUrl": "https://images1.vinted.net/t/01_00518_DbdeY82u3GhkuMcy4jVJWmg6/f800/1729760012.jpeg?s=126a710f02da8ecabb6abc25f1018f54ebf4c38b",
+    "publicationDate": 1729760012,
     "id": 5269362158
-  },
-  {
-    "link": "https://www.vinted.fr/items/5296655348-lot-legos-harry-potter",
-    "price": 32.2,
-    "title": "Lot légos Harry Potter",
-    "imgUrl": "https://images1.vinted.net/t/04_01939_rCcZc49kGWKhqYpQc4xtfeme/f800/1730198870.jpeg?s=14f46f0be38042a4353c9c5ee6d4257bcde21cdb",
-    "id": 5296655348
   },
   {
     "link": "https://www.vinted.fr/items/5268802984-lego-nuovo-76425-harry-potter",
     "price": 21.7,
     "title": "Lego nuovo 76425 Harry Potter",
     "imgUrl": "https://images1.vinted.net/t/04_00742_4iW8EwxBosdbJtfcKtVk18zA/f800/1729745896.jpeg?s=10be5795bae1021f538ce7219b87e1e9a510eb75",
+    "publicationDate": 1729745896,
     "id": 5268802984
+  },
+  {
+    "link": "https://www.vinted.fr/items/5296655348-lot-legos-harry-potter",
+    "price": 32.2,
+    "title": "Lot légos Harry Potter",
+    "imgUrl": "https://images1.vinted.net/t/04_01939_rCcZc49kGWKhqYpQc4xtfeme/f800/1730198870.jpeg?s=14f46f0be38042a4353c9c5ee6d4257bcde21cdb",
+    "publicationDate": 1730198870,
+    "id": 5296655348
+  },
+  {
+    "link": "https://www.vinted.fr/items/4662557621-lego-harry-potter",
+    "price": 21.7,
+    "title": "Lego Harry Potter",
+    "imgUrl": "https://images1.vinted.net/t/01_0254b_hC796ur4YBbAzUNhHcSCVrpm/f800/1718801582.jpeg?s=dd33edd9c229fa8ded4b9c7418afac4467081fdc",
+    "publicationDate": 1718801582,
+    "id": 4662557621
   },
   {
     "link": "https://www.vinted.fr/items/4843158023-lego-76425-hedwig-at-4-privet-drive",
     "price": 17.5,
     "title": "Lego 76425 Hedwig at 4 Privet Drive",
     "imgUrl": "https://images1.vinted.net/t/01_00031_NuVSY8XZia2fENLP4SenP2v5/f800/1722710159.jpeg?s=146b5b5e8833f4c90b9e70d5b24e0ba6c1c41aae",
+    "publicationDate": 1722710159,
     "id": 4843158023
   },
   {
@@ -109,55 +132,55 @@
     "price": 18.55,
     "title": "Lego Harry Potter 76425",
     "imgUrl": "https://images1.vinted.net/t/01_0112a_tNhCFBkGsmWEY1yofzEiEHTj/f800/1720795714.jpeg?s=8be4d9d5928f6e8e81453886d5a6b97ce709603f",
+    "publicationDate": 1720795714,
     "id": 4756377458
-  },
-  {
-    "link": "https://www.vinted.fr/items/4662557621-lego-harry-potter",
-    "price": 21.7,
-    "title": "Lego Harry Potter",
-    "imgUrl": "https://images1.vinted.net/t/01_0254b_hC796ur4YBbAzUNhHcSCVrpm/f800/1718801582.jpeg?s=dd33edd9c229fa8ded4b9c7418afac4467081fdc",
-    "id": 4662557621
   },
   {
     "link": "https://www.vinted.fr/items/4767993124-lego-76425",
     "price": 18.55,
     "title": "Lego 76425",
     "imgUrl": "https://images1.vinted.net/t/01_014fb_mdunRcV2mi1g5GaCgcHZCQaQ/f800/1721049230.jpeg?s=a6d46bc69e458c1641dbe9465326939fb0c1cb90",
+    "publicationDate": 1721049230,
     "id": 4767993124
   },
   {
-    "link": "https://www.vinted.fr/items/5050983066-lego-harry-potter-edwige-privet-drive-76425",
-    "price": 37.45,
-    "title": "Lego Harry Potter Edwige privet drive 76425",
-    "imgUrl": "https://images1.vinted.net/t/01_01af3_ijPoF2sD6NNhyM6NvkoXFqKi/f800/1726419593.jpeg?s=6ff5790f0cde7667eabaae7b49ce0d904e563c72",
-    "id": 5050983066
+    "link": "https://www.vinted.fr/items/5063834062-lego-harry-potter-76425-hedwig-at-4-privet-drive",
+    "price": 16.45,
+    "title": "Lego Harry Potter 76425 Hedwig at 4 Privet Drive",
+    "imgUrl": "https://images1.vinted.net/t/01_0266c_L1Vq28qkSGzrNKVFMiPrMzQj/f800/1726610023.jpeg?s=747278301c5eb4a7ae7a07e594b203a1a1667332",
+    "publicationDate": 1726610023,
+    "id": 5063834062
   },
   {
     "link": "https://www.vinted.fr/items/5251772004-lego-harry-potter",
     "price": 21.7,
     "title": "Lego Harry Potter",
     "imgUrl": "https://images1.vinted.net/t/02_016db_ewWu7kzWz1AU8UCJGw6U5A35/f800/1729448472.jpeg?s=53c964e55dd168786bb119b82ec6238982d29916",
+    "publicationDate": 1729448472,
     "id": 5251772004
+  },
+  {
+    "link": "https://www.vinted.fr/items/5050983066-lego-harry-potter-edwige-privet-drive-76425",
+    "price": 37.45,
+    "title": "Lego Harry Potter Edwige privet drive 76425",
+    "imgUrl": "https://images1.vinted.net/t/01_01af3_ijPoF2sD6NNhyM6NvkoXFqKi/f800/1726419593.jpeg?s=6ff5790f0cde7667eabaae7b49ce0d904e563c72",
+    "publicationDate": 1726419593,
+    "id": 5050983066
   },
   {
     "link": "https://www.vinted.fr/items/5165836733-harry-potter-hedwig-lego-76425",
     "price": 19.08,
     "title": "Harry Potter Hedwig lego 76425",
     "imgUrl": "https://images1.vinted.net/t/03_00029_Jj3tH3C5iweqeT7P4aRYqa2z/f800/1728198447.jpeg?s=163d3978dc998d23c2e426f8f1ba2f4a31c29c98",
+    "publicationDate": 1728198447,
     "id": 5165836733
-  },
-  {
-    "link": "https://www.vinted.fr/items/5063834062-lego-harry-potter-76425-hedwig-at-4-privet-drive",
-    "price": 21.7,
-    "title": "Lego Harry Potter 76425 Hedwig at 4 Privet Drive",
-    "imgUrl": "https://images1.vinted.net/t/01_0266c_L1Vq28qkSGzrNKVFMiPrMzQj/f800/1726610023.jpeg?s=747278301c5eb4a7ae7a07e594b203a1a1667332",
-    "id": 5063834062
   },
   {
     "link": "https://www.vinted.fr/items/4499944910-lego-harry-potter-76425",
     "price": 20.13,
     "title": "Lego Harry Potter 76425",
     "imgUrl": "https://images1.vinted.net/t/02_00728_155usPcN3AzmqJdiEtEzNgT6/f800/1715628478.jpeg?s=cb048ba7c1c85b83617e739b380512b4e7eff0f0",
+    "publicationDate": 1715628478,
     "id": 4499944910
   },
   {
@@ -165,6 +188,7 @@
     "price": 21.6,
     "title": "Lego Harry Potter 76425 Hedwig al 4 di Privet Drive",
     "imgUrl": "https://images1.vinted.net/t/02_0182a_QW4oNoxCwZkwZcGCDUqTtcsy/f800/1714400364.jpeg?s=3219b07bdff54586145696f5a4e8995e5278b64d",
+    "publicationDate": 1714400364,
     "id": 4434257010
   },
   {
@@ -172,6 +196,7 @@
     "price": 23.8,
     "title": "Lego 76425 - hedwig at 4 privet drive",
     "imgUrl": "https://images1.vinted.net/t/03_026d6_yoCrBBqvF4PNoKeoh9viCY9o/f800/1725296789.jpeg?s=f185af5d2359067cbbae7e65a8d6b511f16c555c",
+    "publicationDate": 1725296789,
     "id": 4978112735
   },
   {
@@ -179,6 +204,7 @@
     "price": 21.44,
     "title": "Lego Harry Potter 76425 Hedwig en el Número 4 de Privet Drive",
     "imgUrl": "https://images1.vinted.net/t/03_015d8_tGbnkmc9HAcsj1EHd1AENY3J/f800/1716752232.jpeg?s=7f86977c7fddecbdaecc17ff84e11996fce52e2d",
+    "publicationDate": 1716752232,
     "id": 4559127537
   }
 ]

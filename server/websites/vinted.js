@@ -34,64 +34,29 @@ async function extractCookies() {
 	return cookieString;
 }
 
-async function getPublicationDate(itemId, user) {
-	const url = `https://www.vinted.fr/api/v2/users/${user}/items?page=1&per_page=21&cond=active&selected_item_id=${itemId}`;
-
-	const response = await fetch(url, opts);
-	if (response.ok) {
-		const data = await response.json();
-		const dateISO = data.items[0].created_at_ts; // Assuming this is the ISO date string
-		const dateUnix = Math.floor(new Date(dateISO).getTime() / 1000); // Convert to Unix timestamp
-		return dateUnix;
-	} else {
-		console.error(
-			`Failed to fetch data for Lego ID ${legoId}:`,
-			response.status
-		);
-	}
-}
-
-/**
- * Parses the body of the Vinted API response to extract sale details.
- * @async
+/** Parses the body of the Vinted API response to extract sale details.
+ *
  * @param {Object[]} body - The response body from the Vinted API.
- * @returns {Promise<Object[]>} - A promise that resolves to an array of sale objects containing id, price, imgUrl, title, link, and date.
+ * @returns {Object[]} - An array of sale objects containing id, price, imgUrl, title, and link.
  */
-async function parse(body) {
-	return Promise.all(
-		body.map(async (sale) => {
-			const id = sale.id;
-			const price = Number(sale.total_item_price);
-			const imgUrl = sale.photo.url;
-			const title = sale.title;
-			const link = sale.url;
+function parse(body) {
+	return body.map((sale) => {
+		const id = sale.id;
+		const price = Number(sale.total_item_price);
+		const imgUrl = sale.photo.url;
+		const title = sale.title;
+		const link = sale.url;
+		const publicationDate = sale.photo.high_resolution.timestamp;
 
-			try {
-				const date = await getPublicationDate(sale.id, sale.user.id);
-				return {
-					link,
-					price,
-					title,
-					imgUrl,
-					date,
-					id,
-				};
-			} catch (err) {
-				console.error(
-					`Failed to fetch publication date for sale ID ${id}:`,
-					err
-				);
-				return {
-					link,
-					price,
-					title,
-					imgUrl,
-					date: null, // or some default value if the date couldn't be fetched
-					id,
-				};
-			}
-		})
-	);
+		return {
+			link,
+			price,
+			title,
+			imgUrl,
+			publicationDate,
+			id,
+		};
+	});
 }
 
 /** Reads and extracts unique Lego IDs from the deals.json file.
@@ -131,8 +96,7 @@ async function scrapeVintedForLegoId(legoId, writable = true) {
 			if (response.ok) {
 				const data = await response.json();
 				if (data.items.length > 0) {
-					const sales = await parse(data.items);
-					allItems = allItems.concat(sales);
+					allItems = allItems.concat(parse(data.items));
 					currentPage++;
 					hasMorePages = currentPage <= data.pagination.total_pages;
 				} else {
@@ -191,8 +155,8 @@ module.exports.scrape = async (legoId = undefined) => {
 			console.log(`[${counter}/${legoIds.length}]`);
 			await scrapeVintedForLegoId(legoId);
 
-			// Delay of 1000ms (1 second) between each request
-			await sleep(1000);
+			// Delay of 2000ms (2 seconds) between each request
+			await sleep(2000);
 		}
 
 		console.log(`Scraping completed for all ${legoIds.length} Lego IDs.`);

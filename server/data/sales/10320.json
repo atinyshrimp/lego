@@ -4,6 +4,7 @@
     "price": 11.2,
     "title": "Lego Pirates soldats NEUF",
     "imgUrl": "https://images1.vinted.net/t/04_0252e_j2ZaegFhp7ici37fw1zgn6Nm/f800/1730456969.jpeg?s=2a49aac41506475d449f960e804f80048fffbef0",
+    "publicationDate": 1730456969,
     "id": 5310332050
   },
   {
@@ -11,6 +12,7 @@
     "price": 184.45,
     "title": "Eldorado Fortress (10320)",
     "imgUrl": "https://images1.vinted.net/t/01_001ea_Fyt3NrdwzJx789sQ6LYXF6Uy/f800/1730141596.jpeg?s=7b19337cb55da4f1b776e72664bba0429af53bc0",
+    "publicationDate": 1730141596,
     "id": 5294501332
   },
   {
@@ -18,27 +20,31 @@
     "price": 170.8,
     "title": "Lego 10320 Eldorado forteresse",
     "imgUrl": "https://images1.vinted.net/t/02_0246f_5KhiCx6T9X1U1RwPqfnhY5E8/f800/1728125485.jpeg?s=a02e7b996974efb5c502e264c95968e27732d9f0",
+    "publicationDate": 1728125485,
     "id": 5161169038
-  },
-  {
-    "link": "https://www.vinted.fr/items/4590977039-4-personnages-du-set-lego-10320-eldorado-fortress",
-    "price": 25.38,
-    "title": "4 personnages du set Lego 10320 Eldorado Fortress",
-    "imgUrl": "https://images1.vinted.net/t/01_015ff_opUGYo5mNGzLSSSCKH3FtkBF/f800/1717354249.jpeg?s=2ae13152ce643091de3d14d9439e2a1f1bb5f701",
-    "id": 4590977039
   },
   {
     "link": "https://www.vinted.fr/items/5244049156-lego-pirates-gouverneur",
     "price": 11.2,
     "title": "Lego Pirates gouverneur",
     "imgUrl": "https://images1.vinted.net/t/02_018aa_UTNGtgZgA83xvXYASYaxicuA/f800/1729355927.jpeg?s=0a85f443e19a41b0bf890e6a2b6fbd69d4ad89cb",
+    "publicationDate": 1729355927,
     "id": 5244049156
+  },
+  {
+    "link": "https://www.vinted.fr/items/4590977039-4-personnages-du-set-lego-10320-eldorado-fortress",
+    "price": 25.38,
+    "title": "4 personnages du set Lego 10320 Eldorado Fortress",
+    "imgUrl": "https://images1.vinted.net/t/01_015ff_opUGYo5mNGzLSSSCKH3FtkBF/f800/1717354249.jpeg?s=2ae13152ce643091de3d14d9439e2a1f1bb5f701",
+    "publicationDate": 1717354249,
+    "id": 4590977039
   },
   {
     "link": "https://www.vinted.fr/items/5310324246-lego-pirates-drapeau-neuf",
     "price": 11.2,
     "title": "Lego Pirates Drapeau NEUF",
     "imgUrl": "https://images1.vinted.net/t/02_00a0c_93DCo5zu8b48kvHCPwBqQEHk/f800/1730456900.jpeg?s=01ef3f6e5962022789d028678da2f639dfebeb07",
+    "publicationDate": 1730456900,
     "id": 5310324246
   },
   {
@@ -46,55 +52,63 @@
     "price": 26.95,
     "title": "Lego Minifigures Lotto Gendarmi Pirati 10320",
     "imgUrl": "https://images1.vinted.net/t/01_0217c_SXpabTDKovDHxgBJ1e5ANs2n/f800/1704537935.jpeg?s=b50af63465e22cc2523683b7eccb98fe95418d15",
+    "publicationDate": 1704537935,
     "id": 3944921794
-  },
-  {
-    "link": "https://www.vinted.fr/items/4215660364-lego-10320-2x-mini-upper-parts-new",
-    "price": 5.95,
-    "title": "Lego 10320 | 2x mini upper parts (new)",
-    "imgUrl": "https://images1.vinted.net/t/02_00196_MBRBkyJoWby6JUTJesHkkjhy/f800/1710266082.jpeg?s=77df27184fb0db2abc6f69556a3fa5d479c099ea",
-    "id": 4215660364
-  },
-  {
-    "link": "https://www.vinted.fr/items/4512676005-lego-1-minifigure-from-eldorado-fortress-10320",
-    "price": 12.25,
-    "title": "LEGO 1 minifigure from Eldorado Fortress (10320)",
-    "imgUrl": "https://images1.vinted.net/t/03_015e9_dZ34qSBsxRcZSXxvUNdgweWp/f800/1715879402.jpeg?s=2bf123e47e20b3ef5fe23fe001d718da8b4496f7",
-    "id": 4512676005
   },
   {
     "link": "https://www.vinted.fr/items/4839130784-6-minifigures-lego-pirati-pirates-accessori",
     "price": 37.45,
     "title": "6 Minifigures LEGO pirati - pirates + accessori",
     "imgUrl": "https://images1.vinted.net/t/01_01861_UWaK74u7BKezFtuTeoEaGqke/f800/1722619125.jpeg?s=483ec096ce4c213b39f5b40741b782f6ddfcfd5d",
+    "publicationDate": 1722619125,
     "id": 4839130784
   },
   {
-    "link": "https://www.vinted.fr/items/5314490004-lego-10320-forte-el-dourado",
-    "price": 181.83,
-    "title": "Lego 10320  Forte El Dourado",
-    "imgUrl": "https://images1.vinted.net/t/04_01ede_Uoi6UpR1AaoWsYEhLXsfMMmo/f800/1730517463.jpeg?s=5737ac4da0bb6ceb0414c0b3d60463965eb9790d",
-    "id": 5314490004
+    "link": "https://www.vinted.fr/items/4512676005-lego-1-minifigure-from-eldorado-fortress-10320",
+    "price": 12.25,
+    "title": "LEGO 1 minifigure from Eldorado Fortress (10320)",
+    "imgUrl": "https://images1.vinted.net/t/03_015e9_dZ34qSBsxRcZSXxvUNdgweWp/f800/1715879402.jpeg?s=2bf123e47e20b3ef5fe23fe001d718da8b4496f7",
+    "publicationDate": 1715879402,
+    "id": 4512676005
   },
   {
-    "link": "https://www.vinted.fr/items/3306863152-lego-minifigure-medievale-castle-per-10305-10320",
-    "price": 21.6,
-    "title": "Lego minifigure medievale castle per 10305 10320",
-    "imgUrl": "https://images1.vinted.net/t/01_01aca_aCMNSUbbsjWB5GaJWLV3kP5W/f800/1690999129.jpeg?s=dc0e63367f2b0cf25757d5ca9261079cd1197174",
-    "id": 3306863152
+    "link": "https://www.vinted.fr/items/4215660364-lego-10320-2x-mini-upper-parts-new",
+    "price": 5.95,
+    "title": "Lego 10320 | 2x mini upper parts (new)",
+    "imgUrl": "https://images1.vinted.net/t/02_00196_MBRBkyJoWby6JUTJesHkkjhy/f800/1710266082.jpeg?s=77df27184fb0db2abc6f69556a3fa5d479c099ea",
+    "publicationDate": 1710266082,
+    "id": 4215660364
   },
   {
     "link": "https://www.vinted.fr/items/4660910237-lego-pirate-imperial-soldier",
     "price": 9.1,
     "title": "Lego Pirate Imperial Soldier",
     "imgUrl": "https://images1.vinted.net/t/01_0114f_p2EjzLLjxjKzZG5WCXFr9kdF/f800/1718754080.jpeg?s=353c7d7c7da0dd4810f14241f6a507f652b2405b",
+    "publicationDate": 1718754080,
     "id": 4660910237
+  },
+  {
+    "link": "https://www.vinted.fr/items/3306863152-lego-minifigure-medievale-castle-per-10305-10320",
+    "price": 21.6,
+    "title": "Lego minifigure medievale castle per 10305 10320",
+    "imgUrl": "https://images1.vinted.net/t/01_01aca_aCMNSUbbsjWB5GaJWLV3kP5W/f800/1690999129.jpeg?s=dc0e63367f2b0cf25757d5ca9261079cd1197174",
+    "publicationDate": 1690999129,
+    "id": 3306863152
+  },
+  {
+    "link": "https://www.vinted.fr/items/5314490004-lego-10320-forte-el-dourado",
+    "price": 181.83,
+    "title": "Lego 10320  Forte El Dourado",
+    "imgUrl": "https://images1.vinted.net/t/04_01ede_Uoi6UpR1AaoWsYEhLXsfMMmo/f800/1730517463.jpeg?s=5737ac4da0bb6ceb0414c0b3d60463965eb9790d",
+    "publicationDate": 1730517463,
+    "id": 5314490004
   },
   {
     "link": "https://www.vinted.fr/items/5275550300-lego-10320-eldorado-fortress",
     "price": 31.15,
     "title": "Lego 10320 | Eldorado Fortress",
     "imgUrl": "https://images1.vinted.net/t/04_01855_pwcDnRjctxcpWqLnQztntgff/f800/1729862248.jpeg?s=0c7b264bb560fdcdcf6c239b98d7a0eeb540b86d",
+    "publicationDate": 1729862248,
     "id": 5275550300
   },
   {
@@ -102,6 +116,7 @@
     "price": 3.85,
     "title": "Lego Flag 2 x 2 Jolly Roger 6446963 Eldorado Fortress set 10320",
     "imgUrl": "https://images1.vinted.net/t/03_020d2_wDbNzPFiY3nuk43cwkXYNbLH/f800/1716465791.jpeg?s=108a40d05d52026670eb6fad43a44c73171e6514",
+    "publicationDate": 1716465791,
     "id": 4543884111
   },
   {
@@ -109,6 +124,7 @@
     "price": 9.1,
     "title": "Lego Pirate Imperial Soldier",
     "imgUrl": "https://images1.vinted.net/t/02_00ace_MaQCGoTthBCthcowA11w45b8/f800/1718754198.jpeg?s=70e6b7fa6b9d074348dc42fe4cc9eb751143d0d1",
+    "publicationDate": 1718754198,
     "id": 4660910964
   },
   {
@@ -116,6 +132,7 @@
     "price": 53.2,
     "title": "Lego minifigures Pirates 10320 nuove",
     "imgUrl": "https://images1.vinted.net/t/03_01684_o1Gp5mS2v5x8bQS59haBriU1/f800/1727187009.jpeg?s=15746ec9a020ac1ad347068f705e0d89eb581278",
+    "publicationDate": 1727187009,
     "id": 5100647842
   },
   {
@@ -123,6 +140,7 @@
     "price": 51.1,
     "title": "LEGO 6 minifigures soldati imperiali - Ammiraglio + gabbiano",
     "imgUrl": "https://images1.vinted.net/t/03_020ff_udR7Xx8p1F3x7sMWYtkEEyzR/f800/1719908276.jpeg?s=685c493ea1f8ab6cc0dfe481c3a562179b77df59",
+    "publicationDate": 1719908276,
     "id": 4712699879
   },
   {
@@ -130,6 +148,7 @@
     "price": 194.94,
     "title": "Lego Icons 10320 Eldorado Fortress MISB 🆕",
     "imgUrl": "https://images1.vinted.net/t/02_01988_echSMcKxwnEbaRQ6iTxbfhMd/f800/1730623940.jpeg?s=1c0972db558e48c8ec2d097e1a40863a60af26f7",
+    "publicationDate": 1730623940,
     "id": 5320348666
   },
   {
@@ -137,6 +156,7 @@
     "price": 194.95,
     "title": "Lego Icons 10320 Eldorado Fortress",
     "imgUrl": "https://images1.vinted.net/t/02_01579_VqvUYLgy6LwZ6Ssq2pJHCC7r/f800/1729365706.jpeg?s=8ff2cf6ed001a9a51dc518d7cb7d61492d08a8c1",
+    "publicationDate": 1729365706,
     "id": 5244888057
   },
   {
@@ -144,6 +164,7 @@
     "price": 200.2,
     "title": "Lego 10320 nuovo",
     "imgUrl": "https://images1.vinted.net/t/02_00458_2wuKjcoXDhxsLy4REgZF77uT/f800/1728413715.jpeg?s=2f35b53dee66bb013285c4c3dd0188372b6625c3",
+    "publicationDate": 1728413715,
     "id": 5184157061
   },
   {
@@ -151,6 +172,7 @@
     "price": 20.65,
     "title": "Lego 10320 | 3x minifigures",
     "imgUrl": "https://images1.vinted.net/t/01_01ab5_s8mUhEY4fVBsUvfm6qNfVGCv/f800/1710259953.jpeg?s=6eee6927f713670837de17780904187a7a0fef79",
+    "publicationDate": 1710259953,
     "id": 4215129398
   },
   {
@@ -158,6 +180,7 @@
     "price": 2.28,
     "title": "Lego White Brick, Modified Facet 3 x 3",
     "imgUrl": "https://images1.vinted.net/t/03_01f39_qLnk2DACUq8JaRsBAnBsKQVM/f800/1712232313.jpeg?s=e29452c9da03c9d6d18c07a78137fd2e5e79f63a",
+    "publicationDate": 1712232313,
     "id": 4314957842
   },
   {
@@ -165,6 +188,7 @@
     "price": 13.3,
     "title": "2 Minifigures Lego Imperial Soldier",
     "imgUrl": "https://images1.vinted.net/t/01_025be_VBaYJD9P2zV7RUWFfKBJ6HqS/f800/1710351587.jpeg?s=e7cd10a9acdd78ceebd0a23f23c114777395fe9d",
+    "publicationDate": 1710351587,
     "id": 4219657485
   },
   {
@@ -172,41 +196,47 @@
     "price": 37.45,
     "title": "Minifiguras Lego set 10320",
     "imgUrl": "https://images1.vinted.net/t/02_00286_iMYuJLCnVyySYCpdpy558Ggh/f800/1711094545.jpeg?s=960ff6af7666f14a56e3482058cbe60b9435ed3a",
+    "publicationDate": 1711094545,
     "id": 4255442551
-  },
-  {
-    "link": "https://www.vinted.fr/items/4868425690-lego-pirates-10320-eldorado-fortress-neuf",
-    "price": 209.65,
-    "title": "Lego pirates 10320 Eldorado Fortress neuf",
-    "imgUrl": "https://images1.vinted.net/t/03_01676_JuD6VwYbShscKeQAq2bsEJ7m/f800/1723232481.jpeg?s=143f406fdd11fdf4f0b0604bd0f3ebde93a627b3",
-    "id": 4868425690
   },
   {
     "link": "https://www.vinted.fr/items/4215146276-lego-10320-3x-minifigs-new",
     "price": 26.95,
     "title": "Lego 10320 | 3x minifigs (new)",
     "imgUrl": "https://images1.vinted.net/t/01_00cdb_cpZVmuLVeisRnYewd4X59egF/f800/1710259828.jpeg?s=6639da04d8b071b0da3da57611cf53a85608a686",
+    "publicationDate": 1710259828,
     "id": 4215146276
   },
   {
-    "link": "https://www.vinted.fr/items/4958953585-lote-lego-minifiguras-10320",
-    "price": 68.95,
-    "title": "Lote lego minifiguras 10320",
-    "imgUrl": "https://images1.vinted.net/t/03_013d0_TVsQKYZ2tDcdAknNNM2Lb4Fd/f800/1724959562.jpeg?s=28874e8f26f5a58b8e3bd470a6565ff08905716b",
-    "id": 4958953585
+    "link": "https://www.vinted.fr/items/4868425690-lego-pirates-10320-eldorado-fortress-neuf",
+    "price": 209.65,
+    "title": "Lego pirates 10320 Eldorado Fortress neuf",
+    "imgUrl": "https://images1.vinted.net/t/03_01676_JuD6VwYbShscKeQAq2bsEJ7m/f800/1723232481.jpeg?s=143f406fdd11fdf4f0b0604bd0f3ebde93a627b3",
+    "publicationDate": 1723232481,
+    "id": 4868425690
   },
   {
     "link": "https://www.vinted.fr/items/4881780283-lego-10320-la-forteresse-de-leldorado",
     "price": 200.2,
     "title": "Lego 10320 la forteresse de l’eldorado",
     "imgUrl": "https://images1.vinted.net/t/02_02182_zBTt6h7PXMMVdafPz8fJ72xq/f800/1723547838.jpeg?s=755932088948f1e31dce8703ed242ebd40904943",
+    "publicationDate": 1723547838,
     "id": 4881780283
+  },
+  {
+    "link": "https://www.vinted.fr/items/4958953585-lote-lego-minifiguras-10320",
+    "price": 68.95,
+    "title": "Lote lego minifiguras 10320",
+    "imgUrl": "https://images1.vinted.net/t/03_013d0_TVsQKYZ2tDcdAknNNM2Lb4Fd/f800/1724959562.jpeg?s=28874e8f26f5a58b8e3bd470a6565ff08905716b",
+    "publicationDate": 1724959562,
+    "id": 4958953585
   },
   {
     "link": "https://www.vinted.fr/items/5052275190-lego-icons-la-forteresse-de-leldorado",
     "price": 209.65,
     "title": "LEGO Icons La forteresse de l’Eldorado",
     "imgUrl": "https://images1.vinted.net/t/01_00b8b_x4FbE9SRS8bX2bR31HBoQzDp/f800/1726429542.jpeg?s=5a3c59f50b08068188bf269a89f11b7ddf80b4f6",
+    "publicationDate": 1726429542,
     "id": 5052275190
   },
   {
@@ -214,27 +244,15 @@
     "price": 194.95,
     "title": "LEGO Icons 10320 - Eldorado-Festung, NEU & OVP",
     "imgUrl": "https://images1.vinted.net/t/03_011bb_PqhMwdgVAnAnFAx2c4wMAPUo/f800/1729259292.jpeg?s=97e2989db1a530dce58f07c6ee040bb00386afee",
+    "publicationDate": 1729259292,
     "id": 5211106578
-  },
-  {
-    "link": "https://www.vinted.fr/items/5179809631-lego-10320-fortress-eldorado-misb-new",
-    "price": 221.2,
-    "title": "Lego 10320 Fortress Eldorado Misb New",
-    "imgUrl": "https://images1.vinted.net/t/03_0065c_B5Am8xyi9vJAPNC2sTkKE3FP/f800/1728370519.jpeg?s=bb54a3bf688cb8c1a0d66cec3e102ee3a1bdcbd5",
-    "id": 5179809631
-  },
-  {
-    "link": "https://www.vinted.fr/items/5010045497-lego-10320",
-    "price": 210.7,
-    "title": "Lego 10320",
-    "imgUrl": "https://images1.vinted.net/t/03_01564_hBbfB5KhxzTbHkDDSq18frhg/f800/1725826164.jpeg?s=b2cfec5f5753ec5bee278e9b5f656a5098f57779",
-    "id": 5010045497
   },
   {
     "link": "https://www.vinted.fr/items/4367379352-lego-10320-fortezza-di-eldorado",
     "price": 205.45,
     "title": "Lego 10320 fortezza di eldorado",
     "imgUrl": "https://images1.vinted.net/t/02_00f4c_ZndkePRmNbZw2bPdCgqigMzD/f800/1713182417.jpeg?s=8be045c4e4aa75832b4da26b1462cb86147b9bcb",
+    "publicationDate": 1713182417,
     "id": 4367379352
   },
   {
@@ -242,20 +260,39 @@
     "price": 200.2,
     "title": "Lego Icons 10320",
     "imgUrl": "https://images1.vinted.net/t/02_01878_7JRBisY9cENgx4SUdqUnv97Z/f800/1727947201.jpeg?s=a71103f130e62a57749e8def665732e4e6e537db",
+    "publicationDate": 1727947201,
     "id": 5150205096
+  },
+  {
+    "link": "https://www.vinted.fr/items/5179809631-lego-10320-fortress-eldorado-misb-new",
+    "price": 221.2,
+    "title": "Lego 10320 Fortress Eldorado Misb New",
+    "imgUrl": "https://images1.vinted.net/t/03_0065c_B5Am8xyi9vJAPNC2sTkKE3FP/f800/1728370519.jpeg?s=bb54a3bf688cb8c1a0d66cec3e102ee3a1bdcbd5",
+    "publicationDate": 1728370519,
+    "id": 5179809631
   },
   {
     "link": "https://www.vinted.fr/items/4712052621-lego-icons-10320-la-forteresse-de-leldorado",
     "price": 200.2,
     "title": "LEGO Icons 10320 -  La forteresse de l’Eldorado",
     "imgUrl": "https://images1.vinted.net/t/02_02696_j1oyj6wCwQ2K7NNvDPUnFZYR/f800/1719867347.jpeg?s=651a7521b485f11a9c9b86387aea7a4cd3d96b40",
+    "publicationDate": 1719867347,
     "id": 4712052621
+  },
+  {
+    "link": "https://www.vinted.fr/items/5010045497-lego-10320",
+    "price": 210.7,
+    "title": "Lego 10320",
+    "imgUrl": "https://images1.vinted.net/t/03_01564_hBbfB5KhxzTbHkDDSq18frhg/f800/1725826164.jpeg?s=b2cfec5f5753ec5bee278e9b5f656a5098f57779",
+    "publicationDate": 1725826164,
+    "id": 5010045497
   },
   {
     "link": "https://www.vinted.fr/items/3824747552-lego-10320-fortezza-di-eldorado-misb",
     "price": 209.65,
     "title": "Lego 10320 Fortezza di Eldorado MISB",
     "imgUrl": "https://images1.vinted.net/t/02_00634_PiN6thKH63TknxUzJBT3WR98/f800/1701262342.jpeg?s=84dc1869072b54bb36e75dcf64ba6ba5c7d6294b",
+    "publicationDate": 1701262342,
     "id": 3824747552
   },
   {
@@ -263,6 +300,7 @@
     "price": 215.95,
     "title": "Lego 10320 Eldorado Fortress",
     "imgUrl": "https://images1.vinted.net/t/01_01380_5qr1o2G1HfpaYMmYAakUqx9v/f800/1701541843.jpeg?s=d1eb81410360db81eeb8391120aeaf1acd13eaf0",
+    "publicationDate": 1701541843,
     "id": 3837313756
   }
 ]

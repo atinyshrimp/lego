@@ -4,27 +4,39 @@
     "price": 1.75,
     "title": "Boîte vide Lego 76297",
     "imgUrl": "https://images1.vinted.net/t/03_0037c_eSCU2tuFnZVyXnexvMfbVBCc/f800/1728026049.jpeg?s=9a3cf0b69ac79ee1303481cd76b4ca6d3119f51d",
+    "publicationDate": 1728026049,
     "id": 5154971176
-  },
-  {
-    "link": "https://www.vinted.fr/items/5309762774-lego-marvel-76297-la-danse-de-bebe-groot",
-    "price": 40.6,
-    "title": "Lego Marvel 76297 la danse de bébé groot",
-    "imgUrl": "https://images1.vinted.net/t/04_006ce_tGABoxd78CXbBqoTUPtkLUBp/f800/1730450567.jpeg?s=cfd2e2bd2302c5d7a96e4b37da07ce54bd7f88b3",
-    "id": 5309762774
   },
   {
     "link": "https://www.vinted.fr/items/5224334209-lego-la-danse-de-bebe-groot",
     "price": 3.33,
     "title": "LEGO La danse de bébé Groot",
     "imgUrl": "https://images1.vinted.net/t/03_0083f_mWNbB2dqQHy2VvLFm61nB4We/f800/1729021891.jpeg?s=aa8db07a999e69165c878b07d97ac863d7ccb687",
+    "publicationDate": 1729021891,
     "id": 5224334209
+  },
+  {
+    "link": "https://www.vinted.fr/items/5309762774-lego-marvel-76297-la-danse-de-bebe-groot",
+    "price": 40.6,
+    "title": "Lego Marvel 76297 la danse de bébé groot",
+    "imgUrl": "https://images1.vinted.net/t/04_006ce_tGABoxd78CXbBqoTUPtkLUBp/f800/1730450567.jpeg?s=cfd2e2bd2302c5d7a96e4b37da07ce54bd7f88b3",
+    "publicationDate": 1730450567,
+    "id": 5309762774
+  },
+  {
+    "link": "https://www.vinted.fr/items/5328100396-lego-76297-marvel-groot-bailarin",
+    "price": 39.55,
+    "title": "Lego 76297 - Marvel  - Groot Bailarín",
+    "imgUrl": "https://images1.vinted.net/t/04_00035_cw8WKiEZV1V16nS5dZKv7huW/f800/1730718120.jpeg?s=3bcde37d86988038a61221ac9af5ed2c121f6b63",
+    "publicationDate": 1730718120,
+    "id": 5328100396
   },
   {
     "link": "https://www.vinted.fr/items/5314366290-lego-marvel",
     "price": 63.7,
     "title": "Lego Marvel",
     "imgUrl": "https://images1.vinted.net/t/02_0213b_qxSAWjPjwJQx2W18ryduhPf9/f800/1730502026.jpeg?s=7912bcb65bda76fdaa405e7a385335d18ccfadc3",
+    "publicationDate": 1730502026,
     "id": 5314366290
   }
 ]

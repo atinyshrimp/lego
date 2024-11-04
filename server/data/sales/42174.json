@@ -4,27 +4,31 @@
     "price": 95.2,
     "title": "Lego Technic 42174 NUEVO e sellado",
     "imgUrl": "https://images1.vinted.net/t/03_01f23_mEGnTzXVRdu2ChUtV4GDxVGP/f800/1729520915.jpeg?s=cc7a60b243b49daebab36a92e618606622220961",
+    "publicationDate": 1729520915,
     "id": 5255873092
-  },
-  {
-    "link": "https://www.vinted.fr/items/4986414903-lego-technic-42174-ac75-team-new-zealand-coppa-america",
-    "price": 116.2,
-    "title": "Lego Technic 42174 Ac75 Team New Zealand Coppa America",
-    "imgUrl": "https://images1.vinted.net/t/02_00d62_b4pLgdZgUKKXJHwPnkYoawUq/f800/1725456577.jpeg?s=33f547c4979e3274487e3ed508decc52651e15a7",
-    "id": 4986414903
   },
   {
     "link": "https://www.vinted.fr/items/5316651799-lego-42174-technic-yate-emirates-team-new-zealand-ac75",
     "price": 95.2,
     "title": "Lego 42174 - Technic  - Yate Emirates Team New Zealand AC75",
     "imgUrl": "https://images1.vinted.net/t/04_016a5_sTY8ZThBkViWNA5V7caSmyd9/f800/1730553546.jpeg?s=4a7468e4c978c2ce4eb62d5dc3fed7e2f8fbb59b",
+    "publicationDate": 1730553546,
     "id": 5316651799
+  },
+  {
+    "link": "https://www.vinted.fr/items/4986414903-lego-technic-42174-ac75-team-new-zealand-coppa-america",
+    "price": 116.2,
+    "title": "Lego Technic 42174 Ac75 Team New Zealand Coppa America",
+    "imgUrl": "https://images1.vinted.net/t/02_00d62_b4pLgdZgUKKXJHwPnkYoawUq/f800/1725456577.jpeg?s=33f547c4979e3274487e3ed508decc52651e15a7",
+    "publicationDate": 1725456577,
+    "id": 4986414903
   },
   {
     "link": "https://www.vinted.fr/items/5021411004-lego-technic",
     "price": 105.7,
     "title": "Lego technic",
     "imgUrl": "https://images1.vinted.net/t/02_013b7_q9W2NZtPCqjmh6jVfhdzdzwP/f800/1725996953.jpeg?s=9ce10e5d899ff9cfc868fecb3b159e984373185d",
+    "publicationDate": 1725996953,
     "id": 5021411004
   },
   {
@@ -32,6 +36,7 @@
     "price": 95.2,
     "title": "Lego Technic 42174",
     "imgUrl": "https://images1.vinted.net/t/04_0142c_kQ7esrywJAw3wBWPu1yqrjTe/f800/1730569094.jpeg?s=53ec49b886b0726e54c5f0f8a1e76748f83fc2ce",
+    "publicationDate": 1730569094,
     "id": 5318580574
   },
   {
@@ -39,6 +44,7 @@
     "price": 100.45,
     "title": "Lego 42174",
     "imgUrl": "https://images1.vinted.net/t/02_000fb_UvbTBB2RS2TMeT9FPqwteKx9/f800/1730149471.jpeg?s=1616ce40f3fd068766504e1aed7324cbbcb10ea7",
+    "publicationDate": 1730149471,
     "id": 5295148418
   }
 ]

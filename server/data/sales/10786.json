@@ -4,20 +4,15 @@
     "price": 17.5,
     "title": "Lego gabby chat",
     "imgUrl": "https://images1.vinted.net/t/04_003ef_TAvkRCtc7E1o339QuKU7RC56/f800/1730646348.jpeg?s=4c5c5402549cd467cbb4108d9499aa2f901f3499",
+    "publicationDate": 1730646348,
     "id": 5323738030
-  },
-  {
-    "link": "https://www.vinted.fr/items/5323777095-lego-gaby-chat-10786-bateau",
-    "price": 11.2,
-    "title": "Lego gaby chat 10786 bateau",
-    "imgUrl": "https://images1.vinted.net/t/04_009cb_xTX9Hr6C1pR4L26iDPDmwP4y/f800/1730646565.jpeg?s=30cb3ad4dc62bfc4849d1599f3534e85c3569e74",
-    "id": 5323777095
   },
   {
     "link": "https://www.vinted.fr/items/5222664699-lego-gabbys-dollhouse-10786",
     "price": 7.53,
     "title": "Lego Gabby’s dollhouse 10786",
     "imgUrl": "https://images1.vinted.net/t/03_00494_F6b18h21QQ5zWXrk5u5SLti9/f800/1729004797.jpeg?s=124771da7ccbdcd824a9da598997223ada2a7ac3",
+    "publicationDate": 1729004797,
     "id": 5222664699
   },
   {
@@ -25,6 +20,7 @@
     "price": 13.83,
     "title": "Gabby’s dollhouse Lego 10786",
     "imgUrl": "https://images1.vinted.net/t/03_021c1_aTFsAv9jzJ1CcXK6TUh5AWYW/f800/1727451204.jpeg?s=e9a1f86125276b97604c3e24b1e06539eac767c7",
+    "publicationDate": 1727451204,
     "id": 5117125125
   },
   {
@@ -32,6 +28,7 @@
     "price": 9.1,
     "title": "Lot de 4 boîtes Lego vide Gaby chat",
     "imgUrl": "https://images1.vinted.net/t/02_002ca_byuiqPzfDFMoaNfDH58EdwRK/f800/1717662167.jpeg?s=edf7b5f0a7cec1d71ff6828df70e1fb4694c4445",
+    "publicationDate": 1717662167,
     "id": 4605289743
   },
   {
@@ -39,6 +36,7 @@
     "price": 16.45,
     "title": "lego gabby's dollhouse 10786",
     "imgUrl": "https://images1.vinted.net/t/02_00ed4_F5Kb7u5DqhFJrX6WbXTXfWkn/f800/1718215557.jpeg?s=a18340588dd7c5991b58b072de8ac85c348237ae",
+    "publicationDate": 1718215557,
     "id": 4634580800
   },
   {
@@ -46,6 +44,7 @@
     "price": 14.25,
     "title": "Lego Gabby's Dollhouse, 10786",
     "imgUrl": "https://images1.vinted.net/t/04_00348_bidi2bDSwQkyMXhSmJpCBsNb/f800/1729756952.jpeg?s=e52dae489cc401d1e346ba059f13860f95aa93b5",
+    "publicationDate": 1729756952,
     "id": 5269131908
   },
   {
@@ -53,6 +52,7 @@
     "price": 16.35,
     "title": "Lego Gabby’s dollhouse 10786",
     "imgUrl": "https://images1.vinted.net/t/01_01afd_cvm2qWqGY9hLQDGnrR4Pp2Te/f800/1728672672.jpeg?s=c4f1f3d304381891a0ef1b038e04b6d2e51a42bd",
+    "publicationDate": 1728672672,
     "id": 5199653963
   },
   {
@@ -60,6 +60,7 @@
     "price": 14.35,
     "title": "Barco y SPA Casa de Muñecas de Gabby",
     "imgUrl": "https://images1.vinted.net/t/01_01070_BY9S83rG8CEgCtSDVn2Ko2Cn/f800/1726652548.jpeg?s=b0620951e955eeb4c4bde0784ef4b7bb231ed996",
+    "publicationDate": 1726652548,
     "id": 5064983976
   },
   {
@@ -67,6 +68,7 @@
     "price": 47.95,
     "title": "Maison de Gabby + bateau en lego",
     "imgUrl": "https://images1.vinted.net/t/01_00f43_ohUUVvCBw6nXzUBocG41N5JN/f800/1729007609.jpeg?s=b61c3574c9654103a84f01a1f60aa5e938d4d30d",
+    "publicationDate": 1729007609,
     "id": 5222974123
   },
   {
@@ -74,6 +76,7 @@
     "price": 17.5,
     "title": "Lego Gabby’s Dollhouse 10786",
     "imgUrl": "https://images1.vinted.net/t/03_0005d_S6Yq6aj1rCvVof4XXeFX9dBD/f800/r3/1726841029.jpeg?s=016749c6688ed905c9c7effa07e1eac0c9d40ad2",
+    "publicationDate": 1726841029,
     "id": 5076761179
   },
   {
@@ -81,6 +84,7 @@
     "price": 16.45,
     "title": "Lego 10786",
     "imgUrl": "https://images1.vinted.net/t/02_00614_N4HAGrKV34wyNJy2Xkhygpj9/f800/1727366703.jpeg?s=9304dda5761178646644e20fef9fff88466f0560",
+    "publicationDate": 1727366703,
     "id": 5112294215
   },
   {
@@ -88,27 +92,31 @@
     "price": 21.7,
     "title": "Lego 10786 cabby & Mercat's, shop&spa",
     "imgUrl": "https://images1.vinted.net/t/02_0009f_ECTaLRw3wKyLSjqGce82E1Nx/f800/1701626349.jpeg?s=418216399734331b3dc111ccdac3a76dd0399905",
+    "publicationDate": 1701626349,
     "id": 3841852781
-  },
-  {
-    "link": "https://www.vinted.fr/items/3983999794-lego-10786-gabby-dollhouse",
-    "price": 19.08,
-    "title": "Lego 10786 gabby dollhouse",
-    "imgUrl": "https://images1.vinted.net/t/02_010c6_VbKHHcjUSrK2Gn2moJM1bsMf/f800/1705348053.jpeg?s=c2841ce94fb711061512e229295583fb3095891a",
-    "id": 3983999794
   },
   {
     "link": "https://www.vinted.fr/items/3885894463-lego-10786-gabbys-dollhouse",
     "price": 21.7,
     "title": "Lego 10786 gabby's dollhouse ",
     "imgUrl": "https://images1.vinted.net/t/02_00375_hQJNKpPQR6pc9x5ATrmxMHFv/f800/1702670334.jpeg?s=00b332a241e7f85c6288bade3a042c08444ab4c2",
+    "publicationDate": 1702670334,
     "id": 3885894463
+  },
+  {
+    "link": "https://www.vinted.fr/items/3983999794-lego-10786-gabby-dollhouse",
+    "price": 19.08,
+    "title": "Lego 10786 gabby dollhouse",
+    "imgUrl": "https://images1.vinted.net/t/02_010c6_VbKHHcjUSrK2Gn2moJM1bsMf/f800/1705348053.jpeg?s=c2841ce94fb711061512e229295583fb3095891a",
+    "publicationDate": 1705348053,
+    "id": 3983999794
   },
   {
     "link": "https://www.vinted.fr/items/3320696655-gabbys-dollhouse",
     "price": 42.7,
     "title": "Gabby’s dollhouse",
     "imgUrl": "https://images1.vinted.net/t/03_024a5_PXbfkEwZURd9aUbvyYBsLNtm/f800/1716625864.jpeg?s=e1cf5c8d32dd64d36f2dda9166a26323dd1db0eb",
+    "publicationDate": 1716625864,
     "id": 3320696655
   }
 ]

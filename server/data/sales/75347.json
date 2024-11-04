@@ -4,6 +4,7 @@
     "price": 4.9,
     "title": "Boîte VIDE Lego Star wars 75347",
     "imgUrl": "https://images1.vinted.net/t/03_00887_Z1NvJbH45CadSRtwmXSETTu6/f800/1703687691.jpeg?s=262da547105e83d9561a5e5242855b5128676424",
+    "publicationDate": 1703687691,
     "id": 3911843688
   },
   {
@@ -11,6 +12,7 @@
     "price": 5.95,
     "title": "Livret Lego 75347",
     "imgUrl": "https://images1.vinted.net/t/01_01d80_PgM8H6qw8425KJbPsPD2dwD5/f800/1708262129.jpeg?s=ea0ed3f98dbab1c88a3ec73a8055ad2769dd1642",
+    "publicationDate": 1708262129,
     "id": 4115643838
   },
   {
@@ -18,20 +20,23 @@
     "price": 34.83,
     "title": "LEGO Star Wars 75347 - neuf",
     "imgUrl": "https://images1.vinted.net/t/03_0177e_ernGWEp6dDwYe8t8tszSNquJ/f800/1728594331.jpeg?s=dbb2f4e1c8405e733c9a6c2f9f272cd39e29d27e",
+    "publicationDate": 1728594331,
     "id": 5195374234
   },
   {
-    "link": "https://www.vinted.fr/items/5326734734-lego-star-wars-tie-bombardier-ref-75347-set-scelle",
-    "price": 55.3,
-    "title": "Lego star wars. Tie bombardier ref 75347. Set scellé",
-    "imgUrl": "https://images1.vinted.net/t/04_011c9_MkiBoDjGgcaHsVPg45srzhcR/f800/1730670119.jpeg?s=a2b071df884bb25739c8ccbad2d1b488cdf32a16",
-    "id": 5326734734
+    "link": "https://www.vinted.fr/items/5299035390-lego-75347-only-box",
+    "price": 11.2,
+    "title": "Lego 75347 only box",
+    "imgUrl": "https://images1.vinted.net/t/01_01d25_UgYgb92oBhDW4fUyKnySVMtc/f800/1730221423.jpeg?s=e427c14a40f6d9e5111d2fb4b48fb148c99e336b",
+    "publicationDate": 1730221423,
+    "id": 5299035390
   },
   {
     "link": "https://www.vinted.fr/items/4914030728-lego-star-wars-sw1251",
     "price": 5.95,
     "title": "Lego star wars sw1251",
     "imgUrl": "https://images1.vinted.net/t/03_0260a_ZNKzjwi5aH2bK8bimwJYYMyv/f800/1724171999.jpeg?s=4be2bd01863073cc7f7a039dc810399b7ddc11f0",
+    "publicationDate": 1724171999,
     "id": 4914030728
   },
   {
@@ -39,27 +44,15 @@
     "price": 4.69,
     "title": "Lego Star Wars - Gonk Droid (GNK Power Droid), Imperial Logo - SW1252",
     "imgUrl": "https://images1.vinted.net/t/03_014d8_C3iQ9FAgdeYxrZE7Ay52Yt9c/f800/1725347805.jpeg?s=38e3b487d6388333c338c95b74ee0f22bfe30375",
+    "publicationDate": 1725347805,
     "id": 4979707347
-  },
-  {
-    "link": "https://www.vinted.fr/items/4594801001-lego-star-war-75347-neuf-boite-scelle",
-    "price": 47.95,
-    "title": "Lego star War 75347 neuf boite scellé",
-    "imgUrl": "https://images1.vinted.net/t/01_019ae_pMtxkBtNM233C7Nv8Ydn42MT/f800/1717433822.jpeg?s=dd1c1aea7553592c625dbbd815918f4202830f4e",
-    "id": 4594801001
-  },
-  {
-    "link": "https://www.vinted.fr/items/5299035390-lego-75347-only-box",
-    "price": 11.2,
-    "title": "Lego 75347 only box",
-    "imgUrl": "https://images1.vinted.net/t/01_01d25_UgYgb92oBhDW4fUyKnySVMtc/f800/1730221423.jpeg?s=e427c14a40f6d9e5111d2fb4b48fb148c99e336b",
-    "id": 5299035390
   },
   {
     "link": "https://www.vinted.fr/items/4688631013-minifigurine-lego-gonk-droid-75347",
     "price": 5.95,
     "title": "minifigurine LEGO Gonk droid (#75347)",
     "imgUrl": "https://images1.vinted.net/t/02_01e05_Sbg43wQY2c5RxEZZ7DHr7maH/f800/1719352657.jpeg?s=c5ea638176404c68b3b8f420c6829f7876315914",
+    "publicationDate": 1719352657,
     "id": 4688631013
   },
   {
@@ -67,6 +60,7 @@
     "price": 38.49,
     "title": "75347 LEGO Star Wars TIE Bomber",
     "imgUrl": "https://images1.vinted.net/t/03_01595_Bng7SXbVodGHS2tM45L7TF4o/f800/1716913262.jpeg?s=1396ca878831eeb5ad33a1deff9e821b0fda6c09",
+    "publicationDate": 1716913262,
     "id": 4567410472
   },
   {
@@ -74,6 +68,7 @@
     "price": 11.2,
     "title": "Lego Star Wars - Vice Admiral Sloane - SW1250",
     "imgUrl": "https://images1.vinted.net/t/03_017d8_jmxmzaDUEKTJ7efRjbaREF31/f800/1725349337.jpeg?s=def3d06423f27a92a611ca8e8f8bb09d32985d94",
+    "publicationDate": 1725349337,
     "id": 4979782417
   },
   {
@@ -81,41 +76,55 @@
     "price": 47.95,
     "title": "Lego Star wars 75347 Neuf",
     "imgUrl": "https://images1.vinted.net/t/04_00e66_VBZvB8FLb1BmArUvVFLoJUZs/f800/1729606498.jpeg?s=9291d81877d2a9431aea6ad46b3a0c9e771c58dc",
+    "publicationDate": 1729606498,
     "id": 5261151516
-  },
-  {
-    "link": "https://www.vinted.fr/items/5187238317-lego-star-wars-75347",
-    "price": 47.95,
-    "title": "Lego star wars 75347",
-    "imgUrl": "https://images1.vinted.net/t/03_00b34_wVyFAvZy36uA9zBzhHMVTp4s/f800/1728477944.jpeg?s=519634d87681122e7a8ed7120fe014662535c155",
-    "id": 5187238317
   },
   {
     "link": "https://www.vinted.fr/items/4248230971-lego-75347-tie-bomber-star-wars",
     "price": 46.9,
     "title": "Lego 75347 Tie Bomber Star Wars",
     "imgUrl": "https://images1.vinted.net/t/03_00b98_zMPtG5ydh3x1cSjLcyEPTanZ/f800/1710933616.jpeg?s=3cd785d4907a182495a4578ac2f04cc550bf0562",
+    "publicationDate": 1710933616,
     "id": 4248230971
   },
   {
-    "link": "https://www.vinted.fr/items/4829719571-lego-star-wars-75347-nuevo-e-sellado",
+    "link": "https://www.vinted.fr/items/5328191407-lego-75347-star-wars",
+    "price": 47.9,
+    "title": "Lego 75347.  Star wars",
+    "imgUrl": "https://images1.vinted.net/t/04_01e82_HS2SYQKBbUaifTpijfg3aKFo/f800/1730719048.jpeg?s=2581bad23f484d051a6da6d4b88e3cecfe37887a",
+    "publicationDate": 1730719048,
+    "id": 5328191407
+  },
+  {
+    "link": "https://www.vinted.fr/items/5187238317-lego-star-wars-75347",
     "price": 47.95,
-    "title": "Lego STar Wars 75347 NUEVO e sellado",
-    "imgUrl": "https://images1.vinted.net/t/02_0087e_Mj35HF4UH2zsfnQsKESSDEiB/f800/1722419701.jpeg?s=30907f49350a4b067ba469cbd93308cd863de68b",
-    "id": 4829719571
+    "title": "Lego star wars 75347",
+    "imgUrl": "https://images1.vinted.net/t/03_00b34_wVyFAvZy36uA9zBzhHMVTp4s/f800/1728477944.jpeg?s=519634d87681122e7a8ed7120fe014662535c155",
+    "publicationDate": 1728477944,
+    "id": 5187238317
   },
   {
     "link": "https://www.vinted.fr/items/4397745766-lego-star-wars-imperial-tie-bomber-pilot-75347-sw1251",
     "price": 21.7,
     "title": "Lego Star Wars Imperial TIE Bomber Pilot 75347 Sw1251",
     "imgUrl": "https://images1.vinted.net/t/02_012bb_esZi8QZEe6B6RNjM9jE9xRc7/f800/1713714263.jpeg?s=beda54b684888e00dedfe7ae678584051378911c",
+    "publicationDate": 1713714263,
     "id": 4397745766
+  },
+  {
+    "link": "https://www.vinted.fr/items/4829719571-lego-star-wars-75347-nuevo-e-sellado",
+    "price": 47.95,
+    "title": "Lego STar Wars 75347 NUEVO e sellado",
+    "imgUrl": "https://images1.vinted.net/t/02_0087e_Mj35HF4UH2zsfnQsKESSDEiB/f800/1722419701.jpeg?s=30907f49350a4b067ba469cbd93308cd863de68b",
+    "publicationDate": 1722419701,
+    "id": 4829719571
   },
   {
     "link": "https://www.vinted.fr/items/3948990456-minifigurine-lego-star-wars-vice-amiral-sloane-sw1250",
     "price": 16.44,
     "title": "Minifigurine LEGO Star Wars Vice Amiral Sloane (sw1250)",
     "imgUrl": "https://images1.vinted.net/t/01_00722_VjaaybgWNPWX9WdK8k1zSP5k/f800/1704620374.jpeg?s=532be48c937e055c01d8ab1c3eb5997f0a56dad1",
+    "publicationDate": 1704620374,
     "id": 3948990456
   },
   {
@@ -123,13 +132,23 @@
     "price": 47.95,
     "title": "Lego 75347",
     "imgUrl": "https://images1.vinted.net/t/01_01518_c7dGDVecKYiyVMbamaEB7PHG/f800/1706434372.jpeg?s=181ebdb6eb8d01b77b3a009d14e8b5f50853963c",
+    "publicationDate": 1706434372,
     "id": 4031548678
+  },
+  {
+    "link": "https://www.vinted.fr/items/5326734734-lego-star-wars-tie-bombardier-ref-75347-set-scelle",
+    "price": 55.3,
+    "title": "Lego star wars. Tie bombardier ref 75347. Set scellé",
+    "imgUrl": "https://images1.vinted.net/t/04_011c9_MkiBoDjGgcaHsVPg45srzhcR/f800/1730670119.jpeg?s=a2b071df884bb25739c8ccbad2d1b488cdf32a16",
+    "publicationDate": 1730670119,
+    "id": 5326734734
   },
   {
     "link": "https://www.vinted.fr/items/5323004478-lego-star-wars-75347",
     "price": 47.95,
     "title": "Lego Star Wars 75347",
     "imgUrl": "https://images1.vinted.net/t/02_00141_Ss9eGyoYSra3qyS5UwMbtpdw/f800/1730642206.jpeg?s=e8930f0ec9e640a26db4475cc683db336ab54495",
+    "publicationDate": 1730642206,
     "id": 5323004478
   },
   {
@@ -137,6 +156,7 @@
     "price": 47.95,
     "title": "Lego Star Wars 75347 Tie Bomber",
     "imgUrl": "https://images1.vinted.net/t/03_0004f_xFY4LTiUEogBiHs2sdFiYT6Y/f800/1728320402.jpeg?s=577832c4b7ca2783d5cf7d0b5caebdb0bb1bd4fe",
+    "publicationDate": 1728320402,
     "id": 5177925406
   },
   {
@@ -144,6 +164,7 @@
     "price": 42.7,
     "title": "Lego 75347",
     "imgUrl": "https://images1.vinted.net/t/04_017b1_PFU3x3qF8F3S3QaTA3UuCP1U/f800/1730203795.jpeg?s=3dbdee6ecbe9070c9e4064adcb6fd422f2a5dc9a",
+    "publicationDate": 1730203795,
     "id": 5297169756
   },
   {
@@ -151,6 +172,7 @@
     "price": 46.9,
     "title": "LEGO Star Wars Bombardier Tie 75347",
     "imgUrl": "https://images1.vinted.net/t/03_007d1_VVqmkoJ627Jz4iwjtyBCxLqm/f800/1726945312.jpeg?s=aafe575d032a8d1769f1fc88eb3b2dcb26df659f",
+    "publicationDate": 1726945312,
     "id": 5083843303
   },
   {
@@ -158,55 +180,63 @@
     "price": 47.95,
     "title": "Lego Star Wars 75347 Tie Bomber",
     "imgUrl": "https://images1.vinted.net/t/02_02317_SPuUKzoFTxV9snS6AqLMakZs/f800/1729068955.jpeg?s=8f822db6fec8edebc422db271aa9bb94a72320cb",
+    "publicationDate": 1729068955,
     "id": 5225659689
-  },
-  {
-    "link": "https://www.vinted.fr/items/3949036602-minifigurine-lego-star-wars-pilote-de-bombardier-tie-sw1251",
-    "price": 16.44,
-    "title": "Minifigurine LEGO Star Wars Pilote de bombardier TIE (sw1251)",
-    "imgUrl": "https://images1.vinted.net/t/02_01282_PcGG7dsUfY3x7up1iLEkYpw5/f800/1704620994.jpeg?s=015ba0c6c0f4acab05dc34afef2b71c4f0f9c3ec",
-    "id": 3949036602
   },
   {
     "link": "https://www.vinted.fr/items/5276912080-lego-star-wars-75347-tie-bomber",
     "price": 52.15,
     "title": "Lego star wars 75347 tie bomber",
     "imgUrl": "https://images1.vinted.net/t/02_01fcf_vjEAZi1EH3G9BpobtsSTRUQV/f800/1729876779.jpeg?s=9490f75fcb2ada82fb5bc6045ccec17211af228c",
+    "publicationDate": 1729876779,
     "id": 5276912080
   },
   {
-    "link": "https://www.vinted.fr/items/4371310868-lego-75347-le-bombardier-tie",
-    "price": 41.65,
-    "title": "Lego 75347 - Le bombardier TIE",
-    "imgUrl": "https://images1.vinted.net/t/01_01c53_czZCYc7rQswJQHTRHAGi6Pvo/f800/1713257337.jpeg?s=487305c086cf873047b5ea54734c2150501d2cb6",
-    "id": 4371310868
+    "link": "https://www.vinted.fr/items/3949036602-minifigurine-lego-star-wars-pilote-de-bombardier-tie-sw1251",
+    "price": 16.44,
+    "title": "Minifigurine LEGO Star Wars Pilote de bombardier TIE (sw1251)",
+    "imgUrl": "https://images1.vinted.net/t/02_01282_PcGG7dsUfY3x7up1iLEkYpw5/f800/1704620994.jpeg?s=015ba0c6c0f4acab05dc34afef2b71c4f0f9c3ec",
+    "publicationDate": 1704620994,
+    "id": 3949036602
   },
   {
     "link": "https://www.vinted.fr/items/2948250133-figura-lego-star-wars-gonk-droid-75347",
     "price": 5.95,
     "title": "Figura Lego Star Wars Gonk Droid 75347",
     "imgUrl": "https://images1.vinted.net/t/02_015e6_41HpJyadRW2tVST2C6oKka4b/f800/1682505604.jpeg?s=8eceb701bdacbd29713221e2a18bf8e58b27831f",
+    "publicationDate": 1682505604,
     "id": 2948250133
+  },
+  {
+    "link": "https://www.vinted.fr/items/4371310868-lego-75347-le-bombardier-tie",
+    "price": 41.65,
+    "title": "Lego 75347 - Le bombardier TIE",
+    "imgUrl": "https://images1.vinted.net/t/01_01c53_czZCYc7rQswJQHTRHAGi6Pvo/f800/1713257337.jpeg?s=487305c086cf873047b5ea54734c2150501d2cb6",
+    "publicationDate": 1713257337,
+    "id": 4371310868
   },
   {
     "link": "https://www.vinted.fr/items/4836202026-lego-star-wars",
     "price": 42.7,
     "title": "Lego star wars",
     "imgUrl": "https://images1.vinted.net/t/01_015cf_MjTcdij9g3QFpdZZmDXPJBkz/f800/1722544600.jpeg?s=b9ae1ea414fef74f2461fa65a0013315d3625244",
+    "publicationDate": 1722544600,
     "id": 4836202026
   },
   {
-    "link": "https://www.vinted.fr/items/5276542292-lego-star-wars-tie-bomber-75347",
+    "link": "https://www.vinted.fr/items/5326748589-lego-75347",
     "price": 53.2,
-    "title": "LEGO Star Wars - TIE Bomber 75347",
-    "imgUrl": "https://images1.vinted.net/t/04_025ed_2nwxdHtkxxeCoBqLg3YgVB76/f800/1729872310.jpeg?s=d3eaac3d87f3d6e71b33e98506e96eb597f62540",
-    "id": 5276542292
+    "title": "Lego 75347",
+    "imgUrl": "https://images1.vinted.net/t/04_0076e_cVuHiUa9DHUZ5aCFFXWpdBcM/f800/1730670348.jpeg?s=d6efd99cae9b4a7daa571d98d25432725db84fc3",
+    "publicationDate": 1730670348,
+    "id": 5326748589
   },
   {
     "link": "https://www.vinted.fr/items/5317405078-lego-star-wars-tie-bomber-75347",
     "price": 42.7,
     "title": "Lego Star Wars Tie bomber 75347",
     "imgUrl": "https://images1.vinted.net/t/01_017c4_oo5PHL6G1Hmhfjr2QLbHcvDJ/f800/1730559144.jpeg?s=30d1e53ad4cddb345044080d9eca5b29ae403e5d",
+    "publicationDate": 1730559144,
     "id": 5317405078
   },
   {
@@ -214,6 +244,7 @@
     "price": 47.95,
     "title": "Lego star wars 75347 Tie Bomber",
     "imgUrl": "https://images1.vinted.net/t/03_01247_M4zxCaoB4iFc1XEzbgfqUBNW/f800/1729235494.jpeg?s=c2a5f4e332152a3e59f4ecbe5a0fe291d51b9a09",
+    "publicationDate": 1729235494,
     "id": 5235408287
   },
   {
@@ -221,27 +252,23 @@
     "price": 47.95,
     "title": "Lego 75347 TIE bomber",
     "imgUrl": "https://images1.vinted.net/t/04_0046c_527qn1Rjm1bRVmwwaCSQg38D/f800/1730222218.jpeg?s=39727e7c7e1d0c0a58c0d01bb42de0725ff36c66",
+    "publicationDate": 1730222218,
     "id": 5299107653
   },
   {
-    "link": "https://www.vinted.fr/items/5326748589-lego-75347",
+    "link": "https://www.vinted.fr/items/5276542292-lego-star-wars-tie-bomber-75347",
     "price": 53.2,
-    "title": "Lego 75347",
-    "imgUrl": "https://images1.vinted.net/t/04_0076e_cVuHiUa9DHUZ5aCFFXWpdBcM/f800/1730670348.jpeg?s=d6efd99cae9b4a7daa571d98d25432725db84fc3",
-    "id": 5326748589
-  },
-  {
-    "link": "https://www.vinted.fr/items/4454843011-lego-star-wars-legor-bombardeiro",
-    "price": 47.95,
-    "title": "Lego Star Wars LEGO® Bombardeiro",
-    "imgUrl": "https://images1.vinted.net/t/01_021a7_DmiXu9espkwapYrp3bArqPtr/f800/1714819860.jpeg?s=f1bd86c10be896bccee709bc98b44d09b6685e07",
-    "id": 4454843011
+    "title": "LEGO Star Wars - TIE Bomber 75347",
+    "imgUrl": "https://images1.vinted.net/t/04_025ed_2nwxdHtkxxeCoBqLg3YgVB76/f800/1729872310.jpeg?s=d3eaac3d87f3d6e71b33e98506e96eb597f62540",
+    "publicationDate": 1729872310,
+    "id": 5276542292
   },
   {
     "link": "https://www.vinted.fr/items/5272834397-lego-75347",
     "price": 58.45,
     "title": "Lego 75347",
     "imgUrl": "https://images1.vinted.net/t/01_0116b_R3dfJSC2hvAHjcfrayF1QjDy/f800/1729796676.jpeg?s=abba48b98100ccc30b69270f69718dab3f16f844",
+    "publicationDate": 1729796676,
     "id": 5272834397
   },
   {
@@ -249,6 +276,7 @@
     "price": 68.95,
     "title": "LEGO Star Wars 75347 Le bombardier TIE",
     "imgUrl": "https://images1.vinted.net/t/02_010af_feedBZFkH3j4RNCfKdSDHDAx/f800/1729525762.jpeg?s=e64ab7fff76805c0f0c4b7f44547599501aedfb6",
+    "publicationDate": 1729525762,
     "id": 5256454623
   },
   {
@@ -256,13 +284,23 @@
     "price": 47.95,
     "title": "Lego Star Wars 75347 Tie Bomber",
     "imgUrl": "https://images1.vinted.net/t/03_010df_NiVg13RZr9aiBSFA6LDrmrwx/f800/1726753813.jpeg?s=4b3f8b74a6bbb6e82df1dba68c210b9c2c37b725",
+    "publicationDate": 1726753813,
     "id": 5071782929
+  },
+  {
+    "link": "https://www.vinted.fr/items/4454843011-lego-star-wars-legor-bombardeiro",
+    "price": 47.95,
+    "title": "Lego Star Wars LEGO® Bombardeiro",
+    "imgUrl": "https://images1.vinted.net/t/01_021a7_DmiXu9espkwapYrp3bArqPtr/f800/1714819860.jpeg?s=f1bd86c10be896bccee709bc98b44d09b6685e07",
+    "publicationDate": 1714819860,
+    "id": 4454843011
   },
   {
     "link": "https://www.vinted.fr/items/4919969869-lego-star-wars",
     "price": 65.8,
     "title": "Lego star wars",
     "imgUrl": "https://images1.vinted.net/t/03_01a40_MjLjA4GCpsQNS6gkVnRo4Aao/f800/1724271340.jpeg?s=bb3c4628e2b942cf4123a6b01c0d6765f3549518",
+    "publicationDate": 1724271340,
     "id": 4919969869
   },
   {
@@ -270,41 +308,55 @@
     "price": 47.95,
     "title": "Lego stars wars set 75347",
     "imgUrl": "https://images1.vinted.net/t/01_00cf9_yZsSbGPoUgyf5hAGG6zZCd9v/f800/1728668609.jpeg?s=47344d216dd8bcee31a5b20cfd5cf51500b54cb0",
+    "publicationDate": 1728668609,
     "id": 5199359812
-  },
-  {
-    "link": "https://www.vinted.fr/items/4525452804-lego-star-wars-75347-bombardero",
-    "price": 47.95,
-    "title": "Lego Star Wars 75347 Bombardero",
-    "imgUrl": "https://images1.vinted.net/t/03_01914_8xvykC9sCGUWUoro75fKP4dW/f800/1716132047.jpeg?s=a31012035ef30cb5c954a8c3f6ffeede15f65172",
-    "id": 4525452804
   },
   {
     "link": "https://www.vinted.fr/items/3903373962-lego-star-wars-75347-tie-bomber",
     "price": 56.35,
     "title": "Lego star wars 75347 Tie Bomber",
     "imgUrl": "https://images1.vinted.net/t/01_0023e_gDeTjh9KFiTrPTLUQw2HwHjn/f800/1703270680.jpeg?s=138c24843290573765603b8eab387bf44398d09e",
+    "publicationDate": 1703270680,
     "id": 3903373962
   },
   {
-    "link": "https://www.vinted.fr/items/4874164312-lego-star-wars",
+    "link": "https://www.vinted.fr/items/4525452804-lego-star-wars-75347-bombardero",
     "price": 47.95,
-    "title": "Lego Star wars",
-    "imgUrl": "https://images1.vinted.net/t/03_00083_rqaNTUnwqyTxnfPH6rwqjARt/f800/1723379371.jpeg?s=81b2dbddd4518dee4f8895a9187eaf1c4645e991",
-    "id": 4874164312
+    "title": "Lego Star Wars 75347 Bombardero",
+    "imgUrl": "https://images1.vinted.net/t/03_01914_8xvykC9sCGUWUoro75fKP4dW/f800/1716132047.jpeg?s=a31012035ef30cb5c954a8c3f6ffeede15f65172",
+    "publicationDate": 1716132047,
+    "id": 4525452804
   },
   {
     "link": "https://www.vinted.fr/items/4401032299-lego-starwars-75347",
     "price": 51.1,
     "title": "Lego starwars 75347",
     "imgUrl": "https://images1.vinted.net/t/03_01fba_UdQyCL2rKsbFr3WJ3RyDdiAd/f800/1713781070.jpeg?s=883809aec4ca8fe6e7bbc7012c309ad803b332be",
+    "publicationDate": 1713781070,
     "id": 4401032299
+  },
+  {
+    "link": "https://www.vinted.fr/items/4874164312-lego-star-wars",
+    "price": 47.95,
+    "title": "Lego Star wars",
+    "imgUrl": "https://images1.vinted.net/t/03_00083_rqaNTUnwqyTxnfPH6rwqjARt/f800/1723379371.jpeg?s=81b2dbddd4518dee4f8895a9187eaf1c4645e991",
+    "publicationDate": 1723379371,
+    "id": 4874164312
+  },
+  {
+    "link": "https://www.vinted.fr/items/3946293322-lego-star-wars-75347-bombardiers-tie",
+    "price": 50.05,
+    "title": "Lego Star Wars 75347 Bombardiers Tie ",
+    "imgUrl": "https://images1.vinted.net/t/01_01209_fYEB72xUwC5ShpewDfivjEHi/f800/1704551637.jpeg?s=66672404a6d7c7a1082ac151b6ebe81334edacef",
+    "publicationDate": 1704551637,
+    "id": 3946293322
   },
   {
     "link": "https://www.vinted.fr/items/4933374321-lego-75347-le-bombardier-tie",
     "price": 47.95,
     "title": "Lego 75347 Le bombardier Tie",
     "imgUrl": "https://images1.vinted.net/t/02_00afa_FrsHL2J4tCcYEQfXyhka6F98/f800/1724525997.jpeg?s=273676d0eb819655384a743c5ccdfa81399fa7df",
+    "publicationDate": 1724525997,
     "id": 4933374321
   },
   {
@@ -312,20 +364,15 @@
     "price": 63.7,
     "title": "Lego Star Wars 75347 TIE Bomber",
     "imgUrl": "https://images1.vinted.net/t/02_00c20_d6nAP6ooHjwH4c7x3FFtZnNC/f800/1709720569.jpeg?s=9e23745b7b354c2d621dd4bef3ff949c8560b870",
+    "publicationDate": 1709720569,
     "id": 4188082017
-  },
-  {
-    "link": "https://www.vinted.fr/items/3946293322-lego-star-wars-75347-bombardiers-tie",
-    "price": 50.05,
-    "title": "Lego Star Wars 75347 Bombardiers Tie ",
-    "imgUrl": "https://images1.vinted.net/t/01_01209_fYEB72xUwC5ShpewDfivjEHi/f800/1704551637.jpeg?s=66672404a6d7c7a1082ac151b6ebe81334edacef",
-    "id": 3946293322
   },
   {
     "link": "https://www.vinted.fr/items/4809039024-tie-bomber-lego-star-wars-75347",
     "price": 58.45,
     "title": "TIE Bomber - Lego Star Wars 75347",
     "imgUrl": "https://images1.vinted.net/t/03_0053c_E4YDJiLJKYk3kFXv2JLdjeo1/f800/1721929453.jpeg?s=73d5f1d6a2331dab3966704d13eff767146eb689",
+    "publicationDate": 1721929453,
     "id": 4809039024
   },
   {
@@ -333,6 +380,7 @@
     "price": 79.45,
     "title": "Lego Star Wars - Return of The Jedi - Pack X2 (75347+75320)",
     "imgUrl": "https://images1.vinted.net/t/03_019df_f7sUV1F8c8qPHxpxwNZnkcyE/f800/1725798341.jpeg?s=be33ede203c1bd3a540326c515293f39f2fb98b8",
+    "publicationDate": 1725798341,
     "id": 5005825048
   },
   {
@@ -340,6 +388,7 @@
     "price": 52.15,
     "title": "Lego Star Wars 75347",
     "imgUrl": "https://images1.vinted.net/t/03_00feb_zXXyMyFes83tMSaVUES2ongD/f800/1729097085.jpeg?s=625d8c124116836d1cdb21aff627d9c43be970ab",
+    "publicationDate": 1729097085,
     "id": 5228678710
   },
   {
@@ -347,20 +396,23 @@
     "price": 55.3,
     "title": "Lego Star Wars 75347 Tie Bomber No Minifigures ",
     "imgUrl": "https://images1.vinted.net/t/02_01b54_26svSR4rniF4VV2dAVCtNkzo/f800/1691919565.jpeg?s=84abec2a687b449f8c98afc129c1ff61f44931fa",
+    "publicationDate": 1691919565,
     "id": 3344832216
   },
   {
-    "link": "https://www.vinted.fr/items/5319666095-lego-star-wars-75347-tie-bomber",
-    "price": 61.6,
-    "title": "Lego - Star Wars - 75347 - TIE Bomber",
-    "imgUrl": "https://images1.vinted.net/t/04_0049a_WGr21CK6yt1giRBC3qRLdh17/f800/1730584138.jpeg?s=3da128088b9a89d252f0a9744b4fcc8a1e164f59",
-    "id": 5319666095
+    "link": "https://www.vinted.fr/items/5228798795-lego-75347-star-wars-ovp-usato-completo-con-scatola",
+    "price": 47.95,
+    "title": "Lego 75347 Star Wars - OVP (usato completo con scatola)",
+    "imgUrl": "https://images1.vinted.net/t/02_009fa_JNm1zXDWTn6vGB2ufQFfECvK/f800/1729098285.jpeg?s=a2581ddde3888c048e84a8dc40c6af4f9839279d",
+    "publicationDate": 1729098285,
+    "id": 5228798795
   },
   {
     "link": "https://www.vinted.fr/items/5230339435-lego-75347-bombardero-tie",
     "price": 53.2,
     "title": "Lego 75347 Bombardero TIE",
     "imgUrl": "https://images1.vinted.net/t/01_02564_3VM1Jnv2ViBdK54fWeXrS8sx/f800/1729142874.jpeg?s=e8a64b5006190f45210b510c19019fa730b25081",
+    "publicationDate": 1729142874,
     "id": 5230339435
   },
   {
@@ -368,6 +420,7 @@
     "price": 53.2,
     "title": "Lego 75347 tie bomber",
     "imgUrl": "https://images1.vinted.net/t/03_0244a_oQwFt873isLx31EaYZQnRqKu/f800/1699116658.jpeg?s=c173cca772eacc110f78fe666f3439e8c7c50bd7",
+    "publicationDate": 1699116658,
     "id": 3711354071
   },
   {
@@ -375,27 +428,31 @@
     "price": 58.45,
     "title": "Lego Star wars 75347 Tie Bomber ",
     "imgUrl": "https://images1.vinted.net/t/03_00e75_zre37cC49yhtEMPwyMYVyPxQ/f800/1703762136.jpeg?s=b8b0934bad82c1df1d6fb88537591ccc8fced3b3",
+    "publicationDate": 1703762136,
     "id": 3914240932
+  },
+  {
+    "link": "https://www.vinted.fr/items/5319666095-lego-star-wars-75347-tie-bomber",
+    "price": 61.6,
+    "title": "Lego - Star Wars - 75347 - TIE Bomber",
+    "imgUrl": "https://images1.vinted.net/t/04_0049a_WGr21CK6yt1giRBC3qRLdh17/f800/1730584138.jpeg?s=3da128088b9a89d252f0a9744b4fcc8a1e164f59",
+    "publicationDate": 1730584138,
+    "id": 5319666095
   },
   {
     "link": "https://www.vinted.fr/items/5304425151-lego-star-wars-75347-novo",
     "price": 63.7,
     "title": "Lego Star Wars 75347 novo",
     "imgUrl": "https://images1.vinted.net/t/01_00ed2_sRjnVNfWihmpe4ALatHe68dF/f800/1730313857.jpeg?s=ac9439f1d99eca956b8477039775c3a5c758811b",
+    "publicationDate": 1730313857,
     "id": 5304425151
-  },
-  {
-    "link": "https://www.vinted.fr/items/5228798795-lego-75347-star-wars-ovp-usato-completo-con-scatola",
-    "price": 47.95,
-    "title": "Lego 75347 Star Wars - OVP (usato completo con scatola)",
-    "imgUrl": "https://images1.vinted.net/t/02_009fa_JNm1zXDWTn6vGB2ufQFfECvK/f800/1729098285.jpeg?s=a2581ddde3888c048e84a8dc40c6af4f9839279d",
-    "id": 5228798795
   },
   {
     "link": "https://www.vinted.fr/items/3270235524-set-lego-75347-tie-bomber-nuovo-scatola-perfetta",
     "price": 53.2,
     "title": "Set lego 75347 tie bomber. Nuovo, scatola perfetta",
     "imgUrl": "https://images1.vinted.net/t/01_020f4_aH5rUX1bVwP9MqszzpdqPfUb/f800/1690127426.jpeg?s=f2fcf26c876880262176c0b96747f88410e57e8e",
+    "publicationDate": 1690127426,
     "id": 3270235524
   },
   {
@@ -403,20 +460,15 @@
     "price": 55.3,
     "title": "Lego Star Wars 75347 NUEVO ",
     "imgUrl": "https://images1.vinted.net/t/01_02602_h9VymLY99iAm1atCkpGipyU7/f800/1702414067.jpeg?s=230dc9b745a1ae1ec3f7b1117d3206282fee2cc7",
+    "publicationDate": 1702414067,
     "id": 3848307547
-  },
-  {
-    "link": "https://www.vinted.fr/items/4602891405-lego-75347",
-    "price": 55.3,
-    "title": "lego 75347",
-    "imgUrl": "https://images1.vinted.net/t/02_01e87_NofjmpaMziCb9JKV46XRuH7r/f800/r3/1717599636.jpeg?s=acaa4cd841487f31056b49f982cb5aebd313daad",
-    "id": 4602891405
   },
   {
     "link": "https://www.vinted.fr/items/3897459929-lego-star-wars-75347",
     "price": 63.7,
     "title": "Lego star Wars 75347",
     "imgUrl": "https://images1.vinted.net/t/01_005c1_RmjFqTdsAg7R9jR1YAsZwfQ3/f800/1703016218.jpeg?s=d6f167cb592a734ec24a4f8b7406826f94480e3e",
+    "publicationDate": 1703016218,
     "id": 3897459929
   },
   {
@@ -424,27 +476,31 @@
     "price": 63.7,
     "title": "Star wars lego référence 75347 vaisseau le bombardier Tie ",
     "imgUrl": "https://images1.vinted.net/t/03_01795_FginsrPR9QbF1LN4GWrYcE4W/f800/1701683017.jpeg?s=970e3e5672d4bba54846d9630dadebd4767788c4",
+    "publicationDate": 1701683017,
     "id": 3843581133
-  },
-  {
-    "link": "https://www.vinted.fr/items/3970986240-lego-star-wars-le-bombardier-753479-ans-et-plus",
-    "price": 58.45,
-    "title": "Lego star wars le bombardier 75347(9 ans et plus)",
-    "imgUrl": "https://images1.vinted.net/t/03_00b0e_LCchBYyL5AeUbcwYaPXXR8Up/f800/1705095884.jpeg?s=8b7b27d71cfb5d71b9f274e34691556a2ca54d71",
-    "id": 3970986240
   },
   {
     "link": "https://www.vinted.fr/items/3978372195-boite-lego-stars-wars-75347",
     "price": 61.6,
     "title": "Boîte lego stars Wars 75347",
     "imgUrl": "https://images1.vinted.net/t/02_0067f_2onrYBiMF3LD2DZv2mEQrJdr/f800/1705246631.jpeg?s=f4fd0b7e579ba8c39589b140ae54d0f6304894e3",
+    "publicationDate": 1705246631,
     "id": 3978372195
+  },
+  {
+    "link": "https://www.vinted.fr/items/3970986240-lego-star-wars-le-bombardier-753479-ans-et-plus",
+    "price": 58.45,
+    "title": "Lego star wars le bombardier 75347(9 ans et plus)",
+    "imgUrl": "https://images1.vinted.net/t/03_00b0e_LCchBYyL5AeUbcwYaPXXR8Up/f800/1705095884.jpeg?s=8b7b27d71cfb5d71b9f274e34691556a2ca54d71",
+    "publicationDate": 1705095884,
+    "id": 3970986240
   },
   {
     "link": "https://www.vinted.fr/items/3954848287-lego-star-wars-75347",
     "price": 63.7,
     "title": "Lego star wars 75347",
     "imgUrl": "https://images1.vinted.net/t/03_0080a_QCmaLePiQBqnhxGyWwvmsdas/f800/1704713651.jpeg?s=6ca4273408d71c9b095c357fb47e932ef750e3c2",
+    "publicationDate": 1704713651,
     "id": 3954848287
   },
   {
@@ -452,6 +508,7 @@
     "price": 68.95,
     "title": "Lego star wars réf 75347 le bombardier Tie ",
     "imgUrl": "https://images1.vinted.net/t/03_025b8_DkRyUMtB6pk8qNAbMeJuGzPp/f800/1700918719.jpeg?s=c1879a52cfe672a05d3eeff09c35e13d02c8da09",
+    "publicationDate": 1700918719,
     "id": 3806822020
   },
   {
@@ -459,6 +516,7 @@
     "price": 53.2,
     "title": "LEGO 75347 Star Wars Bombardero Tie",
     "imgUrl": "https://images1.vinted.net/t/03_0032f_VbLwSmVhy582wHoGJfk61KAi/f800/1721234052.jpeg?s=332724236c7a80f6f6e44d6ecf53053e0ed7a8e3",
+    "publicationDate": 1721234052,
     "id": 4777329655
   },
   {
@@ -466,6 +524,7 @@
     "price": 53.2,
     "title": "LEGO Star Wars 75347. Bombardero TIE. ",
     "imgUrl": "https://images1.vinted.net/t/03_01f2a_hkfZrePgxk6cmmD583jJJWu9/f800/1704406449.jpeg?s=6765123954e14ff30b77004eaec9736190292d6b",
+    "publicationDate": 1704406449,
     "id": 3940462356
   },
   {
@@ -473,6 +532,7 @@
     "price": 63.7,
     "title": "Lego 75347 star wars le bombardier Tie ",
     "imgUrl": "https://images1.vinted.net/t/02_016dc_i8tJ1qZTS4gSE1nGsN4Ae46w/f800/1682943512.jpeg?s=feae7792589e36d3ed2a4808daf0fe4d82a82ef6",
+    "publicationDate": 1682943512,
     "id": 2967169103
   },
   {
@@ -480,34 +540,47 @@
     "price": 53.2,
     "title": "Lego 75347",
     "imgUrl": "https://images1.vinted.net/t/03_00632_eUpXi5DNoY3bMzKZ3xEuvKhU/f800/1718868762.jpeg?s=1ca9b3e7a15efa4a362ad174a5de3d4d33bf7460",
+    "publicationDate": 1718868762,
     "id": 4665249871
-  },
-  {
-    "link": "https://www.vinted.fr/items/4991019722-lego-tie-bomber-75347",
-    "price": 63.7,
-    "title": "Lego TIE Bomber 75347",
-    "imgUrl": "https://images1.vinted.net/t/01_0144e_PJaAGVEU48o6ye2poLAL9xhZ/f800/1725541359.jpeg?s=aa37259d2fb477bd44b58bc274672fa6a36dc028",
-    "id": 4991019722
   },
   {
     "link": "https://www.vinted.fr/items/4114558293-lego-tie-bomber-75347-star-wars",
     "price": 58.45,
     "title": "LEGO Tie Bomber 75347 star wars",
     "imgUrl": "https://images1.vinted.net/t/01_020d8_Xcjqg6aNVuitMKAbzS75jtnw/f800/1708253178.jpeg?s=d0d88fc5e8973c222c8e9b82837d89ff070052ec",
+    "publicationDate": 1708253178,
     "id": 4114558293
+  },
+  {
+    "link": "https://www.vinted.fr/items/4991019722-lego-tie-bomber-75347",
+    "price": 63.7,
+    "title": "Lego TIE Bomber 75347",
+    "imgUrl": "https://images1.vinted.net/t/01_0144e_PJaAGVEU48o6ye2poLAL9xhZ/f800/1725541359.jpeg?s=aa37259d2fb477bd44b58bc274672fa6a36dc028",
+    "publicationDate": 1725541359,
+    "id": 4991019722
   },
   {
     "link": "https://www.vinted.fr/items/4207329634-lego-star-wars-75347-le-bombardier-tie",
     "price": 63.7,
     "title": "Lego Star Wars 75347: le Bombardier TIE",
     "imgUrl": "https://images1.vinted.net/t/02_011d8_d9hNUVhMFfyKqxrs82WVDZrp/f800/1710093597.jpeg?s=4e11593d909300be4aa746c869921fd96032568c",
+    "publicationDate": 1710093597,
     "id": 4207329634
+  },
+  {
+    "link": "https://www.vinted.fr/items/4602891405-lego-75347",
+    "price": 55.3,
+    "title": "lego 75347",
+    "imgUrl": "https://images1.vinted.net/t/02_01e87_NofjmpaMziCb9JKV46XRuH7r/f800/r3/1717599636.jpeg?s=acaa4cd841487f31056b49f982cb5aebd313daad",
+    "publicationDate": 1717599636,
+    "id": 4602891405
   },
   {
     "link": "https://www.vinted.fr/items/3881561018-lego-star-wars-75347",
     "price": 53.2,
     "title": "Lego Star Wars 75347",
     "imgUrl": "https://images1.vinted.net/t/03_01fdd_xwzhKWMTqfMxfUArZpqY889p/f800/1702555793.jpeg?s=67b6258d131247abb438ad16c9f739a61fac7e2a",
+    "publicationDate": 1702555793,
     "id": 3881561018
   },
   {
@@ -515,6 +588,7 @@
     "price": 63.7,
     "title": "Lego Star Wars 75347 - Tie Bomber",
     "imgUrl": "https://images1.vinted.net/t/02_0033c_9pZG4MuHQpFnbYHFovqHUvU4/f800/1716281944.jpeg?s=b84a13d3ec7e1d68313b120be426e59ad0e04b44",
+    "publicationDate": 1716281944,
     "id": 4533958341
   },
   {
@@ -522,6 +596,7 @@
     "price": 58.45,
     "title": "Lego star wars  75347 Tie Bomber",
     "imgUrl": "https://images1.vinted.net/t/02_01a8b_BEeQ54qxMeAEVkFDDhZRC1eQ/f800/r3/1716473635.jpeg?s=ee607b23ac3d2515198138502a495e4c763b7aec",
+    "publicationDate": 1716473635,
     "id": 4518431478
   },
   {
@@ -529,6 +604,7 @@
     "price": 63.7,
     "title": "Lego star wars 75347",
     "imgUrl": "https://images1.vinted.net/t/03_00d5f_5HLhA5QdAaHUKVaUetDw3ePH/f800/1708378630.jpeg?s=35535fa7423d45efc34099dedcbb8d442b632b26",
+    "publicationDate": 1708378630,
     "id": 4123100909
   },
   {
@@ -536,6 +612,7 @@
     "price": 58.35,
     "title": "Neuf Lego Star Wars 75347 Tie Bomber Le Bombardier Tie",
     "imgUrl": "https://images1.vinted.net/t/02_009a1_DsJRQEeLRGiP2SvHSD1HhP6N/f800/1683906176.jpeg?s=aa01e81d678bb02395908027c02307335f2bc19a",
+    "publicationDate": 1683906176,
     "id": 3011953358
   },
   {
@@ -543,6 +620,7 @@
     "price": 58.45,
     "title": "Lego 75347 TIE Bomber",
     "imgUrl": "https://images1.vinted.net/t/03_011ca_cZNLPWHF35rKkaGyZbFy26pH/f800/1695404000.jpeg?s=898d022a5ce30a4132636aebe5543fc0e712e769",
+    "publicationDate": 1695404000,
     "id": 3508060271
   },
   {
@@ -550,6 +628,7 @@
     "price": 47.95,
     "title": "Lego 75347 star wars",
     "imgUrl": "https://images1.vinted.net/t/02_015db_A8HDQgoSvg6qy9iq5Ajs4LJT/f800/1707055115.jpeg?s=14aa6e3df235a3aa9d79ad76233a225b3ced6d29",
+    "publicationDate": 1707055115,
     "id": 4061164292
   },
   {
@@ -557,6 +636,7 @@
     "price": 63.7,
     "title": "Lego Star Wars 75347 bombardero Tie",
     "imgUrl": "https://images1.vinted.net/t/02_000a1_SG6xVZcDnUTo9CKLcqy2Sh7N/f800/1717939173.jpeg?s=9f425ea2ba873fe463e4f2a16fa435f702ae9b6c",
+    "publicationDate": 1717939173,
     "id": 4618780270
   },
   {
@@ -564,6 +644,7 @@
     "price": 58.45,
     "title": "Lego Star Wars 75347",
     "imgUrl": "https://images1.vinted.net/t/01_025a8_6ejqodexBGYnje574iwupbpU/f800/1684678869.jpeg?s=ed3b2a415229bb8c93bb7057b877f2c1f42effe7",
+    "publicationDate": 1684678869,
     "id": 3046072661
   },
   {
@@ -571,27 +652,31 @@
     "price": 68.95,
     "title": "LEGO 75347 Star Wars - TIE Bomber include 4 minifigures",
     "imgUrl": "https://images1.vinted.net/t/02_00d36_24HdACydcZwe79PAFP9Y3JnN/f800/1708781827.jpeg?s=62cd7e9f50252fa1c3f4e09ebf7f55cd28983396",
+    "publicationDate": 1708781827,
     "id": 4140846850
-  },
-  {
-    "link": "https://www.vinted.fr/items/4685532027-lego-star-wars-tie-bomber-75347-gebruikt",
-    "price": 53.2,
-    "title": "LEGO Star Wars TIE Bomber (75347) - Gebruikt",
-    "imgUrl": "https://images1.vinted.net/t/02_00a8b_Gy2RhKtmf4mm2jZkkrjHNEas/f800/1719306458.jpeg?s=c3080ecc8f7fae3d7007c7341b3f5d0342049fef",
-    "id": 4685532027
   },
   {
     "link": "https://www.vinted.fr/items/4178592617-set-lego-bomber-star-wars-75347",
     "price": 63.7,
     "title": "Set Lego Bomber Star Wars 75347",
     "imgUrl": "https://images1.vinted.net/t/01_00846_rC7YWtc5N2igj1jcFMEQyAv3/f800/1709498274.jpeg?s=d61a73da1ab637fecd4a9c0f8bdb56cb01d70adf",
+    "publicationDate": 1709498274,
     "id": 4178592617
+  },
+  {
+    "link": "https://www.vinted.fr/items/4685532027-lego-star-wars-tie-bomber-75347-gebruikt",
+    "price": 53.2,
+    "title": "LEGO Star Wars TIE Bomber (75347) - Gebruikt",
+    "imgUrl": "https://images1.vinted.net/t/02_00a8b_Gy2RhKtmf4mm2jZkkrjHNEas/f800/1719306458.jpeg?s=c3080ecc8f7fae3d7007c7341b3f5d0342049fef",
+    "publicationDate": 1719306458,
+    "id": 4685532027
   },
   {
     "link": "https://www.vinted.fr/items/3927775155-pack-2-legos-star-wars",
     "price": 82.6,
     "title": "Pack 2 legos Star Wars",
     "imgUrl": "https://images1.vinted.net/t/02_0095f_HH1JVNiLmFq52BEMreqrxjCF/f800/1704132083.jpeg?s=800f52f8b9c9c88593506663dc75883fa1ae83f9",
+    "publicationDate": 1704132083,
     "id": 3927775155
   },
   {
@@ -599,6 +684,7 @@
     "price": 68.95,
     "title": "LEGO Star Wars Bombardero TIE 75347",
     "imgUrl": "https://images1.vinted.net/t/03_01f58_z1bjK9Xdqwhf2NUtXiuSmb6E/f800/1716223025.jpeg?s=9b08d82e5961140d4ff308cbe1f797bf3d72a6eb",
+    "publicationDate": 1716223025,
     "id": 4531631566
   },
   {
@@ -606,6 +692,7 @@
     "price": 236.95,
     "title": "Lego set: 75337, 75312, 75347 en 75324",
     "imgUrl": "https://images1.vinted.net/t/04_007e8_ZmJwEQvcaMZsoVhHKCF7vtPz/f800/1730214722.jpeg?s=a1e7b1a39d856ca251a47ba87606e90039e5f050",
+    "publicationDate": 1730214722,
     "id": 5298356771
   },
   {
@@ -613,6 +700,7 @@
     "price": 68.95,
     "title": "LEGO Star Wars - TIE Bomber - 75347",
     "imgUrl": "https://images1.vinted.net/t/03_01ef8_gEB4TaGZgiMFEsg3miZ3UGJN/f800/1700080291.jpeg?s=d7d9b8c0325acf1dda72533bad294c093ae8eb2c",
+    "publicationDate": 1700080291,
     "id": 3763612983
   },
   {
@@ -620,6 +708,7 @@
     "price": 52.68,
     "title": "LEGO Star Wars  - 75347-TIE Bomber",
     "imgUrl": "https://images1.vinted.net/t/01_001e9_n6qT78fLQDp6jLg8JmbvJ3xm/f800/r3/1681925584.jpeg?s=6618204ea56d86909ac905da0048c8b5f1dc8b47",
+    "publicationDate": 1681925584,
     "id": 2923428505
   },
   {
@@ -627,6 +716,7 @@
     "price": 146.65,
     "title": "Pack 2 legos Star wars ",
     "imgUrl": "https://images1.vinted.net/t/03_02207_W8YD7esJpGxkLxLUNHFS37Nh/f800/1704024826.jpeg?s=c94b716f9052e245865ca71aadcbdf089c2558d2",
+    "publicationDate": 1704024826,
     "id": 3924372280
   },
   {
@@ -634,6 +724,7 @@
     "price": 61.5,
     "title": "Lego Star Wars 75347",
     "imgUrl": "https://images1.vinted.net/t/02_003b8_NR7P5WPvnnr5dXn9sSvVhMxW/f800/1701981444.jpeg?s=d05e75b78247433a2ded8fc7ed7e9741d08882e6",
+    "publicationDate": 1701981444,
     "id": 3857181228
   },
   {
@@ -641,6 +732,7 @@
     "price": 336.7,
     "title": "Lego Star Wars ultimate Bundle of Seven too StarWars",
     "imgUrl": "https://images1.vinted.net/t/02_00f82_HJ8NBEc6jpC8qYegjA9pyXut/f800/1709475900.jpeg?s=58a8aa325e7a8cc13f9cb94dafd9d0bbb7c49636",
+    "publicationDate": 1709475900,
     "id": 4176002336
   },
   {
@@ -648,6 +740,7 @@
     "price": 105.7,
     "title": "Lot Lego Marvel en boîte neuf",
     "imgUrl": "https://images1.vinted.net/t/03_00cd9_sdFhkLpEvEGosp3Eiq5JLSv4/f800/1721818394.jpeg?s=c6bb4c577e6b8d4a3d3729b9bc812e5fdc85ffd4",
+    "publicationDate": 1721818394,
     "id": 4802984716
   },
   {
@@ -655,6 +748,7 @@
     "price": 89.95,
     "title": "Lot Lego star wars neuf en boîte",
     "imgUrl": "https://images1.vinted.net/t/02_026de_m91uJbEzNDpnEaHkdxGkUBBn/f800/1721818021.jpeg?s=7fa3efe5f890a0759aaaf056a1924a104bf0b8c7",
+    "publicationDate": 1721818021,
     "id": 4802955477
   },
   {
@@ -662,6 +756,7 @@
     "price": 231.7,
     "title": "Lotto lego star wars sigillati ",
     "imgUrl": "https://images1.vinted.net/t/01_01e7f_yozme9itdjtoBUg2tJzngfHw/f800/1708271421.jpeg?s=9c1c5d7c58db83e940ee378f6520e5690ce8ab6a",
+    "publicationDate": 1708271421,
     "id": 4116923934
   },
   {
@@ -669,6 +764,7 @@
     "price": 126.7,
     "title": "Lot Lego super Mario en boîte neuf",
     "imgUrl": "https://images1.vinted.net/t/03_02038_8GsnfLE5AzYQy2piE8GCwZ8i/f800/1721818244.jpeg?s=558fe44df645acfcede1a8d517bb8ffa4acb0ccc",
+    "publicationDate": 1721818244,
     "id": 4802973017
   },
   {
@@ -676,6 +772,7 @@
     "price": 221.2,
     "title": "Lot Lego Minecraft neuf en boite",
     "imgUrl": "https://images1.vinted.net/t/01_01702_9LwYkVv5Wnm7RRhnim5nHofa/f800/1722007950.jpeg?s=51a4f71117c9969d12079545210ade8cb5ce3468",
+    "publicationDate": 1722007950,
     "id": 4812168509
   },
   {
@@ -683,6 +780,7 @@
     "price": 168.7,
     "title": "Lot Lego harry Potter en boîte neuf",
     "imgUrl": "https://images1.vinted.net/t/01_0138c_pWGDseGjEdNDC5QiXnvLHaTR/f800/1721818145.jpeg?s=ad2bb4f2ee50ac7dba9389347a4ce4d343b70bc6",
+    "publicationDate": 1721818145,
     "id": 4802965283
   }
 ]

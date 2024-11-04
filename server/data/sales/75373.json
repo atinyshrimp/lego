@@ -1,65 +1,50 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5298905536-lego-star-wars-75373-embuscade-sur-mandalore-sans-figurine",
-    "price": 5.95,
-    "title": "Lego star wars 75373 Embuscade sur Mandalore *Sans Figurine*",
-    "imgUrl": "https://images1.vinted.net/t/03_02020_S9CZJL98Aqb5QxfL3CehRVah/f800/1730220038.jpeg?s=22cb6e20b5b3275b2a95fc09203c1741af9c4a09",
-    "id": 5298905536
-  },
-  {
     "link": "https://www.vinted.fr/items/4962142553-lego-star-wars-75391",
     "price": 4.9,
     "title": "Lego star wars 75391",
     "imgUrl": "https://images1.vinted.net/t/02_0184f_QU4vJeJQZy4xnQPtLzi3hU5d/f800/1725030613.jpeg?s=e2920a21ed737c5608b8a679b0e6e4faca232a21",
+    "publicationDate": 1725030613,
     "id": 4962142553
-  },
-  {
-    "link": "https://www.vinted.fr/items/5324303941-lego-star-wars-neuf",
-    "price": 13.3,
-    "title": "Lego Star Wars neuf",
-    "imgUrl": "https://images1.vinted.net/t/04_00a17_xh8zWKbbUcLRwBfnbyghbGSk/f800/1730649558.jpeg?s=b413490ea798b738bc28769e62ae6a970c94b475",
-    "id": 5324303941
   },
   {
     "link": "https://www.vinted.fr/items/4721270629-lego-75373-sans-figurine",
     "price": 7,
     "title": "Lego 75373 sans figurine",
     "imgUrl": "https://images1.vinted.net/t/02_000b8_bokuA6Dmi736eqLhxHEAneKN/f800/1720079666.jpeg?s=25a11112c87e80bb324960fec34bf481882cc65c",
+    "publicationDate": 1720079666,
     "id": 4721270629
-  },
-  {
-    "link": "https://www.vinted.fr/items/4601013441-lego-75373-senza-minifigures-e-le-loro-armi",
-    "price": 5.95,
-    "title": "Lego 75373 senza Minifigures e le loro armi",
-    "imgUrl": "https://images1.vinted.net/t/01_005a7_HFLapk5kdEHLpzxvZqUa4F49/f800/1717576084.jpeg?s=b3dd4e30a133019827047fb444938588c0ef2f95",
-    "id": 4601013441
-  },
-  {
-    "link": "https://www.vinted.fr/items/5272658955-lego-star-wars-75373-pack-de-combat-de-lembuscade-sur-mandalore",
-    "price": 14.35,
-    "title": "Lego Star Wars 75373 Pack de Combat de l’Embuscade sur Mandalore",
-    "imgUrl": "https://images1.vinted.net/t/04_001f2_x3aQKVaMLumgtahZnXywZvbs/f800/1729794422.jpeg?s=c51d583b07581dec50f58bd40023ee943fc717ea",
-    "id": 5272658955
-  },
-  {
-    "link": "https://www.vinted.fr/items/5212068262-lego-75373-star-wars-battle-pack-neuf",
-    "price": 13.3,
-    "title": "Lego 75373 : Star Wars / Battle Pack : Neuf",
-    "imgUrl": "https://images1.vinted.net/t/01_0093f_BN2yxcYFmbJpbPsdYoemXUDx/f800/1728838166.jpeg?s=bf4bffdd0f606501620c451643287f2234487383",
-    "id": 5212068262
   },
   {
     "link": "https://www.vinted.fr/items/4647815142-lego-star-wars-imperial-commando-sw1346",
     "price": 5.95,
     "title": "Lego Star Wars Imperial Commando (Sw1346)",
     "imgUrl": "https://images1.vinted.net/t/01_00a49_TxBsdwLVXdhJ9KZtCDM1Xy2B/f800/1718526244.jpeg?s=4f0e666c7c4010bea4cd6a545f28bbcf26761c8d",
+    "publicationDate": 1718526244,
     "id": 4647815142
+  },
+  {
+    "link": "https://www.vinted.fr/items/5212068262-lego-75373-star-wars-battle-pack-neuf",
+    "price": 13.3,
+    "title": "Lego 75373 : Star Wars / Battle Pack : Neuf",
+    "imgUrl": "https://images1.vinted.net/t/01_0093f_BN2yxcYFmbJpbPsdYoemXUDx/f800/1728838166.jpeg?s=bf4bffdd0f606501620c451643287f2234487383",
+    "publicationDate": 1728838166,
+    "id": 5212068262
+  },
+  {
+    "link": "https://www.vinted.fr/items/5272658955-lego-star-wars-75373-pack-de-combat-de-lembuscade-sur-mandalore",
+    "price": 14.35,
+    "title": "Lego Star Wars 75373 Pack de Combat de l’Embuscade sur Mandalore",
+    "imgUrl": "https://images1.vinted.net/t/04_001f2_x3aQKVaMLumgtahZnXywZvbs/f800/1729794422.jpeg?s=c51d583b07581dec50f58bd40023ee943fc717ea",
+    "publicationDate": 1729794422,
+    "id": 5272658955
   },
   {
     "link": "https://www.vinted.fr/items/4614207297-lego-star-wars-75373-figurine-sw1345-commando-mandalorian-warrior-night-owl-neuf-100-lego-inedit",
     "price": 6.95,
     "title": "Lego star wars 75373 figurine sw1345 Commando Mandalorian Warrior night owl Neuf 100% lego Inédit",
     "imgUrl": "https://images1.vinted.net/t/01_0129c_hraNwxTDq77wVLRyRR18v1jw/f800/1717852043.jpeg?s=2deba4471850aa71ba462fac61563c5f4b0c3f3f",
+    "publicationDate": 1717852043,
     "id": 4614207297
   },
   {
@@ -67,27 +52,39 @@
     "price": 5.43,
     "title": "LEGO Star Wars - Imperial Commando SW1346",
     "imgUrl": "https://images1.vinted.net/t/01_01579_p7Bqfz5FoQtf5jTphmQJCeZe/f800/1725050125.jpeg?s=22e07b1106302f322b4213b92f043b3a0eb33fae",
+    "publicationDate": 1725050125,
     "id": 4963541271
-  },
-  {
-    "link": "https://www.vinted.fr/items/4772896922-lego-set-75373-mini-figurine-imperial-commando-sw1346-neuf",
-    "price": 5.95,
-    "title": "Lego set 75373 mini figurine impérial commando sw1346 Neuf",
-    "imgUrl": "https://images1.vinted.net/t/03_01cf2_rNmiQeDyhpMBzpPmZXjE1fJ2/f800/1721143570.jpeg?s=b487847c8d3680e7cc628fdec75eb6bda48e6a8d",
-    "id": 4772896922
   },
   {
     "link": "https://www.vinted.fr/items/4804466286-lot-lego-star-wars",
     "price": 18.55,
     "title": "Lot lego star wars",
     "imgUrl": "https://images1.vinted.net/t/02_0010b_rrDQ4tyzDG8toQ6SdEtaE1t8/f800/1721835551.jpeg?s=2ae876ef58f3a4c6f08164df68da8616a671ea3a",
+    "publicationDate": 1721835551,
     "id": 4804466286
+  },
+  {
+    "link": "https://www.vinted.fr/items/4772896922-lego-set-75373-mini-figurine-imperial-commando-sw1346-neuf",
+    "price": 5.95,
+    "title": "Lego set 75373 mini figurine impérial commando sw1346 Neuf",
+    "imgUrl": "https://images1.vinted.net/t/03_01cf2_rNmiQeDyhpMBzpPmZXjE1fJ2/f800/1721143570.jpeg?s=b487847c8d3680e7cc628fdec75eb6bda48e6a8d",
+    "publicationDate": 1721143570,
+    "id": 4772896922
+  },
+  {
+    "link": "https://www.vinted.fr/items/5269258604-lego-star-wars-imperial-commando",
+    "price": 5.95,
+    "title": "Lego Star Wars: Impérial Commando",
+    "imgUrl": "https://images1.vinted.net/t/04_010f7_W84RNGXjK8AuRFXxht9ArWwH/f800/1729758744.jpeg?s=45a1ec612d2246d745d1cf139704bf4b24482634",
+    "publicationDate": 1729758744,
+    "id": 5269258604
   },
   {
     "link": "https://www.vinted.fr/items/5057654654-lego-starwars",
     "price": 16.45,
     "title": "Lego StarWars",
     "imgUrl": "https://images1.vinted.net/t/03_009ad_yUuN1MJDpqU5D5iLvRdYtHNf/f800/1726511563.jpeg?s=0e83c0bb911102dfe5d8e32ce4fe82457cec3a24",
+    "publicationDate": 1726511563,
     "id": 5057654654
   },
   {
@@ -95,20 +92,23 @@
     "price": 11.2,
     "title": "Lego star wars 75373 ambush on mandalore battle pack",
     "imgUrl": "https://images1.vinted.net/t/02_020c8_CQvMLWJZGiMKCPHUqTGEMFnW/f800/1723320975.jpeg?s=70136d3c43edcada175e5f1237689d347ba2c4e3",
+    "publicationDate": 1723320975,
     "id": 4872362596
   },
   {
-    "link": "https://www.vinted.fr/items/5269258604-lego-star-wars-imperial-commando",
+    "link": "https://www.vinted.fr/items/4601013441-lego-75373-senza-minifigures-e-le-loro-armi",
     "price": 5.95,
-    "title": "Lego Star Wars: Impérial Commando",
-    "imgUrl": "https://images1.vinted.net/t/04_010f7_W84RNGXjK8AuRFXxht9ArWwH/f800/1729758744.jpeg?s=45a1ec612d2246d745d1cf139704bf4b24482634",
-    "id": 5269258604
+    "title": "Lego 75373 senza Minifigures e le loro armi",
+    "imgUrl": "https://images1.vinted.net/t/01_005a7_HFLapk5kdEHLpzxvZqUa4F49/f800/1717576084.jpeg?s=b3dd4e30a133019827047fb444938588c0ef2f95",
+    "publicationDate": 1717576084,
+    "id": 4601013441
   },
   {
     "link": "https://www.vinted.fr/items/4637900006-lego-star-wars-75373-figurine-sw1344-commando-mandalorian-warrior-night-owl-neuf-100-lego-inedit",
     "price": 6.95,
     "title": "Lego star wars 75373 figurine sw1344 Commando Mandalorian Warrior night owl Neuf 100% lego Inédit",
     "imgUrl": "https://images1.vinted.net/t/03_00c36_VccmckCiiULMgUcPe6k1qpSp/f800/1718292125.jpeg?s=5dafc7b3407f6b360ec534d6cfebd66419a080d0",
+    "publicationDate": 1718292125,
     "id": 4637900006
   },
   {
@@ -116,6 +116,7 @@
     "price": 7,
     "title": "LEGO Star wars Imperial Commando Minifigure sw1346",
     "imgUrl": "https://images1.vinted.net/t/04_00b98_T2vKQnMRLK8Q2ARE74ui2uuT/f800/1729688302.jpeg?s=b72f3c91e83273505099713793ee601ec313046c",
+    "publicationDate": 1729688302,
     "id": 5265798675
   },
   {
@@ -123,27 +124,31 @@
     "price": 20.39,
     "title": "75373 LEGO Star Wars L’embuscade du Mandalorien sur le pack de combat de Mandalore",
     "imgUrl": "https://images1.vinted.net/t/01_00035_rGNJ3tN46DXCocJu9DFmZctA/f800/1728490954.jpeg?s=c849e41452af72b456f14493c2499fd61722d3c5",
+    "publicationDate": 1728490954,
     "id": 5188808734
-  },
-  {
-    "link": "https://www.vinted.fr/items/5251641060-lego-75373",
-    "price": 17.5,
-    "title": "lego 75373",
-    "imgUrl": "https://images1.vinted.net/t/03_00143_rx3ABhrhmWmcFVyA8tuJP545/f800/1729447328.jpeg?s=0cc2d982ea96f396be6284ce90cc9288a3f7bd7c",
-    "id": 5251641060
   },
   {
     "link": "https://www.vinted.fr/items/4674877778-lego-mandalorian-set-75373",
     "price": 8.58,
     "title": "Lego 💯% mandalorian set 75373",
     "imgUrl": "https://images1.vinted.net/t/03_00d47_yoQGUkPNThCFG1UE9QXvmGeP/f800/1719073780.jpeg?s=d7cf6d2f6026aa746b2f47b79f44089f6f5a36d6",
+    "publicationDate": 1719073780,
     "id": 4674877778
+  },
+  {
+    "link": "https://www.vinted.fr/items/5251641060-lego-75373",
+    "price": 17.5,
+    "title": "lego 75373",
+    "imgUrl": "https://images1.vinted.net/t/03_00143_rx3ABhrhmWmcFVyA8tuJP545/f800/1729447328.jpeg?s=0cc2d982ea96f396be6284ce90cc9288a3f7bd7c",
+    "publicationDate": 1729447328,
+    "id": 5251641060
   },
   {
     "link": "https://www.vinted.fr/items/5314021530-lego-7537375386-without-some-figures",
     "price": 32.2,
     "title": "Lego 75373+75386 (without some figures)",
     "imgUrl": "https://images1.vinted.net/t/03_01260_vUi4ncFBabgnrZfeGZYU1ipK/f800/1730494119.jpeg?s=99628ce0abcdd0c35120a6e5ac214e157eab8cb6",
+    "publicationDate": 1730494119,
     "id": 5314021530
   },
   {
@@ -151,6 +156,7 @@
     "price": 16.45,
     "title": "Cajas lego star wars",
     "imgUrl": "https://images1.vinted.net/t/02_01463_JwqJoUkTayUtqa8LEqGSiHxb/f800/1725000201.jpeg?s=e9df9c1cbc84f057b7dab47bf3e23532937b6adb",
+    "publicationDate": 1725000201,
     "id": 4959672674
   },
   {
@@ -158,6 +164,7 @@
     "price": 19.6,
     "title": "Lego 75373 star wars",
     "imgUrl": "https://images1.vinted.net/t/02_02304_M3CfE6uYQZbA78FAHAv6qd8z/f800/1727078684.jpeg?s=c267dafd028a9caf2a8483188880042169cdd516",
+    "publicationDate": 1727078684,
     "id": 5092724852
   },
   {
@@ -165,6 +172,7 @@
     "price": 10.15,
     "title": "Lego 75373 avec 1 figurine sur 4",
     "imgUrl": "https://images1.vinted.net/t/01_0052f_uMNwtdxtMxrjJsYym9CDQ6Ma/f800/1723975425.jpeg?s=12940634fa8fe1f91a36986277107a9d946fd26a",
+    "publicationDate": 1723975425,
     "id": 4897549517
   },
   {
@@ -172,6 +180,7 @@
     "price": 19.08,
     "title": "Lego 75373 star wars",
     "imgUrl": "https://images1.vinted.net/t/03_00f48_oZArLpwKc4oV52Hn9bsYMmL9/f800/1728069738.jpeg?s=1ac2d57d25e927183565f1c01552de3d00eaabe4",
+    "publicationDate": 1728069738,
     "id": 5158967299
   },
   {
@@ -179,118 +188,135 @@
     "price": 16.45,
     "title": "LEGO Star Wars 75373",
     "imgUrl": "https://images1.vinted.net/t/04_002ad_wy9LyJfa9nEvWvWhzuJNc3d3/f800/1730309154.jpeg?s=661f1a8f9e5ef739f64733985d13345cb67c608b",
+    "publicationDate": 1730309154,
     "id": 5304047455
-  },
-  {
-    "link": "https://www.vinted.fr/items/5287432460-lego-star-wars-vrac-mandalorien-75386-et-75373",
-    "price": 42.7,
-    "title": "Lego Star Wars vrac mandalorien 75386 et 75373",
-    "imgUrl": "https://images1.vinted.net/t/04_007cb_nsoR2LqjqgkLwcgaqJuFwtop/f800/1730042997.jpeg?s=febc125ce7aabd786cc28fbbbb1f53c075f4d92c",
-    "id": 5287432460
   },
   {
     "link": "https://www.vinted.fr/items/5280083654-lego-75373",
     "price": 42.7,
     "title": "Lego 75373",
     "imgUrl": "https://images1.vinted.net/t/03_002dc_xiUjvYfHwkEeFxpxgy1zsSbt/f800/1729946191.jpeg?s=ba7af066104eea7e2acfaa3659d1283c365b7c56",
+    "publicationDate": 1729946191,
     "id": 5280083654
   },
   {
-    "link": "https://www.vinted.fr/items/5155933293-lego-star-wars",
-    "price": 26.95,
-    "title": "Lego star wars",
-    "imgUrl": "https://images1.vinted.net/t/02_017bd_sH3BaQJyYuMWXZfcvW4rbBUj/f800/1728037599.jpeg?s=9a7ce07e576f2cd0576b0d8e62dd72f9e3d753f6",
-    "id": 5155933293
+    "link": "https://www.vinted.fr/items/5287432460-lego-star-wars-vrac-mandalorien-75386-et-75373",
+    "price": 42.7,
+    "title": "Lego Star Wars vrac mandalorien 75386 et 75373",
+    "imgUrl": "https://images1.vinted.net/t/04_007cb_nsoR2LqjqgkLwcgaqJuFwtop/f800/1730042997.jpeg?s=febc125ce7aabd786cc28fbbbb1f53c075f4d92c",
+    "publicationDate": 1730042997,
+    "id": 5287432460
   },
   {
     "link": "https://www.vinted.fr/items/5204495671-lego-75372-75373",
     "price": 38.5,
     "title": "Lego 75372 + 75373",
     "imgUrl": "https://images1.vinted.net/t/01_011b8_6eyXVrM7VC1UyNy1p1DpYe8q/f800/1728748722.jpeg?s=46aad8451bd1bc86535d1d746cd3609d97e5b789",
+    "publicationDate": 1728748722,
     "id": 5204495671
   },
   {
-    "link": "https://www.vinted.fr/items/5322158837-lego-75373-ambush-on-mandalore-battle-pack-new-sealed",
-    "price": 19.5,
-    "title": "Lego 75373 - Ambush on Mandalore Battle Pack - New Sealed",
-    "imgUrl": "https://images1.vinted.net/t/04_00a49_DyCkN4uRxUKmYDviRAWKckKD/f800/1730637035.jpeg?s=bcc5874e7f7faa65bab82a22136237aebfd8fc24",
-    "id": 5322158837
-  },
-  {
-    "link": "https://www.vinted.fr/items/5263579864-lego-75373",
-    "price": 21.7,
-    "title": "lego 75373",
-    "imgUrl": "https://images1.vinted.net/t/04_01514_G15JkxvooEPaL1sRNXk9f1D6/f800/1729636185.jpeg?s=101a0c890821e7590c228b9af96f25c8f6d43450",
-    "id": 5263579864
-  },
-  {
-    "link": "https://www.vinted.fr/items/5312247541-lego-star-wars-75373",
-    "price": 18.45,
-    "title": "Lego Star Wars 75373",
-    "imgUrl": "https://images1.vinted.net/t/02_022f6_1m3c4bLSvr7sU84kyQ9ThMHm/f800/1730473849.jpeg?s=83f71032410bd9b6cf35f410e0440317d77faad8",
-    "id": 5312247541
-  },
-  {
-    "link": "https://www.vinted.fr/items/5255875028-lego-star-wars-75373-75386-75396-no-minifigures",
-    "price": 53.2,
-    "title": "Lego star wars 75373 75386 75396 no minifigures",
-    "imgUrl": "https://images1.vinted.net/t/01_02401_bw5ra93ZfM6FVbmfg3bsJd8v/f800/1729520932.jpeg?s=5215952f170f2102878d6170ac32a51bdefd5c4d",
-    "id": 5255875028
-  },
-  {
-    "link": "https://www.vinted.fr/items/4788357413-lego-star-wars-lot-set-75373-75324-75359-75310",
-    "price": 21.7,
-    "title": "Lego star wars lot set 75373 , 75324 , 75359 , 75310 ,",
-    "imgUrl": "https://images1.vinted.net/t/01_00a29_dqtzzbniFSEpiZUqiNMwvtCT/f800/1721505214.jpeg?s=553b7de42348fc63513ba32c84b13537a21339a4",
-    "id": 4788357413
-  },
-  {
-    "link": "https://www.vinted.fr/items/4681206179-lego-star-wars-75373-ambush-on-mandalore-battlepack",
-    "price": 21.7,
-    "title": "Lego Star Wars 75373 Ambush on Mandalore Battlepack",
-    "imgUrl": "https://images1.vinted.net/t/01_008e2_9n9PLc6XCaFyD938JWz8L6jA/f800/1719215531.jpeg?s=f56adcd4c3616348d44c90ce23530c98728f911a",
-    "id": 4681206179
-  },
-  {
-    "link": "https://www.vinted.fr/items/4604718768-lego-star-wars-75373-ambush-on-mandalore-battle-pack-nuevo",
-    "price": 20.65,
-    "title": "Lego Star Wars 75373 Ambush on Mandalore Battle Pack. Nuevo",
-    "imgUrl": "https://images1.vinted.net/t/02_01cee_LvbEEPbgFUSk8sqF2ATSuQb7/f800/1717623465.jpeg?s=16fdf02ec5bf5e22c1dd7a13dc4c4d8fbe0477c7",
-    "id": 4604718768
+    "link": "https://www.vinted.fr/items/5155933293-lego-star-wars",
+    "price": 26.95,
+    "title": "Lego star wars",
+    "imgUrl": "https://images1.vinted.net/t/02_017bd_sH3BaQJyYuMWXZfcvW4rbBUj/f800/1728037599.jpeg?s=9a7ce07e576f2cd0576b0d8e62dd72f9e3d753f6",
+    "publicationDate": 1728037599,
+    "id": 5155933293
   },
   {
     "link": "https://www.vinted.fr/items/5204623010-lego-star-wars-75386-et-75373",
     "price": 23.8,
     "title": "Lego star wars 75386 et 75373",
     "imgUrl": "https://images1.vinted.net/t/02_01c8c_sjRzGAc45HKjupsPmrWGTAb4/f800/1728749687.jpeg?s=1954c16ef245237c6f31a38820ee249b957c17ca",
+    "publicationDate": 1728749687,
     "id": 5204623010
+  },
+  {
+    "link": "https://www.vinted.fr/items/5263579864-lego-75373",
+    "price": 21.7,
+    "title": "lego 75373",
+    "imgUrl": "https://images1.vinted.net/t/04_01514_G15JkxvooEPaL1sRNXk9f1D6/f800/1729636185.jpeg?s=101a0c890821e7590c228b9af96f25c8f6d43450",
+    "publicationDate": 1729636185,
+    "id": 5263579864
+  },
+  {
+    "link": "https://www.vinted.fr/items/5255875028-lego-star-wars-75373-75386-75396-no-minifigures",
+    "price": 53.2,
+    "title": "Lego star wars 75373 75386 75396 no minifigures",
+    "imgUrl": "https://images1.vinted.net/t/01_02401_bw5ra93ZfM6FVbmfg3bsJd8v/f800/1729520932.jpeg?s=5215952f170f2102878d6170ac32a51bdefd5c4d",
+    "publicationDate": 1729520932,
+    "id": 5255875028
+  },
+  {
+    "link": "https://www.vinted.fr/items/5322158837-lego-75373-ambush-on-mandalore-battle-pack-new-sealed",
+    "price": 19.5,
+    "title": "Lego 75373 - Ambush on Mandalore Battle Pack - New Sealed",
+    "imgUrl": "https://images1.vinted.net/t/04_00a49_DyCkN4uRxUKmYDviRAWKckKD/f800/1730637035.jpeg?s=bcc5874e7f7faa65bab82a22136237aebfd8fc24",
+    "publicationDate": 1730637035,
+    "id": 5322158837
+  },
+  {
+    "link": "https://www.vinted.fr/items/4788357413-lego-star-wars-lot-set-75373-75324-75359-75310",
+    "price": 21.7,
+    "title": "Lego star wars lot set 75373 , 75324 , 75359 , 75310 ,",
+    "imgUrl": "https://images1.vinted.net/t/01_00a29_dqtzzbniFSEpiZUqiNMwvtCT/f800/1721505214.jpeg?s=553b7de42348fc63513ba32c84b13537a21339a4",
+    "publicationDate": 1721505214,
+    "id": 4788357413
+  },
+  {
+    "link": "https://www.vinted.fr/items/5312247541-lego-star-wars-75373",
+    "price": 18.45,
+    "title": "Lego Star Wars 75373",
+    "imgUrl": "https://images1.vinted.net/t/02_022f6_1m3c4bLSvr7sU84kyQ9ThMHm/f800/1730473849.jpeg?s=83f71032410bd9b6cf35f410e0440317d77faad8",
+    "publicationDate": 1730473849,
+    "id": 5312247541
+  },
+  {
+    "link": "https://www.vinted.fr/items/4604718768-lego-star-wars-75373-ambush-on-mandalore-battle-pack-nuevo",
+    "price": 20.65,
+    "title": "Lego Star Wars 75373 Ambush on Mandalore Battle Pack. Nuevo",
+    "imgUrl": "https://images1.vinted.net/t/02_01cee_LvbEEPbgFUSk8sqF2ATSuQb7/f800/1717623465.jpeg?s=16fdf02ec5bf5e22c1dd7a13dc4c4d8fbe0477c7",
+    "publicationDate": 1717623465,
+    "id": 4604718768
   },
   {
     "link": "https://www.vinted.fr/items/5181990132-lego-75373-ambush-on-mandalore-sigillatosealed",
     "price": 21.7,
     "title": "Lego 75373 - Ambush on Mandalore - Sigillato/Sealed",
     "imgUrl": "https://images1.vinted.net/t/01_02676_FB6W9XQT2rEUgvFSr9a2AjhQ/f800/1728393646.jpeg?s=95bc6a8ece3020a30710cac1ab867de71da4407e",
+    "publicationDate": 1728393646,
     "id": 5181990132
-  },
-  {
-    "link": "https://www.vinted.fr/items/4883786995-lego-75373",
-    "price": 19.6,
-    "title": "Lego 75373",
-    "imgUrl": "https://images1.vinted.net/t/02_01625_Bzb4euJBfnH8r9bNJov83Mzh/f800/1723571796.jpeg?s=e355e376bd6c70edadc1249e92724bb0aaf573c3",
-    "id": 4883786995
   },
   {
     "link": "https://www.vinted.fr/items/4970697810-lego-star-wars-75373-ambush-on-mandalore",
     "price": 21.7,
     "title": "Lego Star Wars 75373 Ambush on Mandalore",
     "imgUrl": "https://images1.vinted.net/t/03_009c7_9rJrTDZokYv1r77d5wLknu7q/f800/1725193837.jpeg?s=d0c8623a5a4387c997e82a50b3521357e5a44b59",
+    "publicationDate": 1725193837,
     "id": 4970697810
+  },
+  {
+    "link": "https://www.vinted.fr/items/4883786995-lego-75373",
+    "price": 19.6,
+    "title": "Lego 75373",
+    "imgUrl": "https://images1.vinted.net/t/02_01625_Bzb4euJBfnH8r9bNJov83Mzh/f800/1723571796.jpeg?s=e355e376bd6c70edadc1249e92724bb0aaf573c3",
+    "publicationDate": 1723571796,
+    "id": 4883786995
+  },
+  {
+    "link": "https://www.vinted.fr/items/4681206179-lego-star-wars-75373-ambush-on-mandalore-battlepack",
+    "price": 21.7,
+    "title": "Lego Star Wars 75373 Ambush on Mandalore Battlepack",
+    "imgUrl": "https://images1.vinted.net/t/01_008e2_9n9PLc6XCaFyD938JWz8L6jA/f800/1719215531.jpeg?s=f56adcd4c3616348d44c90ce23530c98728f911a",
+    "publicationDate": 1719215531,
+    "id": 4681206179
   },
   {
     "link": "https://www.vinted.fr/items/4940228486-lego-75373",
     "price": 19.6,
     "title": "Lego - 75373",
     "imgUrl": "https://images1.vinted.net/t/02_0199d_8GXjSdN6LqidPHTphmNr5Pg4/f800/1724661557.jpeg?s=d4c4ec9b4123da4090daa8d3d1710a7a883e4fbb",
+    "publicationDate": 1724661557,
     "id": 4940228486
   },
   {
@@ -298,6 +324,7 @@
     "price": 32.2,
     "title": "Sets lego star wars 75386 y 75373",
     "imgUrl": "https://images1.vinted.net/t/02_003c4_xgV1wg3MZzJHfMvyQEdubF5x/f800/1726520064.jpeg?s=d187dc806f18dbf697c4c52b7ddae4bc80200404",
+    "publicationDate": 1726520064,
     "id": 5058372199
   },
   {
@@ -305,6 +332,7 @@
     "price": 32.2,
     "title": "Lego 75372",
     "imgUrl": "https://images1.vinted.net/t/01_02596_CWuJg23am6kJbFLtvU4Mnhz7/f800/1729325281.jpeg?s=a8280f763774fecdf90f8662734f2782a3f6d470",
+    "publicationDate": 1729325281,
     "id": 5240195014
   },
   {
@@ -312,6 +340,7 @@
     "price": 32.19,
     "title": "Lego Star Wars 75373 Zombie Versión Hallowen",
     "imgUrl": "https://images1.vinted.net/t/02_00f7e_9U2s86YjrKG7P6hXaZWMbdCA/f800/1730457903.jpeg?s=5d1cff1ab8373758da921eb89da82c993c87f3b6",
+    "publicationDate": 1730457903,
     "id": 5310437412
   },
   {
@@ -319,48 +348,55 @@
     "price": 100.45,
     "title": "Lego Star wars thé onyx cinder",
     "imgUrl": "https://images1.vinted.net/t/01_01038_FFZesNgkRGvzkfs3Q3LFhAP7/f800/1730489657.jpeg?s=6627e551a9c44352babfaa5dd0cda29ac94fa404",
+    "publicationDate": 1730489657,
     "id": 5313719789
-  },
-  {
-    "link": "https://www.vinted.fr/items/4804125772-lot-star-wars-lego",
-    "price": 42.69,
-    "title": "Lot star wars lego",
-    "imgUrl": "https://images1.vinted.net/t/03_01031_hRyggBLsLRKhpV4WXwFo4i9i/f800/1721832096.jpeg?s=3a9b901456ec70fdfb944b1eb894a48a6d4d9c21",
-    "id": 4804125772
   },
   {
     "link": "https://www.vinted.fr/items/5070679828-lego-star-wars-75373-nieuw-in-doos",
     "price": 23.79,
     "title": "LEGO Star Wars # 75373 nieuw in doos",
     "imgUrl": "https://images1.vinted.net/t/02_013c6_xwgegpKJaWyeN3mFZZKfnaPW/f800/1726742565.jpeg?s=cb19144f8714ca088bac6850fecda297b45306cd",
+    "publicationDate": 1726742565,
     "id": 5070679828
   },
   {
-    "link": "https://www.vinted.fr/items/5322176760-lego-pack-1x-75386-2x-75373-new-sealed",
-    "price": 70.95,
-    "title": "Lego pack 1x 75386 + 2x 75373 - New sealed",
-    "imgUrl": "https://images1.vinted.net/t/04_0151c_c3MFWkTwcmwpwxGVTYKQQubj/f800/1730637152.jpeg?s=54c671d63e5bffc331401a30e25455e2cd0f29c1",
-    "id": 5322176760
-  },
-  {
-    "link": "https://www.vinted.fr/items/4942813755-lego-star-wars-75373",
-    "price": 95.2,
-    "title": "Lego Star wars 75373",
-    "imgUrl": "https://images1.vinted.net/t/02_0111f_8jxkPiYr7oHt5x27aSjyt5ja/f800/1724684905.jpeg?s=dd0afe37394e2f5c2d430dae299f38bd3f500028",
-    "id": 4942813755
+    "link": "https://www.vinted.fr/items/4804125772-lot-star-wars-lego",
+    "price": 42.69,
+    "title": "Lot star wars lego",
+    "imgUrl": "https://images1.vinted.net/t/03_01031_hRyggBLsLRKhpV4WXwFo4i9i/f800/1721832096.jpeg?s=3a9b901456ec70fdfb944b1eb894a48a6d4d9c21",
+    "publicationDate": 1721832096,
+    "id": 4804125772
   },
   {
     "link": "https://www.vinted.fr/items/5315276821-lego-star-wars-ambush-on-mandalore-battle-pack-x4",
     "price": 60.55,
     "title": "Lego Star Wars Ambush on Mandalore Battle Pack x4",
     "imgUrl": "https://images1.vinted.net/t/03_0001c_qtsDD2BXsx3tBauKuWMeTB2g/f800/1730562467.jpeg?s=16d1cab45d6f37151d2e2e659542e8e5b562b1e1",
+    "publicationDate": 1730562467,
     "id": 5315276821
+  },
+  {
+    "link": "https://www.vinted.fr/items/4942813755-lego-star-wars-75373",
+    "price": 95.2,
+    "title": "Lego Star wars 75373",
+    "imgUrl": "https://images1.vinted.net/t/02_0111f_8jxkPiYr7oHt5x27aSjyt5ja/f800/1724684905.jpeg?s=dd0afe37394e2f5c2d430dae299f38bd3f500028",
+    "publicationDate": 1724684905,
+    "id": 4942813755
+  },
+  {
+    "link": "https://www.vinted.fr/items/5322176760-lego-pack-1x-75386-2x-75373-new-sealed",
+    "price": 70.95,
+    "title": "Lego pack 1x 75386 + 2x 75373 - New sealed",
+    "imgUrl": "https://images1.vinted.net/t/04_0151c_c3MFWkTwcmwpwxGVTYKQQubj/f800/1730637152.jpeg?s=54c671d63e5bffc331401a30e25455e2cd0f29c1",
+    "publicationDate": 1730637152,
+    "id": 5322176760
   },
   {
     "link": "https://www.vinted.fr/items/5261171942-lego-star-wars-75273-neuf",
     "price": 126.7,
     "title": "Lego Star wars 75273 Neuf",
     "imgUrl": "https://images1.vinted.net/t/02_01e7a_ipyfEfLBcRtQdWncqL7pAVin/f800/1729606686.jpeg?s=71187df4bcf0b22e181b68f83964d92da09b025e",
+    "publicationDate": 1729606686,
     "id": 5261171942
   },
   {
@@ -368,6 +404,7 @@
     "price": 65.8,
     "title": "Pack4 Lego Starwars 75373 75363 75321 75345",
     "imgUrl": "https://images1.vinted.net/t/03_0096d_ZG5sifAxdYdgPh9oeMZEqeYg/f800/1727341601.jpeg?s=d3b598c1211201d15a887b6b136aef1053cdb462",
+    "publicationDate": 1727341601,
     "id": 5109645541
   }
 ]

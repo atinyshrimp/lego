@@ -4,6 +4,7 @@
     "price": 21.7,
     "title": "Lego 43240 incomplet",
     "imgUrl": "https://images1.vinted.net/t/01_0042c_3hNGp9sDbxLprFLVaFCUdoz1/f800/1730139753.jpeg?s=7550701bbe35ea6063a18a464aef00b403c6fe55",
+    "publicationDate": 1730139753,
     "id": 5294338167
   },
   {
@@ -11,6 +12,7 @@
     "price": 24.33,
     "title": "Lego Disney 43240 Aurora and Philip (no dragon)",
     "imgUrl": "https://images1.vinted.net/t/03_003fe_rtg52MJ5FG8tCupjBhWcDj6B/f800/1729285325.jpeg?s=2ac34f4fc19d7acd641c4cb682f5831ccf98d9ac",
+    "publicationDate": 1729285325,
     "id": 5239517820
   },
   {
@@ -18,6 +20,7 @@
     "price": 7,
     "title": "Lego disney figurines 43240",
     "imgUrl": "https://images1.vinted.net/t/04_00649_oFQXEa5NEaEhvWfvoo4pNKiB/f800/1730145460.jpeg?s=4484eb5a37764b72694c2dbd7fe396b2d07f31fb",
+    "publicationDate": 1730145460,
     "id": 5294834061
   },
   {
@@ -25,6 +28,7 @@
     "price": 53.2,
     "title": "Lot lego (sans la boîte Harry potter)",
     "imgUrl": "https://images1.vinted.net/t/03_00ba7_fpcKGA9NeCPy96g3wqB9Xk9v/f800/1722800541.jpeg?s=699a705e9c2d16b607d2328f6e666e20044e3136",
+    "publicationDate": 1722800541,
     "id": 4848090324
   },
   {
@@ -32,6 +36,7 @@
     "price": 58.45,
     "title": "Disney Lego Princess Sleeping beauty Maleficent dragon 43240",
     "imgUrl": "https://images1.vinted.net/t/01_009ef_pxqG3KBzco8fvg3zGcpn7fHG/f800/1724075286.jpeg?s=68d8cdc3b923adab824a8b8c01163fdef5c634db",
+    "publicationDate": 1724075286,
     "id": 4908019243
   },
   {
@@ -39,6 +44,15 @@
     "price": 63.7,
     "title": "43240 lego belle au bois dormant",
     "imgUrl": "https://images1.vinted.net/t/03_0185f_Ee5tmx1dkkM73H7DCUqcyio5/f800/1727025028.jpeg?s=4b8ac2049ebe1edd27f1d3d5dba942cb8dfdb416",
+    "publicationDate": 1727025028,
     "id": 5090548713
+  },
+  {
+    "link": "https://www.vinted.fr/items/5327716726-lego-disney-princesas-malefica-y-dragon",
+    "price": 58.45,
+    "title": "Lego Disney Princesas Maléfica y dragón",
+    "imgUrl": "https://images1.vinted.net/t/04_00347_NR6MULsmpmZHp3SVbEJEZZSo/f800/1730714167.jpeg?s=840bd536f7b90b4a3aff4102da3dc333e904c6f4",
+    "publicationDate": 1730714167,
+    "id": 5327716726
   }
 ]

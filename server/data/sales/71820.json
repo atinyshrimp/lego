@@ -4,6 +4,7 @@
     "price": 73.15,
     "title": "Lego 71820 - Ninjago  - Vehículo Combinado del Equipo Ninja",
     "imgUrl": "https://images1.vinted.net/t/04_00c94_FjzS8uQwphKe2JMeCkqTqjS9/f800/1730229132.jpeg?s=a850b37b3b2a6e41bb60fe33172ac5a738e9fa78",
+    "publicationDate": 1730229132,
     "id": 5299699481
   },
   {
@@ -11,6 +12,15 @@
     "price": 68.95,
     "title": "LEGO 71820 Ninjago Le Véhicule Combiné\nde l'Équipe des Ninjas Planeur",
     "imgUrl": "https://images1.vinted.net/t/03_01dd1_tPPQCvYo4PzjKC483FaGn9HB/f800/1730055525.jpeg?s=9f6c257a08125a05bf587f5ff9f86374592b173a",
+    "publicationDate": 1730055525,
     "id": 5289104875
+  },
+  {
+    "link": "https://www.vinted.fr/items/5327549731-lego-ninjago",
+    "price": 67.9,
+    "title": "Lego Ninjago",
+    "imgUrl": "https://images1.vinted.net/t/01_008d6_mA1sE5ubG69U4FHv2q9wvwga/f800/1730712196.jpeg?s=9821b2b595cf803c98d93731bfd076ee99774784",
+    "publicationDate": 1730712196,
+    "id": 5327549731
   }
 ]

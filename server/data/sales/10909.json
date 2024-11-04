@@ -1,9 +1,10 @@
 [
   {
     "link": "https://www.vinted.fr/items/5234861979-lego-caja-del-corazon",
-    "price": 9.1,
+    "price": 8.05,
     "title": "Lego caja del corazon",
     "imgUrl": "https://images1.vinted.net/t/03_00f1d_pFyg5t2vtAZLcx7UXCtJ62dr/f800/1729198339.jpeg?s=45d42ee37155dee2c2c23c6e8c94c4e02e9aa495",
+    "publicationDate": 1729198339,
     "id": 5234861979
   },
   {
@@ -11,13 +12,15 @@
     "price": 11.2,
     "title": "Lego duplo 2+",
     "imgUrl": "https://images1.vinted.net/t/04_02363_oPpXzAsJTAh8PrEfe7m3Fs5j/f800/1730311222.jpeg?s=a63abf2d8f6be4c3fbb06abff3a9b4e67db4f783",
+    "publicationDate": 1730311222,
     "id": 5304218492
   },
   {
     "link": "https://www.vinted.fr/items/5321649989-lego-10909",
-    "price": 7,
+    "price": 5.95,
     "title": "Lego 10909",
     "imgUrl": "https://images1.vinted.net/t/03_00b39_qoNQYYLZt1qi1Ypga1vfWpuk/f800/1730633731.jpeg?s=ffcc5b27390d17f5a16021fd55bf0d0ba23c9bcc",
+    "publicationDate": 1730633731,
     "id": 5321649989
   },
   {
@@ -25,6 +28,7 @@
     "price": 16.45,
     "title": "Lego 10909",
     "imgUrl": "https://images1.vinted.net/t/01_01e28_9RStCgU13SomxGQRsW2tNTti/f800/1706980824.jpeg?s=8989d9ab7ee04a82686cca7147814bcc0c8e0615",
+    "publicationDate": 1706980824,
     "id": 4057742084
   },
   {
@@ -32,6 +36,7 @@
     "price": 21.7,
     "title": "Lego Duplo Ideas (10909)",
     "imgUrl": "https://images1.vinted.net/t/02_007a8_TPNHKCgt6aJL1WEGPjnPvvNq/f800/1727871860.jpeg?s=af14f09434fd9137d080444804dfba32ba492f05",
+    "publicationDate": 1727871860,
     "id": 5145929866
   },
   {
@@ -39,6 +44,7 @@
     "price": 158.2,
     "title": "Lot de duplo",
     "imgUrl": "https://images1.vinted.net/t/03_00faf_9LSMnnBndrhb3kNLR6BtdEXw/f800/1701540539.jpeg?s=618aff7ff927bdb5af6b0113b18da706b06b2c04",
+    "publicationDate": 1701540539,
     "id": 3837232886
   }
 ]

@@ -4,6 +4,7 @@
     "price": 5.95,
     "title": "Boîte et notice LEGO 10281",
     "imgUrl": "https://images1.vinted.net/t/02_026e5_BfoXhsBckh9SHe3wT1MTr8Tu/f800/1730284892.jpeg?s=e20f4929d6b7041bb3cc8715042dfd0fc0e8c6e8",
+    "publicationDate": 1730284892,
     "id": 5301634948
   },
   {
@@ -11,6 +12,7 @@
     "price": 7,
     "title": "Set lego 10281",
     "imgUrl": "https://images1.vinted.net/t/03_02220_F2r5AtqowF4xH8M5YQ8FLP8K/f800/1726390899.jpeg?s=67af24c3ad000240b98138d8d1acb42ee6b05690",
+    "publicationDate": 1726390899,
     "id": 5045769485
   },
   {
@@ -18,20 +20,15 @@
     "price": 42.7,
     "title": "LEGO 10281 Botanique - Bonsaï Neuf",
     "imgUrl": "https://images1.vinted.net/t/01_01056_zh5b7aYSq6FJLsXJ58YTmaVB/f800/1730661912.jpeg?s=f5f81559e149b64cf585faa0837c543224035e3a",
+    "publicationDate": 1730661912,
     "id": 5325989846
-  },
-  {
-    "link": "https://www.vinted.fr/items/5224266966-lego-bonsai-tree",
-    "price": 4.38,
-    "title": "Lego Bonsaï Tree",
-    "imgUrl": "https://images1.vinted.net/t/03_014c2_T8ifD7TqzcrzeHJWckDqdrqo/f800/1729021087.jpeg?s=e082e790cce6457153cdf79259c01483b4a54395",
-    "id": 5224266966
   },
   {
     "link": "https://www.vinted.fr/items/5279064580-lego-bonzai-10281",
     "price": 42.7,
     "title": "Lego bonzai 10281",
     "imgUrl": "https://images1.vinted.net/t/03_00d1f_srGjof4wiGrD5T8Yt27HGFRc/f800/1729937612.jpeg?s=5d5927b0edfa6a63a4c30690674636eadd1a53ab",
+    "publicationDate": 1729937612,
     "id": 5279064580
   },
   {
@@ -39,13 +36,23 @@
     "price": 1.75,
     "title": "Notice Lego bonsaï 10281",
     "imgUrl": "https://images1.vinted.net/t/02_0217f_6emGVU4w4N2LyFBpg13sY8Ey/f800/1725626867.jpeg?s=dc7110b66acaea239c258f43dde399c09f32155a",
+    "publicationDate": 1725626867,
     "id": 4995529787
+  },
+  {
+    "link": "https://www.vinted.fr/items/5224266966-lego-bonsai-tree",
+    "price": 4.38,
+    "title": "Lego Bonsaï Tree",
+    "imgUrl": "https://images1.vinted.net/t/03_014c2_T8ifD7TqzcrzeHJWckDqdrqo/f800/1729021087.jpeg?s=e082e790cce6457153cdf79259c01483b4a54395",
+    "publicationDate": 1729021087,
+    "id": 5224266966
   },
   {
     "link": "https://www.vinted.fr/items/4931462937-banzai-lego",
     "price": 42.7,
     "title": "Banzai lego",
     "imgUrl": "https://images1.vinted.net/t/01_0003b_TD6qgKqgtKo7W4VYH6bKJCTM/f800/1724505720.jpeg?s=ee7943d887e321c016f7f77a66fa6bfe2a09649b",
+    "publicationDate": 1724505720,
     "id": 4931462937
   },
   {
@@ -53,6 +60,7 @@
     "price": 40.08,
     "title": "Lego Icons bonsai tree 10281 met doos",
     "imgUrl": "https://images1.vinted.net/t/02_01a7b_G1JUoQ1kkrp9BqDfSjKhEbm1/f800/1729624755.jpeg?s=b4a20e6c5344594d7d7536d5c1aa7175e6054897",
+    "publicationDate": 1729624755,
     "id": 5262958754
   },
   {
@@ -60,6 +68,7 @@
     "price": 4.9,
     "title": "Lego 10281 notice bonsaï ",
     "imgUrl": "https://images1.vinted.net/t/03_00339_VcBTdfsoubXFMDdhN46bhpSw/f800/1704642578.jpeg?s=99f8a64d8a64c38b0676d57084ff6104f462b21d",
+    "publicationDate": 1704642578,
     "id": 3951749057
   },
   {
@@ -67,6 +76,7 @@
     "price": 4.89,
     "title": "LEGO Botanical Collection - Bonsai - SOLO Manuale - Usato",
     "imgUrl": "https://images1.vinted.net/t/01_025d4_1zZGnpFEpdVC2MZSsChKEzqk/f800/1710929740.jpeg?s=cb94433062d0de9d378b45d8b112927d79dd707d",
+    "publicationDate": 1710929740,
     "id": 4149957853
   },
   {
@@ -74,27 +84,31 @@
     "price": 4.38,
     "title": "Sachet scellé grenouille rose lego",
     "imgUrl": "https://images1.vinted.net/t/03_01a3d_BvAz6F8NZ1579DL4F9j3r9Y1/f800/1725627017.jpeg?s=2630fb50ae92dc2517a00cfbb2c155de37e241b3",
+    "publicationDate": 1725627017,
     "id": 4995543870
-  },
-  {
-    "link": "https://www.vinted.fr/items/5315303137-lego-10281-bonsai",
-    "price": 42.7,
-    "title": "Lego 10281 bonsai",
-    "imgUrl": "https://images1.vinted.net/t/04_01e00_Ns98XDSZW8HE1xDEZ3AsDh4W/f800/1730542476.jpeg?s=0297c598a43a08914c28d2e39e8503154743667a",
-    "id": 5315303137
   },
   {
     "link": "https://www.vinted.fr/items/4760109019-notice-lego-10281",
     "price": 3.85,
     "title": "Notice LEGO 10281",
     "imgUrl": "https://images1.vinted.net/t/02_00ce4_GjLsifxHGHEoLx3ufVA3cjCu/f800/1720880546.jpeg?s=c9247f387d6947f51b479e4be5ed206ce2ef0028",
+    "publicationDate": 1720880546,
     "id": 4760109019
+  },
+  {
+    "link": "https://www.vinted.fr/items/5315303137-lego-10281-bonsai",
+    "price": 42.7,
+    "title": "Lego 10281 bonsai",
+    "imgUrl": "https://images1.vinted.net/t/04_01e00_Ns98XDSZW8HE1xDEZ3AsDh4W/f800/1730542476.jpeg?s=0297c598a43a08914c28d2e39e8503154743667a",
+    "publicationDate": 1730542476,
+    "id": 5315303137
   },
   {
     "link": "https://www.vinted.fr/items/4707072368-zwart-1x-vaas",
     "price": 19.08,
     "title": "Zwart 1x vaas.",
     "imgUrl": "https://images1.vinted.net/t/02_01339_2C1bBEQWmzZ3w5hNHcwAzgKW/f800/1719772635.jpeg?s=ee14bfd3b219fede773f7cfa83ca83f57c26c0c0",
+    "publicationDate": 1719772635,
     "id": 4707072368
   },
   {
@@ -102,6 +116,7 @@
     "price": 5.94,
     "title": "Lego 10281# - Bonsai Tree ( istruzioni + cambio colore)",
     "imgUrl": "https://images1.vinted.net/t/02_003c8_gbtXrfjEhqzmzyHqWg7JpB3k/f800/1713621312.jpeg?s=a7b7666449937fd66db004194f8bba124f79cbd1",
+    "publicationDate": 1713621312,
     "id": 4329954790
   },
   {
@@ -109,48 +124,31 @@
     "price": 16.45,
     "title": "Lego Vrac-lot Piante",
     "imgUrl": "https://images1.vinted.net/t/03_00746_BxrdTwjkA46vu1WCdaEwAk8u/f800/1727699221.jpeg?s=3dc56ea4cef40e79efab3e17ee2316feda64e656",
+    "publicationDate": 1727699221,
     "id": 5134926639
-  },
-  {
-    "link": "https://www.vinted.fr/items/5018821790-manual-de-instrucoes-e-caixalego-set-10281",
-    "price": 11.2,
-    "title": "Manual de instruções e caixa|lego set 10281",
-    "imgUrl": "https://images1.vinted.net/t/03_01803_CjTgMaKDS7YiHpXDoFQnmhZE/f800/1725976300.jpeg?s=7788c156c270d1c969883489a1698475a6f5303e",
-    "id": 5018821790
-  },
-  {
-    "link": "https://www.vinted.fr/items/3937159871-istruzioni-lego-10281",
-    "price": 3.85,
-    "title": "Istruzioni lego 10281",
-    "imgUrl": "https://images1.vinted.net/t/02_01b75_Htt65DGDSDDfAcZEBAmMFhRF/f800/1704363080.jpeg?s=49947bef9ef0adf5e21e66175c073f42d67af703",
-    "id": 3937159871
   },
   {
     "link": "https://www.vinted.fr/items/4842965248-lego-10281-bonsai-tree",
     "price": 39.55,
     "title": "Lego 10281 Bonsaï Tree",
     "imgUrl": "https://images1.vinted.net/t/01_00add_3ZK1NaSYZpkCpUKJyYZFfRtu/f800/1722706915.jpeg?s=0ce3942b3096d3a9a0317900714b7f22aa78a94c",
+    "publicationDate": 1722706915,
     "id": 4842965248
   },
   {
-    "link": "https://www.vinted.fr/items/5019656660-lego-10281",
-    "price": 41.65,
-    "title": "Lego 10281",
-    "imgUrl": "https://images1.vinted.net/t/02_00e63_xbmuvqunCSomNUC897cfd95p/f800/1725982871.jpeg?s=af6fc6b4b35b962f6852161b1099f9e71d06aba2",
-    "id": 5019656660
-  },
-  {
-    "link": "https://www.vinted.fr/items/5161246915-lego-10281-bonsai-tree",
-    "price": 47.95,
-    "title": "Lego 10281 bonsaï tree",
-    "imgUrl": "https://images1.vinted.net/t/02_0074c_Gd1CxjPNsuafFjyEHDADFnc7/f800/1728126102.jpeg?s=db6dd59566b60f0fab9c8de70d63eda592f27cc4",
-    "id": 5161246915
+    "link": "https://www.vinted.fr/items/3937159871-istruzioni-lego-10281",
+    "price": 3.85,
+    "title": "Istruzioni lego 10281",
+    "imgUrl": "https://images1.vinted.net/t/02_01b75_Htt65DGDSDDfAcZEBAmMFhRF/f800/1704363080.jpeg?s=49947bef9ef0adf5e21e66175c073f42d67af703",
+    "publicationDate": 1704363080,
+    "id": 3937159871
   },
   {
     "link": "https://www.vinted.fr/items/5301517272-lego-10311-lorchide-collection-botanique-boite-neuve-et-scellee",
     "price": 42.7,
     "title": "Lego 10311 - L'Orchidé - Collection Botanique - Boite neuve et scellée",
     "imgUrl": "https://images1.vinted.net/t/04_01fe3_7vyhQr4E37f77brhHj6A5xem/f800/1730283499.jpeg?s=6e5eeb511a1baf4c00d93c552d8a18d68a7478b3",
+    "publicationDate": 1730283499,
     "id": 5301517272
   },
   {
@@ -158,41 +156,55 @@
     "price": 44.8,
     "title": "LEGO Botanical collection 10281 Bonsaï",
     "imgUrl": "https://images1.vinted.net/t/02_01281_5WnKjckuJbQQjAQPbh9vrE9Z/f800/1729757234.jpeg?s=adf930e33a942c463989fd83e9e24bdb5f8f3a1b",
+    "publicationDate": 1729757234,
     "id": 5269149854
+  },
+  {
+    "link": "https://www.vinted.fr/items/5161246915-lego-10281-bonsai-tree",
+    "price": 47.95,
+    "title": "Lego 10281 bonsaï tree",
+    "imgUrl": "https://images1.vinted.net/t/02_0074c_Gd1CxjPNsuafFjyEHDADFnc7/f800/1728126102.jpeg?s=db6dd59566b60f0fab9c8de70d63eda592f27cc4",
+    "publicationDate": 1728126102,
+    "id": 5161246915
   },
   {
     "link": "https://www.vinted.fr/items/4589805789-lego-bonzai-10281",
     "price": 47.95,
     "title": "Lego bonzai 10281",
     "imgUrl": "https://images1.vinted.net/t/01_00bb2_ZypaQNKZraKyYC5sW66DejEz/f800/1717344425.jpeg?s=00976a1bf6c64a12f64993590fb7fbfe0864c446",
+    "publicationDate": 1717344425,
     "id": 4589805789
+  },
+  {
+    "link": "https://www.vinted.fr/items/5019656660-lego-10281",
+    "price": 41.65,
+    "title": "Lego 10281",
+    "imgUrl": "https://images1.vinted.net/t/02_00e63_xbmuvqunCSomNUC897cfd95p/f800/1725982871.jpeg?s=af6fc6b4b35b962f6852161b1099f9e71d06aba2",
+    "publicationDate": 1725982871,
+    "id": 5019656660
   },
   {
     "link": "https://www.vinted.fr/items/4844915220-lego-10281-bonsai",
     "price": 41.65,
     "title": "Lego 10281 - Bonsaï",
     "imgUrl": "https://images1.vinted.net/t/01_00300_MEgJtyL5xCgUftLrrq7hAyCJ/f800/1722768999.jpeg?s=58b5630e345ba5f4d91b39d531ad649aae46dc45",
+    "publicationDate": 1722768999,
     "id": 4844915220
   },
   {
-    "link": "https://www.vinted.fr/items/4894757171-lego-10281-bonsai",
-    "price": 37.45,
-    "title": "Lego 10281 Bonsai",
-    "imgUrl": "https://images1.vinted.net/t/03_021b0_fXXNRQaLivW14XYsciLpGe5X/f800/1723819995.jpeg?s=251face97308838dbca2e04b02847559a1a59417",
-    "id": 4894757171
-  },
-  {
-    "link": "https://www.vinted.fr/items/5318805306-lego-botanical-collection-bonsai-tree-10281",
-    "price": 42.7,
-    "title": "Lego Botanical Collection Bonsai Tree 10281",
-    "imgUrl": "https://images1.vinted.net/t/04_016b0_7xWiqmU7N5YtJLoauBWJJHtP/f800/1730571551.jpeg?s=576676cd2dc19d46113119a8036f50e0b00d4258",
-    "id": 5318805306
+    "link": "https://www.vinted.fr/items/5018821790-manual-de-instrucoes-e-caixalego-set-10281",
+    "price": 11.2,
+    "title": "Manual de instruções e caixa|lego set 10281",
+    "imgUrl": "https://images1.vinted.net/t/03_01803_CjTgMaKDS7YiHpXDoFQnmhZE/f800/1725976300.jpeg?s=7788c156c270d1c969883489a1698475a6f5303e",
+    "publicationDate": 1725976300,
+    "id": 5018821790
   },
   {
     "link": "https://www.vinted.fr/items/5287692720-lego-bonsai-10281-neuf-sceller",
     "price": 45.85,
     "title": "Lego Bonsaï 10281 neuf sceller",
     "imgUrl": "https://images1.vinted.net/t/04_01cc1_DhPUELNXnPiBQ7eQuYwEziim/f800/1730044630.jpeg?s=49d046e206c2982c3e8eeceb867c5a60cc342542",
+    "publicationDate": 1730044630,
     "id": 5287692720
   },
   {
@@ -200,48 +212,47 @@
     "price": 44.8,
     "title": "Lego 10281 bonsai tree",
     "imgUrl": "https://images1.vinted.net/t/03_02647_9vdWg1P9HuoRuTGtFgAN5yog/f800/1724601868.jpeg?s=128550253fdad2eb19b04709b50faf2c865c4af0",
+    "publicationDate": 1724601868,
     "id": 4937820772
-  },
-  {
-    "link": "https://www.vinted.fr/items/4496356219-lego-icons-bonsai-10281",
-    "price": 47.95,
-    "title": "Lego icons bonsaï 10281",
-    "imgUrl": "https://images1.vinted.net/t/02_01a09_sbMMwx9QzubKU2DNoga9KNJH/f800/1715588171.jpeg?s=bd5bf2acc49be7cf599cd2fcc9f3a03b5e5d1bb8",
-    "id": 4496356219
-  },
-  {
-    "link": "https://www.vinted.fr/items/4613329278-lego-bonsai-tree-10281",
-    "price": 42.7,
-    "title": "Lego bonsaï tree 10281",
-    "imgUrl": "https://images1.vinted.net/t/03_02123_Mbka1J5HVKjHHvW6ravNLzLQ/f800/1717841523.jpeg?s=6b1e3130dd7a98d96758d8d0853e9587e2ff0241",
-    "id": 4613329278
   },
   {
     "link": "https://www.vinted.fr/items/4903580450-lego-set-10281-bonsai-boompje",
     "price": 37.45,
     "title": "Lego set 10281 bonsai boompje",
     "imgUrl": "https://images1.vinted.net/t/01_0268b_9uPUs7ApCEbwKU95ae9siV6Q/f800/1723994060.jpeg?s=0fd607d35b96817436e222cc223f070e62563ab1",
+    "publicationDate": 1723994060,
     "id": 4903580450
   },
   {
-    "link": "https://www.vinted.fr/items/4117277012-lego-10281-botanical-collection-bonsai-tree",
+    "link": "https://www.vinted.fr/items/5318805306-lego-botanical-collection-bonsai-tree-10281",
     "price": 42.7,
-    "title": "LEGO - 10281 botanical collection Bonsaï Tree ",
-    "imgUrl": "https://images1.vinted.net/t/02_01045_zG98AkZxQMpiaUuHZHjnjRnJ/f800/1708273977.jpeg?s=ff189481034db5befb7c774f35c4584e2a4c003b",
-    "id": 4117277012
+    "title": "Lego Botanical Collection Bonsai Tree 10281",
+    "imgUrl": "https://images1.vinted.net/t/04_016b0_7xWiqmU7N5YtJLoauBWJJHtP/f800/1730571551.jpeg?s=576676cd2dc19d46113119a8036f50e0b00d4258",
+    "publicationDate": 1730571551,
+    "id": 5318805306
   },
   {
-    "link": "https://www.vinted.fr/items/5216115273-albero-bonsai-lego",
+    "link": "https://www.vinted.fr/items/4894757171-lego-10281-bonsai",
+    "price": 37.45,
+    "title": "Lego 10281 Bonsai",
+    "imgUrl": "https://images1.vinted.net/t/03_021b0_fXXNRQaLivW14XYsciLpGe5X/f800/1723819995.jpeg?s=251face97308838dbca2e04b02847559a1a59417",
+    "publicationDate": 1723819995,
+    "id": 4894757171
+  },
+  {
+    "link": "https://www.vinted.fr/items/4613329278-lego-bonsai-tree-10281",
     "price": 42.7,
-    "title": "Albero Bonsai - Lego",
-    "imgUrl": "https://images1.vinted.net/t/03_01059_tXVmzoS9MLzZo7s4hwtMe2wE/f800/1728908892.jpeg?s=48a3ecb7d26b94ac1f07ea66a27b79e7b42bd0ab",
-    "id": 5216115273
+    "title": "Lego bonsaï tree 10281",
+    "imgUrl": "https://images1.vinted.net/t/03_02123_Mbka1J5HVKjHHvW6ravNLzLQ/f800/1717841523.jpeg?s=6b1e3130dd7a98d96758d8d0853e9587e2ff0241",
+    "publicationDate": 1717841523,
+    "id": 4613329278
   },
   {
     "link": "https://www.vinted.fr/items/5126534783-lego-bonsai-10281",
     "price": 36.39,
     "title": "Lego Bonsai 10281",
     "imgUrl": "https://images1.vinted.net/t/03_02299_QKzzmc7VYaED5DakatLTSVek/f800/1727885864.jpeg?s=51d63b6f7f58eea4a3d1c4294c2f897ba01bdbdc",
+    "publicationDate": 1727885864,
     "id": 5126534783
   },
   {
@@ -249,76 +260,103 @@
     "price": 142.45,
     "title": "Lot sets lego Botanical Collection",
     "imgUrl": "https://images1.vinted.net/t/04_01d51_rAAUYyGwegHXsfYha6nAbNzf/f800/1730648700.jpeg?s=abc91eabf91c9284d27652f0b38f6a821eb29306",
+    "publicationDate": 1730648700,
     "id": 5324154934
   },
   {
-    "link": "https://www.vinted.fr/items/4033079902-lego-10281-new-in-sealed-box",
+    "link": "https://www.vinted.fr/items/4117277012-lego-10281-botanical-collection-bonsai-tree",
     "price": 42.7,
-    "title": "Lego 10281 new in sealed box ",
-    "imgUrl": "https://images1.vinted.net/t/03_00cf1_TSxq1wqEcbFyXYmJLWHijKJe/f800/1706448384.jpeg?s=fe241b6cfb46aa6c07de834ec70c73f4798e4cb1",
-    "id": 4033079902
+    "title": "LEGO - 10281 botanical collection Bonsaï Tree ",
+    "imgUrl": "https://images1.vinted.net/t/02_01045_zG98AkZxQMpiaUuHZHjnjRnJ/f800/1708273977.jpeg?s=ff189481034db5befb7c774f35c4584e2a4c003b",
+    "publicationDate": 1708273977,
+    "id": 4117277012
   },
   {
-    "link": "https://www.vinted.fr/items/4910242740-lego-bonsai-tree",
+    "link": "https://www.vinted.fr/items/5216115273-albero-bonsai-lego",
     "price": 42.7,
-    "title": "Lego Bonsaï Tree",
-    "imgUrl": "https://images1.vinted.net/t/03_008d7_1yybMifkLGYDkoMqkQvEWKuR/f800/1724098374.jpeg?s=665ac3c8436ae325983b3bb75c71f01f91eef734",
-    "id": 4910242740
+    "title": "Albero Bonsai - Lego",
+    "imgUrl": "https://images1.vinted.net/t/03_01059_tXVmzoS9MLzZo7s4hwtMe2wE/f800/1728908892.jpeg?s=48a3ecb7d26b94ac1f07ea66a27b79e7b42bd0ab",
+    "publicationDate": 1728908892,
+    "id": 5216115273
   },
   {
     "link": "https://www.vinted.fr/items/4554502893-lego-10281-bonsai-tree",
     "price": 43.75,
     "title": "Lego 10281 bonsaï tree",
     "imgUrl": "https://images1.vinted.net/t/02_00b20_cCYtAsyk23AvsnaKGQipPJ61/f800/1716702720.jpeg?s=c6d8ee20e52cefb25b21a77b15cb0bc96cfa69ff",
+    "publicationDate": 1716702720,
     "id": 4554502893
   },
   {
-    "link": "https://www.vinted.fr/items/4170304404-lego-bonsai-10281",
-    "price": 47.95,
-    "title": "Lego bonsaï 10281",
-    "imgUrl": "https://images1.vinted.net/t/01_021af_kxFGH5SHPGb4Q7DCBiZeFbwi/f800/1709380548.jpeg?s=0381cc929f4975764769cc0f2e660974a885c4ba",
-    "id": 4170304404
+    "link": "https://www.vinted.fr/items/4910242740-lego-bonsai-tree",
+    "price": 42.7,
+    "title": "Lego Bonsaï Tree",
+    "imgUrl": "https://images1.vinted.net/t/03_008d7_1yybMifkLGYDkoMqkQvEWKuR/f800/1724098374.jpeg?s=665ac3c8436ae325983b3bb75c71f01f91eef734",
+    "publicationDate": 1724098374,
+    "id": 4910242740
+  },
+  {
+    "link": "https://www.vinted.fr/items/4033079902-lego-10281-new-in-sealed-box",
+    "price": 42.7,
+    "title": "Lego 10281 new in sealed box ",
+    "imgUrl": "https://images1.vinted.net/t/03_00cf1_TSxq1wqEcbFyXYmJLWHijKJe/f800/1706448384.jpeg?s=fe241b6cfb46aa6c07de834ec70c73f4798e4cb1",
+    "publicationDate": 1706448384,
+    "id": 4033079902
   },
   {
     "link": "https://www.vinted.fr/items/4131783966-lego-bonsai-tree-10281-878-pcs",
     "price": 53.2,
     "title": "Lego Bonsai Tree 10281 878 pcs",
     "imgUrl": "https://images1.vinted.net/t/02_01f81_g2goeEVNigG42Jeik62mvoy9/f800/1708593805.jpeg?s=b8f1f7c037e9a526bbd29b30548a0b9e4a299eff",
+    "publicationDate": 1708593805,
     "id": 4131783966
   },
   {
-    "link": "https://www.vinted.fr/items/4693494809-botanical-collection-10281",
-    "price": 42.7,
-    "title": "Botanical collection 10281",
-    "imgUrl": "https://images1.vinted.net/t/03_018a1_tAZ3pbYDFdctZ2d3MYzbT24T/f800/1719487892.jpeg?s=e8dbe0bc61a95a2a9d75fa1aabb87cf6af6f3553",
-    "id": 4693494809
+    "link": "https://www.vinted.fr/items/4170304404-lego-bonsai-10281",
+    "price": 47.95,
+    "title": "Lego bonsaï 10281",
+    "imgUrl": "https://images1.vinted.net/t/01_021af_kxFGH5SHPGb4Q7DCBiZeFbwi/f800/1709380548.jpeg?s=0381cc929f4975764769cc0f2e660974a885c4ba",
+    "publicationDate": 1709380548,
+    "id": 4170304404
   },
   {
     "link": "https://www.vinted.fr/items/4930416214-lego-bonsai-10281",
     "price": 47.85,
     "title": "Lego bonsai 10281",
     "imgUrl": "https://images1.vinted.net/t/02_023de_6zd3Ht9AfnVzhkzKFzENnwGL/f800/1724495374.jpeg?s=56a953cce41b1b71326f7f435da407553fedf3a8",
+    "publicationDate": 1724495374,
     "id": 4930416214
-  },
-  {
-    "link": "https://www.vinted.fr/items/4966748320-bonsai-lego-10281",
-    "price": 42.7,
-    "title": "Bonsai Lego 10281",
-    "imgUrl": "https://images1.vinted.net/t/03_0138e_X29hY3ZYzkf5TGYdJzPTCuvJ/f800/1725117433.jpeg?s=5ed36161eeb2391978573ef05931d357a0619b4d",
-    "id": 4966748320
   },
   {
     "link": "https://www.vinted.fr/items/4452264991-lego-10281-bonsai",
     "price": 47.95,
     "title": "Lego 10281 Bonsai",
     "imgUrl": "https://images1.vinted.net/t/01_0080a_JMiUocXSnBDpiiyCFPewE4Mz/f800/1714752523.jpeg?s=226fd4c0e825dffa4e1f245cbe2bbaa4c4d93d94",
+    "publicationDate": 1714752523,
     "id": 4452264991
+  },
+  {
+    "link": "https://www.vinted.fr/items/5318010751-lego-botanical-collection-10281-bonsai",
+    "price": 51.1,
+    "title": "Lego - Botanical Collection - 10281 - Bonsai",
+    "imgUrl": "https://images1.vinted.net/t/04_0234c_Zr4DRHy9F5A13QEhRowhMxGf/f800/1730563843.jpeg?s=3e84ed8334a6c1c461e490becb003f0e27b842bc",
+    "publicationDate": 1730563843,
+    "id": 5318010751
+  },
+  {
+    "link": "https://www.vinted.fr/items/4693494809-botanical-collection-10281",
+    "price": 42.7,
+    "title": "Botanical collection 10281",
+    "imgUrl": "https://images1.vinted.net/t/03_018a1_tAZ3pbYDFdctZ2d3MYzbT24T/f800/1719487892.jpeg?s=e8dbe0bc61a95a2a9d75fa1aabb87cf6af6f3553",
+    "publicationDate": 1719487892,
+    "id": 4693494809
   },
   {
     "link": "https://www.vinted.fr/items/4696032885-bonsai-10281-lego",
     "price": 47.95,
     "title": "Bonsaï | 10281 | LEGO",
     "imgUrl": "https://images1.vinted.net/t/03_01828_E7Raiij5TE1iLzCQdgyJFggw/f800/1719549645.jpeg?s=7006122701f2256e23bff38a0c4e6521d5d1443e",
+    "publicationDate": 1719549645,
     "id": 4696032885
   },
   {
@@ -326,6 +364,7 @@
     "price": 47.95,
     "title": "Lego bonsai 10281",
     "imgUrl": "https://images1.vinted.net/t/02_0225e_iQPuXb2e21dmMr5uz9yM2K1J/f800/1715891752.jpeg?s=87e43198ea4a73d144a9297550a91800c301f194",
+    "publicationDate": 1715891752,
     "id": 4513607297
   },
   {
@@ -333,20 +372,15 @@
     "price": 47.95,
     "title": "LEGO 10281 bonsai Botanical Expert *P",
     "imgUrl": "https://images1.vinted.net/t/02_019ed_kGH1Qj8JU9Nog5aiChg9Rkrh/f800/1724763453.jpeg?s=30ff0c707cb1bf1823b66db6543c0716c9b0bfb5",
+    "publicationDate": 1724763453,
     "id": 4947126884
-  },
-  {
-    "link": "https://www.vinted.fr/items/5318010751-lego-botanical-collection-10281-bonsai",
-    "price": 51.1,
-    "title": "Lego - Botanical Collection - 10281 - Bonsai",
-    "imgUrl": "https://images1.vinted.net/t/04_0234c_Zr4DRHy9F5A13QEhRowhMxGf/f800/1730563843.jpeg?s=3e84ed8334a6c1c461e490becb003f0e27b842bc",
-    "id": 5318010751
   },
   {
     "link": "https://www.vinted.fr/items/4852856851-lego-10281",
     "price": 74.2,
     "title": "Lego 10281",
     "imgUrl": "https://images1.vinted.net/t/02_02058_72BJjE7sCA4wmHsGXnGLjwaN/f800/1722902715.jpeg?s=90668547fb9c8ed61317073222f0df85afbddb04",
+    "publicationDate": 1722902715,
     "id": 4852856851
   },
   {
@@ -354,90 +388,119 @@
     "price": 47.95,
     "title": "Lego botanical collection « Bonsaï Tree »",
     "imgUrl": "https://images1.vinted.net/t/02_00c90_qMgz4bWidfrfAaKc5et3ihSL/f800/1706116627.jpeg?s=6c3510bde37537fd8e6032eacd4509219d039776",
+    "publicationDate": 1706116627,
     "id": 4018995066
-  },
-  {
-    "link": "https://www.vinted.fr/items/2700501750-lego-10281-icons-bonsai",
-    "price": 55.3,
-    "title": "Lego 10281 Icons Bonsaï",
-    "imgUrl": "https://images1.vinted.net/t/03_01e1a_nUbCzeY3SeGMBURjwAbv657n/f800/1676650466.jpeg?s=b97417c3bc4e33141afc3ecfdff4baad2e6e3383",
-    "id": 2700501750
   },
   {
     "link": "https://www.vinted.fr/items/4682266536-lego-misb-10281",
     "price": 53.2,
     "title": "Lego misb 10281",
     "imgUrl": "https://images1.vinted.net/t/01_018d7_5pF1pyLrYdWUf3vJEezkv4nY/f800/1719230904.jpeg?s=d9e6cd5b0a17d18bb551dc33021b7f9576e53860",
+    "publicationDate": 1719230904,
     "id": 4682266536
   },
   {
-    "link": "https://www.vinted.fr/items/3915071465-new-lego-icons-bonsai-tree-10281",
-    "price": 51.89,
-    "title": "(New) Lego Icons - Bonsai Tree #10281",
-    "imgUrl": "https://images1.vinted.net/t/01_00bbb_68FMCq44uNVrkSYuKqY1impU/f800/1703773030.jpeg?s=c2faefe7ed68fde48d8c816e58196be6dc4c2e46",
-    "id": 3915071465
+    "link": "https://www.vinted.fr/items/2700501750-lego-10281-icons-bonsai",
+    "price": 55.3,
+    "title": "Lego 10281 Icons Bonsaï",
+    "imgUrl": "https://images1.vinted.net/t/03_01e1a_nUbCzeY3SeGMBURjwAbv657n/f800/1676650466.jpeg?s=b97417c3bc4e33141afc3ecfdff4baad2e6e3383",
+    "publicationDate": 1676650466,
+    "id": 2700501750
   },
   {
     "link": "https://www.vinted.fr/items/4862634566-lego-creator-bonsai",
     "price": 52.15,
     "title": "LEGO Creator Bonsaï",
     "imgUrl": "https://images1.vinted.net/t/03_019ea_1B3tm1NCGoQGpzPTStacuorX/f800/1723115656.jpeg?s=b1e7639e4777345a39a1a1090783adfa1629c388",
+    "publicationDate": 1723115656,
     "id": 4862634566
   },
   {
-    "link": "https://www.vinted.fr/items/2594677128-lego-10281-bonsai-tree-neuf",
-    "price": 68.95,
-    "title": "Lego 10281 Bonsaï Tree Neuf ",
-    "imgUrl": "https://images1.vinted.net/t/03_023c7_axYkhc2g9qdMyNQxuJNDU7J8/f800/1673826434.jpeg?s=96256995355132e4324d9e8f96300a732d3d747e",
-    "id": 2594677128
-  },
-  {
-    "link": "https://www.vinted.fr/items/4861715097-lego-bonsai-tree-10281",
-    "price": 63.7,
-    "title": "Lego bonsai tree 10281",
-    "imgUrl": "https://images1.vinted.net/t/03_01241_rf8V3KqoSvSAYN77TMTMaLT3/f800/1723102059.jpeg?s=887462b7bf347884907af2b0a278422430c21441",
-    "id": 4861715097
-  },
-  {
-    "link": "https://www.vinted.fr/items/4097637623-lego-10281-bonsai-tree",
-    "price": 55.83,
-    "title": "Lego 10281 bonsai tree",
-    "imgUrl": "https://images1.vinted.net/t/03_007aa_Cjf8wj6tFvdoepnXtakNoPaH/f800/1707838007.jpeg?s=bec98df59fdd2fad67753fc4ef0544bfcca19d1f",
-    "id": 4097637623
-  },
-  {
-    "link": "https://www.vinted.fr/items/3967764986-new-lego-creator-flower-bouquet-10281",
-    "price": 54.24,
-    "title": "(New) Lego Creator - Flower Bouquet #10281",
-    "imgUrl": "https://images1.vinted.net/t/01_01a30_c3zmtAnyLXrUvEWpiku27K6Q/f800/r1/1705009509.jpeg?s=c394bbe199f51900713a738a7555b259b630794c",
-    "id": 3967764986
+    "link": "https://www.vinted.fr/items/3915071465-new-lego-icons-bonsai-tree-10281",
+    "price": 51.89,
+    "title": "(New) Lego Icons - Bonsai Tree #10281",
+    "imgUrl": "https://images1.vinted.net/t/01_00bbb_68FMCq44uNVrkSYuKqY1impU/f800/1703773030.jpeg?s=c2faefe7ed68fde48d8c816e58196be6dc4c2e46",
+    "publicationDate": 1703773030,
+    "id": 3915071465
   },
   {
     "link": "https://www.vinted.fr/items/4962936736-lego-bonsai-et-roses-10281-10328-neufs-et-scelles",
     "price": 93.1,
     "title": "Lego Bonsaï et Roses 10281 10328 NEUFS et scellés",
     "imgUrl": "https://images1.vinted.net/t/03_01c15_7JLrHxfgfU56ZZurabprwqGe/f800/1725039757.jpeg?s=5cf8a7aa850a76cbf7be5e576119206611cda50c",
+    "publicationDate": 1725039757,
     "id": 4962936736
   },
   {
-    "link": "https://www.vinted.fr/items/5010953344-lego-bonsai-10281-botanical-scatola-sigillata",
-    "price": 47.95,
-    "title": "Lego bonsai 10281 botanical. Scatola sigillata",
-    "imgUrl": "https://images1.vinted.net/t/03_00013_SonQqukt914BjEfPqEwru9Lj/f800/1725871798.jpeg?s=52cde4a33ac607d495d7e619a57e1d5c139514e6",
-    "id": 5010953344
+    "link": "https://www.vinted.fr/items/2594677128-lego-10281-bonsai-tree-neuf",
+    "price": 68.95,
+    "title": "Lego 10281 Bonsaï Tree Neuf ",
+    "imgUrl": "https://images1.vinted.net/t/03_023c7_axYkhc2g9qdMyNQxuJNDU7J8/f800/1673826434.jpeg?s=96256995355132e4324d9e8f96300a732d3d747e",
+    "publicationDate": 1673826434,
+    "id": 2594677128
+  },
+  {
+    "link": "https://www.vinted.fr/items/3967764986-new-lego-creator-flower-bouquet-10281",
+    "price": 54.24,
+    "title": "(New) Lego Creator - Flower Bouquet #10281",
+    "imgUrl": "https://images1.vinted.net/t/01_01a30_c3zmtAnyLXrUvEWpiku27K6Q/f800/r1/1705009509.jpeg?s=c394bbe199f51900713a738a7555b259b630794c",
+    "publicationDate": 1705009509,
+    "id": 3967764986
+  },
+  {
+    "link": "https://www.vinted.fr/items/4097637623-lego-10281-bonsai-tree",
+    "price": 55.83,
+    "title": "Lego 10281 bonsai tree",
+    "imgUrl": "https://images1.vinted.net/t/03_007aa_Cjf8wj6tFvdoepnXtakNoPaH/f800/1707838007.jpeg?s=bec98df59fdd2fad67753fc4ef0544bfcca19d1f",
+    "publicationDate": 1707838007,
+    "id": 4097637623
+  },
+  {
+    "link": "https://www.vinted.fr/items/4762878575-lego-orchidees-10311-et-bonsai-10281-neufs-et-scelles",
+    "price": 87.85,
+    "title": "Lego Orchidées 10311 et Bonsaï 10281 NEUFS et scellés",
+    "imgUrl": "https://images1.vinted.net/t/03_0036d_z3DWzFTQ9mwvwmQTP57v34YU/f800/1720953694.jpeg?s=d751f8d9e1845254b69c35d1aec0756b6fa35b29",
+    "publicationDate": 1720953694,
+    "id": 4762878575
   },
   {
     "link": "https://www.vinted.fr/items/4873302042-lego-botanical-collection-10280-10281-10311-10313-10328-10329",
     "price": 268.45,
     "title": "Lego Botanical Collection 10280 10281 10311 10313 10328 10329",
     "imgUrl": "https://images1.vinted.net/t/02_00ccd_TXM3rHadzWEYxnWUZFVh7i49/f800/1723369140.jpeg?s=5d29990469eec6af537ea9785a4cbc8b423b6e7f",
+    "publicationDate": 1723369140,
     "id": 4873302042
+  },
+  {
+    "link": "https://www.vinted.fr/items/5010953344-lego-bonsai-10281-botanical-scatola-sigillata",
+    "price": 47.95,
+    "title": "Lego bonsai 10281 botanical. Scatola sigillata",
+    "imgUrl": "https://images1.vinted.net/t/03_00013_SonQqukt914BjEfPqEwru9Lj/f800/1725871798.jpeg?s=52cde4a33ac607d495d7e619a57e1d5c139514e6",
+    "publicationDate": 1725871798,
+    "id": 5010953344
+  },
+  {
+    "link": "https://www.vinted.fr/items/4966748320-bonsai-lego-10281",
+    "price": 42.7,
+    "title": "Bonsai Lego 10281",
+    "imgUrl": "https://images1.vinted.net/t/03_0138e_X29hY3ZYzkf5TGYdJzPTCuvJ/f800/1725117433.jpeg?s=5ed36161eeb2391978573ef05931d357a0619b4d",
+    "publicationDate": 1725117433,
+    "id": 4966748320
+  },
+  {
+    "link": "https://www.vinted.fr/items/4861715097-lego-bonsai-tree-10281",
+    "price": 63.7,
+    "title": "Lego bonsai tree 10281",
+    "imgUrl": "https://images1.vinted.net/t/03_01241_rf8V3KqoSvSAYN77TMTMaLT3/f800/1723102059.jpeg?s=887462b7bf347884907af2b0a278422430c21441",
+    "publicationDate": 1723102059,
+    "id": 4861715097
   },
   {
     "link": "https://www.vinted.fr/items/2400480907-3x-lego-10281-bonsai-tree",
     "price": 126.7,
     "title": "3x lego 10281 bonsai tree ",
     "imgUrl": "https://images1.vinted.net/t/03_00487_fvyeFGJeeaHSGutAkxCtnB56/f800/1668018889.jpeg?s=493e87cdd1b96798f1145550c57220328cddd555",
+    "publicationDate": 1668018889,
     "id": 2400480907
   },
   {
@@ -445,6 +508,7 @@
     "price": 50.05,
     "title": "Bonsai Tree - Botanical Collection - Lego 10281",
     "imgUrl": "https://images1.vinted.net/t/03_016fd_5Keu1XCy3SLFqpULvm15TAwJ/f800/1703937887.jpeg?s=ab0d460a53aa8fde06323e1d32b4006e795f038c",
+    "publicationDate": 1703937887,
     "id": 3895999828
   },
   {
@@ -452,48 +516,39 @@
     "price": 53.2,
     "title": "Nieuw! Lego 10281 Bonsai Tree",
     "imgUrl": "https://images1.vinted.net/t/02_025d5_81ep1YUq2PqL9MKETgc3uNFe/f800/1708260922.jpeg?s=5b646883de7d54f9baf3ac4f3661a5cf55d3707a",
+    "publicationDate": 1708260922,
     "id": 4115492212
-  },
-  {
-    "link": "https://www.vinted.fr/items/4301713744-lego-10281-botanical-collection-albero-bonsai-tree-nuovo-e-sigillato",
-    "price": 51,
-    "title": "Lego 10281 Botanical Collection Albero Bonsai Tree nuovo e sigillato",
-    "imgUrl": "https://images1.vinted.net/t/01_0164a_P95yw8RdPDiUwYPHhPkurBEz/f800/1711984730.jpeg?s=e277e2d8e027c1ad2ebc2f8a04f94f610bc25aba",
-    "id": 4301713744
   },
   {
     "link": "https://www.vinted.fr/items/4232767246-lot-lego-neuf",
     "price": 105.7,
     "title": "Lot lego neuf ",
     "imgUrl": "https://images1.vinted.net/t/02_01fb4_cMkwMHqMatKCF6qA271VvebC/f800/1710658889.jpeg?s=78c18e3fdea2aefea0e9acda8d9d6eda13ddda85",
+    "publicationDate": 1710658889,
     "id": 4232767246
-  },
-  {
-    "link": "https://www.vinted.fr/items/4762878575-lego-orchidees-10311-et-bonsai-10281-neufs-et-scelles",
-    "price": 87.85,
-    "title": "Lego Orchidées 10311 et Bonsaï 10281 NEUFS et scellés",
-    "imgUrl": "https://images1.vinted.net/t/03_0036d_z3DWzFTQ9mwvwmQTP57v34YU/f800/1720953694.jpeg?s=d751f8d9e1845254b69c35d1aec0756b6fa35b29",
-    "id": 4762878575
-  },
-  {
-    "link": "https://www.vinted.fr/items/5117382043-lego-10281-bonsai-tree",
-    "price": 63.7,
-    "title": "Lego 10281 Bonsai Tree",
-    "imgUrl": "https://images1.vinted.net/t/02_020a1_skpcEYsdyfkXsU1q6yZS527D/f800/1727453666.jpeg?s=3d60c9f89bb41740a6b4e34cea82cc0c04cc187b",
-    "id": 5117382043
   },
   {
     "link": "https://www.vinted.fr/items/4370476927-lego-bonsai-10281-misb",
     "price": 68.95,
     "title": "Lego bonsai  10281 MISB",
     "imgUrl": "https://images1.vinted.net/t/03_00528_9mfgv9qfEd6SdCdyNcwKkfvt/f800/1713214319.jpeg?s=70e642416178f7920c0b9c75ec6b857e298808f2",
+    "publicationDate": 1713214319,
     "id": 4370476927
+  },
+  {
+    "link": "https://www.vinted.fr/items/5117382043-lego-10281-bonsai-tree",
+    "price": 63.7,
+    "title": "Lego 10281 Bonsai Tree",
+    "imgUrl": "https://images1.vinted.net/t/02_020a1_skpcEYsdyfkXsU1q6yZS527D/f800/1727453666.jpeg?s=3d60c9f89bb41740a6b4e34cea82cc0c04cc187b",
+    "publicationDate": 1727453666,
+    "id": 5117382043
   },
   {
     "link": "https://www.vinted.fr/items/3926367622-lego-10281-bonsai-tree-nuovo",
     "price": 52.15,
     "title": "Lego 10281 Bonsai Tree - nuovo",
     "imgUrl": "https://images1.vinted.net/t/01_016cd_TfVC5T56y3vo2kcpoZnh2Dyq/f800/1704111058.jpeg?s=294a46408556f4beda37d76d85f0adece0be80aa",
+    "publicationDate": 1704111058,
     "id": 3926367622
   },
   {
@@ -501,6 +556,7 @@
     "price": 58.45,
     "title": "Lego Bonsai Tree 10281",
     "imgUrl": "https://images1.vinted.net/t/03_01fa4_mPXowQt8uAkLWEnpjCgkBCse/f800/1621112870.jpeg?s=a30b4039feb63f867a3e9efbcdc490425912dd9f",
+    "publicationDate": 1621112870,
     "id": 1113028019
   },
   {
@@ -508,13 +564,23 @@
     "price": 142.45,
     "title": "Lot lego 10281 - 10314 - 10328 neuf sceller",
     "imgUrl": "https://images1.vinted.net/t/03_01bdf_6siv14Trfw517BWXTBxTL9DY/f800/1717079478.jpeg?s=e50a2bbf174488439cefd17277edda036470cfed",
+    "publicationDate": 1717079478,
     "id": 4575730400
+  },
+  {
+    "link": "https://www.vinted.fr/items/4301713744-lego-10281-botanical-collection-albero-bonsai-tree-nuovo-e-sigillato",
+    "price": 51,
+    "title": "Lego 10281 Botanical Collection Albero Bonsai Tree nuovo e sigillato",
+    "imgUrl": "https://images1.vinted.net/t/01_0164a_P95yw8RdPDiUwYPHhPkurBEz/f800/1711984730.jpeg?s=e277e2d8e027c1ad2ebc2f8a04f94f610bc25aba",
+    "publicationDate": 1711984730,
+    "id": 4301713744
   },
   {
     "link": "https://www.vinted.fr/items/4489915814-lot-lego-bonzai-plantes-10329-10281-neuf-sceller",
     "price": 105.7,
     "title": "Lot lego Bonzai - plantes 10329 10281 neuf sceller",
     "imgUrl": "https://images1.vinted.net/t/01_00d08_JvqkykZRr6sfjFZzikoKaRbA/f800/1715452724.jpeg?s=4b42b2801d0e73653e4448285c8994a866baff6f",
+    "publicationDate": 1715452724,
     "id": 4489915814
   },
   {
@@ -522,6 +588,7 @@
     "price": 100.45,
     "title": "Lego Botanical 10313 e 10281 Wildflower Bouquet + Bonsai",
     "imgUrl": "https://images1.vinted.net/t/03_0247d_XvH4HWVLHWEA1GLwTyFtgpdE/f800/1723892639.jpeg?s=0594b3d809e970dc8c78a91a3a5c09dd68ca981e",
+    "publicationDate": 1723892639,
     "id": 4897461144
   },
   {
@@ -529,6 +596,7 @@
     "price": 100.45,
     "title": "Lot lego orchidée Bonzai 10281-10311 neuf sceller",
     "imgUrl": "https://images1.vinted.net/t/01_026f1_vN6JCyxg3nEutEDzeiUsdWrt/f800/1717146290.jpeg?s=3e4525a7589e38d863e1a2327cd13eee8837192d",
+    "publicationDate": 1717146290,
     "id": 4578463406
   },
   {
@@ -536,6 +604,7 @@
     "price": 210.7,
     "title": "Lot lego 10281 - 10313 - 10314 - 10329 neuf sceller ",
     "imgUrl": "https://images1.vinted.net/t/03_00245_D52LaQ4xzeT57wYFAum2i5nt/f800/1708771366.jpeg?s=ba8d323df049d9e5afbbbb141f356459b73c8fd5",
+    "publicationDate": 1708771366,
     "id": 4139826907
   },
   {
@@ -543,69 +612,79 @@
     "price": 105.7,
     "title": "Vari box vuoti e istruzioni Lego",
     "imgUrl": "https://images1.vinted.net/t/02_02598_QSXNwn14dhPwSikcy3YouqWR/f800/1726383394.jpeg?s=3ab179287c90748688ff09ca040ea94ecc0f8f21",
+    "publicationDate": 1726383394,
     "id": 2364953052
-  },
-  {
-    "link": "https://www.vinted.fr/items/2873971444-lego-bonsai-tree-10281-nuovo",
-    "price": 53.2,
-    "title": "Lego Bonsai Tree 10281 - NUOVO",
-    "imgUrl": "https://images1.vinted.net/t/03_0261b_1SVzdwwBhg2eawETB6vCjcrX/f800/1680794940.jpeg?s=dd9faeec9cb0d611a8837eb14326626ddcdca111",
-    "id": 2873971444
-  },
-  {
-    "link": "https://www.vinted.fr/items/5318102720-lego-technic-10281-vtol-heavy-cargo-spaceship-lt81",
-    "price": 95.2,
-    "title": "Lego - Technic - 10281 - VTOL Heavy Cargo Spaceship LT81",
-    "imgUrl": "https://images1.vinted.net/t/04_019d9_Y2bc7jpcfjJ9m6tyChxa62M7/f800/1730564610.jpeg?s=7a891ba02a908319c181f77a8a5debe12a1237f5",
-    "id": 5318102720
-  },
-  {
-    "link": "https://www.vinted.fr/items/4455557520-lego-10281-10328-bonsai-et-bouquet-de-roses-neuf-et-scelle",
-    "price": 99.4,
-    "title": "Lego 10281 10328 Bonsaï et Bouquet de Roses NEUF et scellé",
-    "imgUrl": "https://images1.vinted.net/t/03_00d69_otf9A5xUn6CESq2N1PAWdXRg/f800/1714827192.jpeg?s=0cdae50905621074e058d511ad9c9305d64214f1",
-    "id": 4455557520
   },
   {
     "link": "https://www.vinted.fr/items/3483432963-lego-botanical-10281-10311-10314-bonsai-orchidees-et-centre-de-table-neufs-et-scelles",
     "price": 128.8,
     "title": "Lego Botanical 10281 10311 10314 Bonsaï Orchidées et Centre de table NEUFS et scellés",
     "imgUrl": "https://images1.vinted.net/t/02_00359_raiWwvUUXm6EWQ7VRVokJRB8/f800/1694948179.jpeg?s=c936cbf7c193781d6751199e2e9b9b1b2ea3bf45",
+    "publicationDate": 1694948179,
     "id": 3483432963
   },
   {
-    "link": "https://www.vinted.fr/items/883369292-lego-bonsai-bouquet-10280-10281-neuf-scelle-carton-mint-sold-out-botanical-serie",
-    "price": 84.7,
-    "title": "Lego Bonsai Bouquet 10280 10281 neuf scellé carton mint Sold Out botanical serie",
-    "imgUrl": "https://images1.vinted.net/t/02_00c4f_qtSQGxfuueCgxkADz1YcPZky/f800/1612379466.jpeg?s=71313caeff5a262f42ce17cc953f91ee6277b6bd",
-    "id": 883369292
+    "link": "https://www.vinted.fr/items/2873971444-lego-bonsai-tree-10281-nuovo",
+    "price": 53.2,
+    "title": "Lego Bonsai Tree 10281 - NUOVO",
+    "imgUrl": "https://images1.vinted.net/t/03_0261b_1SVzdwwBhg2eawETB6vCjcrX/f800/1680794940.jpeg?s=dd9faeec9cb0d611a8837eb14326626ddcdca111",
+    "publicationDate": 1680794940,
+    "id": 2873971444
+  },
+  {
+    "link": "https://www.vinted.fr/items/4455557520-lego-10281-10328-bonsai-et-bouquet-de-roses-neuf-et-scelle",
+    "price": 99.4,
+    "title": "Lego 10281 10328 Bonsaï et Bouquet de Roses NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/03_00d69_otf9A5xUn6CESq2N1PAWdXRg/f800/1714827192.jpeg?s=0cdae50905621074e058d511ad9c9305d64214f1",
+    "publicationDate": 1714827192,
+    "id": 4455557520
+  },
+  {
+    "link": "https://www.vinted.fr/items/5318102720-lego-technic-10281-vtol-heavy-cargo-spaceship-lt81",
+    "price": 95.2,
+    "title": "Lego - Technic - 10281 - VTOL Heavy Cargo Spaceship LT81",
+    "imgUrl": "https://images1.vinted.net/t/04_019d9_Y2bc7jpcfjJ9m6tyChxa62M7/f800/1730564610.jpeg?s=7a891ba02a908319c181f77a8a5debe12a1237f5",
+    "publicationDate": 1730564610,
+    "id": 5318102720
   },
   {
     "link": "https://www.vinted.fr/items/3483843814-lego-botanical-10280-10281-10314-bonsai-bouquet-et-centre-de-table-neufs-et-scelles",
     "price": 131.95,
     "title": "Lego Botanical 10280 10281 10314 Bonsaï Bouquet et Centre de table NEUFS et scellés",
     "imgUrl": "https://images1.vinted.net/t/03_014ed_6HfW6sbfXJXtbGKVTdJ3egt6/f800/1694951610.jpeg?s=997b480a42b555edfcfc724f54754590978d6b38",
+    "publicationDate": 1694951610,
     "id": 3483843814
+  },
+  {
+    "link": "https://www.vinted.fr/items/883369292-lego-bonsai-bouquet-10280-10281-neuf-scelle-carton-mint-sold-out-botanical-serie",
+    "price": 84.7,
+    "title": "Lego Bonsai Bouquet 10280 10281 neuf scellé carton mint Sold Out botanical serie",
+    "imgUrl": "https://images1.vinted.net/t/02_00c4f_qtSQGxfuueCgxkADz1YcPZky/f800/1612379466.jpeg?s=71313caeff5a262f42ce17cc953f91ee6277b6bd",
+    "publicationDate": 1612379466,
+    "id": 883369292
   },
   {
     "link": "https://www.vinted.fr/items/4428502708-lego-centre-de-table-10314-roses-10328-bonsai-10281-neufs-et-scelles",
     "price": 130.9,
     "title": "Lego Centre de table 10314 Roses 10328 Bonsaï 10281 NEUFS et scellés",
     "imgUrl": "https://images1.vinted.net/t/02_01584_xNqEQAEayPkW8SYR1zA5Mnfn/f800/1714308206.jpeg?s=760fa61538bd9dd834d14fe5e370065b83f6c135",
+    "publicationDate": 1714308206,
     "id": 4428502708
-  },
-  {
-    "link": "https://www.vinted.fr/items/4489905762-lot-lego-plantes-10313-10281-10329-10328-neuf",
-    "price": 231.7,
-    "title": "Lot Lego Plantes 10313 10281 10329 10328 neuf",
-    "imgUrl": "https://images1.vinted.net/t/01_00a32_trJK7dkFxZrxMR6QyrAeE7ZP/f800/1715452565.jpeg?s=a1430cbc6270c1618e61d45099b518db532e68ec",
-    "id": 4489905762
   },
   {
     "link": "https://www.vinted.fr/items/4888024599-lego-bonsai-bouquet-et-fleurs-sauvages-neufs-et-scelles-10280-10281-10313",
     "price": 144.55,
     "title": "Lego Bonsaï, Bouquet, et Fleurs sauvages NEUFS et scellés 10280 10281 10313",
     "imgUrl": "https://images1.vinted.net/t/02_015d3_gzZb59GF8Z67kg83DSN3UJDV/f800/1723661934.jpeg?s=7c05c92e84fc7205f965545f4d79ed1a8c459dca",
+    "publicationDate": 1723661934,
     "id": 4888024599
+  },
+  {
+    "link": "https://www.vinted.fr/items/4489905762-lot-lego-plantes-10313-10281-10329-10328-neuf",
+    "price": 231.7,
+    "title": "Lot Lego Plantes 10313 10281 10329 10328 neuf",
+    "imgUrl": "https://images1.vinted.net/t/01_00a32_trJK7dkFxZrxMR6QyrAeE7ZP/f800/1715452565.jpeg?s=a1430cbc6270c1618e61d45099b518db532e68ec",
+    "publicationDate": 1715452565,
+    "id": 4489905762
   }
 ]

@@ -1,16 +1,26 @@
 [
   {
     "link": "https://www.vinted.fr/items/5222888685-lego-60312",
-    "price": 7,
+    "price": 5.95,
     "title": "Lego 60312",
     "imgUrl": "https://images1.vinted.net/t/01_012ef_T7VeqLP42HvThMm7BJm8z4Ud/f800/1729006835.jpeg?s=da714f11206cf7df89773ccedcd335255825057e",
+    "publicationDate": 1729006835,
     "id": 5222888685
+  },
+  {
+    "link": "https://www.vinted.fr/items/5299636686-voiture-police-lego",
+    "price": 3.85,
+    "title": "Voiture Police Lego",
+    "imgUrl": "https://images1.vinted.net/t/01_00e13_Wrj7AjQfbmxrGSMgwcAWfUaz/f800/1730228357.jpeg?s=8920c8d1bbfd20eb6d4ec47362cbca555c2bff04",
+    "publicationDate": 1730228357,
+    "id": 5299636686
   },
   {
     "link": "https://www.vinted.fr/items/5295198200-lego-city-60312-voiture-police",
     "price": 5.43,
     "title": "Lego city 60312 voiture police",
     "imgUrl": "https://images1.vinted.net/t/01_01651_FNGTZqy6FMrucGL3UWLYyYRA/f800/1730150222.jpeg?s=aa570ca7dbd7ad0fb4b14211023e201b66ef0bc3",
+    "publicationDate": 1730150222,
     "id": 5295198200
   },
   {
@@ -18,13 +28,23 @@
     "price": 5.43,
     "title": "Lego 60312",
     "imgUrl": "https://images1.vinted.net/t/03_009cd_BmAw91NV7kFxe63mpg3P7ehr/f800/1728993347.jpeg?s=e8e7b50648e11e5cb1bdfc5721da6e19817e280c",
+    "publicationDate": 1728993347,
     "id": 5221415800
+  },
+  {
+    "link": "https://www.vinted.fr/items/5100514843-lego-city",
+    "price": 5.95,
+    "title": "Lego city",
+    "imgUrl": "https://images1.vinted.net/t/02_01b85_5q92oKWGUpRBEVBR72LZ9o2U/f800/1727185842.jpeg?s=c2e5ba38fe127b219ed8a245b1dd11a535462f0f",
+    "publicationDate": 1727185842,
+    "id": 5100514843
   },
   {
     "link": "https://www.vinted.fr/items/5316793860-lego-60312-la-voiture-de-police-neuf",
     "price": 7.68,
     "title": "LEGO - 60312 - La voiture de police **NEUF**",
     "imgUrl": "https://images1.vinted.net/t/02_00ef1_ytWsuLCzKzbViY3Ka6q2fN67/f800/1730554630.jpeg?s=001eacccf2f4429512a85d51213ca1d09ab5bde6",
+    "publicationDate": 1730554630,
     "id": 5316793860
   },
   {
@@ -32,6 +52,7 @@
     "price": 4.9,
     "title": "Voiture lego city police 60312",
     "imgUrl": "https://images1.vinted.net/t/02_00554_PzgkHT77bejbMkHmJjPmVHKw/f800/1730550093.jpeg?s=7cffe44373cbf2d604595c91826fddc9b241addf",
+    "publicationDate": 1730550093,
     "id": 5211981138
   },
   {
@@ -39,6 +60,7 @@
     "price": 7,
     "title": "Lego city 60312 voiture police",
     "imgUrl": "https://images1.vinted.net/t/03_00a88_UymGUotzA7uVSZ6jxxxJecxv/f800/1728232813.jpeg?s=753c66f1a4cda7c6aea126d6528daeb83c1ae9d3",
+    "publicationDate": 1728232813,
     "id": 5171653788
   },
   {
@@ -46,6 +68,7 @@
     "price": 28,
     "title": "Lot lego",
     "imgUrl": "https://images1.vinted.net/t/04_00e97_psaGrSqB2LZ74RSjtZqt1mmg/f800/1730131017.jpeg?s=ec47aa2af814cb6cfe81e8ea161d55f452377914",
+    "publicationDate": 1730131017,
     "id": 5293459536
   },
   {
@@ -53,6 +76,7 @@
     "price": 7,
     "title": "LEGO City 60312",
     "imgUrl": "https://images1.vinted.net/t/04_015d0_x7AUKm7BMudYqo4iLBJBZ4hu/f800/1730308616.jpeg?s=3d946df5d3474242e2f85982b64904abcc5bb5c6",
+    "publicationDate": 1730308616,
     "id": 5304002152
   },
   {
@@ -60,6 +84,7 @@
     "price": 5.95,
     "title": "Lego 60312",
     "imgUrl": "https://images1.vinted.net/t/04_011f2_1M4t3Sa9vfRyM4u3zEvhw4oq/f800/1730484837.jpeg?s=31de7a759a9928849da219050f5e4a4963aa0188",
+    "publicationDate": 1730484837,
     "id": 5313355038
   },
   {
@@ -67,6 +92,7 @@
     "price": 4.9,
     "title": "Lego 60312",
     "imgUrl": "https://images1.vinted.net/t/02_00936_SC5wNoK87KtRuCkf11y2KJ2p/f800/1729619605.jpeg?s=cc42e22f007ca3214c040da0bd966eefd060666c",
+    "publicationDate": 1729619605,
     "id": 5262512692
   },
   {
@@ -74,20 +100,15 @@
     "price": 5.95,
     "title": "60312 - LEGO City - La voiture de police avec boite",
     "imgUrl": "https://images1.vinted.net/t/03_022a5_yq3ay1z3FWwMtPoJH8S6N1Yk/f800/1730470113.jpeg?s=5044ed82f713b82e5da2fdd92e24149995eb0158",
+    "publicationDate": 1730470113,
     "id": 5311806549
-  },
-  {
-    "link": "https://www.vinted.fr/items/3927320175-lego-city-voiture-de-police",
-    "price": 9.1,
-    "title": "Lego city voiture de police",
-    "imgUrl": "https://images1.vinted.net/t/02_02613_Ynzw5VYFon2jzzRzmU7rtwgF/f800/1704125278.jpeg?s=678e33e0cfca660f847da38b3fda81c3054b0834",
-    "id": 3927320175
   },
   {
     "link": "https://www.vinted.fr/items/5203295374-lego-60312",
     "price": 4.38,
     "title": "Lego 60312",
     "imgUrl": "https://images1.vinted.net/t/02_01407_9cFemKopSxKDxV3PAaFhhvpb/f800/1728740418.jpeg?s=27c538db5784e25fe8a4a95b73ec4fb0628c9822",
+    "publicationDate": 1728740418,
     "id": 5203295374
   },
   {
@@ -95,55 +116,63 @@
     "price": 5.95,
     "title": "Lego city 60312 police",
     "imgUrl": "https://images1.vinted.net/t/03_014f7_LhyATtXy587xnxeNvVg1Gm4v/f800/1714633543.jpeg?s=a53272bc93079a27b55e64e7a0d35b1a0661a885",
+    "publicationDate": 1714633543,
     "id": 4445680007
   },
   {
-    "link": "https://www.vinted.fr/items/5230998087-lego-60312-la-voiture-de-police",
-    "price": 7,
-    "title": "Lego 60312 la voiture de police",
-    "imgUrl": "https://images1.vinted.net/t/01_0156f_AMLk8y6kNW9atenNvXrw2WK1/f800/1729156262.jpeg?s=f3e3fd4a983f6c691c8b06732e6bec31af0374b4",
-    "id": 5230998087
+    "link": "https://www.vinted.fr/items/3927320175-lego-city-voiture-de-police",
+    "price": 9.1,
+    "title": "Lego city voiture de police",
+    "imgUrl": "https://images1.vinted.net/t/02_02613_Ynzw5VYFon2jzzRzmU7rtwgF/f800/1704125278.jpeg?s=678e33e0cfca660f847da38b3fda81c3054b0834",
+    "publicationDate": 1704125278,
+    "id": 3927320175
   },
   {
     "link": "https://www.vinted.fr/items/5286372331-lego-60312-voiture-police",
     "price": 5.95,
     "title": "Lego 60312 voiture police",
     "imgUrl": "https://images1.vinted.net/t/04_00750_aKkyB8nMLapRgmySy3orYiGU/f800/1730036442.jpeg?s=936d42734a3d05f0f9eaa92e9419d9313b690588",
+    "publicationDate": 1730036442,
     "id": 5286372331
+  },
+  {
+    "link": "https://www.vinted.fr/items/5230998087-lego-60312-la-voiture-de-police",
+    "price": 7,
+    "title": "Lego 60312 la voiture de police",
+    "imgUrl": "https://images1.vinted.net/t/01_0156f_AMLk8y6kNW9atenNvXrw2WK1/f800/1729156262.jpeg?s=f3e3fd4a983f6c691c8b06732e6bec31af0374b4",
+    "publicationDate": 1729156262,
+    "id": 5230998087
   },
   {
     "link": "https://www.vinted.fr/items/5083680744-lego-city-police-60312",
     "price": 5.95,
     "title": "Lego city police 60312",
     "imgUrl": "https://images1.vinted.net/t/03_010c9_NC43gk59TZigywoRgHE2aqt2/f800/1726943045.jpeg?s=1620958715812b354ddb2f5e1d69bacb7bd3391b",
+    "publicationDate": 1726943045,
     "id": 5083680744
-  },
-  {
-    "link": "https://www.vinted.fr/items/5310360604-lego-city-police",
-    "price": 9.1,
-    "title": "Lego city police",
-    "imgUrl": "https://images1.vinted.net/t/01_013c5_hM9rHgicGuGJaJQcxXfRd2Xx/f800/1730457225.jpeg?s=5e4944483487ffdca4f0fad95c73b367e8fa7342",
-    "id": 5310360604
   },
   {
     "link": "https://www.vinted.fr/items/5023147792-lego-city-60312-voiture-police-neuf",
     "price": 11.2,
     "title": "Lego City 60312 voiture police neuf",
     "imgUrl": "https://images1.vinted.net/t/01_02014_jLpCJTr5TpCGLh8XKPK5zAe4/f800/1726046573.jpeg?s=52b5841b9078d05c9e0b4ae074146a2511dcf439",
+    "publicationDate": 1726046573,
     "id": 5023147792
   },
   {
-    "link": "https://www.vinted.fr/items/5100514843-lego-city",
-    "price": 5.95,
-    "title": "Lego city",
-    "imgUrl": "https://images1.vinted.net/t/02_01b85_5q92oKWGUpRBEVBR72LZ9o2U/f800/1727185842.jpeg?s=c2e5ba38fe127b219ed8a245b1dd11a535462f0f",
-    "id": 5100514843
+    "link": "https://www.vinted.fr/items/5310360604-lego-city-police",
+    "price": 9.1,
+    "title": "Lego city police",
+    "imgUrl": "https://images1.vinted.net/t/01_013c5_hM9rHgicGuGJaJQcxXfRd2Xx/f800/1730457225.jpeg?s=5e4944483487ffdca4f0fad95c73b367e8fa7342",
+    "publicationDate": 1730457225,
+    "id": 5310360604
   },
   {
     "link": "https://www.vinted.fr/items/4968662831-lego-city",
     "price": 8.05,
     "title": "Lego city",
     "imgUrl": "https://images1.vinted.net/t/03_00a91_hVUontrmLT1oQUhRox3n37f8/f800/1725174227.jpeg?s=e8363dd8d504469a26e1eb571eeb1792652500dc",
+    "publicationDate": 1725174227,
     "id": 4968662831
   },
   {
@@ -151,20 +180,15 @@
     "price": 9.1,
     "title": "Lego city",
     "imgUrl": "https://images1.vinted.net/t/02_0188d_DQNJ5MNTiPv4nYbf216xXqsP/f800/1725981684.jpeg?s=c33e84ed09d5ea5d04c8e79f113f370698dcdd4d",
+    "publicationDate": 1725981684,
     "id": 5019506108
-  },
-  {
-    "link": "https://www.vinted.fr/items/5317137107-lego-60312-politieauto-politieagent-politie",
-    "price": 5.95,
-    "title": "Lego 60312 politieauto - politieagent - politie",
-    "imgUrl": "https://images1.vinted.net/t/02_01c4c_nn9WcGk2cJXDnrNBK2K9mzFT/f800/1730557185.jpeg?s=e6a89b0a1f493f69bbaf387767eefef6eab2914e",
-    "id": 5317137107
   },
   {
     "link": "https://www.vinted.fr/items/5275852493-lego-voiture-de-police-60312",
     "price": 5.95,
     "title": "Lego voiture de police 60312",
     "imgUrl": "https://images1.vinted.net/t/04_01ebd_F4wKUfY8TtEHWrMMyusNU6Wu/f800/1729865240.jpeg?s=9f2ca629b4ad27f444290c84fafbddcbab947927",
+    "publicationDate": 1729865240,
     "id": 5275852493
   },
   {
@@ -172,27 +196,39 @@
     "price": 9,
     "title": "LEGO 60312 - voiture de police",
     "imgUrl": "https://images1.vinted.net/t/03_00d02_EBp63DkmtuDBoRjcRybHpbZ9/f800/1724514873.jpeg?s=93e86c8c4d0e7ba6e1a883e222e8c44b013d7b3c",
+    "publicationDate": 1724514873,
     "id": 4932454564
-  },
-  {
-    "link": "https://www.vinted.fr/items/3774303630-lego-police-60312",
-    "price": 5.43,
-    "title": "Lego police 60312",
-    "imgUrl": "https://images1.vinted.net/t/03_000c9_dadSWRTefrPraYS3uHGx3GSs/f800/1700301835.jpeg?s=5231a38496734b7b51ca7203eeb603a9eef55552",
-    "id": 3774303630
   },
   {
     "link": "https://www.vinted.fr/items/5257765413-lego-city-60312-carro-da-policia-novo",
     "price": 9.89,
     "title": "Lego City 60312 - Carro da polícia [novo]",
     "imgUrl": "https://images1.vinted.net/t/03_0126c_KZinvitoiUEqSdKrqjcEHZAB/f800/1729538641.jpeg?s=a199a7c447ec8b4654384675020ae19565d4fa1f",
+    "publicationDate": 1729538641,
     "id": 5257765413
+  },
+  {
+    "link": "https://www.vinted.fr/items/3774303630-lego-police-60312",
+    "price": 5.43,
+    "title": "Lego police 60312",
+    "imgUrl": "https://images1.vinted.net/t/03_000c9_dadSWRTefrPraYS3uHGx3GSs/f800/1700301835.jpeg?s=5231a38496734b7b51ca7203eeb603a9eef55552",
+    "publicationDate": 1700301835,
+    "id": 3774303630
+  },
+  {
+    "link": "https://www.vinted.fr/items/5317137107-lego-60312-politieauto-politieagent-politie",
+    "price": 5.95,
+    "title": "Lego 60312 politieauto - politieagent - politie",
+    "imgUrl": "https://images1.vinted.net/t/02_01c4c_nn9WcGk2cJXDnrNBK2K9mzFT/f800/1730557185.jpeg?s=e6a89b0a1f493f69bbaf387767eefef6eab2914e",
+    "publicationDate": 1730557185,
+    "id": 5317137107
   },
   {
     "link": "https://www.vinted.fr/items/3580952639-lego-city-60312",
     "price": 7,
     "title": "Lego City 60312",
     "imgUrl": "https://images1.vinted.net/t/01_0024d_ihAYi5afV6EXjJM8fDtU4T7W/f800/1696777814.jpeg?s=e21d6205ee0e5b7e47ca2739b4b46b24360e9099",
+    "publicationDate": 1696777814,
     "id": 3580952639
   },
   {
@@ -200,6 +236,7 @@
     "price": 7,
     "title": "Lego city 60312",
     "imgUrl": "https://images1.vinted.net/t/02_00001_wkhY6BgdrCiH8meLWy3gaW6V/f800/1714911420.jpeg?s=ce081a0025ad355efe3daf7ce860a369ec407db3",
+    "publicationDate": 1714911420,
     "id": 4460370683
   },
   {
@@ -207,6 +244,7 @@
     "price": 5.95,
     "title": "Lego City police 60312",
     "imgUrl": "https://images1.vinted.net/t/03_00cca_kcZdQ477bLaKaoL45KY7AcsY/f800/1705310530.jpeg?s=1cd90ee7f94ce1900cf8fc95186aa165442a5770",
+    "publicationDate": 1705310530,
     "id": 3981087473
   },
   {
@@ -214,6 +252,7 @@
     "price": 4.9,
     "title": "Lego police 60312",
     "imgUrl": "https://images1.vinted.net/t/04_01458_ark1wNPvPyMYG9EmcokRdjyp/f800/1729959502.jpeg?s=81c9c06de889de12b6bdab4e7cb9988268128c49",
+    "publicationDate": 1729959502,
     "id": 5281753072
   },
   {
@@ -221,27 +260,31 @@
     "price": 11.2,
     "title": "Voiture de police Logo  \"60312\"",
     "imgUrl": "https://images1.vinted.net/t/01_01522_Uc3bNVtvdy1ExBXfNkXtEkM9/f800/1722341203.jpeg?s=613a1437508679371936eef15e18dbb20bc0f067",
+    "publicationDate": 1722341203,
     "id": 4826582023
-  },
-  {
-    "link": "https://www.vinted.fr/items/4545323255-lego-city",
-    "price": 7,
-    "title": "lego city",
-    "imgUrl": "https://images1.vinted.net/t/03_01f78_BJjgRTGy2zUVesnPqLwj2msg/f800/1716483278.jpeg?s=723356e349ccbb2bc25dde20a35de3e6d23f6583",
-    "id": 4545323255
   },
   {
     "link": "https://www.vinted.fr/items/4559964784-lego-city-politiewagen-60312",
     "price": 8.56,
     "title": "Lego city politiewagen 60312",
     "imgUrl": "https://images1.vinted.net/t/03_00e4b_Zyobig2CxpAdekaV1tdt9Hk3/f800/1716796184.jpeg?s=acda2f8076c383d4d9455b7a9900fa7e9f041752",
+    "publicationDate": 1716796184,
     "id": 4559964784
+  },
+  {
+    "link": "https://www.vinted.fr/items/4545323255-lego-city",
+    "price": 7,
+    "title": "lego city",
+    "imgUrl": "https://images1.vinted.net/t/03_01f78_BJjgRTGy2zUVesnPqLwj2msg/f800/1716483278.jpeg?s=723356e349ccbb2bc25dde20a35de3e6d23f6583",
+    "publicationDate": 1716483278,
+    "id": 4545323255
   },
   {
     "link": "https://www.vinted.fr/items/3547727238-lego-60312-city-la-voiture-de-police-jouet-pour-enfants-des-5-ans-avec-minifigure-officier",
     "price": 9.1,
     "title": "LEGO 60312 City La Voiture de Police, Jouet pour Enfants dès 5 Ans avec Minifigure Officier\n",
     "imgUrl": "https://images1.vinted.net/t/01_0191e_FY5nqzkB4Z5A1WTjnUrghG9W/f800/1696164117.jpeg?s=da8c3291726c971a0a568a569a0484404658f580",
+    "publicationDate": 1696164117,
     "id": 3547727238
   },
   {
@@ -249,20 +292,15 @@
     "price": 9.1,
     "title": "Lego N°60312",
     "imgUrl": "https://images1.vinted.net/t/02_02287_vxMuLnMsRV3aCa79LdEkNHKU/f800/1721814081.jpeg?s=da36c1648388317eb03e8000417538d51425769f",
+    "publicationDate": 1721814081,
     "id": 4802641193
-  },
-  {
-    "link": "https://www.vinted.fr/items/4005103062-lego-city-60312-60383",
-    "price": 11.2,
-    "title": "Lego city 60312 60383",
-    "imgUrl": "https://images1.vinted.net/t/01_023a1_E6MYKvTVokW5bFAqGPNvntyd/f800/1705841448.jpeg?s=a672f7ceb2b9be7485ed9ac1ab73268739411f42",
-    "id": 4005103062
   },
   {
     "link": "https://www.vinted.fr/items/5126384387-lego-60312-politieauto",
     "price": 5.95,
     "title": "Lego 60312 politieauto",
     "imgUrl": "https://images1.vinted.net/t/02_007da_MtHxNUzT5FuNkqYvjWdzxacQ/f800/1727604843.jpeg?s=0cdfbc400954e974150f2840b70627045d26cee8",
+    "publicationDate": 1727604843,
     "id": 5126384387
   },
   {
@@ -270,6 +308,7 @@
     "price": 5.95,
     "title": "Lego city 60312",
     "imgUrl": "https://images1.vinted.net/t/02_02269_mEySJHJPKsCf51dzvCdFLhro/f800/1729344725.jpeg?s=c4667a933fba7cc1456b52133119d4c885e091e4",
+    "publicationDate": 1729344725,
     "id": 5242548738
   },
   {
@@ -277,13 +316,23 @@
     "price": 5.95,
     "title": "Lego 60312",
     "imgUrl": "https://images1.vinted.net/t/03_001ae_8TqvEEPoGxFj9daNoZ2HGBu4/f800/1712985719.jpeg?s=88ea27c511bb9d4cf79ad4641a6d0fe76120d6df",
+    "publicationDate": 1712985719,
     "id": 4355321044
+  },
+  {
+    "link": "https://www.vinted.fr/items/3990913928-lego-auto-polizia-60312",
+    "price": 9.1,
+    "title": "Lego auto polizia 60312",
+    "imgUrl": "https://images1.vinted.net/t/03_00e94_NjyWCxkG3M87u9un34aaJKqK/f800/1705510690.jpeg?s=a830d71501be7c8af97fbc9c5d7ce233d91e5c70",
+    "publicationDate": 1705510690,
+    "id": 3990913928
   },
   {
     "link": "https://www.vinted.fr/items/4902010331-lego-60312",
     "price": 7.53,
     "title": "LEGO 60312",
     "imgUrl": "https://images1.vinted.net/t/01_009f2_KB7g6r8pcCHo3aWihSEAMdje/f800/1723981613.jpeg?s=a665c0289f28ae76a1a097a3133c8530982ba9a8",
+    "publicationDate": 1723981613,
     "id": 4902010331
   },
   {
@@ -291,6 +340,7 @@
     "price": 5.95,
     "title": "Lego city 60312",
     "imgUrl": "https://images1.vinted.net/t/03_02087_oX8y4iW61MRCQDKSexfRJF5G/f800/1723809512.jpeg?s=704eba01c1f56c605355af74306a2c9ec796cda5",
+    "publicationDate": 1723809512,
     "id": 4893868396
   },
   {
@@ -298,6 +348,7 @@
     "price": 7,
     "title": "Lego city 60312",
     "imgUrl": "https://images1.vinted.net/t/02_0077f_VGxRiUy9bcxPaPpvdikqFhsU/f800/r3/1723664051.jpeg?s=0331009a7735bcdcdd3e050e89924d4150953aae",
+    "publicationDate": 1723664051,
     "id": 4888148208
   },
   {
@@ -305,6 +356,7 @@
     "price": 11.2,
     "title": "LEGO City 60312",
     "imgUrl": "https://images1.vinted.net/t/01_00b0a_yfkEBc6hw2sqqiAqHoZ8XUUg/f800/1716989365.jpeg?s=407a14e8795fb04a727ac2eb16e6b0c2f22ee815",
+    "publicationDate": 1716989365,
     "id": 4570933666
   },
   {
@@ -312,6 +364,7 @@
     "price": 11.2,
     "title": "Lego 60312 la voiture de police neuve",
     "imgUrl": "https://images1.vinted.net/t/01_003a5_aym9yFynft7HEiHeePYhvxQG/f800/1725995607.jpeg?s=58c43fe689ebb3f09c8d656b81cdc0a54eff08d2",
+    "publicationDate": 1725995607,
     "id": 5021213139
   },
   {
@@ -319,6 +372,7 @@
     "price": 5.43,
     "title": "Voiture de Police Lego 60312",
     "imgUrl": "https://images1.vinted.net/t/02_024b8_6qydP31PWhrYSTKhYfv4NJiP/f800/1713635314.jpeg?s=ccf4adbe9043a13ba599ca58714b05e075272f6b",
+    "publicationDate": 1713635314,
     "id": 4392622744
   },
   {
@@ -326,41 +380,63 @@
     "price": 5.95,
     "title": "Lego 60312",
     "imgUrl": "https://images1.vinted.net/t/02_0262b_eEQAq2H7yyoEkyvvr8r7udxV/f800/1699785324.jpeg?s=f60254ce09cda0ca35ba3f263981a616c53d6897",
+    "publicationDate": 1699785324,
     "id": 3747053723
-  },
-  {
-    "link": "https://www.vinted.fr/items/5076424154-lego-60312-city-police",
-    "price": 9.1,
-    "title": "Lego 60312 City police",
-    "imgUrl": "https://images1.vinted.net/t/01_0073b_GLvjzBZ4qf6nG8v7PXHxyeYZ/f800/1726837719.jpeg?s=da7e2e4cc7023fb8c999b15a0974eb3dc10a8e84",
-    "id": 5076424154
   },
   {
     "link": "https://www.vinted.fr/items/4820834824-lego-city-60312-voiture-de-police-incomplete",
     "price": 5.95,
     "title": "Lego City - 60312 - Voiture de police - Incomplète",
     "imgUrl": "https://images1.vinted.net/t/03_01423_c4H3kDc174AYzhFHQrjvjkqS/f800/1722194275.jpeg?s=60a9ba8de177f0e157095079758738f1222c7dde",
+    "publicationDate": 1722194275,
     "id": 4820834824
   },
   {
-    "link": "https://www.vinted.fr/items/5285600348-voiture-lego-60312",
-    "price": 5.95,
-    "title": "Voiture lego 60312",
-    "imgUrl": "https://images1.vinted.net/t/04_016fb_dRUYGoUTCDkcNFfY28wSUQjn/f800/1730031383.jpeg?s=661179fcc8cabe8dc6592684977878c916e82a3d",
-    "id": 5285600348
+    "link": "https://www.vinted.fr/items/5076424154-lego-60312-city-police",
+    "price": 9.1,
+    "title": "Lego 60312 City police",
+    "imgUrl": "https://images1.vinted.net/t/01_0073b_GLvjzBZ4qf6nG8v7PXHxyeYZ/f800/1726837719.jpeg?s=da7e2e4cc7023fb8c999b15a0974eb3dc10a8e84",
+    "publicationDate": 1726837719,
+    "id": 5076424154
+  },
+  {
+    "link": "https://www.vinted.fr/items/4005103062-lego-city-60312-60383",
+    "price": 11.2,
+    "title": "Lego city 60312 60383",
+    "imgUrl": "https://images1.vinted.net/t/01_023a1_E6MYKvTVokW5bFAqGPNvntyd/f800/1705841448.jpeg?s=a672f7ceb2b9be7485ed9ac1ab73268739411f42",
+    "publicationDate": 1705841448,
+    "id": 4005103062
   },
   {
     "link": "https://www.vinted.fr/items/5088939221-lot-lego-31111-et-lego-city-60312",
     "price": 11.2,
     "title": "Lot lego 31111 et lego city 60312",
     "imgUrl": "https://images1.vinted.net/t/02_0072c_4xn6ToBSsjgA8s1UY5cCYSe2/f800/1727016391.jpeg?s=a90f50a5a1e9327f65f7ada7638c3ceada4f817c",
+    "publicationDate": 1727016391,
     "id": 5088939221
+  },
+  {
+    "link": "https://www.vinted.fr/items/5285600348-voiture-lego-60312",
+    "price": 5.95,
+    "title": "Voiture lego 60312",
+    "imgUrl": "https://images1.vinted.net/t/04_016fb_dRUYGoUTCDkcNFfY28wSUQjn/f800/1730031383.jpeg?s=661179fcc8cabe8dc6592684977878c916e82a3d",
+    "publicationDate": 1730031383,
+    "id": 5285600348
+  },
+  {
+    "link": "https://www.vinted.fr/items/5249608665-lego-city-60312",
+    "price": 9.1,
+    "title": "Lego city 60312",
+    "imgUrl": "https://images1.vinted.net/t/02_01b43_32Df166EMwgkgMo76iq4PUw5/f800/1729434825.jpeg?s=13843f0e2c09b1cfbc90f33c26481b9d79c11e5c",
+    "publicationDate": 1729434825,
+    "id": 5249608665
   },
   {
     "link": "https://www.vinted.fr/items/4525524270-lego-city-60312-politiewagen-met-doos",
     "price": 5.95,
     "title": "Lego city 60312 politiewagen met doos",
     "imgUrl": "https://images1.vinted.net/t/02_01ec7_LwNc8rwKZRcddXgDBi7tGVj3/f800/1716132611.jpeg?s=3087dde9a01d90d57604d49715298bca82b2b357",
+    "publicationDate": 1716132611,
     "id": 4525524270
   },
   {
@@ -368,55 +444,55 @@
     "price": 8.05,
     "title": "Lego City",
     "imgUrl": "https://images1.vinted.net/t/01_01f42_6X29BYdKBkLkGe9XkjZH24hx/f800/1709108553.jpeg?s=56908d93b71412822d541c02fb8f600acd9a6f68",
+    "publicationDate": 1709108553,
     "id": 4157729906
-  },
-  {
-    "link": "https://www.vinted.fr/items/5249608665-lego-city-60312",
-    "price": 9.1,
-    "title": "Lego city 60312",
-    "imgUrl": "https://images1.vinted.net/t/02_01b43_32Df166EMwgkgMo76iq4PUw5/f800/1729434825.jpeg?s=13843f0e2c09b1cfbc90f33c26481b9d79c11e5c",
-    "id": 5249608665
-  },
-  {
-    "link": "https://www.vinted.fr/items/5303286971-lego-city-voiture-de-police",
-    "price": 5.95,
-    "title": "Lego City - voiture de police",
-    "imgUrl": "https://images1.vinted.net/t/04_00da3_PzWct2xbrn9V37fSL4dnc4Ee/f800/1730301092.jpeg?s=4da24aa9c7cd10821e3cfa371c8b6fd3fc161efd",
-    "id": 5303286971
-  },
-  {
-    "link": "https://www.vinted.fr/items/3927054575-lego-60312-60314-vendido-e-60239",
-    "price": 21.6,
-    "title": "Lego 60312, (60314 vendido) e 60239",
-    "imgUrl": "https://images1.vinted.net/t/03_016ff_8fpDEPpFreC77tY1nhttPRLu/f800/1704121624.jpeg?s=2b34319e5d491c52dc0e65e2edd7a4e74107439e",
-    "id": 3927054575
-  },
-  {
-    "link": "https://www.vinted.fr/items/5286313461-lego-city-60312",
-    "price": 12.25,
-    "title": "Lego city 60312",
-    "imgUrl": "https://images1.vinted.net/t/04_02535_38vrMNszu1h9dcU2vVoNAnfx/f800/1730036065.jpeg?s=a0adb5d9e1e54cd0de18de40d050906b835c2811",
-    "id": 5286313461
   },
   {
     "link": "https://www.vinted.fr/items/3813307811-lego-city-60312-voiture-de-police",
     "price": 11.2,
     "title": "Lego City 60312 Voiture de police",
     "imgUrl": "https://images1.vinted.net/t/03_00a66_P2EBUSaUNcJYS4uwFQk7EFva/f800/1701018813.jpeg?s=d3d9053c692a390978183c8949286179c7743a02",
+    "publicationDate": 1701018813,
     "id": 3813307811
+  },
+  {
+    "link": "https://www.vinted.fr/items/5286313461-lego-city-60312",
+    "price": 12.25,
+    "title": "Lego city 60312",
+    "imgUrl": "https://images1.vinted.net/t/04_02535_38vrMNszu1h9dcU2vVoNAnfx/f800/1730036065.jpeg?s=a0adb5d9e1e54cd0de18de40d050906b835c2811",
+    "publicationDate": 1730036065,
+    "id": 5286313461
+  },
+  {
+    "link": "https://www.vinted.fr/items/3927054575-lego-60312-60314-vendido-e-60239",
+    "price": 21.6,
+    "title": "Lego 60312, (60314 vendido) e 60239",
+    "imgUrl": "https://images1.vinted.net/t/03_016ff_8fpDEPpFreC77tY1nhttPRLu/f800/1704121624.jpeg?s=2b34319e5d491c52dc0e65e2edd7a4e74107439e",
+    "publicationDate": 1704121624,
+    "id": 3927054575
   },
   {
     "link": "https://www.vinted.fr/items/4452601316-boite-lego-60312-complet",
     "price": 8.05,
     "title": "Boite Lego 60312 complet",
     "imgUrl": "https://images1.vinted.net/t/03_00950_jqA4HFVGP7vGpWMHzCCrWSnX/f800/1714756739.jpeg?s=22b3c24c59750c64452b5a9114988c1f953106cc",
+    "publicationDate": 1714756739,
     "id": 4452601316
+  },
+  {
+    "link": "https://www.vinted.fr/items/5303286971-lego-city-voiture-de-police",
+    "price": 5.95,
+    "title": "Lego City - voiture de police",
+    "imgUrl": "https://images1.vinted.net/t/04_00da3_PzWct2xbrn9V37fSL4dnc4Ee/f800/1730301092.jpeg?s=4da24aa9c7cd10821e3cfa371c8b6fd3fc161efd",
+    "publicationDate": 1730301092,
+    "id": 5303286971
   },
   {
     "link": "https://www.vinted.fr/items/2001287705-lego-60312",
     "price": 8.05,
     "title": "Lego 60312",
     "imgUrl": "https://images1.vinted.net/t/02_01e42_1CWhoGfS71tuVidmqkNwnekg/f800/1656578730.jpeg?s=7f21c217102f011b1e69f26c206d84de549f0760",
+    "publicationDate": 1656578730,
     "id": 2001287705
   },
   {
@@ -424,20 +500,15 @@
     "price": 10.15,
     "title": "Lego City 60312 set",
     "imgUrl": "https://images1.vinted.net/t/03_002ca_BHYPRcRJxnMnrRpPKkVwsd74/f800/1728816475.jpeg?s=9396cd3d5a3b3dc5228a07d60ce0d73cd24c3916",
+    "publicationDate": 1728816475,
     "id": 5208124532
-  },
-  {
-    "link": "https://www.vinted.fr/items/3675737473-lego-city-60312",
-    "price": 8.05,
-    "title": "Lego City 60312",
-    "imgUrl": "https://images1.vinted.net/t/01_00774_W6NJHsvJQeDXcNtDUSkp7npd/f800/1698492454.jpeg?s=d6ea101735aeeed1b1b426896a9e680b859d82a4",
-    "id": 3675737473
   },
   {
     "link": "https://www.vinted.fr/items/3579822385-la-voiture-de-police-lego-city-60312",
     "price": 9.1,
     "title": "La voiture de police lego city 60312",
     "imgUrl": "https://images1.vinted.net/t/02_00644_MjVx6tgjwDH3k6prtfFUCoY2/f800/1696770140.jpeg?s=ca4d6accbda2501028666a07523e4b2641c00e67",
+    "publicationDate": 1696770140,
     "id": 3579822385
   },
   {
@@ -445,20 +516,15 @@
     "price": 8.05,
     "title": "Lego Voiture de Police - 60312",
     "imgUrl": "https://images1.vinted.net/t/01_00247_KHSXZ5aZFfvqSBUkp1DYmHrw/f800/1702040694.jpeg?s=807ca5bc24c5d1572277f0ee502fec80f4bf9765",
+    "publicationDate": 1702040694,
     "id": 3858895842
-  },
-  {
-    "link": "https://www.vinted.fr/items/5222174146-lego-city-60312-politieauto",
-    "price": 5.95,
-    "title": "Lego city 60312 Politieauto",
-    "imgUrl": "https://images1.vinted.net/t/01_00ee1_QAY4NqJPzqvNJtvFMRNcufGd/f800/1729000261.jpeg?s=1c4394bf8706f9d2ff9a8b4fb081ee322a8df42c",
-    "id": 5222174146
   },
   {
     "link": "https://www.vinted.fr/items/4613457521-lego-police-car",
     "price": 6.48,
     "title": "Lego police car",
     "imgUrl": "https://images1.vinted.net/t/02_02223_8hUfbcLRfZhYRyfBhDtkptnU/f800/1717843094.jpeg?s=4058a7bc0bedae54d173f1f5c1adf8b338b62b54",
+    "publicationDate": 1717843094,
     "id": 4613457521
   },
   {
@@ -466,6 +532,7 @@
     "price": 5.95,
     "title": "Lego city 60312",
     "imgUrl": "https://images1.vinted.net/t/01_000b2_AdzZMNMEXHhyM6DzDsm7y7iE/f800/1700397394.jpeg?s=0a379fab8d19374a3622f55ffa9e1db7d9f71c79",
+    "publicationDate": 1700397394,
     "id": 3780272436
   },
   {
@@ -473,55 +540,63 @@
     "price": 5.95,
     "title": "Lego city 60312",
     "imgUrl": "https://images1.vinted.net/t/02_01be8_RnBEuCNXBEtYdfz5RF3WLydD/f800/1705920787.jpeg?s=6e9ba299116c490c6103bcbbe1ad0f7d6d595f24",
+    "publicationDate": 1705920787,
     "id": 4009505010
-  },
-  {
-    "link": "https://www.vinted.fr/items/4736305069-lego-60312-police-car",
-    "price": 5.94,
-    "title": "LEGO 60312 - Police Car",
-    "imgUrl": "https://images1.vinted.net/t/02_025d1_jq8ycBniQtu9d1H9i3DuYRnm/f800/1720372393.jpeg?s=23ebf49e9433647e53a10f46216ca80b127195f5",
-    "id": 4736305069
-  },
-  {
-    "link": "https://www.vinted.fr/items/3854855830-lego-60312-lego-city",
-    "price": 8.05,
-    "title": "Lego 60312 lego city",
-    "imgUrl": "https://images1.vinted.net/t/02_0253a_7iwMtMYsVdRbWkGuKVs9bjRY/f800/1701945740.jpeg?s=f34415bbf59b73a4111b33906b4177645ff7126d",
-    "id": 3854855830
-  },
-  {
-    "link": "https://www.vinted.fr/items/3480972085-lego-city-police",
-    "price": 11.2,
-    "title": "Lego city Police",
-    "imgUrl": "https://images1.vinted.net/t/01_01307_DBK6s9hjz2tRk2inriqHb8Xz/f800/1694883443.jpeg?s=4cc963336cd36f1d3723985514c6e742c61f6069",
-    "id": 3480972085
   },
   {
     "link": "https://www.vinted.fr/items/5298047643-lot-lego-city-6-boites-scellees",
     "price": 47.95,
     "title": "Lot LEGO city 6 boîtes scellées",
     "imgUrl": "https://images1.vinted.net/t/04_0112e_xHjqXnVjvai4pDGWh7DUdwyf/f800/1730211934.jpeg?s=399162c40e9e29525311fae646f089a768b78bcd",
+    "publicationDate": 1730211934,
     "id": 5298047643
+  },
+  {
+    "link": "https://www.vinted.fr/items/3480972085-lego-city-police",
+    "price": 11.2,
+    "title": "Lego city Police",
+    "imgUrl": "https://images1.vinted.net/t/01_01307_DBK6s9hjz2tRk2inriqHb8Xz/f800/1694883443.jpeg?s=4cc963336cd36f1d3723985514c6e742c61f6069",
+    "publicationDate": 1694883443,
+    "id": 3480972085
+  },
+  {
+    "link": "https://www.vinted.fr/items/3854855830-lego-60312-lego-city",
+    "price": 8.05,
+    "title": "Lego 60312 lego city",
+    "imgUrl": "https://images1.vinted.net/t/02_0253a_7iwMtMYsVdRbWkGuKVs9bjRY/f800/1701945740.jpeg?s=f34415bbf59b73a4111b33906b4177645ff7126d",
+    "publicationDate": 1701945740,
+    "id": 3854855830
+  },
+  {
+    "link": "https://www.vinted.fr/items/4736305069-lego-60312-police-car",
+    "price": 5.94,
+    "title": "LEGO 60312 - Police Car",
+    "imgUrl": "https://images1.vinted.net/t/02_025d1_jq8ycBniQtu9d1H9i3DuYRnm/f800/1720372393.jpeg?s=23ebf49e9433647e53a10f46216ca80b127195f5",
+    "publicationDate": 1720372393,
+    "id": 4736305069
   },
   {
     "link": "https://www.vinted.fr/items/5239815755-nieuw-lego-city-5-politiewagen-nr-60312",
     "price": 8.05,
     "title": "Nieuw: Lego City 5+ Politiewagen nr: 60312",
     "imgUrl": "https://images1.vinted.net/t/02_01b21_Rw6sUm8Ykig1jbWB4mfDCjwF/f800/1729311654.jpeg?s=5f59eeaae72a76d18908c72b9e20f8c1673e68e4",
+    "publicationDate": 1729311654,
     "id": 5239815755
   },
   {
-    "link": "https://www.vinted.fr/items/3990913928-lego-auto-polizia-60312",
+    "link": "https://www.vinted.fr/items/3521139961-lego-city-60312-coche-de-policia",
     "price": 9.1,
-    "title": "Lego auto polizia 60312",
-    "imgUrl": "https://images1.vinted.net/t/03_00e94_NjyWCxkG3M87u9un34aaJKqK/f800/1705510690.jpeg?s=a830d71501be7c8af97fbc9c5d7ce233d91e5c70",
-    "id": 3990913928
+    "title": "Lego City 60312 Coche de policía ",
+    "imgUrl": "https://images1.vinted.net/t/03_022ec_Gt84ctrvcFeE6zLToQod4bXW/f800/1695637966.jpeg?s=39685f454ab93b3ce444edf000ab2251e1fd607e",
+    "publicationDate": 1695637966,
+    "id": 3521139961
   },
   {
     "link": "https://www.vinted.fr/items/4289744585-coche-de-policia-de-lego-60312",
     "price": 8.05,
     "title": "Coche de policía de LEGO - 60312",
     "imgUrl": "https://images1.vinted.net/t/01_01597_xM6XeGEtgroZquweP52w53Zy/f800/1711735187.jpeg?s=213742351010c65c736c905de1260349d4b14548",
+    "publicationDate": 1711735187,
     "id": 4289744585
   },
   {
@@ -529,41 +604,47 @@
     "price": 11.2,
     "title": "Boite lego city 60312 la voiture de police et personnage",
     "imgUrl": "https://images1.vinted.net/t/01_01d7f_7anJyxamCQjbbJkuueBwN2yj/f800/1696835149.jpeg?s=b6899ca497287776f7c33535498804b01abddd29",
+    "publicationDate": 1696835149,
     "id": 3583603397
   },
   {
-    "link": "https://www.vinted.fr/items/3521139961-lego-city-60312-coche-de-policia",
-    "price": 9.1,
-    "title": "Lego City 60312 Coche de policía ",
-    "imgUrl": "https://images1.vinted.net/t/03_022ec_Gt84ctrvcFeE6zLToQod4bXW/f800/1695637966.jpeg?s=39685f454ab93b3ce444edf000ab2251e1fd607e",
-    "id": 3521139961
+    "link": "https://www.vinted.fr/items/3675737473-lego-city-60312",
+    "price": 8.05,
+    "title": "Lego City 60312",
+    "imgUrl": "https://images1.vinted.net/t/01_00774_W6NJHsvJQeDXcNtDUSkp7npd/f800/1698492454.jpeg?s=d6ea101735aeeed1b1b426896a9e680b859d82a4",
+    "publicationDate": 1698492454,
+    "id": 3675737473
   },
   {
     "link": "https://www.vinted.fr/items/5135105813-lego-city-politie-auto",
     "price": 12.25,
     "title": "Lego city politie auto",
     "imgUrl": "https://images1.vinted.net/t/01_00b96_dB74aeFRN21CTvKv3AwM6yAV/f800/1727700700.jpeg?s=34db985769659b0fa1de2a1c6b0c89ef0e9b3265",
+    "publicationDate": 1727700700,
     "id": 5135105813
+  },
+  {
+    "link": "https://www.vinted.fr/items/5222174146-lego-city-60312-politieauto",
+    "price": 5.95,
+    "title": "Lego city 60312 Politieauto",
+    "imgUrl": "https://images1.vinted.net/t/01_00ee1_QAY4NqJPzqvNJtvFMRNcufGd/f800/1729000261.jpeg?s=1c4394bf8706f9d2ff9a8b4fb081ee322a8df42c",
+    "publicationDate": 1729000261,
+    "id": 5222174146
   },
   {
     "link": "https://www.vinted.fr/items/5166943811-lego-city-60312",
     "price": 9.1,
     "title": "Lego city 60312",
     "imgUrl": "https://images1.vinted.net/t/02_01eaf_7fxh9HSZe9cQpc4A3jwg8Z8t/f800/1728208326.jpeg?s=e0051782a6b5cb467fe6416ad286ada93c3864b5",
+    "publicationDate": 1728208326,
     "id": 5166943811
-  },
-  {
-    "link": "https://www.vinted.fr/items/5163897351-lego-city-macchina-polizia-60312",
-    "price": 11.2,
-    "title": "Lego City macchina polizia 60312",
-    "imgUrl": "https://images1.vinted.net/t/03_00d79_Ht9JmccxUFb63SG2MRhrZzvX/f800/1728145338.jpeg?s=44ead7901a2c1f32143d1f25cbd9d19d59583442",
-    "id": 5163897351
   },
   {
     "link": "https://www.vinted.fr/items/5250825835-voiture-de-police-lego",
     "price": 16.45,
     "title": "Voiture de police lego",
     "imgUrl": "https://images1.vinted.net/t/01_02167_j41JRuoLk4XusuuUD3N6kgCU/f800/1729441533.jpeg?s=278222352b9def022d96228ae9ccdcb416f42795",
+    "publicationDate": 1729441533,
     "id": 5250825835
   },
   {
@@ -571,6 +652,7 @@
     "price": 16.45,
     "title": "Boite Lego 60312 Voiture de Police neuve",
     "imgUrl": "https://images1.vinted.net/t/03_001ce_cdPUAEo5cnFCuatov2JR26Lg/f800/1702665742.jpeg?s=944a825aadf26d15e1d9451964bf93076658fc6e",
+    "publicationDate": 1702665742,
     "id": 3885707707
   },
   {
@@ -578,27 +660,39 @@
     "price": 10.15,
     "title": "Lego 60312",
     "imgUrl": "https://images1.vinted.net/t/02_004e0_uCnLKECmjn6NgUYVNXkF1L8r/f800/1700672802.jpeg?s=c5b75f78388534ffce8ab684d146ca6bc3fd6974",
+    "publicationDate": 1700672802,
     "id": 3796047931
   },
   {
-    "link": "https://www.vinted.fr/items/4984155210-lego-polizia-60312",
+    "link": "https://www.vinted.fr/items/5163897351-lego-city-macchina-polizia-60312",
     "price": 11.2,
-    "title": "Lego polizia 60312",
-    "imgUrl": "https://images1.vinted.net/t/03_01b2c_gnKQpLUEKkJdUwR4uHpuqysm/f800/1725408700.jpeg?s=792353d0823c97c40d5a1aa483353dc6ef9b6454",
-    "id": 4984155210
+    "title": "Lego City macchina polizia 60312",
+    "imgUrl": "https://images1.vinted.net/t/03_00d79_Ht9JmccxUFb63SG2MRhrZzvX/f800/1728145338.jpeg?s=44ead7901a2c1f32143d1f25cbd9d19d59583442",
+    "publicationDate": 1728145338,
+    "id": 5163897351
   },
   {
     "link": "https://www.vinted.fr/items/5187682679-lego-town-city-60312-police-car",
     "price": 9.1,
     "title": "Lego Town City 60312 Police Car",
     "imgUrl": "https://images1.vinted.net/t/01_00c51_5vJ2m6uRKTksDJt2qTffYw97/f800/1728481571.jpeg?s=3cc7d949cd023cf261be2dc32f7d9e4fa9fa2227",
+    "publicationDate": 1728481571,
     "id": 5187682679
+  },
+  {
+    "link": "https://www.vinted.fr/items/4984155210-lego-polizia-60312",
+    "price": 11.2,
+    "title": "Lego polizia 60312",
+    "imgUrl": "https://images1.vinted.net/t/03_01b2c_gnKQpLUEKkJdUwR4uHpuqysm/f800/1725408700.jpeg?s=792353d0823c97c40d5a1aa483353dc6ef9b6454",
+    "publicationDate": 1725408700,
+    "id": 4984155210
   },
   {
     "link": "https://www.vinted.fr/items/4928962046-lego-city-60312",
     "price": 13.3,
     "title": "Lego City 60312",
     "imgUrl": "https://images1.vinted.net/t/03_01a13_tsWePPVGSVW2bqxS1XgDisxs/f800/1724443385.jpeg?s=b0b9b71a7b023ad9ef08b51bf524285721d748fb",
+    "publicationDate": 1724443385,
     "id": 4928962046
   },
   {
@@ -606,6 +700,7 @@
     "price": 8.05,
     "title": "LEGO City Politiewagen (60312)",
     "imgUrl": "https://images1.vinted.net/t/03_006f2_3aNL1BvRTgsDspJhHkHrVJ7i/f800/1729335316.jpeg?s=463df25c06f26ca7e7de1150f54eadbe90c24913",
+    "publicationDate": 1729335316,
     "id": 5241311568
   },
   {
@@ -613,41 +708,47 @@
     "price": 14.35,
     "title": "Lego City, modèle 60312 voiture police x 2",
     "imgUrl": "https://images1.vinted.net/t/02_025a6_NMLcLnJsYQQtCL6CAqaxnx5R/f800/1727092537.jpeg?s=8ec91480ef07aba9d96fb8df8262ff71592cbef2",
+    "publicationDate": 1727092537,
     "id": 5094173590
-  },
-  {
-    "link": "https://www.vinted.fr/items/5108407999-lego-city-politie-auto-60312",
-    "price": 5.43,
-    "title": "Lego city politie auto 60312",
-    "imgUrl": "https://images1.vinted.net/t/01_004ea_fR2KzqN9PdBQu5JdYNWkWn9E/f800/1727294616.jpeg?s=51c0c3bd3bdd97ce098ecbb15cc599ef14d30b3d",
-    "id": 5108407999
   },
   {
     "link": "https://www.vinted.fr/items/3849962891-lego-60312",
     "price": 10.15,
     "title": "Lego 60312",
     "imgUrl": "https://images1.vinted.net/t/03_00b8c_B5GqJphz48rHtBcGrKEmAy1m/f800/1701807805.jpeg?s=f50e5afca9c2ac13f6c5322c8ebcf433190d0638",
+    "publicationDate": 1701807805,
     "id": 3849962891
-  },
-  {
-    "link": "https://www.vinted.fr/items/4521835996-lego-city",
-    "price": 16.45,
-    "title": "Lego City",
-    "imgUrl": "https://images1.vinted.net/t/01_008d4_fzhpX9Xzxx7Ur1dF3JnYAXWS/f800/1716062552.jpeg?s=3dd283701df134dbe79da9f2d983e741c0743196",
-    "id": 4521835996
   },
   {
     "link": "https://www.vinted.fr/items/4445977046-lego-city-60312-mai-aperto",
     "price": 10.15,
     "title": "Lego city 60312 mai aperto",
     "imgUrl": "https://images1.vinted.net/t/02_0186c_W3vu6gYoPaAzmnFZ2UzXL19F/f800/1714639425.jpeg?s=513363f51170b71a7df28d226d38ca3239656376",
+    "publicationDate": 1714639425,
     "id": 4445977046
+  },
+  {
+    "link": "https://www.vinted.fr/items/5108407999-lego-city-politie-auto-60312",
+    "price": 5.43,
+    "title": "Lego city politie auto 60312",
+    "imgUrl": "https://images1.vinted.net/t/01_004ea_fR2KzqN9PdBQu5JdYNWkWn9E/f800/1727294616.jpeg?s=51c0c3bd3bdd97ce098ecbb15cc599ef14d30b3d",
+    "publicationDate": 1727294616,
+    "id": 5108407999
+  },
+  {
+    "link": "https://www.vinted.fr/items/4521835996-lego-city",
+    "price": 16.45,
+    "title": "Lego City",
+    "imgUrl": "https://images1.vinted.net/t/01_008d4_fzhpX9Xzxx7Ur1dF3JnYAXWS/f800/1716062552.jpeg?s=3dd283701df134dbe79da9f2d983e741c0743196",
+    "publicationDate": 1716062552,
+    "id": 4521835996
   },
   {
     "link": "https://www.vinted.fr/items/4287425024-lego-city-60312",
     "price": 5.95,
     "title": "Lego City 60312",
     "imgUrl": "https://images1.vinted.net/t/01_01e24_kxkpUipfomujE1ctP6LwTYGU/f800/1711708951.jpeg?s=ecef20b9976e3a308044b53524b940de91634bda",
+    "publicationDate": 1711708951,
     "id": 4287425024
   },
   {
@@ -655,6 +756,7 @@
     "price": 16.45,
     "title": "LEGO City 60312 La voiture de police",
     "imgUrl": "https://images1.vinted.net/t/02_004ae_tcApMAB2eMETDxqMLkjjiyNn/f800/1704971505.jpeg?s=0acd209074655b45846c907af596333f5632d1f6",
+    "publicationDate": 1704971505,
     "id": 3965330922
   },
   {
@@ -662,27 +764,31 @@
     "price": 21.7,
     "title": "LEGO City 60312 et 60322",
     "imgUrl": "https://images1.vinted.net/t/03_0104c_Mb1XgoeHwzixztTH8WurRAse/f800/1716989285.jpeg?s=657a3f7fecff4828aca4fac742a5c6995353e563",
+    "publicationDate": 1716989285,
     "id": 4570926162
-  },
-  {
-    "link": "https://www.vinted.fr/items/4388434286-lego-city-60312",
-    "price": 7,
-    "title": "Lego City 60312",
-    "imgUrl": "https://images1.vinted.net/t/03_0044b_PqWNct8aowZCcwuakkPobyMH/f800/1713562425.jpeg?s=b7d69d2cb6025e4e2b225b15c4fcb3b8ae9e6264",
-    "id": 4388434286
   },
   {
     "link": "https://www.vinted.fr/items/3866506132-lego-city-60312-police-policecar-politiewagen-kerst-christmas-noel",
     "price": 7,
     "title": "Lego City 60312 police policecar politiewagen kerst Christmas Noël ",
     "imgUrl": "https://images1.vinted.net/t/02_01cd0_kTCxSehNU1y88LJDqR7PHaKK/f800/1702211406.jpeg?s=536523612b45b735a4d7977d0c136897e8156537",
+    "publicationDate": 1702211406,
     "id": 3866506132
+  },
+  {
+    "link": "https://www.vinted.fr/items/5108407999-lego-city-politie-auto-60312",
+    "price": 5.43,
+    "title": "Lego city politie auto 60312",
+    "imgUrl": "https://images1.vinted.net/t/01_004ea_fR2KzqN9PdBQu5JdYNWkWn9E/f800/1727294616.jpeg?s=51c0c3bd3bdd97ce098ecbb15cc599ef14d30b3d",
+    "publicationDate": 1727294616,
+    "id": 5108407999
   },
   {
     "link": "https://www.vinted.fr/items/3443362764-lego-60312",
     "price": 14.35,
     "title": "Lego 60312",
     "imgUrl": "https://images1.vinted.net/t/03_01d3e_r5Xz9BrGk2yqW1YvJhnK65NR/f800/1694024700.jpeg?s=32424dc6b797a387dcc4f3fc45a418db51e801ae",
+    "publicationDate": 1694024700,
     "id": 3443362764
   },
   {
@@ -690,6 +796,7 @@
     "price": 25.9,
     "title": "Lego City",
     "imgUrl": "https://images1.vinted.net/t/01_000c3_VNG22oQ5vTLxs1jtMYw1owJz/f800/1716062761.jpeg?s=1fdfbee8c487711ad21cfe23970dcb4bf210c5e3",
+    "publicationDate": 1716062761,
     "id": 4521847670
   },
   {
@@ -697,6 +804,7 @@
     "price": 34.3,
     "title": "Lot de 3 voitures Lego des boîtes 42090, 60312 et 75895",
     "imgUrl": "https://images1.vinted.net/t/03_0124c_AQFLKEtUqmYm5mvGc6WadL1R/f800/1709397785.jpeg?s=0603165ebd56fdcf4b297561afaa3d7e2e9b6749",
+    "publicationDate": 1709397785,
     "id": 4172094576
   },
   {
@@ -704,6 +812,7 @@
     "price": 21.69,
     "title": "LEGO City combination: police car 60312 camper 60283 vliegtuig 60323",
     "imgUrl": "https://images1.vinted.net/t/03_00c38_qaBMZw4j8VWaQ78aFyQ317dA/f800/1677075751.jpeg?s=65e1bcffb080fcaac4bdccc44906ea9d1571fd3a",
+    "publicationDate": 1677075751,
     "id": 2717445280
   },
   {
@@ -711,6 +820,7 @@
     "price": 34.3,
     "title": "Lotto Lego 40409 e 60312 misb",
     "imgUrl": "https://images1.vinted.net/t/02_01b84_i3zAMkgV121q9L4r55McuVU2/f800/1714305361.jpeg?s=60d24862df455a9ad16e031479cdd5372e7ea814",
+    "publicationDate": 1714305361,
     "id": 4428116628
   },
   {
@@ -718,6 +828,7 @@
     "price": 8.58,
     "title": "LEGO City 60312 Carro da Polícia",
     "imgUrl": "https://images1.vinted.net/t/02_004b3_m3UTy2RqC7CEqmHst1AMQ6E9/f800/1703852794.jpeg?s=219935c66734e57c0ba578be57c263a414bf07ff",
+    "publicationDate": 1703852794,
     "id": 3917978015
   },
   {
@@ -725,6 +836,7 @@
     "price": 34.3,
     "title": "20% discount x4 sets 60312",
     "imgUrl": "https://images1.vinted.net/t/01_01045_yF1P3Qb1jqAi62eLF2qgcYT3/f800/1696441031.jpeg?s=e4ce455b57b60afe1e4693ce1d6537a64ff11ff4",
+    "publicationDate": 1696441031,
     "id": 3563349788
   },
   {
@@ -732,6 +844,7 @@
     "price": 61.6,
     "title": "lot lego city Le garage 60389  +60383 +60312 voiture . Neufs et scellés",
     "imgUrl": "https://images1.vinted.net/t/02_0243c_H9ohvswnEa1y2DuXiKRGJJ5k/f800/1728821894.jpeg?s=c77cd72cbc7c1a0b89e921f0a8fa94175af81628",
+    "publicationDate": 1728821894,
     "id": 5209032962
   },
   {
@@ -739,41 +852,47 @@
     "price": 42.7,
     "title": "Lot de lego city 60312, 60247,60206 neuf et scellé ",
     "imgUrl": "https://images1.vinted.net/t/02_000a3_meZ7fosXXya3RMvgvWg3fEAX/f800/1662900576.jpeg?s=25d9dacd98c8bc77d2d247f35d8a0bcaafee077a",
+    "publicationDate": 1662900576,
     "id": 2188094728
-  },
-  {
-    "link": "https://www.vinted.fr/items/3414127844-lot-de-lego-neufs",
-    "price": 47.95,
-    "title": "Lot de Légo neufs",
-    "imgUrl": "https://images1.vinted.net/t/03_0026d_Ha5oJFc26MDxFdGb4rnDXoyx/f800/1693424154.jpeg?s=23d9b6844067792d12ab60c55574e94962438a68",
-    "id": 3414127844
   },
   {
     "link": "https://www.vinted.fr/items/5287997772-lego-city",
     "price": 137.2,
     "title": "Lego city",
     "imgUrl": "https://images1.vinted.net/t/03_022b8_rhLGu6mPcTi5VrmJCvrBLt51/f800/1730046621.jpeg?s=1f93d9a5940f08be2d5bab22e2ec9b9b42fa7314",
+    "publicationDate": 1730046621,
     "id": 5287997772
-  },
-  {
-    "link": "https://www.vinted.fr/items/5202542968-lego-city",
-    "price": 79.45,
-    "title": "Lego city",
-    "imgUrl": "https://images1.vinted.net/t/01_002a8_adCyRUpgMNCBFgEh1GoDJtcB/f800/1728735088.jpeg?s=bd890f6a424f78e0b94e4658b7ef3072cdbbe7cd",
-    "id": 5202542968
   },
   {
     "link": "https://www.vinted.fr/items/5104430162-lego-40448-40468-40469-60312-nuovi-sigillati",
     "price": 63.7,
     "title": "Lego 40448 40468 40469 60312 nuovi sigillati",
     "imgUrl": "https://images1.vinted.net/t/03_002b0_uaNKmEBk9YqXfDYkDTjDFXpG/f800/1727257523.jpeg?s=ed76555593742613cc1253fce574ff0ffdaa8dc2",
+    "publicationDate": 1727257523,
     "id": 5104430162
+  },
+  {
+    "link": "https://www.vinted.fr/items/5202542968-lego-city",
+    "price": 79.45,
+    "title": "Lego city",
+    "imgUrl": "https://images1.vinted.net/t/01_002a8_adCyRUpgMNCBFgEh1GoDJtcB/f800/1728735088.jpeg?s=bd890f6a424f78e0b94e4658b7ef3072cdbbe7cd",
+    "publicationDate": 1728735088,
+    "id": 5202542968
+  },
+  {
+    "link": "https://www.vinted.fr/items/3414127844-lot-de-lego-neufs",
+    "price": 47.95,
+    "title": "Lot de Légo neufs",
+    "imgUrl": "https://images1.vinted.net/t/03_0026d_Ha5oJFc26MDxFdGb4rnDXoyx/f800/1693424154.jpeg?s=23d9b6844067792d12ab60c55574e94962438a68",
+    "publicationDate": 1693424154,
+    "id": 3414127844
   },
   {
     "link": "https://www.vinted.fr/items/3598793408-lot-lego-city",
     "price": 168.7,
     "title": "Lot lego city",
     "imgUrl": "https://images1.vinted.net/t/02_005d6_J57RdK2RnxC2JG1M7bLYiLWy/f800/1697120729.jpeg?s=5dfc65902cc244b4239bcec7ab82a5db749c16a3",
+    "publicationDate": 1697120729,
     "id": 3598793408
   },
   {
@@ -781,6 +900,7 @@
     "price": 18.55,
     "title": "Lego macchina della polizia ",
     "imgUrl": "https://images1.vinted.net/t/01_0155d_PsuWutR4X6qRKhqFxhNXKnhn/f800/1677169944.jpeg?s=b652af6f9864363c26441e13856cf5fbf7de1f56",
+    "publicationDate": 1677169944,
     "id": 2721232347
   },
   {
@@ -788,13 +908,23 @@
     "price": 79.45,
     "title": "Lego City politiebureau, auto's, boot en motoren 60069, 60369, 60006, 60312, 60065, 60041",
     "imgUrl": "https://images1.vinted.net/t/02_00fab_QxevYfwJYry75yXZ52M1cGuq/f800/1698677375.jpeg?s=d9af98d6ca12d4fbcfb2df8a4eada08aca101961",
+    "publicationDate": 1698677375,
     "id": 3687398396
+  },
+  {
+    "link": "https://www.vinted.fr/items/5328511480-lot-lego-city-police-60246-60317-60314-60312",
+    "price": 158.2,
+    "title": "Lot lego city police 60246, 60317, 60314 & 60312",
+    "imgUrl": "https://images1.vinted.net/t/04_01103_yiEAaj1ygHi5KeBW8hpiUbKE/f800/1730722313.jpeg?s=96b4f8f4068c1395330c17a9f79c54a0b62c5f0f",
+    "publicationDate": 1730722313,
+    "id": 5328511480
   },
   {
     "link": "https://www.vinted.fr/items/3893323959-lotto-lego-city",
     "price": 53.2,
     "title": "Lotto Lego City",
     "imgUrl": "https://images1.vinted.net/t/01_01e18_TPNcgV2sjHMkDr9BVBqd6dCd/f800/1702898363.jpeg?s=27b2e73a9ec1a9b4e1adc64cf9de1cb04b63f2df",
+    "publicationDate": 1702898363,
     "id": 3893323959
   }
 ]

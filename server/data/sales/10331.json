@@ -4,6 +4,7 @@
     "price": 39.55,
     "title": "LEGO Icons 10331 Le martin-pêcheur neuf",
     "imgUrl": "https://images1.vinted.net/t/03_0113a_4baHf1URvhwJzPVx4fN2t8Aj/f800/1729974206.jpeg?s=b5b78863a65a1ddf170fa4ed82d030687ebf552b",
+    "publicationDate": 1729974206,
     "id": 5282866681
   },
   {
@@ -11,27 +12,31 @@
     "price": 32.2,
     "title": "Lego Martin Pêcheur 10331",
     "imgUrl": "https://images1.vinted.net/t/04_00933_RVdtQzosJ1kow2GW6mgYprPN/f800/1730653919.jpeg?s=200e40206c956213b787d690ea348978c479c39d",
+    "publicationDate": 1730653919,
     "id": 5324997552
+  },
+  {
+    "link": "https://www.vinted.fr/items/5328052508-lego-martin-pecheur-10331",
+    "price": 36.4,
+    "title": "Lego Martin pêcheur 10331",
+    "imgUrl": "https://images1.vinted.net/t/03_011fd_ffH2feMAv7rcAur8MprLYUyb/f800/1730717644.jpeg?s=f62bf1c0d6b7cd6e4688665596b9fe8281c57b08",
+    "publicationDate": 1730717644,
+    "id": 5328052508
   },
   {
     "link": "https://www.vinted.fr/items/5320719950-lego-10331-kingfish-new",
     "price": 37.98,
     "title": "Lego 10331 Kingfish *new",
     "imgUrl": "https://images1.vinted.net/t/04_025c7_UURLnGyX3RFZEZx22WW4yHht/f800/1730627502.jpeg?s=82cb4dd882bce93508362271d3c2b40b25f8a1a9",
+    "publicationDate": 1730627502,
     "id": 5320719950
-  },
-  {
-    "link": "https://www.vinted.fr/items/5326964249-lego-icons-kingfisher-10331",
-    "price": 41.65,
-    "title": "Lego Icons Kingfisher 10331",
-    "imgUrl": "https://images1.vinted.net/t/01_00eb6_2Ge7yEFqa9s3CQwPDoGqzcdc/f800/1730676169.jpeg?s=04675d9ec9c4806fcc58f63985073ec0d6cfc2e2",
-    "id": 5326964249
   },
   {
     "link": "https://www.vinted.fr/items/5321991172-lego-kingfisher-10331",
     "price": 37.45,
     "title": "Lego Kingfisher 10331",
     "imgUrl": "https://images1.vinted.net/t/03_022e5_3A4sNPRrVAB3ptEZPcqGmQHy/f800/1730635944.jpeg?s=b4afaf9fe85cb0116be0490b8af77758f50f4a5b",
+    "publicationDate": 1730635944,
     "id": 5321991172
   },
   {
@@ -39,27 +44,39 @@
     "price": 37.45,
     "title": "Kingfisher Lego set 10331",
     "imgUrl": "https://images1.vinted.net/t/02_00b84_gMRfaibsrQZPiw4wb7YK3nWw/f800/1730396316.jpeg?s=f79d4477616bfaf3e4ace1b9a0362eca85f45b1b",
+    "publicationDate": 1730396316,
     "id": 5308465279
   },
   {
-    "link": "https://www.vinted.fr/items/4980791876-lego-martin-pecheur",
-    "price": 47.95,
-    "title": "Lego Martin pêcheur",
-    "imgUrl": "https://images1.vinted.net/t/03_020fb_r2kFJ5FaHgmDfcjVtQxaq9Z5/f800/1725361892.jpeg?s=f95f201cbaf241b3465fdcd4006fecbf22709ff3",
-    "id": 4980791876
+    "link": "https://www.vinted.fr/items/5326964249-lego-icons-kingfisher-10331",
+    "price": 41.65,
+    "title": "Lego Icons Kingfisher 10331",
+    "imgUrl": "https://images1.vinted.net/t/01_00eb6_2Ge7yEFqa9s3CQwPDoGqzcdc/f800/1730676169.jpeg?s=04675d9ec9c4806fcc58f63985073ec0d6cfc2e2",
+    "publicationDate": 1730676169,
+    "id": 5326964249
   },
   {
     "link": "https://www.vinted.fr/items/5063223720-lego-icons-10331-kingfisher",
     "price": 38.5,
     "title": "Lego Icons 10331 Kingfisher",
     "imgUrl": "https://images1.vinted.net/t/02_00c09_M2QBLaySpmwispKsHWqVAShu/f800/1726600194.jpeg?s=8824b0c30ef9f873c88feb7c9cd38cf117e413bc",
+    "publicationDate": 1726600194,
     "id": 5063223720
+  },
+  {
+    "link": "https://www.vinted.fr/items/4980791876-lego-martin-pecheur",
+    "price": 47.95,
+    "title": "Lego Martin pêcheur",
+    "imgUrl": "https://images1.vinted.net/t/03_020fb_r2kFJ5FaHgmDfcjVtQxaq9Z5/f800/1725361892.jpeg?s=f95f201cbaf241b3465fdcd4006fecbf22709ff3",
+    "publicationDate": 1725361892,
+    "id": 4980791876
   },
   {
     "link": "https://www.vinted.fr/items/4566801302-lego-10331-icons-martin-pescatore",
     "price": 40.6,
     "title": "LEGO 10331 Icons Martin Pescatore",
     "imgUrl": "https://images1.vinted.net/t/02_00d37_X6h46DdDdfXguVnYQTVeKebM/f800/1716906720.jpeg?s=14a9cb071002183a9afbc67051fbe52b230b2455",
+    "publicationDate": 1716906720,
     "id": 4566801302
   },
   {
@@ -67,6 +84,7 @@
     "price": 42.7,
     "title": "Lego 10331 kingfisher",
     "imgUrl": "https://images1.vinted.net/t/03_014b2_n5yi1vvSMnkfvMNcKwtf8go5/f800/1729629477.jpeg?s=ab33f0a51642de6bd4a50dbaa5ab0ca6b05b52fe",
+    "publicationDate": 1729629477,
     "id": 5263321160
   },
   {
@@ -74,6 +92,7 @@
     "price": 42.7,
     "title": "Lego Icon 10331 Le Martin Pêcheur Neuf et Scellé !",
     "imgUrl": "https://images1.vinted.net/t/04_00727_RPi1vjJsuc8ffvicqmMdfwUJ/f800/1730274841.jpeg?s=9d1fd5a783e65ce6c9950fa2c5af7e4d06804792",
+    "publicationDate": 1730274841,
     "id": 5300866079
   },
   {
@@ -81,6 +100,7 @@
     "price": 42.69,
     "title": "10331 Martín Pescador LEGO New",
     "imgUrl": "https://images1.vinted.net/t/03_00a43_16Ua3XjiL5hg71pEchDu3X38/f800/1727539498.jpeg?s=cd5b565dd864e40e5f875c58b368d2dae3b789f6",
+    "publicationDate": 1727539498,
     "id": 5123011088
   },
   {
@@ -88,6 +108,7 @@
     "price": 42.7,
     "title": "Lego Icons 10331 kingfisher",
     "imgUrl": "https://images1.vinted.net/t/02_005b2_XvmhCbQitVbKkEj16iftW3JT/f800/1725392520.jpeg?s=544a7df3c4ae8021ffae995a8d2c682bdb0f8028",
+    "publicationDate": 1725392520,
     "id": 4983647168
   },
   {
@@ -95,6 +116,7 @@
     "price": 53.2,
     "title": "Lego 10331 neuf",
     "imgUrl": "https://images1.vinted.net/t/01_0238d_N9ydutWbGnwXsuJWbvkYSrn7/f800/1718918659.jpeg?s=0436e690819d56005ed49c6d47dde8dba6629366",
+    "publicationDate": 1718918659,
     "id": 4668611342
   },
   {
@@ -102,6 +124,7 @@
     "price": 44.8,
     "title": "LEGO Icons Martin Pescatore 10331",
     "imgUrl": "https://images1.vinted.net/t/02_004dc_6smJurTTAkroxwYxrweuhiis/f800/1720706214.jpeg?s=45bf21bf656f7128afd936a4f6f0e393bcb895a3",
+    "publicationDate": 1720706214,
     "id": 4752218443
   },
   {
@@ -109,6 +132,7 @@
     "price": 44.8,
     "title": "LEGO 10331 Kingfisher NUEVO!!",
     "imgUrl": "https://images1.vinted.net/t/03_000e9_qPAA87SUEsKPJfcaNk85YKfG/f800/1724331824.jpeg?s=5b7eeb8b7303b0158ba07fb1d5e737ae70cb38c6",
+    "publicationDate": 1724331824,
     "id": 4922309015
   },
   {
@@ -116,6 +140,7 @@
     "price": 44.01,
     "title": "LEGO 10331 Kingfisher Bird",
     "imgUrl": "https://images1.vinted.net/t/01_01f5d_sz1HvkvuD9rhfNEyarV33uob/f800/1715454681.jpeg?s=07a27c0dbc3cd2798a32fe632b12b5354e5007e5",
+    "publicationDate": 1715454681,
     "id": 4490036545
   },
   {
@@ -123,6 +148,7 @@
     "price": 47.95,
     "title": "Lego 10331 Martin pescatore Nuovo ",
     "imgUrl": "https://images1.vinted.net/t/01_00cda_7HwmrAADfiukutJRfPhhrTq6/f800/1711728177.jpeg?s=061134c8f2cfdf760e00f479979561c8b1a22845",
+    "publicationDate": 1711728177,
     "id": 4289141586
   },
   {
@@ -130,6 +156,7 @@
     "price": 53.2,
     "title": "Lego 10331 Kingfisher ",
     "imgUrl": "https://images1.vinted.net/t/03_01475_rmFBDQy25q49LMQq81baydHx/f800/1710887060.jpeg?s=eade34fc6abd34681e4864bf55d7153213baf687",
+    "publicationDate": 1710887060,
     "id": 4247040565
   },
   {
@@ -137,6 +164,7 @@
     "price": 81.55,
     "title": "(new, unopened) 10331 LEGO",
     "imgUrl": "https://images1.vinted.net/t/02_01a65_Tc3GukTyU4Ca2Uig9MPg9gUy/f800/1725872741.jpeg?s=3bfd5a263a00011a210d10233e78416fc797ea99",
+    "publicationDate": 1725872741,
     "id": 5011051234
   }
 ]

@@ -1,16 +1,18 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5326341481-lego-super-mario-71437",
-    "price": 95.2,
-    "title": "Lego Super Mario 71437",
-    "imgUrl": "https://images1.vinted.net/t/04_0022e_epwjivJFyhwR1yF27pgUKEVf/f800/1730665291.jpeg?s=44d4605b71729e03590e94b0fd08ddf2036d3397",
-    "id": 5326341481
+    "link": "https://www.vinted.fr/items/5306244604-lego-super-mario-71437-the-bowser-express-train-neuf",
+    "price": 110.95,
+    "title": "LEGO Super Mario 71437 : The Bowser Express Train [ NEUF ]",
+    "imgUrl": "https://images1.vinted.net/t/03_012c9_1aeegABCkJJMinJ6J74ceoef/f800/1730370124.jpeg?s=c40ffdf97d5f7e97641d6dc8f5864aa143bd7a39",
+    "publicationDate": 1730370124,
+    "id": 5306244604
   },
   {
     "link": "https://www.vinted.fr/items/5138826658-lego-super-mario-plat-2x2-avec-scanner-code-goomba",
     "price": 1.96,
     "title": "Lego super Mario plat 2x2 avec scanner code goomba",
     "imgUrl": "https://images1.vinted.net/t/03_0076a_9dNqoFcDBKUhH3gaGioo6dja/f800/1727768188.jpeg?s=8bf99d7bb3424a488a4e597a21ddb9dc028c1aaa",
+    "publicationDate": 1727768188,
     "id": 5138826658
   },
   {
@@ -18,13 +20,7 @@
     "price": 105.7,
     "title": "Lego super mario 71437 le train de bowser",
     "imgUrl": "https://images1.vinted.net/t/03_003df_ujEfVG42bPr77Y2JewAsJrK7/f800/1726570611.jpeg?s=f25a1b4974373323909e81266287b0141ef55cbc",
+    "publicationDate": 1726570611,
     "id": 5060086306
-  },
-  {
-    "link": "https://www.vinted.fr/items/5306244604-lego-super-mario-71437-the-bowser-express-train-neuf",
-    "price": 110.95,
-    "title": "LEGO Super Mario 71437 : The Bowser Express Train [ NEUF ]",
-    "imgUrl": "https://images1.vinted.net/t/03_012c9_1aeegABCkJJMinJ6J74ceoef/f800/1730370124.jpeg?s=c40ffdf97d5f7e97641d6dc8f5864aa143bd7a39",
-    "id": 5306244604
   }
 ]

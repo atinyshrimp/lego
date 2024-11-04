@@ -4,6 +4,7 @@
     "price": 94.15,
     "title": "Lego 60409",
     "imgUrl": "https://images1.vinted.net/t/01_01119_auD7u7t6Veufs6Ma2DQ883Xd/f800/1718303624.jpeg?s=3ca18afda2fe177dfa0c6882a915329e449d3a71",
+    "publicationDate": 1718303624,
     "id": 4638815030
   },
   {
@@ -11,6 +12,7 @@
     "price": 89.95,
     "title": "LEGO City 60409",
     "imgUrl": "https://images1.vinted.net/t/03_026e0_s6DzbLmxBKg2RY24ntbaj5u8/f800/1730639339.jpeg?s=1a88619d8b42173a2e7424ae3e17c4322e75acea",
+    "publicationDate": 1730639339,
     "id": 5322523665
   },
   {
@@ -18,6 +20,7 @@
     "price": 110.95,
     "title": "La grue de chantier mobile jaune lego city 60409",
     "imgUrl": "https://images1.vinted.net/t/03_00625_PJCrkMuhRSMnxtaDbSQ2ZcHY/f800/1730648998.jpeg?s=d2d14c9f522dafa22dc45903ed5bfadd3bfe3542",
+    "publicationDate": 1730648998,
     "id": 5324207252
   },
   {
@@ -25,20 +28,15 @@
     "price": 105.7,
     "title": "LEGO City 60409 neuf",
     "imgUrl": "https://images1.vinted.net/t/01_018a7_9Q7FexTnrxjrs3cy49sz9kPb/f800/1718446017.jpeg?s=66f0fd8f3e85f9bff56755a1d401e69dc5fbd34c",
+    "publicationDate": 1718446017,
     "id": 4644085376
-  },
-  {
-    "link": "https://www.vinted.fr/items/4992884409-lego-city-60409-mobile-construction-crane",
-    "price": 100.45,
-    "title": "Lego City 60409 Mobile Construction Crane",
-    "imgUrl": "https://images1.vinted.net/t/02_019db_ggBaJoUQjeAtg39ibAUtux1A/f800/1725561626.jpeg?s=3a0184e4a6cab5fdb27a1650bebc80553ae7353b",
-    "id": 4992884409
   },
   {
     "link": "https://www.vinted.fr/items/5317699610-lego-city-60409-grua",
     "price": 97.83,
     "title": "Lego City 60409 grua",
     "imgUrl": "https://images1.vinted.net/t/04_01a7f_g1HMJFrTSerpzUJMYBu9qBYh/f800/1730561358.jpeg?s=d0828c1874f191f44ef050141b8df26fd308c606",
+    "publicationDate": 1730561358,
     "id": 5317699610
   },
   {
@@ -46,6 +44,15 @@
     "price": 101.5,
     "title": "Lego 60409",
     "imgUrl": "https://images1.vinted.net/t/04_0238d_a3FJR5cQqzcjAhbp3DmA685q/f800/1730149858.jpeg?s=147f19001e2daf35480b8c7ba93f7849a8014186",
+    "publicationDate": 1730149858,
     "id": 5295174575
+  },
+  {
+    "link": "https://www.vinted.fr/items/4992884409-lego-city-60409-mobile-construction-crane",
+    "price": 100.45,
+    "title": "Lego City 60409 Mobile Construction Crane",
+    "imgUrl": "https://images1.vinted.net/t/02_019db_ggBaJoUQjeAtg39ibAUtux1A/f800/1725561626.jpeg?s=3a0184e4a6cab5fdb27a1650bebc80553ae7353b",
+    "publicationDate": 1725561626,
+    "id": 4992884409
   }
 ]

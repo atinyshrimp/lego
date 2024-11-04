@@ -1,23 +1,26 @@
 [
   {
-    "link": "https://www.vinted.fr/items/4318037872-lego-ville-duplo-3774-pont-suspendu-pont-ferroviaire-train-a-haubanscompatible-10507-10874-10508",
-    "price": 83.65,
-    "title": "Lego Ville Duplo 3774 Pont suspendu pont ferroviaire train, à haubans,compatible 10507 10874 10508",
-    "imgUrl": "https://images1.vinted.net/t/01_0090a_J296v3xTcwgeZsXytKQL4R9G/f800/1712296937.jpeg?s=f586dfb0ecd156f59b97383703d26635d7aa3af2",
-    "id": 4318037872
-  },
-  {
     "link": "https://www.vinted.fr/items/4589623171-lego-train-rail",
     "price": 53.2,
     "title": "Lego train + rail",
     "imgUrl": "https://images1.vinted.net/t/03_0117e_xi369Q7EBw7qCw7VgU3eTo1w/f800/1717343076.jpeg?s=0dcc6630173c33e1abdc6535d5e509ac13fe5809",
+    "publicationDate": 1717343076,
     "id": 4589623171
+  },
+  {
+    "link": "https://www.vinted.fr/items/4318037872-lego-ville-duplo-3774-pont-suspendu-pont-ferroviaire-train-a-haubanscompatible-10507-10874-10508",
+    "price": 83.65,
+    "title": "Lego Ville Duplo 3774 Pont suspendu pont ferroviaire train, à haubans,compatible 10507 10874 10508",
+    "imgUrl": "https://images1.vinted.net/t/01_0090a_J296v3xTcwgeZsXytKQL4R9G/f800/1712296937.jpeg?s=f586dfb0ecd156f59b97383703d26635d7aa3af2",
+    "publicationDate": 1712296937,
+    "id": 4318037872
   },
   {
     "link": "https://www.vinted.fr/items/4860197345-duplo-stoomtrein-2-uitbreidingen",
     "price": 84.7,
     "title": "Duplo stoomtrein + 2 uitbreidingen",
     "imgUrl": "https://images1.vinted.net/t/03_024c7_oqMjtiPGzAsmLKoTkhxZXFzz/f800/1723050337.jpeg?s=4fa0f18ee20940e76a85efd34f02db51dd9a0a79",
+    "publicationDate": 1723050337,
     "id": 4860197345
   },
   {
@@ -25,6 +28,7 @@
     "price": 100.45,
     "title": "Set multipli lego duplo",
     "imgUrl": "https://images1.vinted.net/t/04_019c5_3g3oSiafpyTkCtR8RBtH39Qg/f800/1730042422.jpeg?s=f519f5128f44a6043e2928634cc36f645c3cba23",
+    "publicationDate": 1730042422,
     "id": 5287339285
   }
 ]
