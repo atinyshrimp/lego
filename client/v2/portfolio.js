@@ -58,17 +58,17 @@ const spanLifetime = document.querySelector("#lifetimeValue");
  * @return {Object}
  */
 const fetchDeals = async (page = 1, size = 6) => {
-	try {
-		const response = await fetch(
-			`https://lego-api-blue.vercel.app/deals?page=${page}&size=${size}`
-		);
-		const body = await response.json();
-		if (body.success !== true) throw new Error("Failed to fetch deals");
-		return body.data;
-	} catch (error) {
-		console.error(error);
-		return { result: currentDeals, meta: currentPagination };
-	}
+  try {
+    const response = await fetch(
+      `https://lego-api-blue.vercel.app/deals?page=${page}&size=${size}`
+    );
+    const body = await response.json();
+    if (body.success !== true) throw new Error("Failed to fetch deals");
+    return body.data;
+  } catch (error) {
+    console.error(error);
+    return { result: currentDeals, meta: currentPagination };
+  }
 };
 
 /** Fetch sales from API for a given lego set ID
@@ -77,17 +77,17 @@ const fetchDeals = async (page = 1, size = 6) => {
  * @returns A list of Vinted sales for the `id`
  */
 const fetchSales = async (id) => {
-	try {
-		const response = await fetch(
-			`https://lego-api-blue.vercel.app/sales?id=${id}`
-		);
-		const body = await response.json();
-		if (body.success !== true) throw new Error("Failed to fetch sales");
-		return body.data.result;
-	} catch (error) {
-		console.error(error);
-		return [];
-	}
+  try {
+    const response = await fetch(
+      `https://lego-api-blue.vercel.app/sales?id=${id}`
+    );
+    const body = await response.json();
+    if (body.success !== true) throw new Error("Failed to fetch sales");
+    return body.data.result;
+  } catch (error) {
+    console.error(error);
+    return [];
+  }
 };
 
 /** Create HTML template for each deal
@@ -96,8 +96,8 @@ const fetchSales = async (id) => {
  * @returns
  */
 const createDealTemplate = (deal) => {
-	const isFavorite = isFavoriteDeal(deal.uuid);
-	return `
+  const isFavorite = isFavoriteDeal(deal.uuid);
+  return `
     <div class="col-4">
       <div class="card mb-4" id=${deal.uuid}>
         <div class="card-body d-block">
@@ -108,16 +108,16 @@ const createDealTemplate = (deal) => {
             </div>
             <div class="col-md-7 pt-1 px-0">
               <a href="#" class="deal-title" data-bs-toggle="modal"  data-bs-target="#dealModal" data-uuid="${
-								deal.uuid
-							}" data-id="${deal.id}">
+                deal.uuid
+              }" data-id="${deal.id}">
                 <h5 class="card-title clamp-2-lines">${deal.title}</h5>
               </a>
               <h6 class="card-subtitle mb-2 text-muted">${deal.id}</h6>
             </div>
             <div class="col" style="width: 10%; flex: 0 0 auto;">
               <button class="btn favorite-btn" style="width: fit-content;" data-id="${
-								deal.uuid
-							}">
+                deal.uuid
+              }">
                 ${isFavorite ? DEL_FAV_ICON : ADD_FAV_ICON}
               </button>
             </div>
@@ -128,8 +128,8 @@ const createDealTemplate = (deal) => {
             <!-- Left Column: Temperature and Comments -->
             <div class="col-6 d-flex flex-column align-items-start">
               <p class="badge rounded-pill text-bg-danger mb-0">${
-								deal.temperature
-							}°</p>
+                deal.temperature
+              }°</p>
               <div class="d-inline-flex align-items-center pt-1">
                 <i class="fi fi-rr-comment-dots"></i> &nbsp;
                 <p class="pb-1 m-0">${deal.comments} </p>
@@ -143,14 +143,14 @@ const createDealTemplate = (deal) => {
             <!-- Right Column: Prices and CTA Button -->
             <div class="col-6 d-flex flex-column align-items-end" style="width: fit-content;">
               <p class="card-text text-decoration-line-through text-muted mb-0 d-inline-block">${formatPrice(
-								deal.retail
-							)}</p>
+                deal.retail
+              )}</p>
               <p class="card-text mb-0 d-inline-block">${formatPrice(
-								deal.price
-							)}</p>
+                deal.price
+              )}</p>
               <a role="button" class="btn d-inline-flex align-items-center p-0 mt-2 deal-tab" href="${
-								deal.link
-							}" target="_blank">
+                deal.link
+              }" target="_blank">
                 <span style="margin-bottom:.4rem;">See deal &nbsp;</span>
                 <i class="fi fi-rr-up-right-from-square"></i>
               </a>              
@@ -167,30 +167,30 @@ const createDealTemplate = (deal) => {
  * @param  {Array} deals
  */
 const renderDeals = (deals) => {
-	sectionDeals.innerHTML = "";
+  sectionDeals.innerHTML = "";
 
-	const fragment = document.createDocumentFragment();
-	const div = document.createElement("div");
-	const template = deals.map((deal) => createDealTemplate(deal)).join("");
+  const fragment = document.createDocumentFragment();
+  const div = document.createElement("div");
+  const template = deals.map((deal) => createDealTemplate(deal)).join("");
 
-	div.classList.add("row", "items", "overflow-auto");
-	div.innerHTML = template;
-	fragment.appendChild(div);
-	sectionDeals.appendChild(fragment);
+  div.classList.add("row", "items", "overflow-auto");
+  div.innerHTML = template;
+  fragment.appendChild(div);
+  sectionDeals.appendChild(fragment);
 
-	// Attach listener to the favorite buttons
-	document.querySelectorAll(".favorite-btn").forEach((button) => {
-		button.addEventListener("click", toggleFavorite);
-	});
+  // Attach listener to the favorite buttons
+  document.querySelectorAll(".favorite-btn").forEach((button) => {
+    button.addEventListener("click", toggleFavorite);
+  });
 };
 
 const createSaleTemplate = (
-	sale,
-	profitability,
-	legoId = undefined,
-	modal = false
+  sale,
+  profitability,
+  legoId = undefined,
+  modal = false
 ) => {
-	return `
+  return `
     <div class="col-4">
       <div class="card mb-4" id=${sale.uuid}">
         <div class="card-body d-block">
@@ -201,23 +201,23 @@ const createSaleTemplate = (
             <div class="col ${modal ? "px-0" : ""}">
               <a href="${sale.link}" target="_blank"">
                 <h5 class="card-title clamp-2-lines" ${
-									modal ? 'style= "height: 3rem !important;"' : ""
-								}>${sale.title}</h5>
+                  modal ? 'style= "height: 3rem !important;"' : ""
+                }>${sale.title}</h5>
               </a>
               <h6 class="card-subtitle mb-2 text-muted" style="display: ${
-								modal ? "none" : "block"
-							};">${legoId}</h6>
+                modal ? "none" : "block"
+              };">${legoId}</h6>
               <p class="badge rounded-pill text-bg-info mb-0">${profitability}%</p>
               <p class="card-text mb-0" id="sale-price">${formatPrice(
-								sale.price
-							)}</p>
+                sale.price
+              )}</p>
             </div>
             <div class="col px-0 ms-2" style="width: ${
-							modal ? 9 : 7
-						}%; flex: 0 0 auto;">
+              modal ? 9 : 7
+            }%; flex: 0 0 auto;">
               <button class="btn favorite-btn mt-1" style="width: fit-content; display: none;" data-id="${
-								sale.uuid
-							}">
+                sale.uuid
+              }">
                 ${ADD_FAV_ICON}
               </button>
             </div>
@@ -233,54 +233,54 @@ const createSaleTemplate = (
  * @param {Array} sales
  */
 const renderSales = async (sales) => {
-	sectionSales.innerHTML = "";
+  sectionSales.innerHTML = "";
 
-	const fragment = document.createDocumentFragment();
-	const div = document.createElement("div");
-	let allDeals = await fetchDeals(1, currentPagination.count);
-	allDeals = allDeals.result;
+  const fragment = document.createDocumentFragment();
+  const div = document.createElement("div");
+  let allDeals = await fetchDeals(1, currentPagination.count);
+  allDeals = allDeals.result;
 
-	let template;
-	if (sales !== undefined) {
-		const legoId = selectLegoSetIds.value;
-		template = sales
-			// sorting the sales by highest profitability
-			.sort(
-				(a, b) =>
-					findHighestProfitability(allDeals, {
-						legoId: legoId,
-						price: b.price,
-					}) -
-					findHighestProfitability(allDeals, { legoId: legoId, price: a.price })
-			)
-			.map((sale) =>
-				createSaleTemplate(
-					sale,
-					findHighestProfitability(allDeals, {
-						legoId: legoId,
-						price: sale.price,
-					}),
-					legoId
-				)
-			)
-			.join("");
-	} else {
-		currentSales = [];
-		template = `
+  let template;
+  if (sales !== undefined) {
+    const legoId = selectLegoSetIds.value;
+    template = sales
+      // sorting the sales by highest profitability
+      .sort(
+        (a, b) =>
+          findHighestProfitability(allDeals, {
+            legoId: legoId,
+            price: b.price,
+          }) -
+          findHighestProfitability(allDeals, { legoId: legoId, price: a.price })
+      )
+      .map((sale) =>
+        createSaleTemplate(
+          sale,
+          findHighestProfitability(allDeals, {
+            legoId: legoId,
+            price: sale.price,
+          }),
+          legoId
+        )
+      )
+      .join("");
+  } else {
+    currentSales = [];
+    template = `
       <div class="alert alert-warning" role="alert">
         Choose a Lego set to filter the sales by!
       </div>
       `;
-	}
+  }
 
-	div.classList.add("row");
-	div.classList.add("items");
-	div.classList.add("overflow-auto");
-	div.innerHTML = template;
-	fragment.appendChild(div);
-	sectionSales.appendChild(fragment);
-	renderPagination(currentPagination);
-	renderIndicators(currentPagination);
+  div.classList.add("row");
+  div.classList.add("items");
+  div.classList.add("overflow-auto");
+  div.innerHTML = template;
+  fragment.appendChild(div);
+  sectionSales.appendChild(fragment);
+  renderPagination(currentPagination);
+  renderIndicators(currentPagination);
 };
 
 /** Create pagination button
@@ -292,11 +292,11 @@ const renderSales = async (sales) => {
  * @returns
  */
 const createPaginationButton = (
-	page,
-	disabled,
-	icon,
-	ariaLabel,
-	newClass = "disabled"
+  page,
+  disabled,
+  icon,
+  ariaLabel,
+  newClass = "disabled"
 ) => `
   <li class="page-item ${disabled ? newClass : ""}">
     <a class="page-link" href="#" data-page="${page}" aria-label="${ariaLabel}">
@@ -310,89 +310,89 @@ const createPaginationButton = (
  * @param  {Object} pagination
  */
 const renderPagination = (pagination) => {
-	const { currentPage, pageCount } = pagination;
-	const paginationContainer = document.querySelector(".pagination");
+  const { currentPage, pageCount } = pagination;
+  const paginationContainer = document.querySelector(".pagination");
 
-	paginationContainer.innerHTML = ""; // Clear previous pagination
+  paginationContainer.innerHTML = ""; // Clear previous pagination
 
-	// Feature 1 - Browse pages
-	// Previous button
-	paginationContainer.innerHTML += createPaginationButton(
-		currentPage - 1,
-		currentPage === 1,
-		`<i class="fi fi-rr-caret-left"></i>`,
-		"Previous"
-	);
+  // Feature 1 - Browse pages
+  // Previous button
+  paginationContainer.innerHTML += createPaginationButton(
+    currentPage - 1,
+    currentPage === 1,
+    `<i class="fi fi-rr-caret-left"></i>`,
+    "Previous"
+  );
 
-	// Page numbers
-	for (let page = 1; page <= pageCount; page++) {
-		paginationContainer.innerHTML += createPaginationButton(
-			page,
-			page === currentPage,
-			page,
-			"",
-			"active"
-		);
-	}
+  // Page numbers
+  for (let page = 1; page <= pageCount; page++) {
+    paginationContainer.innerHTML += createPaginationButton(
+      page,
+      page === currentPage,
+      page,
+      "",
+      "active"
+    );
+  }
 
-	// Next button
-	paginationContainer.innerHTML += createPaginationButton(
-		currentPage + 1,
-		currentPage === pageCount,
-		`<i class="fi fi-rr-caret-right"></i>`,
-		"Next"
-	);
+  // Next button
+  paginationContainer.innerHTML += createPaginationButton(
+    currentPage + 1,
+    currentPage === pageCount,
+    `<i class="fi fi-rr-caret-right"></i>`,
+    "Next"
+  );
 
-	// Add event listeners to pagination links
-	document.querySelectorAll(".page-link").forEach((link) => {
-		link.addEventListener("click", async (event) => {
-			event.preventDefault();
-			const page = parseInt(event.target.getAttribute("data-page"));
-			if (!isNaN(page)) {
-				const newDeals = await fetchDeals(page, selectShow.value);
-				setCurrentDeals(newDeals);
-				render(currentDeals, currentPagination); // Re-render deals and pagination
-			}
-		});
-	});
+  // Add event listeners to pagination links
+  document.querySelectorAll(".page-link").forEach((link) => {
+    link.addEventListener("click", async (event) => {
+      event.preventDefault();
+      const page = parseInt(event.target.getAttribute("data-page"));
+      if (!isNaN(page)) {
+        const newDeals = await fetchDeals(page, selectShow.value);
+        setCurrentDeals(newDeals);
+        render(currentDeals, currentPagination); // Re-render deals and pagination
+      }
+    });
+  });
 
-	const itemsPerPage = parseInt(selectShow.value);
-	const rangeBeg = (currentPage - 1) * itemsPerPage + 1;
-	const rangeEnd = currentPage * itemsPerPage;
-	const nbDeals = currentPagination.count;
-	const nbSales = currentSales.length > 0 ? currentSales.length : 0;
+  const itemsPerPage = parseInt(selectShow.value);
+  const rangeBeg = (currentPage - 1) * itemsPerPage + 1;
+  const rangeEnd = currentPage * itemsPerPage;
+  const nbDeals = currentPagination.count;
+  const nbSales = currentSales.length > 0 ? currentSales.length : 0;
 
-	if (isTabActive("nav-deals-tab")) {
-		document.getElementById("pagination-info").style.display = "block";
-		sectionOptions.style.display = "block";
-		document.querySelector(".pagination").style.display = "flex";
-		document.getElementById("show").style.visibility = "";
+  if (isTabActive("nav-deals-tab")) {
+    document.getElementById("pagination-info").style.display = "block";
+    sectionOptions.style.display = "block";
+    document.querySelector(".pagination").style.display = "flex";
+    document.getElementById("show").style.visibility = "";
 
-		paginationInfo.innerHTML = `
+    paginationInfo.innerHTML = `
 		<div class="text-muted float-end">
 		Showing ${rangeBeg} - ${
-			rangeEnd > nbDeals ? nbDeals : rangeEnd
-		} out of ${nbDeals} deal(s)
+      rangeEnd > nbDeals ? nbDeals : rangeEnd
+    } out of ${nbDeals} deal(s)
 		</div>
 		`;
-	} else {
-		document.querySelector(".pagination").style.display = "none";
-		document.getElementById("show").style.visibility = "hidden";
-		sectionOptions.style.display = "none";
+  } else {
+    document.querySelector(".pagination").style.display = "none";
+    document.getElementById("show").style.visibility = "hidden";
+    sectionOptions.style.display = "none";
 
-		if (currentSales.length === 0) {
-			document.getElementById("pagination-info").style.display = "none";
-			return;
-		}
-		document.getElementById("pagination-info").style.display = "block";
+    if (currentSales.length === 0) {
+      document.getElementById("pagination-info").style.display = "none";
+      return;
+    }
+    document.getElementById("pagination-info").style.display = "block";
 
-		// Feature 8 - Specific indicators
-		paginationInfo.innerHTML = `
+    // Feature 8 - Specific indicators
+    paginationInfo.innerHTML = `
 		<div class="text-muted float-end">
 		Showing ${nbSales} sale(s) 
 		</div>
 		`;
-	}
+  }
 };
 
 /** Set global deals and pagination data
@@ -401,8 +401,8 @@ const renderPagination = (pagination) => {
  * @param {Object} meta - pagination meta info
  */
 const setCurrentDeals = ({ result, meta }) => {
-	currentDeals = result;
-	currentPagination = meta;
+  currentDeals = result;
+  currentPagination = meta;
 };
 
 /** Render lego set ids selector
@@ -410,25 +410,25 @@ const setCurrentDeals = ({ result, meta }) => {
  * @param  {Array} lego set ids
  */
 const renderLegoSetIds = async (deals) => {
-	const legoSection = document.getElementById("lego");
-	if (isTabActive("nav-deals-tab")) {
-		legoSection.style.display = "none";
-		return;
-	}
+  const legoSection = document.getElementById("lego");
+  if (isTabActive("nav-deals-tab")) {
+    legoSection.style.display = "none";
+    return;
+  }
 
-	legoSection.style.display = "block";
-	let allDeals = await fetchDeals(1, currentPagination.count);
-	allDeals = allDeals.result;
+  legoSection.style.display = "block";
+  let allDeals = await fetchDeals(1, currentPagination.count);
+  allDeals = allDeals.result;
 
-	const ids = getIdsFromDeals(allDeals);
-	const placeholer = `<option selected>Lego set to filter by</option>`;
-	const options = ids
-		.filter((id) => id !== "")
-		.sort((a, b) => a - b)
-		.map((id) => `<option value="${id}">${id}</option>`)
-		.join("");
+  const ids = getIdsFromDeals(allDeals);
+  const placeholer = `<option selected>Lego set to filter by</option>`;
+  const options = ids
+    .filter((id) => id !== "")
+    .sort((a, b) => a - b)
+    .map((id) => `<option value="${id}">${id}</option>`)
+    .join("");
 
-	selectLegoSetIds.innerHTML = placeholer + options;
+  selectLegoSetIds.innerHTML = placeholer + options;
 };
 
 /** Render page selector
@@ -436,48 +436,48 @@ const renderLegoSetIds = async (deals) => {
  * @param  {Object} pagination
  */
 const renderIndicators = (pagination) => {
-	const { count } = pagination;
+  const { count } = pagination;
 
-	// Hide indicators if we are on the "Deals" tab
-	if (isTabActive("nav-deals-tab")) {
-		sectionIndicators.style.display = "none";
-		return;
-	}
+  // Hide indicators if we are on the "Deals" tab
+  if (isTabActive("nav-deals-tab")) {
+    sectionIndicators.style.display = "none";
+    return;
+  }
 
-	// Display the indicators agains
-	sectionIndicators.style.display = "block";
+  // Display the indicators agains
+  sectionIndicators.style.display = "block";
 
-	if (currentSales.length > 0) {
-		// Feature 9 - average, p25, p50 and p95 price value indicators
-		spanAvgPrice.innerHTML = `${formatPrice(
-			getSalesPriceAverage(currentSales)
-		)}`;
-		spanP25Price.innerHTML = `${formatPrice(
-			calcQuartile(currentSales, 25).toFixed(2)
-		)}`;
-		spanP50Price.innerHTML = `${formatPrice(
-			calcQuartile(currentSales, 50).toFixed(2)
-		)}`;
-		spanP95Price.innerHTML = `${formatPrice(
-			calcQuartile(currentSales, 95).toFixed(2)
-		)}`;
-	} else {
-		spanAvgPrice.innerHTML = "NaN";
-		spanP95Price.innerHTML = "NaN";
-		spanP25Price.innerHTML = "NaN";
-		spanP50Price.innerHTML = "NaN";
-	}
+  if (currentSales.length > 0) {
+    // Feature 9 - average, p25, p50 and p95 price value indicators
+    spanAvgPrice.innerHTML = `${formatPrice(
+      getSalesPriceAverage(currentSales)
+    )}`;
+    spanP25Price.innerHTML = `${formatPrice(
+      calcQuartile(currentSales, 25).toFixed(2)
+    )}`;
+    spanP50Price.innerHTML = `${formatPrice(
+      calcQuartile(currentSales, 50).toFixed(2)
+    )}`;
+    spanP95Price.innerHTML = `${formatPrice(
+      calcQuartile(currentSales, 95).toFixed(2)
+    )}`;
+  } else {
+    spanAvgPrice.innerHTML = "NaN";
+    spanP95Price.innerHTML = "NaN";
+    spanP25Price.innerHTML = "NaN";
+    spanP50Price.innerHTML = "NaN";
+  }
 
-	// Feature 10 - Lifetime value
-	spanLifetime.innerHTML = calculateLifetimeValue(currentSales);
+  // Feature 10 - Lifetime value
+  spanLifetime.innerHTML = calculateLifetimeValue(currentSales);
 };
 
 const render = async (deals, pagination) => {
-	renderDeals(deals);
-	renderSales();
-	renderPagination(pagination);
-	renderIndicators(pagination);
-	renderLegoSetIds(deals);
+  renderDeals(deals);
+  renderSales();
+  renderPagination(pagination);
+  renderIndicators(pagination);
+  renderLegoSetIds(deals);
 };
 
 /** Utility function for rendering paginated deals
@@ -485,27 +485,27 @@ const render = async (deals, pagination) => {
  * @param {*} deals
  */
 const renderPaginatedDeals = (deals) => {
-	// Paginate the new deals before rendering
-	const paginatedDeals = paginateDeals(
-		deals,
-		currentPagination.currentPage,
-		selectShow.value
-	);
+  // Paginate the new deals before rendering
+  const paginatedDeals = paginateDeals(
+    deals,
+    currentPagination.currentPage,
+    selectShow.value
+  );
 
-	// Update pagination meta for new results
-	const newPagination = {
-		currentPage: 1,
-		pageCount: Math.ceil(deals.length / parseInt(selectShow.value)),
-		pageSize: parseInt(selectShow.value),
-		count: deals.length,
-	};
+  // Update pagination meta for new results
+  const newPagination = {
+    currentPage: 1,
+    pageCount: Math.ceil(deals.length / parseInt(selectShow.value)),
+    pageSize: parseInt(selectShow.value),
+    count: deals.length,
+  };
 
-	setCurrentDeals({
-		result: paginatedDeals,
-		meta: newPagination,
-	});
+  setCurrentDeals({
+    result: paginatedDeals,
+    meta: newPagination,
+  });
 
-	render(currentDeals, currentPagination);
+  render(currentDeals, currentPagination);
 };
 
 /**
@@ -514,144 +514,144 @@ const renderPaginatedDeals = (deals) => {
 
 // Select the number of deals to display
 selectShow.addEventListener("change", async (event) => {
-	const newPageSize = parseInt(event.target.value);
-	const maxPage =
-		Math.trunc(currentDeals.length / currentPagination.pageSize) + 1;
-	const newPage =
-		currentPagination.currentPage <= maxPage
-			? currentPagination.currentPage
-			: maxPage;
+  const newPageSize = parseInt(event.target.value);
+  const maxPage =
+    Math.trunc(currentDeals.length / currentPagination.pageSize) + 1;
+  const newPage =
+    currentPagination.currentPage <= maxPage
+      ? currentPagination.currentPage
+      : maxPage;
 
-	const deals = await fetchDeals(newPage, newPageSize);
-	console.table(deals);
+  const deals = await fetchDeals(newPage, newPageSize);
+  console.table(deals);
 
-	setCurrentDeals(deals);
-	render(currentDeals, currentPagination);
+  setCurrentDeals(deals);
+  render(currentDeals, currentPagination);
 });
 
 /**
  * Handle filters
  */
 const handleFilterClick = async (event) => {
-	const filterOption = event.target;
-	let filteredDeals;
+  const filterOption = event.target;
+  let filteredDeals;
 
-	// Check if the button is already active (clicked again)
-	if (filterOption.classList.contains("active")) {
-		// Remove active class and go back to unfiltered deals
-		filterOption.classList.remove("active");
-		renderPaginatedDeals(unfilteredDeals); // Render unfiltered deals
-		unfilteredDeals = [];
-		isListFiltered = false;
-		return; // Stop execution to prevent re-filtering
-	}
+  // Check if the button is already active (clicked again)
+  if (filterOption.classList.contains("active")) {
+    // Remove active class and go back to unfiltered deals
+    filterOption.classList.remove("active");
+    renderPaginatedDeals(unfilteredDeals); // Render unfiltered deals
+    unfilteredDeals = [];
+    isListFiltered = false;
+    return; // Stop execution to prevent re-filtering
+  }
 
-	// Make sure to remove the "active" class from all buttons first
-	filters.querySelectorAll("span").forEach((btn) => {
-		btn.classList.remove("active");
-	});
+  // Make sure to remove the "active" class from all buttons first
+  filters.querySelectorAll("span").forEach((btn) => {
+    btn.classList.remove("active");
+  });
 
-	filterOption.classList.add("active");
+  filterOption.classList.add("active");
 
-	const listToFilter = !isListFiltered ? currentDeals : unfilteredDeals;
+  const listToFilter = !isListFiltered ? currentDeals : unfilteredDeals;
 
-	// Store the unfiltered version before filtering so we can get back to it
-	unfilteredDeals = currentDeals;
+  // Store the unfiltered version before filtering so we can get back to it
+  unfilteredDeals = currentDeals;
 
-	// Fetch all deals first (assuming we are fetching all available data)
-	let allDeals = await fetchDeals(1, currentPagination.count);
-	allDeals = allDeals.result;
+  // Fetch all deals first (assuming we are fetching all available data)
+  let allDeals = await fetchDeals(1, currentPagination.count);
+  allDeals = allDeals.result;
 
-	// Apply the filter based on the filter option selected
-	switch (filterOption.innerHTML) {
-		// Feature 2 - Filter by best discount
-		case "Best discount":
-			filteredDeals = filterDealsByDiscount(listToFilter, 50);
-			break;
+  // Apply the filter based on the filter option selected
+  switch (filterOption.innerHTML) {
+    // Feature 2 - Filter by best discount
+    case "Best discount":
+      filteredDeals = filterDealsByDiscount(listToFilter, 50);
+      break;
 
-		// Feature 3 - Filter by most commented
-		case "Popular":
-			filteredDeals = filterDealsByComments(listToFilter);
-			break;
+    // Feature 3 - Filter by most commented
+    case "Popular":
+      filteredDeals = filterDealsByComments(listToFilter);
+      break;
 
-		// Feature 4 - Filter by hot deals
-		case "Hot deals":
-			filteredDeals = filterDealsByTemperature(listToFilter);
-			break;
+    // Feature 4 - Filter by hot deals
+    case "Hot deals":
+      filteredDeals = filterDealsByTemperature(listToFilter);
+      break;
 
-		// Feature 14 - Filter by favorites
-		case "Favorites":
-			filteredDeals = allDeals.filter((deal) => isFavoriteDeal(deal.uuid));
-			break;
+    // Feature 14 - Filter by favorites
+    case "Favorites":
+      filteredDeals = allDeals.filter((deal) => isFavoriteDeal(deal.uuid));
+      break;
 
-		default:
-			filteredDeals = unfilteredDeals; // Default, no filtering
-			break;
-	}
-	isListFiltered = true;
-	renderPaginatedDeals(filteredDeals);
+    default:
+      filteredDeals = unfilteredDeals; // Default, no filtering
+      break;
+  }
+  isListFiltered = true;
+  renderPaginatedDeals(filteredDeals);
 };
 
 filters.querySelectorAll("span").forEach((filterOption) => {
-	filterOption.addEventListener("click", handleFilterClick);
+  filterOption.addEventListener("click", handleFilterClick);
 });
 
 /**
  * Handle sort change
  */
 selectSort.addEventListener("change", async (event) => {
-	// Fetch all deals first (assuming we are fetching all available data)
-	const allDeals = await fetchDeals(1, currentPagination.count);
-	setCurrentDeals(allDeals);
-	let sortedDeals = sortDeals(currentDeals, event.target.value);
+  // Fetch all deals first (assuming we are fetching all available data)
+  const allDeals = await fetchDeals(1, currentPagination.count);
+  setCurrentDeals(allDeals);
+  let sortedDeals = sortDeals(currentDeals, event.target.value);
 
-	renderPaginatedDeals(sortedDeals);
+  renderPaginatedDeals(sortedDeals);
 });
 
 // Feature 7 - Display Vinted sales
 selectLegoSetIds.addEventListener("change", async (event) => {
-	const selectedSet = event.target.value;
-	currentSales = await fetchSales(selectedSet);
-	renderSales(currentSales);
+  const selectedSet = event.target.value;
+  currentSales = await fetchSales(selectedSet);
+  renderSales(currentSales);
 });
 
 document.querySelectorAll(".nav-link").forEach((link) => {
-	link.addEventListener("click", () => {
-		render(currentDeals, currentPagination);
-	});
+  link.addEventListener("click", () => {
+    render(currentDeals, currentPagination);
+  });
 });
 
 if (savedDarkMode === "enabled") {
-	enableDarkMode(); // Apply dark mode
-	darkModeToggle.checked = true; // Ensure the toggle is checked
+  enableDarkMode(); // Apply dark mode
+  darkModeToggle.checked = true; // Ensure the toggle is checked
 }
 darkModeToggle.addEventListener("change", () => {
-	if (darkModeToggle.checked) {
-		enableDarkMode(); // Enable dark mode
-	} else {
-		disableDarkMode(); // Disable dark mode
-	}
+  if (darkModeToggle.checked) {
+    enableDarkMode(); // Enable dark mode
+  } else {
+    disableDarkMode(); // Disable dark mode
+  }
 });
 
 // Add event listener to deal titles to open modal and populate with data
 document.addEventListener("click", async (event) => {
-	console.log(`Event target: ${event.target.outerHTML}`);
-	if (event.target.parentElement.classList.contains("deal-title")) {
-		const uuid = event.target.parentElement.getAttribute("data-uuid");
+  console.log(`Event target: ${event.target.outerHTML}`);
+  if (event.target.parentElement.classList.contains("deal-title")) {
+    const uuid = event.target.parentElement.getAttribute("data-uuid");
 
-		// Find the deal information
-		const deal = currentDeals.find((deal) => deal.uuid === uuid);
+    // Find the deal information
+    const deal = currentDeals.find((deal) => deal.uuid === uuid);
 
-		// Configure "See Deal" button
-		document
-			.getElementsByClassName("modal-footer")[0]
-			// .getElementsByTagName("button")[0]
-			.getElementsByTagName("a")[0]
-			.setAttribute("href", deal.link);
+    // Configure "See Deal" button
+    document
+      .getElementsByClassName("modal-footer")[0]
+      // .getElementsByTagName("button")[0]
+      .getElementsByTagName("a")[1]
+      .setAttribute("href", deal.link);
 
-		// Populate deal info in the modal
-		const modalDealInfo = document.getElementById("modalDealInfo");
-		modalDealInfo.innerHTML = `
+    // Populate deal info in the modal
+    const modalDealInfo = document.getElementById("modalDealInfo");
+    modalDealInfo.innerHTML = `
       <div class="row">
       <div class="col-md-3">
       <img class="rounded img-fluid" src=${deal.photo} alt="${deal.uuid}-img"/>
@@ -664,164 +664,164 @@ document.addEventListener("click", async (event) => {
           <p>Retail Price: ${formatPrice(deal.retail)}</p>
           <p>Discounted Price: ${formatPrice(deal.price)}</p>
           <p>Publication Date: ${new Date(
-						deal.published * 1e3
-					).toLocaleDateString()}</p>
+            deal.published * 1e3
+          ).toLocaleDateString()}</p>
         </div>
       </div>
     `;
 
-		// Fetch sales information for the LEGO ID
-		let sales = await fetchSales(deal.id);
-		const { average, p25, p50, p95 } = calculateSalesIndicators(sales);
+    // Fetch sales information for the LEGO ID
+    let sales = await fetchSales(deal.id);
+    const { average, p25, p50, p95 } = calculateSalesIndicators(sales);
 
-		// Get the price frequencies
-		const { prices, frequencies } = getPriceFrequency(sales);
-		const minPrice = Math.min(...prices);
-		const maxPrice = Math.max(...prices);
-		console.log(prices);
+    // Get the price frequencies
+    const { prices, frequencies } = getPriceFrequency(sales);
+    const minPrice = Math.min(...prices);
+    const maxPrice = Math.max(...prices);
+    console.log(prices);
 
-		// Get top 5 most rentable sales
-		sales = sales
-			.sort((a, b) => getProfitability(deal, b) - getProfitability(deal, a))
-			.slice(0, 5);
+    // Get top 5 most rentable sales
+    sales = sales
+      .sort((a, b) => getProfitability(deal, b) - getProfitability(deal, a))
+      .slice(0, 5);
 
-		// Populate sales info in the modal
-		const modalSalesInfo = document.getElementById("modalSalesInfo");
-		modalSalesInfo.innerHTML = sales
-			.map((sale) =>
-				createSaleTemplate(sale, getProfitability(deal, sale), deal.id, true)
-			)
-			.join("");
+    // Populate sales info in the modal
+    const modalSalesInfo = document.getElementById("modalSalesInfo");
+    modalSalesInfo.innerHTML = sales
+      .map((sale) =>
+        createSaleTemplate(sale, getProfitability(deal, sale), deal.id, true)
+      )
+      .join("");
 
-		// Calculate and display sales indicators
-		const modalIndicators = document.getElementById("modalIndicators");
+    // Calculate and display sales indicators
+    const modalIndicators = document.getElementById("modalIndicators");
 
-		// Destroy canvas if it already exists
-		const chartStatus = Chart.getChart("salesDistributionChart");
-		if (chartStatus !== undefined) {
-			chartStatus.destroy();
-		}
+    // Destroy canvas if it already exists
+    const chartStatus = Chart.getChart("salesDistributionChart");
+    if (chartStatus !== undefined) {
+      chartStatus.destroy();
+    }
 
-		// Get the canvas element
-		const canvas = document.getElementById("salesDistributionChart");
-		const ctx = canvas.getContext("2d");
+    // Get the canvas element
+    const canvas = document.getElementById("salesDistributionChart");
+    const ctx = canvas.getContext("2d");
 
-		// Function to normalize the data value to a tick index range [0, prices.length - 1]
-		const normalize = (value) =>
-			((value - minPrice) / (maxPrice - minPrice)) * (prices.length - 1);
-		console.log(`Normalized P25: ${normalize(p25)}`);
-		console.log(`Normalized P50: ${normalize(p50)}`);
-		console.log(`Normalized P95: ${normalize(p95)}`);
-		console.log(`Normalized Average: ${normalize(average)}`);
+    // Function to normalize the data value to a tick index range [0, prices.length - 1]
+    const normalize = (value) =>
+      ((value - minPrice) / (maxPrice - minPrice)) * (prices.length - 1);
+    console.log(`Normalized P25: ${normalize(p25)}`);
+    console.log(`Normalized P50: ${normalize(p50)}`);
+    console.log(`Normalized P95: ${normalize(p95)}`);
+    console.log(`Normalized Average: ${normalize(average)}`);
 
-		// Create the chart
-		const salesChart = new Chart(ctx, {
-			type: "line",
-			data: {
-				labels: prices, // X-axis labels (sorted prices)
-				datasets: [
-					{
-						label: "Sales Price Distribution",
-						data: frequencies, // Dummy data to keep the line chart layout
-						borderColor: "rgba(54, 162, 235, 0.8)",
-						backgroundColor: "rgba(54, 162, 235, 0.2)",
-						pointBackgroundColor: "rgba(54, 162, 235, 1)",
-						pointBorderColor: "#fff",
-						pointRadius: 0,
-						fill: false,
-						tension: 0.4,
-					},
-				],
-			},
-			options: {
-				responsive: true,
-				scales: {
-					x: {
-						title: { display: true, text: "Sales Price (€)" },
-					},
-					y: {
-						title: { display: true, text: "Frequency" }, // Hide the y-axis since we're not using it for frequency
-					},
-				},
-				// plugins: {
-				//   annotation: {
-				//     annotations: {
-				//       // Vertical line for p25
-				//       p25Line: {
-				//         type: "line",
-				//         xMin: normalize(p25),
-				//         xMax: normalize(p25),
-				//         borderColor: "rgba(153, 102, 255, 1)",
-				//         borderWidth: 2,
-				//         // label: {
-				//         //   content: "P25",
-				//         //   enabled: true,
-				//         //   position: "top",
-				//         // },
-				//       },
-				//       // Vertical line for p50
-				//       p50Line: {
-				//         type: "line",
-				//         xMin: normalize(p50),
-				//         xMax: normalize(p50),
-				//         borderColor: "rgba(54, 162, 235, 1)",
-				//         borderWidth: 2,
-				//         label: {
-				//           content: "P50",
-				//           enabled: true,
-				//           position: "top",
-				//         },
-				//       },
-				//       // Vertical line for p95
-				//       p95Line: {
-				//         type: "line",
-				//         xMin: normalize(p95),
-				//         xMax: normalize(p95),
-				//         borderColor: "rgba(255, 159, 64, 1)",
-				//         borderWidth: 2,
-				//         label: {
-				//           content: "P95",
-				//           enabled: true,
-				//           position: "top",
-				//         },
-				//       },
-				//       // Vertical line for average
-				//       averageLine: {
-				//         type: "line",
-				//         xMin: normalize(average),
-				//         xMax: normalize(average),
-				//         borderColor: "red",
-				//         borderWidth: 2,
-				//         borderDash: [5, 5],
-				//         label: {
-				//           content: "Average",
-				//           display: true,
-				//           position: "top",
-				//         },
-				//       },
-				//     },
-				//   },
-				// },
-			},
-		});
+    // Create the chart
+    const salesChart = new Chart(ctx, {
+      type: "line",
+      data: {
+        labels: prices, // X-axis labels (sorted prices)
+        datasets: [
+          {
+            label: "Sales Price Distribution",
+            data: frequencies, // Dummy data to keep the line chart layout
+            borderColor: "rgba(54, 162, 235, 0.8)",
+            backgroundColor: "rgba(54, 162, 235, 0.2)",
+            pointBackgroundColor: "rgba(54, 162, 235, 1)",
+            pointBorderColor: "#fff",
+            pointRadius: 0,
+            fill: false,
+            tension: 0.4,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        scales: {
+          x: {
+            title: { display: true, text: "Sales Price (€)" },
+          },
+          y: {
+            title: { display: true, text: "Frequency" }, // Hide the y-axis since we're not using it for frequency
+          },
+        },
+        // plugins: {
+        //   annotation: {
+        //     annotations: {
+        //       // Vertical line for p25
+        //       p25Line: {
+        //         type: "line",
+        //         xMin: normalize(p25),
+        //         xMax: normalize(p25),
+        //         borderColor: "rgba(153, 102, 255, 1)",
+        //         borderWidth: 2,
+        //         // label: {
+        //         //   content: "P25",
+        //         //   enabled: true,
+        //         //   position: "top",
+        //         // },
+        //       },
+        //       // Vertical line for p50
+        //       p50Line: {
+        //         type: "line",
+        //         xMin: normalize(p50),
+        //         xMax: normalize(p50),
+        //         borderColor: "rgba(54, 162, 235, 1)",
+        //         borderWidth: 2,
+        //         label: {
+        //           content: "P50",
+        //           enabled: true,
+        //           position: "top",
+        //         },
+        //       },
+        //       // Vertical line for p95
+        //       p95Line: {
+        //         type: "line",
+        //         xMin: normalize(p95),
+        //         xMax: normalize(p95),
+        //         borderColor: "rgba(255, 159, 64, 1)",
+        //         borderWidth: 2,
+        //         label: {
+        //           content: "P95",
+        //           enabled: true,
+        //           position: "top",
+        //         },
+        //       },
+        //       // Vertical line for average
+        //       averageLine: {
+        //         type: "line",
+        //         xMin: normalize(average),
+        //         xMax: normalize(average),
+        //         borderColor: "red",
+        //         borderWidth: 2,
+        //         borderDash: [5, 5],
+        //         label: {
+        //           content: "Average",
+        //           display: true,
+        //           position: "top",
+        //         },
+        //       },
+        //     },
+        //   },
+        // },
+      },
+    });
 
-		modalIndicators.innerHTML = `
+    modalIndicators.innerHTML = `
       <p class="indicator-btn" data-indicator="average">Average Price: ${formatPrice(
-				average
-			)}</p>
+        average
+      )}</p>
       <p class="indicator-btn" data-indicator="p25">P25: ${formatPrice(p25)}</p>
       <p class="indicator-btn" data-indicator="p50">P50: ${formatPrice(p50)}</p>
       <p class="indicator-btn" data-indicator="p95">P95: ${formatPrice(p95)}</p>
     `;
-	}
+  }
 });
 
 /**
  * Handle page load and initial fetch
  */
 document.addEventListener("DOMContentLoaded", async () => {
-	const deals = await fetchDeals();
+  const deals = await fetchDeals();
 
-	setCurrentDeals(deals);
-	render(currentDeals, currentPagination);
+  setCurrentDeals(deals);
+  render(currentDeals, currentPagination);
 });

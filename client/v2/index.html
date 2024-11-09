@@ -1,270 +1,270 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>🧱 Lego | Predictability of a lego set deal</title>
-		<link
-			href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
-			rel="stylesheet"
-			integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
-			crossorigin="anonymous"
-		/>
-		<link
-			rel="stylesheet"
-			href="https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-straight/css/uicons-regular-straight.css"
-		/>
-		<link
-			rel="stylesheet"
-			href="https://cdn-uicons.flaticon.com/2.6.0/uicons-solid-straight/css/uicons-solid-straight.css"
-		/>
-		<link
-			rel="stylesheet"
-			href="https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-rounded/css/uicons-regular-rounded.css"
-		/>
-		<link rel="stylesheet" href="./assets/styles/styles.css" />
-	</head>
-	<header class="row align-items-center w-100 px-3 py-4">
-		<h1 class="col">Bricked Up</h1>
-		<div class="col form-check form-switch form-check-reverse">
-			<input
-				class="form-check-input align-items-center"
-				type="checkbox"
-				id="darkModeToggle"
-			/>
-			<label
-				class="form-check-label"
-				for="flexSwitchCheckReverse"
-				style="font-size: 0.8rem"
-				>Enable dark mode</label
-			>
-		</div>
-	</header>
-	<body class="px-3">
-		<div class="row">
-			<!-- Left column, with options & info about the page -->
-			<div class="col-2">
-				<section class="mt-2 mb-4" id="lego">
-					<h2>Lego sets</h2>
-					<div>
-						<select
-							class="form-select form-select-sm"
-							id="lego-set-id-select"
-						></select>
-					</div>
-				</section>
-				<section class="mt-2 mb-4" id="options">
-					<h2>Filters</h2>
-					<div class="w-auto mb-2 d-inline-flex align-items-center" id="sort">
-						<label for="sort-select">Sort:</label>
-						<select
-							class="form-select form-select-sm ms-2"
-							name="sort"
-							id="sort-select"
-						>
-							<option value="price-asc">Cheaper</option>
-							<option value="price-desc">Expensive</option>
-							<option value="date-desc">Recently published</option>
-							<option value="date-asc">Anciently published</option>
-						</select>
-					</div>
-					<div class="px-2 my-3" id="filters">
-						<div class="row gap-2">
-							<span class="btn btn-sm btn-outline-secondary col-md-4 filter"
-								>Popular</span
-							>
-							<span class="btn btn-sm btn-outline-secondary col-md-4 filter"
-								>Best discount</span
-							>
-							<span class="btn btn-sm btn-outline-secondary col-md-4 filter"
-								>Hot deals</span
-							>
-							<span class="btn btn-sm btn-outline-secondary col-md-4 filter"
-								>Favorites</span
-							>
-						</div>
-					</div>
-				</section>
-				<section class="mt-2 mb-4" id="indicators">
-					<h2>Indicators</h2>
-					<div>
-						<span>Average price of sales: </span>
-						<span id="averagePrice">0</span>
-					</div>
-					<div>
-						<span>p25 sales price value: </span>
-						<span id="p25Price">0</span>
-					</div>
-					<div>
-						<span>p50 sales price value: </span>
-						<span id="p50Price">0</span>
-					</div>
-					<div>
-						<span>p95 sales price value: </span>
-						<span id="p95Price">0</span>
-					</div>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>🧱 Lego | Predictability of a lego set deal</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-straight/css/uicons-regular-straight.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn-uicons.flaticon.com/2.6.0/uicons-solid-straight/css/uicons-solid-straight.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-rounded/css/uicons-regular-rounded.css"
+    />
+    <link rel="stylesheet" href="./assets/styles/styles.css" />
+  </head>
+  <header class="row align-items-center w-100 px-3 py-4">
+    <h1 class="col">Bricked Up</h1>
+    <div class="col form-check form-switch form-check-reverse">
+      <input
+        class="form-check-input align-items-center"
+        type="checkbox"
+        id="darkModeToggle"
+      />
+      <label
+        class="form-check-label"
+        for="flexSwitchCheckReverse"
+        style="font-size: 0.8rem"
+        >Enable dark mode</label
+      >
+    </div>
+  </header>
+  <body class="px-3">
+    <div class="row">
+      <!-- Left column, with options & info about the page -->
+      <div class="col-2">
+        <section class="mt-2 mb-4" id="lego">
+          <h2>Lego sets</h2>
+          <div>
+            <select
+              class="form-select form-select-sm"
+              id="lego-set-id-select"
+            ></select>
+          </div>
+        </section>
+        <section class="mt-2 mb-4" id="options">
+          <h2>Filters</h2>
+          <div class="w-auto mb-2 d-inline-flex align-items-center" id="sort">
+            <label for="sort-select">Sort:</label>
+            <select
+              class="form-select form-select-sm ms-2"
+              name="sort"
+              id="sort-select"
+            >
+              <option value="price-asc">Cheaper</option>
+              <option value="price-desc">Expensive</option>
+              <option value="date-desc">Recently published</option>
+              <option value="date-asc">Anciently published</option>
+            </select>
+          </div>
+          <div class="px-2 my-3" id="filters">
+            <div class="row gap-2">
+              <span class="btn btn-sm btn-outline-secondary col-md-4 filter"
+                >Popular</span
+              >
+              <span class="btn btn-sm btn-outline-secondary col-md-4 filter"
+                >Best discount</span
+              >
+              <span class="btn btn-sm btn-outline-secondary col-md-4 filter"
+                >Hot deals</span
+              >
+              <span class="btn btn-sm btn-outline-secondary col-md-4 filter"
+                >Favorites</span
+              >
+            </div>
+          </div>
+        </section>
+        <section class="mt-2 mb-4" id="indicators">
+          <h2>Indicators</h2>
+          <div>
+            <span>Average price of sales: </span>
+            <span id="averagePrice">0</span>
+          </div>
+          <div>
+            <span>p25 sales price value: </span>
+            <span id="p25Price">0</span>
+          </div>
+          <div>
+            <span>p50 sales price value: </span>
+            <span id="p50Price">0</span>
+          </div>
+          <div>
+            <span>p95 sales price value: </span>
+            <span id="p95Price">0</span>
+          </div>
 
-					<div>
-						<span>Lifetime value: </span>
-						<span id="lifetimeValue">10 days</span>
-					</div>
-				</section>
-			</div>
+          <div>
+            <span>Lifetime value: </span>
+            <span id="lifetimeValue">10 days</span>
+          </div>
+        </section>
+      </div>
 
-			<!-- Main column, with the tabs and the deals & sales cards -->
-			<div class="col">
-				<!-- Navigation Bar -->
-				<nav class="nav nav-tabs nav-justified">
-					<button
-						class="nav-link active"
-						id="nav-deals-tab"
-						data-bs-toggle="tab"
-						data-bs-target="#nav-deals"
-						type="button"
-						role="tab"
-						aria-controls="nav-deals"
-						aria-selected="true"
-					>
-						<h2>Deals</h2>
-					</button>
-					<button
-						class="nav-link"
-						id="nav-sales-tab"
-						data-bs-toggle="tab"
-						data-bs-target="#nav-sales"
-						type="button"
-						role="tab"
-						aria-controls="nav-sales"
-						aria-selected="true"
-					>
-						<h2>Sales</h2>
-					</button>
-				</nav>
+      <!-- Main column, with the tabs and the deals & sales cards -->
+      <div class="col">
+        <!-- Navigation Bar -->
+        <nav class="nav nav-tabs nav-justified">
+          <button
+            class="nav-link active"
+            id="nav-deals-tab"
+            data-bs-toggle="tab"
+            data-bs-target="#nav-deals"
+            type="button"
+            role="tab"
+            aria-controls="nav-deals"
+            aria-selected="true"
+          >
+            <h2>Deals</h2>
+          </button>
+          <button
+            class="nav-link"
+            id="nav-sales-tab"
+            data-bs-toggle="tab"
+            data-bs-target="#nav-sales"
+            type="button"
+            role="tab"
+            aria-controls="nav-sales"
+            aria-selected="true"
+          >
+            <h2>Sales</h2>
+          </button>
+        </nav>
 
-				<!-- Rendered items' cards -->
-				<div class="row">
-					<div class="pt-3 px-4 d-flex justify-content-between">
-						<div class="w-auto d-inline-flex align-items-center" id="show">
-							<label for="show-select">Show:</label>
-							<select class="form-select form-select-sm ms-1" id="show-select">
-								<option value="6">6</option>
-								<option value="12">12</option>
-								<option value="24">24</option>
-							</select>
-						</div>
-						<div id="pagination-info"></div>
-					</div>
-					<div class="tab-content" id="nav-content">
-						<!-- Deals' section -->
-						<section
-							class="tab-pane fade show active p-3"
-							id="nav-deals"
-							role="tabpanel"
-							aria-labelledby="nav-deals-tab"
-							tabindex="0"
-						></section>
+        <!-- Rendered items' cards -->
+        <div class="row">
+          <div class="pt-3 px-4 d-flex justify-content-between">
+            <div class="w-auto d-inline-flex align-items-center" id="show">
+              <label for="show-select">Show:</label>
+              <select class="form-select form-select-sm ms-1" id="show-select">
+                <option value="6">6</option>
+                <option value="12">12</option>
+                <option value="24">24</option>
+              </select>
+            </div>
+            <div id="pagination-info"></div>
+          </div>
+          <div class="tab-content" id="nav-content">
+            <!-- Deals' section -->
+            <section
+              class="tab-pane fade show active p-3"
+              id="nav-deals"
+              role="tabpanel"
+              aria-labelledby="nav-deals-tab"
+              tabindex="0"
+            ></section>
 
-						<!-- Sales' section -->
-						<section
-							class="tab-pane fade p-3"
-							id="nav-sales"
-							role="tabpanel"
-							aria-labelledby="nav-sales-tab"
-							tabindex="0"
-						></section>
-					</div>
-				</div>
+            <!-- Sales' section -->
+            <section
+              class="tab-pane fade p-3"
+              id="nav-sales"
+              role="tabpanel"
+              aria-labelledby="nav-sales-tab"
+              tabindex="0"
+            ></section>
+          </div>
+        </div>
 
-				<!-- Pagination -->
-				<nav
-					class="d-flex justify-content-center"
-					aria-label="Page navigation example"
-				>
-					<ul class="pagination position-absolute bottom-0">
-						<li class="page-item">
-							<a class="page-link" href="#" aria-label="Previous">
-								<span aria-hidden="true"
-									><i class="fi fi-rr-caret-right"></i
-								></span>
-							</a>
-						</li>
-						<li class="page-item"><a class="page-link" href="#">1</a></li>
-						<li class="page-item"><a class="page-link" href="#">2</a></li>
-						<li class="page-item"><a class="page-link" href="#">3</a></li>
-						<li class="page-item">
-							<a class="page-link" href="#" aria-label="Next">
-								<span aria-hidden="true"
-									><i class="fi fi-rr-caret-left"></i
-								></span>
-							</a>
-						</li>
-					</ul>
-				</nav>
-			</div>
-		</div>
-		<script
-			src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
-			integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
-			crossorigin="anonymous"
-		></script>
-		<script type="text/javascript" charset="UTF-8" src="utils.js"></script>
-		<script type="text/javascript" charset="UTF-8" src="portfolio.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.1.0/dist/chartjs-plugin-annotation.min.js"></script>
+        <!-- Pagination -->
+        <nav
+          class="d-flex justify-content-center"
+          aria-label="Page navigation example"
+        >
+          <ul class="pagination position-absolute bottom-0">
+            <li class="page-item">
+              <a class="page-link" href="#" aria-label="Previous">
+                <span aria-hidden="true"
+                  ><i class="fi fi-rr-caret-right"></i
+                ></span>
+              </a>
+            </li>
+            <li class="page-item"><a class="page-link" href="#">1</a></li>
+            <li class="page-item"><a class="page-link" href="#">2</a></li>
+            <li class="page-item"><a class="page-link" href="#">3</a></li>
+            <li class="page-item">
+              <a class="page-link" href="#" aria-label="Next">
+                <span aria-hidden="true"
+                  ><i class="fi fi-rr-caret-left"></i
+                ></span>
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+      crossorigin="anonymous"
+    ></script>
+    <script type="text/javascript" charset="UTF-8" src="utils.js"></script>
+    <script type="text/javascript" charset="UTF-8" src="portfolio.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.1.0/dist/chartjs-plugin-annotation.min.js"></script>
 
-		<!-- Modal -->
-		<div
-			class="modal fade"
-			id="dealModal"
-			data-bs-backdrop="static"
-			data-bs-keyboard="false"
-			tabindex="-1"
-			aria-labelledby="dealModalLabel"
-			aria-hidden="true"
-		>
-			<div
-				class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable"
-			>
-				<div class="modal-content">
-					<div class="modal-header">
-						<h5 class="modal-title" id="dealModalLabel">Deal Information</h5>
-						<button
-							type="button"
-							class="btn-close"
-							data-bs-dismiss="modal"
-							aria-label="Close"
-						></button>
-					</div>
-					<div class="modal-body">
-						<!-- Deal Info will be populated here -->
-						<div id="modalDealInfo"></div>
-						<hr />
-						<h6>Top 5 Relevant Sales</h6>
-						<div class="d-flex gap-2 overflow-auto" id="modalSalesInfo"></div>
-						<hr />
-						<h6>Sales Indicators</h6>
-						<canvas
-							id="salesDistributionChart"
-							width="400"
-							height="200"
-						></canvas>
-						<div id="modalIndicators"></div>
-					</div>
-					<div class="modal-footer align-items-center">
-						<a style="font-size: 0.7rem" href="#" target="_blank"
-							>Original Merchant Link</a
-						>
+    <!-- Modal -->
+    <div
+      class="modal fade"
+      id="dealModal"
+      data-bs-backdrop="static"
+      data-bs-keyboard="false"
+      tabindex="-1"
+      aria-labelledby="dealModalLabel"
+      aria-hidden="true"
+    >
+      <div
+        class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable"
+      >
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="dealModalLabel">Deal Information</h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <!-- Deal Info will be populated here -->
+            <div id="modalDealInfo"></div>
+            <hr />
+            <h6>Top 5 Relevant Sales</h6>
+            <div class="d-flex gap-2 overflow-auto" id="modalSalesInfo"></div>
+            <hr />
+            <h6>Sales Indicators</h6>
+            <canvas
+              id="salesDistributionChart"
+              width="400"
+              height="200"
+            ></canvas>
+            <div id="modalIndicators"></div>
+          </div>
+          <div class="modal-footer align-items-center">
+            <a style="font-size: 0.7rem" href="#" target="_blank"
+              >See Original Offer</a
+            >
 
-						<a href="#" target="_blank">
-							<button type="button" class="btn btn-secondary">
-								See deal
-								<i class="fi fi-rr-up-right-from-square"></i>
-							</button>
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</body>
+            <a href="#" target="_blank">
+              <button type="button" class="btn btn-secondary">
+                See deal
+                <i class="fi fi-rr-up-right-from-square"></i>
+              </button>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>
