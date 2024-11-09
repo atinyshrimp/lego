@@ -1,13 +1,5 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5151295865-lego-city",
-    "price": 8.05,
-    "title": "Lego City",
-    "imgUrl": "https://images1.vinted.net/t/02_0221f_uwJKDeQM2m19mmLiJuMcAqb9/f800/1727957315.jpeg?s=f0f955e316052dee5a6a71f7aa00fc8dabd440f5",
-    "publicationDate": 1727957315,
-    "id": 5151295865
-  },
-  {
     "link": "https://www.vinted.fr/items/4811258130-lego-60399",
     "price": 5.95,
     "title": "Lego 60399",
@@ -16,12 +8,12 @@
     "id": 4811258130
   },
   {
-    "link": "https://www.vinted.fr/items/5252095996-lego-60399",
-    "price": 8.05,
-    "title": "lego 60399",
-    "imgUrl": "https://images1.vinted.net/t/03_015a7_JSmYE83MdicdyseGhd36aKKX/f800/1729451440.jpeg?s=8bbe8a7daa8a4520c175f1b78a4508ca9b00e82b",
-    "publicationDate": 1729451440,
-    "id": 5252095996
+    "link": "https://www.vinted.fr/items/4814705449-lego-race-car-60399",
+    "price": 11.1,
+    "title": "Lego Race Car 60399",
+    "imgUrl": "https://images1.vinted.net/t/01_018b2_1e4G2TbNVR3P2A9tkKki3vwG/f800/1722081862.jpeg?s=f8303d6b3a159a84639acdebe5ba824d0953296a",
+    "publicationDate": 1722081862,
+    "id": 4814705449
   },
   {
     "link": "https://www.vinted.fr/items/4868273159-lego-60399",
@@ -32,12 +24,12 @@
     "id": 4868273159
   },
   {
-    "link": "https://www.vinted.fr/items/4814705449-lego-race-car-60399",
-    "price": 11.1,
-    "title": "Lego Race Car 60399",
-    "imgUrl": "https://images1.vinted.net/t/01_018b2_1e4G2TbNVR3P2A9tkKki3vwG/f800/1722081862.jpeg?s=f8303d6b3a159a84639acdebe5ba824d0953296a",
-    "publicationDate": 1722081862,
-    "id": 4814705449
+    "link": "https://www.vinted.fr/items/5151295865-lego-city",
+    "price": 8.05,
+    "title": "Lego City",
+    "imgUrl": "https://images1.vinted.net/t/02_0221f_uwJKDeQM2m19mmLiJuMcAqb9/f800/1727957315.jpeg?s=f0f955e316052dee5a6a71f7aa00fc8dabd440f5",
+    "publicationDate": 1727957315,
+    "id": 5151295865
   },
   {
     "link": "https://www.vinted.fr/items/4344816086-lego-city-60399-groene-racewagen",

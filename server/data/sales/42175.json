@@ -1,19 +1,11 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5257666687-lego-technic-42175",
-    "price": 179.2,
-    "title": "Lego technic 42175",
-    "imgUrl": "https://images1.vinted.net/t/02_02618_ivHJUhRMzDB9a8zVWaPmtKRN/f800/1729537578.jpeg?s=1ad53ad480ee1d5a3ed4475b0563306c4916ccda",
-    "publicationDate": 1729537578,
-    "id": 5257666687
-  },
-  {
-    "link": "https://www.vinted.fr/items/5241218343-lego-42175-volvo-fmx-truck-ec230-electric-excavator",
-    "price": 168.7,
-    "title": "Lego 42175 Volvo FMX Truck & EC230 Electric Excavator",
-    "imgUrl": "https://images1.vinted.net/t/03_01b00_1q1HTXDkxdhscswFEhqSEbtN/f800/1729334557.jpeg?s=e73b8effa75339afad3fdbd7c604914b28f85d8d",
-    "publicationDate": 1729334557,
-    "id": 5241218343
+    "link": "https://www.vinted.fr/items/5354903618-lego-technic-42175-camion-volvo-fmx-et-pelleteuse-electrique-ec230-neuf",
+    "price": 173.95,
+    "title": "Lego Technic 42175 camion Volvo FMX et pelleteuse électrique EC230, neuf",
+    "imgUrl": "https://images1.vinted.net/t/03_007cc_RMBcYFTDxiB77yfDMaD3pHiF/f800/1731179874.jpeg?s=cf03e5cad29ff5453c6caa3faeb190f2d0647d22",
+    "publicationDate": 1731179874,
+    "id": 5354903618
   },
   {
     "link": "https://www.vinted.fr/items/5310951309-lego-42175-technic-camion-fmx-y-excavadora-electrica-ec230-volvo",
@@ -24,12 +16,20 @@
     "id": 5310951309
   },
   {
-    "link": "https://www.vinted.fr/items/5277634495-lego-speed-aston-martin-safety-car-amr23",
-    "price": 53.19,
-    "title": "Lego Speed Aston Martin Safety Car & AMR23",
-    "imgUrl": "https://images1.vinted.net/t/02_013f0_dUv5DuyhdZ5GJoKkHzmUnWad/f800/1729888412.jpeg?s=61ae489667398ab7effdf9117c8ad5084afc822b",
-    "publicationDate": 1729888412,
-    "id": 5277634495
+    "link": "https://www.vinted.fr/items/5241218343-lego-42175-volvo-fmx-truck-ec230-electric-excavator",
+    "price": 168.7,
+    "title": "Lego 42175 Volvo FMX Truck & EC230 Electric Excavator",
+    "imgUrl": "https://images1.vinted.net/t/03_01b00_1q1HTXDkxdhscswFEhqSEbtN/f800/1729334557.jpeg?s=e73b8effa75339afad3fdbd7c604914b28f85d8d",
+    "publicationDate": 1729334557,
+    "id": 5241218343
+  },
+  {
+    "link": "https://www.vinted.fr/items/5349467007-lego-technic-42175-camion-volvo-neuf-et-scelle",
+    "price": 178.15,
+    "title": "Lego Technic 42175 Camion Volvo NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/04_01da9_FKBnwNXHvzeXjc8aQ7fPdCAg/f800/1731092173.jpeg?s=74e1593f62f88f40b8bec8d241d1bc242c434211",
+    "publicationDate": 1731092173,
+    "id": 5349467007
   },
   {
     "link": "https://www.vinted.fr/items/2099917760-lego-creator-3-1-le-bolide-31127",
@@ -38,5 +38,13 @@
     "imgUrl": "https://images1.vinted.net/t/02_0038e_KDqFWS4c7Mos5nymNzpjeyWL/f800/1660314259.jpeg?s=2034bef48706c6f39779772afa2f0e66d4be02e3",
     "publicationDate": 1660314259,
     "id": 2099917760
+  },
+  {
+    "link": "https://www.vinted.fr/items/5277634495-lego-speed-aston-martin-safety-car-amr23",
+    "price": 53.19,
+    "title": "Lego Speed Aston Martin Safety Car & AMR23",
+    "imgUrl": "https://images1.vinted.net/t/02_013f0_dUv5DuyhdZ5GJoKkHzmUnWad/f800/1729888412.jpeg?s=61ae489667398ab7effdf9117c8ad5084afc822b",
+    "publicationDate": 1729888412,
+    "id": 5277634495
   }
 ]

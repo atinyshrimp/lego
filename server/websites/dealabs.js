@@ -8,61 +8,69 @@ const fs = require("fs");
  * @returns {Object[]} - An array of deal objects containing details such as imgUrl, title, legoId, price, etc.
  */
 const parse = (data) => {
-	const $ = cheerio.load(data, { xmlMode: true }, true);
-	// console.log($);
+  const $ = cheerio.load(data, { xmlMode: true }, true);
 
-	return $("article.thread")
-		.map((_, element) => {
-			const content = JSON.parse(
-				$(element).find("div.js-vue2").attr("data-vue2")
-			).props.thread;
-			/** Get content from the header of the deal */
-			const imgUrl = JSON.parse(
-				$(element).find("div.threadGrid-image div.js-vue2").attr("data-vue2")
-			).props.threadImageUrl;
+  return $("article.thread")
+    .map((_, element) => {
+      const content = JSON.parse(
+        $(element).find("div.js-vue2").attr("data-vue2")
+      ).props.thread;
 
-			const title = content.title;
+      /** Get content from the "data-vue2" */
+      const id = content.threadId;
+      const title = content.title;
 
-			const link = content.link;
+      /** Get the Lego set ID from the title of the deal */
+      const idPattern = /\d{5}/; // Regular expression pattern for 5 digits in a row (Lego set ID)
+      const foundLegoId = title.match(idPattern);
+      const legoId = foundLegoId === null ? "" : foundLegoId[0];
 
-			/** Get the Lego set ID from the title of the deal */
-			const idPattern = /\d{5}/; // Regular expression pattern for 5 digits in a row (Lego set ID)
-			const foundLegoId = title.match(idPattern);
-			const legoId = foundLegoId === null ? "" : foundLegoId[0];
+      /** Get the different links */
+      const link = content.shareableLink; // URL to the description of the deal on Dealabs
+      const merchantLink = content.link; // URL to the original link of the offer
 
-			/** Get the price infos */
-			const price = content.price;
+      /** Get the price infos */
+      const price = content.price;
 
-			const nextBestPrice = content.nextBestPrice;
+      const nextBestPrice = content.nextBestPrice;
 
-			const discount =
-				nextBestPrice !== 0
-					? Number(Number((1 - price / nextBestPrice) * 100).toFixed(0))
-					: NaN;
+      const discount =
+        nextBestPrice !== 0
+          ? Number(Number((1 - price / nextBestPrice) * 100).toFixed(0))
+          : NaN;
 
-			const comments = content.commentCount; // the thread ID, I cannot find real data...
+      /** Get different dates */
+      const publication = content.publishedAt;
+      const expirationDate =
+        content.endDate !== null ? content.endDate.timestamp : null;
 
-			const temperature = content.temperature; // the thread ID, I cannot find real data...
+      /** Miscellaneous infos */
+      const comments = content.commentCount;
 
-			/* Get the date */
-			// Add the current year if omitted in the string
-			const publication = content.publishedAt;
+      const temperature = content.temperature;
 
-			return {
-				// content,
-				imgUrl,
-				title,
-				legoId,
-				price,
-				nextBestPrice,
-				discount,
-				link,
-				comments,
-				temperature,
-				publication,
-			};
-		})
-		.get();
+      /** Get image URL from brother element */
+      const imgUrl = JSON.parse(
+        $(element).find("div.threadGrid-image div.js-vue2").attr("data-vue2")
+      ).props.threadImageUrl;
+
+      return {
+        id,
+        imgUrl,
+        title,
+        legoId,
+        price,
+        nextBestPrice,
+        discount,
+        link,
+        merchantLink,
+        comments,
+        temperature,
+        publication,
+        expirationDate,
+      };
+    })
+    .get();
 };
 
 /** Saves a JSON document to a file.
@@ -72,20 +80,20 @@ const parse = (data) => {
  * @param {Object[]} document - The JSON document to be saved.
  */
 const saveJSONfile = (path, fileName, document) => {
-	try {
-		// Check path name
-		const pathName = String(path).endsWith("/") ? path : path + "/";
+  try {
+    // Check path name
+    const pathName = String(path).endsWith("/") ? path : path + "/";
 
-		// Store the JSON documents into a JSON file
-		fs.writeFileSync(
-			`${pathName}${fileName}.json`,
-			JSON.stringify(document, null, 2)
-		);
+    // Store the JSON documents into a JSON file
+    fs.writeFileSync(
+      `${pathName}${fileName}.json`,
+      JSON.stringify(document, null, 2)
+    );
 
-		console.log(`${document.length} documents saved!`);
-	} catch (e) {
-		console.error(e);
-	}
+    console.log(`${document.length} documents saved!`);
+  } catch (e) {
+    console.error(e);
+  }
 };
 
 /** Scrapes deals from a given URL and saves the data as JSON.
@@ -95,47 +103,54 @@ const saveJSONfile = (path, fileName, document) => {
  * @param {number} [maxPages=12] - The maximum number of pages to scrape.
  * @returns {Promise<Object[]>} - A promise that resolves to an array of deal objects.
  */
-module.exports.scrape = async (baseUrl, maxPages = 12) => {
-	let currentPage = 1;
-	let allDeals = [];
-	let hasMorePages = true;
+module.exports.scrape = async (
+  baseUrl = "https://www.dealabs.com/groupe/lego?hide_expired=true"
+) => {
+  console.log(`🕵️‍♀️  browsing ${baseUrl}`);
 
-	while (hasMorePages && currentPage <= maxPages) {
-		// Update page
-		const url = `${baseUrl}${
-			baseUrl.includes("?") ? "&" : "?"
-		}page=${currentPage}`;
-		console.log(`Scraping page: ${currentPage}`);
-		// Making the browser believe the scraper is a "real person"
-		const opts = {
-			method: "GET",
-			headers: {
-				"User-Agent":
-					"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-			},
-		};
-		const response = await fetch(url, opts);
+  let currentPage = 1;
+  let allDeals = [];
+  let hasMorePages = true;
 
-		if (response.ok) {
-			const body = await response.text();
-			const dealsDoc = parse(body);
-			if (dealsDoc.length === 0) {
-				hasMorePages = false;
-			} else {
-				allDeals = allDeals.concat(dealsDoc);
-				currentPage++;
-			}
-		} else {
-			console.error(`Failed to fetch page ${currentPage}:`, response.status);
-			hasMorePages = false;
-		}
-	}
+  while (hasMorePages) {
+    // Update page
+    const url = `${baseUrl}${
+      baseUrl.includes("?") ? "&" : "?"
+    }page=${currentPage}`;
+    console.log(`Scraping page: ${currentPage}`);
 
-	// Remove empty legoId, mostly not Lego sets
-	allDeals = allDeals.filter((deal) => deal.legoId !== "");
+    // Making the browser believe the scraper is a "real person"
+    const opts = {
+      method: "GET",
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+      },
+    };
 
-	console.log(`Saving ${allDeals.length} JSON documents...`);
-	saveJSONfile("server/data", "deals", allDeals);
-	// Return the JSON documents
-	return allDeals;
+    // Get HTTP response
+    const response = await fetch(url, opts);
+
+    if (response.ok) {
+      const body = await response.text();
+      const dealsDoc = parse(body);
+      if (dealsDoc.length === 0) {
+        hasMorePages = false;
+      } else {
+        allDeals = allDeals.concat(dealsDoc);
+        currentPage++;
+      }
+    } else {
+      console.error(`Failed to fetch page ${currentPage}:`, response.status);
+      hasMorePages = false;
+    }
+  }
+
+  // Remove empty legoId, mostly not Lego sets
+  allDeals = allDeals.filter((deal) => deal.legoId !== "");
+
+  console.log(`Saving ${allDeals.length} JSON documents...`);
+  saveJSONfile("server/data", "deals", allDeals);
+  // Return the JSON documents
+  return allDeals;
 };

@@ -1,24 +1,18 @@
 /* eslint-disable no-console, no-process-exit */
-const avenuedelabrique = require("./websites/avenuedelabrique");
 const dealabs = require("./websites/dealabs");
 const vinted = require("./websites/vinted");
 
-async function sandbox(
-	website = "https://www.avenuedelabrique.com/nouveautes-lego"
-) {
-	try {
-		console.log(`🕵️‍♀️  browsing ${website} website`);
+async function sandbox() {
+  try {
+    const deals = await dealabs.scrape();
+    const sales = await vinted.scrape();
 
-		// const deals = await dealabs.scrape(website);
-		const sales = await vinted.scrape();
-
-		// console.log(deals);
-		console.log("done");
-		process.exit(0);
-	} catch (e) {
-		console.error(e);
-		process.exit(1);
-	}
+    console.log("💾 Scraping done ✅");
+    process.exit(0);
+  } catch (e) {
+    console.error(e);
+    process.exit(1);
+  }
 }
 
 const [, , eshop] = process.argv;

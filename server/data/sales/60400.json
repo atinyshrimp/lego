@@ -1,35 +1,11 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5318800146-lego-city-neuf",
-    "price": 5.95,
-    "title": "Lego city neuf",
-    "imgUrl": "https://images1.vinted.net/t/04_0176d_s5Ew99yTVZ47zj3c5tvCRNnP/f800/1730571493.jpeg?s=30de9c85000ddcc6d68636a30513921c2da8e650",
-    "publicationDate": 1730571493,
-    "id": 5318800146
-  },
-  {
-    "link": "https://www.vinted.fr/items/5310432729-lego-60400",
-    "price": 7,
-    "title": "lego 60400",
-    "imgUrl": "https://images1.vinted.net/t/04_0047e_KpijmCvkEXU9YsU13VBfwoB6/f800/1730457862.jpeg?s=02a27239b8bb1b0b15d0fcf07bebbf795e55a725",
-    "publicationDate": 1730457862,
-    "id": 5310432729
-  },
-  {
     "link": "https://www.vinted.fr/items/5313586345-lego-60400-nieuw-in-de-verpakking",
     "price": 6.48,
     "title": "Lego 60400 Nieuw in de verpakking",
     "imgUrl": "https://images1.vinted.net/t/04_01df2_yRm6J2FyviRu8ekomPqBzrBB/f800/1730489651.jpeg?s=429bef4080f933e3a7150c045f1ab60c717110b4",
     "publicationDate": 1730489651,
     "id": 5313586345
-  },
-  {
-    "link": "https://www.vinted.fr/items/5323932402-lego-city-set-60400",
-    "price": 4.9,
-    "title": "LEGO City (set 60400)",
-    "imgUrl": "https://images1.vinted.net/t/01_02007_Acepur98SEuW8ckj4U2V6u2j/f800/r3/1730647437.jpeg?s=cde5024c8844ae2fd01aa38841b1a868756e92bd",
-    "publicationDate": 1730647437,
-    "id": 5323932402
   },
   {
     "link": "https://www.vinted.fr/items/4788682825-lego-city-kart-60400",
@@ -40,28 +16,28 @@
     "id": 4788682825
   },
   {
+    "link": "https://www.vinted.fr/items/5310432729-lego-60400",
+    "price": 7,
+    "title": "lego 60400",
+    "imgUrl": "https://images1.vinted.net/t/04_0047e_KpijmCvkEXU9YsU13VBfwoB6/f800/1730457862.jpeg?s=02a27239b8bb1b0b15d0fcf07bebbf795e55a725",
+    "publicationDate": 1730457862,
+    "id": 5310432729
+  },
+  {
+    "link": "https://www.vinted.fr/items/5323932402-lego-city-set-60400",
+    "price": 4.9,
+    "title": "LEGO City (set 60400)",
+    "imgUrl": "https://images1.vinted.net/t/01_02007_Acepur98SEuW8ckj4U2V6u2j/f800/r3/1730647437.jpeg?s=cde5024c8844ae2fd01aa38841b1a868756e92bd",
+    "publicationDate": 1730647437,
+    "id": 5323932402
+  },
+  {
     "link": "https://www.vinted.fr/items/4749293198-lego-city-60400-all-figures-included",
     "price": 5.95,
     "title": "Lego city 60400 all figures included",
     "imgUrl": "https://images1.vinted.net/t/01_00fec_UdBmEDnu3qfe6rKXp1GUnxDj/f800/1720633539.jpeg?s=938dadb81d2791dcb701f5735ba3b53bd7f66fc0",
     "publicationDate": 1720633539,
     "id": 4749293198
-  },
-  {
-    "link": "https://www.vinted.fr/items/3973167596-lego-60400",
-    "price": 15.4,
-    "title": "Lego 60400",
-    "imgUrl": "https://images1.vinted.net/t/03_025f3_5kTNXRFUzrQcDa2dd8B1MU1q/f800/1705156776.jpeg?s=8bc9a6d833d62df35e4b3fdd59fd818dace77eaa",
-    "publicationDate": 1705156776,
-    "id": 3973167596
-  },
-  {
-    "link": "https://www.vinted.fr/items/5251757521-lego-60400",
-    "price": 9.1,
-    "title": "Lego 60400",
-    "imgUrl": "https://images1.vinted.net/t/01_00442_JFwFC3DugLFshjBxVboLM2JD/f800/1729448343.jpeg?s=e48eef727723b1058972a98953e9d2cde20586e0",
-    "publicationDate": 1729448343,
-    "id": 5251757521
   },
   {
     "link": "https://www.vinted.fr/items/5007905952-lego-city-cod60400-go-kart-e-piloti-nuovo-e-sigillato",
@@ -88,12 +64,28 @@
     "id": 5004478305
   },
   {
-    "link": "https://www.vinted.fr/items/4868253861-lego-60400",
-    "price": 11.2,
+    "link": "https://www.vinted.fr/items/3973167596-lego-60400",
+    "price": 15.4,
     "title": "Lego 60400",
-    "imgUrl": "https://images1.vinted.net/t/01_01bd6_4Tiqkf4KnmDZrJPBvQM3P9GE/f800/1723220933.jpeg?s=3f50cc31442ac7bc23d65b36654c5efd8dabcdf0",
-    "publicationDate": 1723220933,
-    "id": 4868253861
+    "imgUrl": "https://images1.vinted.net/t/03_025f3_5kTNXRFUzrQcDa2dd8B1MU1q/f800/1705156776.jpeg?s=8bc9a6d833d62df35e4b3fdd59fd818dace77eaa",
+    "publicationDate": 1705156776,
+    "id": 3973167596
+  },
+  {
+    "link": "https://www.vinted.fr/items/5251757521-lego-60400",
+    "price": 9.1,
+    "title": "Lego 60400",
+    "imgUrl": "https://images1.vinted.net/t/01_00442_JFwFC3DugLFshjBxVboLM2JD/f800/1729448343.jpeg?s=e48eef727723b1058972a98953e9d2cde20586e0",
+    "publicationDate": 1729448343,
+    "id": 5251757521
+  },
+  {
+    "link": "https://www.vinted.fr/items/5240887157-lego-city-60400",
+    "price": 9.1,
+    "title": "Lego city 60400",
+    "imgUrl": "https://images1.vinted.net/t/02_000c0_boyjKqGyqeN8HBSe9rgDCXsW/f800/1729331895.jpeg?s=d9576ba99e358ed9f66b7d1cd57e89c3eb808007",
+    "publicationDate": 1729331895,
+    "id": 5240887157
   },
   {
     "link": "https://www.vinted.fr/items/4831538055-lego-city-60400-karts-en-racers",
@@ -104,12 +96,20 @@
     "id": 4831538055
   },
   {
-    "link": "https://www.vinted.fr/items/5240887157-lego-city-60400",
-    "price": 9.1,
-    "title": "Lego city 60400",
-    "imgUrl": "https://images1.vinted.net/t/02_000c0_boyjKqGyqeN8HBSe9rgDCXsW/f800/1729331895.jpeg?s=d9576ba99e358ed9f66b7d1cd57e89c3eb808007",
-    "publicationDate": 1729331895,
-    "id": 5240887157
+    "link": "https://www.vinted.fr/items/4868253861-lego-60400",
+    "price": 11.2,
+    "title": "Lego 60400",
+    "imgUrl": "https://images1.vinted.net/t/01_01bd6_4Tiqkf4KnmDZrJPBvQM3P9GE/f800/1723220933.jpeg?s=3f50cc31442ac7bc23d65b36654c5efd8dabcdf0",
+    "publicationDate": 1723220933,
+    "id": 4868253861
+  },
+  {
+    "link": "https://www.vinted.fr/items/4554821620-lego-60400-go-kart-und-rennfahrer",
+    "price": 5.95,
+    "title": "Lego 60400 Go Kart und Rennfahrer",
+    "imgUrl": "https://images1.vinted.net/t/02_01f41_y4Khi7aKcAtBa8RyKLBNdc7t/f800/1716711467.jpeg?s=321cfa4d13b5e793a8fc3ebedda905e0e8aaee62",
+    "publicationDate": 1716711467,
+    "id": 4554821620
   },
   {
     "link": "https://www.vinted.fr/items/4860626246-lego-60400",

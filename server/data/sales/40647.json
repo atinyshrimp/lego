@@ -1,11 +1,35 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5226733027-lego-40647-fleurs-de-lotus",
-    "price": 18.55,
-    "title": "Lego 40647 Fleurs de lotus",
-    "imgUrl": "https://images1.vinted.net/t/02_01c98_Yz13kZtn7cn9HpW3gBnogWen/f800/1729079523.jpeg?s=131d92ba3c89bdbaa61bac794553d622d33c6e0e",
-    "publicationDate": 1729079523,
-    "id": 5226733027
+    "link": "https://www.vinted.fr/items/5353268422-lego-40647-sigillato",
+    "price": 11.2,
+    "title": "Lego 40647 sigillato",
+    "imgUrl": "https://images1.vinted.net/t/02_001e4_9em8Es187WQjxdFvCoL5uqsP/f800/1731164172.jpeg?s=377ad667eed126023193b6ab3d088df98cfeb0a6",
+    "publicationDate": 1731164172,
+    "id": 5353268422
+  },
+  {
+    "link": "https://www.vinted.fr/items/5348528492-lego-40647",
+    "price": 13.3,
+    "title": "Lego 40647",
+    "imgUrl": "https://images1.vinted.net/t/04_01000_QG7bgT6duNDQxhiz2BswjmR9/f800/1731080180.jpeg?s=6b5b56ac20c585b3f941d2e43aa630d160bae667",
+    "publicationDate": 1731080180,
+    "id": 5348528492
+  },
+  {
+    "link": "https://www.vinted.fr/items/5354935737-40647-lego-creator-collection-botanique-les-fleurs-de-lotus",
+    "price": 12.24,
+    "title": "40647 LEGO Creator Collection botanique Les fleurs de lotus",
+    "imgUrl": "https://images1.vinted.net/t/04_025b4_5jw2315BqdeHJ1ebJTyq7UZX/f800/1731180296.jpeg?s=ce641358f4a47707d4eeeffbd834896a2fe32da2",
+    "publicationDate": 1731180296,
+    "id": 5354935737
+  },
+  {
+    "link": "https://www.vinted.fr/items/5351810379-lego-lotus-flowers-40647",
+    "price": 16.45,
+    "title": "Lego Lotus Flowers 40647",
+    "imgUrl": "https://images1.vinted.net/t/04_0114c_tvBRq85n6GhtqvR1ajMVjQP2/f800/1731152663.jpeg?s=389d8759c33d8d5df8efb9345b50591c7e43e6ff",
+    "publicationDate": 1731152663,
+    "id": 5351810379
   },
   {
     "link": "https://www.vinted.fr/items/3938015129-lego-40647-box-only",
@@ -16,60 +40,36 @@
     "id": 3938015129
   },
   {
-    "link": "https://www.vinted.fr/items/5327813492-ce-lot-lego-creator-collection-botanique-est-compose-de",
-    "price": 28.51,
-    "title": "Ce lot LEGO Creator Collection botanique est composé de",
-    "imgUrl": "https://images1.vinted.net/t/01_00cbd_vyb7ojzF6NHJJQf2yPAY3PSf/f800/1730715213.jpeg?s=39ec2fa50bd332847b323e62a886aa7f688e52f2",
-    "publicationDate": 1730715213,
-    "id": 5327813492
+    "link": "https://www.vinted.fr/items/5344236868-lego-lotus-flowers-40647",
+    "price": 32.2,
+    "title": "Lego Lotus Flowers 40647",
+    "imgUrl": "https://images1.vinted.net/t/03_02523_n7ia9LRiiQE3Ws5EGMDCoT1u/f800/1730996333.jpeg?s=b1e24c4ce32461866a3be6a08e2bf3e3f8f4a080",
+    "publicationDate": 1730996333,
+    "id": 5344236868
   },
   {
-    "link": "https://www.vinted.fr/items/5327935177-lego-lotus",
-    "price": 11.2,
-    "title": "Lego lotus",
-    "imgUrl": "https://images1.vinted.net/t/02_00385_mcJku6smm6JQSWmDUtnnyxVs/f800/1730716462.jpeg?s=ca04cf0a0baf22087ffd55f8820069fd7e52eb48",
-    "publicationDate": 1730716462,
-    "id": 5327935177
-  },
-  {
-    "link": "https://www.vinted.fr/items/5130834446-nieuw-lego-lotusbloem-40647",
-    "price": 13.3,
-    "title": "Nieuw! Lego lotusbloem 40647",
-    "imgUrl": "https://images1.vinted.net/t/01_0266b_8p2qpZZKntMqugvvn1QyH8RH/f800/1727628480.jpeg?s=94f052747dcbb7bf15df9eea3fea852817e65ebe",
-    "publicationDate": 1727628480,
-    "id": 5130834446
-  },
-  {
-    "link": "https://www.vinted.fr/items/5135958365-lego-40647-botanical-lotus-flower",
-    "price": 14.34,
-    "title": "Lego 40647 Botanical Lotus Flower",
-    "imgUrl": "https://images1.vinted.net/t/03_02557_C2anpyhnCp2CCkorYFXwL3fY/f800/1727707671.jpeg?s=3b921a669479649ef01e603ec45db0874d58c7cb",
-    "publicationDate": 1727707671,
-    "id": 5135958365
+    "link": "https://www.vinted.fr/items/5226733027-lego-40647-fleurs-de-lotus",
+    "price": 18.55,
+    "title": "Lego 40647 Fleurs de lotus",
+    "imgUrl": "https://images1.vinted.net/t/02_01c98_Yz13kZtn7cn9HpW3gBnogWen/f800/1729079523.jpeg?s=131d92ba3c89bdbaa61bac794553d622d33c6e0e",
+    "publicationDate": 1729079523,
+    "id": 5226733027
   },
   {
     "link": "https://www.vinted.fr/items/5297423686-lego-lotus-flowers-40647-novo",
-    "price": 13.3,
+    "price": 12.78,
     "title": "Lego Lotus Flowers 40647 Novo",
     "imgUrl": "https://images1.vinted.net/t/01_00731_t1HjnmQrbP5gUzRMwHg9LEWk/f800/1730206212.jpeg?s=c1028e51c3cd630a4141437ea57a10182aa76029",
     "publicationDate": 1730206212,
     "id": 5297423686
   },
   {
-    "link": "https://www.vinted.fr/items/5219582702-fiori-di-loto-lego",
-    "price": 11.2,
-    "title": "Fiori di loto - Lego",
-    "imgUrl": "https://images1.vinted.net/t/01_00d55_DDNqmHRxkSFbQMpLugb7FhXr/f800/1728975283.jpeg?s=f4558cccf3d3b98dd46af3ee96564ee6fdb6b482",
-    "publicationDate": 1728975283,
-    "id": 5219582702
-  },
-  {
-    "link": "https://www.vinted.fr/items/5100948084-40647-lego-creator-collection-botanique-les-fleurs-de-lotus",
-    "price": 14.61,
-    "title": "40647 LEGO Creator Collection botanique Les fleurs de lotus",
-    "imgUrl": "https://images1.vinted.net/t/03_0087d_QathvxJhB2sT5EyDWpHrn4pn/f800/1727189739.jpeg?s=9b74cc92f231886922fa7cba3c8a80f1cea8e411",
-    "publicationDate": 1727189739,
-    "id": 5100948084
+    "link": "https://www.vinted.fr/items/5351456824-lego-40647",
+    "price": 10.14,
+    "title": "Lego 40647",
+    "imgUrl": "https://images1.vinted.net/t/01_009a6_6a8bTz64vhoS3KB6gqdopwhK/f800/1731149678.jpeg?s=9c45a9a69695aae52543d118f12ee4eaf688d751",
+    "publicationDate": 1731149678,
+    "id": 5351456824
   },
   {
     "link": "https://www.vinted.fr/items/5243335064-lego-40647-lotus-flowers",
@@ -80,6 +80,38 @@
     "id": 5243335064
   },
   {
+    "link": "https://www.vinted.fr/items/5135958365-lego-40647-botanical-lotus-flower",
+    "price": 14.34,
+    "title": "Lego 40647 Botanical Lotus Flower",
+    "imgUrl": "https://images1.vinted.net/t/03_02557_C2anpyhnCp2CCkorYFXwL3fY/f800/1727707671.jpeg?s=3b921a669479649ef01e603ec45db0874d58c7cb",
+    "publicationDate": 1727707671,
+    "id": 5135958365
+  },
+  {
+    "link": "https://www.vinted.fr/items/5130834446-nieuw-lego-lotusbloem-40647",
+    "price": 13.3,
+    "title": "Nieuw! Lego lotusbloem 40647",
+    "imgUrl": "https://images1.vinted.net/t/01_0266b_8p2qpZZKntMqugvvn1QyH8RH/f800/1727628480.jpeg?s=94f052747dcbb7bf15df9eea3fea852817e65ebe",
+    "publicationDate": 1727628480,
+    "id": 5130834446
+  },
+  {
+    "link": "https://www.vinted.fr/items/5332113802-lego-40647-lotusblumen",
+    "price": 13.3,
+    "title": "Lego 40647 Lotusblumen",
+    "imgUrl": "https://images1.vinted.net/t/04_01ebb_sYkhKCgtUHComDhhK19QzGZM/f800/1730786488.jpeg?s=95e9a51bd24d7827f44c6173b9304090c887baa7",
+    "publicationDate": 1730786488,
+    "id": 5332113802
+  },
+  {
+    "link": "https://www.vinted.fr/items/5219582702-fiori-di-loto-lego",
+    "price": 11.2,
+    "title": "Fiori di loto - Lego",
+    "imgUrl": "https://images1.vinted.net/t/01_00d55_DDNqmHRxkSFbQMpLugb7FhXr/f800/1728975283.jpeg?s=f4558cccf3d3b98dd46af3ee96564ee6fdb6b482",
+    "publicationDate": 1728975283,
+    "id": 5219582702
+  },
+  {
     "link": "https://www.vinted.fr/items/5273347949-lote-de-5-sets-lego-flores-novos",
     "price": 53.2,
     "title": "Lote de 5 sets Lego Flores Novos",
@@ -88,12 +120,20 @@
     "id": 5273347949
   },
   {
-    "link": "https://www.vinted.fr/items/5307567986-40647-flor-de-loto-lego-new",
-    "price": 16.44,
-    "title": "40647 Flor de loto LEGO New",
-    "imgUrl": "https://images1.vinted.net/t/04_015c8_6iUWNm1t6UKx5hQRbyJSwFtY/f800/1730384682.jpeg?s=347642f778b483422f685dcc7443863bc5952e8a",
-    "publicationDate": 1730384682,
-    "id": 5307567986
+    "link": "https://www.vinted.fr/items/4910066888-lego-blumen",
+    "price": 23.8,
+    "title": "Lego Blumen",
+    "imgUrl": "https://images1.vinted.net/t/03_008e3_9BoUHxr5Lcu9wAqkCYMzdxmm/f800/1724095949.jpeg?s=f227fff4b809c4da1fbf57075202d1454291916e",
+    "publicationDate": 1724095949,
+    "id": 4910066888
+  },
+  {
+    "link": "https://www.vinted.fr/items/4332291714-lego-flower-bausatz-40647",
+    "price": 16.45,
+    "title": "Lego Flower Bausatz 40647",
+    "imgUrl": "https://images1.vinted.net/t/03_006cf_Th66y6UVtAa4fBK2wvTzaCUw/f800/1712519030.jpeg?s=a5bcbf0c126d7f65bb5dd53459a4d6f328cfa17f",
+    "publicationDate": 1712519030,
+    "id": 4332291714
   },
   {
     "link": "https://www.vinted.fr/items/5199106282-set-lego-40647",
@@ -104,22 +144,6 @@
     "id": 5199106282
   },
   {
-    "link": "https://www.vinted.fr/items/4420730299-lego-lotus-flowers40647",
-    "price": 16.45,
-    "title": "LEGO  Lotus Flowers_40647",
-    "imgUrl": "https://images1.vinted.net/t/02_01d5e_KWMVkMgJPm7faN6ZewzDE32G/f800/1714151983.jpeg?s=3520d411693344f6ca085e187dad86daa352fadf",
-    "publicationDate": 1714151983,
-    "id": 4420730299
-  },
-  {
-    "link": "https://www.vinted.fr/items/5267476164-lego-bloemen-lotus-flowers-40647-compleet-met-doos",
-    "price": 16.45,
-    "title": "Lego bloemen lotus flowers 40647 compleet met doos",
-    "imgUrl": "https://images1.vinted.net/t/04_0192b_E52YbBkcktHQchQEZtLMzPer/f800/1729703742.jpeg?s=55651179a01ddaa0323f2ae914a7608e2ce3fea5",
-    "publicationDate": 1729703742,
-    "id": 5267476164
-  },
-  {
     "link": "https://www.vinted.fr/items/4772730040-lego-lotus-flowers-40647",
     "price": 11.2,
     "title": "Lego lotus flowers 40647",
@@ -128,20 +152,20 @@
     "id": 4772730040
   },
   {
-    "link": "https://www.vinted.fr/items/5139589336-lego-40647-fiori-di-loto-lotus-flowers-bouquet-flores",
-    "price": 21.69,
-    "title": "Lego 40647 Fiori di Loto , Lotus Flowers , Bouquet , Flores",
-    "imgUrl": "https://images1.vinted.net/t/02_001c9_5tXBYQwXzfUc6ZjR7H5uumAy/f800/1727776742.jpeg?s=cd302b383c0a095df7ddcb4c9997089dad5e76b7",
-    "publicationDate": 1727776742,
-    "id": 5139589336
+    "link": "https://www.vinted.fr/items/5307567986-40647-flor-de-loto-lego-new",
+    "price": 16.44,
+    "title": "40647 Flor de loto LEGO New",
+    "imgUrl": "https://images1.vinted.net/t/04_015c8_6iUWNm1t6UKx5hQRbyJSwFtY/f800/1730384682.jpeg?s=347642f778b483422f685dcc7443863bc5952e8a",
+    "publicationDate": 1730384682,
+    "id": 5307567986
   },
   {
-    "link": "https://www.vinted.fr/items/5161753583-lego-les-fleurs-de-lotus-40647",
-    "price": 10.15,
-    "title": "Lego - les fleurs de lotus - 40647",
-    "imgUrl": "https://images1.vinted.net/t/02_0059a_yLCG1SUxpUvdD3tB4swrv1jB/f800/1728136421.jpeg?s=daa8993a97c5f8c534e54f59ef567af07660a122",
-    "publicationDate": 1728136421,
-    "id": 5161753583
+    "link": "https://www.vinted.fr/items/4420730299-lego-lotus-flowers40647",
+    "price": 16.45,
+    "title": "LEGO  Lotus Flowers_40647",
+    "imgUrl": "https://images1.vinted.net/t/02_01d5e_KWMVkMgJPm7faN6ZewzDE32G/f800/1714151983.jpeg?s=3520d411693344f6ca085e187dad86daa352fadf",
+    "publicationDate": 1714151983,
+    "id": 4420730299
   },
   {
     "link": "https://www.vinted.fr/items/4684049297-lego-40647-flor-de-lotus",
@@ -152,28 +176,20 @@
     "id": 4684049297
   },
   {
+    "link": "https://www.vinted.fr/items/5267476164-lego-bloemen-lotus-flowers-40647-compleet-met-doos",
+    "price": 16.45,
+    "title": "Lego bloemen lotus flowers 40647 compleet met doos",
+    "imgUrl": "https://images1.vinted.net/t/04_0192b_E52YbBkcktHQchQEZtLMzPer/f800/1729703742.jpeg?s=55651179a01ddaa0323f2ae914a7608e2ce3fea5",
+    "publicationDate": 1729703742,
+    "id": 5267476164
+  },
+  {
     "link": "https://www.vinted.fr/items/4492812503-lego-40647-flores-de-loto",
     "price": 16.03,
     "title": "Lego 40647 Flores de Loto",
     "imgUrl": "https://images1.vinted.net/t/03_02396_1Td3C9dBf9gqnghPsH5mPVz6/f800/1715520137.jpeg?s=b46c32bedc01e7f40505e1dfeafed613f2a4e825",
     "publicationDate": 1715520137,
     "id": 4492812503
-  },
-  {
-    "link": "https://www.vinted.fr/items/4749344419-lego-40647-lotusblumen-ovp",
-    "price": 16.45,
-    "title": "LEGO 40647 Lotusblumen OVP",
-    "imgUrl": "https://images1.vinted.net/t/03_00cef_4BdadQYabnF68KPhNkrCc44N/f800/1720634181.jpeg?s=ac3bd55a163600778e1cf818abd4e6f950a2cc37",
-    "publicationDate": 1720634181,
-    "id": 4749344419
-  },
-  {
-    "link": "https://www.vinted.fr/items/4896938827-lego-de-flores-ref-40647",
-    "price": 21.7,
-    "title": "lego de flores ref: 40647",
-    "imgUrl": "https://images1.vinted.net/t/02_01172_pzs1dHjaffNWc2E2fJVNjD4D/f800/1723886535.jpeg?s=5f3e837016d23a87baeedab5e71deecc15453ed5",
-    "publicationDate": 1723886535,
-    "id": 4896938827
   },
   {
     "link": "https://www.vinted.fr/items/5226720559-lego-40747-daffodils-lego-40647-fleurs-de-lotus-lego-40524-tournesols",
@@ -184,12 +200,28 @@
     "id": 5226720559
   },
   {
-    "link": "https://www.vinted.fr/items/4244887138-lego-lotus-flower-40647",
-    "price": 20.55,
-    "title": "lego Lotus Flower 40647",
-    "imgUrl": "https://images1.vinted.net/t/01_00fdc_XDr4BFppkewqdeZE9Bu7gBgk/f800/1710857015.jpeg?s=99653efb2cbd01ee3951e2487a7df62fce4d117c",
-    "publicationDate": 1710857015,
-    "id": 4244887138
+    "link": "https://www.vinted.fr/items/4830761159-lego-creator-lotusblumen-set-40647-neu",
+    "price": 13.3,
+    "title": "LEGO Creator Lotusblumen Set 40647 NEU",
+    "imgUrl": "https://images1.vinted.net/t/02_010e6_yj7dTp5wscQUqXqgwSVTM4DK/f800/1722433614.jpeg?s=3f553df8fa80012321591bd7c084e0a0ad1bed27",
+    "publicationDate": 1722433614,
+    "id": 4830761159
+  },
+  {
+    "link": "https://www.vinted.fr/items/4749344419-lego-40647-lotusblumen-ovp",
+    "price": 16.45,
+    "title": "LEGO 40647 Lotusblumen OVP",
+    "imgUrl": "https://images1.vinted.net/t/03_00cef_4BdadQYabnF68KPhNkrCc44N/f800/1720634181.jpeg?s=ac3bd55a163600778e1cf818abd4e6f950a2cc37",
+    "publicationDate": 1720634181,
+    "id": 4749344419
+  },
+  {
+    "link": "https://www.vinted.fr/items/5139589336-lego-40647-fiori-di-loto-lotus-flowers-bouquet-flores",
+    "price": 21.69,
+    "title": "Lego 40647 Fiori di Loto , Lotus Flowers , Bouquet , Flores",
+    "imgUrl": "https://images1.vinted.net/t/02_001c9_5tXBYQwXzfUc6ZjR7H5uumAy/f800/1727776742.jpeg?s=cd302b383c0a095df7ddcb4c9997089dad5e76b7",
+    "publicationDate": 1727776742,
+    "id": 5139589336
   },
   {
     "link": "https://www.vinted.fr/items/4085263833-lego-40647-loto",
@@ -198,5 +230,21 @@
     "imgUrl": "https://images1.vinted.net/t/01_01f84_D8LjvBm1NQh8U7uMBNXMBWuE/f800/1707585578.jpeg?s=306ae8078df5037c72a8b91c96ad60f779ecee17",
     "publicationDate": 1707585578,
     "id": 4085263833
+  },
+  {
+    "link": "https://www.vinted.fr/items/4896938827-lego-de-flores-ref-40647",
+    "price": 21.7,
+    "title": "lego de flores ref: 40647",
+    "imgUrl": "https://images1.vinted.net/t/02_01172_pzs1dHjaffNWc2E2fJVNjD4D/f800/1723886535.jpeg?s=5f3e837016d23a87baeedab5e71deecc15453ed5",
+    "publicationDate": 1723886535,
+    "id": 4896938827
+  },
+  {
+    "link": "https://www.vinted.fr/items/4244887138-lego-lotus-flower-40647",
+    "price": 20.55,
+    "title": "lego Lotus Flower 40647",
+    "imgUrl": "https://images1.vinted.net/t/01_00fdc_XDr4BFppkewqdeZE9Bu7gBgk/f800/1710857015.jpeg?s=99653efb2cbd01ee3951e2487a7df62fce4d117c",
+    "publicationDate": 1710857015,
+    "id": 4244887138
   }
 ]
