@@ -653,10 +653,12 @@ document.addEventListener("click", async (event) => {
     const modalDealInfo = document.getElementById("modalDealInfo");
     modalDealInfo.innerHTML = `
       <div class="row">
-      <div class="col-md-3">
-      <img class="rounded img-fluid" src=${deal.photo} alt="${deal.uuid}-img"/>
-      </div>
-      <div class="col">
+        <div class="col-md-3">
+          <img class="rounded img-fluid" src=${deal.photo} alt="${
+      deal.uuid
+    }-img"/>
+        </div>
+        <div class="col">
           <strong><h5>${deal.title}</h5></strong>
           <p>LEGO ID: ${deal.id}</p>
           <p>Temperature: ${deal.temperature}°</p>

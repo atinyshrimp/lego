@@ -195,6 +195,10 @@ a:hover {
   color: var(--bu-accent);
 }
 
+.img-thumbnail {
+  max-height: 100px;
+}
+
 /* ===== Modal Custom Styles ===== */
 .modal-content {
   background-color: var(--bu-bg); /* Use background color from your palette */
