@@ -170,6 +170,11 @@ function getSalesPriceAverage(sales) {
   }
 }
 
+/** Computes relevant indicators when given a list of sales objects
+ *
+ * @param {Array} sales - A list of sales objects
+ * @returns {Object} A dictionary containing important indicators to understand sales
+ */
 function calculateSalesIndicators(sales) {
   return {
     average: getSalesPriceAverage(sales),
@@ -180,6 +185,11 @@ function calculateSalesIndicators(sales) {
 }
 
 // Feature 10 - Lifetime value
+/** Calculates the lifetime value in days between the earliest and latest sales.
+ *
+ * @param {Array<Object>} sales - Array of sales data objects, each with a `published` timestamp in seconds.
+ * @returns {string} - The number of days between the earliest and latest sales, or a message if no data is provided.
+ */
 const calculateLifetimeValue = (sales) => {
   if (sales.length === 0) {
     return "No data to analyze";
@@ -200,20 +210,37 @@ const calculateLifetimeValue = (sales) => {
 };
 
 // Feature 13 - Save as favorite
+/** Retrieves favorite deals from localStorage.
+ *
+ * @returns {Array<string>} - An array of favorite deal IDs.
+ */
 const getFavoriteDeals = () => {
   const favorites = localStorage.getItem("favoriteDeals");
   return favorites ? JSON.parse(favorites) : [];
 };
 
+/** Saves favorite deals to localStorage.
+ *
+ * @param {Array<string>} favorites - An array of favorite deal IDs to save.
+ */
 const saveFavoriteDeals = (favorites) => {
   localStorage.setItem("favoriteDeals", JSON.stringify(favorites));
 };
 
+/** Checks if a deal is a favorite.
+ *
+ * @param {string} dealId - The ID of the deal to check.
+ * @returns {boolean} - True if the deal is a favorite, false otherwise.
+ */
 const isFavoriteDeal = (dealId) => {
   const favorites = getFavoriteDeals();
   return favorites.includes(dealId);
 };
 
+/** Toggles the favorite status of a deal and updates the UI.
+ *
+ * @param {Event} event - The click event from the UI element.
+ */
 const toggleFavorite = (event) => {
   const dealId = event.target.getAttribute("data-id");
   let favorites = getFavoriteDeals();
@@ -245,12 +272,20 @@ function formatPrice(number) {
   }).format(number);
 }
 
+/** Checks if a tab is active.
+ *
+ * @param {string} tabId - The ID of the tab element to check.
+ * @returns {boolean} - True if the tab is active, false otherwise.
+ */
 function isTabActive(tabId) {
   const tab = document.querySelector(`#${tabId}`);
   return tab.classList.contains("active");
 }
 
 // Function to enable dark mode
+/** Enables dark mode by adding the appropriate class to the body and saving the preference.
+ *
+ */
 const enableDarkMode = () => {
   document.body.classList.add(DARK_MODE_CLASS);
 
@@ -259,6 +294,9 @@ const enableDarkMode = () => {
 };
 
 // Function to disable dark mode
+/** Disables dark mode by removing the class from the body and saving the preference.
+ *
+ */
 const disableDarkMode = () => {
   document.body.classList.remove(DARK_MODE_CLASS);
 
@@ -266,6 +304,10 @@ const disableDarkMode = () => {
   document.querySelector(".form-check-label").innerHTML = "Enable dark mode";
 };
 
+/** Checks if dark mode is enabled.
+ *
+ * @returns {boolean} - True if dark mode is enabled, false otherwise.
+ */
 function isDarkModeEnabled() {
   return localStorage.getItem("darkMode") === "enabled";
 }
@@ -295,12 +337,18 @@ function findHighestProfitability(data, item) {
   );
 }
 
+/** Calculates the profitability percentage between a deal price and a sale price.
+ *
+ * @param {Object} deal - An object containing the deal price.
+ * @param {Object} sale - An object containing the sale price.
+ * @returns {string} - The profitability percentage as a string.
+ */
 function getProfitability(deal, sale) {
   return Number(((sale.price - deal.price) / deal.price) * 100).toFixed(2);
 }
 
-/**
- * Converts a Unix timestamp to a human-readable relative time string
+/** Converts a Unix timestamp to a human-readable relative time string
+ *
  * @param {number} unixTime - The Unix timestamp in seconds
  * @returns {string} - A string representing the relative time (e.g., "a month ago")
  */
@@ -330,21 +378,28 @@ function timeAgo(unixTime) {
   return "just now";
 }
 
-// Function to process sales data and count occurrences of each price
-function getPriceFrequency(sales) {
-  const priceCount = {};
+// Function to generate histogram data
+/** Generates histogram data from an array of sale prices.
+ *
+ * @param {Array<Object>} data - Array of sales data objects, each with a `price` property.
+ * @param {number} [bins=10] - The number of bins to use for the histogram.
+ * @returns {Object} - An object containing labels and histogram data.
+ */
+function generateHistogramData(data, bins = 10) {
+  const sales = data.map((sale) => parseFloat(sale.price));
+  console.table(sales);
+  const min = Math.min(...sales);
+  const max = Math.max(...sales);
+  const binSize = (max - min) / bins;
+  const histogram = Array(bins).fill(0);
 
-  // Count each price occurrence
-  sales.forEach((sale) => {
-    const price = parseFloat(sale.price);
-    priceCount[price] = (priceCount[price] || 0) + 1;
+  sales.forEach((value) => {
+    const binIndex = Math.min(Math.floor((value - min) / binSize), bins - 1);
+    histogram[binIndex]++;
   });
 
-  // Extract unique prices and their counts
-  const prices = Object.keys(priceCount)
-    .map((price) => parseFloat(price))
-    .sort((a, b) => a - b);
-  const frequencies = prices.map((price) => priceCount[price]);
-
-  return { prices, frequencies };
+  const labels = Array.from({ length: bins }, (_, i) =>
+    (min + i * binSize).toFixed(2)
+  );
+  return { labels, histogram };
 }

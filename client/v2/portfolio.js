@@ -676,11 +676,8 @@ document.addEventListener("click", async (event) => {
     let sales = await fetchSales(deal.id);
     const { average, p25, p50, p95 } = calculateSalesIndicators(sales);
 
-    // Get the price frequencies
-    const { prices, frequencies } = getPriceFrequency(sales);
-    const minPrice = Math.min(...prices);
-    const maxPrice = Math.max(...prices);
-    console.log(prices);
+    // Generate histogram data
+    const { labels, histogram } = generateHistogramData(sales);
 
     // Get top 5 most rentable sales
     sales = sales
@@ -695,9 +692,6 @@ document.addEventListener("click", async (event) => {
       )
       .join("");
 
-    // Calculate and display sales indicators
-    const modalIndicators = document.getElementById("modalIndicators");
-
     // Destroy canvas if it already exists
     const chartStatus = Chart.getChart("salesDistributionChart");
     if (chartStatus !== undefined) {
@@ -708,113 +702,128 @@ document.addEventListener("click", async (event) => {
     const canvas = document.getElementById("salesDistributionChart");
     const ctx = canvas.getContext("2d");
 
-    // Function to normalize the data value to a tick index range [0, prices.length - 1]
-    const normalize = (value) =>
-      ((value - minPrice) / (maxPrice - minPrice)) * (prices.length - 1);
-    console.log(`Normalized P25: ${normalize(p25)}`);
-    console.log(`Normalized P50: ${normalize(p50)}`);
-    console.log(`Normalized P95: ${normalize(p95)}`);
-    console.log(`Normalized Average: ${normalize(average)}`);
-
     // Create the chart
-    const salesChart = new Chart(ctx, {
-      type: "line",
+    new Chart(ctx, {
+      type: "bar",
       data: {
-        labels: prices, // X-axis labels (sorted prices)
+        labels: labels,
         datasets: [
           {
-            label: "Sales Price Distribution",
-            data: frequencies, // Dummy data to keep the line chart layout
-            borderColor: "rgba(54, 162, 235, 0.8)",
-            backgroundColor: "rgba(54, 162, 235, 0.2)",
-            pointBackgroundColor: "rgba(54, 162, 235, 1)",
-            pointBorderColor: "#fff",
-            pointRadius: 0,
-            fill: false,
-            tension: 0.4,
+            label: "Number of sales",
+            data: histogram,
+            backgroundColor: "rgba(75, 192, 192, 0.5)",
+            borderColor: "rgba(75, 192, 192, 1)",
+            borderWidth: 1,
           },
         ],
       },
       options: {
-        responsive: true,
         scales: {
           x: {
-            title: { display: true, text: "Sales Price (€)" },
+            beginAtZero: true,
+            title: { display: true, text: "Price Ranges" },
           },
-          y: {
-            title: { display: true, text: "Frequency" }, // Hide the y-axis since we're not using it for frequency
+          y: { beginAtZero: true, title: { display: true, text: "Frequency" } },
+        },
+        plugins: {
+          annotation: {
+            annotations: [
+              {
+                type: "line",
+                mode: "vertical",
+                scaleID: "x",
+                value: average.toFixed(2),
+                borderColor: "orange",
+                borderWidth: 2,
+                backgroundColor: "rgba(0, 0, 0, 0.2)",
+                label: {
+                  enabled: true,
+                  content: "Average",
+                  coolor: "red",
+                },
+              },
+              {
+                type: "line",
+                mode: "vertical",
+                scaleID: "x",
+                value: p25.toFixed(2),
+                borderColor: "red",
+                borderWidth: 2,
+                label: {
+                  enabled: true,
+                  content: "25th Percentile",
+                },
+              },
+              {
+                type: "line",
+                mode: "vertical",
+                scaleID: "x",
+                value: p50.toFixed(2),
+                borderColor: "green",
+                borderWidth: 2,
+                label: {
+                  content: "50th Percentile",
+                  position: "center",
+                },
+              },
+              {
+                type: "line",
+                mode: "vertical",
+                scaleID: "x",
+                value: p95.toFixed(2),
+                borderColor: "blue",
+                borderWidth: 2,
+                label: {
+                  content: "95th Percentile",
+                  enabled: true,
+                  position: "top",
+                },
+              },
+            ],
+          },
+          legend: {
+            display: true,
+            labels: {
+              color: "black",
+              font: {
+                size: 12,
+              },
+              generateLabels: function (chart) {
+                return [
+                  {
+                    text: `Average: ${formatPrice(average.toFixed(2))}`,
+                    fillStyle: "orange",
+                    hidden: false,
+                  },
+                  {
+                    text: `25th Percentile: ${formatPrice(p25.toFixed(2))}`,
+                    fillStyle: "red",
+                    hidden: false,
+                  },
+                  {
+                    text: `50th Percentile: ${formatPrice(p50.toFixed(2))}`,
+                    fillStyle: "green",
+                    hidden: false,
+                  },
+                  {
+                    text: `95th Percentile: ${formatPrice(p95.toFixed(2))}`,
+                    fillStyle: "blue",
+                    hidden: false,
+                  },
+                ];
+              },
+            },
+          },
+          tooltip: {
+            callbacks: {
+              label: function (context) {
+                return `Frequency: ${context.raw}`;
+              },
+            },
           },
         },
-        // plugins: {
-        //   annotation: {
-        //     annotations: {
-        //       // Vertical line for p25
-        //       p25Line: {
-        //         type: "line",
-        //         xMin: normalize(p25),
-        //         xMax: normalize(p25),
-        //         borderColor: "rgba(153, 102, 255, 1)",
-        //         borderWidth: 2,
-        //         // label: {
-        //         //   content: "P25",
-        //         //   enabled: true,
-        //         //   position: "top",
-        //         // },
-        //       },
-        //       // Vertical line for p50
-        //       p50Line: {
-        //         type: "line",
-        //         xMin: normalize(p50),
-        //         xMax: normalize(p50),
-        //         borderColor: "rgba(54, 162, 235, 1)",
-        //         borderWidth: 2,
-        //         label: {
-        //           content: "P50",
-        //           enabled: true,
-        //           position: "top",
-        //         },
-        //       },
-        //       // Vertical line for p95
-        //       p95Line: {
-        //         type: "line",
-        //         xMin: normalize(p95),
-        //         xMax: normalize(p95),
-        //         borderColor: "rgba(255, 159, 64, 1)",
-        //         borderWidth: 2,
-        //         label: {
-        //           content: "P95",
-        //           enabled: true,
-        //           position: "top",
-        //         },
-        //       },
-        //       // Vertical line for average
-        //       averageLine: {
-        //         type: "line",
-        //         xMin: normalize(average),
-        //         xMax: normalize(average),
-        //         borderColor: "red",
-        //         borderWidth: 2,
-        //         borderDash: [5, 5],
-        //         label: {
-        //           content: "Average",
-        //           display: true,
-        //           position: "top",
-        //         },
-        //       },
-        //     },
-        //   },
-        // },
       },
     });
-
-    modalIndicators.innerHTML = `
-      <p class="indicator-btn" data-indicator="average">Average Price: ${formatPrice(
-        average
-      )}</p>
-      <p class="indicator-btn" data-indicator="p25">P25: ${formatPrice(p25)}</p>
-      <p class="indicator-btn" data-indicator="p50">P50: ${formatPrice(p50)}</p>
-      <p class="indicator-btn" data-indicator="p95">P95: ${formatPrice(p95)}</p>
-    `;
   }
 });
 
