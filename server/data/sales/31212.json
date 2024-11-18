@@ -1,13 +1,15 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5402852834-lego-31212-scatola-e-istruzioni",
+    "legoId": "31212",
+    "link": "https://www.vinted.fr/items/5402852834-lego-31212-solo-scatola-e-istruzioni",
     "price": 16.45,
-    "title": "Lego 31212 scatola e istruzioni",
+    "title": "Lego 31212 solo scatola e istruzioni",
     "imgUrl": "https://images1.vinted.net/t/04_02697_Pjeqaf5BcdSSiCoFGrnewiF3/f800/1731925508.jpeg?s=f1448362d351599dbbdc8468900ef3e7dcfeb0fd",
     "publicationDate": 1731925508,
     "id": 5402852834
   },
   {
+    "legoId": "31212",
     "link": "https://www.vinted.fr/items/4747796488-boite-en-carton-lego-31212-galaxie-voie-lactee-milky-way",
     "price": 11.2,
     "title": "BOÎTE en carton Lego 31212 galaxie voie lactée / Milky Way",
@@ -16,6 +18,7 @@
     "id": 4747796488
   },
   {
+    "legoId": "31212",
     "link": "https://www.vinted.fr/items/5388872517-the-milky-way",
     "price": 179.2,
     "title": "The Milky Way",
@@ -24,6 +27,7 @@
     "id": 5388872517
   },
   {
+    "legoId": "31212",
     "link": "https://www.vinted.fr/items/5387529599-lego-art-31212-voie-lactee",
     "price": 194.95,
     "title": "Lego art 31212 Voie lactée",
@@ -32,6 +36,7 @@
     "id": 5387529599
   },
   {
+    "legoId": "31212",
     "link": "https://www.vinted.fr/items/5239397227-lego-milky-way-31212",
     "price": 189.7,
     "title": "Lego Milky Way 31212",
@@ -40,14 +45,25 @@
     "id": 5239397227
   },
   {
+    "legoId": "31212",
     "link": "https://www.vinted.fr/items/5389931554-lego-ideas-31212-voie-lactee-neuf-et-scelle",
-    "price": 187.6,
+    "price": 186.55,
     "title": "Lego Ideas 31212 Voie Lactée NEUF et scellé",
     "imgUrl": "https://images1.vinted.net/t/04_01d44_L1peyHD9Lf8n1vZHVTmbjR2R/f800/1731754498.jpeg?s=965589d6d3e2ae004f9f16592fe9a5f3f9b4a0ca",
     "publicationDate": 1731754498,
     "id": 5389931554
   },
   {
+    "legoId": "31212",
+    "link": "https://www.vinted.fr/items/5404783743-lego-31212-a-galaxia-da-via-lactea",
+    "price": 189.7,
+    "title": "Lego 31212 A galáxia da via láctea",
+    "imgUrl": "https://images1.vinted.net/t/04_001c1_TbrSUSausu65LiTDZLHKDeNq/f800/1731943419.jpeg?s=f8ccdaa02a0090b8a25467f34dacdf0cebe73512",
+    "publicationDate": 1731943419,
+    "id": 5404783743
+  },
+  {
+    "legoId": "31212",
     "link": "https://www.vinted.fr/items/5382253027-lego-super-mario-nintendo-ref-71374-scelle",
     "price": 226.45,
     "title": "Lego Super Mario Nintendo réf 71374 - Scellé",

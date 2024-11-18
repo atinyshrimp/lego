@@ -1,13 +1,6 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5401042180-lego-la-grande-vague-31208",
-    "price": 77.35,
-    "title": "Lego la grande vague 31208",
-    "imgUrl": "https://images1.vinted.net/t/04_01420_XT7ooiGzjAoEcD1bkovjBLBL/f800/1731873266.jpeg?s=4fd0bb54d413e2aff2056ce878cc07c520b554bf",
-    "publicationDate": 1731873266,
-    "id": 5401042180
-  },
-  {
+    "legoId": "31208",
     "link": "https://www.vinted.fr/items/5168823357-lego-31208-the-great-wave",
     "price": 72.1,
     "title": "Lego 31208 The Great Wave",
@@ -16,6 +9,7 @@
     "id": 5168823357
   },
   {
+    "legoId": "31208",
     "link": "https://www.vinted.fr/items/5290615801-lego-31208-hokusai-the-great-wave",
     "price": 74.2,
     "title": "Lego 31208 - Hokusai The Great Wave",
@@ -24,6 +18,7 @@
     "id": 5290615801
   },
   {
+    "legoId": "31208",
     "link": "https://www.vinted.fr/items/5331131972-lego-la-grande-onda-31208-hokusai",
     "price": 84.7,
     "title": "Lego - La Grande Onda 31208 Hokusai",
@@ -32,6 +27,7 @@
     "id": 5331131972
   },
   {
+    "legoId": "31208",
     "link": "https://www.vinted.fr/items/5099829979-lego-the-great-wave-31208",
     "price": 71.05,
     "title": "Lego The Great Wave 31208",
@@ -40,6 +36,7 @@
     "id": 5099829979
   },
   {
+    "legoId": "31208",
     "link": "https://www.vinted.fr/items/5401364430-lego-31208-ola-nuevo",
     "price": 78.4,
     "title": "Lego 31208 Ola NUEVO",
@@ -48,14 +45,7 @@
     "id": 5401364430
   },
   {
-    "link": "https://www.vinted.fr/items/5401844133-lego-31208",
-    "price": 74.2,
-    "title": "Lego 31208",
-    "imgUrl": "https://images1.vinted.net/t/04_00f56_hxc4UbRJbdgSPjHvZqeqxJyT/f800/1731883142.jpeg?s=ca380dccc29ab8432cc5f12afe3de73ffbde5cf5",
-    "publicationDate": 1731883142,
-    "id": 5401844133
-  },
-  {
+    "legoId": "31208",
     "link": "https://www.vinted.fr/items/5044650811-lego-31208-the-great-wave",
     "price": 84.7,
     "title": "Lego 31208 The Great Wave",
@@ -64,6 +54,16 @@
     "id": 5044650811
   },
   {
+    "legoId": "31208",
+    "link": "https://www.vinted.fr/items/5401844133-lego-31208",
+    "price": 74.2,
+    "title": "Lego 31208",
+    "imgUrl": "https://images1.vinted.net/t/04_00f56_hxc4UbRJbdgSPjHvZqeqxJyT/f800/1731883142.jpeg?s=ca380dccc29ab8432cc5f12afe3de73ffbde5cf5",
+    "publicationDate": 1731883142,
+    "id": 5401844133
+  },
+  {
+    "legoId": "31208",
     "link": "https://www.vinted.fr/items/4924672284-lego-vague-dhokusai-31208-vendu-monter",
     "price": 95.2,
     "title": "Lego - Vague D’Hokusai - 31208 -Vendu Monter",
@@ -72,6 +72,7 @@
     "id": 4924672284
   },
   {
+    "legoId": "31208",
     "link": "https://www.vinted.fr/items/5376711750-lego-la-gran-ola-31208",
     "price": 79.45,
     "title": "Lego La gran Ola 31208",
@@ -80,30 +81,16 @@
     "id": 5376711750
   },
   {
+    "legoId": "31208",
     "link": "https://www.vinted.fr/items/4782842702-great-wave-lego-31208-hokusai-neuf-new-neu",
-    "price": 89.95,
+    "price": 85.75,
     "title": "Great Wave lego 31208 Hokusai neuf new neu",
     "imgUrl": "https://images1.vinted.net/t/01_02345_Te3txfiVxPDLSsPeH4JD9R3E/f800/1721382547.jpeg?s=036aaf859d78405567b1691367ce7ba9ecc9bf30",
     "publicationDate": 1721382547,
     "id": 4782842702
   },
   {
-    "link": "https://www.vinted.fr/items/5393127877-lego-art-set-31208-hokusai-the-great-wave",
-    "price": 95.2,
-    "title": "Lego Art, Set 31208 Hokusai - The Great Wave",
-    "imgUrl": "https://images1.vinted.net/t/02_0150c_26mmTTCfsxofTNeAvA3b2iYB/f800/1731780288.jpeg?s=e85e3341259b36f4ffa5ca2aa4f9fe7375b07cda",
-    "publicationDate": 1731780288,
-    "id": 5393127877
-  },
-  {
-    "link": "https://www.vinted.fr/items/2814028982-lego-art-31208-hokusai-la-grande-onda",
-    "price": 95.2,
-    "title": "Lego art 31208 Hokusai la Grande Onda",
-    "imgUrl": "https://images1.vinted.net/t/02_00f73_HvwhrqoPvWAnqsAPgn4fx4nW/f800/1679408435.jpeg?s=1b08e9ebc2026262118e98d0663564c6f76107c2",
-    "publicationDate": 1679408435,
-    "id": 2814028982
-  },
-  {
+    "legoId": "31208",
     "link": "https://www.vinted.fr/items/4274840128-lego-the-great-wave-hokusai-lego-31208",
     "price": 82.6,
     "title": "LEGO The Great Wave Hokusai (LEGO 31208)",
@@ -112,14 +99,25 @@
     "id": 4274840128
   },
   {
-    "link": "https://www.vinted.fr/items/5344206848-lego-the-great-wave-hukusai-31208",
-    "price": 147.7,
-    "title": "Lego The Great Wave Hukusai 31208",
-    "imgUrl": "https://images1.vinted.net/t/04_00c71_cEcRuVkjcmp1VE6YBEFiumcF/f800/1730995986.jpeg?s=830cc4c338878bb88ee46d9c28acc9ecac2b683d",
-    "publicationDate": 1730995986,
-    "id": 5344206848
+    "legoId": "31208",
+    "link": "https://www.vinted.fr/items/5393127877-lego-art-set-31208-hokusai-the-great-wave",
+    "price": 95.2,
+    "title": "Lego Art, Set 31208 Hokusai - The Great Wave",
+    "imgUrl": "https://images1.vinted.net/t/02_0150c_26mmTTCfsxofTNeAvA3b2iYB/f800/1731780288.jpeg?s=e85e3341259b36f4ffa5ca2aa4f9fe7375b07cda",
+    "publicationDate": 1731780288,
+    "id": 5393127877
   },
   {
+    "legoId": "31208",
+    "link": "https://www.vinted.fr/items/2814028982-lego-art-31208-hokusai-la-grande-onda",
+    "price": 95.2,
+    "title": "Lego art 31208 Hokusai la Grande Onda",
+    "imgUrl": "https://images1.vinted.net/t/02_00f73_HvwhrqoPvWAnqsAPgn4fx4nW/f800/1679408435.jpeg?s=1b08e9ebc2026262118e98d0663564c6f76107c2",
+    "publicationDate": 1679408435,
+    "id": 2814028982
+  },
+  {
+    "legoId": "31208",
     "link": "https://www.vinted.fr/items/4648469503-lego-hokusai-the-great-wave-31208",
     "price": 84.7,
     "title": "Lego Hokusai – the great wave\n\n\n31208",
@@ -128,6 +126,16 @@
     "id": 4648469503
   },
   {
+    "legoId": "31208",
+    "link": "https://www.vinted.fr/items/5344206848-lego-the-great-wave-hukusai-31208",
+    "price": 147.7,
+    "title": "Lego The Great Wave Hukusai 31208",
+    "imgUrl": "https://images1.vinted.net/t/04_00c71_cEcRuVkjcmp1VE6YBEFiumcF/f800/1730995986.jpeg?s=830cc4c338878bb88ee46d9c28acc9ecac2b683d",
+    "publicationDate": 1730995986,
+    "id": 5344206848
+  },
+  {
+    "legoId": "31208",
     "link": "https://www.vinted.fr/items/3884904084-lego-31208",
     "price": 89.95,
     "title": "Lego 31208",

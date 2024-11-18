@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "60413",
     "link": "https://www.vinted.fr/items/5355249790-lego-60413-avion-de-sauvetage-des-pompiers",
     "price": 42.7,
     "title": "Lego 60413 Avion de sauvetage des pompiers",
@@ -8,14 +9,7 @@
     "id": 5355249790
   },
   {
-    "link": "https://www.vinted.fr/items/5386909846-lego-city-60413",
-    "price": 47.95,
-    "title": "Lego city 60413",
-    "imgUrl": "https://images1.vinted.net/t/04_02627_5qTUmq1aazx7tVjnD1CbAvBR/f800/1731684615.jpeg?s=c8e4b92c227e72bb7f2ddabc8d4b07bcfad83aa6",
-    "publicationDate": 1731684615,
-    "id": 5386909846
-  },
-  {
+    "legoId": "60413",
     "link": "https://www.vinted.fr/items/5333325208-lego-city-60413-aviao-de-resgate-dos-bombeiros",
     "price": 42.7,
     "title": "LEGO City 60413 - Avião de Resgate dos Bombeiros",
@@ -24,6 +18,7 @@
     "id": 5333325208
   },
   {
+    "legoId": "60413",
     "link": "https://www.vinted.fr/items/5373269130-lego-60413-avion-de-pompiers",
     "price": 47.95,
     "title": "Lego 60413 avion de pompiers",
@@ -32,6 +27,16 @@
     "id": 5373269130
   },
   {
+    "legoId": "60413",
+    "link": "https://www.vinted.fr/items/5386909846-lego-city-60413",
+    "price": 47.95,
+    "title": "Lego city 60413",
+    "imgUrl": "https://images1.vinted.net/t/04_02627_5qTUmq1aazx7tVjnD1CbAvBR/f800/1731684615.jpeg?s=c8e4b92c227e72bb7f2ddabc8d4b07bcfad83aa6",
+    "publicationDate": 1731684615,
+    "id": 5386909846
+  },
+  {
+    "legoId": "60413",
     "link": "https://www.vinted.fr/items/5400251841-lego-fire-rescue-plane-60413",
     "price": 42.69,
     "title": "LEGO Fire Rescue Plane 60413",
@@ -40,6 +45,7 @@
     "id": 5400251841
   },
   {
+    "legoId": "60413",
     "link": "https://www.vinted.fr/items/5370326249-lego-city-60413",
     "price": 44.8,
     "title": "Lego City 60413",
@@ -48,6 +54,7 @@
     "id": 5370326249
   },
   {
+    "legoId": "60413",
     "link": "https://www.vinted.fr/items/5326966907-lego-city-aviao-60413",
     "price": 44.8,
     "title": "Lego city aviao 60413",
@@ -56,6 +63,7 @@
     "id": 5326966907
   },
   {
+    "legoId": "60413",
     "link": "https://www.vinted.fr/items/5302493490-lego-aviao-resgate-dos-bombeiros-60413",
     "price": 44.8,
     "title": "Lego Avião Resgate dos Bombeiros - 60413",
@@ -64,6 +72,7 @@
     "id": 5302493490
   },
   {
+    "legoId": "60413",
     "link": "https://www.vinted.fr/items/5300539064-60413-fire-rescue-plane",
     "price": 53.2,
     "title": "60413 - Fire Rescue Plane",
@@ -72,6 +81,7 @@
     "id": 5300539064
   },
   {
+    "legoId": "60413",
     "link": "https://www.vinted.fr/items/5274864504-lego-60413",
     "price": 53.2,
     "title": "Lego 60413",
@@ -80,6 +90,7 @@
     "id": 5274864504
   },
   {
+    "legoId": "60413",
     "link": "https://www.vinted.fr/items/5268120128-lego-city-60413",
     "price": 52.15,
     "title": "Lego City 60413",

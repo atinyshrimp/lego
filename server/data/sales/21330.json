@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5395490571-lego-ideas-21330-home-alone-neuf-scelle",
     "price": 263.2,
     "title": "Lego ideas 21330, Home Alone. Neuf scellé",
@@ -8,6 +9,7 @@
     "id": 5395490571
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5376252147-camion-lego-maman-jai-rate-lavion-3-figurines-set-21330",
     "price": 47.95,
     "title": "Camion Lego Maman j'ai raté l'avion 3 figurines set 21330",
@@ -16,6 +18,7 @@
     "id": 5376252147
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/3728568587-lego-21330-mamma-ho-perso-laereo-solo-scatola-e-istruzioni",
     "price": 34.3,
     "title": "LEGO 21330 Mamma ho perso l’aereo solo scatola e istruzioni",
@@ -24,6 +27,7 @@
     "id": 3728568587
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5378946374-lego-icons-21330",
     "price": 263.2,
     "title": "LEGO Icons 21330",
@@ -32,6 +36,7 @@
     "id": 5378946374
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5389855060-lego-ideas-21330-maman-jai-rate-lavion",
     "price": 262.15,
     "title": "LEGO Ideas 21330 : Maman, j'ai raté l'Avion !",
@@ -40,6 +45,7 @@
     "id": 5389855060
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5360035261-home-alone-lego-ideas-21330",
     "price": 273.7,
     "title": "Home Alone lego ideas 21330",
@@ -48,6 +54,7 @@
     "id": 5360035261
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5289338327-minifigure-old-man-marley-lego-21330",
     "price": 15.4,
     "title": "Minifigure Old Man Marley Lego 21330",
@@ -56,6 +63,7 @@
     "id": 5289338327
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5371758509-lego-21330-ideas-mamma-ho-perso-laereo-nuovo",
     "price": 268.44,
     "title": "LEGO 21330 Ideas Mamma ho perso l'aereo NUOVO",
@@ -64,6 +72,7 @@
     "id": 5371758509
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/3913525000-lego-21330-home-alone",
     "price": 210.69,
     "title": "Lego 21330 Home Alone",
@@ -72,6 +81,7 @@
     "id": 3913525000
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5398584615-lego-21330-home-alone",
     "price": 283.15,
     "title": "Lego 21330 home alone",
@@ -80,6 +90,7 @@
     "id": 5398584615
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5385615361-lego-21330-maman-jai-rate-lavion",
     "price": 267.4,
     "title": "Lego 21330 Maman j'ai raté l'avion",
@@ -88,14 +99,7 @@
     "id": 5385615361
   },
   {
-    "link": "https://www.vinted.fr/items/1525750433-lego-haus-allein-konstrukteur-21330",
-    "price": 226.45,
-    "title": "Lego Haus allein Konstrukteur 21330",
-    "imgUrl": "https://images1.vinted.net/t/01_021f3_3Fo9wtweaLNaUkCnx37W37WX/f800/1640562228.jpeg?s=d13ffcf5b8e488f775f01072b5fd3b01ec3ec922",
-    "publicationDate": 1640562228,
-    "id": 1525750433
-  },
-  {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5125853723-lego-home-alone-maman-jai-rate-lavion-21330",
     "price": 272.65,
     "title": "Lego home alone maman j'ai raté l'avion #21330",
@@ -104,6 +108,16 @@
     "id": 5125853723
   },
   {
+    "legoId": "21330",
+    "link": "https://www.vinted.fr/items/1525750433-lego-haus-allein-konstrukteur-21330",
+    "price": 226.45,
+    "title": "Lego Haus allein Konstrukteur 21330",
+    "imgUrl": "https://images1.vinted.net/t/01_021f3_3Fo9wtweaLNaUkCnx37W37WX/f800/1640562228.jpeg?s=d13ffcf5b8e488f775f01072b5fd3b01ec3ec922",
+    "publicationDate": 1640562228,
+    "id": 1525750433
+  },
+  {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/4129929420-lego-21330-home-alone-neu",
     "price": 268.45,
     "title": "LEGO 21330 Home alone / NEU",
@@ -112,6 +126,7 @@
     "id": 4129929420
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/4066579355-lego-kevin-allein-zuhause-21330",
     "price": 263.2,
     "title": "Lego Kevin Allein Zuhause (21330)",
@@ -120,6 +135,7 @@
     "id": 4066579355
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5364967512-lego-maman-jai-rate-lavion-21330",
     "price": 268.45,
     "title": "Lego maman j'ai raté l'avion 21330",
@@ -128,6 +144,7 @@
     "id": 5364967512
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/2868712896-lego-ideas-21330-back-to-the-future",
     "price": 173.95,
     "title": "Lego Ideas 21330 - Back to the Future",
@@ -136,6 +153,7 @@
     "id": 2868712896
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5310030871-lego-21330-nuovo-e-sigillato",
     "price": 315.7,
     "title": "Lego 21330 nuovo e sigillato",
@@ -144,6 +162,7 @@
     "id": 5310030871
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/4435079632-lego-home-alone-21330",
     "price": 284.2,
     "title": "Lego home alone 21330",
@@ -152,6 +171,7 @@
     "id": 4435079632
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/4256189082-lego-ideas-mamma-ho-perso-laereo-sigillato",
     "price": 294.7,
     "title": "Lego Ideas Mamma ho perso l’aereo sigillato",
@@ -160,6 +180,7 @@
     "id": 4256189082
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5350336152-lego-ideas-21330-home-alone-mamma-ho-perso-laereo-nuovo-sigillato-misb",
     "price": 294.7,
     "title": "Lego Ideas 21330 - Home Alone - Mamma Ho Perso L'aereo - Nuovo sigillato - MISB.",
@@ -168,6 +189,7 @@
     "id": 5350336152
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5322824609-lego-ideas-cuusoo-009-21301-birdsvogels-nieuw",
     "price": 168.7,
     "title": "LEGO Ideas (CUUSOO) #009 21301 Birds/Vogels NIEUW",
@@ -176,22 +198,7 @@
     "id": 5322824609
   },
   {
-    "link": "https://www.vinted.fr/items/5052757780-lego-21330-home-alone-mamma-ho-perso-laereo",
-    "price": 368.2,
-    "title": "Lego 21330 - home alone, mamma ho perso l’aereo",
-    "imgUrl": "https://images1.vinted.net/t/02_00453_uJajiuinX9T1AxRYKQ9kb86h/f800/1726437109.jpeg?s=370eedb5f540d54d34eb1ad5ff344b2a48bb8580",
-    "publicationDate": 1726437109,
-    "id": 5052757780
-  },
-  {
-    "link": "https://www.vinted.fr/items/4082474552-lego-home-alone",
-    "price": 326.2,
-    "title": "LEGO Home Alone",
-    "imgUrl": "https://images1.vinted.net/t/02_00153_XrfFUF7K8bPb5djw4DKQ5jYv/f800/1707553685.jpeg?s=0bfe3aceafb25b9ccbb900353e6670265fd97e83",
-    "publicationDate": 1707553685,
-    "id": 4082474552
-  },
-  {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/4062875814-lego-21330-ideas-mamma-ho-perso-laereo-nuovo-sigillato",
     "price": 294.7,
     "title": "Lego 21330 - IDEAS - Mamma ho perso l’Aereo - Nuovo - Sigillato",
@@ -200,6 +207,25 @@
     "id": 4062875814
   },
   {
+    "legoId": "21330",
+    "link": "https://www.vinted.fr/items/5052757780-lego-21330-home-alone-mamma-ho-perso-laereo",
+    "price": 368.2,
+    "title": "Lego 21330 - home alone, mamma ho perso l’aereo",
+    "imgUrl": "https://images1.vinted.net/t/02_00453_uJajiuinX9T1AxRYKQ9kb86h/f800/1726437109.jpeg?s=370eedb5f540d54d34eb1ad5ff344b2a48bb8580",
+    "publicationDate": 1726437109,
+    "id": 5052757780
+  },
+  {
+    "legoId": "21330",
+    "link": "https://www.vinted.fr/items/4082474552-lego-home-alone",
+    "price": 326.2,
+    "title": "LEGO Home Alone",
+    "imgUrl": "https://images1.vinted.net/t/02_00153_XrfFUF7K8bPb5djw4DKQ5jYv/f800/1707553685.jpeg?s=0bfe3aceafb25b9ccbb900353e6670265fd97e83",
+    "publicationDate": 1707553685,
+    "id": 4082474552
+  },
+  {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5370710047-lego-21330-ideas-home-alone",
     "price": 293.65,
     "title": "Lego 21330 ideas home alone",
@@ -208,14 +234,7 @@
     "id": 5370710047
   },
   {
-    "link": "https://www.vinted.fr/items/1622958778-lego-ideas-home-alone-21330-new-in-hand",
-    "price": 336.7,
-    "title": "Lego Ideas Home Alone #21330 New In Hand",
-    "imgUrl": "https://images1.vinted.net/t/02_00abe_pPZUkdDAwsQ2EywGnY1AiNmn/f800/1644476895.jpeg?s=a74780c0d596f2b025607be3867c97d9310a6020",
-    "publicationDate": 1644476895,
-    "id": 1622958778
-  },
-  {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/4214805803-lego-home-alone-21330-misb",
     "price": 473.2,
     "title": "Lego Home Alone 21330 MISB",
@@ -224,6 +243,7 @@
     "id": 4214805803
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/1518076768-home-alone-lego-special-eddition-sold-out-everywhere-21330",
     "price": 394.45,
     "title": "Home Alone Lego special eddition sold out everywhere 21330",
@@ -232,6 +252,7 @@
     "id": 1518076768
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/4343142987-lego-21330",
     "price": 341.95,
     "title": "Lego 21330",
@@ -240,6 +261,16 @@
     "id": 4343142987
   },
   {
+    "legoId": "21330",
+    "link": "https://www.vinted.fr/items/1622958778-lego-ideas-home-alone-21330-new-in-hand",
+    "price": 336.7,
+    "title": "Lego Ideas Home Alone #21330 New In Hand",
+    "imgUrl": "https://images1.vinted.net/t/02_00abe_pPZUkdDAwsQ2EywGnY1AiNmn/f800/1644476895.jpeg?s=a74780c0d596f2b025607be3867c97d9310a6020",
+    "publicationDate": 1644476895,
+    "id": 1622958778
+  },
+  {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/1780243232-lego-21330-home-alone",
     "price": 314.65,
     "title": "LEGO 21330 home alone ",
@@ -248,6 +279,7 @@
     "id": 1780243232
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/2522410731-lego-ideas-21330-home-alone-mamma-ho-perso-laereo-nuovo-sigillato",
     "price": 314.65,
     "title": "Lego Ideas 21330 - Home Alone - Mamma Ho Perso L'aereo - Nuovo sigillato ",
@@ -256,6 +288,7 @@
     "id": 2522410731
   },
   {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/2745100505-lego-home-alone",
     "price": 357.7,
     "title": "LEGO Home Alone ",
@@ -264,14 +297,7 @@
     "id": 2745100505
   },
   {
-    "link": "https://www.vinted.fr/items/1553857172-home-alone-lego-set",
-    "price": 368.2,
-    "title": "Home Alone LEGO Set",
-    "imgUrl": "https://images1.vinted.net/t/03_0056d_XqkKgfjfrVv3rbvh5CzqNwZD/f800/1641805561.jpeg?s=f01080782f0beb456a5f3a0f7c51896fa37ce0e4",
-    "publicationDate": 1641805561,
-    "id": 1553857172
-  },
-  {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/1561727113-home-alone-lego-new-exclusive-mint-condition",
     "price": 313.6,
     "title": "Home Alone LEGO - New & Exclusive - Mint Condition",
@@ -280,6 +306,16 @@
     "id": 1561727113
   },
   {
+    "legoId": "21330",
+    "link": "https://www.vinted.fr/items/1553857172-home-alone-lego-set",
+    "price": 368.2,
+    "title": "Home Alone LEGO Set",
+    "imgUrl": "https://images1.vinted.net/t/03_0056d_XqkKgfjfrVv3rbvh5CzqNwZD/f800/1641805561.jpeg?s=f01080782f0beb456a5f3a0f7c51896fa37ce0e4",
+    "publicationDate": 1641805561,
+    "id": 1553857172
+  },
+  {
+    "legoId": "21330",
     "link": "https://www.vinted.fr/items/5277080713-lego-home-alone-21330",
     "price": 10198.98,
     "title": "Lego Home Alone 21330",

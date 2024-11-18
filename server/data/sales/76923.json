@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "76923",
     "link": "https://www.vinted.fr/items/5403261004-lego-speed-champions-76923",
     "price": 21.69,
     "title": "Lego Speed Champions 76923",
@@ -8,14 +9,7 @@
     "id": 5403261004
   },
   {
-    "link": "https://www.vinted.fr/items/5295497322-76923-lamborghini-lambo-v12-vision-gt-super-car",
-    "price": 21.7,
-    "title": "76923 - Lamborghini Lambo V12 Vision GT Super Car",
-    "imgUrl": "https://images1.vinted.net/t/04_00019_SzHxu4XRYAcku8VD7u3cxvMC/f800/1730162953.jpeg?s=90f8abc60efb5e60a268ee59b2dd30ae76ed3859",
-    "publicationDate": 1730162953,
-    "id": 5295497322
-  },
-  {
+    "legoId": "76923",
     "link": "https://www.vinted.fr/items/4894795174-lego-lamborghini-76923-scatola-e-istruzioni",
     "price": 5.95,
     "title": "Lego Lamborghini 76923 scatola e istruzioni",
@@ -24,14 +18,16 @@
     "id": 4894795174
   },
   {
-    "link": "https://www.vinted.fr/items/5404574717-lego-76923-lamborghini-lambo-v12-vision-gran-turismo",
-    "price": 22.75,
-    "title": "Lego 76923 - Lamborghini Lambo V12 Vision Gran Turismo",
-    "imgUrl": "https://images1.vinted.net/t/01_01260_ySL4urxc4hqJUuusNPX12suL/f800/1731941468.jpeg?s=f6262894e31fed75bb15c65c8f8a295166fbd024",
-    "publicationDate": 1731941468,
-    "id": 5404574717
+    "legoId": "76923",
+    "link": "https://www.vinted.fr/items/5295497322-76923-lamborghini-lambo-v12-vision-gt-super-car",
+    "price": 21.7,
+    "title": "76923 - Lamborghini Lambo V12 Vision GT Super Car",
+    "imgUrl": "https://images1.vinted.net/t/04_00019_SzHxu4XRYAcku8VD7u3cxvMC/f800/1730162953.jpeg?s=90f8abc60efb5e60a268ee59b2dd30ae76ed3859",
+    "publicationDate": 1730162953,
+    "id": 5295497322
   },
   {
+    "legoId": "76923",
     "link": "https://www.vinted.fr/items/5376060060-lego-speed-champions-76923",
     "price": 21.49,
     "title": "Lego Speed Champions 76923",
@@ -40,14 +36,7 @@
     "id": 5376060060
   },
   {
-    "link": "https://www.vinted.fr/items/5324347013-lego-76923-lamborghini-lambo-v12-vision-gt-super-car",
-    "price": 24.54,
-    "title": "LEGO 76923 Lamborghini Lambo V12 Vision GT Super Car",
-    "imgUrl": "https://images1.vinted.net/t/03_01e47_YQG3pRZWzL45E7iiTdQ3zWDb/f800/1730649813.jpeg?s=6506bcf4ba3af7d4832517d288139388f92c154d",
-    "publicationDate": 1730649813,
-    "id": 5324347013
-  },
-  {
+    "legoId": "76923",
     "link": "https://www.vinted.fr/items/5153181502-76923-lego-speed-champions-lamborghini-lambo-v12-vision-gt-super-car",
     "price": 25.69,
     "title": "76923 LEGO Speed Champions Lamborghini Lambo V12 Vision GT Super Car",
@@ -56,6 +45,7 @@
     "id": 5153181502
   },
   {
+    "legoId": "76923",
     "link": "https://www.vinted.fr/items/5166672108-lego-speed-champions-76923",
     "price": 21.7,
     "title": "Lego Speed Champions 76923",
@@ -64,6 +54,25 @@
     "id": 5166672108
   },
   {
+    "legoId": "76923",
+    "link": "https://www.vinted.fr/items/5404574717-lego-76923-lamborghini-lambo-v12-vision-gran-turismo",
+    "price": 22.75,
+    "title": "Lego 76923 - Lamborghini Lambo V12 Vision Gran Turismo",
+    "imgUrl": "https://images1.vinted.net/t/01_01260_ySL4urxc4hqJUuusNPX12suL/f800/1731941468.jpeg?s=f6262894e31fed75bb15c65c8f8a295166fbd024",
+    "publicationDate": 1731941468,
+    "id": 5404574717
+  },
+  {
+    "legoId": "76923",
+    "link": "https://www.vinted.fr/items/5324347013-lego-76923-lamborghini-lambo-v12-vision-gt-super-car",
+    "price": 24.54,
+    "title": "LEGO 76923 Lamborghini Lambo V12 Vision GT Super Car",
+    "imgUrl": "https://images1.vinted.net/t/03_01e47_YQG3pRZWzL45E7iiTdQ3zWDb/f800/1730649813.jpeg?s=6506bcf4ba3af7d4832517d288139388f92c154d",
+    "publicationDate": 1730649813,
+    "id": 5324347013
+  },
+  {
+    "legoId": "76923",
     "link": "https://www.vinted.fr/items/5375784664-lamborghini-lambo-v12-vision-gt-supercar-76923",
     "price": 23.8,
     "title": "Lamborghini Lambo V12 Vision GT supercar #76923",
@@ -72,6 +81,7 @@
     "id": 5375784664
   },
   {
+    "legoId": "76923",
     "link": "https://www.vinted.fr/items/5238808593-lego-76923-lambo-v12-vision-gt",
     "price": 25.38,
     "title": "Lego 76923 lambo V12 vision GT",
@@ -80,6 +90,7 @@
     "id": 5238808593
   },
   {
+    "legoId": "76923",
     "link": "https://www.vinted.fr/items/4766060998-boite-vide-lego-76923-lamborghini-lambo-v12-vision-gt-super-car-empty-box-pour-collection",
     "price": 4.9,
     "title": "Boîte Vide Lego 76923 - Lamborghini Lambo V12 Vision GT Super Car  / (Empty Box) Pour collection",
@@ -88,6 +99,7 @@
     "id": 4766060998
   },
   {
+    "legoId": "76923",
     "link": "https://www.vinted.fr/items/5372652150-lego-76923-76934",
     "price": 47.95,
     "title": "Lego 76923 + 76934",
@@ -96,6 +108,7 @@
     "id": 5372652150
   },
   {
+    "legoId": "76923",
     "link": "https://www.vinted.fr/items/5277791850-lego-speed-champions-76923",
     "price": 21.7,
     "title": "LEGO Speed Champions 76923",
@@ -104,6 +117,7 @@
     "id": 5277791850
   },
   {
+    "legoId": "76923",
     "link": "https://www.vinted.fr/items/5198672225-lego-speed-76923",
     "price": 25.9,
     "title": "Lego speed.  76923",
@@ -112,6 +126,7 @@
     "id": 5198672225
   },
   {
+    "legoId": "76923",
     "link": "https://www.vinted.fr/items/4872670301-legor-speed-champions-76923",
     "price": 21.6,
     "title": "LEGO® Speed Champions 76923",
@@ -120,6 +135,7 @@
     "id": 4872670301
   },
   {
+    "legoId": "76923",
     "link": "https://www.vinted.fr/items/5402357800-lego-speed-champion-76908-76923",
     "price": 42.7,
     "title": "Lego Speed Champion 76908 - 76923",
@@ -128,6 +144,7 @@
     "id": 5402357800
   },
   {
+    "legoId": "76923",
     "link": "https://www.vinted.fr/items/5297169167-lote-lego-speed-champions",
     "price": 158.2,
     "title": "Lote Lego Speed Champions",

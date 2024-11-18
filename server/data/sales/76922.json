@@ -1,13 +1,6 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5390508967-lego-speed-champions-76922-bmw-m4gt3-bmw-m-hybrid-v8",
-    "price": 37.45,
-    "title": "🎅🎅Lego speed champions 76922   BMW m4gt3 & BMW M hybrid v8",
-    "imgUrl": "https://images1.vinted.net/t/04_02147_eypChu8iPCatVKeZegt9Uzmj/f800/1731759212.jpeg?s=859c141e1fd3973dff789235ec260015fe102bc6",
-    "publicationDate": 1731759212,
-    "id": 5390508967
-  },
-  {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5386406498-lego-speed-champions-76922",
     "price": 40.6,
     "title": "Lego speed champions 76922",
@@ -16,6 +9,7 @@
     "id": 5386406498
   },
   {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5297300723-lego-speed-champions-bmw-m4-gt3-bmw-m-hybrid-v8-race-car",
     "price": 38.5,
     "title": "Lego speed champions BMW M4 GT3 & BMW M Hybrid V8 Race Car",
@@ -24,6 +18,7 @@
     "id": 5297300723
   },
   {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/4844773909-boite-vide-lego-76922-speed-champion-bmw-m4-gt3-et-bmw-m-hybrid-v8-empty-box-pour-collection",
     "price": 7,
     "title": "Boîte Vide Lego 76922 Speed Champion BMW M4 GT3 et BMW M Hybrid V8 (Empty Box) Pour collection",
@@ -32,14 +27,7 @@
     "id": 4844773909
   },
   {
-    "link": "https://www.vinted.fr/items/4996767985-76922-lego-speed-champions-bmw-m4-gt3-et-bmw-m-hybrid-v8",
-    "price": 42.69,
-    "title": "76922 LEGO Speed Champions BMW M4 GT3 et BMW M Hybrid V8",
-    "imgUrl": "https://images1.vinted.net/t/03_00ea3_SUkkVaEXMHmxms9SwyVrEERn/f800/1725640345.jpeg?s=75ef077b6cd7ee13b596657511e5a4cce8b7caf1",
-    "publicationDate": 1725640345,
-    "id": 4996767985
-  },
-  {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5176816040-lego-speed-champions-76922",
     "price": 7,
     "title": "Lego speed champions 76922",
@@ -48,22 +36,16 @@
     "id": 5176816040
   },
   {
-    "link": "https://www.vinted.fr/items/5321442792-lego-speed-champions-bmw-76922",
-    "price": 40.08,
-    "title": "Lego Speed Champions BMW 76922",
-    "imgUrl": "https://images1.vinted.net/t/02_0105e_StVhfG1bTGunJnabiCAxQ1Ui/f800/1730632404.jpeg?s=ec16c7ffa30548ff60fcc2fa11989ef59977e8ae",
-    "publicationDate": 1730632404,
-    "id": 5321442792
-  },
-  {
-    "link": "https://www.vinted.fr/items/5296429372-lego-76922-bmw-m4-gt3-m-hybid-v8",
+    "legoId": "76922",
+    "link": "https://www.vinted.fr/items/4996767985-76922-lego-speed-champions-bmw-m4-gt3-et-bmw-m-hybrid-v8",
     "price": 42.69,
-    "title": "LEGO 76922 - BMW M4 gt3 & M Hybid v8",
-    "imgUrl": "https://images1.vinted.net/t/03_01e04_3Qhqz9i8JPhiRpzWCkaPLjZ5/f800/1730196734.jpeg?s=f5dfc1c276aeeaaf8f8a02ee58ccf768899ae80d",
-    "publicationDate": 1730196734,
-    "id": 5296429372
+    "title": "76922 LEGO Speed Champions BMW M4 GT3 et BMW M Hybrid V8",
+    "imgUrl": "https://images1.vinted.net/t/03_00ea3_SUkkVaEXMHmxms9SwyVrEERn/f800/1725640345.jpeg?s=75ef077b6cd7ee13b596657511e5a4cce8b7caf1",
+    "publicationDate": 1725640345,
+    "id": 4996767985
   },
   {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5404565009-lego-speed-champions-bmw",
     "price": 47.95,
     "title": "Lego Speed Champions BMW",
@@ -72,14 +54,25 @@
     "id": 5404565009
   },
   {
-    "link": "https://www.vinted.fr/items/5361735182-lego-76922-speed-champions-bmw",
-    "price": 39.55,
-    "title": "Lego 76922 - Speed Champions - BMW",
-    "imgUrl": "https://images1.vinted.net/t/04_01695_jtPpcG4T6X3jS9mhjfP2dv1E/f800/1731266283.jpeg?s=c76bacf440398c541c083acdecdf579c1220f169",
-    "publicationDate": 1731266283,
-    "id": 5361735182
+    "legoId": "76922",
+    "link": "https://www.vinted.fr/items/5321442792-lego-speed-champions-bmw-76922",
+    "price": 40.08,
+    "title": "Lego Speed Champions BMW 76922",
+    "imgUrl": "https://images1.vinted.net/t/02_0105e_StVhfG1bTGunJnabiCAxQ1Ui/f800/1730632404.jpeg?s=ec16c7ffa30548ff60fcc2fa11989ef59977e8ae",
+    "publicationDate": 1730632404,
+    "id": 5321442792
   },
   {
+    "legoId": "76922",
+    "link": "https://www.vinted.fr/items/5296429372-lego-76922-bmw-m4-gt3-m-hybid-v8",
+    "price": 42.69,
+    "title": "LEGO 76922 - BMW M4 gt3 & M Hybid v8",
+    "imgUrl": "https://images1.vinted.net/t/03_01e04_3Qhqz9i8JPhiRpzWCkaPLjZ5/f800/1730196734.jpeg?s=f5dfc1c276aeeaaf8f8a02ee58ccf768899ae80d",
+    "publicationDate": 1730196734,
+    "id": 5296429372
+  },
+  {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5391903733-lego-76922-bmw-m4-gt3bmw-m-hybrid-v8",
     "price": 40.6,
     "title": "Lego 76922 Bmw M4 GT3+Bmw M Hybrid V8",
@@ -88,6 +81,16 @@
     "id": 5391903733
   },
   {
+    "legoId": "76922",
+    "link": "https://www.vinted.fr/items/5361735182-lego-76922-speed-champions-bmw",
+    "price": 39.55,
+    "title": "Lego 76922 - Speed Champions - BMW",
+    "imgUrl": "https://images1.vinted.net/t/04_01695_jtPpcG4T6X3jS9mhjfP2dv1E/f800/1731266283.jpeg?s=c76bacf440398c541c083acdecdf579c1220f169",
+    "publicationDate": 1731266283,
+    "id": 5361735182
+  },
+  {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5347764702-lego-speed-champions-m4-76922",
     "price": 47.95,
     "title": "Lego speed champions m4 76922",
@@ -96,22 +99,7 @@
     "id": 5347764702
   },
   {
-    "link": "https://www.vinted.fr/items/5362093342-lego-speed-champions-bmw-76922",
-    "price": 42.7,
-    "title": "Lego speed champions bmw  76922",
-    "imgUrl": "https://images1.vinted.net/t/04_00d7e_GyUos5y3m25ndHoXfJfDm3nT/f800/r3/1731269597.jpeg?s=26c091d8d1f43363f1e755b3a726924e25aa6a31",
-    "publicationDate": 1731269597,
-    "id": 5362093342
-  },
-  {
-    "link": "https://www.vinted.fr/items/5059159621-lego-76922-speed-champions-bmw",
-    "price": 19.08,
-    "title": "Lego 76922 speed champions bmw",
-    "imgUrl": "https://images1.vinted.net/t/03_00d2d_939iNKSJvNxoCJ8A21mEisbL/f800/1726562227.jpeg?s=7af58766f5e5d93478450b6ab855412af6f60477",
-    "publicationDate": 1726562227,
-    "id": 5059159621
-  },
-  {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5391437670-lego-76922",
     "price": 41.65,
     "title": "Lego 76922",
@@ -120,6 +108,16 @@
     "id": 5391437670
   },
   {
+    "legoId": "76922",
+    "link": "https://www.vinted.fr/items/5059159621-lego-76922-speed-champions-bmw",
+    "price": 19.08,
+    "title": "Lego 76922 speed champions bmw",
+    "imgUrl": "https://images1.vinted.net/t/03_00d2d_939iNKSJvNxoCJ8A21mEisbL/f800/1726562227.jpeg?s=7af58766f5e5d93478450b6ab855412af6f60477",
+    "publicationDate": 1726562227,
+    "id": 5059159621
+  },
+  {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5332287804-lego-lot-vrac-speed-champion-76922",
     "price": 53.2,
     "title": "lego lot vrac speed champion 76922",
@@ -128,6 +126,16 @@
     "id": 5332287804
   },
   {
+    "legoId": "76922",
+    "link": "https://www.vinted.fr/items/5362093342-lego-speed-champions-bmw-76922",
+    "price": 42.7,
+    "title": "Lego speed champions bmw  76922",
+    "imgUrl": "https://images1.vinted.net/t/04_00d7e_GyUos5y3m25ndHoXfJfDm3nT/f800/r3/1731269597.jpeg?s=26c091d8d1f43363f1e755b3a726924e25aa6a31",
+    "publicationDate": 1731269597,
+    "id": 5362093342
+  },
+  {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5336575036-lego-speed-champions",
     "price": 42.7,
     "title": "Lego speed champions",
@@ -136,14 +144,7 @@
     "id": 5336575036
   },
   {
-    "link": "https://www.vinted.fr/items/5324337816-lego-76922-bmw-m4-gt3-bmw-m-hybrid-v8",
-    "price": 44.8,
-    "title": "LEGO 76922 Bmw M4 GT3 & Bmw M Hybrid V8",
-    "imgUrl": "https://images1.vinted.net/t/04_00f02_zNcesG442fgJk6a4JajTWeia/f800/1730649758.jpeg?s=1ac125bcbcdf0476707e8da4aa327188de79c0ab",
-    "publicationDate": 1730649758,
-    "id": 5324337816
-  },
-  {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5286933364-lego-speed-champions-76922",
     "price": 42.7,
     "title": "Lego Speed champions 76922",
@@ -152,6 +153,7 @@
     "id": 5286933364
   },
   {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/4994562655-speed-champions-bmw-m4-gt3-bmw-hybrid-v8-76922-neuf-scelle-prix-fixe",
     "price": 42.7,
     "title": "Speed Champions BMW M4 GT3 & BMW Hybrid V8 (76922) Neuf & Scellé ! Prix Fixe !",
@@ -160,6 +162,7 @@
     "id": 4994562655
   },
   {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5248953862-speed-champions-bmw-m4-gt3-bmw-m-hybrid-v8-76922-neuf-et-scelle",
     "price": 44.8,
     "title": "Speed Champions Bmw m4 gt3 & Bmw m Hybrid V8 ( 76922) Neuf et scellé !",
@@ -168,6 +171,16 @@
     "id": 5248953862
   },
   {
+    "legoId": "76922",
+    "link": "https://www.vinted.fr/items/5324337816-lego-76922-bmw-m4-gt3-bmw-m-hybrid-v8",
+    "price": 44.8,
+    "title": "LEGO 76922 Bmw M4 GT3 & Bmw M Hybrid V8",
+    "imgUrl": "https://images1.vinted.net/t/04_00f02_zNcesG442fgJk6a4JajTWeia/f800/1730649758.jpeg?s=1ac125bcbcdf0476707e8da4aa327188de79c0ab",
+    "publicationDate": 1730649758,
+    "id": 5324337816
+  },
+  {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5362829855-lego-76922-76924",
     "price": 79.45,
     "title": "Lego 76922 +76924",
@@ -176,22 +189,7 @@
     "id": 5362829855
   },
   {
-    "link": "https://www.vinted.fr/items/5297213692-lego-76922-76925",
-    "price": 89.95,
-    "title": "Lego 76922 + 76925",
-    "imgUrl": "https://images1.vinted.net/t/03_00c77_PTzxFMzkvrtsthaM7Yt273gS/f800/1730204218.jpeg?s=01c4c0533ea77630db55fe9a38d7b78627217a99",
-    "publicationDate": 1730204218,
-    "id": 5297213692
-  },
-  {
-    "link": "https://www.vinted.fr/items/5315961783-lego-76922-speed-champions",
-    "price": 47.95,
-    "title": "Lego 76922 - Speed Champions",
-    "imgUrl": "https://images1.vinted.net/t/04_00dbe_4L6HYWQ5Yz9jKn6wrK3PfXxd/f800/1730547984.jpeg?s=02000df875ec915cc28dedf364bfd7e311cdbdd7",
-    "publicationDate": 1730547984,
-    "id": 5315961783
-  },
-  {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/4469012197-lego-speed-champions-bmw-set-76922",
     "price": 42.7,
     "title": "Lego speed champions bmw set 76922",
@@ -200,6 +198,25 @@
     "id": 4469012197
   },
   {
+    "legoId": "76922",
+    "link": "https://www.vinted.fr/items/5297213692-lego-76922-76925",
+    "price": 89.95,
+    "title": "Lego 76922 + 76925",
+    "imgUrl": "https://images1.vinted.net/t/03_00c77_PTzxFMzkvrtsthaM7Yt273gS/f800/1730204218.jpeg?s=01c4c0533ea77630db55fe9a38d7b78627217a99",
+    "publicationDate": 1730204218,
+    "id": 5297213692
+  },
+  {
+    "legoId": "76922",
+    "link": "https://www.vinted.fr/items/5315961783-lego-76922-speed-champions",
+    "price": 47.95,
+    "title": "Lego 76922 - Speed Champions",
+    "imgUrl": "https://images1.vinted.net/t/04_00dbe_4L6HYWQ5Yz9jKn6wrK3PfXxd/f800/1730547984.jpeg?s=02000df875ec915cc28dedf364bfd7e311cdbdd7",
+    "publicationDate": 1730547984,
+    "id": 5315961783
+  },
+  {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5331648122-lego-speed-champions-carro-de-corrida-bmw-m4-gt3-e-bmw-m-hybrid-v8-76922",
     "price": 58.44,
     "title": "Lego Speed Champions - Carro de corrida BMW M4 GT3 e BMW M Hybrid V8 (76922)",
@@ -208,6 +225,7 @@
     "id": 5331648122
   },
   {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5317772484-lego-speed-champions-bmw-76922",
     "price": 47.95,
     "title": "Lego speed champions BMW 76922",
@@ -216,6 +234,7 @@
     "id": 5317772484
   },
   {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5301906741-lego-speed-champions-bmw",
     "price": 44.8,
     "title": "Lego Speed Champions BMW",
@@ -224,14 +243,7 @@
     "id": 5301906741
   },
   {
-    "link": "https://www.vinted.fr/items/4740258166-lego-speedchampions-76922",
-    "price": 53.2,
-    "title": "Lego speedchampions 76922",
-    "imgUrl": "https://images1.vinted.net/t/03_009a0_SvqwqHsvfyKqDEcHqkF1K9fj/f800/1720453330.jpeg?s=00cf93c6265782d6091d218e64f60b9c1d71b70e",
-    "publicationDate": 1720453330,
-    "id": 4740258166
-  },
-  {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/5155578355-lego-speed-champions-enorme-lot",
     "price": 378.7,
     "title": "Lego Speed Champions Énorme lot",
@@ -240,6 +252,16 @@
     "id": 5155578355
   },
   {
+    "legoId": "76922",
+    "link": "https://www.vinted.fr/items/4740258166-lego-speedchampions-76922",
+    "price": 53.2,
+    "title": "Lego speedchampions 76922",
+    "imgUrl": "https://images1.vinted.net/t/03_009a0_SvqwqHsvfyKqDEcHqkF1K9fj/f800/1720453330.jpeg?s=00cf93c6265782d6091d218e64f60b9c1d71b70e",
+    "publicationDate": 1720453330,
+    "id": 4740258166
+  },
+  {
+    "legoId": "76922",
     "link": "https://www.vinted.fr/items/4816776664-lego-76922-bmw",
     "price": 62.65,
     "title": "Lego 76922 bmw",

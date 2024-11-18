@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "75582",
     "link": "https://www.vinted.fr/items/5168720471-lego-minions-75582",
     "price": 32.2,
     "title": "Lego minions 75582",
@@ -8,6 +9,7 @@
     "id": 5168720471
   },
   {
+    "legoId": "75582",
     "link": "https://www.vinted.fr/items/5363720858-lego-75582-moi-moche-et-mechant-4",
     "price": 42.65,
     "title": "Lego 75582 Moi moche et méchant 4",
@@ -16,6 +18,7 @@
     "id": 5363720858
   },
   {
+    "legoId": "75582",
     "link": "https://www.vinted.fr/items/5379844349-lego-75582",
     "price": 38.5,
     "title": "LEGO 75582",
@@ -24,14 +27,7 @@
     "id": 5379844349
   },
   {
-    "link": "https://www.vinted.fr/items/4783707856-lego-75582",
-    "price": 47.94,
-    "title": "Lego 75582",
-    "imgUrl": "https://images1.vinted.net/t/03_009bc_i2tYhaRwBZnvkf9h3isMWqEh/f800/1721396181.jpeg?s=2f76e49ff415e81a864de993e1ae1ea8862f2033",
-    "publicationDate": 1721396181,
-    "id": 4783707856
-  },
-  {
+    "legoId": "75582",
     "link": "https://www.vinted.fr/items/5378447754-lego-75582-gru-4-mi-villano-favorito-y-los-minions",
     "price": 47.95,
     "title": "LEGO 75582 GRU 4 Mi villano favorito y los Minions",
@@ -40,6 +36,16 @@
     "id": 5378447754
   },
   {
+    "legoId": "75582",
+    "link": "https://www.vinted.fr/items/4783707856-lego-75582",
+    "price": 47.94,
+    "title": "Lego 75582",
+    "imgUrl": "https://images1.vinted.net/t/03_009bc_i2tYhaRwBZnvkf9h3isMWqEh/f800/1721396181.jpeg?s=2f76e49ff415e81a864de993e1ae1ea8862f2033",
+    "publicationDate": 1721396181,
+    "id": 4783707856
+  },
+  {
+    "legoId": "75582",
     "link": "https://www.vinted.fr/items/4791939286-lego-75582-verschrikkelijke-ikke",
     "price": 46.9,
     "title": "Lego 75582 verschrikkelijke ikke",

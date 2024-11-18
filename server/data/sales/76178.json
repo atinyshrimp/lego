@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5006317336-lego-sandman-sh0685",
     "price": 10.15,
     "title": "Lego Sandman sh0685",
@@ -8,6 +9,7 @@
     "id": 5006317336
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5228608427-boite-vide-lego-76178-daily-bugle",
     "price": 26.95,
     "title": "Boîte vide lego 76178 daily bugle",
@@ -16,6 +18,7 @@
     "id": 5228608427
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5329759027-lego-mini-figure-spider-man-miles-morales",
     "price": 9.1,
     "title": "LEGO mini figure Spider-Man Miles Morales",
@@ -24,6 +27,7 @@
     "id": 5329759027
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5323225756-lego-sh0679-spider-man-miles-morales-dark-red-hood-black-lower-legs-du-set-76178-daily-bugle",
     "price": 5.43,
     "title": "Lego SH0679 Spider-Man (Miles Morales) - Dark Red Hood, Black Lower Legs du set 76178 Daily Bugle",
@@ -32,6 +36,7 @@
     "id": 5323225756
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/4599185767-lego-notice",
     "price": 19.6,
     "title": "Lego notice",
@@ -40,6 +45,7 @@
     "id": 4599185767
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/3683626535-lego-marvel-green-gobelin-sh695-76175-76178",
     "price": 10.15,
     "title": "Lego marvel Green gobelin sh695 76175 76178",
@@ -48,6 +54,7 @@
     "id": 3683626535
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/4285128777-figurine-lego-spider-man-sh679",
     "price": 5.95,
     "title": "Figurine lego spider-man sh679",
@@ -56,6 +63,7 @@
     "id": 4285128777
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5274994695-figurine-lego-super-heroes-spider-man-miles-morales-sh679-76178",
     "price": 6.16,
     "title": "Figurine Lego Super Heroes Spider-Man Miles Morales sh679 (76178)",
@@ -64,22 +72,7 @@
     "id": 5274994695
   },
   {
-    "link": "https://www.vinted.fr/items/5000126854-echelles-lego-x100",
-    "price": 20.65,
-    "title": "Échelles lego x100",
-    "imgUrl": "https://images1.vinted.net/t/03_023f0_LJS9t38EQs688AwJyFTjhHSE/f800/1725712484.jpeg?s=359f8b9bceb33deaa920e40ed69d725e46e31b84",
-    "publicationDate": 1725712484,
-    "id": 5000126854
-  },
-  {
-    "link": "https://www.vinted.fr/items/3943227375-figurine-lego-spider-ham-set-daily-bugle-76178-marvel",
-    "price": 17.5,
-    "title": "Figurine Lego Spider-Ham set Daily Bugle 76178 - Marvel",
-    "imgUrl": "https://images1.vinted.net/t/02_0019a_DtsfHgspp9BfPrBhsbPeW3MS/f800/1704476012.jpeg?s=7c0ceee14c9695bf9253a39e9ba48e0bdaa843ba",
-    "publicationDate": 1704476012,
-    "id": 3943227375
-  },
-  {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/3704694266-piece-en-trop-des-sets-76178-et-76218-lego",
     "price": 10.15,
     "title": "pièce en trop des sets 76178 et 76218 LEGO",
@@ -88,6 +81,25 @@
     "id": 3704694266
   },
   {
+    "legoId": "76178",
+    "link": "https://www.vinted.fr/items/5000126854-echelles-lego-x100",
+    "price": 20.65,
+    "title": "Échelles lego x100",
+    "imgUrl": "https://images1.vinted.net/t/03_023f0_LJS9t38EQs688AwJyFTjhHSE/f800/1725712484.jpeg?s=359f8b9bceb33deaa920e40ed69d725e46e31b84",
+    "publicationDate": 1725712484,
+    "id": 5000126854
+  },
+  {
+    "legoId": "76178",
+    "link": "https://www.vinted.fr/items/3943227375-figurine-lego-spider-ham-set-daily-bugle-76178-marvel",
+    "price": 17.5,
+    "title": "Figurine Lego Spider-Ham set Daily Bugle 76178 - Marvel",
+    "imgUrl": "https://images1.vinted.net/t/02_0019a_DtsfHgspp9BfPrBhsbPeW3MS/f800/1704476012.jpeg?s=7c0ceee14c9695bf9253a39e9ba48e0bdaa843ba",
+    "publicationDate": 1704476012,
+    "id": 3943227375
+  },
+  {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/2173309299-lego-aunt-may-figurine-personnage-lot-vrac-daily-bugle-76178",
     "price": 5.95,
     "title": "lego Aunt May figurine personnage lot vrac daily Bugle 76178",
@@ -96,6 +108,7 @@
     "id": 2173309299
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5043018722-4x-lego-55817-gris-fonce",
     "price": 4.38,
     "title": "4x Lego 55817 gris foncé",
@@ -104,6 +117,7 @@
     "id": 5043018722
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5362242644-lego-marvel-sh695-green-goblin-76175-76178",
     "price": 13.3,
     "title": "Lego marvel sh695 Green goblin 76175 76178",
@@ -112,6 +126,7 @@
     "id": 5362242644
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5200450552-lego-minifigure-marvel-mysterio",
     "price": 13.3,
     "title": "Lego minifigure Marvel Mysterio",
@@ -120,6 +135,7 @@
     "id": 5200450552
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5006374275-lego-peter-parker-sh0714",
     "price": 10.15,
     "title": "Lego Peter Parker sh0714",
@@ -128,14 +144,7 @@
     "id": 5006374275
   },
   {
-    "link": "https://www.vinted.fr/items/5320352983-lego-daily-bugle-76178",
-    "price": 221.2,
-    "title": "Lego Daily Bugle 76178",
-    "imgUrl": "https://images1.vinted.net/t/04_001e5_pAcSLNTuaV96K8PuUaEFRhVf/f800/1730623993.jpeg?s=d18810509b5eb2f5a5d06646895ea69d6a058f74",
-    "publicationDate": 1730623993,
-    "id": 5320352983
-  },
-  {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/2549807254-lego-mini-figure-green-goblin",
     "price": 8.05,
     "title": "Lego mini figure Green goblin",
@@ -144,6 +153,7 @@
     "id": 2549807254
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/2173316702-lego-betty-brant-figurine-personnage-lot-vrac-daily-bugle-76178",
     "price": 5.95,
     "title": "lego Betty Brant figurine personnage lot vrac daily Bugle 76178",
@@ -152,6 +162,7 @@
     "id": 2173316702
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/2173320670-lego-amber-grant-figurine-personnage-lot-vrac-daily-bugle-76178",
     "price": 5.95,
     "title": "lego Amber Grant figurine personnage lot vrac daily Bugle 76178",
@@ -160,6 +171,7 @@
     "id": 2173320670
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/4886846325-luci-per-lego-76178",
     "price": 21.7,
     "title": "Luci per lego 76178",
@@ -168,6 +180,7 @@
     "id": 4886846325
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/4999022965-lego-marvel-le-daily-bugle-76178",
     "price": 262.15,
     "title": "LEGO Marvel - Le Daily Bugle - 76178",
@@ -176,6 +189,7 @@
     "id": 4999022965
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/2458859427-lego-sh726-minifigura-betty-brant",
     "price": 7,
     "title": "Lego SH726 minifigura Betty Brant",
@@ -184,6 +198,7 @@
     "id": 2458859427
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/4577255113-daily-buggle-lego-76178",
     "price": 242.2,
     "title": "Daily buggle Lego 76178",
@@ -192,14 +207,7 @@
     "id": 4577255113
   },
   {
-    "link": "https://www.vinted.fr/items/5107624435-lego-76178-daily-bugle",
-    "price": 305.2,
-    "title": "LEGO 76178 - Daily Bugle",
-    "imgUrl": "https://images1.vinted.net/t/02_0046d_qQAB5t7HymENYiTuLci4LcAv/f800/1727285754.jpeg?s=e731a2930bc1feaadae560725f839623b2d8da3f",
-    "publicationDate": 1727285754,
-    "id": 5107624435
-  },
-  {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/2458849743-lego-sh717-minifigura-ron-barney",
     "price": 7,
     "title": "Lego SH717 minifigura Ron Barney",
@@ -208,6 +216,16 @@
     "id": 2458849743
   },
   {
+    "legoId": "76178",
+    "link": "https://www.vinted.fr/items/5107624435-lego-76178-daily-bugle",
+    "price": 305.2,
+    "title": "LEGO 76178 - Daily Bugle",
+    "imgUrl": "https://images1.vinted.net/t/02_0046d_qQAB5t7HymENYiTuLci4LcAv/f800/1727285754.jpeg?s=e731a2930bc1feaadae560725f839623b2d8da3f",
+    "publicationDate": 1727285754,
+    "id": 5107624435
+  },
+  {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/2458852219-lego-sh719-minifigura-ben-urich",
     "price": 7,
     "title": "Lego SH719 minifigura Ben Urich",
@@ -216,6 +234,7 @@
     "id": 2458852219
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5039578979-lego-marvel-super-heroes-76178-daily-bugle",
     "price": 262.15,
     "title": "LEGO Marvel Super Heroes 76178 Daily Bugle",
@@ -224,6 +243,7 @@
     "id": 5039578979
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5028705644-set-lego-76178-daily-bugle",
     "price": 263.2,
     "title": "Set LEGO 76178 Daily Bugle",
@@ -232,6 +252,7 @@
     "id": 5028705644
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5295285894-lego-daily-bugle-76178",
     "price": 352.45,
     "title": "Lego Daily Bugle (76178)",
@@ -240,6 +261,7 @@
     "id": 5295285894
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/2310189757-lego-daily-bugle-76178-no-minifigures",
     "price": 294.69,
     "title": "Lego Daily bugle 76178 (NO Minifigures)",
@@ -248,6 +270,7 @@
     "id": 2310189757
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/4181028231-lego-daily-buggle-76178",
     "price": 294.7,
     "title": "LEGO Daily Buggle 76178",
@@ -256,6 +279,7 @@
     "id": 4181028231
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5080686095-lego-marvel-spider-man-daily-bugle-76178-nieuw-in-doos",
     "price": 326.2,
     "title": "Lego Marvel Spider-man Daily Bugle (76178) nieuw in doos",
@@ -264,14 +288,7 @@
     "id": 5080686095
   },
   {
-    "link": "https://www.vinted.fr/items/4975591505-daily-bugle-76178-set-lego-marvel-spider-man",
-    "price": 331.45,
-    "title": "Daily Bugle 76178 Set Lego Marvel Spider-Man",
-    "imgUrl": "https://images1.vinted.net/t/01_00eb7_Mr2cYfbCMPBB9g5oNxQ9zKc2/f800/1725272555.jpeg?s=2dc3d5f3f7fa17ca79b145a5833b322463424d66",
-    "publicationDate": 1725272555,
-    "id": 4975591505
-  },
-  {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5300729014-lego-marvel-76178-daily-bugle",
     "price": 368.2,
     "title": "Lego Marvel 76178 Daily Bugle",
@@ -280,6 +297,16 @@
     "id": 5300729014
   },
   {
+    "legoId": "76178",
+    "link": "https://www.vinted.fr/items/4975591505-daily-bugle-76178-set-lego-marvel-spider-man",
+    "price": 331.45,
+    "title": "Daily Bugle 76178 Set Lego Marvel Spider-Man",
+    "imgUrl": "https://images1.vinted.net/t/01_00eb7_Mr2cYfbCMPBB9g5oNxQ9zKc2/f800/1725272555.jpeg?s=2dc3d5f3f7fa17ca79b145a5833b322463424d66",
+    "publicationDate": 1725272555,
+    "id": 4975591505
+  },
+  {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5246709880-lego-daily-bugle-76178",
     "price": 368.2,
     "title": "LEGO Daily Bugle 76178",
@@ -288,6 +315,7 @@
     "id": 5246709880
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/4891991677-lego-marvel-76178-daily-bugle",
     "price": 305.2,
     "title": "LEGO Marvel 76178 : Daily Bugle",
@@ -296,6 +324,7 @@
     "id": 4891991677
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/3910343116-lego-76178-daily-bugle",
     "price": 315.7,
     "title": "Lego 76178 daily bugle",
@@ -304,6 +333,7 @@
     "id": 3910343116
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/3872617455-lego-daily-buggle-76178",
     "price": 294.7,
     "title": "Lego Daily Buggle 76178",
@@ -312,6 +342,7 @@
     "id": 3872617455
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/4210662054-lego-76178",
     "price": 315.7,
     "title": "Lego 76178",
@@ -320,14 +351,7 @@
     "id": 4210662054
   },
   {
-    "link": "https://www.vinted.fr/items/2936431182-lego-spider-man-daily-bugle-76178",
-    "price": 394.45,
-    "title": "Lego Spider-man Daily Bugle - 76178",
-    "imgUrl": "https://images1.vinted.net/t/01_00aca_tTvPiJKcVEgZZRDugnYqYfjK/f800/1682254725.jpeg?s=4f7fdf8805924b7a49736fcef78464b0c7c61e32",
-    "publicationDate": 1682254725,
-    "id": 2936431182
-  },
-  {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/5015685501-lego-76178",
     "price": 336.7,
     "title": "Lego 76178",
@@ -336,6 +360,7 @@
     "id": 5015685501
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/3861194608-lego-76178-daily-bugle-marvel",
     "price": 326.19,
     "title": "Lego 76178 Daily Bugle Marvel",
@@ -344,6 +369,7 @@
     "id": 3861194608
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/2157356683-lego-76178",
     "price": 326.2,
     "title": "Lego 76178",
@@ -352,6 +378,7 @@
     "id": 2157356683
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/4885418285-lego-technic-42054",
     "price": 399.7,
     "title": "Lego Technic 42054",
@@ -360,14 +387,7 @@
     "id": 4885418285
   },
   {
-    "link": "https://www.vinted.fr/items/1718888454-lego-daily-bugle-76178",
-    "price": 373.45,
-    "title": "Lego daily bugle 76178",
-    "imgUrl": "https://images1.vinted.net/t/03_00132_5iy62kkrNTkjTCVf3Max6bRe/f800/1648228672.jpeg?s=bde6871d1995d5bf09d5305dcd3bdd5165765515",
-    "publicationDate": 1648228672,
-    "id": 1718888454
-  },
-  {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/4082467224-lego-daily-bugle",
     "price": 368.2,
     "title": "LEGO Daily Bugle",
@@ -376,6 +396,25 @@
     "id": 4082467224
   },
   {
+    "legoId": "76178",
+    "link": "https://www.vinted.fr/items/1718888454-lego-daily-bugle-76178",
+    "price": 373.45,
+    "title": "Lego daily bugle 76178",
+    "imgUrl": "https://images1.vinted.net/t/03_00132_5iy62kkrNTkjTCVf3Max6bRe/f800/1648228672.jpeg?s=bde6871d1995d5bf09d5305dcd3bdd5165765515",
+    "publicationDate": 1648228672,
+    "id": 1718888454
+  },
+  {
+    "legoId": "76178",
+    "link": "https://www.vinted.fr/items/2936431182-lego-spider-man-daily-bugle-76178",
+    "price": 394.45,
+    "title": "Lego Spider-man Daily Bugle - 76178",
+    "imgUrl": "https://images1.vinted.net/t/01_00aca_tTvPiJKcVEgZZRDugnYqYfjK/f800/1682254725.jpeg?s=4f7fdf8805924b7a49736fcef78464b0c7c61e32",
+    "publicationDate": 1682254725,
+    "id": 2936431182
+  },
+  {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/3372483910-76178-lego-daily-bugle",
     "price": 336.7,
     "title": "76178 Lego Daily Bugle",
@@ -384,6 +423,7 @@
     "id": 3372483910
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/1653843802-lego-76178",
     "price": 368.19,
     "title": "Lego 76178 ",
@@ -392,6 +432,7 @@
     "id": 1653843802
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/1502742963-lego-76178-daily-bugle-new-iw-box-sealed",
     "price": 376.6,
     "title": "LEGO 76178 - Daily Bugle new iw box sealed",
@@ -400,6 +441,7 @@
     "id": 1502742963
   },
   {
+    "legoId": "76178",
     "link": "https://www.vinted.fr/items/1624996724-lego-daily-bugle-76178-neuf-en-boite-scellee",
     "price": 368.2,
     "title": "Lego Daily Bugle 76178 neuf en boite scellée",

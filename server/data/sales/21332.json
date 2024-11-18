@@ -1,13 +1,6 @@
 [
   {
-    "link": "https://www.vinted.fr/items/2598304555-libro-delle-istruzioni-lego-the-globe-21332",
-    "price": 3.75,
-    "title": "Libro delle istruzioni Lego the globe 21332",
-    "imgUrl": "https://images1.vinted.net/t/02_02674_or7xJCEpDKWKKPdGDP1msYNh/f800/1673949028.jpeg?s=bf48054db4ebeb5308a2eef6a77556c1ed4c3260",
-    "publicationDate": 1673949028,
-    "id": 2598304555
-  },
-  {
+    "legoId": "21332",
     "link": "https://www.vinted.fr/items/5404243098-lego-ideas-21332",
     "price": 200.2,
     "title": "Lego ideas 21332",
@@ -16,6 +9,16 @@
     "id": 5404243098
   },
   {
+    "legoId": "21332",
+    "link": "https://www.vinted.fr/items/2598304555-libro-delle-istruzioni-lego-the-globe-21332",
+    "price": 3.75,
+    "title": "Libro delle istruzioni Lego the globe 21332",
+    "imgUrl": "https://images1.vinted.net/t/02_02674_or7xJCEpDKWKKPdGDP1msYNh/f800/1673949028.jpeg?s=bf48054db4ebeb5308a2eef6a77556c1ed4c3260",
+    "publicationDate": 1673949028,
+    "id": 2598304555
+  },
+  {
+    "legoId": "21332",
     "link": "https://www.vinted.fr/items/1897519601-manuale-di-istruzioni-notice-di-lego-21332-mappamondo",
     "price": 9.1,
     "title": "Manuale di istruzioni (notice) di Lego 21332 mappamondo ",
@@ -24,6 +27,7 @@
     "id": 1897519601
   },
   {
+    "legoId": "21332",
     "link": "https://www.vinted.fr/items/5373663941-lego-21332",
     "price": 184.45,
     "title": "Lego 21332",
@@ -32,6 +36,7 @@
     "id": 5373663941
   },
   {
+    "legoId": "21332",
     "link": "https://www.vinted.fr/items/5371996607-lego-21332-globe",
     "price": 210.7,
     "title": "Lego 21332 Globe",
@@ -40,6 +45,7 @@
     "id": 5371996607
   },
   {
+    "legoId": "21332",
     "link": "https://www.vinted.fr/items/5234313225-lego-lot-4-pieces-de-rechange-10x10-gris-clair-star-wars-ou-nombeux-autres-sets-espace",
     "price": 4.9,
     "title": "Lego lot 4 pièces de rechange 10x10 gris clair Star Wars ou nombeux autres sets espace",
@@ -48,6 +54,7 @@
     "id": 5234313225
   },
   {
+    "legoId": "21332",
     "link": "https://www.vinted.fr/items/5341982030-lego-ideas-the-globe-21332",
     "price": 205.45,
     "title": "Lego ideas the globe 21332",
@@ -56,6 +63,7 @@
     "id": 5341982030
   },
   {
+    "legoId": "21332",
     "link": "https://www.vinted.fr/items/5389760778-lego-ideas-mappamondo-21332",
     "price": 247.45,
     "title": "Lego Ideas mappamondo 21332",
@@ -64,14 +72,7 @@
     "id": 5389760778
   },
   {
-    "link": "https://www.vinted.fr/items/5177012270-lego-misb-21332-the-globe-mappamondo",
-    "price": 221.2,
-    "title": "Lego Misb 21332 The globe Mappamondo",
-    "imgUrl": "https://images1.vinted.net/t/01_02591_vJbLcPYfNWF16FiDSenzPG8a/f800/1728312790.jpeg?s=0548e6aa1a5d9f4a7a4c19672f542af7e1c3bd82",
-    "publicationDate": 1728312790,
-    "id": 5177012270
-  },
-  {
+    "legoId": "21332",
     "link": "https://www.vinted.fr/items/5234329681-lego-lot-2-pieces-de-rechange-10x10-gris-avec-stickers-8016-hyena-droide-bomber-star-wars",
     "price": 3.33,
     "title": "Lego lot 2 pièces de rechange 10x10 gris avec stickers 8016 hyena droide bomber Star Wars",
@@ -80,6 +81,16 @@
     "id": 5234329681
   },
   {
+    "legoId": "21332",
+    "link": "https://www.vinted.fr/items/5177012270-lego-misb-21332-the-globe-mappamondo",
+    "price": 221.2,
+    "title": "Lego Misb 21332 The globe Mappamondo",
+    "imgUrl": "https://images1.vinted.net/t/01_02591_vJbLcPYfNWF16FiDSenzPG8a/f800/1728312790.jpeg?s=0548e6aa1a5d9f4a7a4c19672f542af7e1c3bd82",
+    "publicationDate": 1728312790,
+    "id": 5177012270
+  },
+  {
+    "legoId": "21332",
     "link": "https://www.vinted.fr/items/5355701834-lego-21332-ideas-il-mappamondo-nuovo",
     "price": 200.19,
     "title": "LEGO 21332 Ideas - Il Mappamondo NUOVO",
@@ -88,6 +99,7 @@
     "id": 5355701834
   },
   {
+    "legoId": "21332",
     "link": "https://www.vinted.fr/items/5332065671-lego-ideas-21332-the-globe",
     "price": 231.7,
     "title": "Lego Ideas 21332 The Globe",
@@ -96,6 +108,7 @@
     "id": 5332065671
   },
   {
+    "legoId": "21332",
     "link": "https://www.vinted.fr/items/5322824609-lego-ideas-cuusoo-009-21301-birdsvogels-nieuw",
     "price": 168.7,
     "title": "LEGO Ideas (CUUSOO) #009 21301 Birds/Vogels NIEUW",

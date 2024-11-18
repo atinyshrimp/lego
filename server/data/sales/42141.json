@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4376217318-42141-boite-vide-lego-mac-laren",
     "price": 11.2,
     "title": "42141 Boite vide Lego  Mac Laren",
@@ -8,14 +9,7 @@
     "id": 4376217318
   },
   {
-    "link": "https://www.vinted.fr/items/5336860429-lego-42141-mclaren-formel-1-rennwagen",
-    "price": 31.78,
-    "title": "LEGO 42141 McLaren Formel 1 Rennwagen",
-    "imgUrl": "https://images1.vinted.net/t/03_00eb8_L2x4rwsjoNguUTbRVG4adcLX/f800/1730875912.jpeg?s=1803c76e9da21f07f539947334d69ab41405a364",
-    "publicationDate": 1730875912,
-    "id": 5336860429
-  },
-  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5332187834-boite-lego-42141-vide",
     "price": 37.45,
     "title": "Boite LEGO 42141 vide",
@@ -24,14 +18,7 @@
     "id": 5332187834
   },
   {
-    "link": "https://www.vinted.fr/items/4993873399-lego-technic-mclaren-formel-1-42141",
-    "price": 26.79,
-    "title": "LEGO Technic: McLaren Formel 1 (42141)",
-    "imgUrl": "https://images1.vinted.net/t/03_01a44_QKvk16zmeWh8nbUk2ruhbhdQ/f800/1725605761.jpeg?s=bd041e74de07cf51c0e03b1d073d652a62b52187",
-    "publicationDate": 1725605761,
-    "id": 4993873399
-  },
-  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5024709193-istruzioni-manuale-lego-42141",
     "price": 15.4,
     "title": "Istruzioni manuale lego 42141",
@@ -40,6 +27,7 @@
     "id": 5024709193
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5213162241-notice-de-construction-lego-technic-42141-formule-1-mac-laren",
     "price": 26.85,
     "title": "Notice de construction Lego Technic 42141 Formule 1 Mac Laren",
@@ -48,6 +36,7 @@
     "id": 5213162241
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5358286746-lego-technic-mc-laren-42141",
     "price": 126.7,
     "title": "Lego Technic Mc Laren 42141",
@@ -56,14 +45,7 @@
     "id": 5358286746
   },
   {
-    "link": "https://www.vinted.fr/items/5353391251-lego-technic-anleitungen-bauanleitungen-genaue-liste-siehe-text",
-    "price": 9.1,
-    "title": "Lego Technic Anleitungen, Bauanleitungen, genaue Liste siehe Text",
-    "imgUrl": "https://images1.vinted.net/t/02_00507_kCaNDzQvrsiNZbmWhGr55JtL/f800/1731165125.jpeg?s=c09a764cc2bb8c1526bea6104aa909a7da3308ba",
-    "publicationDate": 1731165125,
-    "id": 5353391251
-  },
-  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5333580528-set-42141-lego-technic-mclaren-formula-1-race-car",
     "price": 147.69,
     "title": "set 42141 LEGO Technic McLaren Formula 1 Race Car",
@@ -72,6 +54,7 @@
     "id": 5333580528
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5269014569-lego-technic-42141-la-voiture-de-course-mclaren-formula-1",
     "price": 137.2,
     "title": "Lego technic 42141 la voiture de course McLaren Formula 1",
@@ -80,6 +63,7 @@
     "id": 5269014569
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5349102025-lego-42141",
     "price": 116.2,
     "title": "Lego 42141",
@@ -88,6 +72,25 @@
     "id": 5349102025
   },
   {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/5336860429-lego-42141-mclaren-formel-1-rennwagen",
+    "price": 31.78,
+    "title": "LEGO 42141 McLaren Formel 1 Rennwagen",
+    "imgUrl": "https://images1.vinted.net/t/03_00eb8_L2x4rwsjoNguUTbRVG4adcLX/f800/1730875912.jpeg?s=1803c76e9da21f07f539947334d69ab41405a364",
+    "publicationDate": 1730875912,
+    "id": 5336860429
+  },
+  {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/5353391251-lego-technic-anleitungen-bauanleitungen-genaue-liste-siehe-text",
+    "price": 9.1,
+    "title": "Lego Technic Anleitungen, Bauanleitungen, genaue Liste siehe Text",
+    "imgUrl": "https://images1.vinted.net/t/02_00507_kCaNDzQvrsiNZbmWhGr55JtL/f800/1731165125.jpeg?s=c09a764cc2bb8c1526bea6104aa909a7da3308ba",
+    "publicationDate": 1731165125,
+    "id": 5353391251
+  },
+  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5350480948-lego-42141-edicao-pirelli",
     "price": 126.7,
     "title": "Lego 42141 edição pirelli",
@@ -96,6 +99,7 @@
     "id": 5350480948
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5375627170-lego-technic-mclaren-f1-2022",
     "price": 205.45,
     "title": "LEGO Technic McLaren F1 2022",
@@ -104,6 +108,7 @@
     "id": 5375627170
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5358725181-mclaren-formula-1-lego-compatible-42141",
     "price": 95.2,
     "title": "McLaren Formula 1 Lego Compatible 42141",
@@ -112,6 +117,16 @@
     "id": 5358725181
   },
   {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/4993873399-lego-technic-mclaren-formel-1-42141",
+    "price": 26.79,
+    "title": "LEGO Technic: McLaren Formel 1 (42141)",
+    "imgUrl": "https://images1.vinted.net/t/03_01a44_QKvk16zmeWh8nbUk2ruhbhdQ/f800/1725605761.jpeg?s=bd041e74de07cf51c0e03b1d073d652a62b52187",
+    "publicationDate": 1725605761,
+    "id": 4993873399
+  },
+  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5310321658-lego-technic-mclaren-f1-neuf-et-scelle-42141",
     "price": 146.65,
     "title": "Lego Technic McLaren F1 neuf et scellé 42141",
@@ -120,6 +135,7 @@
     "id": 5310321658
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5333369865-lego-mclaren-formula-1",
     "price": 152.95,
     "title": "Lego McLaren Formula 1",
@@ -128,6 +144,7 @@
     "id": 5333369865
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5387020336-lego-42141",
     "price": 189.7,
     "title": "Lego 42141",
@@ -136,6 +153,7 @@
     "id": 5387020336
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5292953332-lego-icons-ayrton-senna-formule-1",
     "price": 63.7,
     "title": "Lego Icons Ayrton Senna Formule 1",
@@ -144,38 +162,7 @@
     "id": 5292953332
   },
   {
-    "link": "https://www.vinted.fr/items/5401289738-lego-42141-mclaren-formule-1-team-2022",
-    "price": 121.45,
-    "title": "Lego 42141 McLaren formule 1 team 2022",
-    "imgUrl": "https://images1.vinted.net/t/03_01100_eee6miSTB2Qonkn4wEvafBxR/f800/1731875495.jpeg?s=540ec3f034b196b2b993f71079f4c698c83e9c0f",
-    "publicationDate": 1731875495,
-    "id": 5401289738
-  },
-  {
-    "link": "https://www.vinted.fr/items/4504005895-lego-technic-formule-1-mclaren-42141",
-    "price": 126.7,
-    "title": "Lego technic formule 1 McLaren -42141",
-    "imgUrl": "https://images1.vinted.net/t/02_01a7a_58biByJyAYu3yE3LC63NempG/f800/1715710048.jpeg?s=29d78b4fa08032778ddc35ac11912bbb67ef460f",
-    "publicationDate": 1715710048,
-    "id": 4504005895
-  },
-  {
-    "link": "https://www.vinted.fr/items/5308560868-lego-42141-mclaren-formula-1",
-    "price": 137.2,
-    "title": "Lego 42141 - McLaren Formula 1",
-    "imgUrl": "https://images1.vinted.net/t/02_00d68_3V3G9vLWafCJe4AsqXC6oudA/f800/1730397967.jpeg?s=7bac61c57ec646cc26b88e769453031361c17ada",
-    "publicationDate": 1730397967,
-    "id": 5308560868
-  },
-  {
-    "link": "https://www.vinted.fr/items/5387150086-lego-technic-42141-mac-laren-f1-neuf-et-scelle",
-    "price": 157.15,
-    "title": "Lego Technic 42141 Mac Laren F1 NEUF et scellé",
-    "imgUrl": "https://images1.vinted.net/t/04_01c08_srnyqDRrMLvWKd9wUQgZWY88/f800/1731687409.jpeg?s=547603a2df74efc3503a94dc8cb533c4092ad327",
-    "publicationDate": 1731687409,
-    "id": 5387150086
-  },
-  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5325851653-lego-mclaren-42141",
     "price": 137.2,
     "title": "Lego McLaren 42141",
@@ -184,38 +171,7 @@
     "id": 5325851653
   },
   {
-    "link": "https://www.vinted.fr/items/5342185231-lego-technic-42141-mclaren-f1",
-    "price": 168.7,
-    "title": "lego technic 42141 McLaren f1",
-    "imgUrl": "https://images1.vinted.net/t/04_01530_xvQRx7iZ8pcwNLjfmWHC54Dh/f800/1730974568.jpeg?s=01b407d2976ba4c2bdc1ec58c6710b6354daa998",
-    "publicationDate": 1730974568,
-    "id": 5342185231
-  },
-  {
-    "link": "https://www.vinted.fr/items/4668373356-support-pour-lego",
-    "price": 21.7,
-    "title": "Support pour lego",
-    "imgUrl": "https://images1.vinted.net/t/02_01ff2_Re2FmKpfjXhg6fqXysWGP5bd/f800/1722354424.jpeg?s=ee1e41c24a789b32314c656a7902583b963da677",
-    "publicationDate": 1722354424,
-    "id": 4668373356
-  },
-  {
-    "link": "https://www.vinted.fr/items/5384114160-lego-42141",
-    "price": 131.95,
-    "title": "Lego 42141",
-    "imgUrl": "https://images1.vinted.net/t/04_0188c_WabkieTH2xNATY3w4kcNupN7/f800/1731620943.jpeg?s=0df853d97fcdc6db68bf9a901dedb1750b3e3dbe",
-    "publicationDate": 1731620943,
-    "id": 5384114160
-  },
-  {
-    "link": "https://www.vinted.fr/items/5345634182-lego-technic-mclaren-formula-1-team-2022-42141",
-    "price": 210.69,
-    "title": "Lego Technic - McLaren Formula 1 Team 2022 (42141)",
-    "imgUrl": "https://images1.vinted.net/t/04_022d6_ej3iHbAqvp83LvhKoApEU3tD/f800/1731014013.jpeg?s=bc13b998629259e863ff7b8688d15161842a6efc",
-    "publicationDate": 1731014013,
-    "id": 5345634182
-  },
-  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5362772765-legotechnic",
     "price": 441.7,
     "title": "LegoTechnic",
@@ -224,6 +180,70 @@
     "id": 5362772765
   },
   {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/5387150086-lego-technic-42141-mac-laren-f1-neuf-et-scelle",
+    "price": 156.1,
+    "title": "Lego Technic 42141 Mac Laren F1 NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/04_01c08_srnyqDRrMLvWKd9wUQgZWY88/f800/1731687409.jpeg?s=547603a2df74efc3503a94dc8cb533c4092ad327",
+    "publicationDate": 1731687409,
+    "id": 5387150086
+  },
+  {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/4504005895-lego-technic-formule-1-mclaren-42141",
+    "price": 126.7,
+    "title": "Lego technic formule 1 McLaren -42141",
+    "imgUrl": "https://images1.vinted.net/t/02_01a7a_58biByJyAYu3yE3LC63NempG/f800/1715710048.jpeg?s=29d78b4fa08032778ddc35ac11912bbb67ef460f",
+    "publicationDate": 1715710048,
+    "id": 4504005895
+  },
+  {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/5342185231-lego-technic-42141-mclaren-f1",
+    "price": 168.7,
+    "title": "lego technic 42141 McLaren f1",
+    "imgUrl": "https://images1.vinted.net/t/04_01530_xvQRx7iZ8pcwNLjfmWHC54Dh/f800/1730974568.jpeg?s=01b407d2976ba4c2bdc1ec58c6710b6354daa998",
+    "publicationDate": 1730974568,
+    "id": 5342185231
+  },
+  {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/5345634182-lego-technic-mclaren-formula-1-team-2022-42141",
+    "price": 210.69,
+    "title": "Lego Technic - McLaren Formula 1 Team 2022 (42141)",
+    "imgUrl": "https://images1.vinted.net/t/04_022d6_ej3iHbAqvp83LvhKoApEU3tD/f800/1731014013.jpeg?s=bc13b998629259e863ff7b8688d15161842a6efc",
+    "publicationDate": 1731014013,
+    "id": 5345634182
+  },
+  {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/4668373356-support-pour-lego",
+    "price": 21.7,
+    "title": "Support pour lego",
+    "imgUrl": "https://images1.vinted.net/t/02_01ff2_Re2FmKpfjXhg6fqXysWGP5bd/f800/1722354424.jpeg?s=ee1e41c24a789b32314c656a7902583b963da677",
+    "publicationDate": 1722354424,
+    "id": 4668373356
+  },
+  {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/5384114160-lego-42141",
+    "price": 131.95,
+    "title": "Lego 42141",
+    "imgUrl": "https://images1.vinted.net/t/04_0188c_WabkieTH2xNATY3w4kcNupN7/f800/1731620943.jpeg?s=0df853d97fcdc6db68bf9a901dedb1750b3e3dbe",
+    "publicationDate": 1731620943,
+    "id": 5384114160
+  },
+  {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/5401289738-lego-42141-mclaren-formule-1-team-2022",
+    "price": 121.45,
+    "title": "Lego 42141 McLaren formule 1 team 2022",
+    "imgUrl": "https://images1.vinted.net/t/03_01100_eee6miSTB2Qonkn4wEvafBxR/f800/1731875495.jpeg?s=540ec3f034b196b2b993f71079f4c698c83e9c0f",
+    "publicationDate": 1731875495,
+    "id": 5401289738
+  },
+  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5213807472-lego-42141-mclaren",
     "price": 105.7,
     "title": "Lego 42141 McLaren",
@@ -232,6 +252,7 @@
     "id": 5213807472
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5391211158-lego-42141-technic-mclaren-formula-1-2022",
     "price": 137.19,
     "title": "LEGO 42141 Technic McLaren Formula 1 2022",
@@ -240,14 +261,7 @@
     "id": 5391211158
   },
   {
-    "link": "https://www.vinted.fr/items/5399550741-lego-technic-mclaren-f1-2022-racewagen-42141",
-    "price": 137.2,
-    "title": "Lego Technic McLaren F1 2022 racewagen 42141",
-    "imgUrl": "https://images1.vinted.net/t/04_00bcd_xZj4Tn7TLsGiyqf4Aw1op85y/f800/1731862269.jpeg?s=64d7905b9344fdeb550476ab78f780db68629a6d",
-    "publicationDate": 1731862269,
-    "id": 5399550741
-  },
-  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5380463168-lego-voiture-f1-mclaren-42141",
     "price": 152.95,
     "title": "Lego voiture F1 McLaren 42141",
@@ -256,6 +270,7 @@
     "id": 5380463168
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5158825622-lego-42141-mclaren",
     "price": 147.7,
     "title": "LEGO 42141 McLaren",
@@ -264,14 +279,25 @@
     "id": 5158825622
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4610978555-lego-42141-mclaren-formule-1-compleet-met-originele-verpakking-en-handleiding-in-uitstekende-staat",
-    "price": 131.95,
+    "price": 121.45,
     "title": "Lego 42141 McLaren formule 1 compleet met originele verpakking en handleiding in uitstekende staat",
     "imgUrl": "https://images1.vinted.net/t/01_01083_pkrUZcmjEPD7SMWd2JGb7J9E/f800/1717773812.jpeg?s=f244ff9f540f5d667da97916496443c81d0d0c81",
     "publicationDate": 1717773812,
     "id": 4610978555
   },
   {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/5399550741-lego-technic-mclaren-f1-2022-racewagen-42141",
+    "price": 137.2,
+    "title": "Lego Technic McLaren F1 2022 racewagen 42141",
+    "imgUrl": "https://images1.vinted.net/t/04_00bcd_xZj4Tn7TLsGiyqf4Aw1op85y/f800/1731862269.jpeg?s=64d7905b9344fdeb550476ab78f780db68629a6d",
+    "publicationDate": 1731862269,
+    "id": 5399550741
+  },
+  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5279088070-lego-technic-f1-maclaren",
     "price": 152.95,
     "title": "Lego technic F1 macLaren",
@@ -280,6 +306,7 @@
     "id": 5279088070
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5273030336-lego-technic-mclaren-formule-1-2022-racewagen-set-voor-volwassenen-42141",
     "price": 126.7,
     "title": "LEGO Technic McLaren Formule 1 2022 Racewagen Set voor Volwassenen - 42141",
@@ -288,6 +315,7 @@
     "id": 5273030336
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5258151727-lego-technic-monoposto-mclaren-formula-1",
     "price": 142.45,
     "title": "LEGO Technic > Monoposto McLaren Formula 1",
@@ -296,6 +324,7 @@
     "id": 5258151727
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4452603834-lego-mclaren-formule-1-f1-set-42141-nieuw",
     "price": 142.45,
     "title": "LEGO McLaren Formule 1 F1 set 42141 Nieuw",
@@ -304,6 +333,7 @@
     "id": 4452603834
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5383728041-lego-technic-moto-yamaha-mt10",
     "price": 147.7,
     "title": "Lego Technic Moto Yamaha MT10",
@@ -312,14 +342,7 @@
     "id": 5383728041
   },
   {
-    "link": "https://www.vinted.fr/items/5375713878-sets-lego-scelles",
-    "price": 315.7,
-    "title": "Sets Lego scellés",
-    "imgUrl": "https://images1.vinted.net/t/04_01e1d_dN6NDKD7zkHGF9xSY6QWBSgc/f800/1731497065.jpeg?s=8740fab934e123f77c5b238f429ce0156eb2e889",
-    "publicationDate": 1731497065,
-    "id": 5375713878
-  },
-  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5354853342-lego-technic-audi",
     "price": 105.7,
     "title": "Lego Technic Audi",
@@ -328,14 +351,16 @@
     "id": 5354853342
   },
   {
-    "link": "https://www.vinted.fr/items/5305042586-lego-vespa-125",
-    "price": 84.7,
-    "title": "Lego Vespa 125",
-    "imgUrl": "https://images1.vinted.net/t/04_01ff6_KdwycHFqayY8YWa8ah8swZL3/f800/1730322356.jpeg?s=512a6d1e747fd58b0277f7ef098453ef25bae5a9",
-    "publicationDate": 1730322356,
-    "id": 5305042586
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/5375713878-sets-lego-scelles",
+    "price": 315.7,
+    "title": "Sets Lego scellés",
+    "imgUrl": "https://images1.vinted.net/t/04_01e1d_dN6NDKD7zkHGF9xSY6QWBSgc/f800/1731497065.jpeg?s=8740fab934e123f77c5b238f429ce0156eb2e889",
+    "publicationDate": 1731497065,
+    "id": 5375713878
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4832350454-lego-42141",
     "price": 151.9,
     "title": "Lego 42141",
@@ -344,6 +369,16 @@
     "id": 4832350454
   },
   {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/5305042586-lego-vespa-125",
+    "price": 84.7,
+    "title": "Lego Vespa 125",
+    "imgUrl": "https://images1.vinted.net/t/04_01ff6_KdwycHFqayY8YWa8ah8swZL3/f800/1730322356.jpeg?s=512a6d1e747fd58b0277f7ef098453ef25bae5a9",
+    "publicationDate": 1730322356,
+    "id": 5305042586
+  },
+  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5095749850-lego-mc-laren-42141",
     "price": 210.7,
     "title": "Lego Mc Laren 42141",
@@ -352,6 +387,7 @@
     "id": 5095749850
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4459815422-lego-mclaren-f1-42141",
     "price": 158.2,
     "title": "Lego Mclaren F1 42141",
@@ -360,6 +396,7 @@
     "id": 4459815422
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4449900418-lego-technic",
     "price": 126.7,
     "title": "Lego technic",
@@ -368,6 +405,7 @@
     "id": 4449900418
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5289446708-lego-42141-gomme-pirelli",
     "price": 184.45,
     "title": "Lego 42141 gomme Pirelli",
@@ -376,6 +414,7 @@
     "id": 5289446708
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4585629415-lego-42141",
     "price": 151.9,
     "title": "Lego 42141",
@@ -384,6 +423,7 @@
     "id": 4585629415
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4835037750-lego-mc-laren-f1-first-edition",
     "price": 289.45,
     "title": "Lego mc laren F1 first edition.",
@@ -392,6 +432,7 @@
     "id": 4835037750
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5335557452-lego-technic-porsche-911",
     "price": 147.7,
     "title": "Lego Technic Porsche 911",
@@ -400,14 +441,7 @@
     "id": 5335557452
   },
   {
-    "link": "https://www.vinted.fr/items/5130149701-lego-42141-mc-laren-f1-1er-edition-avec-sponsors-neuf-scelle",
-    "price": 221.2,
-    "title": "Lego 42141 - Mc Laren F1 - 1er édition (avec sponsors) - Neuf scellé",
-    "imgUrl": "https://images1.vinted.net/t/01_01038_icD38cMPSbg3yJg6op5ZZLrf/f800/1727624954.jpeg?s=13eb3c9b8335e7a99d8a5539db0c808cddc3b7c5",
-    "publicationDate": 1727624954,
-    "id": 5130149701
-  },
-  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4894011181-lego-42141-mclaren-formula-1-team-2022-1ere-edition",
     "price": 205.45,
     "title": "Lego 42141 McLaren Formula 1 Team 2022 (1ère édition)",
@@ -416,6 +450,16 @@
     "id": 4894011181
   },
   {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/5130149701-lego-42141-mc-laren-f1-1er-edition-avec-sponsors-neuf-scelle",
+    "price": 221.2,
+    "title": "Lego 42141 - Mc Laren F1 - 1er édition (avec sponsors) - Neuf scellé",
+    "imgUrl": "https://images1.vinted.net/t/01_01038_icD38cMPSbg3yJg6op5ZZLrf/f800/1727624954.jpeg?s=13eb3c9b8335e7a99d8a5539db0c808cddc3b7c5",
+    "publicationDate": 1727624954,
+    "id": 5130149701
+  },
+  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5228813496-lego-42141-technic-mclaren-f1-2022",
     "price": 173.95,
     "title": "Lego 42141 Technic Mclaren F1 2022",
@@ -424,22 +468,16 @@
     "id": 5228813496
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/3867340498-lego-technic-la-voiture-de-course-mclaren-formula-1-42141",
-    "price": 157.15,
+    "price": 146.65,
     "title": "LEGO Technic - La voiture de course McLaren Formula 1 (42141)",
     "imgUrl": "https://images1.vinted.net/t/01_02612_71BgyKzGZPYMWzhnkWJj8JYU/f800/1702218818.jpeg?s=958393ad1e52204c7393e1e883c2507086af085e",
     "publicationDate": 1702218818,
     "id": 3867340498
   },
   {
-    "link": "https://www.vinted.fr/items/5394039314-lego-technic-fusee-nasa",
-    "price": 158.2,
-    "title": "Lego Technic fusée NASA",
-    "imgUrl": "https://images1.vinted.net/t/04_01a53_Fm68o6tnb1XftBs2QFsoGB2Y/f800/1731792039.jpeg?s=c90fd9c90e9dbb9b03b201499738c2fd0b04e053",
-    "publicationDate": 1731792039,
-    "id": 5394039314
-  },
-  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5160380806-lego-technic-42141-neuf-la-mclaren-formula-1-annee-2022",
     "price": 147.7,
     "title": "LEGO Technic 42141 : NEUF - La McLaren Formula 1 - année 2022",
@@ -448,6 +486,16 @@
     "id": 5160380806
   },
   {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/5394039314-lego-technic-fusee-nasa",
+    "price": 158.2,
+    "title": "Lego Technic fusée NASA",
+    "imgUrl": "https://images1.vinted.net/t/04_01a53_Fm68o6tnb1XftBs2QFsoGB2Y/f800/1731792039.jpeg?s=c90fd9c90e9dbb9b03b201499738c2fd0b04e053",
+    "publicationDate": 1731792039,
+    "id": 5394039314
+  },
+  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5120022743-lego-mc-laren-f1-42141",
     "price": 158.2,
     "title": "Lego Mc Laren F1 42141",
@@ -456,6 +504,7 @@
     "id": 5120022743
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4233974322-lego-mclaren-f1-racewagen-42141",
     "price": 158.2,
     "title": "Lego McLaren F1 racewagen  42141",
@@ -464,6 +513,16 @@
     "id": 4233974322
   },
   {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/5308560868-lego-42141-mclaren-formula-1",
+    "price": 137.2,
+    "title": "Lego 42141 - McLaren Formula 1",
+    "imgUrl": "https://images1.vinted.net/t/02_00d68_3V3G9vLWafCJe4AsqXC6oudA/f800/1730397967.jpeg?s=7bac61c57ec646cc26b88e769453031361c17ada",
+    "publicationDate": 1730397967,
+    "id": 5308560868
+  },
+  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4462257808-lego-mclaren-f1",
     "price": 155.05,
     "title": "Lego McLaren F1",
@@ -472,6 +531,7 @@
     "id": 4462257808
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5072811278-lego-42141-mclaren-formula-1-team",
     "price": 163.45,
     "title": "Lego 42141 McLaren Formula 1 team",
@@ -480,6 +540,7 @@
     "id": 5072811278
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/3965051389-lego-mclaren-f1-42141",
     "price": 152.95,
     "title": "Lego Mclaren F1 42141",
@@ -488,6 +549,7 @@
     "id": 3965051389
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/3842745148-lego-technic-42141-f1",
     "price": 168.65,
     "title": "LEGO Technic 42141 F1",
@@ -496,6 +558,7 @@
     "id": 3842745148
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4264658519-lego-mclaren-42141-gomme-pirelli",
     "price": 210.7,
     "title": "Lego McLaren 42141 gomme Pirelli ",
@@ -504,6 +567,7 @@
     "id": 4264658519
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5305087267-lego-technic-la-debardeuse-john-deere",
     "price": 152.95,
     "title": "Lego Technic La débardeuse John Deere",
@@ -512,6 +576,7 @@
     "id": 5305087267
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4294336279-lego-42141-mclaren-formula-1-race-car-first-edition-pirelli-version",
     "price": 205.45,
     "title": "LEGO 42141 McLaren Formula 1 Race Car First Edition Pirelli Version!",
@@ -520,6 +585,7 @@
     "id": 4294336279
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/3876923143-lego-42141-formula-1-natale-technic-mclaren",
     "price": 167.65,
     "title": "LEGO 42141 formula 1 - Natale technic McLaren",
@@ -528,6 +594,7 @@
     "id": 3876923143
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4297990270-lego-42141-mc-laren-f1-team-2022-prima-versione-pirelli-nuovo",
     "price": 236.95,
     "title": "Lego 42141 MC laren F1 team 2022 prima versione Pirelli nuovo ",
@@ -536,6 +603,7 @@
     "id": 4297990270
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/2734419952-lego-mclaren-pirelli-technic-42141",
     "price": 200.2,
     "title": "Lego McLaren Pirelli Technic 42141 ",
@@ -544,14 +612,7 @@
     "id": 2734419952
   },
   {
-    "link": "https://www.vinted.fr/items/2909190016-lego-technic-carro-de-corrida-mclaren-formula-1-42141",
-    "price": 179.2,
-    "title": "LEGO Technic Carro de Corrida McLaren Fórmula 1 42141",
-    "imgUrl": "https://images1.vinted.net/t/01_002ee_nbxxoZJAv1Xpbrg48GxLTkg9/f800/1681641366.jpeg?s=360e86f45c501aa23d18fa05a87196f8dd0b9885",
-    "publicationDate": 1681641366,
-    "id": 2909190016
-  },
-  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4759860294-lego-42141-monoposto-mclaren-formula-1",
     "price": 209.65,
     "title": "LEGO 42141 Monoposto McLaren Formula 1",
@@ -560,6 +621,7 @@
     "id": 4759860294
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/3463328234-mclaren-f1-2022-misb-42141",
     "price": 158.2,
     "title": "McLaren F1 2022 MISB 42141",
@@ -568,6 +630,16 @@
     "id": 3463328234
   },
   {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/2909190016-lego-technic-carro-de-corrida-mclaren-formula-1-42141",
+    "price": 179.2,
+    "title": "LEGO Technic Carro de Corrida McLaren Fórmula 1 42141",
+    "imgUrl": "https://images1.vinted.net/t/01_002ee_nbxxoZJAv1Xpbrg48GxLTkg9/f800/1681641366.jpeg?s=360e86f45c501aa23d18fa05a87196f8dd0b9885",
+    "publicationDate": 1681641366,
+    "id": 2909190016
+  },
+  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/3014168127-lego-s-42141",
     "price": 205.45,
     "title": "Lego s 42141",
@@ -576,6 +648,7 @@
     "id": 3014168127
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/3509105234-lego-formula-1-mclaren-42141-team-2022-race-car-versione-with-pirelli-tyres-out-of-production",
     "price": 341.95,
     "title": "LEGO Formula 1 McLaren 42141 - Team 2022 Race Car Versione with Pirelli tyres!! Out of production",
@@ -584,6 +657,7 @@
     "id": 3509105234
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4700501642-lego-42141-mclaren-formula-1-team-2022",
     "price": 205.45,
     "title": "Lego 42141 McLaren Formula 1 Team 2022",
@@ -592,6 +666,7 @@
     "id": 4700501642
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/3792073809-lego-42141",
     "price": 176.05,
     "title": "Lego 42141",
@@ -600,6 +675,7 @@
     "id": 3792073809
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/5147541408-brown-box-3-lego-mclaren-42141-pirelli-misb",
     "price": 673.2,
     "title": "Brown Box 3 Lego McLaren 42141 Pirelli MISB",
@@ -608,6 +684,7 @@
     "id": 5147541408
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/3937752439-lego-42141-mclaren-f1-pirelli-edition-rare-first-edition-technic",
     "price": 210.7,
     "title": "Lego 42141 McLaren F1 Pirelli edition (rare first edition) Technic",
@@ -616,14 +693,7 @@
     "id": 3937752439
   },
   {
-    "link": "https://www.vinted.fr/items/1786338991-lego-42141-ferrari-mclaren-2022",
-    "price": 221.2,
-    "title": "Lego 42141 Ferrari McLaren 2022",
-    "imgUrl": "https://images1.vinted.net/t/03_015f2_m7XYjyy3MqdHAxBXr7CRRSB3/f800/1650821291.jpeg?s=5d1165a6bf21769f3d9c514835622c690d2ee5cb",
-    "publicationDate": 1650821291,
-    "id": 1786338991
-  },
-  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/3707723517-lego-42141-technic-coche-de-carreras-mclaren-formula-1",
     "price": 157.15,
     "title": "LEGO 42141 Technic Coche de Carreras McLaren Formula 1,",
@@ -632,6 +702,7 @@
     "id": 3707723517
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4016741826-lego-technic-mclaren-formule-1-racewagen-42141",
     "price": 152.95,
     "title": "LEGO Technic McLaren Formule 1 Racewagen - 42141-",
@@ -640,6 +711,16 @@
     "id": 4016741826
   },
   {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/1786338991-lego-42141-ferrari-mclaren-2022",
+    "price": 221.2,
+    "title": "Lego 42141 Ferrari McLaren 2022",
+    "imgUrl": "https://images1.vinted.net/t/03_015f2_m7XYjyy3MqdHAxBXr7CRRSB3/f800/1650821291.jpeg?s=5d1165a6bf21769f3d9c514835622c690d2ee5cb",
+    "publicationDate": 1650821291,
+    "id": 1786338991
+  },
+  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/3775025569-lego-technics-mclaren-f1",
     "price": 236.95,
     "title": "Lego Technics Mclaren F1 ",
@@ -648,6 +729,7 @@
     "id": 3775025569
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4196705853-lego-42141-mclaren-formula-1",
     "price": 189.7,
     "title": "Lego 42141 McLaren formula 1 ",
@@ -656,6 +738,7 @@
     "id": 4196705853
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4309140760-lego-monoposto-mclaren-formula-1-42141-misb",
     "price": 210.7,
     "title": "LEGO Monoposto McLaren Formula 1  42141 MISB",
@@ -664,6 +747,7 @@
     "id": 4309140760
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4422755426-lego-technic-42141-mclaren-formule-1-first-edition-collector-pirelli-first-print",
     "price": 200.19,
     "title": "Lego Technic 42141 McLaren Formule 1 First Édition Collector Pirelli First Print",
@@ -672,6 +756,7 @@
     "id": 4422755426
   },
   {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/1887135584-lego-42141-mclaren-prima-serie-pirelli",
     "price": 262.15,
     "title": "Lego 42141 McLaren prima serie (Pirelli)",
@@ -680,14 +765,7 @@
     "id": 1887135584
   },
   {
-    "link": "https://www.vinted.fr/items/1923220928-lego-42141-mclaren-f1",
-    "price": 210.7,
-    "title": "Lego 42141 McLaren F1 ",
-    "imgUrl": "https://images1.vinted.net/t/02_00c28_MmCMnezQnwMvUhrMxfGdVbHF/f800/1653945373.jpeg?s=14d419008147be406d48f6f139c1a43efec568a2",
-    "publicationDate": 1653945373,
-    "id": 1923220928
-  },
-  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/4646440073-lego-42141-carro-de-corrida-mclaren-formula-edicao-pirelli",
     "price": 273.7,
     "title": "Lego 42141 - Carro de Corrida McLaren Fórmula - Edição Pirelli",
@@ -696,6 +774,16 @@
     "id": 4646440073
   },
   {
+    "legoId": "42141",
+    "link": "https://www.vinted.fr/items/1923220928-lego-42141-mclaren-f1",
+    "price": 210.7,
+    "title": "Lego 42141 McLaren F1 ",
+    "imgUrl": "https://images1.vinted.net/t/02_00c28_MmCMnezQnwMvUhrMxfGdVbHF/f800/1653945373.jpeg?s=14d419008147be406d48f6f139c1a43efec568a2",
+    "publicationDate": 1653945373,
+    "id": 1923220928
+  },
+  {
+    "legoId": "42141",
     "link": "https://www.vinted.fr/items/3246526934-lego-formula-1-f1-mclaren-42141",
     "price": 612,
     "title": "Lego formula 1 F1 Mclaren 42141 ",

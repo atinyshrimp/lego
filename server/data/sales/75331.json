@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/5144246921-lego-star-wars-baby-yoda-sw1113-neuf",
     "price": 7.95,
     "title": "Lego star wars baby yoda sw1113 neuf",
@@ -8,6 +9,7 @@
     "id": 5144246921
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/3481823748-sticker-ucs-razor-crest-75331",
     "price": 5.95,
     "title": "Sticker UCS razor crest 75331",
@@ -16,6 +18,7 @@
     "id": 3481823748
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/5291529714-lego-75331-mandalorian",
     "price": 21.7,
     "title": "Lego 75331 mandalorian",
@@ -24,6 +27,7 @@
     "id": 5291529714
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/5370093065-lego-star-wars",
     "price": 473.2,
     "title": "Lego star wars",
@@ -32,6 +36,7 @@
     "id": 5370093065
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/5155625155-lego-star-wars-lot-visieres-telemetres-neuf",
     "price": 1.96,
     "title": "Lego star wars lot visières télèmetres neuf",
@@ -40,6 +45,7 @@
     "id": 5155625155
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/5270485739-the-razor-crest-compatible-con-lego-75331",
     "price": 273.7,
     "title": "The Razor Crest compatible con Lego 75331",
@@ -48,6 +54,7 @@
     "id": 5270485739
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/4557067303-tete-lego-star-wars-sw1244-set-ucs-75331",
     "price": 22.74,
     "title": "Tête lego Star Wars sw1244 set UCS 75331",
@@ -56,6 +63,7 @@
     "id": 4557067303
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/5345464276-razor-crest-lego-star-wars-75331",
     "price": 509.95,
     "title": "Razor Crest Lego Star Wars 75331",
@@ -64,6 +72,7 @@
     "id": 5345464276
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/5395565378-lego-75331-star-wars-razor-crest",
     "price": 550.8,
     "title": "Lego 75331 star wars razor crest",
@@ -72,6 +81,7 @@
     "id": 5395565378
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/4771807956-lego-blurrg-ucs-75331",
     "price": 58.45,
     "title": "Lego Blurrg UCS 75331",
@@ -80,6 +90,7 @@
     "id": 4771807956
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/5343631810-lego-75331",
     "price": 550.8,
     "title": "Lego 75331",
@@ -88,6 +99,7 @@
     "id": 5343631810
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/4692318170-lego-star-wars-75331",
     "price": 74.2,
     "title": "Lego star wars 75331",
@@ -96,6 +108,7 @@
     "id": 4692318170
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/5196101383-razor-crest-lego-75331",
     "price": 483.7,
     "title": "Razor Crest Lego 75331",
@@ -104,6 +117,7 @@
     "id": 5196101383
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/5267467136-lego-75331-nave-estelar",
     "price": 504.7,
     "title": "Lego 75331 nave estelar",
@@ -112,6 +126,7 @@
     "id": 5267467136
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/2600869863-lego-star-wars-the-mandalorian-kuiil-minifigure-set-75331",
     "price": 74.2,
     "title": "Lego Star Wars The Mandalorian - Kuiil minifigure - set 75331",
@@ -120,14 +135,7 @@
     "id": 2600869863
   },
   {
-    "link": "https://www.vinted.fr/items/4198636010-lego-75331-razor-crest",
-    "price": 524.65,
-    "title": "Lego 75331 - Razor Crest",
-    "imgUrl": "https://images1.vinted.net/t/03_025c0_NxKCZ4dW2uuMrpRDjyw7nkXy/f800/1709953964.jpeg?s=d6ac6ab29fe3ba2af022851fcb2316af54aaedb3",
-    "publicationDate": 1709953964,
-    "id": 4198636010
-  },
-  {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/2948722175-figura-lego-star-wars-mythrol-75331",
     "price": 58.45,
     "title": "Figura Lego Star Wars Mythrol 75331",
@@ -136,14 +144,16 @@
     "id": 2948722175
   },
   {
-    "link": "https://www.vinted.fr/items/5179570883-lego-the-razor-crest",
-    "price": 510,
-    "title": "Lego The Razor Crest",
-    "imgUrl": "https://images1.vinted.net/t/03_00e4c_XPdUhQHUrrGUbtjRGE5WrYuM/f800/1728348727.jpeg?s=bfc06080f4d06d37e9757dd96df643d7725526db",
-    "publicationDate": 1728348727,
-    "id": 5179570883
+    "legoId": "75331",
+    "link": "https://www.vinted.fr/items/4198636010-lego-75331-razor-crest",
+    "price": 524.65,
+    "title": "Lego 75331 - Razor Crest",
+    "imgUrl": "https://images1.vinted.net/t/03_025c0_NxKCZ4dW2uuMrpRDjyw7nkXy/f800/1709953964.jpeg?s=d6ac6ab29fe3ba2af022851fcb2316af54aaedb3",
+    "publicationDate": 1709953964,
+    "id": 4198636010
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/5341309423-lego-75331-razor-crest",
     "price": 683.4,
     "title": "Lego 75331 razor crest",
@@ -152,6 +162,16 @@
     "id": 5341309423
   },
   {
+    "legoId": "75331",
+    "link": "https://www.vinted.fr/items/5179570883-lego-the-razor-crest",
+    "price": 510,
+    "title": "Lego The Razor Crest",
+    "imgUrl": "https://images1.vinted.net/t/03_00e4c_XPdUhQHUrrGUbtjRGE5WrYuM/f800/1728348727.jpeg?s=bfc06080f4d06d37e9757dd96df643d7725526db",
+    "publicationDate": 1728348727,
+    "id": 5179570883
+  },
+  {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/4724857284-lego-75331",
     "price": 510,
     "title": "Lego 75331",
@@ -160,6 +180,7 @@
     "id": 4724857284
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/4691566994-lego-75331",
     "price": 510,
     "title": "Lego 75331",
@@ -168,6 +189,7 @@
     "id": 4691566994
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/4766117417-lego-star-wars-the-razor-crest-75331",
     "price": 550.8,
     "title": "Lego Star Wars the razor crest 75331",
@@ -176,6 +198,7 @@
     "id": 4766117417
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/4867004881-lego-star-wars-razor-crest-ultimate-collectors-series-75331",
     "price": 515.2,
     "title": "Lego Star Wars Razor Crest Ultimate collectors series 75331",
@@ -184,6 +207,7 @@
     "id": 4867004881
   },
   {
+    "legoId": "75331",
     "link": "https://www.vinted.fr/items/4857824196-lego-star-wars-razor-crest-ultimate-collectors-series-75331",
     "price": 520.45,
     "title": "Lego Star Wars Razor Crest Ultimate collectors series 75331",

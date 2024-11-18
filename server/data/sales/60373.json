@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/5258778728-boite-lego-neuve-60373",
     "price": 14.88,
     "title": "Boite Lego neuve 60373",
@@ -8,6 +9,7 @@
     "id": 5258778728
   },
   {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/5356194565-lego-bateau-de-sauvetage-60373",
     "price": 9.1,
     "title": "Lego bateau de sauvetage 60373",
@@ -16,6 +18,7 @@
     "id": 5356194565
   },
   {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/5284667102-lego-city-60373",
     "price": 9.1,
     "title": "Lego city 60373",
@@ -24,14 +27,7 @@
     "id": 5284667102
   },
   {
-    "link": "https://www.vinted.fr/items/4692596111-lego-city-60373",
-    "price": 16.45,
-    "title": "Lego city 60373",
-    "imgUrl": "https://images1.vinted.net/t/03_0006b_TAEhQSnLYPUDqdoeJywrKpUZ/f800/1719472081.jpeg?s=e71b67090781046b3b7f6fce48032387e6385421",
-    "publicationDate": 1719472081,
-    "id": 4692596111
-  },
-  {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/5324067190-doos-van-lego-city-set-60373",
     "price": 2.8,
     "title": "Doos van Lego city set 60373",
@@ -40,6 +36,7 @@
     "id": 5324067190
   },
   {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/4932210507-lego-60373",
     "price": 9.1,
     "title": "Lego 60373",
@@ -48,6 +45,7 @@
     "id": 4932210507
   },
   {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/5055857482-lego-60373-sauvetage-en-mer",
     "price": 11.2,
     "title": "Lego 60373 sauvetage en mer",
@@ -56,6 +54,7 @@
     "id": 5055857482
   },
   {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/4165939524-lego-60373",
     "price": 21.18,
     "title": "Lego 60373",
@@ -64,6 +63,7 @@
     "id": 4165939524
   },
   {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/5279174908-barca-di-soccorso-antincendio-dei-vigili-del-fuoco-lego-60373",
     "price": 15.4,
     "title": "Barca di soccorso antincendio dei vigili del fuoco lego 60373",
@@ -72,6 +72,7 @@
     "id": 5279174908
   },
   {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/5365817519-lego-city-bateau-de-sauvetage-60373",
     "price": 13.3,
     "title": "Lego city bateau de sauvetage 60373",
@@ -80,22 +81,7 @@
     "id": 5365817519
   },
   {
-    "link": "https://www.vinted.fr/items/5095903967-lego-city-boats-float-n-60373-neuf",
-    "price": 16.44,
-    "title": "Lego City Boats Float N 60373 Neuf",
-    "imgUrl": "https://images1.vinted.net/t/01_00755_7QwiGBza9d8AnQ2t6AQgkjhV/f800/1727107006.jpeg?s=d7c3e792284e879bda7b572ab804211ac61c70a8",
-    "publicationDate": 1727107006,
-    "id": 5095903967
-  },
-  {
-    "link": "https://www.vinted.fr/items/5272955975-lego-feuerwehr-boot",
-    "price": 16.45,
-    "title": "Lego Feuerwehr Boot",
-    "imgUrl": "https://images1.vinted.net/t/03_01d4d_yaHVwCHQF9mN5m9cGPTw5a7o/f800/1729798280.jpeg?s=5e276c18337d1d3051692f211e39d5dd7a51d397",
-    "publicationDate": 1729798280,
-    "id": 5272955975
-  },
-  {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/5270941401-lego-scatola-vuote",
     "price": 10.15,
     "title": "Lego scatola VUOTE",
@@ -104,150 +90,16 @@
     "id": 5270941401
   },
   {
-    "link": "https://www.vinted.fr/items/5259097394-lego-city-60373-5-le-bateau-de-sauvetage-des-pompiers",
-    "price": 19.6,
-    "title": "LEGO City 60373 5+ le bateau de sauvetage des pompiers",
-    "imgUrl": "https://images1.vinted.net/t/02_01913_ELCKCsmc8UXGytaEQrwFwMxd/f800/1729586663.jpeg?s=7b095b216e2345e556f06245e66ad185444d8c57",
-    "publicationDate": 1729586663,
-    "id": 5259097394
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5095903967-lego-city-boats-float-n-60373-neuf",
+    "price": 16.44,
+    "title": "Lego City Boats Float N 60373 Neuf",
+    "imgUrl": "https://images1.vinted.net/t/01_00755_7QwiGBza9d8AnQ2t6AQgkjhV/f800/1727107006.jpeg?s=d7c3e792284e879bda7b572ab804211ac61c70a8",
+    "publicationDate": 1727107006,
+    "id": 5095903967
   },
   {
-    "link": "https://www.vinted.fr/items/4464747973-lego-cite-60373-bateau-spider",
-    "price": 16.45,
-    "title": "Lego cité 60373 - Bateau spider",
-    "imgUrl": "https://images1.vinted.net/t/01_01dbb_LHCpffgNWHNpGb6xQnTDpVjy/f800/1714984522.jpeg?s=1cfc1c156126162d1e8922840a059e16de7f09aa",
-    "publicationDate": 1714984522,
-    "id": 4464747973
-  },
-  {
-    "link": "https://www.vinted.fr/items/5394128312-lego-barca-60373",
-    "price": 16.45,
-    "title": "Lego barca 60373",
-    "imgUrl": "https://images1.vinted.net/t/01_0253b_9Kh9HNWud3yMSBFWnfvTghbw/f800/1731793558.jpeg?s=c864a7884179b75f4b1d3bf327d1208166eb195f",
-    "publicationDate": 1731793558,
-    "id": 5394128312
-  },
-  {
-    "link": "https://www.vinted.fr/items/3856056209-lego-60373",
-    "price": 16.45,
-    "title": "Lego 60373",
-    "imgUrl": "https://images1.vinted.net/t/02_01d74_yY1KBK7Ayq51ER1q746xCaLs/f800/1701963174.jpeg?s=3f6597ec2c3914a9a5e1afbfc1014fd20ed27b36",
-    "publicationDate": 1701963174,
-    "id": 3856056209
-  },
-  {
-    "link": "https://www.vinted.fr/items/5312241270-lego-city-60373",
-    "price": 16.45,
-    "title": "Lego city 60373",
-    "imgUrl": "https://images1.vinted.net/t/03_00c9d_LDnTFipbuJnaTm7tQ4n8JWRd/f800/1730473795.jpeg?s=a05931ebc61aaf0907d7c9966691b375ea720afd",
-    "publicationDate": 1730473795,
-    "id": 5312241270
-  },
-  {
-    "link": "https://www.vinted.fr/items/3863018380-lego-city-boats-float-60373",
-    "price": 15.4,
-    "title": "Lego City Boats Float 60373",
-    "imgUrl": "https://images1.vinted.net/t/03_0093d_5uQDKkaqxc1edNSeVgsx6mLF/f800/1702132923.jpeg?s=5811c317991916352dfffc9abf26335e97e026e6",
-    "publicationDate": 1702132923,
-    "id": 3863018380
-  },
-  {
-    "link": "https://www.vinted.fr/items/5378028873-lego-60373",
-    "price": 11.2,
-    "title": "LEGO 60373",
-    "imgUrl": "https://images1.vinted.net/t/03_00734_z9TpuvvBmcm1poXT34YN4ZJA/f800/1731519162.jpeg?s=941ebd02f2d929978b226182461743c50775f570",
-    "publicationDate": 1731519162,
-    "id": 5378028873
-  },
-  {
-    "link": "https://www.vinted.fr/items/5001586567-lego-city-60373",
-    "price": 15.4,
-    "title": "Lego City 60373",
-    "imgUrl": "https://images1.vinted.net/t/02_00d41_HrCikNDKHhB1gk8dFxK1HN7Y/f800/1725724660.jpeg?s=4eadf2b45d849ffcca42a1555e6f2062f2e164df",
-    "publicationDate": 1725724660,
-    "id": 5001586567
-  },
-  {
-    "link": "https://www.vinted.fr/items/5256356119-lego-60373-le-bateau-de-sauvetage-des-pompiers",
-    "price": 21.7,
-    "title": "LEGO 60373 Le bateau de sauvetage des pompiers",
-    "imgUrl": "https://images1.vinted.net/t/02_0167d_rCKufiBHgnaJe4bEW3LqPHRW/f800/1729524942.jpeg?s=175440a2f836c8d75744629a846ccc7f78b443e6",
-    "publicationDate": 1729524942,
-    "id": 5256356119
-  },
-  {
-    "link": "https://www.vinted.fr/items/4941467939-compleet-set-lego-60373",
-    "price": 16.45,
-    "title": "Compleet set Lego 60373",
-    "imgUrl": "https://images1.vinted.net/t/01_014a6_dxeNfwCwbC9xrLsofLUhi9WL/f800/1724673777.jpeg?s=5e3965ad80e6decf11489e60d48d9e267550c288",
-    "publicationDate": 1724673777,
-    "id": 4941467939
-  },
-  {
-    "link": "https://www.vinted.fr/items/5384866370-lego-city-60373-pompieri",
-    "price": 16.45,
-    "title": "Lego city 60373 pompieri",
-    "imgUrl": "https://images1.vinted.net/t/04_021f8_q77VPzAzxR9UmadZg7WmKzGv/f800/1731662325.jpeg?s=e5818ea566540744d7a4a677031041def467f420",
-    "publicationDate": 1731662325,
-    "id": 5384866370
-  },
-  {
-    "link": "https://www.vinted.fr/items/5389742565-lego-60405-et-60373",
-    "price": 32.2,
-    "title": "Lego 60405 et 60373",
-    "imgUrl": "https://images1.vinted.net/t/04_024ad_VSUM1c6MxGBNKhDpABaPUvb7/f800/1731752923.jpeg?s=ae3afd226ec9f42b8ef08d3d386e9ddb580868ac",
-    "publicationDate": 1731752923,
-    "id": 5389742565
-  },
-  {
-    "link": "https://www.vinted.fr/items/4940497525-lego-city-60373",
-    "price": 16.35,
-    "title": "Lego City 60373",
-    "imgUrl": "https://images1.vinted.net/t/02_000e5_roT8awUT9Pdk845farxRipsT/f800/1724664604.jpeg?s=2aeafd0d9a13d7d4109b38c51ba42e144102ae45",
-    "publicationDate": 1724664604,
-    "id": 4940497525
-  },
-  {
-    "link": "https://www.vinted.fr/items/4935295546-lego-city-60373",
-    "price": 16.45,
-    "title": "Lego city 60373",
-    "imgUrl": "https://images1.vinted.net/t/01_025fe_7sdfcbU5XLzJ3j7q32a93pmU/f800/1724582718.jpeg?s=dcbc12e2ba04f4392a13250c8c4a5ea2ce405da1",
-    "publicationDate": 1724582718,
-    "id": 4935295546
-  },
-  {
-    "link": "https://www.vinted.fr/items/4941444903-lego-60373",
-    "price": 19.6,
-    "title": "Lego 60373",
-    "imgUrl": "https://images1.vinted.net/t/03_0166d_4SXWiuZCV5ANPFQhWjaFWAHH/f800/1724673576.jpeg?s=0aa176a8b978de4cf8430798eebee177d819e8a5",
-    "publicationDate": 1724673576,
-    "id": 4941444903
-  },
-  {
-    "link": "https://www.vinted.fr/items/4431175577-lego-60373",
-    "price": 11.2,
-    "title": "Lego 60373",
-    "imgUrl": "https://images1.vinted.net/t/02_0245f_4NhMuWNTg3bMrhC6QRVLsr6v/f800/1714327821.jpeg?s=1456d8c49540d89e06d271b1dddcb9ce821f7505",
-    "publicationDate": 1714327821,
-    "id": 4431175577
-  },
-  {
-    "link": "https://www.vinted.fr/items/4087190873-lego-city-60373",
-    "price": 17.5,
-    "title": "Lego city 60373",
-    "imgUrl": "https://images1.vinted.net/t/03_01223_Rw6J8yqqmzKctn4xMCDhxF6N/f800/1707648062.jpeg?s=cc1889dfd5a682d24c13b24e1d19209a5980ad81",
-    "publicationDate": 1707648062,
-    "id": 4087190873
-  },
-  {
-    "link": "https://www.vinted.fr/items/4089307970-lego-60373",
-    "price": 15.4,
-    "title": "Lego 60373",
-    "imgUrl": "https://images1.vinted.net/t/03_01fdc_GoURHYuLhjYnTtSQWrVGue1s/f800/1707664949.jpeg?s=bdeed15c9c2459f7fdae749f677255dbcd1eb43d",
-    "publicationDate": 1707664949,
-    "id": 4089307970
-  },
-  {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/5403576888-lego-city-60373",
     "price": 15.4,
     "title": "Lego city 60373",
@@ -256,94 +108,187 @@
     "id": 5403576888
   },
   {
-    "link": "https://www.vinted.fr/items/4620487111-lego-60373",
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5272955975-lego-feuerwehr-boot",
+    "price": 16.45,
+    "title": "Lego Feuerwehr Boot",
+    "imgUrl": "https://images1.vinted.net/t/03_01d4d_yaHVwCHQF9mN5m9cGPTw5a7o/f800/1729798280.jpeg?s=5e276c18337d1d3051692f211e39d5dd7a51d397",
+    "publicationDate": 1729798280,
+    "id": 5272955975
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5259097394-lego-city-60373-5-le-bateau-de-sauvetage-des-pompiers",
+    "price": 19.6,
+    "title": "LEGO City 60373 5+ le bateau de sauvetage des pompiers",
+    "imgUrl": "https://images1.vinted.net/t/02_01913_ELCKCsmc8UXGytaEQrwFwMxd/f800/1729586663.jpeg?s=7b095b216e2345e556f06245e66ad185444d8c57",
+    "publicationDate": 1729586663,
+    "id": 5259097394
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/4464747973-lego-cite-60373-bateau-spider",
+    "price": 16.45,
+    "title": "Lego cité 60373 - Bateau spider",
+    "imgUrl": "https://images1.vinted.net/t/01_01dbb_LHCpffgNWHNpGb6xQnTDpVjy/f800/1714984522.jpeg?s=1cfc1c156126162d1e8922840a059e16de7f09aa",
+    "publicationDate": 1714984522,
+    "id": 4464747973
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5312241270-lego-city-60373",
+    "price": 16.45,
+    "title": "Lego city 60373",
+    "imgUrl": "https://images1.vinted.net/t/03_00c9d_LDnTFipbuJnaTm7tQ4n8JWRd/f800/1730473795.jpeg?s=a05931ebc61aaf0907d7c9966691b375ea720afd",
+    "publicationDate": 1730473795,
+    "id": 5312241270
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/3856056209-lego-60373",
     "price": 16.45,
     "title": "Lego 60373",
-    "imgUrl": "https://images1.vinted.net/t/02_00ef4_J3r2Hf4V3Xozv1kbKyyGWBP7/f800/1717952867.jpeg?s=79d920ecd0052438a4814f32a75169eedaed3ba8",
-    "publicationDate": 1717952867,
-    "id": 4620487111
+    "imgUrl": "https://images1.vinted.net/t/02_01d74_yY1KBK7Ayq51ER1q746xCaLs/f800/1701963174.jpeg?s=3f6597ec2c3914a9a5e1afbfc1014fd20ed27b36",
+    "publicationDate": 1701963174,
+    "id": 3856056209
   },
   {
-    "link": "https://www.vinted.fr/items/5234067169-lego-city-60373-feuerwehrboot",
-    "price": 12.25,
-    "title": "Lego City 60373 Feuerwehrboot",
-    "imgUrl": "https://images1.vinted.net/t/03_00caf_fTjdyv7GLqjbpr8LqMsKMmW7/f800/1729187738.jpeg?s=4f1c7c8baf4693420e819241ecef5a186642c3c3",
-    "publicationDate": 1729187738,
-    "id": 5234067169
-  },
-  {
-    "link": "https://www.vinted.fr/items/5320958583-lego-city",
-    "price": 13.3,
-    "title": "Lego city",
-    "imgUrl": "https://images1.vinted.net/t/04_01b68_Q7n8cEjZtd7aUQPECzr1EVQL/f800/1730629261.jpeg?s=926db248232db4dc3b58e6d7f2960f65dba7b782",
-    "publicationDate": 1730629261,
-    "id": 5320958583
-  },
-  {
-    "link": "https://www.vinted.fr/items/5264419694-lego-city-ndeg60373",
-    "price": 13.3,
-    "title": "Lego city n°60373",
-    "imgUrl": "https://images1.vinted.net/t/03_024a2_uSVn4xzWeNAKyvLtVkGVAjm8/f800/1729675018.jpeg?s=4f77d77d43a1b2ee9d859272ae60625e602861b4",
-    "publicationDate": 1729675018,
-    "id": 5264419694
-  },
-  {
-    "link": "https://www.vinted.fr/items/4926835750-lego-city-60373-le-bateau-de-sauvetage-des-pompiers",
-    "price": 16.45,
-    "title": "Lego City 60373, le bateau de sauvetage des pompiers",
-    "imgUrl": "https://images1.vinted.net/t/03_02693_VPK9TK5wbqnJ8JJCDhckhA3m/f800/1724417634.jpeg?s=79f762186be980d5be57a9f983b5373fee6c7c36",
-    "publicationDate": 1724417634,
-    "id": 4926835750
-  },
-  {
-    "link": "https://www.vinted.fr/items/5387179925-lego-city-60373",
-    "price": 18.55,
-    "title": "Lego city 60373",
-    "imgUrl": "https://images1.vinted.net/t/04_0021f_844pw6YtW3PTCXdJjp358HCs/f800/1731687760.jpeg?s=47b46b5146e6cb6036e5255056d678b3ba965766",
-    "publicationDate": 1731687760,
-    "id": 5387179925
-  },
-  {
-    "link": "https://www.vinted.fr/items/5346234090-lego-reddingsboot-brandweer",
-    "price": 16.45,
-    "title": "Lego reddingsboot brandweer",
-    "imgUrl": "https://images1.vinted.net/t/04_00b29_kWjGhkEFeC4UDXNYsmFLP9Z9/f800/1731052977.jpeg?s=bd7e1a5daa079e87055e0e00b8690843bac2b1c2",
-    "publicationDate": 1731052977,
-    "id": 5346234090
-  },
-  {
-    "link": "https://www.vinted.fr/items/3673184622-lego-60373-fire-boat",
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/3863018380-lego-city-boats-float-60373",
     "price": 15.4,
-    "title": "Lego 60373, fire boat ",
-    "imgUrl": "https://images1.vinted.net/t/03_02047_ukoepd7noWgQXwHKVsxeKh1v/f800/1698423977.jpeg?s=55801d1c156c47856f9c674614b7f3162fabd0fa",
-    "publicationDate": 1698423977,
-    "id": 3673184622
+    "title": "Lego City Boats Float 60373",
+    "imgUrl": "https://images1.vinted.net/t/03_0093d_5uQDKkaqxc1edNSeVgsx6mLF/f800/1702132923.jpeg?s=5811c317991916352dfffc9abf26335e97e026e6",
+    "publicationDate": 1702132923,
+    "id": 3863018380
   },
   {
-    "link": "https://www.vinted.fr/items/3644953767-lego-city-la-barca-di-salvataggio-dei-pompieri-jetpack-e-minifigurine",
-    "price": 20.55,
-    "title": "Lego City  La barca di salvataggio dei pompieri jetpack e minifigurine",
-    "imgUrl": "https://images1.vinted.net/t/03_016cd_LCroqwUz2HkbWyw1zrs3mR8d/f800/1697963347.jpeg?s=dbb775422ffebe30db0aa11e5d7b5eb81b936b1b",
-    "publicationDate": 1697963347,
-    "id": 3644953767
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5394128312-lego-barca-60373",
+    "price": 16.45,
+    "title": "Lego barca 60373",
+    "imgUrl": "https://images1.vinted.net/t/01_0253b_9Kh9HNWud3yMSBFWnfvTghbw/f800/1731793558.jpeg?s=c864a7884179b75f4b1d3bf327d1208166eb195f",
+    "publicationDate": 1731793558,
+    "id": 5394128312
   },
   {
-    "link": "https://www.vinted.fr/items/4786298244-lego-60373-le-bateau-de-sauvetage",
-    "price": 20.13,
-    "title": "Lego 60373 Le bateau de sauvetage",
-    "imgUrl": "https://images1.vinted.net/t/02_01944_x1n24nxVGA8gDUqA9AbKEmMq/f800/1721474110.jpeg?s=7b360190f004aec1a443d4eaee06f935ba11e603",
-    "publicationDate": 1721474110,
-    "id": 4786298244
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5001586567-lego-city-60373",
+    "price": 15.4,
+    "title": "Lego City 60373",
+    "imgUrl": "https://images1.vinted.net/t/02_00d41_HrCikNDKHhB1gk8dFxK1HN7Y/f800/1725724660.jpeg?s=4eadf2b45d849ffcca42a1555e6f2062f2e164df",
+    "publicationDate": 1725724660,
+    "id": 5001586567
   },
   {
-    "link": "https://www.vinted.fr/items/5075162541-lego-city-60373-nieuw-in-verpakking",
-    "price": 21.69,
-    "title": "LEGO City # 60373 nieuw in verpakking",
-    "imgUrl": "https://images1.vinted.net/t/01_01a04_LuVCNdwhnnPPwA55pwQG9BMq/f800/1726824441.jpeg?s=6f24b420cd37ae2c9212fde0cd09003cbace968e",
-    "publicationDate": 1726824441,
-    "id": 5075162541
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5378028873-lego-60373",
+    "price": 11.2,
+    "title": "LEGO 60373",
+    "imgUrl": "https://images1.vinted.net/t/03_00734_z9TpuvvBmcm1poXT34YN4ZJA/f800/1731519162.jpeg?s=941ebd02f2d929978b226182461743c50775f570",
+    "publicationDate": 1731519162,
+    "id": 5378028873
   },
   {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/4941467939-compleet-set-lego-60373",
+    "price": 16.45,
+    "title": "Compleet set Lego 60373",
+    "imgUrl": "https://images1.vinted.net/t/01_014a6_dxeNfwCwbC9xrLsofLUhi9WL/f800/1724673777.jpeg?s=5e3965ad80e6decf11489e60d48d9e267550c288",
+    "publicationDate": 1724673777,
+    "id": 4941467939
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5384866370-lego-city-60373-pompieri",
+    "price": 16.45,
+    "title": "Lego city 60373 pompieri",
+    "imgUrl": "https://images1.vinted.net/t/04_021f8_q77VPzAzxR9UmadZg7WmKzGv/f800/1731662325.jpeg?s=e5818ea566540744d7a4a677031041def467f420",
+    "publicationDate": 1731662325,
+    "id": 5384866370
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/4940497525-lego-city-60373",
+    "price": 16.35,
+    "title": "Lego City 60373",
+    "imgUrl": "https://images1.vinted.net/t/02_000e5_roT8awUT9Pdk845farxRipsT/f800/1724664604.jpeg?s=2aeafd0d9a13d7d4109b38c51ba42e144102ae45",
+    "publicationDate": 1724664604,
+    "id": 4940497525
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5256356119-lego-60373-le-bateau-de-sauvetage-des-pompiers",
+    "price": 21.7,
+    "title": "LEGO 60373 Le bateau de sauvetage des pompiers",
+    "imgUrl": "https://images1.vinted.net/t/02_0167d_rCKufiBHgnaJe4bEW3LqPHRW/f800/1729524942.jpeg?s=175440a2f836c8d75744629a846ccc7f78b443e6",
+    "publicationDate": 1729524942,
+    "id": 5256356119
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/4692596111-lego-city-60373",
+    "price": 16.45,
+    "title": "Lego city 60373",
+    "imgUrl": "https://images1.vinted.net/t/03_0006b_TAEhQSnLYPUDqdoeJywrKpUZ/f800/1719472081.jpeg?s=e71b67090781046b3b7f6fce48032387e6385421",
+    "publicationDate": 1719472081,
+    "id": 4692596111
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/4935295546-lego-city-60373",
+    "price": 16.45,
+    "title": "Lego city 60373",
+    "imgUrl": "https://images1.vinted.net/t/01_025fe_7sdfcbU5XLzJ3j7q32a93pmU/f800/1724582718.jpeg?s=dcbc12e2ba04f4392a13250c8c4a5ea2ce405da1",
+    "publicationDate": 1724582718,
+    "id": 4935295546
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/4941444903-lego-60373",
+    "price": 19.6,
+    "title": "Lego 60373",
+    "imgUrl": "https://images1.vinted.net/t/03_0166d_4SXWiuZCV5ANPFQhWjaFWAHH/f800/1724673576.jpeg?s=0aa176a8b978de4cf8430798eebee177d819e8a5",
+    "publicationDate": 1724673576,
+    "id": 4941444903
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/4431175577-lego-60373",
+    "price": 11.2,
+    "title": "Lego 60373",
+    "imgUrl": "https://images1.vinted.net/t/02_0245f_4NhMuWNTg3bMrhC6QRVLsr6v/f800/1714327821.jpeg?s=1456d8c49540d89e06d271b1dddcb9ce821f7505",
+    "publicationDate": 1714327821,
+    "id": 4431175577
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5389742565-lego-60405-et-60373",
+    "price": 32.2,
+    "title": "Lego 60405 et 60373",
+    "imgUrl": "https://images1.vinted.net/t/04_024ad_VSUM1c6MxGBNKhDpABaPUvb7/f800/1731752923.jpeg?s=ae3afd226ec9f42b8ef08d3d386e9ddb580868ac",
+    "publicationDate": 1731752923,
+    "id": 5389742565
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/4089307970-lego-60373",
+    "price": 15.4,
+    "title": "Lego 60373",
+    "imgUrl": "https://images1.vinted.net/t/03_01fdc_GoURHYuLhjYnTtSQWrVGue1s/f800/1707664949.jpeg?s=bdeed15c9c2459f7fdae749f677255dbcd1eb43d",
+    "publicationDate": 1707664949,
+    "id": 4089307970
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/4087190873-lego-city-60373",
+    "price": 17.5,
+    "title": "Lego city 60373",
+    "imgUrl": "https://images1.vinted.net/t/03_01223_Rw6J8yqqmzKctn4xMCDhxF6N/f800/1707648062.jpeg?s=cc1889dfd5a682d24c13b24e1d19209a5980ad81",
+    "publicationDate": 1707648062,
+    "id": 4087190873
+  },
+  {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/4616660410-lego-60373-feuerwehrboot",
     "price": 13.3,
     "title": "Lego 60373 Feuerwehrboot",
@@ -352,22 +297,70 @@
     "id": 4616660410
   },
   {
-    "link": "https://www.vinted.fr/items/4782230615-lego-city-60373-feuerwehrboot",
-    "price": 12.89,
-    "title": "Lego City 60373 Feuerwehrboot",
-    "imgUrl": "https://images1.vinted.net/t/03_00eea_miUTWWHVjyDaJGWZEPSTNUSr/f800/1721365164.jpeg?s=367ebf63c90ac12f2f294cedf7d8266233f74c10",
-    "publicationDate": 1721365164,
-    "id": 4782230615
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5387179925-lego-city-60373",
+    "price": 18.55,
+    "title": "Lego city 60373",
+    "imgUrl": "https://images1.vinted.net/t/04_0021f_844pw6YtW3PTCXdJjp358HCs/f800/1731687760.jpeg?s=47b46b5146e6cb6036e5255056d678b3ba965766",
+    "publicationDate": 1731687760,
+    "id": 5387179925
   },
   {
-    "link": "https://www.vinted.fr/items/4661225268-lego-city-60373-feuerwehrboot",
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/4620487111-lego-60373",
     "price": 16.45,
-    "title": "LEGO City 60373 Feuerwehrboot",
-    "imgUrl": "https://images1.vinted.net/t/01_01cea_hwFRWgho37zwCXHBpF2dAfKG/f800/1718783381.jpeg?s=bee7a4fa11353f8f0627b224270bb7c9822f31f6",
-    "publicationDate": 1718783381,
-    "id": 4661225268
+    "title": "Lego 60373",
+    "imgUrl": "https://images1.vinted.net/t/02_00ef4_J3r2Hf4V3Xozv1kbKyyGWBP7/f800/1717952867.jpeg?s=79d920ecd0052438a4814f32a75169eedaed3ba8",
+    "publicationDate": 1717952867,
+    "id": 4620487111
   },
   {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5320958583-lego-city",
+    "price": 13.3,
+    "title": "Lego city",
+    "imgUrl": "https://images1.vinted.net/t/04_01b68_Q7n8cEjZtd7aUQPECzr1EVQL/f800/1730629261.jpeg?s=926db248232db4dc3b58e6d7f2960f65dba7b782",
+    "publicationDate": 1730629261,
+    "id": 5320958583
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5234067169-lego-city-60373-feuerwehrboot",
+    "price": 12.25,
+    "title": "Lego City 60373 Feuerwehrboot",
+    "imgUrl": "https://images1.vinted.net/t/03_00caf_fTjdyv7GLqjbpr8LqMsKMmW7/f800/1729187738.jpeg?s=4f1c7c8baf4693420e819241ecef5a186642c3c3",
+    "publicationDate": 1729187738,
+    "id": 5234067169
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/4926835750-lego-city-60373-le-bateau-de-sauvetage-des-pompiers",
+    "price": 16.45,
+    "title": "Lego City 60373, le bateau de sauvetage des pompiers",
+    "imgUrl": "https://images1.vinted.net/t/03_02693_VPK9TK5wbqnJ8JJCDhckhA3m/f800/1724417634.jpeg?s=79f762186be980d5be57a9f983b5373fee6c7c36",
+    "publicationDate": 1724417634,
+    "id": 4926835750
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5264419694-lego-city-ndeg60373",
+    "price": 13.3,
+    "title": "Lego city n°60373",
+    "imgUrl": "https://images1.vinted.net/t/03_024a2_uSVn4xzWeNAKyvLtVkGVAjm8/f800/1729675018.jpeg?s=4f77d77d43a1b2ee9d859272ae60625e602861b4",
+    "publicationDate": 1729675018,
+    "id": 5264419694
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5346234090-lego-reddingsboot-brandweer",
+    "price": 16.45,
+    "title": "Lego reddingsboot brandweer",
+    "imgUrl": "https://images1.vinted.net/t/04_00b29_kWjGhkEFeC4UDXNYsmFLP9Z9/f800/1731052977.jpeg?s=bd7e1a5daa079e87055e0e00b8690843bac2b1c2",
+    "publicationDate": 1731052977,
+    "id": 5346234090
+  },
+  {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/5249557022-lego-60373-city-le-bateau-de-sauvetage-des-pompiers",
     "price": 23.8,
     "title": "LEGO 60373 City Le Bateau de Sauvetage des Pompiers",
@@ -376,6 +369,61 @@
     "id": 5249557022
   },
   {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/3673184622-lego-60373-fire-boat",
+    "price": 15.4,
+    "title": "Lego 60373, fire boat ",
+    "imgUrl": "https://images1.vinted.net/t/03_02047_ukoepd7noWgQXwHKVsxeKh1v/f800/1698423977.jpeg?s=55801d1c156c47856f9c674614b7f3162fabd0fa",
+    "publicationDate": 1698423977,
+    "id": 3673184622
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/4786298244-lego-60373-le-bateau-de-sauvetage",
+    "price": 20.13,
+    "title": "Lego 60373 Le bateau de sauvetage",
+    "imgUrl": "https://images1.vinted.net/t/02_01944_x1n24nxVGA8gDUqA9AbKEmMq/f800/1721474110.jpeg?s=7b360190f004aec1a443d4eaee06f935ba11e603",
+    "publicationDate": 1721474110,
+    "id": 4786298244
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/4782230615-lego-city-60373-feuerwehrboot",
+    "price": 12.89,
+    "title": "Lego City 60373 Feuerwehrboot",
+    "imgUrl": "https://images1.vinted.net/t/03_00eea_miUTWWHVjyDaJGWZEPSTNUSr/f800/1721365164.jpeg?s=367ebf63c90ac12f2f294cedf7d8266233f74c10",
+    "publicationDate": 1721365164,
+    "id": 4782230615
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/3644953767-lego-city-la-barca-di-salvataggio-dei-pompieri-jetpack-e-minifigurine",
+    "price": 20.55,
+    "title": "Lego City  La barca di salvataggio dei pompieri jetpack e minifigurine",
+    "imgUrl": "https://images1.vinted.net/t/03_016cd_LCroqwUz2HkbWyw1zrs3mR8d/f800/1697963347.jpeg?s=dbb775422ffebe30db0aa11e5d7b5eb81b936b1b",
+    "publicationDate": 1697963347,
+    "id": 3644953767
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/5075162541-lego-city-60373-nieuw-in-verpakking",
+    "price": 21.69,
+    "title": "LEGO City # 60373 nieuw in verpakking",
+    "imgUrl": "https://images1.vinted.net/t/01_01a04_LuVCNdwhnnPPwA55pwQG9BMq/f800/1726824441.jpeg?s=6f24b420cd37ae2c9212fde0cd09003cbace968e",
+    "publicationDate": 1726824441,
+    "id": 5075162541
+  },
+  {
+    "legoId": "60373",
+    "link": "https://www.vinted.fr/items/4661225268-lego-city-60373-feuerwehrboot",
+    "price": 16.45,
+    "title": "LEGO City 60373 Feuerwehrboot",
+    "imgUrl": "https://images1.vinted.net/t/01_01cea_hwFRWgho37zwCXHBpF2dAfKG/f800/1718783381.jpeg?s=bee7a4fa11353f8f0627b224270bb7c9822f31f6",
+    "publicationDate": 1718783381,
+    "id": 4661225268
+  },
+  {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/4721346057-legor-city-60373-feuerwehrboot",
     "price": 20.65,
     "title": "LEGO® City 60373 - Feuerwehrboot",
@@ -384,6 +432,7 @@
     "id": 4721346057
   },
   {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/5291367304-lego-60373",
     "price": 21.7,
     "title": "Lego 60373",
@@ -392,6 +441,7 @@
     "id": 5291367304
   },
   {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/4217366720-lego-60373-lego-city-feuerwehrboot",
     "price": 16.45,
     "title": "Lego 60373 Lego City Feuerwehrboot ",
@@ -400,6 +450,7 @@
     "id": 4217366720
   },
   {
+    "legoId": "60373",
     "link": "https://www.vinted.fr/items/5309057254-lego-city-60373",
     "price": 16.45,
     "title": "Lego City 60373",

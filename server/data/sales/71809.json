@@ -1,13 +1,6 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5313622506-lego-ninjago-71809-novo-e-selado",
-    "price": 53.2,
-    "title": "LEGO Ninjago 71809 - Novo e Selado",
-    "imgUrl": "https://images1.vinted.net/t/02_01d66_YRw9bo8DoUvVhhTM83xCfGtw/f800/1730488303.jpeg?s=c294c72dac1f10ad2d749617c6f373dd03dc0e37",
-    "publicationDate": 1730488303,
-    "id": 5313622506
-  },
-  {
+    "legoId": "71809",
     "link": "https://www.vinted.fr/items/4885884698-lego-lot-figurines-ninjago-set-71809",
     "price": 38.5,
     "title": "Lego Lot figurines Ninjago Set 71809",
@@ -16,6 +9,16 @@
     "id": 4885884698
   },
   {
+    "legoId": "71809",
+    "link": "https://www.vinted.fr/items/5313622506-lego-ninjago-71809-novo-e-selado",
+    "price": 53.2,
+    "title": "LEGO Ninjago 71809 - Novo e Selado",
+    "imgUrl": "https://images1.vinted.net/t/02_01d66_YRw9bo8DoUvVhhTM83xCfGtw/f800/1730488303.jpeg?s=c294c72dac1f10ad2d749617c6f373dd03dc0e37",
+    "publicationDate": 1730488303,
+    "id": 5313622506
+  },
+  {
+    "legoId": "71809",
     "link": "https://www.vinted.fr/items/5394035403-lego-71809-ninjago-dragon-maestro-egalt",
     "price": 53.2,
     "title": "Lego 71809 - Ninjago  - Dragón Maestro Egalt",
@@ -24,6 +27,7 @@
     "id": 5394035403
   },
   {
+    "legoId": "71809",
     "link": "https://www.vinted.fr/items/5321257327-mega-pack-ninjago",
     "price": 357.7,
     "title": "Mega pack ninjago",
@@ -32,6 +36,7 @@
     "id": 5321257327
   },
   {
+    "legoId": "71809",
     "link": "https://www.vinted.fr/items/5301154601-lego-71818-71809",
     "price": 105.7,
     "title": "Lego 71818 71809",
@@ -40,14 +45,7 @@
     "id": 5301154601
   },
   {
-    "link": "https://www.vinted.fr/items/5385991637-lego-ninjago-71809-egalt-the-master-dragon",
-    "price": 55.3,
-    "title": "Lego Ninjago 71809 Egalt the Master Dragon",
-    "imgUrl": "https://images1.vinted.net/t/04_00650_SR2HJjeuCSeQUffMjRLwAtVc/f800/1731675109.jpeg?s=612b8db8bca74548acbc4046b5a0064afbe6167e",
-    "publicationDate": 1731675109,
-    "id": 5385991637
-  },
-  {
+    "legoId": "71809",
     "link": "https://www.vinted.fr/items/5060662534-lego-71809",
     "price": 58.45,
     "title": "Lego 71809",
@@ -56,6 +54,16 @@
     "id": 5060662534
   },
   {
+    "legoId": "71809",
+    "link": "https://www.vinted.fr/items/5385991637-lego-ninjago-71809-egalt-the-master-dragon",
+    "price": 55.3,
+    "title": "Lego Ninjago 71809 Egalt the Master Dragon",
+    "imgUrl": "https://images1.vinted.net/t/04_00650_SR2HJjeuCSeQUffMjRLwAtVc/f800/1731675109.jpeg?s=612b8db8bca74548acbc4046b5a0064afbe6167e",
+    "publicationDate": 1731675109,
+    "id": 5385991637
+  },
+  {
+    "legoId": "71809",
     "link": "https://www.vinted.fr/items/5393418876-lego-ninjago-71809",
     "price": 58.45,
     "title": "LEGO Ninjago 71809",
@@ -64,6 +72,7 @@
     "id": 5393418876
   },
   {
+    "legoId": "71809",
     "link": "https://www.vinted.fr/items/5262808963-ninjago-71809",
     "price": 63.7,
     "title": "Ninjago 71809",
@@ -72,6 +81,7 @@
     "id": 5262808963
   },
   {
+    "legoId": "71809",
     "link": "https://www.vinted.fr/items/5368595507-lego-ninjago-71809-egait-the-master-dragon",
     "price": 63.7,
     "title": "Lego  ninjago 71809 egait the master dragon",
@@ -80,6 +90,7 @@
     "id": 5368595507
   },
   {
+    "legoId": "71809",
     "link": "https://www.vinted.fr/items/5401599826-lego-71809",
     "price": 63.7,
     "title": "Lego 71809",

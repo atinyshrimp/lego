@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "71806",
     "link": "https://www.vinted.fr/items/5404589569-lego-71806",
     "price": 11.2,
     "title": "Lego 71806",
@@ -8,14 +9,7 @@
     "id": 5404589569
   },
   {
-    "link": "https://www.vinted.fr/items/5372697801-lego-71806",
-    "price": 15.4,
-    "title": "Lego 71806",
-    "imgUrl": "https://images1.vinted.net/t/04_02050_HBH5a5i4ZsZmbkA6dmVrpfxJ/f800/1731430997.jpeg?s=7e9f22a56e9cc157f94580e66123654875933ddf",
-    "publicationDate": 1731430997,
-    "id": 5372697801
-  },
-  {
+    "legoId": "71806",
     "link": "https://www.vinted.fr/items/5133296711-lego-71806-solo-scatola",
     "price": 1.75,
     "title": "Lego 71806 solo scatola",
@@ -24,6 +18,16 @@
     "id": 5133296711
   },
   {
+    "legoId": "71806",
+    "link": "https://www.vinted.fr/items/5372697801-lego-71806",
+    "price": 15.4,
+    "title": "Lego 71806",
+    "imgUrl": "https://images1.vinted.net/t/04_02050_HBH5a5i4ZsZmbkA6dmVrpfxJ/f800/1731430997.jpeg?s=7e9f22a56e9cc157f94580e66123654875933ddf",
+    "publicationDate": 1731430997,
+    "id": 5372697801
+  },
+  {
+    "legoId": "71806",
     "link": "https://www.vinted.fr/items/5369721470-lego-ninjago-neuf",
     "price": 21.7,
     "title": "Lego Ninjago neuf",
@@ -32,6 +36,7 @@
     "id": 5369721470
   },
   {
+    "legoId": "71806",
     "link": "https://www.vinted.fr/items/5307150683-lego-71806-ninjago-meca-elemental-de-la-tierra-de-cole",
     "price": 18.29,
     "title": "Lego 71806 - Ninjago  - Meca Elemental de la Tierra de Cole",
@@ -40,6 +45,7 @@
     "id": 5307150683
   },
   {
+    "legoId": "71806",
     "link": "https://www.vinted.fr/items/4320114907-lego-figurine-ninjago-njo851",
     "price": 4.9,
     "title": "Lego figurine ninjago njo851",
@@ -48,6 +54,7 @@
     "id": 4320114907
   },
   {
+    "legoId": "71806",
     "link": "https://www.vinted.fr/items/4556926535-lego-figurines-ninjago-71806",
     "price": 10.15,
     "title": "Lego figurines Ninjago 71806",
@@ -56,6 +63,7 @@
     "id": 4556926535
   },
   {
+    "legoId": "71806",
     "link": "https://www.vinted.fr/items/5107694954-lego-71806-meca-de-cole",
     "price": 32.2,
     "title": "Lego 71806 meca de cole",
@@ -64,6 +72,7 @@
     "id": 5107694954
   },
   {
+    "legoId": "71806",
     "link": "https://www.vinted.fr/items/5398944019-lego-ninjago",
     "price": 21.7,
     "title": "Lego Ninjago",
@@ -72,6 +81,7 @@
     "id": 5398944019
   },
   {
+    "legoId": "71806",
     "link": "https://www.vinted.fr/items/4336732564-lego-ninjago-dragon-rising-71806",
     "price": 26.95,
     "title": "Lego Ninjago - Dragon Rising (71806)",

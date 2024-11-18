@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "21256",
     "link": "https://www.vinted.fr/items/5343167970-lego-21256-minecraft-grenouille-marron",
     "price": 2.79,
     "title": "Lego 21256 Minecraft Grenouille Marron",
@@ -8,6 +9,7 @@
     "id": 5343167970
   },
   {
+    "legoId": "21256",
     "link": "https://www.vinted.fr/items/5289667700-lego-21256-minecraft-lot-de-5-tuile-cake-2x2",
     "price": 4.36,
     "title": "Lego 21256 Minecraft Lot de 5 Tuile Cake 2x2",
@@ -16,6 +18,7 @@
     "id": 5289667700
   },
   {
+    "legoId": "21256",
     "link": "https://www.vinted.fr/items/4849947868-lego-21256-minecraft-lot-de-2-grenouille",
     "price": 4.88,
     "title": "Lego 21256 Minecraft Lot de 2 Grenouille",
@@ -24,30 +27,7 @@
     "id": 4849947868
   },
   {
-    "link": "https://www.vinted.fr/items/5175249606-lego-21256-minecraft-grenouille-marron",
-    "price": 2.79,
-    "title": "Lego 21256 Minecraft Grenouille Marron",
-    "imgUrl": "https://images1.vinted.net/t/01_00ab3_eXbEZBNFLxgGR4J33f8xLkpF/f800/1728297847.jpeg?s=a63840d0a0d0fbf30ae606fd89f0a6281dd25edd",
-    "publicationDate": 1728297847,
-    "id": 5175249606
-  },
-  {
-    "link": "https://www.vinted.fr/items/5259005964-lego-21256-minecraft-grenouille-marron",
-    "price": 2.79,
-    "title": "Lego 21256 Minecraft Grenouille Marron",
-    "imgUrl": "https://images1.vinted.net/t/01_009ae_V4GrneC3MKqcESoH1sNNsjPs/f800/1729585534.jpeg?s=88c8c9e0d50faa3070bb823f63f7cf814b1fb66c",
-    "publicationDate": 1729585534,
-    "id": 5259005964
-  },
-  {
-    "link": "https://www.vinted.fr/items/5289663399-lego-21256-minecraft-lot-de-5-tuile-cake-2x2",
-    "price": 4.36,
-    "title": "Lego 21256 Minecraft Lot de 5 Tuile Cake 2x2",
-    "imgUrl": "https://images1.vinted.net/t/03_000b4_9FJLWfMAka8gJP3kHTJszJxt/f800/1730061473.jpeg?s=1d54e19f1cc908eed18a4d6ecbc54bf8054e303f",
-    "publicationDate": 1730061473,
-    "id": 5289663399
-  },
-  {
+    "legoId": "21256",
     "link": "https://www.vinted.fr/items/4849960128-lego-21256-minecraft-lot-de-5-grenouille",
     "price": 11.15,
     "title": "Lego 21256 Minecraft Lot de 5 Grenouille",
@@ -56,6 +36,34 @@
     "id": 4849960128
   },
   {
+    "legoId": "21256",
+    "link": "https://www.vinted.fr/items/5259005964-lego-21256-minecraft-grenouille-marron",
+    "price": 2.79,
+    "title": "Lego 21256 Minecraft Grenouille Marron",
+    "imgUrl": "https://images1.vinted.net/t/01_009ae_V4GrneC3MKqcESoH1sNNsjPs/f800/1729585534.jpeg?s=88c8c9e0d50faa3070bb823f63f7cf814b1fb66c",
+    "publicationDate": 1729585534,
+    "id": 5259005964
+  },
+  {
+    "legoId": "21256",
+    "link": "https://www.vinted.fr/items/5289663399-lego-21256-minecraft-lot-de-5-tuile-cake-2x2",
+    "price": 4.36,
+    "title": "Lego 21256 Minecraft Lot de 5 Tuile Cake 2x2",
+    "imgUrl": "https://images1.vinted.net/t/03_000b4_9FJLWfMAka8gJP3kHTJszJxt/f800/1730061473.jpeg?s=1d54e19f1cc908eed18a4d6ecbc54bf8054e303f",
+    "publicationDate": 1730061473,
+    "id": 5289663399
+  },
+  {
+    "legoId": "21256",
+    "link": "https://www.vinted.fr/items/5175249606-lego-21256-minecraft-grenouille-marron",
+    "price": 2.79,
+    "title": "Lego 21256 Minecraft Grenouille Marron",
+    "imgUrl": "https://images1.vinted.net/t/01_00ab3_eXbEZBNFLxgGR4J33f8xLkpF/f800/1728297847.jpeg?s=a63840d0a0d0fbf30ae606fd89f0a6281dd25edd",
+    "publicationDate": 1728297847,
+    "id": 5175249606
+  },
+  {
+    "legoId": "21256",
     "link": "https://www.vinted.fr/items/4849951203-lego-21256-minecraft-lot-de-3-grenouille",
     "price": 6.97,
     "title": "Lego 21256 Minecraft Lot de 3 Grenouille",
@@ -64,38 +72,7 @@
     "id": 4849951203
   },
   {
-    "link": "https://www.vinted.fr/items/5402738223-minecraft",
-    "price": 32.2,
-    "title": "Minecraft",
-    "imgUrl": "https://images1.vinted.net/t/04_00839_ToGGWaauK69jc53EFMfr96mR/f800/1731924335.jpeg?s=e4f3fcd77d78075f00329ba5c35b9f0e2a11f9d0",
-    "publicationDate": 1731924335,
-    "id": 5402738223
-  },
-  {
-    "link": "https://www.vinted.fr/items/4849957712-lego-21256-minecraft-lot-de-5-grenouille",
-    "price": 11.15,
-    "title": "Lego 21256 Minecraft Lot de 5 Grenouille",
-    "imgUrl": "https://images1.vinted.net/t/01_00fce_zea6554ZFDp31Y3gweiiBPs4/f800/1722859196.jpeg?s=32144f03f9e9503bd674d8142e362ca25a1d8724",
-    "publicationDate": 1722859196,
-    "id": 4849957712
-  },
-  {
-    "link": "https://www.vinted.fr/items/5351690475-lego-minecraft-21256",
-    "price": 47.95,
-    "title": "Lego Minecraft 21256",
-    "imgUrl": "https://images1.vinted.net/t/04_0263c_WYWKJZVSL8ytxg6kCSrBLxCN/f800/1731151644.jpeg?s=702aad27928c62ef3eabd9b4075aa051a0d58beb",
-    "publicationDate": 1731151644,
-    "id": 5351690475
-  },
-  {
-    "link": "https://www.vinted.fr/items/4849954029-lego-21256-minecraft-lot-de-3-grenouille",
-    "price": 6.97,
-    "title": "Lego 21256 Minecraft Lot de 3 Grenouille",
-    "imgUrl": "https://images1.vinted.net/t/01_00eff_wKrLgvnrc7mcpRcsse3HETcW/f800/1722859153.jpeg?s=52701455e3765d62b8b29d8bccbbb19e0e6abfa0",
-    "publicationDate": 1722859153,
-    "id": 4849954029
-  },
-  {
+    "legoId": "21256",
     "link": "https://www.vinted.fr/items/4859457084-lego-21256-minecraft-lot-de-18-brique-1x16-beige-moyen-fonce",
     "price": 15.91,
     "title": "Lego 21256 Minecraft Lot de 18 Brique 1x16 Beige Moyen Foncé",
@@ -104,14 +81,34 @@
     "id": 4859457084
   },
   {
-    "link": "https://www.vinted.fr/items/4372628107-lego-minecraft-21256-la-maison-de-la-grenouille-illumine",
-    "price": 42.7,
-    "title": "Lego Minecraft 21256 La maison de la grenouille illuminé",
-    "imgUrl": "https://images1.vinted.net/t/01_0259b_p1Rgjyayd87YveUn5dwTxe1K/f800/1713272174.jpeg?s=f2009352a0af251ca8d942b3cefa8c9ae690a80b",
-    "publicationDate": 1713272174,
-    "id": 4372628107
+    "legoId": "21256",
+    "link": "https://www.vinted.fr/items/5351690475-lego-minecraft-21256",
+    "price": 47.95,
+    "title": "Lego Minecraft 21256",
+    "imgUrl": "https://images1.vinted.net/t/04_0263c_WYWKJZVSL8ytxg6kCSrBLxCN/f800/1731151644.jpeg?s=702aad27928c62ef3eabd9b4075aa051a0d58beb",
+    "publicationDate": 1731151644,
+    "id": 5351690475
   },
   {
+    "legoId": "21256",
+    "link": "https://www.vinted.fr/items/4849954029-lego-21256-minecraft-lot-de-3-grenouille",
+    "price": 6.97,
+    "title": "Lego 21256 Minecraft Lot de 3 Grenouille",
+    "imgUrl": "https://images1.vinted.net/t/01_00eff_wKrLgvnrc7mcpRcsse3HETcW/f800/1722859153.jpeg?s=52701455e3765d62b8b29d8bccbbb19e0e6abfa0",
+    "publicationDate": 1722859153,
+    "id": 4849954029
+  },
+  {
+    "legoId": "21256",
+    "link": "https://www.vinted.fr/items/4849957712-lego-21256-minecraft-lot-de-5-grenouille",
+    "price": 11.15,
+    "title": "Lego 21256 Minecraft Lot de 5 Grenouille",
+    "imgUrl": "https://images1.vinted.net/t/01_00fce_zea6554ZFDp31Y3gweiiBPs4/f800/1722859196.jpeg?s=32144f03f9e9503bd674d8142e362ca25a1d8724",
+    "publicationDate": 1722859196,
+    "id": 4849957712
+  },
+  {
+    "legoId": "21256",
     "link": "https://www.vinted.fr/items/4850952262-lego-lot-de-498-feuilles-carotte-orange-clair-brilliant",
     "price": 26.94,
     "title": "Lego Lot de 498 Feuilles Carotte Orange Clair Brilliant",
@@ -120,6 +117,16 @@
     "id": 4850952262
   },
   {
+    "legoId": "21256",
+    "link": "https://www.vinted.fr/items/4372628107-lego-minecraft-21256-la-maison-de-la-grenouille-illumine",
+    "price": 42.7,
+    "title": "Lego Minecraft 21256 La maison de la grenouille illuminé",
+    "imgUrl": "https://images1.vinted.net/t/01_0259b_p1Rgjyayd87YveUn5dwTxe1K/f800/1713272174.jpeg?s=f2009352a0af251ca8d942b3cefa8c9ae690a80b",
+    "publicationDate": 1713272174,
+    "id": 4372628107
+  },
+  {
+    "legoId": "21256",
     "link": "https://www.vinted.fr/items/5258529664-lego-mincraft-das-froschhaus-21256",
     "price": 40.6,
     "title": "LEGO Mincraft, Das Froschhaus- 21256",
@@ -128,6 +135,7 @@
     "id": 5258529664
   },
   {
+    "legoId": "21256",
     "link": "https://www.vinted.fr/items/5384053844-lego-minecraft-21256",
     "price": 42.7,
     "title": "Lego minecraft 21256",

@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/5366883771-boite-vide-lego-mario-71426",
     "price": 5.95,
     "title": "Boîte vide Lego Mario 71426",
@@ -8,14 +9,7 @@
     "id": 5366883771
   },
   {
-    "link": "https://www.vinted.fr/items/4675903358-notice-lego-set-71426",
-    "price": 2.8,
-    "title": "Notice lego set 71426",
-    "imgUrl": "https://images1.vinted.net/t/02_00d1b_5cot9CR69zRRvTGkNJ7QHFf6/f800/1719090779.jpeg?s=1e6205ec1b6fd1c6030b902b26a3a0e69773f015",
-    "publicationDate": 1719090779,
-    "id": 4675903358
-  },
-  {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/5403664101-lego-set-71426",
     "price": 38.5,
     "title": "Lego Set 71426",
@@ -24,6 +18,16 @@
     "id": 5403664101
   },
   {
+    "legoId": "71426",
+    "link": "https://www.vinted.fr/items/4675903358-notice-lego-set-71426",
+    "price": 2.8,
+    "title": "Notice lego set 71426",
+    "imgUrl": "https://images1.vinted.net/t/02_00d1b_5cot9CR69zRRvTGkNJ7QHFf6/f800/1719090779.jpeg?s=1e6205ec1b6fd1c6030b902b26a3a0e69773f015",
+    "publicationDate": 1719090779,
+    "id": 4675903358
+  },
+  {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/5403673869-lego-71426",
     "price": 38.5,
     "title": "LEGO 71426",
@@ -32,6 +36,7 @@
     "id": 5403673869
   },
   {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/4969119806-lego-super-mario-71426-piranha-plant",
     "price": 47.95,
     "title": "LEGO Super Mario 71426 : Piranha Plant",
@@ -40,14 +45,16 @@
     "id": 4969119806
   },
   {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/5388183185-lego-super-mario-71426-plante-carnivore-neuf-et-scelle",
-    "price": 55.3,
+    "price": 54.25,
     "title": "Lego Super Mario 71426 Plante Carnivore NEUF et scellé",
     "imgUrl": "https://images1.vinted.net/t/04_006bd_XN7iQvxtCcky8Hr59LnQL6XE/f800/1731700921.jpeg?s=3ae13b554cc0cb119c3212075ba2888c139ed586",
     "publicationDate": 1731700921,
     "id": 5388183185
   },
   {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/5300713774-lego-set-71426",
     "price": 47.95,
     "title": "Lego Set 71426",
@@ -56,6 +63,7 @@
     "id": 5300713774
   },
   {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/5081836492-71426-planta-mario-pirana",
     "price": 53.1,
     "title": "71426 Planta Mario Piraña",
@@ -64,14 +72,7 @@
     "id": 5081836492
   },
   {
-    "link": "https://www.vinted.fr/items/5399419896-lego-71426-super-mario-piranha-plant",
-    "price": 53.2,
-    "title": "Lego 71426 super mario piranha plant",
-    "imgUrl": "https://images1.vinted.net/t/04_00ad7_euh6bX55qhrz6v554XEg9cED/f800/1731861481.jpeg?s=83f69d55021d17880e503f91f70c50f6cf488e26",
-    "publicationDate": 1731861481,
-    "id": 5399419896
-  },
-  {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/5349560234-lego-71426-piranha-plant",
     "price": 53.2,
     "title": "Lego 71426 Piranha Plant",
@@ -80,14 +81,7 @@
     "id": 5349560234
   },
   {
-    "link": "https://www.vinted.fr/items/5337131240-lot-boites-vides-lego",
-    "price": 8.05,
-    "title": "Lot boîtes vides lego",
-    "imgUrl": "https://images1.vinted.net/t/02_001c6_Bb8ogsrcNgs5ERKnNNg8pjSr/f800/1730882813.jpeg?s=cf80904f56b2b62c18a02e77684c01d60d5daf43",
-    "publicationDate": 1730882813,
-    "id": 5337131240
-  },
-  {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/5335488982-lego-mario-71426-plante-piranha-neuf",
     "price": 58.45,
     "title": "Lego Mario 71426  plante Piranha neuf",
@@ -96,14 +90,16 @@
     "id": 5335488982
   },
   {
-    "link": "https://www.vinted.fr/items/4750449512-lego-plante-piranha-71426",
-    "price": 58.45,
-    "title": "Lego plante piranha 71426",
-    "imgUrl": "https://images1.vinted.net/t/03_00695_qoY7HdGbxrVXv4AEaXNrBaz7/f800/1720676655.jpeg?s=fd1b518925958b418cdffae9114ae4c1a6901b78",
-    "publicationDate": 1720676655,
-    "id": 4750449512
+    "legoId": "71426",
+    "link": "https://www.vinted.fr/items/5337131240-lot-boites-vides-lego",
+    "price": 8.05,
+    "title": "Lot boîtes vides lego",
+    "imgUrl": "https://images1.vinted.net/t/02_001c6_Bb8ogsrcNgs5ERKnNNg8pjSr/f800/1730882813.jpeg?s=cf80904f56b2b62c18a02e77684c01d60d5daf43",
+    "publicationDate": 1730882813,
+    "id": 5337131240
   },
   {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/5107686538-lego-super-mario-piranha-71426-neuf-sceller",
     "price": 58.45,
     "title": "Lego Super mario Piranha 71426 neuf sceller",
@@ -112,6 +108,16 @@
     "id": 5107686538
   },
   {
+    "legoId": "71426",
+    "link": "https://www.vinted.fr/items/4750449512-lego-plante-piranha-71426",
+    "price": 58.45,
+    "title": "Lego plante piranha 71426",
+    "imgUrl": "https://images1.vinted.net/t/03_00695_qoY7HdGbxrVXv4AEaXNrBaz7/f800/1720676655.jpeg?s=fd1b518925958b418cdffae9114ae4c1a6901b78",
+    "publicationDate": 1720676655,
+    "id": 4750449512
+  },
+  {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/5342285637-planta-carnivora-de-lego-set-71426",
     "price": 58.45,
     "title": "Planta Carnívora de Lego. Set 71426",
@@ -120,6 +126,7 @@
     "id": 5342285637
   },
   {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/5282885497-lego-71426",
     "price": 58.45,
     "title": "lego 71426",
@@ -128,6 +135,7 @@
     "id": 5282885497
   },
   {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/4170532808-lego-71426-super-mario-plante-piranha-neuf-sceller",
     "price": 59.5,
     "title": "Lego 71426 Super Mario - Plante Piranha neuf sceller",
@@ -136,22 +144,7 @@
     "id": 4170532808
   },
   {
-    "link": "https://www.vinted.fr/items/5368685316-lego-super-mario-71426-piranha-plant",
-    "price": 63.7,
-    "title": "Lego super Mario 71426 piranha plant",
-    "imgUrl": "https://images1.vinted.net/t/01_004ae_qqKamRZYNx5aTAuM4ukXCyJm/f800/1731355869.jpeg?s=34e95225f679a3b290b7e0ee097b22e0326e6200",
-    "publicationDate": 1731355869,
-    "id": 5368685316
-  },
-  {
-    "link": "https://www.vinted.fr/items/4635736370-71426-planta-pirana",
-    "price": 56.34,
-    "title": "71426 Planta piraña",
-    "imgUrl": "https://images1.vinted.net/t/02_024d9_WCyhFLfBVy5VLYHxhsPogbm2/f800/1718260479.jpeg?s=3a649814e2c708decf54761c63fe82f0841518d8",
-    "publicationDate": 1718260479,
-    "id": 4635736370
-  },
-  {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/4607906744-71426-nuevo-sin-abrir",
     "price": 58.45,
     "title": "71426 nuevo sin abrir.",
@@ -160,6 +153,25 @@
     "id": 4607906744
   },
   {
+    "legoId": "71426",
+    "link": "https://www.vinted.fr/items/4635736370-71426-planta-pirana",
+    "price": 56.34,
+    "title": "71426 Planta piraña",
+    "imgUrl": "https://images1.vinted.net/t/02_024d9_WCyhFLfBVy5VLYHxhsPogbm2/f800/1718260479.jpeg?s=3a649814e2c708decf54761c63fe82f0841518d8",
+    "publicationDate": 1718260479,
+    "id": 4635736370
+  },
+  {
+    "legoId": "71426",
+    "link": "https://www.vinted.fr/items/5368685316-lego-super-mario-71426-piranha-plant",
+    "price": 63.7,
+    "title": "Lego super Mario 71426 piranha plant",
+    "imgUrl": "https://images1.vinted.net/t/01_004ae_qqKamRZYNx5aTAuM4ukXCyJm/f800/1731355869.jpeg?s=34e95225f679a3b290b7e0ee097b22e0326e6200",
+    "publicationDate": 1731355869,
+    "id": 5368685316
+  },
+  {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/4816737131-lego-plante-mario-71426",
     "price": 58.45,
     "title": "Lego plante mario 71426",
@@ -168,6 +180,7 @@
     "id": 4816737131
   },
   {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/4596581028-lego-71426-piranha-plant",
     "price": 63.7,
     "title": "Lego 71426 piranha plant",
@@ -176,6 +189,7 @@
     "id": 4596581028
   },
   {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/4514549658-lego-super-mario-piranha-plant-71426",
     "price": 63.7,
     "title": "LEGO Super Mario Piranha Plant 71426",
@@ -184,6 +198,7 @@
     "id": 4514549658
   },
   {
+    "legoId": "71426",
     "link": "https://www.vinted.fr/items/5370505855-lego-71426-super-mario-planta-pirana",
     "price": 61.6,
     "title": "Lego 71426 Super Mario Planta Piraña",

@@ -1,21 +1,6 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5404613674-lego-pack-neuf-60441",
-    "price": 24.85,
-    "title": "Lego pack neuf 60441",
-    "imgUrl": "https://images1.vinted.net/t/04_0183a_AmdUZMNGS4nwUHtrfVSWn6bS/f800/1731941816.jpeg?s=15b58055380abb1bd081a503bf9493bd36060e5a",
-    "publicationDate": 1731941816,
-    "id": 5404613674
-  },
-  {
-    "link": "https://www.vinted.fr/items/5400154382-lego-city-space-polybag-paperbag-952405",
-    "price": 5.95,
-    "title": "LEGO City Space polybag paperbag 952405",
-    "imgUrl": "https://images1.vinted.net/t/03_00878_SNCZR2vso5Vo3z2QhLKth3AM/f800/1731866169.jpeg?s=eeedc39fed1d26666b62366179bdbe82d1810448",
-    "publicationDate": 1731866169,
-    "id": 5400154382
-  },
-  {
+    "legoId": "60441",
     "link": "https://www.vinted.fr/items/5268725564-lego-60441",
     "price": 26.43,
     "title": "Lego 60441",
@@ -24,6 +9,16 @@
     "id": 5268725564
   },
   {
+    "legoId": "60441",
+    "link": "https://www.vinted.fr/items/5400154382-lego-city-space-polybag-paperbag-952405",
+    "price": 5.95,
+    "title": "LEGO City Space polybag paperbag 952405",
+    "imgUrl": "https://images1.vinted.net/t/03_00878_SNCZR2vso5Vo3z2QhLKth3AM/f800/1731866169.jpeg?s=eeedc39fed1d26666b62366179bdbe82d1810448",
+    "publicationDate": 1731866169,
+    "id": 5400154382
+  },
+  {
+    "legoId": "60441",
     "link": "https://www.vinted.fr/items/5327478577-pack-lego-espace-60441-navette-robot-vaisseau-space",
     "price": 26.95,
     "title": "Pack Lego espace 60441 navette robot vaisseau Space",
@@ -32,6 +27,7 @@
     "id": 5327478577
   },
   {
+    "legoId": "60441",
     "link": "https://www.vinted.fr/items/5356933578-lego-city-space-explorer-60441-3-sets-en-1-neuf-et-emballe",
     "price": 26.95,
     "title": "Lego City Space Explorer 60441 3 sets en 1 neuf et emballé",
@@ -40,6 +36,16 @@
     "id": 5356933578
   },
   {
+    "legoId": "60441",
+    "link": "https://www.vinted.fr/items/5404613674-lego-pack-neuf-60441",
+    "price": 24.85,
+    "title": "Lego pack neuf 60441",
+    "imgUrl": "https://images1.vinted.net/t/04_0183a_AmdUZMNGS4nwUHtrfVSWn6bS/f800/1731941816.jpeg?s=15b58055380abb1bd081a503bf9493bd36060e5a",
+    "publicationDate": 1731941816,
+    "id": 5404613674
+  },
+  {
+    "legoId": "60441",
     "link": "https://www.vinted.fr/items/5398909000-leo-city-60441-pack-les-explorateurs-de-lespace-neuf",
     "price": 25.9,
     "title": "Léo city 60441 Pack Les explorateurs de l’espace neuf",
@@ -48,6 +54,7 @@
     "id": 5398909000
   },
   {
+    "legoId": "60441",
     "link": "https://www.vinted.fr/items/5284726632-lego-city-60441-space-explorers-pack",
     "price": 26.95,
     "title": "Lego City 60441 Space Explorers pack",
@@ -56,6 +63,7 @@
     "id": 5284726632
   },
   {
+    "legoId": "60441",
     "link": "https://www.vinted.fr/items/5058268527-lego-city-space-60441-3-in-1-with-60428-60430-30663-new",
     "price": 32.19,
     "title": "Lego City Space 60441 (3-in-1 with 60428 60430 30663) New",
@@ -64,6 +72,7 @@
     "id": 5058268527
   },
   {
+    "legoId": "60441",
     "link": "https://www.vinted.fr/items/4973016226-lego-city-60441-weltraumforscher-set-3-in-1-neu-ovp",
     "price": 30.1,
     "title": "Lego City 60441 Weltraumforscher Set 3 in 1 Neu OVP",
@@ -72,6 +81,7 @@
     "id": 4973016226
   },
   {
+    "legoId": "60441",
     "link": "https://www.vinted.fr/items/5310604159-lego-60441-space-explorers-pack",
     "price": 29.58,
     "title": "Lego 60441 Space Explorers Pack",
@@ -80,6 +90,7 @@
     "id": 5310604159
   },
   {
+    "legoId": "60441",
     "link": "https://www.vinted.fr/items/5140416937-lego-space-3-en-1",
     "price": 38.5,
     "title": "Lego space 3 en 1",

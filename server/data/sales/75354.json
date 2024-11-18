@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/4599182609-lego-notice-gunship",
     "price": 11.2,
     "title": "Lego notice gunship",
@@ -8,6 +9,7 @@
     "id": 4599182609
   },
   {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/4245657169-lego-75354",
     "price": 3.85,
     "title": "Lego 75354",
@@ -16,6 +18,7 @@
     "id": 4245657169
   },
   {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/5352316592-lego-star-wars-lego-speed-champions",
     "price": 5.95,
     "title": "lego star wars lego speed champions",
@@ -24,6 +27,7 @@
     "id": 5352316592
   },
   {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/5285388318-supporto-lego-75354-star-wars",
     "price": 15.4,
     "title": "Supporto lego 75354 Star wars",
@@ -32,6 +36,7 @@
     "id": 5285388318
   },
   {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/5149820420-lego-star-wars-clone-shock-trooper-coruscant-guard-75354",
     "price": 7,
     "title": "LEGO Star Wars Clone Shock Trooper, Coruscant Guard 75354",
@@ -40,6 +45,7 @@
     "id": 5149820420
   },
   {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/5149825671-lego-star-wars-clone-shock-trooper-coruscant-guard-75354",
     "price": 7,
     "title": "LEGO Star Wars Clone Shock Trooper, Coruscant Guard 75354",
@@ -48,6 +54,7 @@
     "id": 5149825671
   },
   {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/5149829744-lego-star-wars-clone-shock-trooper-coruscant-guard-75354",
     "price": 7,
     "title": "LEGO Star Wars Clone Shock Trooper, Coruscant Guard 75354",
@@ -56,6 +63,7 @@
     "id": 5149829744
   },
   {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/4437135896-figurine-lego-star-wars-clone-shock-trooper-sw1305-75354",
     "price": 8.05,
     "title": "Figurine Lego Star Wars Clone Shock Trooper sw1305 (75354)",
@@ -64,14 +72,7 @@
     "id": 4437135896
   },
   {
-    "link": "https://www.vinted.fr/items/5149817143-lego-star-wars-clone-shock-trooper-coruscant-guard-75354",
-    "price": 7,
-    "title": "LEGO Star Wars Clone Shock Trooper, Coruscant Guard 75354",
-    "imgUrl": "https://images1.vinted.net/t/02_01c2e_RHSfBhRZ1ca5NR2mpUdoS6yh/f800/1727943054.jpeg?s=68c349c5f98d091e5aa353ca7d74c8fc34b2205d",
-    "publicationDate": 1727943054,
-    "id": 5149817143
-  },
-  {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/5334107758-lego-75354-coruscant-guard-gunship",
     "price": 89.95,
     "title": "Lego 75354 - Coruscant Guard Gunship",
@@ -80,6 +81,16 @@
     "id": 5334107758
   },
   {
+    "legoId": "75354",
+    "link": "https://www.vinted.fr/items/5149817143-lego-star-wars-clone-shock-trooper-coruscant-guard-75354",
+    "price": 7,
+    "title": "LEGO Star Wars Clone Shock Trooper, Coruscant Guard 75354",
+    "imgUrl": "https://images1.vinted.net/t/02_01c2e_RHSfBhRZ1ca5NR2mpUdoS6yh/f800/1727943054.jpeg?s=68c349c5f98d091e5aa353ca7d74c8fc34b2205d",
+    "publicationDate": 1727943054,
+    "id": 5149817143
+  },
+  {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/4214551414-legor-75354-clone-shock-trooper-coruscant-guard",
     "price": 8.05,
     "title": "Lego® 75354 Clone Shock Trooper Coruscant Guard",
@@ -88,14 +99,7 @@
     "id": 4214551414
   },
   {
-    "link": "https://www.vinted.fr/items/5278258616-lego-75337-sans-figurines",
-    "price": 76.3,
-    "title": "Lego 75337 sans figurines",
-    "imgUrl": "https://images1.vinted.net/t/02_00262_JuKQiujHs6qDQDoH8BfvqzdS/f800/1729929349.jpeg?s=2a02c9e93347998e03e92ae66a640a52b339457a",
-    "publicationDate": 1729929349,
-    "id": 5278258616
-  },
-  {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/5261640042-lego-star-wars-75354",
     "price": 97.83,
     "title": "Lego star wars 75354",
@@ -104,30 +108,16 @@
     "id": 5261640042
   },
   {
-    "link": "https://www.vinted.fr/items/4461732275-lego-coruscant-guard-gunship-75354-star-wars-no-minifigures",
-    "price": 100.44,
-    "title": "LEGO Coruscant Guard Gunship 75354 Star Wars, NO minifigures",
-    "imgUrl": "https://images1.vinted.net/t/03_0120e_CZicN3sEPHuS2A37Q3Sy4RWb/f800/1714921604.jpeg?s=93dfb18ce5274dc7de7dde62756fa3815b5155d5",
-    "publicationDate": 1714921604,
-    "id": 4461732275
+    "legoId": "75354",
+    "link": "https://www.vinted.fr/items/5278258616-lego-75337-sans-figurines",
+    "price": 76.3,
+    "title": "Lego 75337 sans figurines",
+    "imgUrl": "https://images1.vinted.net/t/02_00262_JuKQiujHs6qDQDoH8BfvqzdS/f800/1729929349.jpeg?s=2a02c9e93347998e03e92ae66a640a52b339457a",
+    "publicationDate": 1729929349,
+    "id": 5278258616
   },
   {
-    "link": "https://www.vinted.fr/items/4448402669-lego-75354-coruscant-guard-gunship",
-    "price": 137.2,
-    "title": "LEGO 75354  Coruscant Guard Gunship",
-    "imgUrl": "https://images1.vinted.net/t/03_013e6_6aGXr4EGJGckumYwU8CB6JdR/f800/1714669875.jpeg?s=fe537f8343c9f9e090a53715e29495406722455e",
-    "publicationDate": 1714669875,
-    "id": 4448402669
-  },
-  {
-    "link": "https://www.vinted.fr/items/4510855307-chancelier-palpatine-lego-star-wars-75354",
-    "price": 32.2,
-    "title": "Chancelier Palpatine - Lego Star Wars 75354",
-    "imgUrl": "https://images1.vinted.net/t/01_01aac_h4SyU8NvYbkiAyNfxMRKV2Ks/f800/1715857661.jpeg?s=1beeb1c3cf87d06320a6d992a0df1db09aec5335",
-    "publicationDate": 1715857661,
-    "id": 4510855307
-  },
-  {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/5295436230-lego-star-wars",
     "price": 147.7,
     "title": "Lego star wars",
@@ -136,6 +126,34 @@
     "id": 5295436230
   },
   {
+    "legoId": "75354",
+    "link": "https://www.vinted.fr/items/4461732275-lego-coruscant-guard-gunship-75354-star-wars-no-minifigures",
+    "price": 100.44,
+    "title": "LEGO Coruscant Guard Gunship 75354 Star Wars, NO minifigures",
+    "imgUrl": "https://images1.vinted.net/t/03_0120e_CZicN3sEPHuS2A37Q3Sy4RWb/f800/1714921604.jpeg?s=93dfb18ce5274dc7de7dde62756fa3815b5155d5",
+    "publicationDate": 1714921604,
+    "id": 4461732275
+  },
+  {
+    "legoId": "75354",
+    "link": "https://www.vinted.fr/items/4448402669-lego-75354-coruscant-guard-gunship",
+    "price": 137.2,
+    "title": "LEGO 75354  Coruscant Guard Gunship",
+    "imgUrl": "https://images1.vinted.net/t/03_013e6_6aGXr4EGJGckumYwU8CB6JdR/f800/1714669875.jpeg?s=fe537f8343c9f9e090a53715e29495406722455e",
+    "publicationDate": 1714669875,
+    "id": 4448402669
+  },
+  {
+    "legoId": "75354",
+    "link": "https://www.vinted.fr/items/4510855307-chancelier-palpatine-lego-star-wars-75354",
+    "price": 32.2,
+    "title": "Chancelier Palpatine - Lego Star Wars 75354",
+    "imgUrl": "https://images1.vinted.net/t/01_01aac_h4SyU8NvYbkiAyNfxMRKV2Ks/f800/1715857661.jpeg?s=1beeb1c3cf87d06320a6d992a0df1db09aec5335",
+    "publicationDate": 1715857661,
+    "id": 4510855307
+  },
+  {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/4510864315-senatrice-amidala-lego-star-wars-75354",
     "price": 26.95,
     "title": "Senatrice Amidala - Lego Star Wars 75354",
@@ -144,6 +162,7 @@
     "id": 4510864315
   },
   {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/5298834371-lego-75354-starwars-coruscant-guard-gunship",
     "price": 142.45,
     "title": "Lego 75354 StarWars Coruscant Guard Gunship.",
@@ -152,14 +171,7 @@
     "id": 5298834371
   },
   {
-    "link": "https://www.vinted.fr/items/5027335464-12-clones-corruscant-lego",
-    "price": 95.2,
-    "title": "12 clones corruscant lego",
-    "imgUrl": "https://images1.vinted.net/t/02_00fd3_9fK7rznkUpvyNnQxwMDvFniX/f800/1726082311.jpeg?s=e41c248c5c6b82b27802bbdc5f9547b3222ef31e",
-    "publicationDate": 1726082311,
-    "id": 5027335464
-  },
-  {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/4703977357-lego-star-wars-chancellor-palpatine-skirt-sw1306-75354",
     "price": 32.2,
     "title": "Lego Star Wars Chancellor Palpatine - Skirt sw1306 75354",
@@ -168,6 +180,7 @@
     "id": 4703977357
   },
   {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/5191088606-lego-clone-star-wars-75354",
     "price": 95.2,
     "title": "Lego clone Star Wars 75354",
@@ -176,6 +189,16 @@
     "id": 5191088606
   },
   {
+    "legoId": "75354",
+    "link": "https://www.vinted.fr/items/5027335464-12-clones-corruscant-lego",
+    "price": 95.2,
+    "title": "12 clones corruscant lego",
+    "imgUrl": "https://images1.vinted.net/t/02_00fd3_9fK7rznkUpvyNnQxwMDvFniX/f800/1726082311.jpeg?s=e41c248c5c6b82b27802bbdc5f9547b3222ef31e",
+    "publicationDate": 1726082311,
+    "id": 5027335464
+  },
+  {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/5158553976-21-clones-lego-star-wars-officiel",
     "price": 121.45,
     "title": "21 clones lego Star Wars officiel",
@@ -184,6 +207,7 @@
     "id": 5158553976
   },
   {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/5369444117-lego-star-wars-lot",
     "price": 210.7,
     "title": "Lego Star Wars lot",
@@ -192,6 +216,7 @@
     "id": 5369444117
   },
   {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/3620737969-la-canonniere-de-coruscant-lego-star-wars-75354-coruscant-guard-gunship",
     "price": 185.5,
     "title": "La canonnière de Coruscant LEGO Star Wars 75354 : Coruscant Guard Gunship",
@@ -200,6 +225,7 @@
     "id": 3620737969
   },
   {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/3837946567-lego-75354",
     "price": 147.7,
     "title": "Lego 75354",
@@ -208,6 +234,7 @@
     "id": 3837946567
   },
   {
+    "legoId": "75354",
     "link": "https://www.vinted.fr/items/5039792690-lego-star-wars-75354-emperor-palpatine-coruscant-guard-gunship",
     "price": 147.69,
     "title": "Lego Star Wars 75354 Emperor Palpatine Coruscant Guard Gunship",

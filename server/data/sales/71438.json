@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "71438",
     "link": "https://www.vinted.fr/items/5290145345-manual-de-montaje-lego-71438-super-mario-world-mario-y-yoshi",
     "price": 16.45,
     "title": "Manual de Montaje LEGO 71438 Super Mario World Mario y Yoshi",
@@ -8,14 +9,7 @@
     "id": 5290145345
   },
   {
-    "link": "https://www.vinted.fr/items/5201838128-lego-71438-super-mario-e-yoshi-nuovo",
-    "price": 137.2,
-    "title": "Lego 71438 Super Mario e Yoshi NUOVO",
-    "imgUrl": "https://images1.vinted.net/t/02_00853_pFtTZ61Bu2yZdXLPYoqdSbuY/f800/1728729651.jpeg?s=e7cd9d318be329022692c5a935adda9fd5e3af25",
-    "publicationDate": 1728729651,
-    "id": 5201838128
-  },
-  {
+    "legoId": "71438",
     "link": "https://www.vinted.fr/items/5375980548-71438-lego-super-mario-world-mario-yoshi",
     "price": 116.19,
     "title": "71438 LEGO Super Mario World Mario & Yoshi",
@@ -24,6 +18,16 @@
     "id": 5375980548
   },
   {
+    "legoId": "71438",
+    "link": "https://www.vinted.fr/items/5201838128-lego-71438-super-mario-e-yoshi-nuovo",
+    "price": 137.2,
+    "title": "Lego 71438 Super Mario e Yoshi NUOVO",
+    "imgUrl": "https://images1.vinted.net/t/02_00853_pFtTZ61Bu2yZdXLPYoqdSbuY/f800/1728729651.jpeg?s=e7cd9d318be329022692c5a935adda9fd5e3af25",
+    "publicationDate": 1728729651,
+    "id": 5201838128
+  },
+  {
+    "legoId": "71438",
     "link": "https://www.vinted.fr/items/5375132360-super-mario-yoshi",
     "price": 116.2,
     "title": "Super Mario & Yoshi",
@@ -32,6 +36,7 @@
     "id": 5375132360
   },
   {
+    "legoId": "71438",
     "link": "https://www.vinted.fr/items/1168975927-lego-dimensions-fun-pack-71438-hermione-granger",
     "price": 16.45,
     "title": "Lego Dimensions Fun Pack 71438 Hermione Granger",

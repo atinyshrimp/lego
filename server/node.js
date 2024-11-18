@@ -74,7 +74,8 @@ async function run() {
         // await findBestDiscountDeals(database, 40);
         // await findMostCommentedDeals(database);
         // await findDealsSortedByPrice(database);
-        await findDealsSortedByDate(database);
+        // await findDealsSortedByDate(database);
+        await findSalesByLegoID(database, "71043");
 
         // Send a ping to confirm a successful connection
         await client.db("admin").command({ ping: 1 });
@@ -133,9 +134,18 @@ async function findDealsSortedByDate(db, ascending = false) {
     return sortedDeals;
 }
 
+async function findSalesByLegoID(db, legoId) {
+    const collection = db.collection(DEALS_COLLECTION);
+
+    const legoSales = await collection.find({ legoId: legoId }).toArray();
+    console.log(legoSales);
+    return legoSales;
+}
+
 module.exports = {
     findBestDiscountDeals,
     findMostCommentedDeals,
     findDealsSortedByPrice,
     findDealsSortedByDate,
+    findSalesByLegoID,
 };

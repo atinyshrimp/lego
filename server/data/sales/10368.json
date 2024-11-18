@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "10368",
     "link": "https://www.vinted.fr/items/5388730753-10368-lego-collection-botanique-chrysantheme",
     "price": 26.94,
     "title": "10368 LEGO Collection botanique Chrysanthème",
@@ -8,6 +9,7 @@
     "id": 5388730753
   },
   {
+    "legoId": "10368",
     "link": "https://www.vinted.fr/items/5395068780-lego-10368-chrysanthemum",
     "price": 26.95,
     "title": "Lego 10368 chrysanthemum",
@@ -16,6 +18,16 @@
     "id": 5395068780
   },
   {
+    "legoId": "10368",
+    "link": "https://www.vinted.fr/items/5404771839-lego-10368",
+    "price": 25.9,
+    "title": "Lego 10368",
+    "imgUrl": "https://images1.vinted.net/t/04_00f8f_SdEKiuWzHYkmbjgu5HeQRx1q/f800/1731943303.jpeg?s=00c5aa435396046cac8adae9032a8b4a106b5b21",
+    "publicationDate": 1731943303,
+    "id": 5404771839
+  },
+  {
+    "legoId": "10368",
     "link": "https://www.vinted.fr/items/5401574102-lego-10368-crisantemo-nuevo",
     "price": 25.89,
     "title": "Lego 10368 Crisantemo NUEVO",
@@ -24,6 +36,7 @@
     "id": 5401574102
   },
   {
+    "legoId": "10368",
     "link": "https://www.vinted.fr/items/5358835161-lego-botanical-collection-10368-chrysanthemum-novo",
     "price": 30.1,
     "title": "Lego botanical collection 10368 Chrysanthemum novo",
@@ -32,6 +45,7 @@
     "id": 5358835161
   },
   {
+    "legoId": "10368",
     "link": "https://www.vinted.fr/items/5380285921-lego-10368",
     "price": 25.9,
     "title": "Lego 10368",
@@ -40,6 +54,7 @@
     "id": 5380285921
   },
   {
+    "legoId": "10368",
     "link": "https://www.vinted.fr/items/5402043602-lego-10368-botanical-collection",
     "price": 24.85,
     "title": "Lego 10368 Botanical Collection",
@@ -48,6 +63,16 @@
     "id": 5402043602
   },
   {
+    "legoId": "10368",
+    "link": "https://www.vinted.fr/items/5334738721-lego-chrysanthemum-10368",
+    "price": 47.95,
+    "title": "Lego Chrysanthemum 10368",
+    "imgUrl": "https://images1.vinted.net/t/04_010ea_8fd6xS3PyfdLAz22Py5JZKka/f800/1730821419.jpeg?s=68b359c30aeab859f3fa49aea777482e261986ce",
+    "publicationDate": 1730821419,
+    "id": 5334738721
+  },
+  {
+    "legoId": "10368",
     "link": "https://www.vinted.fr/items/5260293328-lego-chrysanthemun-10368",
     "price": 25.9,
     "title": "Lego Chrysanthemun 10368",
@@ -56,6 +81,7 @@
     "id": 5260293328
   },
   {
+    "legoId": "10368",
     "link": "https://www.vinted.fr/items/5072402174-lego-10368",
     "price": 32.2,
     "title": "Lego 10368",
@@ -64,19 +90,12 @@
     "id": 5072402174
   },
   {
+    "legoId": "10368",
     "link": "https://www.vinted.fr/items/5179020635-lego-10368",
     "price": 26.95,
     "title": "Lego 10368",
     "imgUrl": "https://images1.vinted.net/t/03_0072e_QmPFpngBYySN79Jj8paLuzx7/f800/1728331153.jpeg?s=4fa81d1676c9cb9b21c135fcbbf1e4eaec542cdb",
     "publicationDate": 1728331153,
     "id": 5179020635
-  },
-  {
-    "link": "https://www.vinted.fr/items/5334738721-lego-chrysanthemum-10368",
-    "price": 47.95,
-    "title": "Lego Chrysanthemum 10368",
-    "imgUrl": "https://images1.vinted.net/t/04_010ea_8fd6xS3PyfdLAz22Py5JZKka/f800/1730821419.jpeg?s=68b359c30aeab859f3fa49aea777482e261986ce",
-    "publicationDate": 1730821419,
-    "id": 5334738721
   }
 ]

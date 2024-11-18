@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/5320278439-boite-vide-lego-harry-potter-76430-la-voliere",
     "price": 5.95,
     "title": "Boite vide Lego Harry Potter 76430 la voliere",
@@ -8,14 +9,7 @@
     "id": 5320278439
   },
   {
-    "link": "https://www.vinted.fr/items/5398026774-lego-harry-potter",
-    "price": 32.2,
-    "title": "Lego harry potter",
-    "imgUrl": "https://images1.vinted.net/t/03_01af4_4jkBybMvrV92eur68LiWoo8y/f800/1731853839.jpeg?s=36088a70ece157c3c28f189d90851f1fcbfdac3d",
-    "publicationDate": 1731853839,
-    "id": 5398026774
-  },
-  {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/5401245320-lego-harry-potter-torre-dei-gufi",
     "price": 36.3,
     "title": "Lego Harry Potter, torre dei gufi",
@@ -24,6 +18,7 @@
     "id": 5401245320
   },
   {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/5346590859-lego-livro-de-instrucoes-harry-potter-76430",
     "price": 2.28,
     "title": "Lego livro de instruções Harry Potter 76430",
@@ -32,46 +27,16 @@
     "id": 5346590859
   },
   {
-    "link": "https://www.vinted.fr/items/5355827792-lego-76430-novo-e-selado-caixa-impecavel",
-    "price": 36.4,
-    "title": "Lego 76430 novo e selado caixa impecável",
-    "imgUrl": "https://images1.vinted.net/t/04_01648_rTq483DxEPAejtvEg5yTnwgP/f800/1731206805.jpeg?s=7b486d6891b48c2aa3e115ff9e69672f8b21eb93",
-    "publicationDate": 1731206805,
-    "id": 5355827792
+    "legoId": "76430",
+    "link": "https://www.vinted.fr/items/5405261453-lego-harry-potter-76430",
+    "price": 36.3,
+    "title": "Lego Harry Potter 76430",
+    "imgUrl": "https://images1.vinted.net/t/04_008d9_jCzw92XqZnXrpwEp1VNvkzR2/f800/1731948145.jpeg?s=3f74db91314fd0df8cac4ecde74c8203ad94b5e4",
+    "publicationDate": 1731948145,
+    "id": 5405261453
   },
   {
-    "link": "https://www.vinted.fr/items/5390223612-figurine-hp469",
-    "price": 6.99,
-    "title": "Figurine HP469",
-    "imgUrl": "https://images1.vinted.net/t/04_026b8_1RA4Tah81Z8nvYJj3dPpojAF/f800/1731756884.jpeg?s=28422424e0fd34446ea3e338fe66db100ededc76",
-    "publicationDate": 1731756884,
-    "id": 5390223612
-  },
-  {
-    "link": "https://www.vinted.fr/items/5109085082-lego-harry-potter",
-    "price": 37.45,
-    "title": "Lego harry potter",
-    "imgUrl": "https://images1.vinted.net/t/03_01657_wSHLuY5mjdrEikL8VnMXyMaG/f800/1727333601.jpeg?s=4d7eb0b2d7db246c9360c29cc0dc539c82aef243",
-    "publicationDate": 1727333601,
-    "id": 5109085082
-  },
-  {
-    "link": "https://www.vinted.fr/items/4826170563-lego-76430-harry-potter",
-    "price": 37.45,
-    "title": "Lego 76430 harry potter",
-    "imgUrl": "https://images1.vinted.net/t/03_00dca_dpoHQGbMFYaREJxh962LTrYb/f800/1722335444.jpeg?s=745d04ed5c6eaf0ff805ac768f5c16680465654a",
-    "publicationDate": 1722335444,
-    "id": 4826170563
-  },
-  {
-    "link": "https://www.vinted.fr/items/4894658288-lego-harry-potter-cone-toit-35563",
-    "price": 2.7,
-    "title": "Lego harry Potter cone toit 35563",
-    "imgUrl": "https://images1.vinted.net/t/01_01712_pWM7Yj6k9smw2g134qz56jVa/f800/1723818845.jpeg?s=afa422af9d9e88fdeae93ae399d181ce233737a0",
-    "publicationDate": 1723818845,
-    "id": 4894658288
-  },
-  {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/5402043748-lego-harry-potter-76430",
     "price": 34.3,
     "title": "Lego harry potter 76430",
@@ -80,6 +45,52 @@
     "id": 5402043748
   },
   {
+    "legoId": "76430",
+    "link": "https://www.vinted.fr/items/5355827792-lego-76430-novo-e-selado-caixa-impecavel",
+    "price": 36.4,
+    "title": "Lego 76430 novo e selado caixa impecável",
+    "imgUrl": "https://images1.vinted.net/t/04_01648_rTq483DxEPAejtvEg5yTnwgP/f800/1731206805.jpeg?s=7b486d6891b48c2aa3e115ff9e69672f8b21eb93",
+    "publicationDate": 1731206805,
+    "id": 5355827792
+  },
+  {
+    "legoId": "76430",
+    "link": "https://www.vinted.fr/items/5390223612-figurine-hp469",
+    "price": 6.99,
+    "title": "Figurine HP469",
+    "imgUrl": "https://images1.vinted.net/t/04_026b8_1RA4Tah81Z8nvYJj3dPpojAF/f800/1731756884.jpeg?s=28422424e0fd34446ea3e338fe66db100ededc76",
+    "publicationDate": 1731756884,
+    "id": 5390223612
+  },
+  {
+    "legoId": "76430",
+    "link": "https://www.vinted.fr/items/5109085082-lego-harry-potter",
+    "price": 37.45,
+    "title": "Lego harry potter",
+    "imgUrl": "https://images1.vinted.net/t/03_01657_wSHLuY5mjdrEikL8VnMXyMaG/f800/1727333601.jpeg?s=4d7eb0b2d7db246c9360c29cc0dc539c82aef243",
+    "publicationDate": 1727333601,
+    "id": 5109085082
+  },
+  {
+    "legoId": "76430",
+    "link": "https://www.vinted.fr/items/4826170563-lego-76430-harry-potter",
+    "price": 37.45,
+    "title": "Lego 76430 harry potter",
+    "imgUrl": "https://images1.vinted.net/t/03_00dca_dpoHQGbMFYaREJxh962LTrYb/f800/1722335444.jpeg?s=745d04ed5c6eaf0ff805ac768f5c16680465654a",
+    "publicationDate": 1722335444,
+    "id": 4826170563
+  },
+  {
+    "legoId": "76430",
+    "link": "https://www.vinted.fr/items/4894658288-lego-harry-potter-cone-toit-35563",
+    "price": 2.7,
+    "title": "Lego harry Potter cone toit 35563",
+    "imgUrl": "https://images1.vinted.net/t/01_01712_pWM7Yj6k9smw2g134qz56jVa/f800/1723818845.jpeg?s=afa422af9d9e88fdeae93ae399d181ce233737a0",
+    "publicationDate": 1723818845,
+    "id": 4894658288
+  },
+  {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/5376944794-lego-76430-hogwarts-castle-owlery",
     "price": 38.5,
     "title": "Lego 76430 - Hogwarts Castle Owlery",
@@ -88,6 +99,7 @@
     "id": 5376944794
   },
   {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/5345618096-lego-harry-potter-hogwarts-castle-owlery-76430",
     "price": 47.95,
     "title": "Lego Harry Potter - Hogwarts Castle Owlery (76430)",
@@ -96,6 +108,7 @@
     "id": 5345618096
   },
   {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/4259544791-lego-harry-potter-76430-la-voliere-du-chateau-de-poudlard",
     "price": 47.95,
     "title": "Lego Harry Potter 76430 la volière du château de Poudlard ",
@@ -104,14 +117,7 @@
     "id": 4259544791
   },
   {
-    "link": "https://www.vinted.fr/items/4428330544-lego-harry-potter-76430",
-    "price": 42.7,
-    "title": "Lego harry potter 76430",
-    "imgUrl": "https://images1.vinted.net/t/03_0202f_pdorjuiag1kXiDxkc3hx39F8/f800/1714306874.jpeg?s=4aa5dbc013335fec40a07990c49dc2dfa83467ef",
-    "publicationDate": 1714306874,
-    "id": 4428330544
-  },
-  {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/4883778105-lego-76430",
     "price": 42.7,
     "title": "Lego 76430",
@@ -120,6 +126,16 @@
     "id": 4883778105
   },
   {
+    "legoId": "76430",
+    "link": "https://www.vinted.fr/items/4428330544-lego-harry-potter-76430",
+    "price": 42.7,
+    "title": "Lego harry potter 76430",
+    "imgUrl": "https://images1.vinted.net/t/03_0202f_pdorjuiag1kXiDxkc3hx39F8/f800/1714306874.jpeg?s=4aa5dbc013335fec40a07990c49dc2dfa83467ef",
+    "publicationDate": 1714306874,
+    "id": 4428330544
+  },
+  {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/5372495806-lego-76430-harry-potter-hogwarts-castle-owlery",
     "price": 40.08,
     "title": "LEGO 76430 Harry Potter Hogwarts Castle Owlery",
@@ -128,6 +144,7 @@
     "id": 5372495806
   },
   {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/5200859851-lego-harry-potter-hogwarts-castle-pack-x3-764267643076431",
     "price": 125.65,
     "title": "Lego Harry Potter - Hogwarts Castle Pack X3 - 76426+76430+76431",
@@ -136,6 +153,7 @@
     "id": 5200859851
   },
   {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/5397397075-lego-harry-potter-pack-x2-7642676430",
     "price": 84.7,
     "title": "Lego Harry Potter - Pack X2 - 76426+76430",
@@ -144,6 +162,7 @@
     "id": 5397397075
   },
   {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/5398048444-lego-collection",
     "price": 561,
     "title": "Lego collection",
@@ -152,6 +171,7 @@
     "id": 5398048444
   },
   {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/4474815374-lego-76430-harry-potter-lechuceria-del-castillo-de-hogwarts",
     "price": 44.8,
     "title": "Lego 76430 Harry Potter lechuceria del castillo de hogwarts",
@@ -160,6 +180,7 @@
     "id": 4474815374
   },
   {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/5368970297-lego-harry-potter",
     "price": 95.2,
     "title": "Lego Harry Potter",
@@ -168,6 +189,7 @@
     "id": 5368970297
   },
   {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/5168034870-lego-harry-potter",
     "price": 42.7,
     "title": "Lego Harry Potter",
@@ -176,6 +198,7 @@
     "id": 5168034870
   },
   {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/4613846760-guferia-del-castello-di-hogwarts-76430-lego-harry-potter",
     "price": 52.15,
     "title": "Guferia del Castello di Hogwarts - 76430 LEGO Harry Potter",
@@ -184,6 +207,7 @@
     "id": 4613846760
   },
   {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/5355793267-lego-76430",
     "price": 47.95,
     "title": "Lego 76430",
@@ -192,6 +216,7 @@
     "id": 5355793267
   },
   {
+    "legoId": "76430",
     "link": "https://www.vinted.fr/items/4608318314-lego-harry-potter",
     "price": 184.45,
     "title": "Lego Harry potter",

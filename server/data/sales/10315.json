@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5395361724-boite-lego-icons-10315",
     "price": 2.8,
     "title": "Boîte Lego icons 10315",
@@ -8,6 +9,7 @@
     "id": 5395361724
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/3326783926-lego-icons-10315-jardin-tranquille-notice-dinstruction-seulement-tres-bon-etat",
     "price": 9.1,
     "title": "Lego Icons 10315 jardin tranquille notice d'instruction seulement très bon état.",
@@ -16,6 +18,7 @@
     "id": 3326783926
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/4737815487-lego-jardin-paisible-10315",
     "price": 84.7,
     "title": "Lego Jardin Paisible 10315",
@@ -24,6 +27,7 @@
     "id": 4737815487
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5256425800-lego-10315",
     "price": 79.45,
     "title": "Lego 10315",
@@ -32,6 +36,7 @@
     "id": 5256425800
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5386004715-lege-lego-dozen-origineel",
     "price": 21.7,
     "title": "lege lego dozen  origineel",
@@ -40,14 +45,7 @@
     "id": 5386004715
   },
   {
-    "link": "https://www.vinted.fr/items/5397044473-lego-10315-neuf-non-ouvert",
-    "price": 74.2,
-    "title": "Lego 10315 neuf non ouvert",
-    "imgUrl": "https://images1.vinted.net/t/04_00aab_smJh7ZLKgRo1mYEXTAdTp3Xf/f800/1731848479.jpeg?s=f77c8fa7a3f2af9fbc2ec80af822dcc69d7645ea",
-    "publicationDate": 1731848479,
-    "id": 5397044473
-  },
-  {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5369551739-lego-set-10315",
     "price": 68.95,
     "title": "Lego Set 10315",
@@ -56,6 +54,7 @@
     "id": 5369551739
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5388896526-lego-set-10315",
     "price": 51.1,
     "title": "Lego Set 10315",
@@ -64,6 +63,7 @@
     "id": 5388896526
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5369719493-lot-de-10-notices-lego",
     "price": 13.3,
     "title": "LOT de 10 notices LEGO",
@@ -72,6 +72,7 @@
     "id": 5369719493
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5311958183-lego-tranquil-garden-10315",
     "price": 68.95,
     "title": "Lego Tranquil Garden 10315",
@@ -80,14 +81,7 @@
     "id": 5311958183
   },
   {
-    "link": "https://www.vinted.fr/items/5396099643-lego-icons-10315-tranquil-garden",
-    "price": 79.45,
-    "title": "LEGO Icons 10315 Tranquil Garden",
-    "imgUrl": "https://images1.vinted.net/t/03_017de_NjmjD976dfTFne3LiPtQMwqo/f800/1731842842.jpeg?s=b40dd6c354c60804186eac9feb4462e960dff12e",
-    "publicationDate": 1731842842,
-    "id": 5396099643
-  },
-  {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/4340295771-lego-10315",
     "price": 89.95,
     "title": "Lego 10315",
@@ -96,6 +90,16 @@
     "id": 4340295771
   },
   {
+    "legoId": "10315",
+    "link": "https://www.vinted.fr/items/5396099643-lego-icons-10315-tranquil-garden",
+    "price": 79.45,
+    "title": "LEGO Icons 10315 Tranquil Garden",
+    "imgUrl": "https://images1.vinted.net/t/03_017de_NjmjD976dfTFne3LiPtQMwqo/f800/1731842842.jpeg?s=b40dd6c354c60804186eac9feb4462e960dff12e",
+    "publicationDate": 1731842842,
+    "id": 5396099643
+  },
+  {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5285936715-lego-set-10315",
     "price": 68.95,
     "title": "Lego set 10315",
@@ -104,6 +108,7 @@
     "id": 5285936715
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/4275577128-lego-icons-10315-garden",
     "price": 77.35,
     "title": "Lego icons 10315 garden",
@@ -112,6 +117,7 @@
     "id": 4275577128
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5368588966-lego-rustgevende-tuin-10315",
     "price": 71.58,
     "title": "Lego rustgevende tuin 10315",
@@ -120,6 +126,7 @@
     "id": 5368588966
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/3893388390-lego-natal-santas-workshop-40565-selado",
     "price": 40.59,
     "title": "Lego - Natal -  Santa's Workshop - 40565 selado",
@@ -128,22 +135,7 @@
     "id": 3893388390
   },
   {
-    "link": "https://www.vinted.fr/items/5314489546-lego-10315-jardim-tranquilo",
-    "price": 79.45,
-    "title": "Lego 10315 Jardim tranquilo",
-    "imgUrl": "https://images1.vinted.net/t/04_01f5d_V8g26tnzFSUaV1GVj5ruafq1/f800/1730517232.jpeg?s=703144ed901eec8e8559372fb3559796c4ed9539",
-    "publicationDate": 1730517232,
-    "id": 5314489546
-  },
-  {
-    "link": "https://www.vinted.fr/items/4987772238-lego-icons-10315-tranquil-garden-new",
-    "price": 79.45,
-    "title": "Lego icons 10315 Tranquil Garden NEW",
-    "imgUrl": "https://images1.vinted.net/t/01_00e4b_vUzz7fi57NRpxWGSHt6BvNMF/f800/1725469529.jpeg?s=85cf89d209c4d31d5653dadf35c5bda1e9061c1f",
-    "publicationDate": 1725469529,
-    "id": 4987772238
-  },
-  {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/4682779014-10315-jardin-meditativo-lego",
     "price": 84.6,
     "title": "10315 Jardín meditativo LEGO",
@@ -152,6 +144,25 @@
     "id": 4682779014
   },
   {
+    "legoId": "10315",
+    "link": "https://www.vinted.fr/items/4987772238-lego-icons-10315-tranquil-garden-new",
+    "price": 79.45,
+    "title": "Lego icons 10315 Tranquil Garden NEW",
+    "imgUrl": "https://images1.vinted.net/t/01_00e4b_vUzz7fi57NRpxWGSHt6BvNMF/f800/1725469529.jpeg?s=85cf89d209c4d31d5653dadf35c5bda1e9061c1f",
+    "publicationDate": 1725469529,
+    "id": 4987772238
+  },
+  {
+    "legoId": "10315",
+    "link": "https://www.vinted.fr/items/5314489546-lego-10315-jardim-tranquilo",
+    "price": 79.45,
+    "title": "Lego 10315 Jardim tranquilo",
+    "imgUrl": "https://images1.vinted.net/t/04_01f5d_V8g26tnzFSUaV1GVj5ruafq1/f800/1730517232.jpeg?s=703144ed901eec8e8559372fb3559796c4ed9539",
+    "publicationDate": 1730517232,
+    "id": 5314489546
+  },
+  {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5398983037-lego-10315",
     "price": 68.95,
     "title": "Lego 10315",
@@ -160,6 +171,7 @@
     "id": 5398983037
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5360149710-lego-10315-jardin-paisible",
     "price": 105.7,
     "title": "Lego 10315 jardin paisible",
@@ -168,14 +180,7 @@
     "id": 5360149710
   },
   {
-    "link": "https://www.vinted.fr/items/5236422178-lego-speed-champions-76914-selado",
-    "price": 20.64,
-    "title": "Lego - Speed Champions - 76914 - Selado",
-    "imgUrl": "https://images1.vinted.net/t/03_0121f_owPzBs1hgGFdCrhPqZSESrr6/f800/1729248352.jpeg?s=28f371bed0c381874169a80d75b59d72c42c9f58",
-    "publicationDate": 1729248352,
-    "id": 5236422178
-  },
-  {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5388971875-lego-icons-10315-tranquil-garden",
     "price": 104.65,
     "title": "Lego Icons 10315 - Tranquil Garden",
@@ -184,6 +189,16 @@
     "id": 5388971875
   },
   {
+    "legoId": "10315",
+    "link": "https://www.vinted.fr/items/5236422178-lego-speed-champions-76914-selado",
+    "price": 20.64,
+    "title": "Lego - Speed Champions - 76914 - Selado",
+    "imgUrl": "https://images1.vinted.net/t/03_0121f_owPzBs1hgGFdCrhPqZSESrr6/f800/1729248352.jpeg?s=28f371bed0c381874169a80d75b59d72c42c9f58",
+    "publicationDate": 1729248352,
+    "id": 5236422178
+  },
+  {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5347094226-lego-icons-10315-tranquil-garden",
     "price": 95.2,
     "title": "Lego Icons 10315 Tranquil Garden",
@@ -192,6 +207,16 @@
     "id": 5347094226
   },
   {
+    "legoId": "10315",
+    "link": "https://www.vinted.fr/items/5120785455-lego-jardin-paisible-10315-neuf-et-scelle",
+    "price": 97.3,
+    "title": "Lego Jardin Paisible 10315 NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/02_0154f_jN74BwLDKUSrv2SGcNtqMZej/f800/1727527149.jpeg?s=f4c6473853ac30ff3cd782c168fb971866c4788c",
+    "publicationDate": 1727527149,
+    "id": 5120785455
+  },
+  {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/4912888593-rustgevende-tuin-lego-10315",
     "price": 83.65,
     "title": "Rustgevende tuin - lego 10315",
@@ -200,14 +225,7 @@
     "id": 4912888593
   },
   {
-    "link": "https://www.vinted.fr/items/5120785455-lego-jardin-paisible-10315-neuf-et-scelle",
-    "price": 99.4,
-    "title": "Lego Jardin Paisible 10315 NEUF et scellé",
-    "imgUrl": "https://images1.vinted.net/t/02_0154f_jN74BwLDKUSrv2SGcNtqMZej/f800/1727527149.jpeg?s=f4c6473853ac30ff3cd782c168fb971866c4788c",
-    "publicationDate": 1727527149,
-    "id": 5120785455
-  },
-  {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/4514467490-lego-icons-tranquil-garden-ref-10315",
     "price": 89.95,
     "title": "Lego icons tranquil garden ref 10315",
@@ -216,6 +234,7 @@
     "id": 4514467490
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5284938198-lego-set-tranquil-garden-10315-nieuw",
     "price": 84.7,
     "title": "Lego set - Tranquil Garden 10315 NIEUW",
@@ -224,6 +243,7 @@
     "id": 5284938198
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5161628109-lego-le-jardin-paisible-10315",
     "price": 89.95,
     "title": "Lego - le jardin paisible - 10315",
@@ -232,6 +252,7 @@
     "id": 5161628109
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/3604490012-lego-10315-tranquil-garden",
     "price": 89.95,
     "title": "Lego 10315 Tranquil garden",
@@ -240,6 +261,7 @@
     "id": 3604490012
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/4553532356-lego-icons-10315-tranquil-garden-new-and-sealed",
     "price": 86.8,
     "title": "Lego icons 10315 tranquil garden New and sealed",
@@ -248,6 +270,7 @@
     "id": 4553532356
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/4640098763-lego-icons-garden-10315",
     "price": 95.2,
     "title": "Lego icons garden 10315",
@@ -256,6 +279,7 @@
     "id": 4640098763
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/3707686205-lego-10315-neuf",
     "price": 116.2,
     "title": "Lego 10315 neuf ",
@@ -264,6 +288,7 @@
     "id": 3707686205
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/4712498838-lego-10315",
     "price": 95.2,
     "title": "Lego 10315",
@@ -272,6 +297,7 @@
     "id": 4712498838
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/4420777833-lego-icons-10315-nieuwe-set",
     "price": 83.65,
     "title": "Lego Icons 10315 nieuwe set",
@@ -280,6 +306,7 @@
     "id": 4420777833
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/4010645090-lego-icons-jardim-tranquilo-10315",
     "price": 88.9,
     "title": "Lego icons - jardim tranquilo - 10315",
@@ -288,6 +315,7 @@
     "id": 4010645090
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/4377443899-lego-icons-10315",
     "price": 100.45,
     "title": "Lego icons 10315",
@@ -296,6 +324,7 @@
     "id": 4377443899
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/4188858052-lego-creator-10315-tanquil-garden",
     "price": 89.95,
     "title": "Lego Creator 10315 Tanquil Garden ",
@@ -304,6 +333,7 @@
     "id": 4188858052
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/3985131416-lego-10315-nieuw",
     "price": 89.95,
     "title": "Lego 10315 - nieuw ",
@@ -312,6 +342,7 @@
     "id": 3985131416
   },
   {
+    "legoId": "10315",
     "link": "https://www.vinted.fr/items/5236448409-lego-art-floral-31207-selado-descontinuado",
     "price": 50.04,
     "title": "Lego - Art Floral - 31207 - Selado - Descontinuado",

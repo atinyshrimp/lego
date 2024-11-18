@@ -1,13 +1,6 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5392224388-lego-disney-princess-43253-adventskalender-2024",
-    "price": 31.15,
-    "title": "LEGO Disney Princess 43253 Adventskalender 2024",
-    "imgUrl": "https://images1.vinted.net/t/04_01893_uE8nUpqdb8HzRHzkwGRmpmcA/f800/1731772088.jpeg?s=7d84b5eafca7655819a4381c359b52a02a48f157",
-    "publicationDate": 1731772088,
-    "id": 5392224388
-  },
-  {
+    "legoId": "43253",
     "link": "https://www.vinted.fr/items/5346330761-calendrier-de-l-avent-lego-disney-princesses-43253-modele-2024",
     "price": 31.15,
     "title": "Calendrier de l avent lego Disney Princesses 43253 , modèle 2024",

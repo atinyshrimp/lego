@@ -1,13 +1,15 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5365176904-lego-creator-31087",
-    "price": 7,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/04_01db4_1uy2C21m3KmT9aqfFd49Sapj/f800/1731329702.jpeg?s=2b8da7ecad411bae81952a8c89278825c8d9c3d7",
-    "publicationDate": 1731329702,
-    "id": 5365176904
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5405738599-lego-buggy-31087",
+    "price": 5.95,
+    "title": "Lego buggy 31087",
+    "imgUrl": "https://images1.vinted.net/t/04_01c06_QChYSFdCnk7QVQehNRE72RiN/f800/1731952686.jpeg?s=7a3a4e253e92edfb82dcf2b486658fb78c83138f",
+    "publicationDate": 1731952686,
+    "id": 5405738599
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5166001418-lego-creator-31087",
     "price": 7,
     "title": "Lego Creator 31087",
@@ -16,6 +18,7 @@
     "id": 5166001418
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/2806629865-lego-creator-3in1",
     "price": 11.2,
     "title": "Lego creator 3in1",
@@ -24,14 +27,16 @@
     "id": 2806629865
   },
   {
-    "link": "https://www.vinted.fr/items/5336141066-lego-3-en-1-31087-buggy",
-    "price": 11.2,
-    "title": "Lego 3 en 1 31087 Buggy",
-    "imgUrl": "https://images1.vinted.net/t/04_01635_yzrNJQQs5hof6NtFTVC5aHEQ/f800/1730837992.jpeg?s=6cb41e3d62cf6cbd20b817487e43e973f9ada452",
-    "publicationDate": 1730837992,
-    "id": 5336141066
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5365176904-lego-creator-31087",
+    "price": 7,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/04_01db4_1uy2C21m3KmT9aqfFd49Sapj/f800/1731329702.jpeg?s=2b8da7ecad411bae81952a8c89278825c8d9c3d7",
+    "publicationDate": 1731329702,
+    "id": 5365176904
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5340689316-lego-creator-31087",
     "price": 5.95,
     "title": "Lego creator 31087",
@@ -40,14 +45,16 @@
     "id": 5340689316
   },
   {
-    "link": "https://www.vinted.fr/items/5234289363-lego-creator-31087-neuf",
-    "price": 13.3,
-    "title": "Lego creator 31087 neuf",
-    "imgUrl": "https://images1.vinted.net/t/03_00816_ae378FoowPZc9C5YPjaLgSqj/f800/1729190460.jpeg?s=5e7123790aae1b2eb1dc45b95fff7628abed7283",
-    "publicationDate": 1729190460,
-    "id": 5234289363
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5336141066-lego-3-en-1-31087-buggy",
+    "price": 11.2,
+    "title": "Lego 3 en 1 31087 Buggy",
+    "imgUrl": "https://images1.vinted.net/t/04_01635_yzrNJQQs5hof6NtFTVC5aHEQ/f800/1730837992.jpeg?s=6cb41e3d62cf6cbd20b817487e43e973f9ada452",
+    "publicationDate": 1730837992,
+    "id": 5336141066
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5232435474-lego-creator-31087",
     "price": 5.95,
     "title": "Lego Creator 31087",
@@ -56,6 +63,7 @@
     "id": 5232435474
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4871943837-lego-3-en-1-31087",
     "price": 5.95,
     "title": "Lego 3 en 1 31087",
@@ -64,6 +72,16 @@
     "id": 4871943837
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5234289363-lego-creator-31087-neuf",
+    "price": 13.3,
+    "title": "Lego creator 31087 neuf",
+    "imgUrl": "https://images1.vinted.net/t/03_00816_ae378FoowPZc9C5YPjaLgSqj/f800/1729190460.jpeg?s=5e7123790aae1b2eb1dc45b95fff7628abed7283",
+    "publicationDate": 1729190460,
+    "id": 5234289363
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3812214658-lego-31087-buggy-avion-et-tout-terrain",
     "price": 11.2,
     "title": "LEGO 31087 Buggy, avion et tout terrain ",
@@ -72,6 +90,7 @@
     "id": 3812214658
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5376822837-lego-31087",
     "price": 8.05,
     "title": "Lego 31087",
@@ -80,6 +99,7 @@
     "id": 5376822837
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4588318810-lego-creator-31087-complet",
     "price": 7,
     "title": "Lego creator 31087 complet",
@@ -88,6 +108,7 @@
     "id": 4588318810
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5181329442-lego-31087",
     "price": 8.05,
     "title": "Lego 31087",
@@ -96,6 +117,7 @@
     "id": 5181329442
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5230629797-lego-31087",
     "price": 13.3,
     "title": "Lego 31087",
@@ -104,14 +126,7 @@
     "id": 5230629797
   },
   {
-    "link": "https://www.vinted.fr/items/5389822499-lego-creator-31087-buggy-des-dunes",
-    "price": 7,
-    "title": "Lego creator 31087 Buggy des Dunes",
-    "imgUrl": "https://images1.vinted.net/t/04_020d4_QVPnpNeT83JZXAbreMxBSLd1/f800/1731753599.jpeg?s=15b6bb3ca407c456b1daf0b4678015c1f8cf825f",
-    "publicationDate": 1731753599,
-    "id": 5389822499
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5326404613-lego-creator-31087-3-en-1-le-buggy-des-dunes",
     "price": 11.2,
     "title": "Lego creator 31087  3 en 1  « Le buggy des dunes »",
@@ -120,6 +135,16 @@
     "id": 5326404613
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5389822499-lego-creator-31087-buggy-des-dunes",
+    "price": 7,
+    "title": "Lego creator 31087 Buggy des Dunes",
+    "imgUrl": "https://images1.vinted.net/t/04_020d4_QVPnpNeT83JZXAbreMxBSLd1/f800/1731753599.jpeg?s=15b6bb3ca407c456b1daf0b4678015c1f8cf825f",
+    "publicationDate": 1731753599,
+    "id": 5389822499
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3670629934-lego-31087-complet",
     "price": 5.95,
     "title": "Lego 31087 complet",
@@ -128,6 +153,7 @@
     "id": 3670629934
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5368241372-lego-31087-3-in-1-complet-avec-notices",
     "price": 9.1,
     "title": "Lego 31087 3 in 1 complet avec notices",
@@ -136,6 +162,7 @@
     "id": 5368241372
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5276180470-lego-creator-31087",
     "price": 16.45,
     "title": "Lego creator 31087",
@@ -144,6 +171,7 @@
     "id": 5276180470
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4823474416-lego-31087",
     "price": 5.95,
     "title": "Lego 31087",
@@ -152,14 +180,7 @@
     "id": 4823474416
   },
   {
-    "link": "https://www.vinted.fr/items/5401389362-lego-creator-flugzeug",
-    "price": 11.2,
-    "title": "Lego Creator Flugzeug",
-    "imgUrl": "https://images1.vinted.net/t/01_02050_fsffuRu7ARNLpPW4HZYffXmc/f800/1731876468.jpeg?s=d896a70bb14f342326f44d56cb133fad4f0bf147",
-    "publicationDate": 1731876468,
-    "id": 5401389362
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5187348502-lego-31087-buggy-des-dunes",
     "price": 7,
     "title": "Lego 31087 - Buggy des dunes",
@@ -168,14 +189,7 @@
     "id": 5187348502
   },
   {
-    "link": "https://www.vinted.fr/items/5333830483-lego-creature-3en1-31087",
-    "price": 13.3,
-    "title": "Lego créature 3en1 31087",
-    "imgUrl": "https://images1.vinted.net/t/04_0189d_YbeWVSbPMJrm91Awrm4qHHBG/f800/1730812208.jpeg?s=56aed8de38325f2bcb029c1ace77d60ab6619836",
-    "publicationDate": 1730812208,
-    "id": 5333830483
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5365894021-lego-creator-voiture-31087",
     "price": 5.95,
     "title": "Lego créator voiture 31087",
@@ -184,38 +198,16 @@
     "id": 5365894021
   },
   {
-    "link": "https://www.vinted.fr/items/3920164574-lego-creator-31087",
-    "price": 5.95,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_0217d_1Gu7CTJ2c1BTwu5VGwWFZ1nZ/f800/1703887552.jpeg?s=54ea5711923111045432872cb4574610d4402c5a",
-    "publicationDate": 1703887552,
-    "id": 3920164574
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5333830483-lego-creature-3en1-31087",
+    "price": 13.3,
+    "title": "Lego créature 3en1 31087",
+    "imgUrl": "https://images1.vinted.net/t/04_0189d_YbeWVSbPMJrm91Awrm4qHHBG/f800/1730812208.jpeg?s=56aed8de38325f2bcb029c1ace77d60ab6619836",
+    "publicationDate": 1730812208,
+    "id": 5333830483
   },
   {
-    "link": "https://www.vinted.fr/items/4986838942-lego-creator-31087",
-    "price": 11.2,
-    "title": "Lego Creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_01cd9_QSRe1syeZNoBGgT2t5Art8qr/f800/1725460575.jpeg?s=413053d61f94cf58fc773f0caa77091c6783677e",
-    "publicationDate": 1725460575,
-    "id": 4986838942
-  },
-  {
-    "link": "https://www.vinted.fr/items/3872210590-lego-creator-31087",
-    "price": 7,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_01a56_GzNhZzsJwksbAb4ds9FWxRuk/f800/1702311473.jpeg?s=575e97e888fadf3b769cd03f38e52dce978fd6dd",
-    "publicationDate": 1702311473,
-    "id": 3872210590
-  },
-  {
-    "link": "https://www.vinted.fr/items/4380842228-lego-creator-3-en-1-complet-31087",
-    "price": 5.43,
-    "title": "Lego creator 3 en 1 complet 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_00502_oQjTrCtkjmfprVeH2RAGzmuw/f800/1713432926.jpeg?s=24fc22db52877c3da1afaf55702d996d22823dee",
-    "publicationDate": 1713432926,
-    "id": 4380842228
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3809919373-lego-creator-31087-dune-buggy",
     "price": 7.53,
     "title": "Lego creator 31087 Dune buggy ",
@@ -224,22 +216,43 @@
     "id": 3809919373
   },
   {
-    "link": "https://www.vinted.fr/items/5349349717-lego-creator-nr-31087",
-    "price": 4.9,
-    "title": "Lego creator nr. 31087",
-    "imgUrl": "https://images1.vinted.net/t/04_0004e_zWbubpnjrSpZmJWqipKzX2Hi/f800/1731090474.jpeg?s=8dcb003c9da53964b2d2796dfe334cb0adbc68dc",
-    "publicationDate": 1731090474,
-    "id": 5349349717
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3920164574-lego-creator-31087",
+    "price": 5.95,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/01_0217d_1Gu7CTJ2c1BTwu5VGwWFZ1nZ/f800/1703887552.jpeg?s=54ea5711923111045432872cb4574610d4402c5a",
+    "publicationDate": 1703887552,
+    "id": 3920164574
   },
   {
-    "link": "https://www.vinted.fr/items/5063133543-jouet-lego-creator-le-buggy-des-dunes-numero-31087",
-    "price": 10.15,
-    "title": "Jouet Lego Créator le buggy des dunes numéro 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_00f73_bVA63BbnENAUmA1T3imax573/f800/1726599212.jpeg?s=c19c77331ca65c3443cdd03183f53e177103eb61",
-    "publicationDate": 1726599212,
-    "id": 5063133543
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4986838942-lego-creator-31087",
+    "price": 11.2,
+    "title": "Lego Creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/01_01cd9_QSRe1syeZNoBGgT2t5Art8qr/f800/1725460575.jpeg?s=413053d61f94cf58fc773f0caa77091c6783677e",
+    "publicationDate": 1725460575,
+    "id": 4986838942
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3872210590-lego-creator-31087",
+    "price": 7,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_01a56_GzNhZzsJwksbAb4ds9FWxRuk/f800/1702311473.jpeg?s=575e97e888fadf3b769cd03f38e52dce978fd6dd",
+    "publicationDate": 1702311473,
+    "id": 3872210590
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4380842228-lego-creator-3-en-1-complet-31087",
+    "price": 5.43,
+    "title": "Lego creator 3 en 1 complet 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_00502_oQjTrCtkjmfprVeH2RAGzmuw/f800/1713432926.jpeg?s=24fc22db52877c3da1afaf55702d996d22823dee",
+    "publicationDate": 1713432926,
+    "id": 4380842228
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3990183550-lego-creator-31087-buggy-des-dunes",
     "price": 7,
     "title": "LEGO Creator 31087   Buggy des dunes",
@@ -248,38 +261,25 @@
     "id": 3990183550
   },
   {
-    "link": "https://www.vinted.fr/items/5341934533-lego-creator-set-31087-3-in-1-set-buggy-vliegtuig-of-quad-nieuw-in-doos",
-    "price": 13.83,
-    "title": "Lego Creator set 31087, 3 in 1 set Buggy, vliegtuig of Quad nieuw in doos",
-    "imgUrl": "https://images1.vinted.net/t/04_00db9_9dwKrMAf9qeJtBoE7PaTotMy/f800/1730971611.jpeg?s=a001df710244661d884fc4d66e5561a3a0d2df50",
-    "publicationDate": 1730971611,
-    "id": 5341934533
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5349349717-lego-creator-nr-31087",
+    "price": 4.9,
+    "title": "Lego creator nr. 31087",
+    "imgUrl": "https://images1.vinted.net/t/04_0004e_zWbubpnjrSpZmJWqipKzX2Hi/f800/1731090474.jpeg?s=8dcb003c9da53964b2d2796dfe334cb0adbc68dc",
+    "publicationDate": 1731090474,
+    "id": 5349349717
   },
   {
-    "link": "https://www.vinted.fr/items/4425487104-lego-creator-nr-31087",
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5401389362-lego-creator-flugzeug",
     "price": 11.2,
-    "title": "Lego creator  nr 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_00aee_mAbitzwDpVzCXvjtdADd2vim/f800/1714241351.jpeg?s=1caeced1ccb62ff9a94d31dab1995e4a8589d0b7",
-    "publicationDate": 1714241351,
-    "id": 4425487104
+    "title": "Lego Creator Flugzeug",
+    "imgUrl": "https://images1.vinted.net/t/01_02050_fsffuRu7ARNLpPW4HZYffXmc/f800/1731876468.jpeg?s=d896a70bb14f342326f44d56cb133fad4f0bf147",
+    "publicationDate": 1731876468,
+    "id": 5401389362
   },
   {
-    "link": "https://www.vinted.fr/items/3433619979-lego-creator-31087",
-    "price": 7,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_02079_VoWkLKqiKuV54HMVea4CHkL3/f800/1693823970.jpeg?s=37a7228bc6eac52ec9b03f6e852ff843bab3ed45",
-    "publicationDate": 1693823970,
-    "id": 3433619979
-  },
-  {
-    "link": "https://www.vinted.fr/items/3816886455-lego-creator-3-en-1",
-    "price": 9.1,
-    "title": "Lego creator 3 en 1",
-    "imgUrl": "https://images1.vinted.net/t/03_01865_8QUjxCLDcZgdkk9yRW4d5xja/f800/1701093993.jpeg?s=f6cfbaad8281c81f2bbb2d55d2818a58e45c3102",
-    "publicationDate": 1701093993,
-    "id": 3816886455
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4673055116-lego-creator-3-en-1-buggy-des-dunes-31087",
     "price": 5.95,
     "title": "Lego Creator 3 en 1 Buggy des Dunes 31087",
@@ -288,14 +288,34 @@
     "id": 4673055116
   },
   {
-    "link": "https://www.vinted.fr/items/3451438175-lego-creator-31087",
-    "price": 8.05,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_00295_1e1idfc3qf7VCtRpeYBxeqEC/f800/1694254964.jpeg?s=6d67400cc3403e12387eb60bae17a94e20006dda",
-    "publicationDate": 1694254964,
-    "id": 3451438175
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4425487104-lego-creator-nr-31087",
+    "price": 11.2,
+    "title": "Lego creator  nr 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_00aee_mAbitzwDpVzCXvjtdADd2vim/f800/1714241351.jpeg?s=1caeced1ccb62ff9a94d31dab1995e4a8589d0b7",
+    "publicationDate": 1714241351,
+    "id": 4425487104
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5341934533-lego-creator-set-31087-3-in-1-set-buggy-vliegtuig-of-quad-nieuw-in-doos",
+    "price": 13.83,
+    "title": "Lego Creator set 31087, 3 in 1 set Buggy, vliegtuig of Quad nieuw in doos",
+    "imgUrl": "https://images1.vinted.net/t/04_00db9_9dwKrMAf9qeJtBoE7PaTotMy/f800/1730971611.jpeg?s=a001df710244661d884fc4d66e5561a3a0d2df50",
+    "publicationDate": 1730971611,
+    "id": 5341934533
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3433619979-lego-creator-31087",
+    "price": 7,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_02079_VoWkLKqiKuV54HMVea4CHkL3/f800/1693823970.jpeg?s=37a7228bc6eac52ec9b03f6e852ff843bab3ed45",
+    "publicationDate": 1693823970,
+    "id": 3433619979
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4268057919-buggy-des-dunes-playmobil",
     "price": 5.95,
     "title": "Buggy des dunes playmobil ",
@@ -304,14 +324,16 @@
     "id": 4268057919
   },
   {
-    "link": "https://www.vinted.fr/items/5202431990-nieuwe-lego-creator",
-    "price": 11.2,
-    "title": "Nieuwe lego creator",
-    "imgUrl": "https://images1.vinted.net/t/03_017da_GCA4cF3LAPV3NbsvwFpNt6HB/f800/1728734265.jpeg?s=b206e36f439f38d0dca40fc84849d832ee4533ee",
-    "publicationDate": 1728734265,
-    "id": 5202431990
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3816886455-lego-creator-3-en-1",
+    "price": 9.1,
+    "title": "Lego creator 3 en 1",
+    "imgUrl": "https://images1.vinted.net/t/03_01865_8QUjxCLDcZgdkk9yRW4d5xja/f800/1701093993.jpeg?s=f6cfbaad8281c81f2bbb2d55d2818a58e45c3102",
+    "publicationDate": 1701093993,
+    "id": 3816886455
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4839433958-lego-31087",
     "price": 5.95,
     "title": "Lego 31087",
@@ -320,30 +342,25 @@
     "id": 4839433958
   },
   {
-    "link": "https://www.vinted.fr/items/4158126877-lego-creator-3-en-1-buggy",
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3451438175-lego-creator-31087",
     "price": 8.05,
-    "title": "Lego Creator 3 en 1 buggy",
-    "imgUrl": "https://images1.vinted.net/t/01_02674_FNo3g2ph8xgP3iSNz1G3Zyf7/f800/1709115145.jpeg?s=44c1d901d6a0dea7f632f08b86a34db7ae2f3971",
-    "publicationDate": 1709115145,
-    "id": 4158126877
-  },
-  {
-    "link": "https://www.vinted.fr/items/3600899195-lego-creator-31087",
-    "price": 9.1,
     "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_0129d_4YXwnYoZr9z3pNnDZoLP91hA/f800/1697179825.jpeg?s=9401470570fd0f291ea15361dcf922e75d250477",
-    "publicationDate": 1697179825,
-    "id": 3600899195
+    "imgUrl": "https://images1.vinted.net/t/01_00295_1e1idfc3qf7VCtRpeYBxeqEC/f800/1694254964.jpeg?s=6d67400cc3403e12387eb60bae17a94e20006dda",
+    "publicationDate": 1694254964,
+    "id": 3451438175
   },
   {
-    "link": "https://www.vinted.fr/items/5385577300-lego-le-buggy-des-dunes",
-    "price": 16.45,
-    "title": "Lego le buggy des dunes",
-    "imgUrl": "https://images1.vinted.net/t/03_02426_wWpopmxjzKpYZDL7g1wepcpu/f800/1731670534.jpeg?s=cc9836dfd50204e3a0cd54d7d055b606235a1e69",
-    "publicationDate": 1731670534,
-    "id": 5385577300
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5202431990-nieuwe-lego-creator",
+    "price": 11.2,
+    "title": "Nieuwe lego creator",
+    "imgUrl": "https://images1.vinted.net/t/03_017da_GCA4cF3LAPV3NbsvwFpNt6HB/f800/1728734265.jpeg?s=b206e36f439f38d0dca40fc84849d832ee4533ee",
+    "publicationDate": 1728734265,
+    "id": 5202431990
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4893822657-lego-creator-31087",
     "price": 11.2,
     "title": "Lego creator 31087",
@@ -352,6 +369,25 @@
     "id": 4893822657
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4158126877-lego-creator-3-en-1-buggy",
+    "price": 8.05,
+    "title": "Lego Creator 3 en 1 buggy",
+    "imgUrl": "https://images1.vinted.net/t/01_02674_FNo3g2ph8xgP3iSNz1G3Zyf7/f800/1709115145.jpeg?s=44c1d901d6a0dea7f632f08b86a34db7ae2f3971",
+    "publicationDate": 1709115145,
+    "id": 4158126877
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3600899195-lego-creator-31087",
+    "price": 9.1,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_0129d_4YXwnYoZr9z3pNnDZoLP91hA/f800/1697179825.jpeg?s=9401470570fd0f291ea15361dcf922e75d250477",
+    "publicationDate": 1697179825,
+    "id": 3600899195
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5132556485-lego-31087-creator-3-in-1",
     "price": 9.1,
     "title": "Lego 31087 creator 3 in 1",
@@ -360,30 +396,7 @@
     "id": 5132556485
   },
   {
-    "link": "https://www.vinted.fr/items/4959263665-lego-creator-3-en-1",
-    "price": 11.2,
-    "title": "Lego creator 3 en 1",
-    "imgUrl": "https://images1.vinted.net/t/01_0237f_6XzxsxDych8xVK46yZUqYb1N/f800/1724965093.jpeg?s=dbf23c2bc939f77be477af2d040259bee674363e",
-    "publicationDate": 1724965093,
-    "id": 4959263665
-  },
-  {
-    "link": "https://www.vinted.fr/items/1638109603-lego-creator-31087",
-    "price": 7,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_015b9_TG18rikEyfPZCjAcgp2FAi9a/f800/1645034785.jpeg?s=c6c6a2218bfe47613874d49211cb914b24a4c7db",
-    "publicationDate": 1645034785,
-    "id": 1638109603
-  },
-  {
-    "link": "https://www.vinted.fr/items/5237089668-le-buggy-des-dunes-lego-creator-31087",
-    "price": 9.1,
-    "title": "Le buggy des dunes Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_02251_ktjJiQZmszHrLX4kUN8A64vy/f800/1729255495.jpeg?s=f83213814091f35c829141b055c5ee5949b79f5e",
-    "publicationDate": 1729255495,
-    "id": 5237089668
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3668706538-lego-le-buggy-des-dunes-31087",
     "price": 11.2,
     "title": "LEGO Le Buggy des Dunes 31087",
@@ -392,6 +405,43 @@
     "id": 3668706538
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5385577300-lego-le-buggy-des-dunes",
+    "price": 16.45,
+    "title": "Lego le buggy des dunes",
+    "imgUrl": "https://images1.vinted.net/t/03_02426_wWpopmxjzKpYZDL7g1wepcpu/f800/1731670534.jpeg?s=cc9836dfd50204e3a0cd54d7d055b606235a1e69",
+    "publicationDate": 1731670534,
+    "id": 5385577300
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5237089668-le-buggy-des-dunes-lego-creator-31087",
+    "price": 9.1,
+    "title": "Le buggy des dunes Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_02251_ktjJiQZmszHrLX4kUN8A64vy/f800/1729255495.jpeg?s=f83213814091f35c829141b055c5ee5949b79f5e",
+    "publicationDate": 1729255495,
+    "id": 5237089668
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4959263665-lego-creator-3-en-1",
+    "price": 11.2,
+    "title": "Lego creator 3 en 1",
+    "imgUrl": "https://images1.vinted.net/t/01_0237f_6XzxsxDych8xVK46yZUqYb1N/f800/1724965093.jpeg?s=dbf23c2bc939f77be477af2d040259bee674363e",
+    "publicationDate": 1724965093,
+    "id": 4959263665
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/1638109603-lego-creator-31087",
+    "price": 7,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_015b9_TG18rikEyfPZCjAcgp2FAi9a/f800/1645034785.jpeg?s=c6c6a2218bfe47613874d49211cb914b24a4c7db",
+    "publicationDate": 1645034785,
+    "id": 1638109603
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5312289514-lego-31087",
     "price": 9.1,
     "title": "Lego 31087",
@@ -400,14 +450,7 @@
     "id": 5312289514
   },
   {
-    "link": "https://www.vinted.fr/items/5343339562-lego-creator-31087",
-    "price": 9.1,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/04_00f6c_dX3BVWH8Xkq2yuecWRc9QRTn/f800/1730986819.jpeg?s=334e1544a980c91b8c8b310e829244fe1b148161",
-    "publicationDate": 1730986819,
-    "id": 5343339562
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4117778601-lego-creator-31087-le-buggy-des-dunes",
     "price": 7,
     "title": "Lego créator 31087 Le buggy des dunes ",
@@ -416,14 +459,16 @@
     "id": 4117778601
   },
   {
-    "link": "https://www.vinted.fr/items/5372144143-lego-creator-3in1-set-31087",
-    "price": 10.15,
-    "title": "Lego Creator  3in1 set 31087",
-    "imgUrl": "https://images1.vinted.net/t/04_01306_dQxJFVbAi4bMe2VdgsXjay94/f800/1731425249.jpeg?s=346b08d3c742c23247e34df3a52c49b4a4f5b58a",
-    "publicationDate": 1731425249,
-    "id": 5372144143
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5343339562-lego-creator-31087",
+    "price": 9.1,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/04_00f6c_dX3BVWH8Xkq2yuecWRc9QRTn/f800/1730986819.jpeg?s=334e1544a980c91b8c8b310e829244fe1b148161",
+    "publicationDate": 1730986819,
+    "id": 5343339562
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4498489626-lego-3-en-1-31087",
     "price": 5.95,
     "title": "Lego 3 en 1 31087",
@@ -432,6 +477,16 @@
     "id": 4498489626
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5372144143-lego-creator-3in1-set-31087",
+    "price": 10.15,
+    "title": "Lego Creator  3in1 set 31087",
+    "imgUrl": "https://images1.vinted.net/t/04_01306_dQxJFVbAi4bMe2VdgsXjay94/f800/1731425249.jpeg?s=346b08d3c742c23247e34df3a52c49b4a4f5b58a",
+    "publicationDate": 1731425249,
+    "id": 5372144143
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4466485196-lego-creator-31087",
     "price": 5.95,
     "title": "Lego creator 31087",
@@ -440,6 +495,7 @@
     "id": 4466485196
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3777954241-lego-30187-buggy-creator",
     "price": 7,
     "title": "Lego 30187 buggy creator ",
@@ -448,6 +504,16 @@
     "id": 3777954241
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5063133543-jouet-lego-creator-le-buggy-des-dunes-numero-31087",
+    "price": 10.15,
+    "title": "Jouet Lego Créator le buggy des dunes numéro 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_00f73_bVA63BbnENAUmA1T3imax573/f800/1726599212.jpeg?s=c19c77331ca65c3443cdd03183f53e177103eb61",
+    "publicationDate": 1726599212,
+    "id": 5063133543
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/2608235674-lego-31087",
     "price": 2.8,
     "title": "Lego 31087",
@@ -456,6 +522,7 @@
     "id": 2608235674
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5255866980-lego-creator-3-in-1-31087-tres-bon-etat",
     "price": 9.1,
     "title": "Lego Creator 3 in 1 (31087) très bon état",
@@ -464,6 +531,7 @@
     "id": 5255866980
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5378405509-lego-creator-3in1-31087",
     "price": 11.2,
     "title": "Lego Creator 3in1 31087",
@@ -472,14 +540,7 @@
     "id": 5378405509
   },
   {
-    "link": "https://www.vinted.fr/items/5366637486-lego-creator-buggy-des-dunes-3-en-1",
-    "price": 10.15,
-    "title": "Lego creator buggy des dunes 3 en 1",
-    "imgUrl": "https://images1.vinted.net/t/01_004bc_Mwhhiy6Vz56tPuTn7dpJUj3v/f800/1731339147.jpeg?s=dcc083d419283d4ffd08cbf952908ff1b2ec3f95",
-    "publicationDate": 1731339147,
-    "id": 5366637486
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/1456276664-lego-31087",
     "price": 5.95,
     "title": "Lego 31087",
@@ -488,30 +549,7 @@
     "id": 1456276664
   },
   {
-    "link": "https://www.vinted.fr/items/4964805607-lego-buggy",
-    "price": 11.2,
-    "title": "Lego Buggy",
-    "imgUrl": "https://images1.vinted.net/t/01_01095_QbRAvhXKLkHLD5oqcqW5KGWX/f800/1725098566.jpeg?s=af2ab1b176994e1a26c60da5b9b43ac132dd86ea",
-    "publicationDate": 1725098566,
-    "id": 4964805607
-  },
-  {
-    "link": "https://www.vinted.fr/items/2475480622-lego-31087",
-    "price": 11.2,
-    "title": "Lego 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_019ae_f9brtQukhhiDGdDTdY68DqFw/f800/1669975147.jpeg?s=edbfed5e87f969e33efb844354448c0a96b64734",
-    "publicationDate": 1669975147,
-    "id": 2475480622
-  },
-  {
-    "link": "https://www.vinted.fr/items/5396341818-lego-31087-incompleto",
-    "price": 8.05,
-    "title": "Lego 31087 (Incompleto)",
-    "imgUrl": "https://images1.vinted.net/t/04_0213a_GrG3sdnpe524tDDzV84jBGnU/f800/1731844304.jpeg?s=6f480cfeedb810d897b0053662505a0a43e4c4d3",
-    "publicationDate": 1731844304,
-    "id": 5396341818
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5142380294-lego-creator-31087-buggy-avion-quad",
     "price": 9.1,
     "title": "Lego creator 31087 buggy avion quad",
@@ -520,6 +558,25 @@
     "id": 5142380294
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/2475480622-lego-31087",
+    "price": 11.2,
+    "title": "Lego 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_019ae_f9brtQukhhiDGdDTdY68DqFw/f800/1669975147.jpeg?s=edbfed5e87f969e33efb844354448c0a96b64734",
+    "publicationDate": 1669975147,
+    "id": 2475480622
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4964805607-lego-buggy",
+    "price": 11.2,
+    "title": "Lego Buggy",
+    "imgUrl": "https://images1.vinted.net/t/01_01095_QbRAvhXKLkHLD5oqcqW5KGWX/f800/1725098566.jpeg?s=af2ab1b176994e1a26c60da5b9b43ac132dd86ea",
+    "publicationDate": 1725098566,
+    "id": 4964805607
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5169797783-lego-creator-31087",
     "price": 12.25,
     "title": "Lego créator 31087",
@@ -528,14 +585,7 @@
     "id": 5169797783
   },
   {
-    "link": "https://www.vinted.fr/items/4927904337-lego-creator-31087",
-    "price": 11.2,
-    "title": "lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_020c6_xakMsnfF2St5VWVNTuXAARh3/f800/1724428552.jpeg?s=cd14d1b1ac392b327a4686d60fe268500b9b2d45",
-    "publicationDate": 1724428552,
-    "id": 4927904337
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4220520932-lego-creator-3-en-1-31087-le-buggy-des-dunes",
     "price": 18.55,
     "title": "LEGO Creator 3 en 1-31087 : Le buggy des dunes",
@@ -544,30 +594,7 @@
     "id": 4220520932
   },
   {
-    "link": "https://www.vinted.fr/items/5029714255-lego-creator-3en1-n-31087",
-    "price": 16.45,
-    "title": "Lego Creator 3en1  N. 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_01934_BvYJjKk4t2UQG2jyxhjWifzc/f800/1726139433.jpeg?s=f2251a3342c953f8517fce8cfc6afc4b231e6efd",
-    "publicationDate": 1726139433,
-    "id": 5029714255
-  },
-  {
-    "link": "https://www.vinted.fr/items/4561555483-lego-creator-3en1-31087",
-    "price": 11.2,
-    "title": "Lego creator 3en1 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_00b6c_FPv6xFQtKhEYBM1NGVWNnA4c/f800/1716814811.jpeg?s=c731b94eb71d39b9780a75295f944f8f08049150",
-    "publicationDate": 1716814811,
-    "id": 4561555483
-  },
-  {
-    "link": "https://www.vinted.fr/items/4669074241-lego-creator-31087-anni-6",
-    "price": 7,
-    "title": "Lego creator 31087 anni 6+",
-    "imgUrl": "https://images1.vinted.net/t/01_010fb_3iBBNcGsW6BZtt6Hv6xjnsyq/f800/1718956431.jpeg?s=64c1f5a611edbf1bf9227ba5c3542eff8635695e",
-    "publicationDate": 1718956431,
-    "id": 4669074241
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5187519022-lego-creator-3-in-1-31087-dune-buggy-auto",
     "price": 9.1,
     "title": "LEGO Creator 3 in 1, 31087 Dune Buggy, auto",
@@ -576,6 +603,52 @@
     "id": 5187519022
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4927904337-lego-creator-31087",
+    "price": 11.2,
+    "title": "lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/01_020c6_xakMsnfF2St5VWVNTuXAARh3/f800/1724428552.jpeg?s=cd14d1b1ac392b327a4686d60fe268500b9b2d45",
+    "publicationDate": 1724428552,
+    "id": 4927904337
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5029714255-lego-creator-3en1-n-31087",
+    "price": 16.45,
+    "title": "Lego Creator 3en1  N. 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_01934_BvYJjKk4t2UQG2jyxhjWifzc/f800/1726139433.jpeg?s=f2251a3342c953f8517fce8cfc6afc4b231e6efd",
+    "publicationDate": 1726139433,
+    "id": 5029714255
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5396341818-lego-31087-incompleto",
+    "price": 8.05,
+    "title": "Lego 31087 (Incompleto)",
+    "imgUrl": "https://images1.vinted.net/t/04_0213a_GrG3sdnpe524tDDzV84jBGnU/f800/1731844304.jpeg?s=6f480cfeedb810d897b0053662505a0a43e4c4d3",
+    "publicationDate": 1731844304,
+    "id": 5396341818
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4561555483-lego-creator-3en1-31087",
+    "price": 11.2,
+    "title": "Lego creator 3en1 31087",
+    "imgUrl": "https://images1.vinted.net/t/01_00b6c_FPv6xFQtKhEYBM1NGVWNnA4c/f800/1716814811.jpeg?s=c731b94eb71d39b9780a75295f944f8f08049150",
+    "publicationDate": 1716814811,
+    "id": 4561555483
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4669074241-lego-creator-31087-anni-6",
+    "price": 7,
+    "title": "Lego creator 31087 anni 6+",
+    "imgUrl": "https://images1.vinted.net/t/01_010fb_3iBBNcGsW6BZtt6Hv6xjnsyq/f800/1718956431.jpeg?s=64c1f5a611edbf1bf9227ba5c3542eff8635695e",
+    "publicationDate": 1718956431,
+    "id": 4669074241
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5257391360-lego-creator",
     "price": 11.2,
     "title": "Lego creator",
@@ -584,326 +657,7 @@
     "id": 5257391360
   },
   {
-    "link": "https://www.vinted.fr/items/4892251953-lego-creator-31087",
-    "price": 11.2,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_0256d_oZuWFFm7DzXxWXdXym6NUEHW/f800/1723752595.jpeg?s=c0919ef8c067981b208a1402a9c266df567e2930",
-    "publicationDate": 1723752595,
-    "id": 4892251953
-  },
-  {
-    "link": "https://www.vinted.fr/items/4063588665-lego-creator-31087",
-    "price": 11.2,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_0224e_XhgwQuZ5Y6MdnfPUjLQGroZA/f800/1707075303.jpeg?s=2f54e95a767f8cad1f1eb47c9fbe6ac8c87e1497",
-    "publicationDate": 1707075303,
-    "id": 4063588665
-  },
-  {
-    "link": "https://www.vinted.fr/items/2351107379-lego-creator-31087",
-    "price": 8.05,
-    "title": "Lego Creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_00488_wMhAAuJ2RJH2arhaAP2fLupU/f800/1666774994.jpeg?s=6d663116056135e8e58041a07416b3da8e8fbe45",
-    "publicationDate": 1666774994,
-    "id": 2351107379
-  },
-  {
-    "link": "https://www.vinted.fr/items/4535636501-lego-creator-31087",
-    "price": 8.05,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_021d8_Lhqwdp1kDmbKorqVFKUf5SGx/f800/1716302287.jpeg?s=e456182d4a760bf781820b6d84b9a20685a8aef5",
-    "publicationDate": 1716302287,
-    "id": 4535636501
-  },
-  {
-    "link": "https://www.vinted.fr/items/3036947090-lego-creator-31087",
-    "price": 11.2,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_0025d_9oGC627PysCJpZUo3CsUCQj7/f800/1684478924.jpeg?s=1c6798389bebf27a8512c0cd9bb64a5b9d2352ea",
-    "publicationDate": 1684478924,
-    "id": 3036947090
-  },
-  {
-    "link": "https://www.vinted.fr/items/5162640906-lego-3-in-1-nummer-31087",
-    "price": 7,
-    "title": "Lego 3 in 1, Nummer 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_011c2_R1njevtF65XRJWUWXLhMveUz/f800/1728136331.jpeg?s=b6a4347504bf7579cde32ecc708f8e4ea4e47360",
-    "publicationDate": 1728136331,
-    "id": 5162640906
-  },
-  {
-    "link": "https://www.vinted.fr/items/5385108487-lot-5-vehicules-lego",
-    "price": 18.55,
-    "title": "Lot 5 véhicules LEGO",
-    "imgUrl": "https://images1.vinted.net/t/04_01a53_fVruuRcLnGBExKpipqmwkujV/f800/1731665325.jpeg?s=71cc920010e3252c4596d763c122be8b9250aa8e",
-    "publicationDate": 1731665325,
-    "id": 5385108487
-  },
-  {
-    "link": "https://www.vinted.fr/items/4800801464-lego-creator-31087",
-    "price": 11.2,
-    "title": "Lego Creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_0156e_KiaEphpRRt9jj6NLUpHdSmmJ/f800/1721755229.jpeg?s=6f557f78eb234238c872c1bf874f253cb41ce1b0",
-    "publicationDate": 1721755229,
-    "id": 4800801464
-  },
-  {
-    "link": "https://www.vinted.fr/items/5289536952-lego-creator-3-en-1-31087",
-    "price": 13.3,
-    "title": "Lego creator 3 en 1 31087",
-    "imgUrl": "https://images1.vinted.net/t/04_01e8e_hpR4W5wVAzxuWzoVgnj7VsM6/f800/1730059988.jpeg?s=57b1cbe6e4bf1e1990373cf37c7892e2e298cd20",
-    "publicationDate": 1730059988,
-    "id": 5289536952
-  },
-  {
-    "link": "https://www.vinted.fr/items/3892405997-set-lego-creator-n-31087",
-    "price": 11.2,
-    "title": "Set lego creator n. 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_000f7_P49EoYWW2JXxLDT6MLmvmLoJ/f800/1702847143.jpeg?s=db42d5335ed16c0c566885a856237c7f53476ee1",
-    "publicationDate": 1702847143,
-    "id": 3892405997
-  },
-  {
-    "link": "https://www.vinted.fr/items/4509347284-lego-31087-dune-buggy",
-    "price": 9.1,
-    "title": "Lego 31087 dune buggy",
-    "imgUrl": "https://images1.vinted.net/t/01_01706_M7uX43a6XBaBBKECfzjbLecj/f800/1715805248.jpeg?s=a7367ab25c36cbb698874976f7725da558b7ad14",
-    "publicationDate": 1715805248,
-    "id": 4509347284
-  },
-  {
-    "link": "https://www.vinted.fr/items/5212971577-lego-creator-31087",
-    "price": 11.2,
-    "title": "Lego Creator - 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_004cb_Hk48j16LDP9LVD6hQx7ijG1A/f800/1728845027.jpeg?s=79ad485312c1cf0b55e800fb8881c05dc0efe9b2",
-    "publicationDate": 1728845027,
-    "id": 5212971577
-  },
-  {
-    "link": "https://www.vinted.fr/items/3613611783-lego-creator",
-    "price": 14.35,
-    "title": "Lego creator",
-    "imgUrl": "https://images1.vinted.net/t/02_01c71_6oaVUt4WJRjA1c7mpRHbfTza/f800/1697383449.jpeg?s=d66045e6531c1ead76ac5c8f254fac8b845a1336",
-    "publicationDate": 1697383449,
-    "id": 3613611783
-  },
-  {
-    "link": "https://www.vinted.fr/items/3634291176-lego-creator",
-    "price": 9.63,
-    "title": "Lego creator",
-    "imgUrl": "https://images1.vinted.net/t/03_01298_JZdBdVCHGjRm5fkKyKeJWUJj/f800/1697744342.jpeg?s=4512478aedf89f771725232abae3166fdaa36764",
-    "publicationDate": 1697744342,
-    "id": 3634291176
-  },
-  {
-    "link": "https://www.vinted.fr/items/4500428434-lego-creator-31087",
-    "price": 10.15,
-    "title": "LEGO Creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_00a59_sXcEzQCZG5LBnChgoHTjAN8F/f800/1715636346.jpeg?s=51dd8e36cfc3a2f833d26517e8c5dd70eee158d2",
-    "publicationDate": 1715636346,
-    "id": 4500428434
-  },
-  {
-    "link": "https://www.vinted.fr/items/3341956313-lego-31087",
-    "price": 7,
-    "title": "Lego 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_005c4_zzbcZiQPHv3skkoLzUiVo6T7/f800/1691839858.jpeg?s=2f567d28f2799adf6488beae0d5e8c25d244b66e",
-    "publicationDate": 1691839858,
-    "id": 3341956313
-  },
-  {
-    "link": "https://www.vinted.fr/items/4813070132-lego-creator-3-in-1",
-    "price": 9.1,
-    "title": "Lego creator 3 in 1",
-    "imgUrl": "https://images1.vinted.net/t/02_007dd_APx1CHdGYGF8LqQkqBXhb3Uz/f800/1722023212.jpeg?s=186c8bf90266e51c325582a77310a5838cb0329d",
-    "publicationDate": 1722023212,
-    "id": 4813070132
-  },
-  {
-    "link": "https://www.vinted.fr/items/5386952533-lego-creator-3-en-1-31087",
-    "price": 11.2,
-    "title": "Lego creator 3 en 1 31087",
-    "imgUrl": "https://images1.vinted.net/t/04_0233d_DczBihsvZxBzLnZpnfdVGqAX/f800/1731685107.jpeg?s=b66bcb9e14b4c421543d6c3cf200d00f31bbe583",
-    "publicationDate": 1731685107,
-    "id": 5386952533
-  },
-  {
-    "link": "https://www.vinted.fr/items/5154496494-lego-creator-31087",
-    "price": 7,
-    "title": "Lego Creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_026d0_XTPPmHhCM1nrpE1MRpJ5huCz/f800/1727989718.jpeg?s=0b8b6633401e6794674b0e384240d8beb5230c99",
-    "publicationDate": 1727989718,
-    "id": 5154496494
-  },
-  {
-    "link": "https://www.vinted.fr/items/4913701179-lego-31087-dune-buggy",
-    "price": 8.58,
-    "title": "Lego 31087 Dune buggy",
-    "imgUrl": "https://images1.vinted.net/t/03_01a3d_wfUef9jwq56KKbj68asC17Ub/f800/1724168842.jpeg?s=10e6ba58c0084e8da70801d60da606ba8f8590d5",
-    "publicationDate": 1724168842,
-    "id": 4913701179
-  },
-  {
-    "link": "https://www.vinted.fr/items/4926893941-lego-creator-31087",
-    "price": 8.05,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_00b7d_RrBvZszQuHF2K55UMwi1o6d9/f800/1724842556.jpeg?s=de32c6fd5c18f95d9b8018e8dedbe021981114bc",
-    "publicationDate": 1724842556,
-    "id": 4926893941
-  },
-  {
-    "link": "https://www.vinted.fr/items/3915883689-voiture-lego-creator",
-    "price": 9.1,
-    "title": "Voiture Lego creator ",
-    "imgUrl": "https://images1.vinted.net/t/03_02350_su8MTt2NKX2z8cJFciNtZdbD/f800/1703783570.jpeg?s=112b005023c8a48bfeeab6f2813b0d4070c56b90",
-    "publicationDate": 1703783570,
-    "id": 3915883689
-  },
-  {
-    "link": "https://www.vinted.fr/items/5126756112-lego-31087",
-    "price": 9.1,
-    "title": "Lego 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_00ed8_mshr7sQrE6x2fAqtkFU88gez/f800/1727607054.jpeg?s=107be1d23c2badafc9716b2762d74aad456b43c5",
-    "publicationDate": 1727607054,
-    "id": 5126756112
-  },
-  {
-    "link": "https://www.vinted.fr/items/5126756112-lego-31087",
-    "price": 9.1,
-    "title": "Lego 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_00ed8_mshr7sQrE6x2fAqtkFU88gez/f800/1727607054.jpeg?s=107be1d23c2badafc9716b2762d74aad456b43c5",
-    "publicationDate": 1727607054,
-    "id": 5126756112
-  },
-  {
-    "link": "https://www.vinted.fr/items/4791625607-lego-creator-3-en-1-31087",
-    "price": 11.2,
-    "title": "Lego creator 3 en 1  31087",
-    "imgUrl": "https://images1.vinted.net/t/01_0056e_2oQoMu8j6o9AP5A2KnzQ4YvF/f800/1721576849.jpeg?s=0fa55504a3b623900b86766b6f6de49629ec79df",
-    "publicationDate": 1721576849,
-    "id": 4791625607
-  },
-  {
-    "link": "https://www.vinted.fr/items/4589106028-lego-31087",
-    "price": 8.58,
-    "title": "Lego 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_0060f_AMqWNPgP4DSTKBCiMhkZDJig/f800/1717339162.jpeg?s=28b1db670ae51c4851e197a2cab19db54fa3ed0f",
-    "publicationDate": 1717339162,
-    "id": 4589106028
-  },
-  {
-    "link": "https://www.vinted.fr/items/5198270771-lego-31087",
-    "price": 7,
-    "title": "Lego 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_002bc_dAZE6LUucYR9Xwy6nCG84NQ1/f800/1728657075.jpeg?s=925ae3b5bd90e8f40778bdd631a1191c7022d230",
-    "publicationDate": 1728657075,
-    "id": 5198270771
-  },
-  {
-    "link": "https://www.vinted.fr/items/5187926485-lego-creator-31087",
-    "price": 11.2,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_02587_a8GcTukRs5K8LSn7xG1sCj1q/f800/1728483600.jpeg?s=688beac8a91897c43ddc3253245aa0e176a585ce",
-    "publicationDate": 1728483600,
-    "id": 5187926485
-  },
-  {
-    "link": "https://www.vinted.fr/items/4245399872-lego-creator-dune-buggy-31087",
-    "price": 11.2,
-    "title": "Lego creator dune buggy 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_02341_cusc1Tohtu5eDHm6vpbQ7Xgz/f800/1710863167.jpeg?s=f1c4ccf64ff676e3f428e094d33b30ae089621a1",
-    "publicationDate": 1710863167,
-    "id": 4245399872
-  },
-  {
-    "link": "https://www.vinted.fr/items/3849638259-lego-3-en1-31087",
-    "price": 10.15,
-    "title": "Lego 3 en1 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_016e7_issJXn9rGdzddNCuKXqqGAq1/f800/1701802893.jpeg?s=827591e5a2a8bfcd934e928aa2c1fd818265cdb4",
-    "publicationDate": 1701802893,
-    "id": 3849638259
-  },
-  {
-    "link": "https://www.vinted.fr/items/4041039523-lego-3-en-1-le-buggy-des-dunes-31087",
-    "price": 9.1,
-    "title": "Lego 3 en 1 le buggy des dunes 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_01498_af8dJ6m75xEs9CATWEVpJ5LB/f800/1706612584.jpeg?s=da6132da246d4eab09bf24ecb06c8ad9e0cef52c",
-    "publicationDate": 1706612584,
-    "id": 4041039523
-  },
-  {
-    "link": "https://www.vinted.fr/items/5157042762-lego-dune-buggy-31087",
-    "price": 8.58,
-    "title": "Lego dune buggy 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_0066e_BvncAHkUmTuM6VMyh4H6C32C/f800/1728048663.jpeg?s=cbba08fae6c58d4a42c7d610520c24565057cc38",
-    "publicationDate": 1728048663,
-    "id": 5157042762
-  },
-  {
-    "link": "https://www.vinted.fr/items/1329993037-lego-creator-31087",
-    "price": 7,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_00417_d6PdfhbwVJoTQ28u7N6JuqF8/f800/1632482702.jpeg?s=442e623a754a5bd5e248a3dfec09053b3cd5554d",
-    "publicationDate": 1632482702,
-    "id": 1329993037
-  },
-  {
-    "link": "https://www.vinted.fr/items/3375277377-lego-creator-3-in-1-dune-buggy-31087",
-    "price": 7.53,
-    "title": "Lego Creator 3 in 1 Dune Buggy 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_0254a_5Jj2oaLEVAZB7tGhCVxF8Mo6/f800/1692629961.jpeg?s=6305d59f2edd4b6c829f23d3070a9544bf4b3262",
-    "publicationDate": 1692629961,
-    "id": 3375277377
-  },
-  {
-    "link": "https://www.vinted.fr/items/4810548888-lego-creator-31087",
-    "price": 11.2,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_00508_nA4SDEgva6njNc4L41hMZ24e/f800/1721986032.jpeg?s=baa088b49c12083835886121e21fe00d43d996b4",
-    "publicationDate": 1721986032,
-    "id": 4810548888
-  },
-  {
-    "link": "https://www.vinted.fr/items/4426932134-lego-31087",
-    "price": 12.78,
-    "title": "Lego 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_01780_si8mM63axZ8CnRWpgjfgKig5/f800/1714294826.jpeg?s=0720298562ae236744f8b9a2248e56fd3e5b06e0",
-    "publicationDate": 1714294826,
-    "id": 4426932134
-  },
-  {
-    "link": "https://www.vinted.fr/items/3688280677-lego-31087",
-    "price": 11.2,
-    "title": "Lego 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_01f66_GZc8dpxrJQj7p7ctsH5R87wC/f800/1698687067.jpeg?s=1dc77aaf4c892598da2dd608b5d5d9a3cf781ccd",
-    "publicationDate": 1698687067,
-    "id": 3688280677
-  },
-  {
-    "link": "https://www.vinted.fr/items/3893748043-lego-creator-31087-3-en-1",
-    "price": 12.25,
-    "title": "Lego Creator 31087 3 en 1",
-    "imgUrl": "https://images1.vinted.net/t/03_02010_xF4mc41uyda5mBVwBh5HeEaj/f800/1702906337.jpeg?s=19e6085159266e3561887a84459fc16bdb6b3f58",
-    "publicationDate": 1702906337,
-    "id": 3893748043
-  },
-  {
-    "link": "https://www.vinted.fr/items/5251784282-lego-creator-31087",
-    "price": 11.2,
-    "title": "Lego Creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_011b9_86S945BL2tLfWd1dXsFV1pUx/f800/1729448582.jpeg?s=8a8bc3f82ee5553d07acae8dce077dfd332a38ea",
-    "publicationDate": 1729448582,
-    "id": 5251784282
-  },
-  {
-    "link": "https://www.vinted.fr/items/2437261455-lego-creator-3-en-1-31087",
-    "price": 8.58,
-    "title": "Lego creator 3 en 1 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_00e9f_D5djRUSmg6UGGx9NPt94yCmo/f800/1668949926.jpeg?s=5e5a63eb3a578555d23e987889b586f22b6ce60d",
-    "publicationDate": 1668949926,
-    "id": 2437261455
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5101795287-lego-creator-3-en-1",
     "price": 8.58,
     "title": "Lego Creator 3 en 1",
@@ -912,22 +666,259 @@
     "id": 5101795287
   },
   {
-    "link": "https://www.vinted.fr/items/4987010960-lego-creator-dune-buggy-31087-3-in-1",
-    "price": 5.95,
-    "title": "Lego creator dune buggy 31087 3 in 1",
-    "imgUrl": "https://images1.vinted.net/t/01_0247d_rEcAPF7aR5eedoa2hv7gESry/f800/1725462193.jpeg?s=1f172d2ccee064ac1c74115ca31f85bcc5fdba0d",
-    "publicationDate": 1725462193,
-    "id": 4987010960
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4892251953-lego-creator-31087",
+    "price": 11.2,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_0256d_oZuWFFm7DzXxWXdXym6NUEHW/f800/1723752595.jpeg?s=c0919ef8c067981b208a1402a9c266df567e2930",
+    "publicationDate": 1723752595,
+    "id": 4892251953
   },
   {
-    "link": "https://www.vinted.fr/items/3448121650-lego-creator-3in1-31087",
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4063588665-lego-creator-31087",
+    "price": 11.2,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_0224e_XhgwQuZ5Y6MdnfPUjLQGroZA/f800/1707075303.jpeg?s=2f54e95a767f8cad1f1eb47c9fbe6ac8c87e1497",
+    "publicationDate": 1707075303,
+    "id": 4063588665
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/2351107379-lego-creator-31087",
+    "price": 8.05,
+    "title": "Lego Creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_00488_wMhAAuJ2RJH2arhaAP2fLupU/f800/1666774994.jpeg?s=6d663116056135e8e58041a07416b3da8e8fbe45",
+    "publicationDate": 1666774994,
+    "id": 2351107379
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4535636501-lego-creator-31087",
+    "price": 8.05,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/01_021d8_Lhqwdp1kDmbKorqVFKUf5SGx/f800/1716302287.jpeg?s=e456182d4a760bf781820b6d84b9a20685a8aef5",
+    "publicationDate": 1716302287,
+    "id": 4535636501
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3036947090-lego-creator-31087",
+    "price": 11.2,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_0025d_9oGC627PysCJpZUo3CsUCQj7/f800/1684478924.jpeg?s=1c6798389bebf27a8512c0cd9bb64a5b9d2352ea",
+    "publicationDate": 1684478924,
+    "id": 3036947090
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3341956313-lego-31087",
+    "price": 7,
+    "title": "Lego 31087",
+    "imgUrl": "https://images1.vinted.net/t/01_005c4_zzbcZiQPHv3skkoLzUiVo6T7/f800/1691839858.jpeg?s=2f567d28f2799adf6488beae0d5e8c25d244b66e",
+    "publicationDate": 1691839858,
+    "id": 3341956313
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3613611783-lego-creator",
+    "price": 14.35,
+    "title": "Lego creator",
+    "imgUrl": "https://images1.vinted.net/t/02_01c71_6oaVUt4WJRjA1c7mpRHbfTza/f800/1697383449.jpeg?s=d66045e6531c1ead76ac5c8f254fac8b845a1336",
+    "publicationDate": 1697383449,
+    "id": 3613611783
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5162640906-lego-3-in-1-nummer-31087",
+    "price": 7,
+    "title": "Lego 3 in 1, Nummer 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_011c2_R1njevtF65XRJWUWXLhMveUz/f800/1728136331.jpeg?s=b6a4347504bf7579cde32ecc708f8e4ea4e47360",
+    "publicationDate": 1728136331,
+    "id": 5162640906
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5289536952-lego-creator-3-en-1-31087",
+    "price": 13.3,
+    "title": "Lego creator 3 en 1 31087",
+    "imgUrl": "https://images1.vinted.net/t/04_01e8e_hpR4W5wVAzxuWzoVgnj7VsM6/f800/1730059988.jpeg?s=57b1cbe6e4bf1e1990373cf37c7892e2e298cd20",
+    "publicationDate": 1730059988,
+    "id": 5289536952
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4800801464-lego-creator-31087",
+    "price": 11.2,
+    "title": "Lego Creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/01_0156e_KiaEphpRRt9jj6NLUpHdSmmJ/f800/1721755229.jpeg?s=6f557f78eb234238c872c1bf874f253cb41ce1b0",
+    "publicationDate": 1721755229,
+    "id": 4800801464
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3892405997-set-lego-creator-n-31087",
+    "price": 11.2,
+    "title": "Set lego creator n. 31087",
+    "imgUrl": "https://images1.vinted.net/t/01_000f7_P49EoYWW2JXxLDT6MLmvmLoJ/f800/1702847143.jpeg?s=db42d5335ed16c0c566885a856237c7f53476ee1",
+    "publicationDate": 1702847143,
+    "id": 3892405997
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4509347284-lego-31087-dune-buggy",
+    "price": 9.1,
+    "title": "Lego 31087 dune buggy",
+    "imgUrl": "https://images1.vinted.net/t/01_01706_M7uX43a6XBaBBKECfzjbLecj/f800/1715805248.jpeg?s=a7367ab25c36cbb698874976f7725da558b7ad14",
+    "publicationDate": 1715805248,
+    "id": 4509347284
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5212971577-lego-creator-31087",
+    "price": 11.2,
+    "title": "Lego Creator - 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_004cb_Hk48j16LDP9LVD6hQx7ijG1A/f800/1728845027.jpeg?s=79ad485312c1cf0b55e800fb8881c05dc0efe9b2",
+    "publicationDate": 1728845027,
+    "id": 5212971577
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3634291176-lego-creator",
+    "price": 9.63,
+    "title": "Lego creator",
+    "imgUrl": "https://images1.vinted.net/t/03_01298_JZdBdVCHGjRm5fkKyKeJWUJj/f800/1697744342.jpeg?s=4512478aedf89f771725232abae3166fdaa36764",
+    "publicationDate": 1697744342,
+    "id": 3634291176
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4500428434-lego-creator-31087",
+    "price": 10.15,
+    "title": "LEGO Creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_00a59_sXcEzQCZG5LBnChgoHTjAN8F/f800/1715636346.jpeg?s=51dd8e36cfc3a2f833d26517e8c5dd70eee158d2",
+    "publicationDate": 1715636346,
+    "id": 4500428434
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5385108487-lot-5-vehicules-lego",
+    "price": 18.55,
+    "title": "Lot 5 véhicules LEGO",
+    "imgUrl": "https://images1.vinted.net/t/04_01a53_fVruuRcLnGBExKpipqmwkujV/f800/1731665325.jpeg?s=71cc920010e3252c4596d763c122be8b9250aa8e",
+    "publicationDate": 1731665325,
+    "id": 5385108487
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4813070132-lego-creator-3-in-1",
+    "price": 9.1,
+    "title": "Lego creator 3 in 1",
+    "imgUrl": "https://images1.vinted.net/t/02_007dd_APx1CHdGYGF8LqQkqBXhb3Uz/f800/1722023212.jpeg?s=186c8bf90266e51c325582a77310a5838cb0329d",
+    "publicationDate": 1722023212,
+    "id": 4813070132
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3915883689-voiture-lego-creator",
+    "price": 9.1,
+    "title": "Voiture Lego creator ",
+    "imgUrl": "https://images1.vinted.net/t/03_02350_su8MTt2NKX2z8cJFciNtZdbD/f800/1703783570.jpeg?s=112b005023c8a48bfeeab6f2813b0d4070c56b90",
+    "publicationDate": 1703783570,
+    "id": 3915883689
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5154496494-lego-creator-31087",
+    "price": 7,
+    "title": "Lego Creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_026d0_XTPPmHhCM1nrpE1MRpJ5huCz/f800/1727989718.jpeg?s=0b8b6633401e6794674b0e384240d8beb5230c99",
+    "publicationDate": 1727989718,
+    "id": 5154496494
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4913701179-lego-31087-dune-buggy",
     "price": 8.58,
-    "title": "Lego creator 3in1 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_01d7c_36RHfr6Tp3FSnwMAuGpTKSXs/f800/1694165761.jpeg?s=796ca1aaf90bec8fd20ec108efe3360c15263ceb",
-    "publicationDate": 1694165761,
-    "id": 3448121650
+    "title": "Lego 31087 Dune buggy",
+    "imgUrl": "https://images1.vinted.net/t/03_01a3d_wfUef9jwq56KKbj68asC17Ub/f800/1724168842.jpeg?s=10e6ba58c0084e8da70801d60da606ba8f8590d5",
+    "publicationDate": 1724168842,
+    "id": 4913701179
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5386952533-lego-creator-3-en-1-31087",
+    "price": 11.2,
+    "title": "Lego creator 3 en 1 31087",
+    "imgUrl": "https://images1.vinted.net/t/04_0233d_DczBihsvZxBzLnZpnfdVGqAX/f800/1731685107.jpeg?s=b66bcb9e14b4c421543d6c3cf200d00f31bbe583",
+    "publicationDate": 1731685107,
+    "id": 5386952533
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4926893941-lego-creator-31087",
+    "price": 8.05,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/01_00b7d_RrBvZszQuHF2K55UMwi1o6d9/f800/1724842556.jpeg?s=de32c6fd5c18f95d9b8018e8dedbe021981114bc",
+    "publicationDate": 1724842556,
+    "id": 4926893941
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5366637486-lego-creator-buggy-des-dunes-3-en-1",
+    "price": 10.15,
+    "title": "Lego creator buggy des dunes 3 en 1",
+    "imgUrl": "https://images1.vinted.net/t/01_004bc_Mwhhiy6Vz56tPuTn7dpJUj3v/f800/1731339147.jpeg?s=dcc083d419283d4ffd08cbf952908ff1b2ec3f95",
+    "publicationDate": 1731339147,
+    "id": 5366637486
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5126756112-lego-31087",
+    "price": 9.1,
+    "title": "Lego 31087",
+    "imgUrl": "https://images1.vinted.net/t/01_00ed8_mshr7sQrE6x2fAqtkFU88gez/f800/1727607054.jpeg?s=107be1d23c2badafc9716b2762d74aad456b43c5",
+    "publicationDate": 1727607054,
+    "id": 5126756112
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4791625607-lego-creator-3-en-1-31087",
+    "price": 11.2,
+    "title": "Lego creator 3 en 1  31087",
+    "imgUrl": "https://images1.vinted.net/t/01_0056e_2oQoMu8j6o9AP5A2KnzQ4YvF/f800/1721576849.jpeg?s=0fa55504a3b623900b86766b6f6de49629ec79df",
+    "publicationDate": 1721576849,
+    "id": 4791625607
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4589106028-lego-31087",
+    "price": 8.58,
+    "title": "Lego 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_0060f_AMqWNPgP4DSTKBCiMhkZDJig/f800/1717339162.jpeg?s=28b1db670ae51c4851e197a2cab19db54fa3ed0f",
+    "publicationDate": 1717339162,
+    "id": 4589106028
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5187926485-lego-creator-31087",
+    "price": 11.2,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/01_02587_a8GcTukRs5K8LSn7xG1sCj1q/f800/1728483600.jpeg?s=688beac8a91897c43ddc3253245aa0e176a585ce",
+    "publicationDate": 1728483600,
+    "id": 5187926485
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4810548888-lego-creator-31087",
+    "price": 11.2,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_00508_nA4SDEgva6njNc4L41hMZ24e/f800/1721986032.jpeg?s=baa088b49c12083835886121e21fe00d43d996b4",
+    "publicationDate": 1721986032,
+    "id": 4810548888
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5318413658-lego-31087-creator-3-en-1-buggy-des-dunes",
     "price": 10.15,
     "title": "LEGO 31087 Creator 3 en 1 Buggy des dunes",
@@ -936,6 +927,133 @@
     "id": 5318413658
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5198270771-lego-31087",
+    "price": 7,
+    "title": "Lego 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_002bc_dAZE6LUucYR9Xwy6nCG84NQ1/f800/1728657075.jpeg?s=925ae3b5bd90e8f40778bdd631a1191c7022d230",
+    "publicationDate": 1728657075,
+    "id": 5198270771
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4245399872-lego-creator-dune-buggy-31087",
+    "price": 11.2,
+    "title": "Lego creator dune buggy 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_02341_cusc1Tohtu5eDHm6vpbQ7Xgz/f800/1710863167.jpeg?s=f1c4ccf64ff676e3f428e094d33b30ae089621a1",
+    "publicationDate": 1710863167,
+    "id": 4245399872
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3849638259-lego-3-en1-31087",
+    "price": 10.15,
+    "title": "Lego 3 en1 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_016e7_issJXn9rGdzddNCuKXqqGAq1/f800/1701802893.jpeg?s=827591e5a2a8bfcd934e928aa2c1fd818265cdb4",
+    "publicationDate": 1701802893,
+    "id": 3849638259
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4041039523-lego-3-en-1-le-buggy-des-dunes-31087",
+    "price": 9.1,
+    "title": "Lego 3 en 1 le buggy des dunes 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_01498_af8dJ6m75xEs9CATWEVpJ5LB/f800/1706612584.jpeg?s=da6132da246d4eab09bf24ecb06c8ad9e0cef52c",
+    "publicationDate": 1706612584,
+    "id": 4041039523
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5157042762-lego-dune-buggy-31087",
+    "price": 8.58,
+    "title": "Lego dune buggy 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_0066e_BvncAHkUmTuM6VMyh4H6C32C/f800/1728048663.jpeg?s=cbba08fae6c58d4a42c7d610520c24565057cc38",
+    "publicationDate": 1728048663,
+    "id": 5157042762
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/1329993037-lego-creator-31087",
+    "price": 7,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_00417_d6PdfhbwVJoTQ28u7N6JuqF8/f800/1632482702.jpeg?s=442e623a754a5bd5e248a3dfec09053b3cd5554d",
+    "publicationDate": 1632482702,
+    "id": 1329993037
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3375277377-lego-creator-3-in-1-dune-buggy-31087",
+    "price": 7.53,
+    "title": "Lego Creator 3 in 1 Dune Buggy 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_0254a_5Jj2oaLEVAZB7tGhCVxF8Mo6/f800/1692629961.jpeg?s=6305d59f2edd4b6c829f23d3070a9544bf4b3262",
+    "publicationDate": 1692629961,
+    "id": 3375277377
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4426932134-lego-31087",
+    "price": 12.78,
+    "title": "Lego 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_01780_si8mM63axZ8CnRWpgjfgKig5/f800/1714294826.jpeg?s=0720298562ae236744f8b9a2248e56fd3e5b06e0",
+    "publicationDate": 1714294826,
+    "id": 4426932134
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3688280677-lego-31087",
+    "price": 11.2,
+    "title": "Lego 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_01f66_GZc8dpxrJQj7p7ctsH5R87wC/f800/1698687067.jpeg?s=1dc77aaf4c892598da2dd608b5d5d9a3cf781ccd",
+    "publicationDate": 1698687067,
+    "id": 3688280677
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3893748043-lego-creator-31087-3-en-1",
+    "price": 12.25,
+    "title": "Lego Creator 31087 3 en 1",
+    "imgUrl": "https://images1.vinted.net/t/03_02010_xF4mc41uyda5mBVwBh5HeEaj/f800/1702906337.jpeg?s=19e6085159266e3561887a84459fc16bdb6b3f58",
+    "publicationDate": 1702906337,
+    "id": 3893748043
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/2437261455-lego-creator-3-en-1-31087",
+    "price": 8.58,
+    "title": "Lego creator 3 en 1 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_00e9f_D5djRUSmg6UGGx9NPt94yCmo/f800/1668949926.jpeg?s=5e5a63eb3a578555d23e987889b586f22b6ce60d",
+    "publicationDate": 1668949926,
+    "id": 2437261455
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4987010960-lego-creator-dune-buggy-31087-3-in-1",
+    "price": 5.95,
+    "title": "Lego creator dune buggy 31087 3 in 1",
+    "imgUrl": "https://images1.vinted.net/t/01_0247d_rEcAPF7aR5eedoa2hv7gESry/f800/1725462193.jpeg?s=1f172d2ccee064ac1c74115ca31f85bcc5fdba0d",
+    "publicationDate": 1725462193,
+    "id": 4987010960
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3448121650-lego-creator-3in1-31087",
+    "price": 8.58,
+    "title": "Lego creator 3in1 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_01d7c_36RHfr6Tp3FSnwMAuGpTKSXs/f800/1694165761.jpeg?s=796ca1aaf90bec8fd20ec108efe3360c15263ceb",
+    "publicationDate": 1694165761,
+    "id": 3448121650
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5251784282-lego-creator-31087",
+    "price": 11.2,
+    "title": "Lego Creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_011b9_86S945BL2tLfWd1dXsFV1pUx/f800/1729448582.jpeg?s=8a8bc3f82ee5553d07acae8dce077dfd332a38ea",
+    "publicationDate": 1729448582,
+    "id": 5251784282
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3714849987-lego-creator-3-in-1-31087",
     "price": 11.2,
     "title": "Lego Creator 3 in 1   31087",
@@ -944,30 +1062,7 @@
     "id": 3714849987
   },
   {
-    "link": "https://www.vinted.fr/items/3686207842-lego-3en-1-31087",
-    "price": 16.45,
-    "title": "Lego 3en 1 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_022b2_sgfbgmq3EJ5oVdUjUTScCbpQ/f800/1698664900.jpeg?s=120e7b39e670e20a603f5a7adb21eedca8633654",
-    "publicationDate": 1698664900,
-    "id": 3686207842
-  },
-  {
-    "link": "https://www.vinted.fr/items/3765296698-lego-creator-3in1",
-    "price": 8.58,
-    "title": "Lego Creator 3in1 ",
-    "imgUrl": "https://images1.vinted.net/t/02_011d1_AYkkAdCbzu64piXKyYDTGBYy/f800/1700078914.jpeg?s=4e5dfb96bb8b93531fd3e94ada6f5b4efc008e79",
-    "publicationDate": 1700078914,
-    "id": 3765296698
-  },
-  {
-    "link": "https://www.vinted.fr/items/3284515079-lego-creator-31087",
-    "price": 10.15,
-    "title": "Lego creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_02567_YyN4nDibxAw6PRW5usCrA2bQ/f800/1690476195.jpeg?s=d23d38e462067a9ddab9ac9525324fbb1fde5b86",
-    "publicationDate": 1690476195,
-    "id": 3284515079
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5393877188-lego-creator-3-en-1-le-buggy-des-dunes-31087",
     "price": 20.65,
     "title": "Lego creator 3 en 1 le buggy des dunes 31087",
@@ -976,14 +1071,16 @@
     "id": 5393877188
   },
   {
-    "link": "https://www.vinted.fr/items/5252467548-lego-31087",
-    "price": 11.2,
-    "title": "Lego 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_00e80_k3cU2ti2JCGFBxZaX4Xt6v26/f800/1729455339.jpeg?s=04185ee98d6bbf1fcd90f19f408747de06dff19c",
-    "publicationDate": 1729455339,
-    "id": 5252467548
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3686207842-lego-3en-1-31087",
+    "price": 16.45,
+    "title": "Lego 3en 1 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_022b2_sgfbgmq3EJ5oVdUjUTScCbpQ/f800/1698664900.jpeg?s=120e7b39e670e20a603f5a7adb21eedca8633654",
+    "publicationDate": 1698664900,
+    "id": 3686207842
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3776076613-lego-creator-31087-dune-buggie-nieuw",
     "price": 16.45,
     "title": "Lego creator 31087 dune buggie NIEUW",
@@ -992,6 +1089,34 @@
     "id": 3776076613
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3765296698-lego-creator-3in1",
+    "price": 8.58,
+    "title": "Lego Creator 3in1 ",
+    "imgUrl": "https://images1.vinted.net/t/02_011d1_AYkkAdCbzu64piXKyYDTGBYy/f800/1700078914.jpeg?s=4e5dfb96bb8b93531fd3e94ada6f5b4efc008e79",
+    "publicationDate": 1700078914,
+    "id": 3765296698
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3284515079-lego-creator-31087",
+    "price": 10.15,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/01_02567_YyN4nDibxAw6PRW5usCrA2bQ/f800/1690476195.jpeg?s=d23d38e462067a9ddab9ac9525324fbb1fde5b86",
+    "publicationDate": 1690476195,
+    "id": 3284515079
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5252467548-lego-31087",
+    "price": 11.2,
+    "title": "Lego 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_00e80_k3cU2ti2JCGFBxZaX4Xt6v26/f800/1729455339.jpeg?s=04185ee98d6bbf1fcd90f19f408747de06dff19c",
+    "publicationDate": 1729455339,
+    "id": 5252467548
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5030200907-lego-creator-creator-3-in-1-dune-buggy-31087",
     "price": 5.95,
     "title": "Lego Creator | Creator 3-in-1 | Dune buggy 31087",
@@ -1000,6 +1125,7 @@
     "id": 5030200907
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3873901921-lego-creator-3in1-cod-31087-fuoristrada",
     "price": 5.43,
     "title": "Lego Creator 3in1 Cod. 31087 fuoristrada ",
@@ -1008,6 +1134,7 @@
     "id": 3873901921
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4765601393-lego-31087-creator-3-in-1",
     "price": 8.58,
     "title": "Lego 31087 creator 3 in 1",
@@ -1016,6 +1143,7 @@
     "id": 4765601393
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/770067403-lego-creator-31087-le-buggy",
     "price": 5.95,
     "title": "Lego creator 31087 le buggy",
@@ -1024,6 +1152,7 @@
     "id": 770067403
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5105594583-lego-creator-31087",
     "price": 12.25,
     "title": "Lego Creator 31087",
@@ -1032,22 +1161,7 @@
     "id": 5105594583
   },
   {
-    "link": "https://www.vinted.fr/items/5390160484-lego-creator-31087-3-en-1",
-    "price": 19.08,
-    "title": "Lego creator 31087 3 en 1",
-    "imgUrl": "https://images1.vinted.net/t/04_01d7b_eBC1gxm4Sdm1uSdRDiTJXGMV/f800/1731756365.jpeg?s=adabd4f507fc5d8f57440b8e2a9dc41fbcd8f70a",
-    "publicationDate": 1731756365,
-    "id": 5390160484
-  },
-  {
-    "link": "https://www.vinted.fr/items/5261846875-31087-neu-lego-strandbuggy",
-    "price": 31.15,
-    "title": "31087 neu lego strandbuggy",
-    "imgUrl": "https://images1.vinted.net/t/03_022a4_Npwzs5ixsQgR7mRQvB4bguvY/f800/1729612819.jpeg?s=71cf22db0e4aa62e579c603b05b33cfc2fbcbe6e",
-    "publicationDate": 1729612819,
-    "id": 5261846875
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5365835768-lego-6-creator-4x4-tout-terrain-buggy-31087",
     "price": 9.1,
     "title": "Lego 6 +. Creator. 4x4 tout terrain. Buggy. 31087",
@@ -1056,6 +1170,25 @@
     "id": 5365835768
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5261846875-31087-neu-lego-strandbuggy",
+    "price": 31.15,
+    "title": "31087 neu lego strandbuggy",
+    "imgUrl": "https://images1.vinted.net/t/03_022a4_Npwzs5ixsQgR7mRQvB4bguvY/f800/1729612819.jpeg?s=71cf22db0e4aa62e579c603b05b33cfc2fbcbe6e",
+    "publicationDate": 1729612819,
+    "id": 5261846875
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5390160484-lego-creator-31087-3-en-1",
+    "price": 19.08,
+    "title": "Lego creator 31087 3 en 1",
+    "imgUrl": "https://images1.vinted.net/t/04_01d7b_eBC1gxm4Sdm1uSdRDiTJXGMV/f800/1731756365.jpeg?s=adabd4f507fc5d8f57440b8e2a9dc41fbcd8f70a",
+    "publicationDate": 1731756365,
+    "id": 5390160484
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4645157172-lego-creator-31087",
     "price": 16.45,
     "title": "Lego creator 31087",
@@ -1064,6 +1197,7 @@
     "id": 4645157172
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4634650458-lego-creator",
     "price": 4.9,
     "title": "Lego creator",
@@ -1072,38 +1206,7 @@
     "id": 4634650458
   },
   {
-    "link": "https://www.vinted.fr/items/5007863087-lego-creator-3en1",
-    "price": 21.7,
-    "title": "Lego Creator 3en1",
-    "imgUrl": "https://images1.vinted.net/t/03_02166_oQez22CieiHTbb3NqUNX68no/f800/1725809676.jpeg?s=0c4e8faf81a9510f2ff9f315dff21a7ef46691e3",
-    "publicationDate": 1725809676,
-    "id": 5007863087
-  },
-  {
-    "link": "https://www.vinted.fr/items/1321731188-lego-31087-le-buggy-des-dunes",
-    "price": 3.85,
-    "title": "Lego 31087 Le buggy des dunes",
-    "imgUrl": "https://images1.vinted.net/t/03_012fa_Pxo2NJRz7jRxQNRnWepotspm/f800/1632481672.jpeg?s=95292b271be62d6912d694f77ee07ac2d4bd6fab",
-    "publicationDate": 1632481672,
-    "id": 1321731188
-  },
-  {
-    "link": "https://www.vinted.fr/items/3530956113-notice-livret-lego-creator-31087",
-    "price": 2.8,
-    "title": "Notice livret Lego Creator  31087",
-    "imgUrl": "https://images1.vinted.net/t/03_02149_2FodyPyiwzQR8RobHhkv5u74/f800/1695820826.jpeg?s=9b68f058721fd11cf8e45dd86258a2efb7b5ef01",
-    "publicationDate": 1695820826,
-    "id": 3530956113
-  },
-  {
-    "link": "https://www.vinted.fr/items/4898021328-lego-creator",
-    "price": 16.45,
-    "title": "Lego creator",
-    "imgUrl": "https://images1.vinted.net/t/01_01997_KUU86e65hd6NttKuWxBherfA/f800/1723898903.jpeg?s=246280ee67e0aabc8a821f5c13570e2a35ddd26e",
-    "publicationDate": 1723898903,
-    "id": 4898021328
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5180863646-lego-creator-dune-buggy-31087",
     "price": 16.45,
     "title": "Lego Creator Dune Buggy 31087",
@@ -1112,6 +1215,43 @@
     "id": 5180863646
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5007863087-lego-creator-3en1",
+    "price": 21.7,
+    "title": "Lego Creator 3en1",
+    "imgUrl": "https://images1.vinted.net/t/03_02166_oQez22CieiHTbb3NqUNX68no/f800/1725809676.jpeg?s=0c4e8faf81a9510f2ff9f315dff21a7ef46691e3",
+    "publicationDate": 1725809676,
+    "id": 5007863087
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/1321731188-lego-31087-le-buggy-des-dunes",
+    "price": 3.85,
+    "title": "Lego 31087 Le buggy des dunes",
+    "imgUrl": "https://images1.vinted.net/t/03_012fa_Pxo2NJRz7jRxQNRnWepotspm/f800/1632481672.jpeg?s=95292b271be62d6912d694f77ee07ac2d4bd6fab",
+    "publicationDate": 1632481672,
+    "id": 1321731188
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3530956113-notice-livret-lego-creator-31087",
+    "price": 2.8,
+    "title": "Notice livret Lego Creator  31087",
+    "imgUrl": "https://images1.vinted.net/t/03_02149_2FodyPyiwzQR8RobHhkv5u74/f800/1695820826.jpeg?s=9b68f058721fd11cf8e45dd86258a2efb7b5ef01",
+    "publicationDate": 1695820826,
+    "id": 3530956113
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4898021328-lego-creator",
+    "price": 16.45,
+    "title": "Lego creator",
+    "imgUrl": "https://images1.vinted.net/t/01_01997_KUU86e65hd6NttKuWxBherfA/f800/1723898903.jpeg?s=246280ee67e0aabc8a821f5c13570e2a35ddd26e",
+    "publicationDate": 1723898903,
+    "id": 4898021328
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4751540371-lego-creator-lot",
     "price": 21.7,
     "title": "Lego creator lot.",
@@ -1120,6 +1260,7 @@
     "id": 4751540371
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3530966683-notice-livret-lego-creator-31087-vehicule-tout-terrain",
     "price": 2.8,
     "title": "Notice livret Lego Creator 31087 Véhicule tout terrain  ",
@@ -1128,38 +1269,7 @@
     "id": 3530966683
   },
   {
-    "link": "https://www.vinted.fr/items/4598851636-lego-creator-31087",
-    "price": 11.2,
-    "title": "Lego Creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_02122_rugyjLbJNmdDYXyq8KDyXF79/f800/1717517058.jpeg?s=270eb431d719fb16547c928df23fdaab90a94478",
-    "publicationDate": 1717517058,
-    "id": 4598851636
-  },
-  {
-    "link": "https://www.vinted.fr/items/4904902638-lego-set-31087",
-    "price": 7.53,
-    "title": "LEGO set 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_01a87_XgLdoybTXLngTM2z581WQTKQ/f800/1724005333.jpeg?s=6cf36118b1b54b99c773f1c56fdd98c583b42026",
-    "publicationDate": 1724005333,
-    "id": 4904902638
-  },
-  {
-    "link": "https://www.vinted.fr/items/5305334165-lego-creator-3en1-31087",
-    "price": 19.6,
-    "title": "Lego creator 3en1 31087",
-    "imgUrl": "https://images1.vinted.net/t/04_014f6_2W8WPtawkiEcF2wPMAtxjkB2/f800/1730329080.jpeg?s=ce8d6ac61c0a16e03388a76df8bdafd6ae27beb1",
-    "publicationDate": 1730329080,
-    "id": 5305334165
-  },
-  {
-    "link": "https://www.vinted.fr/items/4373716760-lego-creator-3en1-31087",
-    "price": 21.7,
-    "title": "Lego creator 3en1 31087",
-    "imgUrl": "https://images1.vinted.net/t/01_00a1d_pNQZrVf64pphpG3VZFQGLdpe/f800/1713283344.jpeg?s=18b0a10efd5aee4b3cab807ff78888e7c58d8af9",
-    "publicationDate": 1713283344,
-    "id": 4373716760
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4520997712-vend-lego-creator",
     "price": 20.65,
     "title": "Vend lego creator",
@@ -1168,6 +1278,43 @@
     "id": 4520997712
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4598851636-lego-creator-31087",
+    "price": 11.2,
+    "title": "Lego Creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_02122_rugyjLbJNmdDYXyq8KDyXF79/f800/1717517058.jpeg?s=270eb431d719fb16547c928df23fdaab90a94478",
+    "publicationDate": 1717517058,
+    "id": 4598851636
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4904902638-lego-set-31087",
+    "price": 7.53,
+    "title": "LEGO set 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_01a87_XgLdoybTXLngTM2z581WQTKQ/f800/1724005333.jpeg?s=6cf36118b1b54b99c773f1c56fdd98c583b42026",
+    "publicationDate": 1724005333,
+    "id": 4904902638
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5305334165-lego-creator-3en1-31087",
+    "price": 19.6,
+    "title": "Lego creator 3en1 31087",
+    "imgUrl": "https://images1.vinted.net/t/04_014f6_2W8WPtawkiEcF2wPMAtxjkB2/f800/1730329080.jpeg?s=ce8d6ac61c0a16e03388a76df8bdafd6ae27beb1",
+    "publicationDate": 1730329080,
+    "id": 5305334165
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4373716760-lego-creator-3en1-31087",
+    "price": 21.7,
+    "title": "Lego creator 3en1 31087",
+    "imgUrl": "https://images1.vinted.net/t/01_00a1d_pNQZrVf64pphpG3VZFQGLdpe/f800/1713283344.jpeg?s=18b0a10efd5aee4b3cab807ff78888e7c58d8af9",
+    "publicationDate": 1713283344,
+    "id": 4373716760
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/2260576327-lego-creatore-le-buggy-des-dunes-31087",
     "price": 11.2,
     "title": "Lego creatore- le buggy des dunes - 31087",
@@ -1176,6 +1323,7 @@
     "id": 2260576327
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4003170911-lego-creator-31087",
     "price": 16.45,
     "title": "Lego creator 31087",
@@ -1184,6 +1332,7 @@
     "id": 4003170911
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3765348497-lego-creator-3-in-1-31087",
     "price": 13.3,
     "title": "Lego creator 3 in 1 31087",
@@ -1192,6 +1341,7 @@
     "id": 3765348497
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5182503588-lego-3-en-1-31087",
     "price": 17.5,
     "title": "Lego 3 en 1  31087",
@@ -1200,6 +1350,7 @@
     "id": 5182503588
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3457043717-set-lego-31087",
     "price": 16.45,
     "title": "Set Lego 31087",
@@ -1208,6 +1359,7 @@
     "id": 3457043717
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/1615033119-lego-creator-31087",
     "price": 9.1,
     "title": "Lego creator 31087",
@@ -1216,30 +1368,7 @@
     "id": 1615033119
   },
   {
-    "link": "https://www.vinted.fr/items/3630878098-lego-31087-3-en-1-3ans-et",
-    "price": 11.1,
-    "title": "LEGO 31087 3 en 1  3ans et +",
-    "imgUrl": "https://images1.vinted.net/t/03_02534_KedZzkXNxsqWuhTmY83pT9je/f800/1703149523.jpeg?s=8a0ccc005099776760aaa3212966fbcd3bb01e13",
-    "publicationDate": 1703149523,
-    "id": 3630878098
-  },
-  {
-    "link": "https://www.vinted.fr/items/4721661338-lego-set-31087-30352-gelpennen",
-    "price": 16.45,
-    "title": "Lego set 31087, 30352, gelpennen",
-    "imgUrl": "https://images1.vinted.net/t/03_0225e_o4RoXZ74x46pKduebVgq6Qd2/f800/1720085865.jpeg?s=cd697e9b1b464a00a427d62c1e542a178505da16",
-    "publicationDate": 1720085865,
-    "id": 4721661338
-  },
-  {
-    "link": "https://www.vinted.fr/items/5286984972-lego-creatif-2-voitures",
-    "price": 13.3,
-    "title": "Lego créatif 2 voitures",
-    "imgUrl": "https://images1.vinted.net/t/04_022ad_Yt3vAijsC7QQDShy7hnzvAEn/f800/1730040260.jpeg?s=568bd695ecee3603ca8da3a3f7158c83c137e295",
-    "publicationDate": 1730040260,
-    "id": 5286984972
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3788062748-lego-creator-31087",
     "price": 16.45,
     "title": "Lego Creator 31087",
@@ -1248,14 +1377,43 @@
     "id": 3788062748
   },
   {
-    "link": "https://www.vinted.fr/items/5302117151-legor-creator-3-en-1-31087-le-buggy-des-dunes",
-    "price": 21.7,
-    "title": "LEGO® Creator 3 en 1 31087 Le buggy des dunes",
-    "imgUrl": "https://images1.vinted.net/t/03_0246f_Edp2LNGn5799NtpPcXePGoXa/f800/1730289902.jpeg?s=ce658c4e4158e81b15ced081566c6473de5d9e94",
-    "publicationDate": 1730289902,
-    "id": 5302117151
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3630878098-lego-31087-3-en-1-3ans-et",
+    "price": 11.1,
+    "title": "LEGO 31087 3 en 1  3ans et +",
+    "imgUrl": "https://images1.vinted.net/t/03_02534_KedZzkXNxsqWuhTmY83pT9je/f800/1703149523.jpeg?s=8a0ccc005099776760aaa3212966fbcd3bb01e13",
+    "publicationDate": 1703149523,
+    "id": 3630878098
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4721661338-lego-set-31087-30352-gelpennen",
+    "price": 16.45,
+    "title": "Lego set 31087, 30352, gelpennen",
+    "imgUrl": "https://images1.vinted.net/t/03_0225e_o4RoXZ74x46pKduebVgq6Qd2/f800/1720085865.jpeg?s=cd697e9b1b464a00a427d62c1e542a178505da16",
+    "publicationDate": 1720085865,
+    "id": 4721661338
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5286984972-lego-creatif-2-voitures",
+    "price": 13.3,
+    "title": "Lego créatif 2 voitures",
+    "imgUrl": "https://images1.vinted.net/t/04_022ad_Yt3vAijsC7QQDShy7hnzvAEn/f800/1730040260.jpeg?s=568bd695ecee3603ca8da3a3f7158c83c137e295",
+    "publicationDate": 1730040260,
+    "id": 5286984972
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3298116592-lego-creator-31087",
+    "price": 5.95,
+    "title": "Lego creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_00057_CYDP44pjZmvPonU4cGcBMSF1/f800/1690814886.jpeg?s=47b51e023b7015fc77789e471cdb0dee4556b422",
+    "publicationDate": 1690814886,
+    "id": 3298116592
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3792759926-lego-creator-buggy-31087",
     "price": 16.45,
     "title": "Lego Creator Buggy 31087",
@@ -1264,6 +1422,7 @@
     "id": 3792759926
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5218234671-lego-creator-3-in-1-31087-autos-flugzeug-vollstandig",
     "price": 10.15,
     "title": "Lego creator 3 in 1, 31087, Autos, Flugzeug, vollständig",
@@ -1272,6 +1431,7 @@
     "id": 5218234671
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4971581057-lego-creator-3-in-strand-buggy-31087-neu-und-ovp",
     "price": 17.5,
     "title": "Lego Creator 3 in , Strand Buggy 31087, Neu und OVP",
@@ -1280,6 +1440,7 @@
     "id": 4971581057
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/2591219711-lego-creator-31087",
     "price": 10.15,
     "title": "Lego creator 31087",
@@ -1288,6 +1449,7 @@
     "id": 2591219711
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/2287694451-lego-creator-31087",
     "price": 13.3,
     "title": "Lego Creator 31087",
@@ -1296,6 +1458,7 @@
     "id": 2287694451
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4231116415-lego-31087-creator-3-in-1-set-strandbuggy",
     "price": 10.15,
     "title": "Lego 31087 Creator 3 in 1 Set Strandbuggy",
@@ -1304,6 +1467,16 @@
     "id": 4231116415
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/1465674508-lego-creator-set-31087",
+    "price": 15.19,
+    "title": "Lego Creator-Set 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_01305_zcbPvXGFEH4KhBJAQDqGbZeE/f800/1637823309.jpeg?s=050297f386843e81fc199153b0919f798306b043",
+    "publicationDate": 1637823309,
+    "id": 1465674508
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5245966137-lego-creator-31087-3-in-1-dune-buggy",
     "price": 8.58,
     "title": "Lego Creator 31087 ( 3 in 1 ) Dune Buggy",
@@ -1312,6 +1485,7 @@
     "id": 5245966137
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/2459858389-lego-31087-creator-3-en-1",
     "price": 16.45,
     "title": "Lego 31087 creator 3 en 1",
@@ -1320,6 +1494,7 @@
     "id": 2459858389
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4904852574-lego-set-31087",
     "price": 5.95,
     "title": "LEGO set 31087",
@@ -1328,30 +1503,7 @@
     "id": 4904852574
   },
   {
-    "link": "https://www.vinted.fr/items/2791590889-lego-creator-31087-dune-buggy",
-    "price": 12.25,
-    "title": "Lego creator 31087 Dune buggy",
-    "imgUrl": "https://images1.vinted.net/t/02_00435_Pd213ZXNgsLVn8Htr4kQDh4m/f800/1678883512.jpeg?s=d2076b462be5f3f346335597967332083cb92739",
-    "publicationDate": 1678883512,
-    "id": 2791590889
-  },
-  {
-    "link": "https://www.vinted.fr/items/1675672930-lego-creator-31087",
-    "price": 7.53,
-    "title": "Lego Creator 31087",
-    "imgUrl": "https://images1.vinted.net/t/03_009bf_S7Puh44mfTQ7khVsgF9T3TbR/f800/1646570625.jpeg?s=89eb10ad066e407936db2fe70428af1e7aa5ab29",
-    "publicationDate": 1646570625,
-    "id": 1675672930
-  },
-  {
-    "link": "https://www.vinted.fr/items/5316400829-lego-creator-31087-le-buggy-des-dunes",
-    "price": 16.45,
-    "title": "Lego creator 31087 le buggy des dunes",
-    "imgUrl": "https://images1.vinted.net/t/02_01dc2_mDUPgGFAHrKGZ53JZPg7UD9c/f800/1730552113.jpeg?s=d5b21ff92eb206f80360c375767cb2beabd6e80c",
-    "publicationDate": 1730552113,
-    "id": 5316400829
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5319800192-lot-de-2-lego-creator-3-en-1-31087-et-31071",
     "price": 17.5,
     "title": "Lot de 2 Lego creator 3 en 1 : 31087 et 31071",
@@ -1360,6 +1512,43 @@
     "id": 5319800192
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5302117151-legor-creator-3-en-1-31087-le-buggy-des-dunes",
+    "price": 21.7,
+    "title": "LEGO® Creator 3 en 1 31087 Le buggy des dunes",
+    "imgUrl": "https://images1.vinted.net/t/03_0246f_Edp2LNGn5799NtpPcXePGoXa/f800/1730289902.jpeg?s=ce658c4e4158e81b15ced081566c6473de5d9e94",
+    "publicationDate": 1730289902,
+    "id": 5302117151
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5316400829-lego-creator-31087-le-buggy-des-dunes",
+    "price": 16.45,
+    "title": "Lego creator 31087 le buggy des dunes",
+    "imgUrl": "https://images1.vinted.net/t/02_01dc2_mDUPgGFAHrKGZ53JZPg7UD9c/f800/1730552113.jpeg?s=d5b21ff92eb206f80360c375767cb2beabd6e80c",
+    "publicationDate": 1730552113,
+    "id": 5316400829
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/2791590889-lego-creator-31087-dune-buggy",
+    "price": 12.25,
+    "title": "Lego creator 31087 Dune buggy",
+    "imgUrl": "https://images1.vinted.net/t/02_00435_Pd213ZXNgsLVn8Htr4kQDh4m/f800/1678883512.jpeg?s=d2076b462be5f3f346335597967332083cb92739",
+    "publicationDate": 1678883512,
+    "id": 2791590889
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/1675672930-lego-creator-31087",
+    "price": 7.53,
+    "title": "Lego Creator 31087",
+    "imgUrl": "https://images1.vinted.net/t/03_009bf_S7Puh44mfTQ7khVsgF9T3TbR/f800/1646570625.jpeg?s=89eb10ad066e407936db2fe70428af1e7aa5ab29",
+    "publicationDate": 1646570625,
+    "id": 1675672930
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/2267434978-lego-31087-le-buggy-des-dunes",
     "price": 16.45,
     "title": "Lego 31087 Le buggy des dunes",
@@ -1368,6 +1557,7 @@
     "id": 2267434978
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5317293561-lego-31087",
     "price": 16.45,
     "title": "Lego 31087",
@@ -1376,6 +1566,7 @@
     "id": 5317293561
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/1163549495-lego-creator-3-en-1-31087",
     "price": 5.95,
     "title": "Lego Creator 3 en 1 31087 ",
@@ -1384,6 +1575,7 @@
     "id": 1163549495
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/2447889091-lego-creator",
     "price": 19.6,
     "title": "Lego Creator",
@@ -1392,6 +1584,7 @@
     "id": 2447889091
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4893210257-lego-creator-lego-legocreator-31087",
     "price": 13.3,
     "title": "Lego Creator #lego #legocreator #31087",
@@ -1400,14 +1593,7 @@
     "id": 4893210257
   },
   {
-    "link": "https://www.vinted.fr/items/3471735061-lego-creator-31087-le-buggy-des-dunes-neuf-jamais-ouvert",
-    "price": 16.45,
-    "title": "Lego Creator 31087 Le buggy des dunes, neuf jamais ouvert",
-    "imgUrl": "https://images1.vinted.net/t/03_01238_FC1rnVkUS3iBWoFtUdYY42Wa/f800/1694691173.jpeg?s=567732ecc1c74640775b5c588a4597f39f414063",
-    "publicationDate": 1694691173,
-    "id": 3471735061
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5296906484-lot-3-sets-de-lego-creator-3-en-1",
     "price": 26.95,
     "title": "Lot 3 sets de Lego Creator « 3 en 1 »",
@@ -1416,6 +1602,16 @@
     "id": 5296906484
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/3471735061-lego-creator-31087-le-buggy-des-dunes-neuf-jamais-ouvert",
+    "price": 16.45,
+    "title": "Lego Creator 31087 Le buggy des dunes, neuf jamais ouvert",
+    "imgUrl": "https://images1.vinted.net/t/03_01238_FC1rnVkUS3iBWoFtUdYY42Wa/f800/1694691173.jpeg?s=567732ecc1c74640775b5c588a4597f39f414063",
+    "publicationDate": 1694691173,
+    "id": 3471735061
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3612245380-lego-31087-creator-3-en-1",
     "price": 21.7,
     "title": "Lego 31087 creator 3 en 1 ",
@@ -1424,6 +1620,7 @@
     "id": 3612245380
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/2414479339-lego-creator-le-buggy-des-dunes-31087",
     "price": 18.55,
     "title": "Lego creator  le buggy des dunes 31087",
@@ -1432,6 +1629,7 @@
     "id": 2414479339
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3789614064-lego-creator-3in1-flieger-safari-truck-31087",
     "price": 11.2,
     "title": "Lego Creator 3in1 Flieger Safari-Truck 31087",
@@ -1440,6 +1638,7 @@
     "id": 3789614064
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5336331552-lego-creator-3-in-1-31087-dune-buggy",
     "price": 8.58,
     "title": "LEGO | Creator 3-in-1 | 31087 | Dune buggy",
@@ -1448,6 +1647,7 @@
     "id": 5336331552
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3014074408-buggy-des-dunes-legor-creator-31087",
     "price": 16.45,
     "title": "buggy des dunes LEGO® Creator 31087",
@@ -1456,46 +1656,7 @@
     "id": 3014074408
   },
   {
-    "link": "https://www.vinted.fr/items/4007346841-lego-creator-3-in-1-dune-buggy-aereo-quad-31087",
-    "price": 13.3,
-    "title": "Lego Creator 3 in 1 - Dune Buggy, Aereo, Quad (31087)",
-    "imgUrl": "https://images1.vinted.net/t/01_02545_QP9Q9XWjAugKfQks6ZnnzQiA/f800/1705860190.jpeg?s=195adfdf3abd1abcb1dc2c1f2f231f46b2723d95",
-    "publicationDate": 1705860190,
-    "id": 4007346841
-  },
-  {
-    "link": "https://www.vinted.fr/items/1061263147-lego-creator-3-en-1-31087-tres-bon-etat-complet",
-    "price": 8.58,
-    "title": "Lego Créator 3 en 1. 31087. Très bon état. Complet",
-    "imgUrl": "https://images1.vinted.net/t/03_0105f_qjF9XXcCC8QG1rRA2VrqDmbK/f800/1623224931.jpeg?s=7d07f305c17e70376e7eebf21a12ea799ee8afc4",
-    "publicationDate": 1623224931,
-    "id": 1061263147
-  },
-  {
-    "link": "https://www.vinted.fr/items/4019682418-lego-31087",
-    "price": 21.7,
-    "title": "Lego 31087",
-    "imgUrl": "https://images1.vinted.net/t/02_01c80_vjCVs6QNAUKkEixavErXaLQb/f800/1706126938.jpeg?s=f59cad808df5950e54af93ac4dc005e1710163ae",
-    "publicationDate": 1706126938,
-    "id": 4019682418
-  },
-  {
-    "link": "https://www.vinted.fr/items/5171688944-lego-le-buggy-des-dunes-3-en-1",
-    "price": 21.7,
-    "title": "LEGO Le buggy des dunes 3 en 1",
-    "imgUrl": "https://images1.vinted.net/t/02_00963_wC2bFwhXpiZwb3SJyMvjZ18P/f800/1728233002.jpeg?s=c6cc27e1a214e5e6f803044b8275a042f80f3b97",
-    "publicationDate": 1728233002,
-    "id": 5171688944
-  },
-  {
-    "link": "https://www.vinted.fr/items/5024769054-twee-lego-autos",
-    "price": 11.2,
-    "title": "Twee lego auto’s",
-    "imgUrl": "https://images1.vinted.net/t/04_001a1_TjvMkHxJyZvsN9XfG3SbMLfv/f800/1729974016.jpeg?s=cae2251ba395351b61e7cf02003a8cb7f57f6aca",
-    "publicationDate": 1729974016,
-    "id": 5024769054
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/2650528264-legor-creator-3-en-1-31087-le-buggy-des-dunes",
     "price": 4.9,
     "title": "LEGO® Creator 3 en 1 - 31087 - Le buggy des dunes",
@@ -1504,6 +1665,52 @@
     "id": 2650528264
   },
   {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4007346841-lego-creator-3-in-1-dune-buggy-aereo-quad-31087",
+    "price": 13.3,
+    "title": "Lego Creator 3 in 1 - Dune Buggy, Aereo, Quad (31087)",
+    "imgUrl": "https://images1.vinted.net/t/01_02545_QP9Q9XWjAugKfQks6ZnnzQiA/f800/1705860190.jpeg?s=195adfdf3abd1abcb1dc2c1f2f231f46b2723d95",
+    "publicationDate": 1705860190,
+    "id": 4007346841
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/4019682418-lego-31087",
+    "price": 21.7,
+    "title": "Lego 31087",
+    "imgUrl": "https://images1.vinted.net/t/02_01c80_vjCVs6QNAUKkEixavErXaLQb/f800/1706126938.jpeg?s=f59cad808df5950e54af93ac4dc005e1710163ae",
+    "publicationDate": 1706126938,
+    "id": 4019682418
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/1061263147-lego-creator-3-en-1-31087-tres-bon-etat-complet",
+    "price": 8.58,
+    "title": "Lego Créator 3 en 1. 31087. Très bon état. Complet",
+    "imgUrl": "https://images1.vinted.net/t/03_0105f_qjF9XXcCC8QG1rRA2VrqDmbK/f800/1623224931.jpeg?s=7d07f305c17e70376e7eebf21a12ea799ee8afc4",
+    "publicationDate": 1623224931,
+    "id": 1061263147
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5171688944-lego-le-buggy-des-dunes-3-en-1",
+    "price": 21.7,
+    "title": "LEGO Le buggy des dunes 3 en 1",
+    "imgUrl": "https://images1.vinted.net/t/02_00963_wC2bFwhXpiZwb3SJyMvjZ18P/f800/1728233002.jpeg?s=c6cc27e1a214e5e6f803044b8275a042f80f3b97",
+    "publicationDate": 1728233002,
+    "id": 5171688944
+  },
+  {
+    "legoId": "31087",
+    "link": "https://www.vinted.fr/items/5024769054-twee-lego-autos",
+    "price": 11.2,
+    "title": "Twee lego auto’s",
+    "imgUrl": "https://images1.vinted.net/t/04_001a1_TjvMkHxJyZvsN9XfG3SbMLfv/f800/1729974016.jpeg?s=cae2251ba395351b61e7cf02003a8cb7f57f6aca",
+    "publicationDate": 1729974016,
+    "id": 5024769054
+  },
+  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3434248061-lego-creator-3-en-1-6-ans-31087-le-buggy-des-dunes",
     "price": 23.8,
     "title": "Lego creator 3 en 1 6 ans 31087 Le buggy des dunes",
@@ -1512,6 +1719,7 @@
     "id": 3434248061
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/2887735641-legor-creator-3-in-1-strandbuggy",
     "price": 16.45,
     "title": "LEGO® Creator 3-in-1 Strandbuggy",
@@ -1520,6 +1728,7 @@
     "id": 2887735641
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3736174902-lego-31087-dune-buggy",
     "price": 19.6,
     "title": "Lego 31087 Dune Buggy",
@@ -1528,6 +1737,7 @@
     "id": 3736174902
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4772520620-lot-de-lego",
     "price": 58.45,
     "title": "Lot de Lego",
@@ -1536,14 +1746,7 @@
     "id": 4772520620
   },
   {
-    "link": "https://www.vinted.fr/items/4772520620-lot-de-lego",
-    "price": 58.45,
-    "title": "Lot de Lego",
-    "imgUrl": "https://images1.vinted.net/t/03_025bd_ZCZ9FiHYYTBhtKPsRSFNXzZt/f800/1721139253.jpeg?s=729bdf165ad68a8b214ce10f890d8053ce10eb74",
-    "publicationDate": 1721139253,
-    "id": 4772520620
-  },
-  {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/1794849774-lot-vrac-lego",
     "price": 22.75,
     "title": "Lot vrac Lego ",
@@ -1552,6 +1755,7 @@
     "id": 1794849774
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/4059944477-lego-creator",
     "price": 26.95,
     "title": "Lego Creator ",
@@ -1560,6 +1764,7 @@
     "id": 4059944477
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/5326861585-lot-lego-creator-31101-et-31087-neuf",
     "price": 52.15,
     "title": "Lot Lego creator 31101 et 31087 neuf",
@@ -1568,6 +1773,7 @@
     "id": 5326861585
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/1281714875-lego-creator-31087",
     "price": 11.2,
     "title": "Lego Creator 31087",
@@ -1576,6 +1782,7 @@
     "id": 1281714875
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/724002393-lego-creator-31087",
     "price": 9.1,
     "title": "Lego creator 31087",
@@ -1584,6 +1791,7 @@
     "id": 724002393
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/2399599158-lego-set-31087",
     "price": 22.75,
     "title": "Lego set 31087",
@@ -1592,6 +1800,7 @@
     "id": 2399599158
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3716985428-lot-lego-tres-complet-avec-notices",
     "price": 84.7,
     "title": "Lot Lego très complet avec notices ",
@@ -1600,6 +1809,7 @@
     "id": 3716985428
   },
   {
+    "legoId": "31087",
     "link": "https://www.vinted.fr/items/3176959770-kg-di-lego-di-tutti-i-tipi",
     "price": 555.9,
     "title": "Kg di Lego di tutti i tipi",

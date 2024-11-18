@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5314555903-lego-43212",
     "price": 26.95,
     "title": "Lego 43212",
@@ -8,6 +9,7 @@
     "id": 5314555903
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5186540406-lego-43212-senza-minifigures-e-relativi-accessori",
     "price": 21.7,
     "title": "Lego 43212 Senza Minifigures e Relativi Accessori",
@@ -16,6 +18,7 @@
     "id": 5186540406
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5207840446-lego-disney-43212-pas-de-figurines-pas-de-boite",
     "price": 17.4,
     "title": "Lego Disney 43212 pas de figurines pas de boîte",
@@ -24,6 +27,7 @@
     "id": 5207840446
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5386789561-lego-disney-train-43212",
     "price": 29.05,
     "title": "Lego Disney train 43212",
@@ -32,14 +36,7 @@
     "id": 5386789561
   },
   {
-    "link": "https://www.vinted.fr/items/3414276153-lego-minifigure-dis089-minnie",
-    "price": 5.43,
-    "title": "Lego Minifigure dis089 Minnie",
-    "imgUrl": "https://images1.vinted.net/t/03_015d6_gfTrNYBXpS1QzkzqKAitYaqq/f800/1693426360.jpeg?s=5b06a9207017351ab2688d71e993b561ca06c08b",
-    "publicationDate": 1693426360,
-    "id": 3414276153
-  },
-  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5182418109-lego-43212-disney-mickey-minnie-mouse",
     "price": 11.19,
     "title": "Lego 43212 Disney Mickey Minnie Mouse",
@@ -48,6 +45,7 @@
     "id": 5182418109
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5352502703-lot-lego-disney-4-sans-figurines",
     "price": 18.55,
     "title": "Lot Lego Disney 4+ sans figurines",
@@ -56,6 +54,16 @@
     "id": 5352502703
   },
   {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/3414276153-lego-minifigure-dis089-minnie",
+    "price": 5.43,
+    "title": "Lego Minifigure dis089 Minnie",
+    "imgUrl": "https://images1.vinted.net/t/03_015d6_gfTrNYBXpS1QzkzqKAitYaqq/f800/1693426360.jpeg?s=5b06a9207017351ab2688d71e993b561ca06c08b",
+    "publicationDate": 1693426360,
+    "id": 3414276153
+  },
+  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5365576791-lego-disney-train-43212-neuf",
     "price": 31.15,
     "title": "Lego Disney train 43212 neuf",
@@ -64,22 +72,7 @@
     "id": 5365576791
   },
   {
-    "link": "https://www.vinted.fr/items/4248751197-lego-disney-43212",
-    "price": 30.1,
-    "title": "LEGO Disney 43212",
-    "imgUrl": "https://images1.vinted.net/t/03_02536_siX8vK8mfXW6Dady98DCr49a/f800/1710940038.jpeg?s=c8bb7444b0df61c52647f1059f997959fb03bb31",
-    "publicationDate": 1710940038,
-    "id": 4248751197
-  },
-  {
-    "link": "https://www.vinted.fr/items/5331624538-lego-43212-le-train-en-fete-disney",
-    "price": 32.2,
-    "title": "Lego 43212 Le train en fete Disney",
-    "imgUrl": "https://images1.vinted.net/t/04_00812_7Yf9GcAE2xLVjtcdhRVETvcW/f800/1730754251.jpeg?s=6dfd384d605e164873c437006ccb64990556f29b",
-    "publicationDate": 1730754251,
-    "id": 5331624538
-  },
-  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/3815715945-lego-43212-sin-minifiguras",
     "price": 13.3,
     "title": "Lego 43212 sin minifiguras",
@@ -88,6 +81,25 @@
     "id": 3815715945
   },
   {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/4248751197-lego-disney-43212",
+    "price": 30.1,
+    "title": "LEGO Disney 43212",
+    "imgUrl": "https://images1.vinted.net/t/03_02536_siX8vK8mfXW6Dady98DCr49a/f800/1710940038.jpeg?s=c8bb7444b0df61c52647f1059f997959fb03bb31",
+    "publicationDate": 1710940038,
+    "id": 4248751197
+  },
+  {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/5331624538-lego-43212-le-train-en-fete-disney",
+    "price": 32.2,
+    "title": "Lego 43212 Le train en fete Disney",
+    "imgUrl": "https://images1.vinted.net/t/04_00812_7Yf9GcAE2xLVjtcdhRVETvcW/f800/1730754251.jpeg?s=6dfd384d605e164873c437006ccb64990556f29b",
+    "publicationDate": 1730754251,
+    "id": 5331624538
+  },
+  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/3037456390-lego-43212-no-minifigures",
     "price": 17.5,
     "title": "Lego 43212 No Minifigures ",
@@ -96,6 +108,7 @@
     "id": 3037456390
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/3887439591-lego-disney-43212",
     "price": 30.1,
     "title": "LEGO Disney 43212",
@@ -104,22 +117,7 @@
     "id": 3887439591
   },
   {
-    "link": "https://www.vinted.fr/items/5216580535-lego-disney",
-    "price": 32.19,
-    "title": "Lego Disney",
-    "imgUrl": "https://images1.vinted.net/t/03_02531_HAjrq9ox4dwejUYapGYAXwNz/f800/1728912669.jpeg?s=7f426db9535ce4b678e515fdf1831684b11e94dd",
-    "publicationDate": 1728912669,
-    "id": 5216580535
-  },
-  {
-    "link": "https://www.vinted.fr/items/5328947165-lego-disney-43212",
-    "price": 32.2,
-    "title": "LEGO Disney 43212",
-    "imgUrl": "https://images1.vinted.net/t/04_01428_FcjMPJbo7vc48rnGKfRGVBX1/f800/1730726512.jpeg?s=fa2237222987eb88067939ed18147503ae915dd8",
-    "publicationDate": 1730726512,
-    "id": 5328947165
-  },
-  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5398328574-lego-43212-train-disney",
     "price": 37.45,
     "title": "Lego 43212 train Disney",
@@ -128,6 +126,16 @@
     "id": 5398328574
   },
   {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/5216580535-lego-disney",
+    "price": 32.19,
+    "title": "Lego Disney",
+    "imgUrl": "https://images1.vinted.net/t/03_02531_HAjrq9ox4dwejUYapGYAXwNz/f800/1728912669.jpeg?s=7f426db9535ce4b678e515fdf1831684b11e94dd",
+    "publicationDate": 1728912669,
+    "id": 5216580535
+  },
+  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/4137785562-lego-43212-disney-nuevo-sin-minifiguras",
     "price": 13.3,
     "title": "Lego 43212 Disney (nuevo, sin minifiguras)",
@@ -136,6 +144,7 @@
     "id": 4137785562
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/3776926509-lego-minifigurine-toy-story-woody",
     "price": 4.9,
     "title": "Lego Minifigurine Toy Story Woody",
@@ -144,14 +153,16 @@
     "id": 3776926509
   },
   {
-    "link": "https://www.vinted.fr/items/3681540418-lego-43212-city-neuf-et-scelle",
-    "price": 21.7,
-    "title": "Lego 43212 city | neuf et scellé",
-    "imgUrl": "https://images1.vinted.net/t/02_0171c_o3qAqfynLgB6pHdHLKR94qXw/f800/1698586387.jpeg?s=f93fc468fa1ae391106d839e2f4929ec716af4a7",
-    "publicationDate": 1698586387,
-    "id": 3681540418
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/5328947165-lego-disney-43212",
+    "price": 32.2,
+    "title": "LEGO Disney 43212",
+    "imgUrl": "https://images1.vinted.net/t/04_01428_FcjMPJbo7vc48rnGKfRGVBX1/f800/1730726512.jpeg?s=fa2237222987eb88067939ed18147503ae915dd8",
+    "publicationDate": 1730726512,
+    "id": 5328947165
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5033309452-43212-lego-disney-celebration-train",
     "price": 26.95,
     "title": "43212 Lego Disney Celebration Train",
@@ -160,6 +171,16 @@
     "id": 5033309452
   },
   {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/3681540418-lego-43212-city-neuf-et-scelle",
+    "price": 21.7,
+    "title": "Lego 43212 city | neuf et scellé",
+    "imgUrl": "https://images1.vinted.net/t/02_0171c_o3qAqfynLgB6pHdHLKR94qXw/f800/1698586387.jpeg?s=f93fc468fa1ae391106d839e2f4929ec716af4a7",
+    "publicationDate": 1698586387,
+    "id": 3681540418
+  },
+  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5181415793-lego-disney-43212-le-train-disney",
     "price": 32.2,
     "title": "Lego disney 43212 le train disney",
@@ -168,14 +189,7 @@
     "id": 5181415793
   },
   {
-    "link": "https://www.vinted.fr/items/4834013381-lego-43212-tren-disney",
-    "price": 29.05,
-    "title": "Lego 43212 Tren Disney",
-    "imgUrl": "https://images1.vinted.net/t/03_00389_5YUzKNZ6nYu5U5Zjs7wJd5eR/f800/1722513724.jpeg?s=ab4e16f8c90948459be7279b3d613cc51f1cdf01",
-    "publicationDate": 1722513724,
-    "id": 4834013381
-  },
-  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/4565620168-bouwinstructie-boekjes-lego-disney-43212",
     "price": 3.85,
     "title": "Bouwinstructie boekjes  Lego Disney 43212",
@@ -184,6 +198,16 @@
     "id": 4565620168
   },
   {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/4834013381-lego-43212-tren-disney",
+    "price": 29.05,
+    "title": "Lego 43212 Tren Disney",
+    "imgUrl": "https://images1.vinted.net/t/03_00389_5YUzKNZ6nYu5U5Zjs7wJd5eR/f800/1722513724.jpeg?s=ab4e16f8c90948459be7279b3d613cc51f1cdf01",
+    "publicationDate": 1722513724,
+    "id": 4834013381
+  },
+  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/4253866031-lego-disney-43212",
     "price": 30.1,
     "title": "Lego disney 43212",
@@ -192,6 +216,7 @@
     "id": 4253866031
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5356220490-lego-disney",
     "price": 34.3,
     "title": "Lego Disney",
@@ -200,6 +225,7 @@
     "id": 5356220490
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/3783893657-lego-disney-43212-comboio-de-celebracao-da-disney",
     "price": 32.2,
     "title": "LEGO Disney 43212 - Comboio de Celebração da Disney ",
@@ -208,6 +234,7 @@
     "id": 3783893657
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5138960434-lego-disney-micky-trein-43212-4",
     "price": 32.2,
     "title": "LEGO Disney micky trein 43212 4+",
@@ -216,22 +243,7 @@
     "id": 5138960434
   },
   {
-    "link": "https://www.vinted.fr/items/5324382182-lego-disney-43212-100-anos-disney-celebration-train",
-    "price": 35.35,
-    "title": "Lego disney 43212 100 anos Disney Celebration Train",
-    "imgUrl": "https://images1.vinted.net/t/04_00557_h9PhcTNfk1pF2c7fEVTKe9RW/f800/1730650022.jpeg?s=6a8d8556fd17e52db5309942bb9c69b349ceb1b8",
-    "publicationDate": 1730650022,
-    "id": 5324382182
-  },
-  {
-    "link": "https://www.vinted.fr/items/3968628169-lego-disney-43212-le-train-neuf-scelle",
-    "price": 32.2,
-    "title": "LEGO Disney 43212 Le train - Neuf scellé",
-    "imgUrl": "https://images1.vinted.net/t/01_0204e_LXpKiR4Q3J8VGrEHENX3xwmb/f800/1705057351.jpeg?s=045f449bc8f4d6fdf4a8f0f2ff362d3df0586601",
-    "publicationDate": 1705057351,
-    "id": 3968628169
-  },
-  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/3954803854-new-lego-disney-train-43212-new",
     "price": 32.15,
     "title": "NEW Lego disney train 43212 new",
@@ -240,14 +252,7 @@
     "id": 3954803854
   },
   {
-    "link": "https://www.vinted.fr/items/4804823796-lego-43212-treno-delle-celebrazioni-disney",
-    "price": 32.2,
-    "title": "Lego 43212 - Treno delle celebrazioni Disney",
-    "imgUrl": "https://images1.vinted.net/t/03_0076f_Uh5BRTb4joHRuAtD4KGitqKf/f800/1721839741.jpeg?s=4788e51f17d289c7e0a2324822cc8b3ac07dca2b",
-    "publicationDate": 1721839741,
-    "id": 4804823796
-  },
-  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5403637405-lego-43212-disney-100-jahre-geburtstagszug-neu-ovp",
     "price": 32.2,
     "title": "Lego 43212 Disney 100 Jahre Geburtstagszug NEU-Ovp",
@@ -256,14 +261,16 @@
     "id": 5403637405
   },
   {
-    "link": "https://www.vinted.fr/items/4551713757-train-disney",
-    "price": 42.7,
-    "title": "Train Disney",
-    "imgUrl": "https://images1.vinted.net/t/01_02484_mhJjXhovFRBmomcrh5ff3ZxY/f800/1716637767.jpeg?s=0fb79e585144f009a43d6e2bbc9149966f772613",
-    "publicationDate": 1716637767,
-    "id": 4551713757
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/5324382182-lego-disney-43212-100-anos-disney-celebration-train",
+    "price": 35.35,
+    "title": "Lego disney 43212 100 anos Disney Celebration Train",
+    "imgUrl": "https://images1.vinted.net/t/04_00557_h9PhcTNfk1pF2c7fEVTKe9RW/f800/1730650022.jpeg?s=6a8d8556fd17e52db5309942bb9c69b349ceb1b8",
+    "publicationDate": 1730650022,
+    "id": 5324382182
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/3872310060-pack-lego-novos-3-43212-60383-60392",
     "price": 47.85,
     "title": "Pack lego novos 3 ( 43212 60383 60392)",
@@ -272,14 +279,34 @@
     "id": 3872310060
   },
   {
-    "link": "https://www.vinted.fr/items/4393943160-lego-43212-disney-le-train-en-fete-disney-et-polybag-wish",
-    "price": 41.65,
-    "title": "LEGO 43212 Disney Le Train en Fête Disney, et polybag Wish.",
-    "imgUrl": "https://images1.vinted.net/t/01_01a32_rV1YGYwJDPkzsV4mGPJEuqmi/f800/1713685838.jpeg?s=f79c043117eb314a127abc118583c53171f33285",
-    "publicationDate": 1713685838,
-    "id": 4393943160
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/4804823796-lego-43212-treno-delle-celebrazioni-disney",
+    "price": 32.2,
+    "title": "Lego 43212 - Treno delle celebrazioni Disney",
+    "imgUrl": "https://images1.vinted.net/t/03_0076f_Uh5BRTb4joHRuAtD4KGitqKf/f800/1721839741.jpeg?s=4788e51f17d289c7e0a2324822cc8b3ac07dca2b",
+    "publicationDate": 1721839741,
+    "id": 4804823796
   },
   {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/3968628169-lego-disney-43212-le-train-neuf-scelle",
+    "price": 32.2,
+    "title": "LEGO Disney 43212 Le train - Neuf scellé",
+    "imgUrl": "https://images1.vinted.net/t/01_0204e_LXpKiR4Q3J8VGrEHENX3xwmb/f800/1705057351.jpeg?s=045f449bc8f4d6fdf4a8f0f2ff362d3df0586601",
+    "publicationDate": 1705057351,
+    "id": 3968628169
+  },
+  {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/4551713757-train-disney",
+    "price": 42.7,
+    "title": "Train Disney",
+    "imgUrl": "https://images1.vinted.net/t/01_02484_mhJjXhovFRBmomcrh5ff3ZxY/f800/1716637767.jpeg?s=0fb79e585144f009a43d6e2bbc9149966f772613",
+    "publicationDate": 1716637767,
+    "id": 4551713757
+  },
+  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/4528504534-lego-disney-43212",
     "price": 36.4,
     "title": "Lego Disney 43212",
@@ -288,6 +315,16 @@
     "id": 4528504534
   },
   {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/4393943160-lego-43212-disney-le-train-en-fete-disney-et-polybag-wish",
+    "price": 41.65,
+    "title": "LEGO 43212 Disney Le Train en Fête Disney, et polybag Wish.",
+    "imgUrl": "https://images1.vinted.net/t/01_01a32_rV1YGYwJDPkzsV4mGPJEuqmi/f800/1713685838.jpeg?s=f79c043117eb314a127abc118583c53171f33285",
+    "publicationDate": 1713685838,
+    "id": 4393943160
+  },
+  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/3321190772-lego-disney-100-43212-no-minifigures-treno-delle-celebrazioni",
     "price": 35.35,
     "title": "Lego Disney 100 43212 - (No Minifigures) Treno delle Celebrazioni",
@@ -296,6 +333,7 @@
     "id": 3321190772
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5132037732-43212-lego-disney-classic-treno-delle-celebrazioni-disney",
     "price": 37.45,
     "title": "43212 - LEGO - Disney Classic Treno delle Celebrazioni Disney",
@@ -304,54 +342,7 @@
     "id": 5132037732
   },
   {
-    "link": "https://www.vinted.fr/items/3668005614-lego-disney-celebration-train",
-    "price": 32.2,
-    "title": "Lego Disney Celebration Train",
-    "imgUrl": "https://images1.vinted.net/t/03_01acb_eN7gWM2W9xTVW7pQgyXwdS6v/f800/1698327857.jpeg?s=cc36db2c31da08b4d11b272e8e1225deb9631e82",
-    "publicationDate": 1698327857,
-    "id": 3668005614
-  },
-  {
-    "link": "https://www.vinted.fr/items/4707101508-lego-disney-43212",
-    "price": 37.45,
-    "title": "Lego Disney 43212",
-    "imgUrl": "https://images1.vinted.net/t/03_0173f_UaQwL4nDFTvcVJ1dx5iUtLHk/f800/1719772983.jpeg?s=8b4f6c3e8e2a98e2a969df0877edf688bba194ea",
-    "publicationDate": 1719772983,
-    "id": 4707101508
-  },
-  {
-    "link": "https://www.vinted.fr/items/3917864151-lego-disney-43212-le-train-en-fete",
-    "price": 42.7,
-    "title": "Lego Disney 43212 Le train en fête ",
-    "imgUrl": "https://images1.vinted.net/t/03_0150c_3zxSBqFkz2pbt82Riubm3iF8/f800/1703851076.jpeg?s=ff73ad1079389b4d6a5ca75d47710c6dc58c9cfb",
-    "publicationDate": 1703851076,
-    "id": 3917864151
-  },
-  {
-    "link": "https://www.vinted.fr/items/3733596383-lego-disney-43212",
-    "price": 41.65,
-    "title": "Lego Disney 43212",
-    "imgUrl": "https://images1.vinted.net/t/03_00979_zyAsWewA422WaHhs8HEs7Nrr/f800/1699523200.jpeg?s=468fb34968c61be13dfac7810de580534a1fc8b7",
-    "publicationDate": 1699523200,
-    "id": 3733596383
-  },
-  {
-    "link": "https://www.vinted.fr/items/5371549823-lego-comboio-disney",
-    "price": 35.35,
-    "title": "Lego Comboio Disney",
-    "imgUrl": "https://images1.vinted.net/t/02_007d0_XGgTYUHErzzEpQgbWeqe3NyK/f800/1731419621.jpeg?s=7162e88d395449238febd9ca386d89b07ad29b1a",
-    "publicationDate": 1731419621,
-    "id": 5371549823
-  },
-  {
-    "link": "https://www.vinted.fr/items/5265073981-lego-disney-train-edition-speciale-43212-neuf-jamais-ouvert",
-    "price": 35.35,
-    "title": "Lego Disney Train édition spéciale 43212 neuf jamais ouvert",
-    "imgUrl": "https://images1.vinted.net/t/04_0228a_F7CY8gNp1aXoPLapSXoXaYMm/f800/1729681494.jpeg?s=3dca8a2011098f444429a102d18f9876027c20ec",
-    "publicationDate": 1729681494,
-    "id": 5265073981
-  },
-  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/4438481720-lego-43212-neuf",
     "price": 37.45,
     "title": "Lego 43212 neuf",
@@ -360,14 +351,52 @@
     "id": 4438481720
   },
   {
-    "link": "https://www.vinted.fr/items/4526784972-lego-43212-treno-disney-4",
-    "price": 34.83,
-    "title": "Lego 43212 treno Disney 4+",
-    "imgUrl": "https://images1.vinted.net/t/03_01fd9_dyZH2DKxMvYVJZmLETHnaAyD/f800/1716143272.jpeg?s=d80c56f7099c0451e007d4f16a98157988d90200",
-    "publicationDate": 1716143272,
-    "id": 4526784972
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/4707101508-lego-disney-43212",
+    "price": 37.45,
+    "title": "Lego Disney 43212",
+    "imgUrl": "https://images1.vinted.net/t/03_0173f_UaQwL4nDFTvcVJ1dx5iUtLHk/f800/1719772983.jpeg?s=8b4f6c3e8e2a98e2a969df0877edf688bba194ea",
+    "publicationDate": 1719772983,
+    "id": 4707101508
   },
   {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/3733596383-lego-disney-43212",
+    "price": 41.65,
+    "title": "Lego Disney 43212",
+    "imgUrl": "https://images1.vinted.net/t/03_00979_zyAsWewA422WaHhs8HEs7Nrr/f800/1699523200.jpeg?s=468fb34968c61be13dfac7810de580534a1fc8b7",
+    "publicationDate": 1699523200,
+    "id": 3733596383
+  },
+  {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/5265073981-lego-disney-train-edition-speciale-43212-neuf-jamais-ouvert",
+    "price": 35.35,
+    "title": "Lego Disney Train édition spéciale 43212 neuf jamais ouvert",
+    "imgUrl": "https://images1.vinted.net/t/04_0228a_F7CY8gNp1aXoPLapSXoXaYMm/f800/1729681494.jpeg?s=3dca8a2011098f444429a102d18f9876027c20ec",
+    "publicationDate": 1729681494,
+    "id": 5265073981
+  },
+  {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/5371549823-lego-comboio-disney",
+    "price": 35.35,
+    "title": "Lego Comboio Disney",
+    "imgUrl": "https://images1.vinted.net/t/02_007d0_XGgTYUHErzzEpQgbWeqe3NyK/f800/1731419621.jpeg?s=7162e88d395449238febd9ca386d89b07ad29b1a",
+    "publicationDate": 1731419621,
+    "id": 5371549823
+  },
+  {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/3917864151-lego-disney-43212-le-train-en-fete",
+    "price": 42.7,
+    "title": "Lego Disney 43212 Le train en fête ",
+    "imgUrl": "https://images1.vinted.net/t/03_0150c_3zxSBqFkz2pbt82Riubm3iF8/f800/1703851076.jpeg?s=ff73ad1079389b4d6a5ca75d47710c6dc58c9cfb",
+    "publicationDate": 1703851076,
+    "id": 3917864151
+  },
+  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/4422992257-lego-43212-disney-train",
     "price": 32.2,
     "title": "Lego 43212 Disney train",
@@ -376,6 +405,16 @@
     "id": 4422992257
   },
   {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/4526784972-lego-43212-treno-disney-4",
+    "price": 34.83,
+    "title": "Lego 43212 treno Disney 4+",
+    "imgUrl": "https://images1.vinted.net/t/03_01fd9_dyZH2DKxMvYVJZmLETHnaAyD/f800/1716143272.jpeg?s=d80c56f7099c0451e007d4f16a98157988d90200",
+    "publicationDate": 1716143272,
+    "id": 4526784972
+  },
+  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/4010705187-lego-43212-train-100-ans-disney-neuf",
     "price": 39.55,
     "title": "Lego 43212 train 100 ans Disney neuf",
@@ -384,22 +423,7 @@
     "id": 4010705187
   },
   {
-    "link": "https://www.vinted.fr/items/3959622522-lego-disney-feesttrein-43212-nieuw",
-    "price": 35.35,
-    "title": "Lego Disney Feesttrein  43212 Nieuw",
-    "imgUrl": "https://images1.vinted.net/t/01_025b6_GWTAzCKNiAzMuihzpMojUkVM/f800/1704815144.jpeg?s=16701a17b9ad841a20fc1f70d6eba3526e1d324a",
-    "publicationDate": 1704815144,
-    "id": 3959622522
-  },
-  {
-    "link": "https://www.vinted.fr/items/4035393758-lego-set-43212-100-ans-disney",
-    "price": 37.45,
-    "title": "Lego set 43212 100 ans Disney ",
-    "imgUrl": "https://images1.vinted.net/t/01_0150f_asYLVFcYGyUrnMyAnv4dxspR/f800/1706467855.jpeg?s=a7b5abb26378e3135ea7861bfc847fb1d2b8689a",
-    "publicationDate": 1706467855,
-    "id": 4035393758
-  },
-  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/3944189075-lego-43212-disney-100-anniversary",
     "price": 42.7,
     "title": "Lego 43212 Disney 100 anniversary",
@@ -408,6 +432,25 @@
     "id": 3944189075
   },
   {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/3959622522-lego-disney-feesttrein-43212-nieuw",
+    "price": 35.35,
+    "title": "Lego Disney Feesttrein  43212 Nieuw",
+    "imgUrl": "https://images1.vinted.net/t/01_025b6_GWTAzCKNiAzMuihzpMojUkVM/f800/1704815144.jpeg?s=16701a17b9ad841a20fc1f70d6eba3526e1d324a",
+    "publicationDate": 1704815144,
+    "id": 3959622522
+  },
+  {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/4035393758-lego-set-43212-100-ans-disney",
+    "price": 37.45,
+    "title": "Lego set 43212 100 ans Disney ",
+    "imgUrl": "https://images1.vinted.net/t/01_0150f_asYLVFcYGyUrnMyAnv4dxspR/f800/1706467855.jpeg?s=a7b5abb26378e3135ea7861bfc847fb1d2b8689a",
+    "publicationDate": 1706467855,
+    "id": 4035393758
+  },
+  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5157017936-lego-43212",
     "price": 32.2,
     "title": "Lego 43212",
@@ -416,14 +459,7 @@
     "id": 5157017936
   },
   {
-    "link": "https://www.vinted.fr/items/4035881465-lego-43212-disney-train-nieuw",
-    "price": 37.44,
-    "title": "Lego: 43212, Disney Train *NIEUW*",
-    "imgUrl": "https://images1.vinted.net/t/03_0147b_FUSpSA1ZsyG3UzaPjbqV4BpE/f800/1706473885.jpeg?s=8135421296d2c45f2c3e36ecabe5982ae6d45ccd",
-    "publicationDate": 1706473885,
-    "id": 4035881465
-  },
-  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/4930092727-lego-disney-43212",
     "price": 53.2,
     "title": "Lego Disney 43212",
@@ -432,6 +468,7 @@
     "id": 4930092727
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/4233495700-lego-disney-43212",
     "price": 37.45,
     "title": "Lego Disney 43212",
@@ -440,6 +477,16 @@
     "id": 4233495700
   },
   {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/3668005614-lego-disney-celebration-train",
+    "price": 32.2,
+    "title": "Lego Disney Celebration Train",
+    "imgUrl": "https://images1.vinted.net/t/03_01acb_eN7gWM2W9xTVW7pQgyXwdS6v/f800/1698327857.jpeg?s=cc36db2c31da08b4d11b272e8e1225deb9631e82",
+    "publicationDate": 1698327857,
+    "id": 3668005614
+  },
+  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/4064096538-lego-100-disney-comboio",
     "price": 42.7,
     "title": "Lego 100 Disney Comboio ",
@@ -448,22 +495,7 @@
     "id": 4064096538
   },
   {
-    "link": "https://www.vinted.fr/items/2897260217-leg-43212-disney-treno-celebrativo-100-anni-misb",
-    "price": 37.45,
-    "title": "Leg 43212 Disney treno celebrativo 100 anni misb",
-    "imgUrl": "https://images1.vinted.net/t/01_01c1c_aVxay8zb74mA7mZiSLPYmsaU/f800/1681375423.jpeg?s=e5ea9d620970e42ac767cdb5bf024e25e0cc128b",
-    "publicationDate": 1681375423,
-    "id": 2897260217
-  },
-  {
-    "link": "https://www.vinted.fr/items/2855855634-lego-43212-lla-parade",
-    "price": 41.65,
-    "title": "Lego 43212 lLa parade",
-    "imgUrl": "https://images1.vinted.net/t/03_01c75_Nw6yRCSfNXnfYz6JGYVDjSUP/f800/1680370668.jpeg?s=0006e0a32d4321e8b7bcbf657cba6bafcbbfd2f5",
-    "publicationDate": 1680370668,
-    "id": 2855855634
-  },
-  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/3993647593-lot-lego-disney-43212-et-40593",
     "price": 44.8,
     "title": "Lot lego Disney  43212 et 40593",
@@ -472,6 +504,25 @@
     "id": 3993647593
   },
   {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/2897260217-leg-43212-disney-treno-celebrativo-100-anni-misb",
+    "price": 37.45,
+    "title": "Leg 43212 Disney treno celebrativo 100 anni misb",
+    "imgUrl": "https://images1.vinted.net/t/01_01c1c_aVxay8zb74mA7mZiSLPYmsaU/f800/1681375423.jpeg?s=e5ea9d620970e42ac767cdb5bf024e25e0cc128b",
+    "publicationDate": 1681375423,
+    "id": 2897260217
+  },
+  {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/2855855634-lego-43212-lla-parade",
+    "price": 41.65,
+    "title": "Lego 43212 lLa parade",
+    "imgUrl": "https://images1.vinted.net/t/03_01c75_Nw6yRCSfNXnfYz6JGYVDjSUP/f800/1680370668.jpeg?s=0006e0a32d4321e8b7bcbf657cba6bafcbbfd2f5",
+    "publicationDate": 1680370668,
+    "id": 2855855634
+  },
+  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/4478234457-lego-tren-homenaje-a-disney-43212",
     "price": 32.2,
     "title": "Lego Tren Homenaje a Disney 43212",
@@ -480,6 +531,7 @@
     "id": 4478234457
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/3928138905-lego-43212-comboio-de-celebracao-da-disney-100-anos",
     "price": 35.25,
     "title": "Lego 43212 Comboio de celebração da Disney 100 anos",
@@ -488,6 +540,16 @@
     "id": 3928138905
   },
   {
+    "legoId": "43212",
+    "link": "https://www.vinted.fr/items/4035881465-lego-43212-disney-train-nieuw",
+    "price": 37.44,
+    "title": "Lego: 43212, Disney Train *NIEUW*",
+    "imgUrl": "https://images1.vinted.net/t/03_0147b_FUSpSA1ZsyG3UzaPjbqV4BpE/f800/1706473885.jpeg?s=8135421296d2c45f2c3e36ecabe5982ae6d45ccd",
+    "publicationDate": 1706473885,
+    "id": 4035881465
+  },
+  {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/4313755968-lego-43212-treno-delle-celebrazioni-disney-100",
     "price": 42.6,
     "title": "Lego 43212 - Treno delle Celebrazioni Disney 100",
@@ -496,6 +558,7 @@
     "id": 4313755968
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/4169227310-lego-disney-43212-le-train-en-fete-100-ans-edition-limitee",
     "price": 37.35,
     "title": "Lego Disney 43212 Le train en fête 100 ans édition limitée ",
@@ -504,6 +567,7 @@
     "id": 4169227310
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5208172477-pack-de-2-lego-disney",
     "price": 68.85,
     "title": "Pack de 2 lego Disney",
@@ -512,6 +576,7 @@
     "id": 5208172477
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/4385420602-pack-lego-novos-3-43212-60383-60392",
     "price": 63.69,
     "title": "Pack lego novos 3 ( 43212 60383 60392)",
@@ -520,6 +585,7 @@
     "id": 4385420602
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/3339977322-lego-treno-delle-celebrazioni-disney-cod-43212",
     "price": 42.69,
     "title": "LEGO - Treno delle celebrazioni Disney - Cod. 43212",
@@ -528,6 +594,7 @@
     "id": 3339977322
   },
   {
+    "legoId": "43212",
     "link": "https://www.vinted.fr/items/5259991153-lego-43212-treno-delle-celebrazioni-disney-40600-festa-dei-100-anni-disney",
     "price": 68.95,
     "title": "Lego 43212 Treno delle celebrazioni Disney + 40600 Festa dei 100 anni Disney",

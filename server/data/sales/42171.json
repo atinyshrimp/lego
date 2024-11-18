@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/4420090351-lego-42171-staffa-a-muro-wall-mount",
     "price": 11.2,
     "title": "Lego 42171 staffa a muro Wall mount",
@@ -8,6 +9,7 @@
     "id": 4420090351
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5402297229-brown-box-lego-concorde-e-lego-mercedes-amg-f1",
     "price": 32.2,
     "title": "Brown Box Lego Concorde e Lego Mercedes AMG F1",
@@ -16,6 +18,7 @@
     "id": 5402297229
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5390385792-lego-technic-mercedes-amg-f1-42171",
     "price": 165.54,
     "title": "Lego technic Mercedes AMG F1 / 42171",
@@ -24,6 +27,7 @@
     "id": 5390385792
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/4946958070-lego-formule-1-mercedes-42171",
     "price": 68.95,
     "title": "Lego formule 1 Mercedes 42171",
@@ -32,38 +36,7 @@
     "id": 4946958070
   },
   {
-    "link": "https://www.vinted.fr/items/5399061776-espositore-auto-per-lego-technic-mercedes-amg-f1-w14-e-performance-lego-42171",
-    "price": 74.2,
-    "title": "Espositore Auto per Lego Technic Mercedes-AMG F1 W14 E Performance LEGO 42171",
-    "imgUrl": "https://images1.vinted.net/t/04_013fa_kezkcsiK3ZGMpR7RznkTrc1W/f800/1731859392.jpeg?s=67eb6d7dca322dc26c17c4cdec2b7a6e18461200",
-    "publicationDate": 1731859392,
-    "id": 5399061776
-  },
-  {
-    "link": "https://www.vinted.fr/items/5374400157-lego-42171-coche-mercedes-amg",
-    "price": 149.8,
-    "title": "Lego 42171 Coche Mercedes AMG",
-    "imgUrl": "https://images1.vinted.net/t/04_01f62_deCFyijs7tFgfY9Y51mJnVjP/f800/1731453380.jpeg?s=227535380e6b1e6f4979853d3a7bc610d13733cb",
-    "publicationDate": 1731453380,
-    "id": 5374400157
-  },
-  {
-    "link": "https://www.vinted.fr/items/5257214763-lego-mercedes-amg-42171-neuf-sceller",
-    "price": 158.2,
-    "title": "Lego Mercedes AMG 42171 neuf sceller",
-    "imgUrl": "https://images1.vinted.net/t/02_00b97_HdMx1MxZ4sX3FWcdqhTQ28zD/f800/1729532747.jpeg?s=41764ecb2504c223317fb67e2b3fb2a937f48338",
-    "publicationDate": 1729532747,
-    "id": 5257214763
-  },
-  {
-    "link": "https://www.vinted.fr/items/5221088982-technic-mercedes-amg-f1-w14-e-performance-42171",
-    "price": 58.45,
-    "title": "Technic Mercedes-AMG F1 W14 E Performance 42171",
-    "imgUrl": "https://images1.vinted.net/t/01_01cdd_EewZxUnzVNiafyUsbz3tMa6d/f800/1728990163.jpeg?s=073441e3be8149f38b7f9f8c9e87a919a2cf0e56",
-    "publicationDate": 1728990163,
-    "id": 5221088982
-  },
-  {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5131478593-quadro-espositore-lego-technic-mercedes-amg-f1-w14",
     "price": 74.2,
     "title": "Quadro espositore  Lego technic Mercedes amg f1 w14",
@@ -72,6 +45,16 @@
     "id": 5131478593
   },
   {
+    "legoId": "42171",
+    "link": "https://www.vinted.fr/items/5257214763-lego-mercedes-amg-42171-neuf-sceller",
+    "price": 158.2,
+    "title": "Lego Mercedes AMG 42171 neuf sceller",
+    "imgUrl": "https://images1.vinted.net/t/02_00b97_HdMx1MxZ4sX3FWcdqhTQ28zD/f800/1729532747.jpeg?s=41764ecb2504c223317fb67e2b3fb2a937f48338",
+    "publicationDate": 1729532747,
+    "id": 5257214763
+  },
+  {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5386417010-lego-42171",
     "price": 158.2,
     "title": "Lego 42171",
@@ -80,6 +63,7 @@
     "id": 5386417010
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/4813590841-support-lego-mercedes-f1",
     "price": 15.4,
     "title": "Support lego Mercedes f1",
@@ -88,6 +72,7 @@
     "id": 4813590841
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5391438414-lego-technic-42171-mercedes-amg-f1-w14-e",
     "price": 160.83,
     "title": "Lego Technic 42171 Mercedes-AMG F1 W14 E",
@@ -96,6 +81,7 @@
     "id": 5391438414
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5211968732-lego-technic-42171-mercedes-amg-f1-w14-e-performance",
     "price": 163.45,
     "title": "LEGO Technic 42171 Mercedes-AMG F1 W14 E Performance",
@@ -104,6 +90,7 @@
     "id": 5211968732
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5387463959-lego-42171-mercedes-amg-petronas-neuve-et-emballee",
     "price": 167.65,
     "title": "Lego 42171 Mercedes AMG Petronas neuve et emballée",
@@ -112,6 +99,7 @@
     "id": 5387463959
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5213812003-lego-42171-mercedes",
     "price": 126.7,
     "title": "Lego 42171 Mercedes",
@@ -120,6 +108,7 @@
     "id": 5213812003
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5292953332-lego-icons-ayrton-senna-formule-1",
     "price": 63.7,
     "title": "Lego Icons Ayrton Senna Formule 1",
@@ -128,6 +117,7 @@
     "id": 5292953332
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5398410440-lego-raceauto-mercedes-42171",
     "price": 137.2,
     "title": "Lego raceauto Mercedes 42171",
@@ -136,6 +126,7 @@
     "id": 5398410440
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/4668373356-support-pour-lego",
     "price": 21.7,
     "title": "Support pour lego",
@@ -144,6 +135,7 @@
     "id": 4668373356
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5282442035-lego-mercedes-amg-f1-42171-neuf-et-scelle",
     "price": 158.2,
     "title": "LEGO Mercedes AMG F1 42171 *Neuf et Scellé*",
@@ -152,6 +144,7 @@
     "id": 5282442035
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5387473470-lego-mercedes-amg-petronas-42171-neuf-et-emballe",
     "price": 167.65,
     "title": "Lego Mercedes Amg Petronas 42171 neuf et emballé",
@@ -160,6 +153,7 @@
     "id": 5387473470
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5382253027-lego-super-mario-nintendo-ref-71374-scelle",
     "price": 226.45,
     "title": "Lego Super Mario Nintendo réf 71374 - Scellé",
@@ -168,14 +162,7 @@
     "id": 5382253027
   },
   {
-    "link": "https://www.vinted.fr/items/5079023801-lego-technic-42171-mercedes-amg-f1-w14-e",
-    "price": 168.7,
-    "title": "Lego technic 42171 Mercedes AMG F1 W14 E",
-    "imgUrl": "https://images1.vinted.net/t/01_011af_LfRSh3ei1pbYXkZccWfY6LaU/f800/1726897771.jpeg?s=0b5ca7cd60a966d486cee66fefc14cfaf4d1e316",
-    "publicationDate": 1726897771,
-    "id": 5079023801
-  },
-  {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5389042134-boite-lego-42171-mercedes-amg-neuve",
     "price": 189.7,
     "title": "Boîte Lego 42171 Mercedes-AMG neuve",
@@ -184,6 +171,16 @@
     "id": 5389042134
   },
   {
+    "legoId": "42171",
+    "link": "https://www.vinted.fr/items/5079023801-lego-technic-42171-mercedes-amg-f1-w14-e",
+    "price": 168.7,
+    "title": "Lego technic 42171 Mercedes AMG F1 W14 E",
+    "imgUrl": "https://images1.vinted.net/t/01_011af_LfRSh3ei1pbYXkZccWfY6LaU/f800/1726897771.jpeg?s=0b5ca7cd60a966d486cee66fefc14cfaf4d1e316",
+    "publicationDate": 1726897771,
+    "id": 5079023801
+  },
+  {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5187116857-lego-42171-mercedes-amg-f1w14-e-performance",
     "price": 167.65,
     "title": "LEGO 42171  Mercedes AMG F1W14 E Performance",
@@ -192,6 +189,7 @@
     "id": 5187116857
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5383728041-lego-technic-moto-yamaha-mt10",
     "price": 147.7,
     "title": "Lego Technic Moto Yamaha MT10",
@@ -200,6 +198,16 @@
     "id": 5383728041
   },
   {
+    "legoId": "42171",
+    "link": "https://www.vinted.fr/items/5221088982-technic-mercedes-amg-f1-w14-e-performance-42171",
+    "price": 58.45,
+    "title": "Technic Mercedes-AMG F1 W14 E Performance 42171",
+    "imgUrl": "https://images1.vinted.net/t/01_01cdd_EewZxUnzVNiafyUsbz3tMa6d/f800/1728990163.jpeg?s=073441e3be8149f38b7f9f8c9e87a919a2cf0e56",
+    "publicationDate": 1728990163,
+    "id": 5221088982
+  },
+  {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5375775683-lego-42171",
     "price": 210.7,
     "title": "Lego 42171",
@@ -208,6 +216,7 @@
     "id": 5375775683
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5354853342-lego-technic-audi",
     "price": 105.7,
     "title": "Lego Technic Audi",
@@ -216,6 +225,7 @@
     "id": 5354853342
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5305042586-lego-vespa-125",
     "price": 84.7,
     "title": "Lego Vespa 125",
@@ -224,6 +234,7 @@
     "id": 5305042586
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5165080599-lego-42171-mercedes-amg-f1",
     "price": 189.7,
     "title": "Lego 42171 Mercedes AMG F1",
@@ -232,6 +243,16 @@
     "id": 5165080599
   },
   {
+    "legoId": "42171",
+    "link": "https://www.vinted.fr/items/4862546347-lego-technic-mercedes-amg-f1-42171-neuf-et-scelle",
+    "price": 178.15,
+    "title": "Lego Technic Mercedes Amg F1 42171 NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/03_01b24_mNLUz3KW92GbAoUQCS5AYkwb/f800/1731263175.jpeg?s=a2dee6e7c4e974e1f2f14b104fb6760f0e32fe9b",
+    "publicationDate": 1731263175,
+    "id": 4862546347
+  },
+  {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5194625808-lego-mercedes-amg-f1",
     "price": 173.95,
     "title": "Lego Mercedes AMG F1",
@@ -240,22 +261,7 @@
     "id": 5194625808
   },
   {
-    "link": "https://www.vinted.fr/items/5390113899-lego-42171-nuovo",
-    "price": 168.7,
-    "title": "Lego 42171 NUOVO",
-    "imgUrl": "https://images1.vinted.net/t/01_00131_4wcboLnddDXrJZT1CHFsbyX3/f800/1731755987.jpeg?s=cb5ff705b5d0a03be65f92a6572d0a970f894148",
-    "publicationDate": 1731755987,
-    "id": 5390113899
-  },
-  {
-    "link": "https://www.vinted.fr/items/4862546347-lego-technic-mercedes-amg-f1-42171-neuf-et-scelle",
-    "price": 179.2,
-    "title": "Lego Technic Mercedes Amg F1 42171 NEUF et scellé",
-    "imgUrl": "https://images1.vinted.net/t/03_01b24_mNLUz3KW92GbAoUQCS5AYkwb/f800/1731263175.jpeg?s=a2dee6e7c4e974e1f2f14b104fb6760f0e32fe9b",
-    "publicationDate": 1731263175,
-    "id": 4862546347
-  },
-  {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5335557452-lego-technic-porsche-911",
     "price": 147.7,
     "title": "Lego Technic Porsche 911",
@@ -264,14 +270,16 @@
     "id": 5335557452
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/4580753665-lego-mercedes-f1-42171-neuf-et-scelle",
-    "price": 177.1,
+    "price": 175,
     "title": "Lego Mercedes F1 42171 NEUF et scellé",
     "imgUrl": "https://images1.vinted.net/t/02_00b77_CP4nTV65r4ktLzZAG2ohRzfF/f800/1717175491.jpeg?s=9252e3c0d504910c00d68974c8c84d78c2882050",
     "publicationDate": 1717175491,
     "id": 4580753665
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/4269859574-lego-technic-mercedes-amg-f1-w14-e-performance",
     "price": 205.45,
     "title": "LEGO Technic Mercedes-AMG F1 W14 E Performance",
@@ -280,6 +288,7 @@
     "id": 4269859574
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5394039314-lego-technic-fusee-nasa",
     "price": 158.2,
     "title": "Lego Technic fusée NASA",
@@ -288,6 +297,7 @@
     "id": 5394039314
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/4986402149-lego-technic-42171-mercedes-amg-pertronas-f1",
     "price": 210.7,
     "title": "Lego technic 42171 Mercedes Amg Pertronas F1",
@@ -296,6 +306,7 @@
     "id": 4986402149
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/4728424536-lego-42171-mercedes",
     "price": 184.45,
     "title": "Lego 42171 Mercedes",
@@ -304,6 +315,7 @@
     "id": 4728424536
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/4506703291-lego-technic-42171",
     "price": 173.95,
     "title": "Lego technic 42171",
@@ -312,6 +324,7 @@
     "id": 4506703291
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5087314062-lego-42171-mercedes-amg-f1",
     "price": 184.45,
     "title": "Lego 42171 Mercedes AMG F1",
@@ -320,6 +333,7 @@
     "id": 5087314062
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/4879010414-lego-technic-42171-new",
     "price": 177.1,
     "title": "Lego technic 42171 new!",
@@ -328,6 +342,7 @@
     "id": 4879010414
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5305087267-lego-technic-la-debardeuse-john-deere",
     "price": 152.95,
     "title": "Lego Technic La débardeuse John Deere",
@@ -336,6 +351,7 @@
     "id": 5305087267
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/4756301029-lego-42171-mercedes-amg-f1-w14-e-performance",
     "price": 215.95,
     "title": "Lego 42171 Mercedes-AMG F1 W14 E Performance",
@@ -344,6 +360,7 @@
     "id": 4756301029
   },
   {
+    "legoId": "42171",
     "link": "https://www.vinted.fr/items/5319776661-mercedes-amg-f1-w14-e-performance-coche-de-carreras-escala-18-lego-technic-ref-42171-nib",
     "price": 209.65,
     "title": "Mercedes-AMG F1 W14 E Performance / Coche De Carreras Escala 1:8 / LEGO Technic Ref. 42171 NIB",

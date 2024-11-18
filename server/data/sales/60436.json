@@ -1,13 +1,15 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5401005444-lego-city",
-    "price": 26.95,
-    "title": "Lego city",
-    "imgUrl": "https://images1.vinted.net/t/03_008d5_mkQ6J3v3LuLA5j8uBW1k7tEP/f800/1731872949.jpeg?s=9fe1c9f8edb59ef40e41ac520128d8d65e9f3849",
-    "publicationDate": 1731872949,
-    "id": 5401005444
+    "legoId": "60436",
+    "link": "https://www.vinted.fr/items/5405534678-lego-bebe-et-biberon-calendrier-de-lavent-2024-issu-boite-60436",
+    "price": 5.95,
+    "title": "Lego. Bébé et biberon. Calendrier de l'avent 2024. Issu boîte 60436",
+    "imgUrl": "https://images1.vinted.net/t/04_00cfd_qdD4NqCHQfyZmdddGDsGrsCL/f800/1731950739.jpeg?s=7909c849d2c36641c98409f85ad5c2f9b36fc894",
+    "publicationDate": 1731950739,
+    "id": 5405534678
   },
   {
+    "legoId": "60436",
     "link": "https://www.vinted.fr/items/5404741029-60436-lego",
     "price": 16.45,
     "title": "60436 Lego",
@@ -16,6 +18,16 @@
     "id": 5404741029
   },
   {
+    "legoId": "60436",
+    "link": "https://www.vinted.fr/items/5401005444-lego-city",
+    "price": 26.95,
+    "title": "Lego city",
+    "imgUrl": "https://images1.vinted.net/t/03_008d5_mkQ6J3v3LuLA5j8uBW1k7tEP/f800/1731872949.jpeg?s=9fe1c9f8edb59ef40e41ac520128d8d65e9f3849",
+    "publicationDate": 1731872949,
+    "id": 5401005444
+  },
+  {
+    "legoId": "60436",
     "link": "https://www.vinted.fr/items/5193950548-bebe-gorille-lego-minifigure-set-60436",
     "price": 5.95,
     "title": "Bébé gorille lego minifigure set 60436",
@@ -24,6 +36,7 @@
     "id": 5193950548
   },
   {
+    "legoId": "60436",
     "link": "https://www.vinted.fr/items/5343269395-lego-60436-advent-calendar-2024",
     "price": 26.94,
     "title": "LEGO 60436 - Advent Calendar 2024",
@@ -32,6 +45,7 @@
     "id": 5343269395
   },
   {
+    "legoId": "60436",
     "link": "https://www.vinted.fr/items/5379479553-lego-60436-minifigura-homem-camisola-natalicia",
     "price": 6.48,
     "title": "Lego 60436 - Minifigura homem camisola natalicia",
@@ -40,6 +54,7 @@
     "id": 5379479553
   },
   {
+    "legoId": "60436",
     "link": "https://www.vinted.fr/items/5379482875-lego-60436-minifigura-menina-camisola-natalicia",
     "price": 6.48,
     "title": "Lego 60436 - Minifigura menina camisola natalicia",
@@ -48,6 +63,7 @@
     "id": 5379482875
   },
   {
+    "legoId": "60436",
     "link": "https://www.vinted.fr/items/5396261006-lego-city-advent-calender-60436-2024",
     "price": 26.43,
     "title": "Lego city advent calender 60436 2024",
@@ -56,6 +72,7 @@
     "id": 5396261006
   },
   {
+    "legoId": "60436",
     "link": "https://www.vinted.fr/items/5379481368-lego-60436-minifigura-menino-camisola-natalicia",
     "price": 6.48,
     "title": "Lego 60436 - Minifigura menino camisola natalicia",
@@ -64,6 +81,7 @@
     "id": 5379481368
   },
   {
+    "legoId": "60436",
     "link": "https://www.vinted.fr/items/5379486835-lego-60436-minifigura-mae-natal-mrs-claus",
     "price": 8.05,
     "title": "Lego 60436 - Minifigura Mãe Natal Mrs Claus",

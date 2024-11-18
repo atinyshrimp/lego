@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5372141465-lego-marvel-super-heroes-figurine-spider-man-76218-neuf",
     "price": 7,
     "title": "Lego Marvel Super Heroes Figurine Spider-Man 76218 NEUF",
@@ -8,14 +9,7 @@
     "id": 5372141465
   },
   {
-    "link": "https://www.vinted.fr/items/5168316758-lego-sh-0826-du-76218",
-    "price": 5.43,
-    "title": "Lego SH 0826 du 76218",
-    "imgUrl": "https://images1.vinted.net/t/02_01ca1_6QgQkzS1vfX1z1ZVbCmtYWAh/f800/1728216219.jpeg?s=745a9f98db4f0eb02961b167b85abbaa83a19765",
-    "publicationDate": 1728216219,
-    "id": 5168316758
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5168298971-lego-sh830-du-76218",
     "price": 5.43,
     "title": "Lego SH830 du 76218",
@@ -24,14 +18,16 @@
     "id": 5168298971
   },
   {
-    "link": "https://www.vinted.fr/items/5285202004-lego-marvel-76218-sanctum-sanctorum",
-    "price": 209.65,
-    "title": "Lego Marvel 76218 Sanctum Sanctorum",
-    "imgUrl": "https://images1.vinted.net/t/03_01c85_jnFafNDsAuZ7VwdNhDBZNRio/f800/1730028728.jpeg?s=3af095a6e9423754cc4c6584ba7d4a6df1f5aba0",
-    "publicationDate": 1730028728,
-    "id": 5285202004
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5168316758-lego-sh-0826-du-76218",
+    "price": 5.43,
+    "title": "Lego SH 0826 du 76218",
+    "imgUrl": "https://images1.vinted.net/t/02_01ca1_6QgQkzS1vfX1z1ZVbCmtYWAh/f800/1728216219.jpeg?s=745a9f98db4f0eb02961b167b85abbaa83a19765",
+    "publicationDate": 1728216219,
+    "id": 5168316758
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4845868186-lego-sh826-wong-76218",
     "price": 7.53,
     "title": "Lego sh826 wong 76218",
@@ -40,14 +36,7 @@
     "id": 4845868186
   },
   {
-    "link": "https://www.vinted.fr/items/5168267193-lego-sh0833-du-76218",
-    "price": 5.43,
-    "title": "Lego SH0833 du 76218",
-    "imgUrl": "https://images1.vinted.net/t/01_000e4_rDSu2wn8vDTAXi6A1ggxjUAh/f800/1728215945.jpeg?s=f15a3bd920cb8156ccb946ee6af807487180e023",
-    "publicationDate": 1728215945,
-    "id": 5168267193
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5372145991-lego-marvel-figurine-doctor-strange-76218-neuf",
     "price": 5.95,
     "title": "Lego Marvel Figurine Doctor Strange 76218 NEUF",
@@ -56,6 +45,7 @@
     "id": 5372145991
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5233210875-figurine-lego-sh0830",
     "price": 9.1,
     "title": "Figurine lego sh0830",
@@ -64,6 +54,7 @@
     "id": 5233210875
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5168284053-lego-sh0802-du-76218",
     "price": 5.43,
     "title": "Lego SH0802 du 76218",
@@ -72,14 +63,16 @@
     "id": 5168284053
   },
   {
-    "link": "https://www.vinted.fr/items/4845834414-lego-sh827-76218-ebony-maw",
-    "price": 10.15,
-    "title": "Lego sh827 76218 Ebony Maw",
-    "imgUrl": "https://images1.vinted.net/t/01_00d0d_TEFmnT7qcYXZmF42GGjNcuKE/f800/1722778088.jpeg?s=1307b1ded409759d4a0264f8fa968f897bf3a5f3",
-    "publicationDate": 1722778088,
-    "id": 4845834414
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5168267193-lego-sh0833-du-76218",
+    "price": 5.43,
+    "title": "Lego SH0833 du 76218",
+    "imgUrl": "https://images1.vinted.net/t/01_000e4_rDSu2wn8vDTAXi6A1ggxjUAh/f800/1728215945.jpeg?s=f15a3bd920cb8156ccb946ee6af807487180e023",
+    "publicationDate": 1728215945,
+    "id": 5168267193
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5233297018-figurine-lego-iron-man-sh828",
     "price": 9.1,
     "title": "Figurine lego iron man sh828",
@@ -88,6 +81,16 @@
     "id": 5233297018
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/4845834414-lego-sh827-76218-ebony-maw",
+    "price": 10.15,
+    "title": "Lego sh827 76218 Ebony Maw",
+    "imgUrl": "https://images1.vinted.net/t/01_00d0d_TEFmnT7qcYXZmF42GGjNcuKE/f800/1722778088.jpeg?s=1307b1ded409759d4a0264f8fa968f897bf3a5f3",
+    "publicationDate": 1722778088,
+    "id": 4845834414
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4845851057-lego-sh833-docteur-strange-zombie-76218",
     "price": 14.35,
     "title": "Lego sh833 docteur strange zombie 76218",
@@ -96,6 +99,7 @@
     "id": 4845851057
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5233366081-figurine-lego-marvel-sh0833",
     "price": 9.1,
     "title": "Figurine lego marvel sh0833",
@@ -104,14 +108,7 @@
     "id": 5233366081
   },
   {
-    "link": "https://www.vinted.fr/items/4845817051-lego-76218-iron-man-sh828",
-    "price": 14.35,
-    "title": "Lego 76218 iron man sh828",
-    "imgUrl": "https://images1.vinted.net/t/02_01d40_tD9tAufp2WUnPeVURpMU652H/f800/1722777930.jpeg?s=9f65005c8eac2ac92f0c298433910134d42386a1",
-    "publicationDate": 1722777930,
-    "id": 4845817051
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3904079768-lego-oeil-sanctum-sanctorum",
     "price": 4.9,
     "title": "Lego œil Sanctum Sanctorum",
@@ -120,6 +117,16 @@
     "id": 3904079768
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/4845817051-lego-76218-iron-man-sh828",
+    "price": 14.35,
+    "title": "Lego 76218 iron man sh828",
+    "imgUrl": "https://images1.vinted.net/t/02_01d40_tD9tAufp2WUnPeVURpMU652H/f800/1722777930.jpeg?s=9f65005c8eac2ac92f0c298433910134d42386a1",
+    "publicationDate": 1722777930,
+    "id": 4845817051
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/2096130497-lego-wong-sh826-sanctum-sanctorum-76218",
     "price": 9.1,
     "title": "Lego Wong sh826. Sanctum Sanctorum 76218",
@@ -128,6 +135,7 @@
     "id": 2096130497
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5233386410-figurine-lego-marvel-wong-sh0826",
     "price": 7,
     "title": "Figurine lego marvel wong sh0826",
@@ -136,6 +144,7 @@
     "id": 5233386410
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5262821684-lego-minifigurine-iron-man-mark-50-armor-76218-sanctum-sanctorum-sh828-avengers",
     "price": 9.1,
     "title": "Lego Minifigurine Iron Man Mark 50 Armor 76218 Sanctum Sanctorum sh828 Avengers",
@@ -144,6 +153,7 @@
     "id": 5262821684
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4809656115-lego-marvel-super-heroes-sinister-strange-minifigure",
     "price": 5.95,
     "title": "LEGO Marvel Super Heroes Sinister Strange Minifigure",
@@ -152,30 +162,7 @@
     "id": 4809656115
   },
   {
-    "link": "https://www.vinted.fr/items/5233429441-figurine-lego-spiderman-sh0829",
-    "price": 9.1,
-    "title": "Figurine lego spiderman sh0829",
-    "imgUrl": "https://images1.vinted.net/t/03_021a2_eiL4RY6hxNEcm4KiByzbrZ9F/f800/1729180748.jpeg?s=c745c61d415835ca9788fd782cbfc2f12922cca0",
-    "publicationDate": 1729180748,
-    "id": 5233429441
-  },
-  {
-    "link": "https://www.vinted.fr/items/5263076042-lego-iron-man-mark-50-armor",
-    "price": 11.67,
-    "title": "Lego Iron Man - Mark 50 Armor",
-    "imgUrl": "https://images1.vinted.net/t/03_0025e_YRV93rsiZ8MWgiTrRthVWuNK/f800/1729626147.jpeg?s=9191748bead1751b71f50cef565823104bbdaeaa",
-    "publicationDate": 1729626147,
-    "id": 5263076042
-  },
-  {
-    "link": "https://www.vinted.fr/items/4509622583-figurine-lego-marvel-karl-mordo-docteur-strange-doctor-strange-and-the-multiverse-of-madness-76218",
-    "price": 9.1,
-    "title": "Figurine Lego Marvel Karl Mordo Docteur Strange Doctor Strange and the Multiverse of Madness 76218",
-    "imgUrl": "https://images1.vinted.net/t/03_02251_gb3QJVRwHc1WtpZt7jez98GC/f800/1715814330.jpeg?s=92f80e0e3fcad9d1d3ef460351012fb9d914162a",
-    "publicationDate": 1715814330,
-    "id": 4509622583
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3704694266-piece-en-trop-des-sets-76178-et-76218-lego",
     "price": 10.15,
     "title": "pièce en trop des sets 76178 et 76218 LEGO",
@@ -184,6 +171,34 @@
     "id": 3704694266
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5263076042-lego-iron-man-mark-50-armor",
+    "price": 11.67,
+    "title": "Lego Iron Man - Mark 50 Armor",
+    "imgUrl": "https://images1.vinted.net/t/03_0025e_YRV93rsiZ8MWgiTrRthVWuNK/f800/1729626147.jpeg?s=9191748bead1751b71f50cef565823104bbdaeaa",
+    "publicationDate": 1729626147,
+    "id": 5263076042
+  },
+  {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5233429441-figurine-lego-spiderman-sh0829",
+    "price": 9.1,
+    "title": "Figurine lego spiderman sh0829",
+    "imgUrl": "https://images1.vinted.net/t/03_021a2_eiL4RY6hxNEcm4KiByzbrZ9F/f800/1729180748.jpeg?s=c745c61d415835ca9788fd782cbfc2f12922cca0",
+    "publicationDate": 1729180748,
+    "id": 5233429441
+  },
+  {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/4509622583-figurine-lego-marvel-karl-mordo-docteur-strange-doctor-strange-and-the-multiverse-of-madness-76218",
+    "price": 9.1,
+    "title": "Figurine Lego Marvel Karl Mordo Docteur Strange Doctor Strange and the Multiverse of Madness 76218",
+    "imgUrl": "https://images1.vinted.net/t/03_02251_gb3QJVRwHc1WtpZt7jez98GC/f800/1715814330.jpeg?s=92f80e0e3fcad9d1d3ef460351012fb9d914162a",
+    "publicationDate": 1715814330,
+    "id": 4509622583
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5310687921-boite-calendrier-de-lavent-avant-75213-lego-star-wars-officiel-scellee",
     "price": 30.09,
     "title": "Boîte calendrier de l'avent avant 75213 LEGO Star Wars officiel scellée",
@@ -192,6 +207,7 @@
     "id": 5310687921
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5097823595-lego-marvel-doctor-strange",
     "price": 9.1,
     "title": "LEGO Marvel : Doctor Strange",
@@ -200,6 +216,7 @@
     "id": 5097823595
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5350588728-lego-76218-sanctum-sanctorum-marvel",
     "price": 314.65,
     "title": "LEGO 76218 Sanctum Sanctorum Marvel",
@@ -208,6 +225,7 @@
     "id": 5350588728
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3581659831-lego-figurine-dr-strange-sh802",
     "price": 7,
     "title": "Lego figurine dr Strange sh802",
@@ -216,6 +234,7 @@
     "id": 3581659831
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3795906967-lego-dr-strange-in-the-multiverse-of-madness-wong",
     "price": 9.1,
     "title": "LEGO Dr Strange in the Multiverse of Madness - Wong",
@@ -224,14 +243,7 @@
     "id": 3795906967
   },
   {
-    "link": "https://www.vinted.fr/items/4499264667-lego-marvel-76218-mini-figurines",
-    "price": 58.45,
-    "title": "Lego Marvel 76218 mini-figurines",
-    "imgUrl": "https://images1.vinted.net/t/01_014f1_sD1rSHWbocYKoFGcYidTpVwf/f800/1715621161.jpeg?s=d982633453b2aebe572011518e0bf3f4cb92fa69",
-    "publicationDate": 1715621161,
-    "id": 4499264667
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4519559899-lego-marveldc-comics-sinister-strange-sh830-set-76218",
     "price": 11.2,
     "title": "Lego Marvel/DC comics: Sinister Strange (sh830) - set 76218",
@@ -240,6 +252,16 @@
     "id": 4519559899
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/4499264667-lego-marvel-76218-mini-figurines",
+    "price": 58.45,
+    "title": "Lego Marvel 76218 mini-figurines",
+    "imgUrl": "https://images1.vinted.net/t/01_014f1_sD1rSHWbocYKoFGcYidTpVwf/f800/1715621161.jpeg?s=d982633453b2aebe572011518e0bf3f4cb92fa69",
+    "publicationDate": 1715621161,
+    "id": 4499264667
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3827460093-lego-minifigures-wong-from-set-76218-sanctum-sanctorum",
     "price": 10.15,
     "title": "Lego Minifigures Wong  from Set 76218 Sanctum Sanctorum",
@@ -248,6 +270,7 @@
     "id": 3827460093
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3028393372-personnage-lego-marvel",
     "price": 9.1,
     "title": "Personnage Lego Marvel",
@@ -256,6 +279,7 @@
     "id": 3028393372
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3827462393-lego-minifigures-sinister-strange-from-set-76218-sanctum-sanctorum",
     "price": 13.3,
     "title": "Lego Minifigures Sinister Strange from Set 76218 Sanctum Sanctorum",
@@ -264,6 +288,7 @@
     "id": 3827462393
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3827455763-lego-minifigures-spiderman-from-set-76218-sanctum-sanctorum",
     "price": 14.35,
     "title": "Lego Minifigures Spiderman from Set 76218 Sanctum Sanctorum",
@@ -272,6 +297,7 @@
     "id": 3827455763
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3827466895-lego-minifigures-karl-mordo-from-set-76218-sanctum-sanctorum",
     "price": 16.45,
     "title": "Lego Minifigures Karl Mordo from Set 76218 Sanctum Sanctorum",
@@ -280,6 +306,7 @@
     "id": 3827466895
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3827464720-lego-minifigures-scarlet-witch-from-set-76218-sanctum-sanctorum",
     "price": 16.45,
     "title": "Lego Minifigures Scarlet Witch from Set 76218 Sanctum Sanctorum",
@@ -288,6 +315,7 @@
     "id": 3827464720
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3827471240-lego-minifigures-doctor-strange-from-set-76218-sanctum-sanctorum",
     "price": 14.35,
     "title": "Lego Minifigures Doctor Strange from Set 76218 Sanctum Sanctorum",
@@ -296,6 +324,7 @@
     "id": 3827471240
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3028340842-personnage-lego-marvel-set-76218",
     "price": 11.2,
     "title": "Personnage Lego Marvel Set 76218",
@@ -304,14 +333,7 @@
     "id": 3028340842
   },
   {
-    "link": "https://www.vinted.fr/items/3028356868-personnage-lego-marvel",
-    "price": 11.2,
-    "title": "Personnage Lego Marvel",
-    "imgUrl": "https://images1.vinted.net/t/03_009f8_snWgzvCsSVBVBw7jGhgmFtdM/f800/1684259392.jpeg?s=faec981c3c94e40ab9724b3585e20036dc89373e",
-    "publicationDate": 1684259392,
-    "id": 3028356868
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4484944793-wong-set-76269-76218",
     "price": 3.85,
     "title": "Wong - Set 76269 76218",
@@ -320,6 +342,25 @@
     "id": 4484944793
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5285202004-lego-marvel-76218-sanctum-sanctorum",
+    "price": 209.65,
+    "title": "Lego Marvel 76218 Sanctum Sanctorum",
+    "imgUrl": "https://images1.vinted.net/t/03_01c85_jnFafNDsAuZ7VwdNhDBZNRio/f800/1730028728.jpeg?s=3af095a6e9423754cc4c6584ba7d4a6df1f5aba0",
+    "publicationDate": 1730028728,
+    "id": 5285202004
+  },
+  {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/3028356868-personnage-lego-marvel",
+    "price": 11.2,
+    "title": "Personnage Lego Marvel",
+    "imgUrl": "https://images1.vinted.net/t/03_009f8_snWgzvCsSVBVBw7jGhgmFtdM/f800/1684259392.jpeg?s=faec981c3c94e40ab9724b3585e20036dc89373e",
+    "publicationDate": 1684259392,
+    "id": 3028356868
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5400387201-lego-marvel-76218-sanctum-sanctorum",
     "price": 189.7,
     "title": "Lego Marvel 76218 Sanctum Sanctorum",
@@ -328,6 +369,7 @@
     "id": 5400387201
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3028371351-personnage-lego-marvel",
     "price": 16.45,
     "title": "Personnage Lego Marvel",
@@ -336,14 +378,7 @@
     "id": 3028371351
   },
   {
-    "link": "https://www.vinted.fr/items/5151700160-lego-76218-marvel-santuario",
-    "price": 193.9,
-    "title": "Lego 76218 - Marvel  - Santuario",
-    "imgUrl": "https://images1.vinted.net/t/02_003d1_xuWTraaWvcGDBsFumEBzY6fD/f800/1727960842.jpeg?s=0b8dceb3a0103c7949db0af7beb3e5fb2999688d",
-    "publicationDate": 1727960842,
-    "id": 5151700160
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5328965754-lego-marvel-76218",
     "price": 210.7,
     "title": "LEGO Marvel 76218",
@@ -352,6 +387,16 @@
     "id": 5328965754
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5151700160-lego-76218-marvel-santuario",
+    "price": 193.9,
+    "title": "Lego 76218 - Marvel  - Santuario",
+    "imgUrl": "https://images1.vinted.net/t/02_003d1_xuWTraaWvcGDBsFumEBzY6fD/f800/1727960842.jpeg?s=0b8dceb3a0103c7949db0af7beb3e5fb2999688d",
+    "publicationDate": 1727960842,
+    "id": 5151700160
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3028347969-personnage-lego-marvel",
     "price": 16.45,
     "title": "Personnage Lego Marvel ",
@@ -360,6 +405,7 @@
     "id": 3028347969
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3028427406-personnage-lego-marvel",
     "price": 16.45,
     "title": "Personnage Lego Marvel",
@@ -368,14 +414,7 @@
     "id": 3028427406
   },
   {
-    "link": "https://www.vinted.fr/items/5387161745-lego-marvel-sanctum-sanctorum-76218",
-    "price": 158.2,
-    "title": "LEGO Marvel Sanctum Sanctorum #76218",
-    "imgUrl": "https://images1.vinted.net/t/01_0007c_NNyiWixhxci4dpR62RpPGa81/f800/1731687548.jpeg?s=1bcc5d2fff96cc689d7d150d15abf76c3bb15281",
-    "publicationDate": 1731687548,
-    "id": 5387161745
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3028402392-personnage-lego-marvel-iron-man",
     "price": 16.45,
     "title": "Personnage Lego Marvel Iron Man",
@@ -384,6 +423,7 @@
     "id": 3028402392
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5262894197-lot-de-4-plaques-ville-city-town-legoland",
     "price": 17.5,
     "title": "Lot de 4 plaques ville city town Legoland",
@@ -392,6 +432,7 @@
     "id": 5262894197
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5369285927-76218-lego-le-saint-des-saints",
     "price": 204.4,
     "title": "76218-Lego-Le saint des saints",
@@ -400,6 +441,7 @@
     "id": 5369285927
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5392325784-lego-marvel-76218-santuario",
     "price": 210.7,
     "title": "Lego Marvel 76218 Santuario",
@@ -408,6 +450,7 @@
     "id": 5392325784
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/2386956402-lego-marvel-sh831-scarlet-witch-issue-du-set-76218",
     "price": 15.4,
     "title": "Lego Marvel sh831 scarlet witch issue du set 76218",
@@ -416,22 +459,7 @@
     "id": 2386956402
   },
   {
-    "link": "https://www.vinted.fr/items/5287346038-lego-76218-sanctum-sanctorum",
-    "price": 200.2,
-    "title": "Lego 76218 Sanctum Sanctorum",
-    "imgUrl": "https://images1.vinted.net/t/02_0062b_FADeUrAGYwSRZCLG29MUcB2K/f800/1730042463.jpeg?s=bf03d32a544934c8c43e4a20851f4181e1089c20",
-    "publicationDate": 1730042463,
-    "id": 5287346038
-  },
-  {
-    "link": "https://www.vinted.fr/items/4994291166-lego-head-dual-sided-iron-man",
-    "price": 1.75,
-    "title": "Lego Head Dual Sided Iron Man",
-    "imgUrl": "https://images1.vinted.net/t/03_01a08_UmmfoZgfAy5EN3mLhS1iN77S/f800/1725612836.jpeg?s=9ed63a3e48d0438ada91b190007ddff5bf3d258e",
-    "publicationDate": 1725612836,
-    "id": 4994291166
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5187232039-figurine-garde-guerrier-officiel-lego-cas066-avec-bouclier-et-epee",
     "price": 8.46,
     "title": "Figurine garde guerrier officiel Lego cas066 avec bouclier et épée",
@@ -440,6 +468,16 @@
     "id": 5187232039
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5287346038-lego-76218-sanctum-sanctorum",
+    "price": 200.2,
+    "title": "Lego 76218 Sanctum Sanctorum",
+    "imgUrl": "https://images1.vinted.net/t/02_0062b_FADeUrAGYwSRZCLG29MUcB2K/f800/1730042463.jpeg?s=bf03d32a544934c8c43e4a20851f4181e1089c20",
+    "publicationDate": 1730042463,
+    "id": 5287346038
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4616838517-serie-complete-des-9-figurines-legor-marvel-le-saint-des-saints-76218-neuves",
     "price": 65.8,
     "title": "Série complète des 9 Figurines Lego® Marvel Le Saint des Saints 76218 / Neuves",
@@ -448,6 +486,7 @@
     "id": 4616838517
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5262872999-6311-lego-2-plaques-vintages-city-town",
     "price": 19.6,
     "title": "6311 Lego 2 plaques vintages city town",
@@ -456,6 +495,16 @@
     "id": 5262872999
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/4994291166-lego-head-dual-sided-iron-man",
+    "price": 1.75,
+    "title": "Lego Head Dual Sided Iron Man",
+    "imgUrl": "https://images1.vinted.net/t/03_01a08_UmmfoZgfAy5EN3mLhS1iN77S/f800/1725612836.jpeg?s=9ed63a3e48d0438ada91b190007ddff5bf3d258e",
+    "publicationDate": 1725612836,
+    "id": 4994291166
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5197426887-set-lego-castle-6073-faucons",
     "price": 89.95,
     "title": "Set Lego castle 6073 faucons",
@@ -464,14 +513,7 @@
     "id": 5197426887
   },
   {
-    "link": "https://www.vinted.fr/items/5262862086-deux-plaques-city-town-lego-legoland-1986",
-    "price": 17.5,
-    "title": "Deux plaques city town Lego Legoland 1986",
-    "imgUrl": "https://images1.vinted.net/t/04_0051a_pk4oaH3RKZB4bzx5VwpTPKoz/f800/1729623631.jpeg?s=f86662d77f217ba0dca0190fd8512aa378d08be6",
-    "publicationDate": 1729623631,
-    "id": 5262862086
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3439665170-lego-scarlet-witch-minifigure-76218",
     "price": 26.95,
     "title": "Lego Scarlet Witch Minifigure 76218",
@@ -480,6 +522,25 @@
     "id": 3439665170
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5262862086-deux-plaques-city-town-lego-legoland-1986",
+    "price": 17.5,
+    "title": "Deux plaques city town Lego Legoland 1986",
+    "imgUrl": "https://images1.vinted.net/t/04_0051a_pk4oaH3RKZB4bzx5VwpTPKoz/f800/1729623631.jpeg?s=f86662d77f217ba0dca0190fd8512aa378d08be6",
+    "publicationDate": 1729623631,
+    "id": 5262862086
+  },
+  {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5387161745-lego-marvel-sanctum-sanctorum-76218",
+    "price": 158.2,
+    "title": "LEGO Marvel Sanctum Sanctorum #76218",
+    "imgUrl": "https://images1.vinted.net/t/01_0007c_NNyiWixhxci4dpR62RpPGa81/f800/1731687548.jpeg?s=1bcc5d2fff96cc689d7d150d15abf76c3bb15281",
+    "publicationDate": 1731687548,
+    "id": 5387161745
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/2927866553-minifigures-lego-originali-esclusive-presenti-nel-set-76218",
     "price": 79.45,
     "title": "Minifigures Lego originali, esclusive, presenti nel set 76218",
@@ -488,6 +549,7 @@
     "id": 2927866553
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5262883705-legoland-6312-1-plaque-plus-insert-town-city",
     "price": 14.88,
     "title": "Legoland 6312 1 plaque plus insert town city",
@@ -496,6 +558,7 @@
     "id": 5262883705
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5256954989-gros-lot-castle-1984-6080-6055-6022-6049-6021",
     "price": 226.45,
     "title": "Gros Lot castle 1984 6080 6055 6022 6049 6021",
@@ -504,22 +567,7 @@
     "id": 5256954989
   },
   {
-    "link": "https://www.vinted.fr/items/5271007826-lego-marvel-76218-le-saint-des-saints-neuf",
-    "price": 209.65,
-    "title": "Lego Marvel 76218, le Saint des Saints. Neuf",
-    "imgUrl": "https://images1.vinted.net/t/02_024f5_7z4yFLXMWen13VpQ1kdEKYTw/f800/1729776770.jpeg?s=dc9400f93f04afd17adeb3960d72f6181830f850",
-    "publicationDate": 1729776770,
-    "id": 5271007826
-  },
-  {
-    "link": "https://www.vinted.fr/items/4855910840-lotto-minifigure-lego-marvel-dal-set-76218-sanctum-sanctorum",
-    "price": 63.7,
-    "title": "Lotto minifigure Lego Marvel dal set 76218 Sanctum Sanctorum",
-    "imgUrl": "https://images1.vinted.net/t/01_01419_MXxQ3jcGqwjDHNShzWWG531t/f800/1722964954.jpeg?s=6ff7488e3d571be68b415758877985226df856e4",
-    "publicationDate": 1722964954,
-    "id": 4855910840
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4756239225-le-saint-des-saints-76218-marvel-lego-officiel-maison-dr-strange",
     "price": 189.7,
     "title": "Le Saint des Saints / 76218 / Marvel / LEGO Officiel / Maison Dr Strange",
@@ -528,6 +576,25 @@
     "id": 4756239225
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5271007826-lego-marvel-76218-le-saint-des-saints-neuf",
+    "price": 209.65,
+    "title": "Lego Marvel 76218, le Saint des Saints. Neuf",
+    "imgUrl": "https://images1.vinted.net/t/02_024f5_7z4yFLXMWen13VpQ1kdEKYTw/f800/1729776770.jpeg?s=dc9400f93f04afd17adeb3960d72f6181830f850",
+    "publicationDate": 1729776770,
+    "id": 5271007826
+  },
+  {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/4855910840-lotto-minifigure-lego-marvel-dal-set-76218-sanctum-sanctorum",
+    "price": 63.7,
+    "title": "Lotto minifigure Lego Marvel dal set 76218 Sanctum Sanctorum",
+    "imgUrl": "https://images1.vinted.net/t/01_01419_MXxQ3jcGqwjDHNShzWWG531t/f800/1722964954.jpeg?s=6ff7488e3d571be68b415758877985226df856e4",
+    "publicationDate": 1722964954,
+    "id": 4855910840
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4162547290-lego-76218-sanctum-sanctorum",
     "price": 194.95,
     "title": "LEGO 76218 Sanctum Sanctorum",
@@ -536,30 +603,7 @@
     "id": 4162547290
   },
   {
-    "link": "https://www.vinted.fr/items/5295276087-lego-marvel-76218",
-    "price": 221.2,
-    "title": "Lego Marvel (76218)",
-    "imgUrl": "https://images1.vinted.net/t/04_01fbb_d33XQmavnFjVSYUvBemRQjQs/f800/1730151523.jpeg?s=8dbb475fc6572b65dcd1ed9fba67228b190fe1d6",
-    "publicationDate": 1730151523,
-    "id": 5295276087
-  },
-  {
-    "link": "https://www.vinted.fr/items/5072700695-lego-sanctum-sanctorum-76218-infinity-saga",
-    "price": 205.45,
-    "title": "Lego Sanctum Sanctorum 76218 Infinity Saga",
-    "imgUrl": "https://images1.vinted.net/t/03_0227c_5W3HntMJGdQbGZkCqgtoxyoA/f800/1726762777.jpeg?s=4c985d6f6f89cdbcc870ad2011f72a1c2b418147",
-    "publicationDate": 1726762777,
-    "id": 5072700695
-  },
-  {
-    "link": "https://www.vinted.fr/items/5031922842-lego-marvel-76218",
-    "price": 347.2,
-    "title": "LEGO Marvel 76218",
-    "imgUrl": "https://images1.vinted.net/t/03_012d9_8VinmVv4X8sR6ngHsnw9DuRT/f800/1726159120.jpeg?s=d764b310622384dddd4d8c5a50bb2ae0b8d08462",
-    "publicationDate": 1726159120,
-    "id": 5031922842
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5259471409-lego-marvel-76218-le-saint-des-saints",
     "price": 200.2,
     "title": "Lego marvel 76218 le saint des saints",
@@ -568,14 +612,34 @@
     "id": 5259471409
   },
   {
-    "link": "https://www.vinted.fr/items/5114586199-6066-avant-poste-camoufle-set-lego-vintage-tbe-complet-100",
-    "price": 116.2,
-    "title": "6066 avant-poste camouflé set Lego vintage tbe complet 100%",
-    "imgUrl": "https://images1.vinted.net/t/02_0036b_S118vBn6UCywCaBLsnd8FCMg/f800/1727425826.jpeg?s=c2f3b3583bdf780ab0638fa525482743e38d8932",
-    "publicationDate": 1727425826,
-    "id": 5114586199
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5031922842-lego-marvel-76218",
+    "price": 347.2,
+    "title": "LEGO Marvel 76218",
+    "imgUrl": "https://images1.vinted.net/t/03_012d9_8VinmVv4X8sR6ngHsnw9DuRT/f800/1726159120.jpeg?s=d764b310622384dddd4d8c5a50bb2ae0b8d08462",
+    "publicationDate": 1726159120,
+    "id": 5031922842
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5295276087-lego-marvel-76218",
+    "price": 221.2,
+    "title": "Lego Marvel (76218)",
+    "imgUrl": "https://images1.vinted.net/t/04_01fbb_d33XQmavnFjVSYUvBemRQjQs/f800/1730151523.jpeg?s=8dbb475fc6572b65dcd1ed9fba67228b190fe1d6",
+    "publicationDate": 1730151523,
+    "id": 5295276087
+  },
+  {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5072700695-lego-sanctum-sanctorum-76218-infinity-saga",
+    "price": 205.45,
+    "title": "Lego Sanctum Sanctorum 76218 Infinity Saga",
+    "imgUrl": "https://images1.vinted.net/t/03_0227c_5W3HntMJGdQbGZkCqgtoxyoA/f800/1726762777.jpeg?s=4c985d6f6f89cdbcc870ad2011f72a1c2b418147",
+    "publicationDate": 1726762777,
+    "id": 5072700695
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5389222924-lego-marvel-sanctum-santorium-76218",
     "price": 200.2,
     "title": "Lego Marvel Sanctum Santorium 76218",
@@ -584,6 +648,16 @@
     "id": 5389222924
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5114586199-6066-avant-poste-camoufle-set-lego-vintage-tbe-complet-100",
+    "price": 116.2,
+    "title": "6066 avant-poste camouflé set Lego vintage tbe complet 100%",
+    "imgUrl": "https://images1.vinted.net/t/02_0036b_S118vBn6UCywCaBLsnd8FCMg/f800/1727425826.jpeg?s=c2f3b3583bdf780ab0638fa525482743e38d8932",
+    "publicationDate": 1727425826,
+    "id": 5114586199
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5361315519-lego-konvolut-marvel",
     "price": 368.2,
     "title": "Lego Konvolut Marvel",
@@ -592,14 +666,7 @@
     "id": 5361315519
   },
   {
-    "link": "https://www.vinted.fr/items/5349375196-lego-76218",
-    "price": 210.7,
-    "title": "Lego 76218",
-    "imgUrl": "https://images1.vinted.net/t/03_00759_eGF6T5xkiiPN5JK84oPL44Xx/f800/1731090838.jpeg?s=598b6b258a572b434b90c843bb4834601f81a9dc",
-    "publicationDate": 1731090838,
-    "id": 5349375196
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5120748307-lego-sanctum-sanctorum-misb",
     "price": 200.2,
     "title": "Lego Sanctum Sanctorum Misb",
@@ -608,6 +675,16 @@
     "id": 5120748307
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5349375196-lego-76218",
+    "price": 210.7,
+    "title": "Lego 76218",
+    "imgUrl": "https://images1.vinted.net/t/03_00759_eGF6T5xkiiPN5JK84oPL44Xx/f800/1731090838.jpeg?s=598b6b258a572b434b90c843bb4834601f81a9dc",
+    "publicationDate": 1731090838,
+    "id": 5349375196
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4689151985-lego-76218-sanctum-sanctorum",
     "price": 210.7,
     "title": "Lego 76218 Sanctum Sanctorum",
@@ -616,6 +693,7 @@
     "id": 4689151985
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/2689242451-figurines-sanctum-sanctorium-set-76218",
     "price": 68.95,
     "title": "figurines sanctum sanctorium set 76218",
@@ -624,30 +702,7 @@
     "id": 2689242451
   },
   {
-    "link": "https://www.vinted.fr/items/5357532595-set-76218-sanctum-sanctorum-marvel-lego",
-    "price": 236.95,
-    "title": "Set 76218 Sanctum Sanctorum Marvel LEGO",
-    "imgUrl": "https://images1.vinted.net/t/04_01bd4_qrTew44E1V234Mtj9uigABnN/f800/1731239147.jpeg?s=19613dc623901819f9190cec4833150885da20fc",
-    "publicationDate": 1731239147,
-    "id": 5357532595
-  },
-  {
-    "link": "https://www.vinted.fr/items/5081682277-lego-76218-sanctum-sanctorum",
-    "price": 210.7,
-    "title": "Lego 76218 sanctum sanctorum",
-    "imgUrl": "https://images1.vinted.net/t/01_0087e_woE2mpkKSCg53TqLPTZeNNFv/f800/1726925622.jpeg?s=548612a0be34aa8c8fbe976abc53542034e400e6",
-    "publicationDate": 1726925622,
-    "id": 5081682277
-  },
-  {
-    "link": "https://www.vinted.fr/items/4824293928-lego-marvel-infinity-saga-76218",
-    "price": 242.2,
-    "title": "Lego Marvel infinity saga 76218",
-    "imgUrl": "https://images1.vinted.net/t/02_018ff_KwvZxwAAjaab1u15JRwioyjr/f800/1722274515.jpeg?s=6d90f4ed8db5f352888f82a6f6d4f30b5c27a1b2",
-    "publicationDate": 1722274515,
-    "id": 4824293928
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3613658746-lego-76218-saint-des-saints",
     "price": 187.6,
     "title": "Lego 76218 Saint des saints",
@@ -656,30 +711,25 @@
     "id": 3613658746
   },
   {
-    "link": "https://www.vinted.fr/items/2284278815-lego-marvel-figuren",
-    "price": 74.2,
-    "title": "Lego Marvel Figuren ",
-    "imgUrl": "https://images1.vinted.net/t/01_01561_sby5vhRPiomiSsfap6toi4nW/f800/1665138445.jpeg?s=b7bd57984101c393741ddc4bcfabe33930a65db6",
-    "publicationDate": 1665138445,
-    "id": 2284278815
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5357532595-set-76218-sanctum-sanctorum-marvel-lego",
+    "price": 236.95,
+    "title": "Set 76218 Sanctum Sanctorum Marvel LEGO",
+    "imgUrl": "https://images1.vinted.net/t/04_01bd4_qrTew44E1V234Mtj9uigABnN/f800/1731239147.jpeg?s=19613dc623901819f9190cec4833150885da20fc",
+    "publicationDate": 1731239147,
+    "id": 5357532595
   },
   {
-    "link": "https://www.vinted.fr/items/4960499131-collezione-lego",
-    "price": 816,
-    "title": "Collezione LEGO",
-    "imgUrl": "https://images1.vinted.net/t/01_02504_eKxYqTSMSrUy8XS6rad6edWk/f800/1725012920.jpeg?s=e6f5286adca4a98ba8cc8018cdcff3c14e7696e6",
-    "publicationDate": 1725012920,
-    "id": 4960499131
-  },
-  {
-    "link": "https://www.vinted.fr/items/4408991528-lego-76218-sanctum",
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5081682277-lego-76218-sanctum-sanctorum",
     "price": 210.7,
-    "title": "Lego 76218 Sanctum",
-    "imgUrl": "https://images1.vinted.net/t/02_00202_v74EDG8rsn9ETxQS6nNhUt8i/f800/1713904863.jpeg?s=b91bad60861249d7e90988a26d95357248d58f96",
-    "publicationDate": 1713904863,
-    "id": 4408991528
+    "title": "Lego 76218 sanctum sanctorum",
+    "imgUrl": "https://images1.vinted.net/t/01_0087e_woE2mpkKSCg53TqLPTZeNNFv/f800/1726925622.jpeg?s=548612a0be34aa8c8fbe976abc53542034e400e6",
+    "publicationDate": 1726925622,
+    "id": 5081682277
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4891991658-lego-marvel-76218-sanctum-sanctorum",
     "price": 200.2,
     "title": "LEGO Marvel 76218 : Sanctum Sanctorum",
@@ -688,22 +738,16 @@
     "id": 4891991658
   },
   {
-    "link": "https://www.vinted.fr/items/3036875033-lego-minifigures-doctor-strange-new",
-    "price": 84.69,
-    "title": "Lego Minifigures Doctor Strange New ",
-    "imgUrl": "https://images1.vinted.net/t/01_02070_bDabCLmpQSch5V8D1D3Z5VHZ/f800/1684475608.jpeg?s=5cde8bec0c0f38e40226bb4c51261ac82b4ec29c",
-    "publicationDate": 1684475608,
-    "id": 3036875033
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/4824293928-lego-marvel-infinity-saga-76218",
+    "price": 242.2,
+    "title": "Lego Marvel infinity saga 76218",
+    "imgUrl": "https://images1.vinted.net/t/02_018ff_KwvZxwAAjaab1u15JRwioyjr/f800/1722274515.jpeg?s=6d90f4ed8db5f352888f82a6f6d4f30b5c27a1b2",
+    "publicationDate": 1722274515,
+    "id": 4824293928
   },
   {
-    "link": "https://www.vinted.fr/items/2592477925-lot-figurines-dr-strange",
-    "price": 89.95,
-    "title": "Lot figurines Dr strange",
-    "imgUrl": "https://images1.vinted.net/t/02_0048a_UFNNrm7wGdYQGrnDmAWFKoRi/f800/1673795429.jpeg?s=a75e616e923a4d3b72ffd638751992d6b816e4ea",
-    "publicationDate": 1673795429,
-    "id": 2592477925
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4349692454-lego-neuf-et-scelle-76218-marvel",
     "price": 205.45,
     "title": "Lego neuf et scellé 76218 marvel",
@@ -712,6 +756,52 @@
     "id": 4349692454
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/2284278815-lego-marvel-figuren",
+    "price": 74.2,
+    "title": "Lego Marvel Figuren ",
+    "imgUrl": "https://images1.vinted.net/t/01_01561_sby5vhRPiomiSsfap6toi4nW/f800/1665138445.jpeg?s=b7bd57984101c393741ddc4bcfabe33930a65db6",
+    "publicationDate": 1665138445,
+    "id": 2284278815
+  },
+  {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/4960499131-collezione-lego",
+    "price": 816,
+    "title": "Collezione LEGO",
+    "imgUrl": "https://images1.vinted.net/t/01_02504_eKxYqTSMSrUy8XS6rad6edWk/f800/1725012920.jpeg?s=e6f5286adca4a98ba8cc8018cdcff3c14e7696e6",
+    "publicationDate": 1725012920,
+    "id": 4960499131
+  },
+  {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/4408991528-lego-76218-sanctum",
+    "price": 210.7,
+    "title": "Lego 76218 Sanctum",
+    "imgUrl": "https://images1.vinted.net/t/02_00202_v74EDG8rsn9ETxQS6nNhUt8i/f800/1713904863.jpeg?s=b91bad60861249d7e90988a26d95357248d58f96",
+    "publicationDate": 1713904863,
+    "id": 4408991528
+  },
+  {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/3036875033-lego-minifigures-doctor-strange-new",
+    "price": 84.69,
+    "title": "Lego Minifigures Doctor Strange New ",
+    "imgUrl": "https://images1.vinted.net/t/01_02070_bDabCLmpQSch5V8D1D3Z5VHZ/f800/1684475608.jpeg?s=5cde8bec0c0f38e40226bb4c51261ac82b4ec29c",
+    "publicationDate": 1684475608,
+    "id": 3036875033
+  },
+  {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/2592477925-lot-figurines-dr-strange",
+    "price": 89.95,
+    "title": "Lot figurines Dr strange",
+    "imgUrl": "https://images1.vinted.net/t/02_0048a_UFNNrm7wGdYQGrnDmAWFKoRi/f800/1673795429.jpeg?s=a75e616e923a4d3b72ffd638751992d6b816e4ea",
+    "publicationDate": 1673795429,
+    "id": 2592477925
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5302154368-lego-trans-clear-minifigure-headgear-helmet-round-fishbowl",
     "price": 1.75,
     "title": "Lego Trans-Clear Minifigure, Headgear Helmet Round Fishbowl",
@@ -720,6 +810,7 @@
     "id": 5302154368
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4911383130-lego-76218-sanctum-sanctorum-neuf-scelle",
     "price": 209.65,
     "title": "LEGO 76218 - Sanctum Sanctorum (Neuf / Scellé)",
@@ -728,6 +819,7 @@
     "id": 4911383130
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/2851623864-lego-76218-marvel-sanctum-santorum-nuovo-mai-aperto",
     "price": 236.95,
     "title": "Lego 76218 - Marvel - Sanctum Santorum - Nuovo - Mai Aperto",
@@ -736,6 +828,7 @@
     "id": 2851623864
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4640287173-neuf-lego-marvel-76218",
     "price": 221.2,
     "title": "Neuf 🎊 lego Marvel 76218",
@@ -744,6 +837,7 @@
     "id": 4640287173
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/5206221543-lego-marvel-76218",
     "price": 210.7,
     "title": "Lego Marvel 76218",
@@ -752,6 +846,7 @@
     "id": 5206221543
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4056812244-lego-76218-sanctum-sanctorum-misb-nuovo-sigillato",
     "price": 210.7,
     "title": "Lego 76218 sanctum sanctorum misb nuovo sigillato",
@@ -760,6 +855,7 @@
     "id": 4056812244
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/4022428510-lego-76218",
     "price": 210.7,
     "title": "Lego 76218",
@@ -768,30 +864,7 @@
     "id": 4022428510
   },
   {
-    "link": "https://www.vinted.fr/items/4243197162-lego-sanctum-76218",
-    "price": 221.2,
-    "title": "Lego Sanctum 76218",
-    "imgUrl": "https://images1.vinted.net/t/03_015c6_unU7DGxi9kjpELWtV4dHrkUN/f800/1710832454.jpeg?s=6a53935f55e62d121d7dc5a6066ee7c1a917f895",
-    "publicationDate": 1710832454,
-    "id": 4243197162
-  },
-  {
-    "link": "https://www.vinted.fr/items/4280706155-lego-76218-sanctum-sanctorum-illuminazione-led-lego",
-    "price": 268.45,
-    "title": "Lego 76218 Sanctum Sanctorum + illuminazione LED Lego",
-    "imgUrl": "https://images1.vinted.net/t/03_0111a_zMWsyMSCTKGHPWdhhn6beRSa/f800/1711551398.jpeg?s=8fb96ea0905e34bb7f3bd6952ae18418a512c726",
-    "publicationDate": 1711551398,
-    "id": 4280706155
-  },
-  {
-    "link": "https://www.vinted.fr/items/3116709141-lego-76218-misb-sanctum-marvel",
-    "price": 221.2,
-    "title": "Lego 76218 MISB sanctum marvel",
-    "imgUrl": "https://images1.vinted.net/t/03_01d31_DnsEE5pfzTo1b4nKZZkTy6ZV/f800/1686305822.jpeg?s=5267b724e28468f7c22af26a05a8ecc17bdf6262",
-    "publicationDate": 1686305822,
-    "id": 3116709141
-  },
-  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3733044672-lego-76218",
     "price": 200.2,
     "title": "Lego 76218",
@@ -800,30 +873,25 @@
     "id": 3733044672
   },
   {
-    "link": "https://www.vinted.fr/items/4587410968-lego-76218-sanctum-sanctorum",
-    "price": 247.98,
-    "title": "LEGO 76218 Sanctum Sanctorum",
-    "imgUrl": "https://images1.vinted.net/t/03_009fc_uGG3jMsu2aJFSMoFgqeoXt8U/f800/1717324895.jpeg?s=8d641a088ee3c27a6616c1149409efe2985ccb97",
-    "publicationDate": 1717324895,
-    "id": 4587410968
-  },
-  {
-    "link": "https://www.vinted.fr/items/4155448097-lego-76218-doctor-strange-on-the-multicerse-of-madness",
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/4243197162-lego-sanctum-76218",
     "price": 221.2,
-    "title": "Lego 76218 Doctor Strange on the Multicerse of Madness",
-    "imgUrl": "https://images1.vinted.net/t/01_003a1_8E5YEYdEGWdgsuN9hreSbpWc/f800/1709044904.jpeg?s=53aac4d05f44474fb30d89b9569bce4bd8d2ca61",
-    "publicationDate": 1709044904,
-    "id": 4155448097
+    "title": "Lego Sanctum 76218",
+    "imgUrl": "https://images1.vinted.net/t/03_015c6_unU7DGxi9kjpELWtV4dHrkUN/f800/1710832454.jpeg?s=6a53935f55e62d121d7dc5a6066ee7c1a917f895",
+    "publicationDate": 1710832454,
+    "id": 4243197162
   },
   {
-    "link": "https://www.vinted.fr/items/5150791652-lego-marvel-76218-sanctum-sanctorum-nuovo-sigillato-new",
-    "price": 242.19,
-    "title": "Lego Marvel 76218 Sanctum Sanctorum Nuovo Sigillato New",
-    "imgUrl": "https://images1.vinted.net/t/01_0020c_LrRc257U2U2zi2g8Z7CLVtBh/f800/1727952690.jpeg?s=0432f7ca4c36ad167dbd7318ec2267097bbe8389",
-    "publicationDate": 1727952690,
-    "id": 5150791652
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/4280706155-lego-76218-sanctum-sanctorum-illuminazione-led-lego",
+    "price": 268.45,
+    "title": "Lego 76218 Sanctum Sanctorum + illuminazione LED Lego",
+    "imgUrl": "https://images1.vinted.net/t/03_0111a_zMWsyMSCTKGHPWdhhn6beRSa/f800/1711551398.jpeg?s=8fb96ea0905e34bb7f3bd6952ae18418a512c726",
+    "publicationDate": 1711551398,
+    "id": 4280706155
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/2433653740-vaste-prijs-nieuw-76218-lego-marvel-sanctum-sanctorum",
     "price": 200.2,
     "title": "VASTE prijs - Nieuw 76218 Lego Marvel Sanctum Sanctorum",
@@ -832,6 +900,43 @@
     "id": 2433653740
   },
   {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/3116709141-lego-76218-misb-sanctum-marvel",
+    "price": 221.2,
+    "title": "Lego 76218 MISB sanctum marvel",
+    "imgUrl": "https://images1.vinted.net/t/03_01d31_DnsEE5pfzTo1b4nKZZkTy6ZV/f800/1686305822.jpeg?s=5267b724e28468f7c22af26a05a8ecc17bdf6262",
+    "publicationDate": 1686305822,
+    "id": 3116709141
+  },
+  {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/4587410968-lego-76218-sanctum-sanctorum",
+    "price": 247.98,
+    "title": "LEGO 76218 Sanctum Sanctorum",
+    "imgUrl": "https://images1.vinted.net/t/03_009fc_uGG3jMsu2aJFSMoFgqeoXt8U/f800/1717324895.jpeg?s=8d641a088ee3c27a6616c1149409efe2985ccb97",
+    "publicationDate": 1717324895,
+    "id": 4587410968
+  },
+  {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/5150791652-lego-marvel-76218-sanctum-sanctorum-nuovo-sigillato-new",
+    "price": 242.19,
+    "title": "Lego Marvel 76218 Sanctum Sanctorum Nuovo Sigillato New",
+    "imgUrl": "https://images1.vinted.net/t/01_0020c_LrRc257U2U2zi2g8Z7CLVtBh/f800/1727952690.jpeg?s=0432f7ca4c36ad167dbd7318ec2267097bbe8389",
+    "publicationDate": 1727952690,
+    "id": 5150791652
+  },
+  {
+    "legoId": "76218",
+    "link": "https://www.vinted.fr/items/4155448097-lego-76218-doctor-strange-on-the-multicerse-of-madness",
+    "price": 221.2,
+    "title": "Lego 76218 Doctor Strange on the Multicerse of Madness",
+    "imgUrl": "https://images1.vinted.net/t/01_003a1_8E5YEYdEGWdgsuN9hreSbpWc/f800/1709044904.jpeg?s=53aac4d05f44474fb30d89b9569bce4bd8d2ca61",
+    "publicationDate": 1709044904,
+    "id": 4155448097
+  },
+  {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/2123606862-leo-76218-sanctum-santorum-nuovo",
     "price": 231.7,
     "title": "Leo 76218 sanctum santorum nuovo",
@@ -840,6 +945,7 @@
     "id": 2123606862
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/2359074881-lego-76218",
     "price": 236.95,
     "title": "Lego 76218",
@@ -848,6 +954,7 @@
     "id": 2359074881
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/3774199878-lego-76218-marvel-santuario",
     "price": 315.7,
     "title": "Lego 76218 Marvel Santuario",
@@ -856,6 +963,7 @@
     "id": 3774199878
   },
   {
+    "legoId": "76218",
     "link": "https://www.vinted.fr/items/2319322559-lego-76218-sanctum-sanctorum",
     "price": 210.7,
     "title": "Lego 76218: Sanctum Sanctorum",

@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "21343",
     "link": "https://www.vinted.fr/items/4445569015-lego-istruzioni-set-21343-viking-village-solo-istruzioni",
     "price": 11.2,
     "title": "Lego istruzioni set 21343 viking village (solo istruzioni)",
@@ -8,6 +9,7 @@
     "id": 4445569015
   },
   {
+    "legoId": "21343",
     "link": "https://www.vinted.fr/items/5313981667-lego-21343-villaggio-vichingo",
     "price": 116.2,
     "title": "Lego 21343 Villaggio Vichingo",
@@ -16,30 +18,7 @@
     "id": 5313981667
   },
   {
-    "link": "https://www.vinted.fr/items/5404577504-lego-21343",
-    "price": 71.05,
-    "title": "LEGO 21343",
-    "imgUrl": "https://images1.vinted.net/t/04_02065_AcVnDS1QJvTcNGurC5Gh94N3/f800/1731941493.jpeg?s=20bfaa0864a37ab6fb5b1d2c16cfe02d097629c5",
-    "publicationDate": 1731941493,
-    "id": 5404577504
-  },
-  {
-    "link": "https://www.vinted.fr/items/5198504322-5-minifigures-lego-vikinghi-con-armi-e-accessori",
-    "price": 38.5,
-    "title": "5 Minifigures LEGO Vikinghi con armi e accessori",
-    "imgUrl": "https://images1.vinted.net/t/01_0177c_Rtne7mz67pSwRKUASi6E1iJr/f800/1728659437.jpeg?s=2e741e881f5640b0ba19bec7014465d12a0e16a8",
-    "publicationDate": 1728659437,
-    "id": 5198504322
-  },
-  {
-    "link": "https://www.vinted.fr/items/5335714583-lego-21343-viking-village",
-    "price": 121.45,
-    "title": "Lego 21343 viking village",
-    "imgUrl": "https://images1.vinted.net/t/04_00867_h3JjowMMM3hAXTHcKRrPiHo4/f800/1730832756.jpeg?s=e9e8b510711627e561d283fd256145d27b1c05f6",
-    "publicationDate": 1730832756,
-    "id": 5335714583
-  },
-  {
+    "legoId": "21343",
     "link": "https://www.vinted.fr/items/5336301293-lego-21343-new",
     "price": 121.45,
     "title": "Lego 21343 new!",
@@ -48,6 +27,25 @@
     "id": 5336301293
   },
   {
+    "legoId": "21343",
+    "link": "https://www.vinted.fr/items/5198504322-5-minifigures-lego-vikinghi-con-armi-e-accessori",
+    "price": 38.5,
+    "title": "5 Minifigures LEGO Vikinghi con armi e accessori",
+    "imgUrl": "https://images1.vinted.net/t/01_0177c_Rtne7mz67pSwRKUASi6E1iJr/f800/1728659437.jpeg?s=2e741e881f5640b0ba19bec7014465d12a0e16a8",
+    "publicationDate": 1728659437,
+    "id": 5198504322
+  },
+  {
+    "legoId": "21343",
+    "link": "https://www.vinted.fr/items/5335714583-lego-21343-viking-village",
+    "price": 121.45,
+    "title": "Lego 21343 viking village",
+    "imgUrl": "https://images1.vinted.net/t/04_00867_h3JjowMMM3hAXTHcKRrPiHo4/f800/1730832756.jpeg?s=e9e8b510711627e561d283fd256145d27b1c05f6",
+    "publicationDate": 1730832756,
+    "id": 5335714583
+  },
+  {
+    "legoId": "21343",
     "link": "https://www.vinted.fr/items/4486041721-lote-minifiguras-lego-21343",
     "price": 35.35,
     "title": "Lote minifiguras Lego 21343",
@@ -56,6 +54,7 @@
     "id": 4486041721
   },
   {
+    "legoId": "21343",
     "link": "https://www.vinted.fr/items/5394298115-lego-ideas-21343-viking-village",
     "price": 126.7,
     "title": "Lego Ideas 21343 Viking Village",
@@ -64,6 +63,7 @@
     "id": 5394298115
   },
   {
+    "legoId": "21343",
     "link": "https://www.vinted.fr/items/5363817972-lego-21343-village-viking",
     "price": 136.15,
     "title": "Lego 21343 - village viking",
@@ -72,6 +72,7 @@
     "id": 5363817972
   },
   {
+    "legoId": "21343",
     "link": "https://www.vinted.fr/items/4788011160-7-minifigures-lego-barbari-vikinghi-con-pezzi-rari",
     "price": 68.95,
     "title": "7 Minifigures LEGO Barbari Vikinghi con pezzi rari",
@@ -80,6 +81,7 @@
     "id": 4788011160
   },
   {
+    "legoId": "21343",
     "link": "https://www.vinted.fr/items/5398048444-lego-collection",
     "price": 561,
     "title": "Lego collection",
@@ -88,14 +90,16 @@
     "id": 5398048444
   },
   {
+    "legoId": "21343",
     "link": "https://www.vinted.fr/items/5387549740-lego-ideas-21343-village-viking-neuf-et-scelle",
-    "price": 130.9,
+    "price": 127.75,
     "title": "Lego Ideas 21343 Village Viking NEUF et scellé",
     "imgUrl": "https://images1.vinted.net/t/04_01b93_5en32moww9ervDqECLreQqL1/f800/1731692242.jpeg?s=c606dc9a4d66468267770f17d456b6a5a2b1d0fb",
     "publicationDate": 1731692242,
     "id": 5387549740
   },
   {
+    "legoId": "21343",
     "link": "https://www.vinted.fr/items/5379950031-lego-76208-marvel-the-goat-boat-selado",
     "price": 68.95,
     "title": "LEGO 76208 Marvel The Goat Boat (SELADO)",
@@ -104,6 +108,7 @@
     "id": 5379950031
   },
   {
+    "legoId": "21343",
     "link": "https://www.vinted.fr/items/5143921920-lego-21343",
     "price": 135.1,
     "title": "Lego 21343",

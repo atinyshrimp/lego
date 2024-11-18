@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5308574023-hogwarts-express-lego",
     "price": 11.2,
     "title": "Hogwarts Express lego",
@@ -8,6 +9,7 @@
     "id": 5308574023
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5399213802-lego-harry-potter-71043-le-chateau-de-poudlard-neuf",
     "price": 378.7,
     "title": "Lego Harry Potter 71043 - Le château de Poudlard neuf",
@@ -16,6 +18,7 @@
     "id": 5399213802
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5369642616-lego-chateau-harry-potter-71043",
     "price": 305.2,
     "title": "Lego château Harry Potter 71043",
@@ -24,6 +27,7 @@
     "id": 5369642616
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4514371070-figurine-lego-harry-potter-helga-hufflepuff-hp160-71043",
     "price": 17.5,
     "title": "Figurine Lego Harry Potter Helga Hufflepuff hp160 (71043)",
@@ -32,6 +36,7 @@
     "id": 4514371070
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4998309815-minifigure-harry-potter",
     "price": 18.03,
     "title": "Minifigure Harry Potter",
@@ -40,6 +45,7 @@
     "id": 4998309815
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5107374123-lego-71043-hogwarts-castle-castello-di-hogwarts",
     "price": 368.2,
     "title": "LEGO 71043 - Hogwarts Castle - Castello di Hogwarts",
@@ -48,6 +54,7 @@
     "id": 5107374123
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5374196370-lego-harry-potter-le-chateau-de-poudlard",
     "price": 398.65,
     "title": "Lego Harry Potter Le château de Poudlard",
@@ -56,14 +63,7 @@
     "id": 5374196370
   },
   {
-    "link": "https://www.vinted.fr/items/5268211130-chateaux-complet-lego-harry-potter-numero-71043",
-    "price": 368.2,
-    "title": "Chateaux  complet Lego harry potter numéro 71043",
-    "imgUrl": "https://images1.vinted.net/t/04_01e6a_Yqcnw1xDBVS7tiQBxBHgGYB8/f800/1729712584.jpeg?s=56734f70d83ed9e5d2048cfc1c9779bceb88c7d4",
-    "publicationDate": 1729712584,
-    "id": 5268211130
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5371732969-lego-71043-harry-potter-castello-di-hogwarts-nuovo",
     "price": 378.69,
     "title": "LEGO 71043 Harry Potter Castello di Hogwarts NUOVO",
@@ -72,22 +72,16 @@
     "id": 5371732969
   },
   {
-    "link": "https://www.vinted.fr/items/4907217821-lego-harry-potter-4-figurines-oficielles",
-    "price": 75.25,
-    "title": "Lego Harry Potter 4 figurines oficielles",
-    "imgUrl": "https://images1.vinted.net/t/03_0006e_CRtsfuuCDFM5UNub1NXkXbxh/f800/1724067628.jpeg?s=8c172ed3c218a67c984a16dfd2a144577f275076",
-    "publicationDate": 1724067628,
-    "id": 4907217821
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/5268211130-chateaux-complet-lego-harry-potter-numero-71043",
+    "price": 368.2,
+    "title": "Chateaux  complet Lego harry potter numéro 71043",
+    "imgUrl": "https://images1.vinted.net/t/04_01e6a_Yqcnw1xDBVS7tiQBxBHgGYB8/f800/1729712584.jpeg?s=56734f70d83ed9e5d2048cfc1c9779bceb88c7d4",
+    "publicationDate": 1729712584,
+    "id": 5268211130
   },
   {
-    "link": "https://www.vinted.fr/items/5400634223-lego-harry-potter-schloss-hogwarts-nr-71043-neu",
-    "price": 389.2,
-    "title": "Lego Harry Potter Schloss Hogwarts Nr 71043 NEU",
-    "imgUrl": "https://images1.vinted.net/t/03_01ddc_A2hq8XcNMC9wdYjji8cC2Ecw/f800/1731869811.jpeg?s=3e57ad661fae8b619f00bfd71988e02e97ae121f",
-    "publicationDate": 1731869811,
-    "id": 5400634223
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5399204448-lego-harry-potter-hogwarts-castle",
     "price": 341.95,
     "title": "Lego Harry Potter Hogwarts Castle",
@@ -96,6 +90,16 @@
     "id": 5399204448
   },
   {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/4907217821-lego-harry-potter-4-figurines-oficielles",
+    "price": 75.25,
+    "title": "Lego Harry Potter 4 figurines oficielles",
+    "imgUrl": "https://images1.vinted.net/t/03_0006e_CRtsfuuCDFM5UNub1NXkXbxh/f800/1724067628.jpeg?s=8c172ed3c218a67c984a16dfd2a144577f275076",
+    "publicationDate": 1724067628,
+    "id": 4907217821
+  },
+  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5369557491-chateau-poudlard-harry-potter-71043",
     "price": 331.45,
     "title": "Château Poudlard Harry Potter 71043",
@@ -104,6 +108,16 @@
     "id": 5369557491
   },
   {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/5400634223-lego-harry-potter-schloss-hogwarts-nr-71043-neu",
+    "price": 389.2,
+    "title": "Lego Harry Potter Schloss Hogwarts Nr 71043 NEU",
+    "imgUrl": "https://images1.vinted.net/t/03_01ddc_A2hq8XcNMC9wdYjji8cC2Ecw/f800/1731869811.jpeg?s=3e57ad661fae8b619f00bfd71988e02e97ae121f",
+    "publicationDate": 1731869811,
+    "id": 5400634223
+  },
+  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5368504785-lego-71043-castillo-de-hogwarts-6020-piezas",
     "price": 420.7,
     "title": "Lego 71043 - Castillo de Hogwarts - 6020 piezas",
@@ -112,6 +126,7 @@
     "id": 5368504785
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5044525266-lego-castello-harry-potter-71043-non-completo",
     "price": 116.2,
     "title": "Lego castello Harry Potter 71043 non completo",
@@ -120,6 +135,7 @@
     "id": 5044525266
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5306165321-lego-harry-potter",
     "price": 494.2,
     "title": "Lego Harry potter",
@@ -128,14 +144,7 @@
     "id": 5306165321
   },
   {
-    "link": "https://www.vinted.fr/items/5375283083-lego-71043-le-chateau-de-poudlard",
-    "price": 420.7,
-    "title": "LEGO 71043 - Le château de Poudlard",
-    "imgUrl": "https://images1.vinted.net/t/04_00f05_k1Uh4DJs2TsMPN81idzzXuqA/f800/1731492776.jpeg?s=03822192e746e060c8bf88b4e2143dc3373d1261",
-    "publicationDate": 1731492776,
-    "id": 5375283083
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5359385776-lego-harry-potter-le-chateau-de-poudlard-71043",
     "price": 399.7,
     "title": "Lego Harry Potter - Le château de Poudlard (71043)",
@@ -144,14 +153,16 @@
     "id": 5359385776
   },
   {
-    "link": "https://www.vinted.fr/items/5266622231-lego-harry-potter-71043-castello-di-hogwarts-misb",
-    "price": 378.69,
-    "title": "LEGO Harry Potter 71043 Castello di Hogwarts MISB",
-    "imgUrl": "https://images1.vinted.net/t/02_02278_iyttWybiAixkw78uTSLsKfki/f800/1729695620.jpeg?s=d5978dcf63234f335fa206c873148b055a4d5c53",
-    "publicationDate": 1729695620,
-    "id": 5266622231
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/5375283083-lego-71043-le-chateau-de-poudlard",
+    "price": 420.7,
+    "title": "LEGO 71043 - Le château de Poudlard",
+    "imgUrl": "https://images1.vinted.net/t/04_00f05_k1Uh4DJs2TsMPN81idzzXuqA/f800/1731492776.jpeg?s=03822192e746e060c8bf88b4e2143dc3373d1261",
+    "publicationDate": 1731492776,
+    "id": 5375283083
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5377562354-lego-71043-hogwarts-castle-misb",
     "price": 388.15,
     "title": "Lego 71043 Hogwarts Castle Misb",
@@ -160,6 +171,16 @@
     "id": 5377562354
   },
   {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/5266622231-lego-harry-potter-71043-castello-di-hogwarts-misb",
+    "price": 378.69,
+    "title": "LEGO Harry Potter 71043 Castello di Hogwarts MISB",
+    "imgUrl": "https://images1.vinted.net/t/02_02278_iyttWybiAixkw78uTSLsKfki/f800/1729695620.jpeg?s=d5978dcf63234f335fa206c873148b055a4d5c53",
+    "publicationDate": 1729695620,
+    "id": 5266622231
+  },
+  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5371350570-lego-71043-castello-di-hogwarts-nuovo-harry-potter",
     "price": 404.95,
     "title": "LEGO 71043 Castello di Hogwarts nuovo Harry Potter",
@@ -168,6 +189,7 @@
     "id": 5371350570
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4931363532-lego-harry-potter-suelto",
     "price": 74.2,
     "title": "Lego Harry Potter suelto",
@@ -176,6 +198,7 @@
     "id": 4931363532
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/1084019698-lego-cuadro-sticker-71043",
     "price": 2.8,
     "title": "Lego cuadro sticker 71043\n\n",
@@ -184,6 +207,7 @@
     "id": 1084019698
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5376944805-lego-71043-castello-di-hogwarts-nuovo-sigillato",
     "price": 462.7,
     "title": "Lego 71043 Castello di Hogwarts nuovo, sigillato",
@@ -192,14 +216,7 @@
     "id": 5376944805
   },
   {
-    "link": "https://www.vinted.fr/items/5143148768-chateau-legos-harry-potter",
-    "price": 368.2,
-    "title": "Château legos Harry Potter",
-    "imgUrl": "https://images1.vinted.net/t/01_00597_JNdMCp8mgZiz4LzW6SbdKh7a/f800/1727809995.jpeg?s=d413ad97062b9ef95703f11bb8e3ec92eceeb4d1",
-    "publicationDate": 1727809995,
-    "id": 5143148768
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5105062857-lego-harry-potter-71043-chateau-de-poudlard",
     "price": 473.2,
     "title": "LEGO Harry Potter 71043 château de Poudlard",
@@ -208,6 +225,7 @@
     "id": 5105062857
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5081782884-lego-71043-harry-potter",
     "price": 399.7,
     "title": "Lego 71043 Harry Potter",
@@ -216,14 +234,16 @@
     "id": 5081782884
   },
   {
-    "link": "https://www.vinted.fr/items/5349203378-lego-71043-hogwarts-castle",
-    "price": 473.2,
-    "title": "Lego 71043 Hogwarts Castle",
-    "imgUrl": "https://images1.vinted.net/t/04_00bac_cobDsKFBmLAXBqSWSKapS9v7/f800/1731088496.jpeg?s=6110afc443b0c3a6ec9115fb886598d77c615f05",
-    "publicationDate": 1731088496,
-    "id": 5349203378
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/5143148768-chateau-legos-harry-potter",
+    "price": 368.2,
+    "title": "Château legos Harry Potter",
+    "imgUrl": "https://images1.vinted.net/t/01_00597_JNdMCp8mgZiz4LzW6SbdKh7a/f800/1727809995.jpeg?s=d413ad97062b9ef95703f11bb8e3ec92eceeb4d1",
+    "publicationDate": 1727809995,
+    "id": 5143148768
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5167787699-lego-castello-harry-potter-71043",
     "price": 368.2,
     "title": "Lego Castello Harry Potter 71043",
@@ -232,6 +252,16 @@
     "id": 5167787699
   },
   {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/5349203378-lego-71043-hogwarts-castle",
+    "price": 473.2,
+    "title": "Lego 71043 Hogwarts Castle",
+    "imgUrl": "https://images1.vinted.net/t/04_00bac_cobDsKFBmLAXBqSWSKapS9v7/f800/1731088496.jpeg?s=6110afc443b0c3a6ec9115fb886598d77c615f05",
+    "publicationDate": 1731088496,
+    "id": 5349203378
+  },
+  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4869041509-set-71043-harry-potter",
     "price": 31.15,
     "title": "Set 71043 Harry Potter",
@@ -240,6 +270,7 @@
     "id": 4869041509
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5379107614-lego-71043-harry-potter-schloss-hogwarts",
     "price": 452.2,
     "title": "Lego 71043 Harry Potter Schloss Hogwarts",
@@ -248,14 +279,7 @@
     "id": 5379107614
   },
   {
-    "link": "https://www.vinted.fr/items/5382253027-lego-super-mario-nintendo-ref-71374-scelle",
-    "price": 226.45,
-    "title": "Lego Super Mario Nintendo réf 71374 - Scellé",
-    "imgUrl": "https://images1.vinted.net/t/04_00188_r1JcdKTNYYyLEnQ3yJfHYiD5/f800/1731598303.jpeg?s=439acc9b1f64cb12a77e296deb3d3948a7ba9546",
-    "publicationDate": 1731598303,
-    "id": 5382253027
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5044464441-lego-helga-tassorosso-hp160-71043-castello-di-hogwarts-harry-potter-minifigure",
     "price": 42.7,
     "title": "LEGO Helga Tassorosso hp160 - 71043 Castello di Hogwarts Harry Potter Minifigure",
@@ -264,6 +288,16 @@
     "id": 5044464441
   },
   {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/5382253027-lego-super-mario-nintendo-ref-71374-scelle",
+    "price": 226.45,
+    "title": "Lego Super Mario Nintendo réf 71374 - Scellé",
+    "imgUrl": "https://images1.vinted.net/t/04_00188_r1JcdKTNYYyLEnQ3yJfHYiD5/f800/1731598303.jpeg?s=439acc9b1f64cb12a77e296deb3d3948a7ba9546",
+    "publicationDate": 1731598303,
+    "id": 5382253027
+  },
+  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5380422590-lego-71043-hogwarts-castle-harry-potter-nuovo",
     "price": 399.7,
     "title": "Lego 71043 Hogwarts castle harry potter nuovo",
@@ -272,6 +306,7 @@
     "id": 5380422590
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5141626783-lego-harry-potter-schloss-hogwarts-71043",
     "price": 315.7,
     "title": "Lego Harry Potter Schloss Hogwarts, 71043",
@@ -280,6 +315,7 @@
     "id": 5141626783
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5256533488-lego-chateau-harry-potter-71043",
     "price": 663,
     "title": "Lego château Harry Potter 71043",
@@ -288,14 +324,7 @@
     "id": 5256533488
   },
   {
-    "link": "https://www.vinted.fr/items/5398450113-lego-chateau-poudlard-71043",
-    "price": 336.7,
-    "title": "Lego château Poudlard 71043",
-    "imgUrl": "https://images1.vinted.net/t/01_01f61_o66gJhvyiNnFzBfEHbDYk2TC/f800/1731856070.jpeg?s=5c26e6aef58a79a8e4d7f661b589333ae08bd515",
-    "publicationDate": 1731856070,
-    "id": 5398450113
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/2046659678-lot-x2-cone-gris-bleute-fonce-1x1-avec-rainure-superieure-4589b-piece-detachee-lego-a14",
     "price": 1.75,
     "title": "lot x2 Cône gris bleuté foncé 1x1 avec rainure supérieure 4589b pièce détachée Lego #A14",
@@ -304,6 +333,7 @@
     "id": 2046659678
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5309661106-lego-71043-schloss-hogwarts-neu-ovp",
     "price": 420.7,
     "title": "LEGO 71043 Schloß Hogwarts neu & ovp.",
@@ -312,14 +342,7 @@
     "id": 5309661106
   },
   {
-    "link": "https://www.vinted.fr/items/2761054619-lot-x2-plume-triple-compact-64647-trans-neon-orange-piece-detachee-lego-b35",
-    "price": 2.17,
-    "title": "Lot x2 Plume Triple Compact 64647 trans-néon orange pièce détachée Lego #B35",
-    "imgUrl": "https://images1.vinted.net/t/03_001d3_4iw5h7q6DaBREWWXCXaqNDTY/f800/1678136350.jpeg?s=848ddbf5cdcf80111958df9f136349fce456bf32",
-    "publicationDate": 1678136350,
-    "id": 2761054619
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/2761218369-lot-x2-plaque-plate-2x2-ronde-tan-avec-trou-pour-axe-4140562-piece-detachee-lego-b35",
     "price": 1.96,
     "title": "lot x2 Plaque plate 2x2 ronde tan avec trou pour axe 4140562 pièce détachée Lego #B35",
@@ -328,14 +351,7 @@
     "id": 2761218369
   },
   {
-    "link": "https://www.vinted.fr/items/3917456882-lego-harry-potter-71043-hogwarts-castle",
-    "price": 315.7,
-    "title": "Lego Harry Potter 71043 Hogwarts Castle ",
-    "imgUrl": "https://images1.vinted.net/t/03_003dd_4LKUS3EZKvK1ky4UVAmkBqRn/f800/1703845206.jpeg?s=7678059b3e2271de6335eb1f5ed6e463f7936246",
-    "publicationDate": 1703845206,
-    "id": 3917456882
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/516846792-lego-harry-potter-71043-new-unopened",
     "price": 969,
     "title": "Lego Harry Potter 71043 new unopened ",
@@ -344,6 +360,7 @@
     "id": 516846792
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5015398280-lego-hogwarts-schloss-71043-mit-ovp",
     "price": 347.2,
     "title": "Lego Hogwarts Schloss 71043 mit OVP",
@@ -352,6 +369,25 @@
     "id": 5015398280
   },
   {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/3917456882-lego-harry-potter-71043-hogwarts-castle",
+    "price": 315.7,
+    "title": "Lego Harry Potter 71043 Hogwarts Castle ",
+    "imgUrl": "https://images1.vinted.net/t/03_003dd_4LKUS3EZKvK1ky4UVAmkBqRn/f800/1703845206.jpeg?s=7678059b3e2271de6335eb1f5ed6e463f7936246",
+    "publicationDate": 1703845206,
+    "id": 3917456882
+  },
+  {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/2761054619-lot-x2-plume-triple-compact-64647-trans-neon-orange-piece-detachee-lego-b35",
+    "price": 2.17,
+    "title": "Lot x2 Plume Triple Compact 64647 trans-néon orange pièce détachée Lego #B35",
+    "imgUrl": "https://images1.vinted.net/t/03_001d3_4iw5h7q6DaBREWWXCXaqNDTY/f800/1678136350.jpeg?s=848ddbf5cdcf80111958df9f136349fce456bf32",
+    "publicationDate": 1678136350,
+    "id": 2761054619
+  },
+  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/3236739060-chateau-harry-potter-lego",
     "price": 341.95,
     "title": "Château Harry Potter lego",
@@ -360,22 +396,7 @@
     "id": 3236739060
   },
   {
-    "link": "https://www.vinted.fr/items/5028507111-71043-lego-harry-potter-hogwarts-castle",
-    "price": 359.8,
-    "title": "71043 LEGO Harry Potter Hogwarts Castle",
-    "imgUrl": "https://images1.vinted.net/t/02_00467_TBK4EFS8UPuMvK4RGbg5gXTs/f800/1726126880.jpeg?s=a1809c623810d6f30993ff588d313fbe9b526206",
-    "publicationDate": 1726126880,
-    "id": 5028507111
-  },
-  {
-    "link": "https://www.vinted.fr/items/2536335321-lego-harry-potter-76399-neuf-malle-magique-de-poudlard",
-    "price": 68.85,
-    "title": "Lego Harry Potter 76399 neuf Malle magique de Poudlard",
-    "imgUrl": "https://images1.vinted.net/t/02_00c96_PHxALAELAQFnaSwQdtF7CLA5/f800/1672148115.jpeg?s=bed4ea26916d32c1f6c10be81bf961540cc44273",
-    "publicationDate": 1672148115,
-    "id": 2536335321
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4710552809-71043-le-chateau-de-poudlard-lego",
     "price": 368.2,
     "title": "71043 Le château de Poudlard lego",
@@ -384,14 +405,7 @@
     "id": 4710552809
   },
   {
-    "link": "https://www.vinted.fr/items/4530557085-lego-harry-potter-les-quatre-fondateurs-set-71043",
-    "price": 157.15,
-    "title": "Lego Harry Potter les quatre fondateurs set 71043",
-    "imgUrl": "https://images1.vinted.net/t/01_0197d_xSPLWAHxmQzj74pvJNkS4Q5M/f800/1716214371.jpeg?s=f3c09ef6fc2cc334668ca293804cb2abaa6e032a",
-    "publicationDate": 1716214371,
-    "id": 4530557085
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4075475843-lego-castello-di-hogwarts-71043",
     "price": 326.2,
     "title": "Lego castello di Hogwarts 71043",
@@ -400,6 +414,16 @@
     "id": 4075475843
   },
   {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/4530557085-lego-harry-potter-les-quatre-fondateurs-set-71043",
+    "price": 157.15,
+    "title": "Lego Harry Potter les quatre fondateurs set 71043",
+    "imgUrl": "https://images1.vinted.net/t/01_0197d_xSPLWAHxmQzj74pvJNkS4Q5M/f800/1716214371.jpeg?s=f3c09ef6fc2cc334668ca293804cb2abaa6e032a",
+    "publicationDate": 1716214371,
+    "id": 4530557085
+  },
+  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/2881083534-lot-x2-piece-plate-1x1-jaune-transparente-3024-piece-detachee-lego-a49",
     "price": 1.75,
     "title": "Lot x2 pièce plate 1x1 jaune transparente 3024 pièce détachée Lego #A49",
@@ -408,22 +432,7 @@
     "id": 2881083534
   },
   {
-    "link": "https://www.vinted.fr/items/5037384362-harry-potter-lego-71043-poudlard",
-    "price": 436.45,
-    "title": "Harry Potter - Lego 71043 - Poudlard",
-    "imgUrl": "https://images1.vinted.net/t/03_01e91_PN7DEAMqkwkBaJ4YNnPY5qba/f800/1726247313.jpeg?s=cdfb4f6fa1764529c143a0dca5800e74d0114d91",
-    "publicationDate": 1726247313,
-    "id": 5037384362
-  },
-  {
-    "link": "https://www.vinted.fr/items/4724647567-lego-castello-di-hogwarts-71043-harry-potter",
-    "price": 378.7,
-    "title": "LEGO / Castello di Hogwarts 71043 / Harry Potter",
-    "imgUrl": "https://images1.vinted.net/t/01_01a6e_RmTqfNmXrojxDFBgB8HdpqMP/f800/1720124692.jpeg?s=52cfffdfa1d311ecb5d74136fc469de5d814172e",
-    "publicationDate": 1720124692,
-    "id": 4724647567
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5182306354-occasione-set-lego-71043-hogwarts-castle",
     "price": 356.65,
     "title": "Occasione: Set LEGO 71043 Hogwarts Castle",
@@ -432,6 +441,43 @@
     "id": 5182306354
   },
   {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/5037384362-harry-potter-lego-71043-poudlard",
+    "price": 436.45,
+    "title": "Harry Potter - Lego 71043 - Poudlard",
+    "imgUrl": "https://images1.vinted.net/t/03_01e91_PN7DEAMqkwkBaJ4YNnPY5qba/f800/1726247313.jpeg?s=cdfb4f6fa1764529c143a0dca5800e74d0114d91",
+    "publicationDate": 1726247313,
+    "id": 5037384362
+  },
+  {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/4724647567-lego-castello-di-hogwarts-71043-harry-potter",
+    "price": 378.7,
+    "title": "LEGO / Castello di Hogwarts 71043 / Harry Potter",
+    "imgUrl": "https://images1.vinted.net/t/01_01a6e_RmTqfNmXrojxDFBgB8HdpqMP/f800/1720124692.jpeg?s=52cfffdfa1d311ecb5d74136fc469de5d814172e",
+    "publicationDate": 1720124692,
+    "id": 4724647567
+  },
+  {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/2536335321-lego-harry-potter-76399-neuf-malle-magique-de-poudlard",
+    "price": 68.85,
+    "title": "Lego Harry Potter 76399 neuf Malle magique de Poudlard",
+    "imgUrl": "https://images1.vinted.net/t/02_00c96_PHxALAELAQFnaSwQdtF7CLA5/f800/1672148115.jpeg?s=bed4ea26916d32c1f6c10be81bf961540cc44273",
+    "publicationDate": 1672148115,
+    "id": 2536335321
+  },
+  {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/5028507111-71043-lego-harry-potter-hogwarts-castle",
+    "price": 359.8,
+    "title": "71043 LEGO Harry Potter Hogwarts Castle",
+    "imgUrl": "https://images1.vinted.net/t/02_00467_TBK4EFS8UPuMvK4RGbg5gXTs/f800/1726126880.jpeg?s=a1809c623810d6f30993ff588d313fbe9b526206",
+    "publicationDate": 1726126880,
+    "id": 5028507111
+  },
+  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/2761207107-lot-x2-brique-2x2-avec-goupille-et-trou-dessieu-gris-bleute-fonce-6232-piece-detachee-lego-b35",
     "price": 1.96,
     "title": "Lot x2 Brique 2x2 avec goupille et trou d'essieu gris bleuté foncé 6232 pièce détachée Lego #B35",
@@ -440,22 +486,7 @@
     "id": 2761207107
   },
   {
-    "link": "https://www.vinted.fr/items/3808076329-hogwarts-lego-71043",
-    "price": 315.7,
-    "title": "Hogwarts Lego 71043",
-    "imgUrl": "https://images1.vinted.net/t/03_026c9_69dZJeBwfTJWwD1A7zB9vkRW/f800/1700931677.jpeg?s=576ad6b6ce29ee43d1d60b6dc83f3c209f732774",
-    "publicationDate": 1700931677,
-    "id": 3808076329
-  },
-  {
-    "link": "https://www.vinted.fr/items/5176619123-lego-71043",
-    "price": 419.65,
-    "title": "Lego 71043",
-    "imgUrl": "https://images1.vinted.net/t/02_019cb_9paeXipTKuDzJe6H5r5D1BV2/f800/1728309411.jpeg?s=63523c62a75f198ecc7d48f09a50c39ac9cac056",
-    "publicationDate": 1728309411,
-    "id": 5176619123
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/3904145429-lego-castelo-hogwarts-harry-potter",
     "price": 494.2,
     "title": "Lego Castelo Hogwarts Harry Potter",
@@ -464,14 +495,16 @@
     "id": 3904145429
   },
   {
-    "link": "https://www.vinted.fr/items/4286876182-71043-lego-castello-harry-potter",
-    "price": 399.7,
-    "title": "71043 lego castello Harry potter",
-    "imgUrl": "https://images1.vinted.net/t/03_00a2d_A1KkyvL52n8RmUtEpCWoKitw/f800/1711700487.jpeg?s=32f1a9b360ba2fe8eb462ca532be7ad7fcbf1dc0",
-    "publicationDate": 1711700487,
-    "id": 4286876182
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/5176619123-lego-71043",
+    "price": 419.65,
+    "title": "Lego 71043",
+    "imgUrl": "https://images1.vinted.net/t/02_019cb_9paeXipTKuDzJe6H5r5D1BV2/f800/1728309411.jpeg?s=63523c62a75f198ecc7d48f09a50c39ac9cac056",
+    "publicationDate": 1728309411,
+    "id": 5176619123
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/3753137514-hogwarts-castle-lego-71043",
     "price": 368.2,
     "title": "Hogwarts Castle Lego, 71043",
@@ -480,6 +513,25 @@
     "id": 3753137514
   },
   {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/4286876182-71043-lego-castello-harry-potter",
+    "price": 399.7,
+    "title": "71043 lego castello Harry potter",
+    "imgUrl": "https://images1.vinted.net/t/03_00a2d_A1KkyvL52n8RmUtEpCWoKitw/f800/1711700487.jpeg?s=32f1a9b360ba2fe8eb462ca532be7ad7fcbf1dc0",
+    "publicationDate": 1711700487,
+    "id": 4286876182
+  },
+  {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/3808076329-hogwarts-lego-71043",
+    "price": 315.7,
+    "title": "Hogwarts Lego 71043",
+    "imgUrl": "https://images1.vinted.net/t/03_026c9_69dZJeBwfTJWwD1A7zB9vkRW/f800/1700931677.jpeg?s=576ad6b6ce29ee43d1d60b6dc83f3c209f732774",
+    "publicationDate": 1700931677,
+    "id": 3808076329
+  },
+  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5128333458-lego-71043-castello-di-hogwarts-harry-potter",
     "price": 388.15,
     "title": "Lego 71043 Castello di Hogwarts Harry Potter",
@@ -488,14 +540,7 @@
     "id": 5128333458
   },
   {
-    "link": "https://www.vinted.fr/items/2737888257-lego-hogwarts-castle-poudlard-harry-potter-71043",
-    "price": 510,
-    "title": "Lego Hogwarts Castle - Poudlard - Harry Potter - 71043 ",
-    "imgUrl": "https://images1.vinted.net/t/01_01ed8_Q9eCnNyBrEfHgsiVqsSMeCyF/f800/1677583124.jpeg?s=30f0760751a8a947f211ad3bf6db2ab2eb8a3bf8",
-    "publicationDate": 1677583124,
-    "id": 2737888257
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4415157644-lego-71043-harry-potter-castelo-de-hogwarts-6020-pecas",
     "price": 410.2,
     "title": "Lego 71043 Harry Potter Castelo de Hogwarts (6020 Peças)",
@@ -504,14 +549,16 @@
     "id": 4415157644
   },
   {
-    "link": "https://www.vinted.fr/items/4942994007-lego-harry-potter-schloss-hogwarts-71043",
-    "price": 473.2,
-    "title": "LEGO Harry Potter Schloss Hogwarts (71043)",
-    "imgUrl": "https://images1.vinted.net/t/02_023fb_k8cVdQo3QmYgAComPKwHkFJN/f800/1724686354.jpeg?s=defbe96f79f62a96531f3ba9e37a2eeb8714e84f",
-    "publicationDate": 1724686354,
-    "id": 4942994007
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/2737888257-lego-hogwarts-castle-poudlard-harry-potter-71043",
+    "price": 510,
+    "title": "Lego Hogwarts Castle - Poudlard - Harry Potter - 71043 ",
+    "imgUrl": "https://images1.vinted.net/t/01_01ed8_Q9eCnNyBrEfHgsiVqsSMeCyF/f800/1677583124.jpeg?s=30f0760751a8a947f211ad3bf6db2ab2eb8a3bf8",
+    "publicationDate": 1677583124,
+    "id": 2737888257
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/3322379065-lego-71043-harry-potter-chateau",
     "price": 368.2,
     "title": "Lego 71043 Harry Potter chateau",
@@ -520,6 +567,7 @@
     "id": 3322379065
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4755928526-lego-harry-potter-castel-71043",
     "price": 399.7,
     "title": "Lego Harry Potter Castel 71043",
@@ -528,6 +576,16 @@
     "id": 4755928526
   },
   {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/4942994007-lego-harry-potter-schloss-hogwarts-71043",
+    "price": 473.2,
+    "title": "LEGO Harry Potter Schloss Hogwarts (71043)",
+    "imgUrl": "https://images1.vinted.net/t/02_023fb_k8cVdQo3QmYgAComPKwHkFJN/f800/1724686354.jpeg?s=defbe96f79f62a96531f3ba9e37a2eeb8714e84f",
+    "publicationDate": 1724686354,
+    "id": 4942994007
+  },
+  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/2526659130-lego-71043-castello-di-hogwarts-hp-misb",
     "price": 510,
     "title": "LEGO 71043 - Castello di Hogwarts HP - MISB",
@@ -536,6 +594,7 @@
     "id": 2526659130
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4449596702-lego-harry-potter-hogwarts-castle-71043",
     "price": 451.15,
     "title": "LEGO Harry Potter Hogwarts Castle 71043",
@@ -544,6 +603,7 @@
     "id": 4449596702
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4766015109-lego-71043-hogwarts-castle-castello-harry-potter",
     "price": 420.7,
     "title": "Lego 71043 Hogwarts Castle / Castello - Harry Potter",
@@ -552,6 +612,7 @@
     "id": 4766015109
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/3117191397-lego-castello-herry-potter-nuovo-71043",
     "price": 419.65,
     "title": "Lego castello herry potter nuovo 71043",
@@ -560,6 +621,7 @@
     "id": 3117191397
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4560137243-lego-harry-potter-castello-di-hogwarts-71043-misb",
     "price": 410.2,
     "title": "Lego Harry Potter Castello di Hogwarts 71043 MISB",
@@ -568,6 +630,7 @@
     "id": 4560137243
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/5007421465-lego-71043-hogwarts-castle",
     "price": 399.7,
     "title": "Lego 71043 Hogwarts Castle",
@@ -576,14 +639,7 @@
     "id": 5007421465
   },
   {
-    "link": "https://www.vinted.fr/items/3968024670-lego-harry-potter-71043",
-    "price": 420.7,
-    "title": "Lego Harry Potter 71043",
-    "imgUrl": "https://images1.vinted.net/t/01_0268c_sJZuwza2Kd2Tza6kMjKvnCZ3/f800/1705042921.jpeg?s=af1e7be0e7883e788b552a67f5a79d62ff9595d7",
-    "publicationDate": 1705042921,
-    "id": 3968024670
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4483323166-lego-71043-harry-potter",
     "price": 441.7,
     "title": "Lego 71043 harry potter",
@@ -592,6 +648,7 @@
     "id": 4483323166
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4885418285-lego-technic-42054",
     "price": 399.7,
     "title": "Lego Technic 42054",
@@ -600,6 +657,7 @@
     "id": 4885418285
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4259432942-lego-71043-harry-potter-hogwarts-castle",
     "price": 399.7,
     "title": "Lego 71043 Harry Potter Hogwarts Castle",
@@ -608,14 +666,7 @@
     "id": 4259432942
   },
   {
-    "link": "https://www.vinted.fr/items/5173269273-lego-71043-castello-di-hogwarts",
-    "price": 420.7,
-    "title": "Lego 71043 castello di Hogwarts",
-    "imgUrl": "https://images1.vinted.net/t/02_00775_dod6fCrcpbBmvZJFtsZ6cMyP/f800/1728245094.jpeg?s=05bcda88c7e87df9d06ff9a3edd99aaee03a1b8e",
-    "publicationDate": 1728245094,
-    "id": 5173269273
-  },
-  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4278609494-lego-71043-harry-potter-schloss-hogwarts",
     "price": 473.2,
     "title": "Lego 71043, Harry Potter,  Schloss Hogwarts",
@@ -624,6 +675,16 @@
     "id": 4278609494
   },
   {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/5173269273-lego-71043-castello-di-hogwarts",
+    "price": 420.7,
+    "title": "Lego 71043 castello di Hogwarts",
+    "imgUrl": "https://images1.vinted.net/t/02_00775_dod6fCrcpbBmvZJFtsZ6cMyP/f800/1728245094.jpeg?s=05bcda88c7e87df9d06ff9a3edd99aaee03a1b8e",
+    "publicationDate": 1728245094,
+    "id": 5173269273
+  },
+  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/3439869438-lego-71043",
     "price": 431.2,
     "title": "Lego 71043",
@@ -632,6 +693,7 @@
     "id": 3439869438
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4844585590-lego-71043-hogwarts-castle-castello-di-hogwarts-nuovo-misb",
     "price": 452.2,
     "title": "LEGO 71043 Hogwarts Castle Castello di Hogwarts nuovo misb",
@@ -640,6 +702,7 @@
     "id": 4844585590
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/2307195952-lego-castello-di-hogwarts",
     "price": 410.2,
     "title": "LEGO Castello di Hogwarts",
@@ -648,6 +711,7 @@
     "id": 2307195952
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4635887392-lego-71043-harry-potter-hogwarts-schlossschule",
     "price": 404.95,
     "title": "Lego 71043 Harry Potter Hogwarts Schloss/Schule",
@@ -656,6 +720,7 @@
     "id": 4635887392
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/3753455593-lego-castello-di-hogwarts-harry-potter-71043",
     "price": 431.2,
     "title": "Lego Castello di Hogwarts Harry Potter 71043",
@@ -664,6 +729,7 @@
     "id": 3753455593
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/4961384345-lego-set-n71043-castello-di-hogwarts-harry-potter",
     "price": 409.15,
     "title": "Lego set n.71043 (Castello di Hogwarts Harry Potter)",
@@ -672,6 +738,16 @@
     "id": 4961384345
   },
   {
+    "legoId": "71043",
+    "link": "https://www.vinted.fr/items/3968024670-lego-harry-potter-71043",
+    "price": 420.7,
+    "title": "Lego Harry Potter 71043",
+    "imgUrl": "https://images1.vinted.net/t/01_0268c_sJZuwza2Kd2Tza6kMjKvnCZ3/f800/1705042921.jpeg?s=af1e7be0e7883e788b552a67f5a79d62ff9595d7",
+    "publicationDate": 1705042921,
+    "id": 3968024670
+  },
+  {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/3768156812-lego-71043-harry-potter-hogwarts-castle-novoselado",
     "price": 441.7,
     "title": "Lego 71043 Harry Potter Hogwarts Castle novo/selado",
@@ -680,6 +756,7 @@
     "id": 3768156812
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/2383648522-71043-hogwarts-castle-novo",
     "price": 441.7,
     "title": "71043 - Hogwarts Castle - Novo!",
@@ -688,6 +765,7 @@
     "id": 2383648522
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/2493849615-lego-71043-castello-di-hogwards-con-brownbox",
     "price": 441.7,
     "title": "LEGO 71043 castello di hogwards con brownbox ",
@@ -696,6 +774,7 @@
     "id": 2493849615
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/3433245764-lego-71043-hogwarts-schloss-castle-neu-versiegelt",
     "price": 461.65,
     "title": "Lego 71043 Hogwarts Schloss (Castle) Neu & Versiegelt",
@@ -704,6 +783,7 @@
     "id": 3433245764
   },
   {
+    "legoId": "71043",
     "link": "https://www.vinted.fr/items/1428627874-lego-harry-potter-71043-castello-hogwarts-originale-sigillato-ottima-idea-regalo-misb",
     "price": 525.69,
     "title": "Lego Harry Potter - 71043 - Castello Hogwarts - Originale - Sigillato - Ottima Idea Regalo - MISB",

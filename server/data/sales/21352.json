@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "21352",
     "link": "https://www.vinted.fr/items/5396703081-lego-disney-petite-sirene-21352",
     "price": 5.95,
     "title": "Lego Disney petite sirène 21352",
@@ -8,22 +9,16 @@
     "id": 5396703081
   },
   {
+    "legoId": "21352",
     "link": "https://www.vinted.fr/items/5396648552-lego-disney-encanto-21352",
-    "price": 19.6,
+    "price": 21.7,
     "title": "Lego Disney Encanto 21352",
     "imgUrl": "https://images1.vinted.net/t/02_008a2_oS2j6QPhWD8PjuxcWcsMYiNm/f800/1731846160.jpeg?s=cc73735e63022309c108a98454d9c1a989388a74",
     "publicationDate": 1731846160,
     "id": 5396648552
   },
   {
-    "link": "https://www.vinted.fr/items/5396739214-mickey-lego-disney-21352",
-    "price": 25.9,
-    "title": "Mickey lego Disney 21352",
-    "imgUrl": "https://images1.vinted.net/t/02_018d9_MbLXmR3RitaiK6zz2ed4Uvf7/f800/1731864554.jpeg?s=026dd87aff38325e7ee44972fb6da9a78c2bc295",
-    "publicationDate": 1731864554,
-    "id": 5396739214
-  },
-  {
+    "legoId": "21352",
     "link": "https://www.vinted.fr/items/5323808019-lego-minifigure-disney-del-set-magic-of-disney",
     "price": 3.33,
     "title": "Lego minifigure Disney del set magic of Disney",
@@ -32,22 +27,25 @@
     "id": 5323808019
   },
   {
+    "legoId": "21352",
     "link": "https://www.vinted.fr/items/5396678287-lego-simba-roi-lion-disney-21352",
-    "price": 19.6,
+    "price": 21.7,
     "title": "Lego simba roi lion Disney 21352",
     "imgUrl": "https://images1.vinted.net/t/03_02698_EDKzXnTiL8Vc1L2hLqv35shB/f800/1731846338.jpeg?s=045db1f4dcba2f4c0919019f76c6a17935d48c0a",
     "publicationDate": 1731846338,
     "id": 5396678287
   },
   {
-    "link": "https://www.vinted.fr/items/5396664631-lego-magic-of-disney-belle-et-bete",
-    "price": 26.95,
-    "title": "Lego Magic of Disney belle et bête",
-    "imgUrl": "https://images1.vinted.net/t/04_00929_9jXLECJY454eF63kYJTDa25n/f800/1731846256.jpeg?s=29e841a03b27d205cd0a0a858ce570a4685c88ba",
-    "publicationDate": 1731846256,
-    "id": 5396664631
+    "legoId": "21352",
+    "link": "https://www.vinted.fr/items/5396739214-mickey-lego-disney-21352",
+    "price": 32.2,
+    "title": "Mickey lego Disney 21352",
+    "imgUrl": "https://images1.vinted.net/t/02_018d9_MbLXmR3RitaiK6zz2ed4Uvf7/f800/1731864554.jpeg?s=026dd87aff38325e7ee44972fb6da9a78c2bc295",
+    "publicationDate": 1731864554,
+    "id": 5396739214
   },
   {
+    "legoId": "21352",
     "link": "https://www.vinted.fr/items/5396716242-geppeto-figurine-lego-disney-21352",
     "price": 32.2,
     "title": "Geppeto figurine lego Disney 21352",
@@ -56,22 +54,16 @@
     "id": 5396716242
   },
   {
-    "link": "https://www.vinted.fr/items/5396689939-lego-lilo-stitch-disney-21352",
-    "price": 11.2,
-    "title": "Lego Lilo stitch Disney 21352",
-    "imgUrl": "https://images1.vinted.net/t/01_026b9_8Z6sEwibYK5P8wPaN9ZxZDBn/f800/1731846408.jpeg?s=e95d5b98e4cfcefd6e7f6d3365b759862fb91ee2",
-    "publicationDate": 1731846408,
-    "id": 5396689939
+    "legoId": "21352",
+    "link": "https://www.vinted.fr/items/5396664631-lego-magic-of-disney-belle-et-bete",
+    "price": 26.95,
+    "title": "Lego Magic of Disney belle et bête",
+    "imgUrl": "https://images1.vinted.net/t/04_00929_9jXLECJY454eF63kYJTDa25n/f800/1731846256.jpeg?s=29e841a03b27d205cd0a0a858ce570a4685c88ba",
+    "publicationDate": 1731846256,
+    "id": 5396664631
   },
   {
-    "link": "https://www.vinted.fr/items/5323796985-lego-minifigure-disney-del-set-magic-of-disney",
-    "price": 3.33,
-    "title": "Lego minifigure Disney del set magic of Disney",
-    "imgUrl": "https://images1.vinted.net/t/03_00198_pDyS8oAJ8Gbjp95wSz24oFxo/f800/1730646676.jpeg?s=165ff7f28d9973786c9addc87f0a390f6fb52f97",
-    "publicationDate": 1730646676,
-    "id": 5323796985
-  },
-  {
+    "legoId": "21352",
     "link": "https://www.vinted.fr/items/5322826932-lego-minifigure-disney-del-set-magic-of-disney-re-leone",
     "price": 17.5,
     "title": "Lego minifigure Disney del set magic of Disney  re leone",
@@ -80,6 +72,25 @@
     "id": 5322826932
   },
   {
+    "legoId": "21352",
+    "link": "https://www.vinted.fr/items/5323796985-lego-minifigure-disney-del-set-magic-of-disney",
+    "price": 3.33,
+    "title": "Lego minifigure Disney del set magic of Disney",
+    "imgUrl": "https://images1.vinted.net/t/03_00198_pDyS8oAJ8Gbjp95wSz24oFxo/f800/1730646676.jpeg?s=165ff7f28d9973786c9addc87f0a390f6fb52f97",
+    "publicationDate": 1730646676,
+    "id": 5323796985
+  },
+  {
+    "legoId": "21352",
+    "link": "https://www.vinted.fr/items/5396689939-lego-lilo-stitch-disney-21352",
+    "price": 16.45,
+    "title": "Lego Lilo stitch Disney 21352",
+    "imgUrl": "https://images1.vinted.net/t/01_026b9_8Z6sEwibYK5P8wPaN9ZxZDBn/f800/1731846408.jpeg?s=e95d5b98e4cfcefd6e7f6d3365b759862fb91ee2",
+    "publicationDate": 1731846408,
+    "id": 5396689939
+  },
+  {
+    "legoId": "21352",
     "link": "https://www.vinted.fr/items/5214577639-lego-ideas-21352-magic-of-disney-sans-personnages",
     "price": 47.95,
     "title": "Lego ideas 21352 Magic of Disney SANS personnages",
@@ -88,6 +99,7 @@
     "id": 5214577639
   },
   {
+    "legoId": "21352",
     "link": "https://www.vinted.fr/items/5322814990-lego-minifigure-disney-del-set-magic-of-disney",
     "price": 17.5,
     "title": "Lego minifigure Disney del set magic of Disney",
@@ -96,6 +108,7 @@
     "id": 5322814990
   },
   {
+    "legoId": "21352",
     "link": "https://www.vinted.fr/items/5277609958-lego-magic-of-disney-21352",
     "price": 89.95,
     "title": "Lego Magic of Disney 21352",
@@ -104,6 +117,7 @@
     "id": 5277609958
   },
   {
+    "legoId": "21352",
     "link": "https://www.vinted.fr/items/5229279279-lego-magic-of-disney-21352-neuf",
     "price": 95.2,
     "title": "Lego magic of disney 21352 neuf",
@@ -112,6 +126,7 @@
     "id": 5229279279
   },
   {
+    "legoId": "21352",
     "link": "https://www.vinted.fr/items/5101344084-lego-ideas-mickey-mouse-21352-magic-of-disney-with-encanto-bruno",
     "price": 105.7,
     "title": "Lego Ideas Mickey Mouse 21352: Magic of Disney With Encanto Bruno",

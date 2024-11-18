@@ -1,13 +1,6 @@
 [
   {
-    "link": "https://www.vinted.fr/items/4631255075-istruzione-set-lego-75387",
-    "price": 1.75,
-    "title": "Istruzione set Lego 75387",
-    "imgUrl": "https://images1.vinted.net/t/02_022e0_x9ikZWDojbScLwbLKGnWMKYU/f800/1718171234.jpeg?s=b7dc0283f69d38280bd87409358fcc59d3117f5a",
-    "publicationDate": 1718171234,
-    "id": 4631255075
-  },
-  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5272641410-lego-75387-boarding-the-tantive-iv",
     "price": 32.2,
     "title": "Lego 75387 Boarding The Tantive IV",
@@ -16,14 +9,16 @@
     "id": 5272641410
   },
   {
-    "link": "https://www.vinted.fr/items/5140495825-lego-boarding-tantive-iv-75387-boite-vide-et-notice",
-    "price": 8.05,
-    "title": "Lego Boarding Tantive IV 75387 - boîte vide et notice",
-    "imgUrl": "https://images1.vinted.net/t/01_02428_Xue1rwudYXGG8V58zCYcxAQN/f800/1727785340.jpeg?s=a390c695f3a52e1927d720e560f06450ba27ad30",
-    "publicationDate": 1727785340,
-    "id": 5140495825
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4631255075-istruzione-set-lego-75387",
+    "price": 1.75,
+    "title": "Istruzione set Lego 75387",
+    "imgUrl": "https://images1.vinted.net/t/02_022e0_x9ikZWDojbScLwbLKGnWMKYU/f800/1718171234.jpeg?s=b7dc0283f69d38280bd87409358fcc59d3117f5a",
+    "publicationDate": 1718171234,
+    "id": 4631255075
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5364370812-vend-personnage-star-wars-lego",
     "price": 4.9,
     "title": "Vend personnage Star Wars lego",
@@ -32,6 +27,16 @@
     "id": 5364370812
   },
   {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5140495825-lego-boarding-tantive-iv-75387-boite-vide-et-notice",
+    "price": 8.05,
+    "title": "Lego Boarding Tantive IV 75387 - boîte vide et notice",
+    "imgUrl": "https://images1.vinted.net/t/01_02428_Xue1rwudYXGG8V58zCYcxAQN/f800/1727785340.jpeg?s=a390c695f3a52e1927d720e560f06450ba27ad30",
+    "publicationDate": 1727785340,
+    "id": 5140495825
+  },
+  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5350097099-lego-star-wars-set",
     "price": 21.7,
     "title": "Lego Star wars Set",
@@ -40,78 +45,7 @@
     "id": 5350097099
   },
   {
-    "link": "https://www.vinted.fr/items/4852013506-lego-stormtrooper",
-    "price": 4.9,
-    "title": "Lego Stormtrooper",
-    "imgUrl": "https://images1.vinted.net/t/01_0238a_6NLgxPVVZFuS8pW5P142yk3R/f800/1722882066.jpeg?s=10c229fdcf9f02fd0eea7e122d8dcfa8bd2e410f",
-    "publicationDate": 1722882066,
-    "id": 4852013506
-  },
-  {
-    "link": "https://www.vinted.fr/items/5336916099-lego-75387-star-wars-das-entern-der-tantive-iv",
-    "price": 25.9,
-    "title": "Lego 75387 Star Wars Das Entern der Tantive IV",
-    "imgUrl": "https://images1.vinted.net/t/03_02447_ytxMKyC73tJ4TT2i1RKyX4QK/f800/1730878117.jpeg?s=d290e9d190787581aee89f802d1d837744e4d698",
-    "publicationDate": 1730878117,
-    "id": 5336916099
-  },
-  {
-    "link": "https://www.vinted.fr/items/5277995509-lego-star-wars-set-75387-das-entern-der-tantive-iv",
-    "price": 32.2,
-    "title": "Lego Star Wars Set - 75387 -Das Entern der Tantive IV",
-    "imgUrl": "https://images1.vinted.net/t/01_0229a_gmKcRArmwdjbk6GDNP9ZgFXE/f800/1729921556.jpeg?s=bca13bc98ba5abc45c75d5eb1a3a6a42cbc1480c",
-    "publicationDate": 1729921556,
-    "id": 5277995509
-  },
-  {
-    "link": "https://www.vinted.fr/items/5270706112-minifig-lego-star-wars-arc-trooper-five-set-75387",
-    "price": 23.8,
-    "title": "Minifig Lego Star Wars Arc trooper five set 75387",
-    "imgUrl": "https://images1.vinted.net/t/02_01b2d_Coau5rvWFWN4Jyd1t3HcNJq7/f800/1729773877.jpeg?s=92201dae45f8c405c77c7daca8179e0853bdfbea",
-    "publicationDate": 1729773877,
-    "id": 5270706112
-  },
-  {
-    "link": "https://www.vinted.fr/items/4852004280-lego-stormtrooper",
-    "price": 4.9,
-    "title": "Lego Stormtrooper",
-    "imgUrl": "https://images1.vinted.net/t/03_00ab9_3oANY1gxeQKrL4AzwFFt8NqS/f800/1722881948.jpeg?s=c3faad8f294bbe2acc824e1d58974bdf0686eabb",
-    "publicationDate": 1722881948,
-    "id": 4852004280
-  },
-  {
-    "link": "https://www.vinted.fr/items/4954107126-lego-star-wars-75387-antilles-sw1328",
-    "price": 5.95,
-    "title": "Lego Star Wars 75387 Antilles sw1328",
-    "imgUrl": "https://images1.vinted.net/t/01_023e0_Yxi6su5cPV4RBiM2ukSWoBB4/f800/1724870760.jpeg?s=69c8cf74e3930e647b5e3eb59d3b6617a18a49ae",
-    "publicationDate": 1724870760,
-    "id": 4954107126
-  },
-  {
-    "link": "https://www.vinted.fr/items/5098042205-lego-star-wars-clone-arc-trooper-fives-501st-legion-sw1329",
-    "price": 23.8,
-    "title": "Lego Star Wars - Clone ARC Trooper Fives, 501st Legion - SW1329",
-    "imgUrl": "https://images1.vinted.net/t/03_00418_2JtBUkMEQCWZpgAar7JPRTyF/f800/1727158902.jpeg?s=5c1ea902717af71966387a48b02ff9ec81c21814",
-    "publicationDate": 1727158902,
-    "id": 5098042205
-  },
-  {
-    "link": "https://www.vinted.fr/items/5398034978-lego-75387",
-    "price": 42.69,
-    "title": "Lego 75387",
-    "imgUrl": "https://images1.vinted.net/t/04_021fd_p2PsfDp41PXfF5FqUznep1qv/f800/1731853882.jpeg?s=a910ceb5c06bbbb5f6056be24eb748ebf63170db",
-    "publicationDate": 1731853882,
-    "id": 5398034978
-  },
-  {
-    "link": "https://www.vinted.fr/items/5203487874-lego-star-wars-75387",
-    "price": 35.35,
-    "title": "Lego Star Wars 75387",
-    "imgUrl": "https://images1.vinted.net/t/03_014b6_AxZyBM2oyvvmvmw1evC22bM6/f800/1728741731.jpeg?s=d75238d9d30869592f14be9af25423568d9de6e9",
-    "publicationDate": 1728741731,
-    "id": 5203487874
-  },
-  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5404254272-lego-star-wars-sw1249-darth-vader-sw1328-antilles-sw1329-fives",
     "price": 26.95,
     "title": "Lego Star Wars SW1249 Darth Vader + SW1328 Antilles + SW1329 Fives",
@@ -120,6 +54,70 @@
     "id": 5404254272
   },
   {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5277995509-lego-star-wars-set-75387-das-entern-der-tantive-iv",
+    "price": 32.2,
+    "title": "Lego Star Wars Set - 75387 -Das Entern der Tantive IV",
+    "imgUrl": "https://images1.vinted.net/t/01_0229a_gmKcRArmwdjbk6GDNP9ZgFXE/f800/1729921556.jpeg?s=bca13bc98ba5abc45c75d5eb1a3a6a42cbc1480c",
+    "publicationDate": 1729921556,
+    "id": 5277995509
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4852013506-lego-stormtrooper",
+    "price": 4.9,
+    "title": "Lego Stormtrooper",
+    "imgUrl": "https://images1.vinted.net/t/01_0238a_6NLgxPVVZFuS8pW5P142yk3R/f800/1722882066.jpeg?s=10c229fdcf9f02fd0eea7e122d8dcfa8bd2e410f",
+    "publicationDate": 1722882066,
+    "id": 4852013506
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4852004280-lego-stormtrooper",
+    "price": 4.9,
+    "title": "Lego Stormtrooper",
+    "imgUrl": "https://images1.vinted.net/t/03_00ab9_3oANY1gxeQKrL4AzwFFt8NqS/f800/1722881948.jpeg?s=c3faad8f294bbe2acc824e1d58974bdf0686eabb",
+    "publicationDate": 1722881948,
+    "id": 4852004280
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5398034978-lego-75387",
+    "price": 42.69,
+    "title": "Lego 75387",
+    "imgUrl": "https://images1.vinted.net/t/04_021fd_p2PsfDp41PXfF5FqUznep1qv/f800/1731853882.jpeg?s=a910ceb5c06bbbb5f6056be24eb748ebf63170db",
+    "publicationDate": 1731853882,
+    "id": 5398034978
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5098042205-lego-star-wars-clone-arc-trooper-fives-501st-legion-sw1329",
+    "price": 23.8,
+    "title": "Lego Star Wars - Clone ARC Trooper Fives, 501st Legion - SW1329",
+    "imgUrl": "https://images1.vinted.net/t/03_00418_2JtBUkMEQCWZpgAar7JPRTyF/f800/1727158902.jpeg?s=5c1ea902717af71966387a48b02ff9ec81c21814",
+    "publicationDate": 1727158902,
+    "id": 5098042205
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5270706112-minifig-lego-star-wars-arc-trooper-five-set-75387",
+    "price": 23.8,
+    "title": "Minifig Lego Star Wars Arc trooper five set 75387",
+    "imgUrl": "https://images1.vinted.net/t/02_01b2d_Coau5rvWFWN4Jyd1t3HcNJq7/f800/1729773877.jpeg?s=92201dae45f8c405c77c7daca8179e0853bdfbea",
+    "publicationDate": 1729773877,
+    "id": 5270706112
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5203487874-lego-star-wars-75387",
+    "price": 35.35,
+    "title": "Lego Star Wars 75387",
+    "imgUrl": "https://images1.vinted.net/t/03_014b6_AxZyBM2oyvvmvmw1evC22bM6/f800/1728741731.jpeg?s=d75238d9d30869592f14be9af25423568d9de6e9",
+    "publicationDate": 1728741731,
+    "id": 5203487874
+  },
+  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5140423845-lego-clone-arc-trooper-fives-exclusive-25e-anniversaire",
     "price": 21.7,
     "title": "Lego Clone Arc trooper Fives exclusive 25e anniversaire",
@@ -128,30 +126,7 @@
     "id": 5140423845
   },
   {
-    "link": "https://www.vinted.fr/items/5371683763-lego-star-wars",
-    "price": 42.7,
-    "title": "Lego star wars",
-    "imgUrl": "https://images1.vinted.net/t/04_01ba2_JDkm6nRNKs3ewzLZRLTk4Y7K/f800/1731420856.jpeg?s=09c63ae149c533c12ebb84a94e919f405d921218",
-    "publicationDate": 1731420856,
-    "id": 5371683763
-  },
-  {
-    "link": "https://www.vinted.fr/items/4851969887-lego-capitan-antilles",
-    "price": 4.9,
-    "title": "Lego Capitán Antilles",
-    "imgUrl": "https://images1.vinted.net/t/03_0093f_GXNmTU3GQdppFc7RZJvgPE6L/f800/1722881508.jpeg?s=cc740b06fe1a15c6fdcff6041a847ad3ffb03e01",
-    "publicationDate": 1722881508,
-    "id": 4851969887
-  },
-  {
-    "link": "https://www.vinted.fr/items/4726791025-figurine-lego-star-wars-captain-antilles",
-    "price": 5.43,
-    "title": "Figurine Lego Star Wars Captain Antilles",
-    "imgUrl": "https://images1.vinted.net/t/01_02110_KPTve1kabLq4FUVzZuvvbsqE/f800/1720188173.jpeg?s=3e21991340cc24521b9357f8fd962a9495f2e4ce",
-    "publicationDate": 1720188173,
-    "id": 4726791025
-  },
-  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4551787930-lego-star-wars-sw1249-75387-darth-vader",
     "price": 11.2,
     "title": "Lego Star Wars sw1249 75387 Darth Vader",
@@ -160,6 +135,34 @@
     "id": 4551787930
   },
   {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4851969887-lego-capitan-antilles",
+    "price": 4.9,
+    "title": "Lego Capitán Antilles",
+    "imgUrl": "https://images1.vinted.net/t/03_0093f_GXNmTU3GQdppFc7RZJvgPE6L/f800/1722881508.jpeg?s=cc740b06fe1a15c6fdcff6041a847ad3ffb03e01",
+    "publicationDate": 1722881508,
+    "id": 4851969887
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5371683763-lego-star-wars",
+    "price": 42.7,
+    "title": "Lego star wars",
+    "imgUrl": "https://images1.vinted.net/t/04_01ba2_JDkm6nRNKs3ewzLZRLTk4Y7K/f800/1731420856.jpeg?s=09c63ae149c533c12ebb84a94e919f405d921218",
+    "publicationDate": 1731420856,
+    "id": 5371683763
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4726791025-figurine-lego-star-wars-captain-antilles",
+    "price": 5.43,
+    "title": "Figurine Lego Star Wars Captain Antilles",
+    "imgUrl": "https://images1.vinted.net/t/01_02110_KPTve1kabLq4FUVzZuvvbsqE/f800/1720188173.jpeg?s=3e21991340cc24521b9357f8fd962a9495f2e4ce",
+    "publicationDate": 1720188173,
+    "id": 4726791025
+  },
+  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4511454924-lot-minifig-lego-star-wars-darth-vader-captain-antilles",
     "price": 16.45,
     "title": "Lot Minifig Lego Star Wars Darth Vader Captain Antilles",
@@ -168,6 +171,25 @@
     "id": 4511454924
   },
   {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4954107126-lego-star-wars-75387-antilles-sw1328",
+    "price": 5.95,
+    "title": "Lego Star Wars 75387 Antilles sw1328",
+    "imgUrl": "https://images1.vinted.net/t/01_023e0_Yxi6su5cPV4RBiM2ukSWoBB4/f800/1724870760.jpeg?s=69c8cf74e3930e647b5e3eb59d3b6617a18a49ae",
+    "publicationDate": 1724870760,
+    "id": 4954107126
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5336916099-lego-75387-star-wars-das-entern-der-tantive-iv",
+    "price": 25.9,
+    "title": "Lego 75387 Star Wars Das Entern der Tantive IV",
+    "imgUrl": "https://images1.vinted.net/t/03_02447_ytxMKyC73tJ4TT2i1RKyX4QK/f800/1730878117.jpeg?s=d290e9d190787581aee89f802d1d837744e4d698",
+    "publicationDate": 1730878117,
+    "id": 5336916099
+  },
+  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5329967260-lego-starwars-75387-boarding-tentative-iv",
     "price": 42.16,
     "title": "Lego Starwars #75387 Boarding Tentative IV",
@@ -176,22 +198,7 @@
     "id": 5329967260
   },
   {
-    "link": "https://www.vinted.fr/items/4731641178-lego-75387-star-wars-boarding-the-tantive-iv-senza-minifigures",
-    "price": 20.65,
-    "title": "LEGO 75387 Star Wars Boarding The Tantive IV Senza Minifigures",
-    "imgUrl": "https://images1.vinted.net/t/02_0061e_wEJbWEEJUKVijnVBvHaN5VMM/f800/1720287445.jpeg?s=acec48cf608a6ecf063dca9a19181e146d421324",
-    "publicationDate": 1720287445,
-    "id": 4731641178
-  },
-  {
-    "link": "https://www.vinted.fr/items/4775869097-lego-star-wars-75387-rebel-tropper-sw1285",
-    "price": 4.9,
-    "title": "Lego Star Wars 75387 Rebel Tropper Sw1285",
-    "imgUrl": "https://images1.vinted.net/t/02_006d2_dHgwi8QsaNnR44DkwY8Jdcdm/f800/1721215825.jpeg?s=1d33347278f3865d3addcee02f45a3e624a1e219",
-    "publicationDate": 1721215825,
-    "id": 4775869097
-  },
-  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5364631652-set-75387",
     "price": 37.45,
     "title": "Set 75387",
@@ -200,6 +207,25 @@
     "id": 5364631652
   },
   {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4731641178-lego-75387-star-wars-boarding-the-tantive-iv-senza-minifigures",
+    "price": 20.65,
+    "title": "LEGO 75387 Star Wars Boarding The Tantive IV Senza Minifigures",
+    "imgUrl": "https://images1.vinted.net/t/02_0061e_wEJbWEEJUKVijnVBvHaN5VMM/f800/1720287445.jpeg?s=acec48cf608a6ecf063dca9a19181e146d421324",
+    "publicationDate": 1720287445,
+    "id": 4731641178
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4775869097-lego-star-wars-75387-rebel-tropper-sw1285",
+    "price": 4.9,
+    "title": "Lego Star Wars 75387 Rebel Tropper Sw1285",
+    "imgUrl": "https://images1.vinted.net/t/02_006d2_dHgwi8QsaNnR44DkwY8Jdcdm/f800/1721215825.jpeg?s=1d33347278f3865d3addcee02f45a3e624a1e219",
+    "publicationDate": 1721215825,
+    "id": 4775869097
+  },
+  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4375324125-lego-star-wars-75387-boarding-the-tantive-iv-no-minifigures-no-arc-fives",
     "price": 34.3,
     "title": "Lego Star Wars 75387 - Boarding the tantive IV - no minifigures - no arc fives",
@@ -208,6 +234,7 @@
     "id": 4375324125
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4706422939-lego-arc-trooper-fives",
     "price": 30.1,
     "title": "Lego ARC Trooper Fives",
@@ -216,6 +243,7 @@
     "id": 4706422939
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4510820106-lego-star-wars-75387",
     "price": 42.7,
     "title": "Lego Star Wars 75387",
@@ -224,6 +252,7 @@
     "id": 4510820106
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5329610665-lego-star-wars-75387-boarding-the-tantive-iv",
     "price": 45.85,
     "title": "Lego Star Wars 75387 Boarding the Tantive IV",
@@ -232,38 +261,7 @@
     "id": 5329610665
   },
   {
-    "link": "https://www.vinted.fr/items/5338121562-lego-75387-neuf-embarquement-a-bord-du-tantine-iv",
-    "price": 52.15,
-    "title": "Lego 75387 NEUF: embarquement à bord du tantine IV",
-    "imgUrl": "https://images1.vinted.net/t/03_01464_KzittP9yYL7H9bk5DSeygozE/f800/1730897113.jpeg?s=dd66a53ffc90ecbcd07d448b1ce92ec4472f8ce1",
-    "publicationDate": 1730897113,
-    "id": 5338121562
-  },
-  {
-    "link": "https://www.vinted.fr/items/4559112552-lego-star-wars-capitaine-antilles",
-    "price": 8.05,
-    "title": "Lego Star Wars Capitaine Antilles",
-    "imgUrl": "https://images1.vinted.net/t/02_003d8_i5dMDYNNFAZpp2XQSWBb6bS9/f800/1716752054.jpeg?s=b85528b22f8d96c3352bb770eb6a726985792c5c",
-    "publicationDate": 1716752054,
-    "id": 4559112552
-  },
-  {
-    "link": "https://www.vinted.fr/items/4325045310-lego-star-wars-captain-antilles-dark-tan-shirt-large-rank-badge-sw1328",
-    "price": 8.05,
-    "title": "Lego Star Wars - Captain Antilles - Dark Tan Shirt, Large Rank Badge - SW1328",
-    "imgUrl": "https://images1.vinted.net/t/03_011a1_rE44ktR8KfKFPxn2nrxZtPa9/f800/1712418107.jpeg?s=00d710ffd9715648a1d51710de3431f11bb7edc4",
-    "publicationDate": 1712418107,
-    "id": 4325045310
-  },
-  {
-    "link": "https://www.vinted.fr/items/5369719493-lot-de-10-notices-lego",
-    "price": 13.3,
-    "title": "LOT de 10 notices LEGO",
-    "imgUrl": "https://images1.vinted.net/t/02_01fec_gQb2smHUwoqNkDKEwtHzi2WB/f800/1731607481.jpeg?s=8b912145e029f5269a32fe40b2f72442c2565705",
-    "publicationDate": 1731607481,
-    "id": 5369719493
-  },
-  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4604261936-lego-75387-darth-vader",
     "price": 8.58,
     "title": "Lego 75387 Darth vader",
@@ -272,6 +270,34 @@
     "id": 4604261936
   },
   {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5338121562-lego-75387-neuf-embarquement-a-bord-du-tantine-iv",
+    "price": 52.15,
+    "title": "Lego 75387 NEUF: embarquement à bord du tantine IV",
+    "imgUrl": "https://images1.vinted.net/t/03_01464_KzittP9yYL7H9bk5DSeygozE/f800/1730897113.jpeg?s=dd66a53ffc90ecbcd07d448b1ce92ec4472f8ce1",
+    "publicationDate": 1730897113,
+    "id": 5338121562
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4325045310-lego-star-wars-captain-antilles-dark-tan-shirt-large-rank-badge-sw1328",
+    "price": 8.05,
+    "title": "Lego Star Wars - Captain Antilles - Dark Tan Shirt, Large Rank Badge - SW1328",
+    "imgUrl": "https://images1.vinted.net/t/03_011a1_rE44ktR8KfKFPxn2nrxZtPa9/f800/1712418107.jpeg?s=00d710ffd9715648a1d51710de3431f11bb7edc4",
+    "publicationDate": 1712418107,
+    "id": 4325045310
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4559112552-lego-star-wars-capitaine-antilles",
+    "price": 8.05,
+    "title": "Lego Star Wars Capitaine Antilles",
+    "imgUrl": "https://images1.vinted.net/t/02_003d8_i5dMDYNNFAZpp2XQSWBb6bS9/f800/1716752054.jpeg?s=b85528b22f8d96c3352bb770eb6a726985792c5c",
+    "publicationDate": 1716752054,
+    "id": 4559112552
+  },
+  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4577172948-figurine-lego-star-wars-rebel-fleet-trooper",
     "price": 5.95,
     "title": "Figurine Lego Star Wars - Rebel Fleet Trooper",
@@ -280,6 +306,16 @@
     "id": 4577172948
   },
   {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5369719493-lot-de-10-notices-lego",
+    "price": 13.3,
+    "title": "LOT de 10 notices LEGO",
+    "imgUrl": "https://images1.vinted.net/t/02_01fec_gQb2smHUwoqNkDKEwtHzi2WB/f800/1731607481.jpeg?s=8b912145e029f5269a32fe40b2f72442c2565705",
+    "publicationDate": 1731607481,
+    "id": 5369719493
+  },
+  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4775745410-lego-star-wars-75387-darth-vader-sw1249",
     "price": 16.45,
     "title": "Lego Star Wars 75387 Darth Vader Sw1249",
@@ -288,14 +324,7 @@
     "id": 4775745410
   },
   {
-    "link": "https://www.vinted.fr/items/5367469756-lego-set-75387-boarding-the-tantive-iv",
-    "price": 42.7,
-    "title": "Lego set 75387 boarding the tantive IV",
-    "imgUrl": "https://images1.vinted.net/t/04_0213a_SZDpdbffoW4shn6hPCHjENq3/f800/1731345072.jpeg?s=7892a15a6929acce3d7380d2db2cae66148644f9",
-    "publicationDate": 1731345072,
-    "id": 5367469756
-  },
-  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4487641315-vends-lego-75387-star-wars",
     "price": 46.9,
     "title": "Vends lego 75387 Star Wars .",
@@ -304,30 +333,16 @@
     "id": 4487641315
   },
   {
-    "link": "https://www.vinted.fr/items/4750820433-lego-star-wars-darth-vader-stormtroopers",
-    "price": 19.6,
-    "title": "Lego star wars - Darth Vader, stormtroopers",
-    "imgUrl": "https://images1.vinted.net/t/02_001ac_XNPXmK9w5kMApXMJVbuJCQJz/f800/1720687331.jpeg?s=7d9b4fa39ed7df0f035fcfc305478881a8614c93",
-    "publicationDate": 1720687331,
-    "id": 4750820433
-  },
-  {
-    "link": "https://www.vinted.fr/items/5179305814-75387-lego-star-wars-lembarquement-a-bord-du-tantive-iv",
-    "price": 44.79,
-    "title": "75387 LEGO Star Wars L’embarquement à bord du Tantive IV",
-    "imgUrl": "https://images1.vinted.net/t/01_01b11_a7TT3dT6VonGGo1CuJYAEyYe/f800/1728335108.jpeg?s=99581297617f144e23c21f6dedcca59ade23ec2d",
-    "publicationDate": 1728335108,
-    "id": 5179305814
-  },
-  {
-    "link": "https://www.vinted.fr/items/5368285163-set-lego-star-wars-75387",
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5367469756-lego-set-75387-boarding-the-tantive-iv",
     "price": 42.7,
-    "title": "Set lego star wars 75387",
-    "imgUrl": "https://images1.vinted.net/t/01_020eb_9mT7FBq1QQEQUKv33qoLBhEm/f800/1731352038.jpeg?s=71b9475b2cf852674b53c3fd0d93f3e59f5b289e",
-    "publicationDate": 1731352038,
-    "id": 5368285163
+    "title": "Lego set 75387 boarding the tantive IV",
+    "imgUrl": "https://images1.vinted.net/t/04_0213a_SZDpdbffoW4shn6hPCHjENq3/f800/1731345072.jpeg?s=7892a15a6929acce3d7380d2db2cae66148644f9",
+    "publicationDate": 1731345072,
+    "id": 5367469756
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4498039945-lego-star-wars-minifigur-sw1328-captain-antilles",
     "price": 11.2,
     "title": "LEGO Star Wars Minifigur sw1328 Captain Antilles",
@@ -336,6 +351,7 @@
     "id": 4498039945
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4663644845-official-lego-star-wars-captain-antilles",
     "price": 13.2,
     "title": "Official Lego Star Wars Captain Antilles",
@@ -344,14 +360,25 @@
     "id": 4663644845
   },
   {
-    "link": "https://www.vinted.fr/items/5402211823-lego-star-wars-75387-boarding-the-tantive-iv",
-    "price": 42.7,
-    "title": "Lego Star Wars 75387 Boarding the Tantive IV",
-    "imgUrl": "https://images1.vinted.net/t/02_001cc_whj57n7hvwoWWJ4pHSzaFh7W/f800/1731916843.jpeg?s=01efaad6153b3cf0e440ad968921d8b8619f079f",
-    "publicationDate": 1731916843,
-    "id": 5402211823
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5179305814-75387-lego-star-wars-lembarquement-a-bord-du-tantive-iv",
+    "price": 44.79,
+    "title": "75387 LEGO Star Wars L’embarquement à bord du Tantive IV",
+    "imgUrl": "https://images1.vinted.net/t/01_01b11_a7TT3dT6VonGGo1CuJYAEyYe/f800/1728335108.jpeg?s=99581297617f144e23c21f6dedcca59ade23ec2d",
+    "publicationDate": 1728335108,
+    "id": 5179305814
   },
   {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5368285163-set-lego-star-wars-75387",
+    "price": 42.7,
+    "title": "Set lego star wars 75387",
+    "imgUrl": "https://images1.vinted.net/t/01_020eb_9mT7FBq1QQEQUKv33qoLBhEm/f800/1731352038.jpeg?s=71b9475b2cf852674b53c3fd0d93f3e59f5b289e",
+    "publicationDate": 1731352038,
+    "id": 5368285163
+  },
+  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4750809626-lego-star-wars-captain-antilles-rebel-fleet-trooper",
     "price": 17.5,
     "title": "Lego star wars - captain antilles, rebel fleet trooper",
@@ -360,22 +387,7 @@
     "id": 4750809626
   },
   {
-    "link": "https://www.vinted.fr/items/5386446123-lego-star-wars-75387",
-    "price": 47.95,
-    "title": "Lego Star Wars 75387",
-    "imgUrl": "https://images1.vinted.net/t/04_00793_5MtFbsPSBhrF1bG4YEFE45Jh/f800/1731679780.jpeg?s=be8cb5f4608d9152acaed1d3a1f8008a435915a8",
-    "publicationDate": 1731679780,
-    "id": 5386446123
-  },
-  {
-    "link": "https://www.vinted.fr/items/4383416397-lego-star-wars-sw1249",
-    "price": 11.2,
-    "title": "Lego star wars sw1249",
-    "imgUrl": "https://images1.vinted.net/t/03_016f2_P361oNWqkdxykEm8XHeALi5h/f800/1713462296.jpeg?s=b028bfe3414efce55799f116d1b8e75a4cc9d5d8",
-    "publicationDate": 1713462296,
-    "id": 4383416397
-  },
-  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4238978644-lego-star-wars-darth-vader-officiel",
     "price": 12.78,
     "title": "Lego Star Wars Darth Vader (officiel) ",
@@ -384,6 +396,34 @@
     "id": 4238978644
   },
   {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4750820433-lego-star-wars-darth-vader-stormtroopers",
+    "price": 19.6,
+    "title": "Lego star wars - Darth Vader, stormtroopers",
+    "imgUrl": "https://images1.vinted.net/t/02_001ac_XNPXmK9w5kMApXMJVbuJCQJz/f800/1720687331.jpeg?s=7d9b4fa39ed7df0f035fcfc305478881a8614c93",
+    "publicationDate": 1720687331,
+    "id": 4750820433
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5386446123-lego-star-wars-75387",
+    "price": 47.95,
+    "title": "Lego Star Wars 75387",
+    "imgUrl": "https://images1.vinted.net/t/04_00793_5MtFbsPSBhrF1bG4YEFE45Jh/f800/1731679780.jpeg?s=be8cb5f4608d9152acaed1d3a1f8008a435915a8",
+    "publicationDate": 1731679780,
+    "id": 5386446123
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4383416397-lego-star-wars-sw1249",
+    "price": 11.2,
+    "title": "Lego star wars sw1249",
+    "imgUrl": "https://images1.vinted.net/t/03_016f2_P361oNWqkdxykEm8XHeALi5h/f800/1713462296.jpeg?s=b028bfe3414efce55799f116d1b8e75a4cc9d5d8",
+    "publicationDate": 1713462296,
+    "id": 4383416397
+  },
+  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5158841158-lego-star-wars-75387-neuf",
     "price": 47.95,
     "title": "Lego star wars 75387 neuf",
@@ -392,6 +432,7 @@
     "id": 5158841158
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4901288383-lego-75387-boarding-the-tantine-iv",
     "price": 50.05,
     "title": "Lego 75387 Boarding the Tantine IV",
@@ -400,6 +441,7 @@
     "id": 4901288383
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4472521953-lego-75387-star-wars-exclusive-minifigure-arc-trooper-fives",
     "price": 26.95,
     "title": "LEGO 75387 Star Wars Exclusive Minifigure Arc Trooper Fives",
@@ -408,14 +450,7 @@
     "id": 4472521953
   },
   {
-    "link": "https://www.vinted.fr/items/4643696167-lego-75387-star-wars-n6-minifigures",
-    "price": 31.15,
-    "title": "LEGO 75387 Star Wars n.6 Minifigures",
-    "imgUrl": "https://images1.vinted.net/t/02_009a1_4CzBboF4DmPoM9Yqs1YU8eiZ/f800/1718441041.jpeg?s=39cfcbb1ec96f095dae3cb9d21dc10f99a607eae",
-    "publicationDate": 1718441041,
-    "id": 4643696167
-  },
-  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4771272645-lego-star-wars-25-years",
     "price": 51.1,
     "title": "Lego star wars 25 years",
@@ -424,6 +459,7 @@
     "id": 4771272645
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4368861030-figurine-lego-star-wars-clone-arc-tropper-fives-501-sw1329",
     "price": 30.1,
     "title": "Figurine LEGO Star Wars clone arc tropper fives 501 Sw1329",
@@ -432,6 +468,7 @@
     "id": 4368861030
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4959024092-lego75387-gia-montato-con-tutte-le-minifigures",
     "price": 37.45,
     "title": "Lego75387 già montato con tutte le minifigures.",
@@ -440,14 +477,25 @@
     "id": 4959024092
   },
   {
-    "link": "https://www.vinted.fr/items/5385942187-lego-75387-star-wars-abordaje-de-la-tantive-iv",
-    "price": 44.8,
-    "title": "Lego 75387 - Star Wars  - Abordaje de la Tantive IV",
-    "imgUrl": "https://images1.vinted.net/t/04_00d28_eJUgNEgH9fY9p7Sg39wePQSd/f800/1731674577.jpeg?s=32e99b5c56100c8cbdadeecc172ae7b671ae4998",
-    "publicationDate": 1731674577,
-    "id": 5385942187
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5402211823-lego-star-wars-75387-boarding-the-tantive-iv",
+    "price": 42.7,
+    "title": "Lego Star Wars 75387 Boarding the Tantive IV",
+    "imgUrl": "https://images1.vinted.net/t/02_001cc_whj57n7hvwoWWJ4pHSzaFh7W/f800/1731916843.jpeg?s=01efaad6153b3cf0e440ad968921d8b8619f079f",
+    "publicationDate": 1731916843,
+    "id": 5402211823
   },
   {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4643696167-lego-75387-star-wars-n6-minifigures",
+    "price": 31.15,
+    "title": "LEGO 75387 Star Wars n.6 Minifigures",
+    "imgUrl": "https://images1.vinted.net/t/02_009a1_4CzBboF4DmPoM9Yqs1YU8eiZ/f800/1718441041.jpeg?s=39cfcbb1ec96f095dae3cb9d21dc10f99a607eae",
+    "publicationDate": 1718441041,
+    "id": 4643696167
+  },
+  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4686666630-lego-starwars-arc-trooper-fives-75387-incl-25-jr-starwars-plate",
     "price": 25.9,
     "title": "Lego StarWars Arc Trooper Fives 75387 , incl. 25 jr StarWars plate",
@@ -456,46 +504,16 @@
     "id": 4686666630
   },
   {
-    "link": "https://www.vinted.fr/items/5158168035-lego-star-wars-75387-neuf",
-    "price": 47.95,
-    "title": "Lego Star Wars 75387 Neuf",
-    "imgUrl": "https://images1.vinted.net/t/01_01c3f_xiEthabGxTwSJeQ3HZHBjTwH/f800/1728059628.jpeg?s=c3e9cc5c9786d5e6fb1e52cbc88fabaa3d473937",
-    "publicationDate": 1728059628,
-    "id": 5158168035
-  },
-  {
-    "link": "https://www.vinted.fr/items/4524419612-lego-75387-embarquement-a-bord-du-tantive-iv",
-    "price": 53.2,
-    "title": "Lego 75387 - Embarquement à bord du Tantive IV",
-    "imgUrl": "https://images1.vinted.net/t/02_01476_iWzUAer1xEsCf2KJG22un7Aj/f800/1716123469.jpeg?s=1cd0dec13649e48bb3eeb3c5f6fa47d0d3c500fe",
-    "publicationDate": 1716123469,
-    "id": 4524419612
-  },
-  {
-    "link": "https://www.vinted.fr/items/4986802640-lego-star-wars-75387",
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5385942187-lego-75387-star-wars-abordaje-de-la-tantive-iv",
     "price": 44.8,
-    "title": "Lego star wars 75387",
-    "imgUrl": "https://images1.vinted.net/t/03_02024_4nV3khG5j1dP5x2Zj8zLJ3gk/f800/1725460229.jpeg?s=575f835531979e61ec5314418412ccb3fe7a2700",
-    "publicationDate": 1725460229,
-    "id": 4986802640
+    "title": "Lego 75387 - Star Wars  - Abordaje de la Tantive IV",
+    "imgUrl": "https://images1.vinted.net/t/04_00d28_eJUgNEgH9fY9p7Sg39wePQSd/f800/1731674577.jpeg?s=32e99b5c56100c8cbdadeecc172ae7b671ae4998",
+    "publicationDate": 1731674577,
+    "id": 5385942187
   },
   {
-    "link": "https://www.vinted.fr/items/5370695445-lego-75387-star-wars",
-    "price": 44.8,
-    "title": "Lego 75387 star wars.",
-    "imgUrl": "https://images1.vinted.net/t/04_00d32_D1PAaKBpajs8btTyRYFsPhkT/f800/1731411220.jpeg?s=8d190f89739ad20c4f0276105ecd4a8ba947185b",
-    "publicationDate": 1731411220,
-    "id": 5370695445
-  },
-  {
-    "link": "https://www.vinted.fr/items/5326104967-lego-75387",
-    "price": 44.8,
-    "title": "Lego 75387",
-    "imgUrl": "https://images1.vinted.net/t/02_005d5_hnsnxXWXFacGaVFEXFzumeNH/f800/1730662983.jpeg?s=8eef8d6c6a90979bb4aafc78586838974160f7f1",
-    "publicationDate": 1730662983,
-    "id": 5326104967
-  },
-  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4973740271-lego-75012-en-75387-minifiguren",
     "price": 21.7,
     "title": "Lego 75012 en 75387 minifiguren",
@@ -504,102 +522,7 @@
     "id": 4973740271
   },
   {
-    "link": "https://www.vinted.fr/items/4787959090-lego-star-wars-fives-trooper-minifigure",
-    "price": 26.95,
-    "title": "Lego Star Wars -Fives Trooper minifigure",
-    "imgUrl": "https://images1.vinted.net/t/03_0109d_JURiNiNQFFX5jygz6gS5njce/f800/1721497205.jpeg?s=5a72bb53556f9e85577718e46bf1ce2def0e6576",
-    "publicationDate": 1721497205,
-    "id": 4787959090
-  },
-  {
-    "link": "https://www.vinted.fr/items/5374362497-abordaje-de-la-tantive-iv-lego-75387",
-    "price": 47.95,
-    "title": "Abordaje de la Tantive IV Lego 75387",
-    "imgUrl": "https://images1.vinted.net/t/02_009b0_uMB4cnmFZEBKi5tZGR469dph/f800/1731451880.jpeg?s=5bc38ce296273952e260433205d45f36cdd8f5e5",
-    "publicationDate": 1731451880,
-    "id": 5374362497
-  },
-  {
-    "link": "https://www.vinted.fr/items/5395245506-lego-75387-star-wars-nuevo-sin-abrir-precintado",
-    "price": 47.95,
-    "title": "Lego 75387 Star Wars Nuevo sin abrir precintado",
-    "imgUrl": "https://images1.vinted.net/t/04_025a0_XjuNzA6WVcsCNqB1z53Ln7E8/f800/1731837379.jpeg?s=a9b0d4d9114739aa412b0d422381fc487b001433",
-    "publicationDate": 1731837379,
-    "id": 5395245506
-  },
-  {
-    "link": "https://www.vinted.fr/items/5295645277-lego-75387-boarding-the-tantive-iv",
-    "price": 45.8,
-    "title": "Lego 75387 - Boarding The Tantive IV",
-    "imgUrl": "https://images1.vinted.net/t/03_01589_aQhHxkfdbiZJExs3cgE3QNjz/f800/1730183886.jpeg?s=9267d9f840c3018e4bbf9c978d2c87f93c5e0cf4",
-    "publicationDate": 1730183886,
-    "id": 5295645277
-  },
-  {
-    "link": "https://www.vinted.fr/items/4720151474-lego-abordaje-de-la-tantive-75387",
-    "price": 42.7,
-    "title": "Lego Abordaje de la Tantive 75387",
-    "imgUrl": "https://images1.vinted.net/t/02_026f0_H9DyD9yg8f8eCnNgxxsTuTo1/f800/1720031960.jpeg?s=a384d686abaff679e8fbe103ddf19738ed1fb6f0",
-    "publicationDate": 1720031960,
-    "id": 4720151474
-  },
-  {
-    "link": "https://www.vinted.fr/items/5389989409-neuf-lego-star-wars-embarquement-a-bord-du-tantive-iv-ref-75387-star-wars-un-nouvel-espoir",
-    "price": 51,
-    "title": "Neuf LEGO Star Wars Embarquement à Bord du Tantive IV ref 75387  Star Wars : Un nouvel espoir",
-    "imgUrl": "https://images1.vinted.net/t/04_018d8_BYYqJt1GFgzEGWLXAQx3aNch/f800/1731754969.jpeg?s=a984ace6f41768bbfd1fb917115aeda16178bcdb",
-    "publicationDate": 1731754969,
-    "id": 5389989409
-  },
-  {
-    "link": "https://www.vinted.fr/items/5289868218-oferta-solo-hoylego-75387-star-wars-precintado",
-    "price": 47.95,
-    "title": "Oferta solo hoy.Lego 75387 Star Wars, precintado",
-    "imgUrl": "https://images1.vinted.net/t/04_00031_QkSYtFt91zxzbWcPDsnHHD8y/f800/1730064306.jpeg?s=c09dfd95787147d894eb8cdb12ead998ceb1ab58",
-    "publicationDate": 1730064306,
-    "id": 5289868218
-  },
-  {
-    "link": "https://www.vinted.fr/items/5012060585-lego-star-wars-tantive-iv-75387",
-    "price": 47.95,
-    "title": "Lego Star Wars Tantive IV - 75387",
-    "imgUrl": "https://images1.vinted.net/t/01_0165e_VA5wGfKwdea4dpr8ujunaKVb/f800/1725882169.jpeg?s=428ad2b0b705efbeab9c8bbc87540445db493f37",
-    "publicationDate": 1725882169,
-    "id": 5012060585
-  },
-  {
-    "link": "https://www.vinted.fr/items/4770300315-lego-star-wars-25-years",
-    "price": 55.3,
-    "title": "Lego star wars 25 years",
-    "imgUrl": "https://images1.vinted.net/t/01_00681_5rH9SDu3eLSaomtWUjhT3Y2u/f800/1721080939.jpeg?s=f069cac4c3cc4139597ed089a0e4126bd738275d",
-    "publicationDate": 1721080939,
-    "id": 4770300315
-  },
-  {
-    "link": "https://www.vinted.fr/items/4639623999-lego-75387-star-wars-diorama",
-    "price": 53.2,
-    "title": "Lego 75387 star wars diorama",
-    "imgUrl": "https://images1.vinted.net/t/03_00d24_Ef5RJdtgA3vUnQ8h7sCKa3gX/f800/1718341677.jpeg?s=a8d03a16c3a4bf31373eade476b8fbea68f64a38",
-    "publicationDate": 1718341677,
-    "id": 4639623999
-  },
-  {
-    "link": "https://www.vinted.fr/items/4486964754-lego-star-wars-75387",
-    "price": 53.2,
-    "title": "Lego Star Wars 75387",
-    "imgUrl": "https://images1.vinted.net/t/01_00134_aVUjSHWVPF9L7GC3w9GZ4GJ1/f800/1715415385.jpeg?s=6bf94c47a6f4bd3c46a463efdf7fbc2e1c60c098",
-    "publicationDate": 1715415385,
-    "id": 4486964754
-  },
-  {
-    "link": "https://www.vinted.fr/items/4945989528-lego-starwars-75387",
-    "price": 47.95,
-    "title": "Lego StarWars #75387",
-    "imgUrl": "https://images1.vinted.net/t/01_00e40_se5Zp2onz221KhNWvcg5Mkhq/f800/1724752028.jpeg?s=bb9482be3e0ed52bbab75b617d665195fe9ffb5e",
-    "publicationDate": 1724752028,
-    "id": 4945989528
-  },
-  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4499989472-lego-star-wars-75387-boarding-the-tantive-iv",
     "price": 55.3,
     "title": "Lego Star Wars 75387 Boarding the Tantive IV",
@@ -608,6 +531,160 @@
     "id": 4499989472
   },
   {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5158168035-lego-star-wars-75387-neuf",
+    "price": 47.95,
+    "title": "Lego Star Wars 75387 Neuf",
+    "imgUrl": "https://images1.vinted.net/t/01_01c3f_xiEthabGxTwSJeQ3HZHBjTwH/f800/1728059628.jpeg?s=c3e9cc5c9786d5e6fb1e52cbc88fabaa3d473937",
+    "publicationDate": 1728059628,
+    "id": 5158168035
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5370695445-lego-75387-star-wars",
+    "price": 44.8,
+    "title": "Lego 75387 star wars.",
+    "imgUrl": "https://images1.vinted.net/t/04_00d32_D1PAaKBpajs8btTyRYFsPhkT/f800/1731411220.jpeg?s=8d190f89739ad20c4f0276105ecd4a8ba947185b",
+    "publicationDate": 1731411220,
+    "id": 5370695445
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4524419612-lego-75387-embarquement-a-bord-du-tantive-iv",
+    "price": 53.2,
+    "title": "Lego 75387 - Embarquement à bord du Tantive IV",
+    "imgUrl": "https://images1.vinted.net/t/02_01476_iWzUAer1xEsCf2KJG22un7Aj/f800/1716123469.jpeg?s=1cd0dec13649e48bb3eeb3c5f6fa47d0d3c500fe",
+    "publicationDate": 1716123469,
+    "id": 4524419612
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4986802640-lego-star-wars-75387",
+    "price": 44.8,
+    "title": "Lego star wars 75387",
+    "imgUrl": "https://images1.vinted.net/t/03_02024_4nV3khG5j1dP5x2Zj8zLJ3gk/f800/1725460229.jpeg?s=575f835531979e61ec5314418412ccb3fe7a2700",
+    "publicationDate": 1725460229,
+    "id": 4986802640
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5326104967-lego-75387",
+    "price": 44.8,
+    "title": "Lego 75387",
+    "imgUrl": "https://images1.vinted.net/t/02_005d5_hnsnxXWXFacGaVFEXFzumeNH/f800/1730662983.jpeg?s=8eef8d6c6a90979bb4aafc78586838974160f7f1",
+    "publicationDate": 1730662983,
+    "id": 5326104967
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4787959090-lego-star-wars-fives-trooper-minifigure",
+    "price": 26.95,
+    "title": "Lego Star Wars -Fives Trooper minifigure",
+    "imgUrl": "https://images1.vinted.net/t/03_0109d_JURiNiNQFFX5jygz6gS5njce/f800/1721497205.jpeg?s=5a72bb53556f9e85577718e46bf1ce2def0e6576",
+    "publicationDate": 1721497205,
+    "id": 4787959090
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4720151474-lego-abordaje-de-la-tantive-75387",
+    "price": 42.7,
+    "title": "Lego Abordaje de la Tantive 75387",
+    "imgUrl": "https://images1.vinted.net/t/02_026f0_H9DyD9yg8f8eCnNgxxsTuTo1/f800/1720031960.jpeg?s=a384d686abaff679e8fbe103ddf19738ed1fb6f0",
+    "publicationDate": 1720031960,
+    "id": 4720151474
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5374362497-abordaje-de-la-tantive-iv-lego-75387",
+    "price": 47.95,
+    "title": "Abordaje de la Tantive IV Lego 75387",
+    "imgUrl": "https://images1.vinted.net/t/02_009b0_uMB4cnmFZEBKi5tZGR469dph/f800/1731451880.jpeg?s=5bc38ce296273952e260433205d45f36cdd8f5e5",
+    "publicationDate": 1731451880,
+    "id": 5374362497
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5395245506-lego-75387-star-wars-nuevo-sin-abrir-precintado",
+    "price": 47.95,
+    "title": "Lego 75387 Star Wars Nuevo sin abrir precintado",
+    "imgUrl": "https://images1.vinted.net/t/04_025a0_XjuNzA6WVcsCNqB1z53Ln7E8/f800/1731837379.jpeg?s=a9b0d4d9114739aa412b0d422381fc487b001433",
+    "publicationDate": 1731837379,
+    "id": 5395245506
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5295645277-lego-75387-boarding-the-tantive-iv",
+    "price": 45.8,
+    "title": "Lego 75387 - Boarding The Tantive IV",
+    "imgUrl": "https://images1.vinted.net/t/03_01589_aQhHxkfdbiZJExs3cgE3QNjz/f800/1730183886.jpeg?s=9267d9f840c3018e4bbf9c978d2c87f93c5e0cf4",
+    "publicationDate": 1730183886,
+    "id": 5295645277
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5289868218-oferta-solo-hoylego-75387-star-wars-precintado",
+    "price": 47.95,
+    "title": "Oferta solo hoy.Lego 75387 Star Wars, precintado",
+    "imgUrl": "https://images1.vinted.net/t/04_00031_QkSYtFt91zxzbWcPDsnHHD8y/f800/1730064306.jpeg?s=c09dfd95787147d894eb8cdb12ead998ceb1ab58",
+    "publicationDate": 1730064306,
+    "id": 5289868218
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5012060585-lego-star-wars-tantive-iv-75387",
+    "price": 47.95,
+    "title": "Lego Star Wars Tantive IV - 75387",
+    "imgUrl": "https://images1.vinted.net/t/01_0165e_VA5wGfKwdea4dpr8ujunaKVb/f800/1725882169.jpeg?s=428ad2b0b705efbeab9c8bbc87540445db493f37",
+    "publicationDate": 1725882169,
+    "id": 5012060585
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5389989409-neuf-lego-star-wars-embarquement-a-bord-du-tantive-iv-ref-75387-star-wars-un-nouvel-espoir",
+    "price": 51,
+    "title": "Neuf LEGO Star Wars Embarquement à Bord du Tantive IV ref 75387  Star Wars : Un nouvel espoir",
+    "imgUrl": "https://images1.vinted.net/t/04_018d8_BYYqJt1GFgzEGWLXAQx3aNch/f800/1731754969.jpeg?s=a984ace6f41768bbfd1fb917115aeda16178bcdb",
+    "publicationDate": 1731754969,
+    "id": 5389989409
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4770300315-lego-star-wars-25-years",
+    "price": 55.3,
+    "title": "Lego star wars 25 years",
+    "imgUrl": "https://images1.vinted.net/t/01_00681_5rH9SDu3eLSaomtWUjhT3Y2u/f800/1721080939.jpeg?s=f069cac4c3cc4139597ed089a0e4126bd738275d",
+    "publicationDate": 1721080939,
+    "id": 4770300315
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4639623999-lego-75387-star-wars-diorama",
+    "price": 53.2,
+    "title": "Lego 75387 star wars diorama",
+    "imgUrl": "https://images1.vinted.net/t/03_00d24_Ef5RJdtgA3vUnQ8h7sCKa3gX/f800/1718341677.jpeg?s=a8d03a16c3a4bf31373eade476b8fbea68f64a38",
+    "publicationDate": 1718341677,
+    "id": 4639623999
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4486964754-lego-star-wars-75387",
+    "price": 53.2,
+    "title": "Lego Star Wars 75387",
+    "imgUrl": "https://images1.vinted.net/t/01_00134_aVUjSHWVPF9L7GC3w9GZ4GJ1/f800/1715415385.jpeg?s=6bf94c47a6f4bd3c46a463efdf7fbc2e1c60c098",
+    "publicationDate": 1715415385,
+    "id": 4486964754
+  },
+  {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4945989528-lego-starwars-75387",
+    "price": 47.95,
+    "title": "Lego StarWars #75387",
+    "imgUrl": "https://images1.vinted.net/t/01_00e40_se5Zp2onz221KhNWvcg5Mkhq/f800/1724752028.jpeg?s=bb9482be3e0ed52bbab75b617d665195fe9ffb5e",
+    "publicationDate": 1724752028,
+    "id": 4945989528
+  },
+  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4703622163-lego-75387-minifiguras-fives-vader-antilles",
     "price": 34.3,
     "title": "LEGO 75387 minifiguras Fives / Vader / Antilles",
@@ -616,6 +693,7 @@
     "id": 4703622163
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5033425430-lego-star-wars-75387-sin-la-figura-five",
     "price": 42.7,
     "title": "Lego Star Wars 75387 sin la figura five",
@@ -624,6 +702,7 @@
     "id": 5033425430
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5158918989-lego-star-wars-75387-embarquement-a-bord-du-tantive-iv",
     "price": 53.2,
     "title": "LEGO Star Wars 75387 Embarquement à Bord du Tantive IV",
@@ -632,6 +711,7 @@
     "id": 5158918989
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4584857936-lego-star-wars-75387",
     "price": 37.45,
     "title": "Lego star wars 75387",
@@ -640,6 +720,7 @@
     "id": 4584857936
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5208389576-lego-75387-star-wars-embarquement-a-bord-du-tantive-iv",
     "price": 58.45,
     "title": "LEGO 75387 Star Wars Embarquement à bord du Tantive IV",
@@ -648,6 +729,7 @@
     "id": 5208389576
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5263557726-lego-75387",
     "price": 53.2,
     "title": "lego 75387",
@@ -656,14 +738,7 @@
     "id": 5263557726
   },
   {
-    "link": "https://www.vinted.fr/items/4512024922-lego-star-wars-75387-neuf",
-    "price": 51.1,
-    "title": "Lego star wars 75387 neuf",
-    "imgUrl": "https://images1.vinted.net/t/02_01d2d_XvcMGz86JJp1p8JqW88yT35m/f800/1715871911.jpeg?s=e42960efde16aefdfa540c5df600e962f18e7c3c",
-    "publicationDate": 1715871911,
-    "id": 4512024922
-  },
-  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4407571897-lego-star-wars-embarquement-a-bord-du-tantive-iv",
     "price": 56.35,
     "title": "LEGO Star Wars Embarquement à bord du Tantive IV",
@@ -672,6 +747,16 @@
     "id": 4407571897
   },
   {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4512024922-lego-star-wars-75387-neuf",
+    "price": 51.1,
+    "title": "Lego star wars 75387 neuf",
+    "imgUrl": "https://images1.vinted.net/t/02_01d2d_XvcMGz86JJp1p8JqW88yT35m/f800/1715871911.jpeg?s=e42960efde16aefdfa540c5df600e962f18e7c3c",
+    "publicationDate": 1715871911,
+    "id": 4512024922
+  },
+  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5117755051-lego-star-wars-75387-completo",
     "price": 42.7,
     "title": "Lego Star Wars 75387 Completo",
@@ -680,6 +765,7 @@
     "id": 5117755051
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5183820869-lego-star-wars-neuf-75387-75345-75386-75372",
     "price": 121.44,
     "title": "Lego Star Wars Neuf  75387 / 75345 / 75386 / 75372",
@@ -688,6 +774,7 @@
     "id": 5183820869
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4685183830-75387-star-wars-una-nueva-esperanza-lego",
     "price": 47.85,
     "title": "75387 Star Wars: Una Nueva Esperanza LEGO",
@@ -696,6 +783,7 @@
     "id": 4685183830
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4515895592-lego-star-wars-75387",
     "price": 53.2,
     "title": "Lego star wars 75387",
@@ -704,14 +792,7 @@
     "id": 4515895592
   },
   {
-    "link": "https://www.vinted.fr/items/5163345112-lego-star-wars-75387-imbarco-sulla-tantive-iv",
-    "price": 53.2,
-    "title": "LEGO Star Wars 75387 - Imbarco sulla Tantive IV",
-    "imgUrl": "https://images1.vinted.net/t/01_006b8_7ejXgnQ8eAkEWVaauwkmcEAY/f800/1728141285.jpeg?s=466e28714a2b55bb5a22900773fa076e9c1edff5",
-    "publicationDate": 1728141285,
-    "id": 5163345112
-  },
-  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4962309535-lego-star-wars-75387",
     "price": 74.19,
     "title": "Lego Star Wars 75387",
@@ -720,6 +801,16 @@
     "id": 4962309535
   },
   {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/5163345112-lego-star-wars-75387-imbarco-sulla-tantive-iv",
+    "price": 53.2,
+    "title": "LEGO Star Wars 75387 - Imbarco sulla Tantive IV",
+    "imgUrl": "https://images1.vinted.net/t/01_006b8_7ejXgnQ8eAkEWVaauwkmcEAY/f800/1728141285.jpeg?s=466e28714a2b55bb5a22900773fa076e9c1edff5",
+    "publicationDate": 1728141285,
+    "id": 5163345112
+  },
+  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4704085263-lego-75387-star-wars-embarquement-a-bord-du-tantive-iv",
     "price": 58.45,
     "title": "LEGO 75387 Star Wars Embarquement à bord du Tantive IV",
@@ -728,6 +819,7 @@
     "id": 4704085263
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4639232646-lego-star-wars-75387-new",
     "price": 53.2,
     "title": "Lego star wars 75387 new",
@@ -736,6 +828,7 @@
     "id": 4639232646
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4387445887-lego-star-wars-75387-new",
     "price": 53.2,
     "title": "LEGO star wars 75387 new",
@@ -744,14 +837,7 @@
     "id": 4387445887
   },
   {
-    "link": "https://www.vinted.fr/items/4273225456-lego-star-wars-de-tantive-iv-75387-exclusive-lego-star-wars-25th-anniversary",
-    "price": 46.38,
-    "title": "LEGO Star Wars de Tantive IV - 75387 -exclusive LEGO Star Wars 25th Anniversary",
-    "imgUrl": "https://images1.vinted.net/t/02_017ef_s1u5zQNx6PDt6xAqgRngXWKT/f800/r1/1711387372.jpeg?s=dd026592d959bad2d136bcb34efb248b243252b6",
-    "publicationDate": 1711387372,
-    "id": 4273225456
-  },
-  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/5131553032-lego-star-wars-75387",
     "price": 63.7,
     "title": "Lego Star Wars 75387",
@@ -760,6 +846,16 @@
     "id": 5131553032
   },
   {
+    "legoId": "75387",
+    "link": "https://www.vinted.fr/items/4273225456-lego-star-wars-de-tantive-iv-75387-exclusive-lego-star-wars-25th-anniversary",
+    "price": 46.38,
+    "title": "LEGO Star Wars de Tantive IV - 75387 -exclusive LEGO Star Wars 25th Anniversary",
+    "imgUrl": "https://images1.vinted.net/t/02_017ef_s1u5zQNx6PDt6xAqgRngXWKT/f800/r1/1711387372.jpeg?s=dd026592d959bad2d136bcb34efb248b243252b6",
+    "publicationDate": 1711387372,
+    "id": 4273225456
+  },
+  {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4512020576-lot-lego-75387-tantive-et-75379-r2-d2",
     "price": 95.2,
     "title": "Lot Lego 75387 tantive et 75379 r2-d2",
@@ -768,6 +864,7 @@
     "id": 4512020576
   },
   {
+    "legoId": "75387",
     "link": "https://www.vinted.fr/items/4372174939-set-lego-star-wars",
     "price": 152.95,
     "title": "Set lego star wars",

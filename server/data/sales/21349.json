@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "21349",
     "link": "https://www.vinted.fr/items/5336952383-lego-notice-ideas-21349-chat-bicolore",
     "price": 3.85,
     "title": "LEGO Notice Ideas 21349 chat bicolore",
@@ -8,6 +9,7 @@
     "id": 5336952383
   },
   {
+    "legoId": "21349",
     "link": "https://www.vinted.fr/items/5394300752-lego-tuxedo-cat-21349",
     "price": 92.58,
     "title": "Lego Tuxedo Cat #21349",
@@ -16,6 +18,7 @@
     "id": 5394300752
   },
   {
+    "legoId": "21349",
     "link": "https://www.vinted.fr/items/4930917384-lego-ideas-chat-bicolore-21349-boite-neuve-et-scellee-prix-ferme",
     "price": 100.45,
     "title": "LEGO Ideas chat bicolore (21349) Boite neuve et scellée prix ferme",
@@ -24,6 +27,7 @@
     "id": 4930917384
   },
   {
+    "legoId": "21349",
     "link": "https://www.vinted.fr/items/5034920827-lego-21349-ideas-gatto-tuxedo",
     "price": 104.65,
     "title": "Lego 21349 Ideas Gatto Tuxedo",
@@ -32,11 +36,21 @@
     "id": 5034920827
   },
   {
+    "legoId": "21349",
     "link": "https://www.vinted.fr/items/5216684600-lego-ideas-icons-21349-tuxedo-cat",
     "price": 105.7,
     "title": "Lego Ideas Icons 21349: Tuxedo Cat",
     "imgUrl": "https://images1.vinted.net/t/03_022cb_r5KnhgX3gh2JkUrgZ7iPod46/f800/1728913504.jpeg?s=2b4031fe628f42a6c70d23bd0519df8dc2aec432",
     "publicationDate": 1728913504,
     "id": 5216684600
+  },
+  {
+    "legoId": "21349",
+    "link": "https://www.vinted.fr/items/5405656874-lego-21349-tuxedo-cat-legor-ideas-057-chat-bicolore-articule",
+    "price": 158.2,
+    "title": "📦 LEGO 21349 Tuxedo cat 🐾🎨 LEGO® Ideas #057 - Chat bicolore articulé",
+    "imgUrl": "https://images1.vinted.net/t/02_022d4_JsZdMHTHE3HfLWqNSMftGhpB/f800/1731951906.jpeg?s=80ff706fa17c1bafaba8f0f7e9c7e88d9f3b53ce",
+    "publicationDate": 1731951906,
+    "id": 5405656874
   }
 ]

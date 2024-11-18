@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5314120309-lego-10323-pac-man-borne-arcade-pacman",
     "price": 210.7,
     "title": "Lego 10323 pac-man borne arcade pacman",
@@ -8,6 +9,7 @@
     "id": 5314120309
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5386174990-lego-pac-man-10323",
     "price": 194.95,
     "title": "Lego pac-man 10323",
@@ -16,6 +18,7 @@
     "id": 5386174990
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5374613055-lego-10323-borne-arcade-neuf",
     "price": 205.45,
     "title": "Lego 10323 borne arcade neuf",
@@ -24,6 +27,7 @@
     "id": 5374613055
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5332542365-lego-10323-borne-arcade-pacman",
     "price": 210.7,
     "title": "Lego 10323 borne arcade pacman",
@@ -32,6 +36,7 @@
     "id": 5332542365
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5375821953-lego-pac-man-arcade-10323",
     "price": 205.45,
     "title": "Lego Pac-Man arcade 10323",
@@ -40,6 +45,7 @@
     "id": 5375821953
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5375463527-lego-10323-maquina-de-pac-man",
     "price": 210.7,
     "title": "Lego 10323 Máquina de PAC-MAN",
@@ -48,6 +54,7 @@
     "id": 5375463527
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5397241611-lego-icons-10323-pac-man-arcade",
     "price": 221.2,
     "title": "LEGO Icons 10323 : Pac-Man Arcade",
@@ -56,14 +63,7 @@
     "id": 5397241611
   },
   {
-    "link": "https://www.vinted.fr/items/5377464299-lego-10323-pac-man",
-    "price": 194.95,
-    "title": "Lego 10323 PAC-MAN",
-    "imgUrl": "https://images1.vinted.net/t/04_006ff_1384iKQKcLPQg5VZeKfiGM4E/f800/1731513465.jpeg?s=41372673d287223070f84bc672789d4424733fe7",
-    "publicationDate": 1731513465,
-    "id": 5377464299
-  },
-  {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5314483355-lego-10323-pac-man",
     "price": 215.95,
     "title": "Lego 10323 Pac-Man",
@@ -72,6 +72,16 @@
     "id": 5314483355
   },
   {
+    "legoId": "10323",
+    "link": "https://www.vinted.fr/items/5377464299-lego-10323-pac-man",
+    "price": 194.95,
+    "title": "Lego 10323 PAC-MAN",
+    "imgUrl": "https://images1.vinted.net/t/04_006ff_1384iKQKcLPQg5VZeKfiGM4E/f800/1731513465.jpeg?s=41372673d287223070f84bc672789d4424733fe7",
+    "publicationDate": 1731513465,
+    "id": 5377464299
+  },
+  {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5359334268-lego-pacman-10323",
     "price": 205.45,
     "title": "lego Pacman 10323",
@@ -80,6 +90,7 @@
     "id": 5359334268
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5367935819-lego-icons-10323-pac-man-neuf-et-scelle",
     "price": 251.65,
     "title": "Lego Icons 10323 Pac Man NEUF et scellé",
@@ -88,22 +99,7 @@
     "id": 5367935819
   },
   {
-    "link": "https://www.vinted.fr/items/5322588638-lego-icons-10323",
-    "price": 242.2,
-    "title": "LEGO Icons 10323",
-    "imgUrl": "https://images1.vinted.net/t/04_01300_7kiNu8TR9H9c5Ra4TZ5WZ8jY/f800/1730639736.jpeg?s=4df6e85f62d024da9f6ad6ddf8da5da6bc91f935",
-    "publicationDate": 1730639736,
-    "id": 5322588638
-  },
-  {
-    "link": "https://www.vinted.fr/items/5361994998-lego-10323-jeu-darcade-pac-man",
-    "price": 221.2,
-    "title": "Lego 10323 - Jeu d’arcade PAC-MAN",
-    "imgUrl": "https://images1.vinted.net/t/04_008f6_eKWMmaRWR5YHcNLvdYuC5Cm7/f800/1731268652.jpeg?s=5a2f536f6bbb4645aba1f794f2cfb4c33980c390",
-    "publicationDate": 1731268652,
-    "id": 5361994998
-  },
-  {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5298884616-lego-pac-man-10323",
     "price": 210.7,
     "title": "Lego Pac-Man 10323",
@@ -112,6 +108,25 @@
     "id": 5298884616
   },
   {
+    "legoId": "10323",
+    "link": "https://www.vinted.fr/items/5322588638-lego-icons-10323",
+    "price": 242.2,
+    "title": "LEGO Icons 10323",
+    "imgUrl": "https://images1.vinted.net/t/04_01300_7kiNu8TR9H9c5Ra4TZ5WZ8jY/f800/1730639736.jpeg?s=4df6e85f62d024da9f6ad6ddf8da5da6bc91f935",
+    "publicationDate": 1730639736,
+    "id": 5322588638
+  },
+  {
+    "legoId": "10323",
+    "link": "https://www.vinted.fr/items/5361994998-lego-10323-jeu-darcade-pac-man",
+    "price": 221.2,
+    "title": "Lego 10323 - Jeu d’arcade PAC-MAN",
+    "imgUrl": "https://images1.vinted.net/t/04_008f6_eKWMmaRWR5YHcNLvdYuC5Cm7/f800/1731268652.jpeg?s=5a2f536f6bbb4645aba1f794f2cfb4c33980c390",
+    "publicationDate": 1731268652,
+    "id": 5361994998
+  },
+  {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5380751705-lego-pacman-item-no-10323",
     "price": 189.7,
     "title": "LEGO Pacman Item No. 10323",
@@ -120,6 +135,7 @@
     "id": 5380751705
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5395645935-lego-10323-neuf-icons-jeu-darcade-pac-man",
     "price": 210.7,
     "title": "LEGO 10323 neuf Icons Jeu d'Arcade PAC-MAN",
@@ -128,6 +144,7 @@
     "id": 5395645935
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5401926315-lego-icons-jeu-darcade-pac-man-10323",
     "price": 220.15,
     "title": "LEGO Icons - Jeu d'arcade Pac-Man - 10323",
@@ -136,6 +153,7 @@
     "id": 5401926315
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5302154368-lego-trans-clear-minifigure-headgear-helmet-round-fishbowl",
     "price": 1.75,
     "title": "Lego Trans-Clear Minifigure, Headgear Helmet Round Fishbowl",
@@ -144,6 +162,7 @@
     "id": 5302154368
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/3856331254-lego-icons-pac-man-10323",
     "price": 263.2,
     "title": "Lego Icons PAC-MAN 10323",
@@ -152,6 +171,7 @@
     "id": 3856331254
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/4649219446-lego-pac-man-10323",
     "price": 242.2,
     "title": "Lego PAC-MAN (10323)",
@@ -160,6 +180,7 @@
     "id": 4649219446
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/4150231305-lego-10323-pac-man-arcade-nuovo-sigillato",
     "price": 273.7,
     "title": "Lego 10323 Pac-Man Arcade nuovo, sigillato",
@@ -168,6 +189,7 @@
     "id": 4150231305
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/3959691756-lego-10323-pac-man-new",
     "price": 268.44,
     "title": "Lego 10323 Pac Man - new",
@@ -176,6 +198,7 @@
     "id": 3959691756
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/4321066629-lego-pac-man-10323",
     "price": 236.95,
     "title": "Lego Pac-Man 10323",
@@ -184,6 +207,7 @@
     "id": 4321066629
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/3904590043-lego-10323-icons-pac-man-arcade-creator",
     "price": 389.2,
     "title": "Lego 10323 icons pac-man arcade creator",
@@ -192,6 +216,7 @@
     "id": 3904590043
   },
   {
+    "legoId": "10323",
     "link": "https://www.vinted.fr/items/5199056235-legor-icons-pac-man-10323",
     "price": 231.7,
     "title": "LEGO® Icons Pac-Man 10323",

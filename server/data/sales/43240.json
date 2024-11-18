@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "43240",
     "link": "https://www.vinted.fr/items/5294338167-lego-43240-incomplet",
     "price": 21.7,
     "title": "Lego 43240 incomplet",
@@ -8,6 +9,7 @@
     "id": 5294338167
   },
   {
+    "legoId": "43240",
     "link": "https://www.vinted.fr/items/5239517820-lego-disney-43240-aurora-and-philip-no-dragon",
     "price": 24.33,
     "title": "Lego Disney 43240 Aurora and Philip (no dragon)",
@@ -16,22 +18,7 @@
     "id": 5239517820
   },
   {
-    "link": "https://www.vinted.fr/items/5294834061-lego-disney-figurines-43240",
-    "price": 7,
-    "title": "Lego disney figurines 43240",
-    "imgUrl": "https://images1.vinted.net/t/04_00649_oFQXEa5NEaEhvWfvoo4pNKiB/f800/1730145460.jpeg?s=4484eb5a37764b72694c2dbd7fe396b2d07f31fb",
-    "publicationDate": 1730145460,
-    "id": 5294834061
-  },
-  {
-    "link": "https://www.vinted.fr/items/5354247952-lego-43240-disney-princesse-aurore-neuf",
-    "price": 53.2,
-    "title": "Lego 43240 Disney princesse aurore neuf",
-    "imgUrl": "https://images1.vinted.net/t/04_00098_Di7iy6yfBGLzqUkJSoHeUk1J/f800/1731172447.jpeg?s=b043f3dace2b03bc3c8b0b2e8f4ac850ae8e72a5",
-    "publicationDate": 1731172447,
-    "id": 5354247952
-  },
-  {
+    "legoId": "43240",
     "link": "https://www.vinted.fr/items/5403382930-lego-disney-princess-43240",
     "price": 53.2,
     "title": "Lego disney princess 43240",
@@ -40,6 +27,25 @@
     "id": 5403382930
   },
   {
+    "legoId": "43240",
+    "link": "https://www.vinted.fr/items/5294834061-lego-disney-figurines-43240",
+    "price": 7,
+    "title": "Lego disney figurines 43240",
+    "imgUrl": "https://images1.vinted.net/t/04_00649_oFQXEa5NEaEhvWfvoo4pNKiB/f800/1730145460.jpeg?s=4484eb5a37764b72694c2dbd7fe396b2d07f31fb",
+    "publicationDate": 1730145460,
+    "id": 5294834061
+  },
+  {
+    "legoId": "43240",
+    "link": "https://www.vinted.fr/items/5354247952-lego-43240-disney-princesse-aurore-neuf",
+    "price": 53.2,
+    "title": "Lego 43240 Disney princesse aurore neuf",
+    "imgUrl": "https://images1.vinted.net/t/04_00098_Di7iy6yfBGLzqUkJSoHeUk1J/f800/1731172447.jpeg?s=b043f3dace2b03bc3c8b0b2e8f4ac850ae8e72a5",
+    "publicationDate": 1731172447,
+    "id": 5354247952
+  },
+  {
+    "legoId": "43240",
     "link": "https://www.vinted.fr/items/4848090324-lot-lego-sans-la-boite-harry-potter",
     "price": 53.2,
     "title": "Lot lego (sans la boîte Harry potter)",
@@ -48,6 +54,7 @@
     "id": 4848090324
   },
   {
+    "legoId": "43240",
     "link": "https://www.vinted.fr/items/5333809876-lego-princess-disney-43240",
     "price": 53.2,
     "title": "Lego Princess Disney 43240",
@@ -56,6 +63,7 @@
     "id": 5333809876
   },
   {
+    "legoId": "43240",
     "link": "https://www.vinted.fr/items/5090548713-43240-lego-belle-au-bois-dormant",
     "price": 63.7,
     "title": "43240 lego belle au bois dormant",

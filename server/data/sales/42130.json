@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5160082986-100-lego",
     "price": 2.28,
     "title": "100% lego",
@@ -8,14 +9,7 @@
     "id": 5160082986
   },
   {
-    "link": "https://www.vinted.fr/items/5378702731-lego-compatible-technic-42130",
-    "price": 63.7,
-    "title": "Lego Compatible Technic 42130",
-    "imgUrl": "https://images1.vinted.net/t/02_00d2b_rQSu2wDeB7HdjLj51NDqGh8p/f800/1731526554.jpeg?s=5f858bbee04a852ab5016e070b4821a6f51bc9f5",
-    "publicationDate": 1731526554,
-    "id": 5378702731
-  },
-  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5396185098-lego-42130-bmw",
     "price": 158.2,
     "title": "Lego 42130 BMW",
@@ -24,14 +18,16 @@
     "id": 5396185098
   },
   {
-    "link": "https://www.vinted.fr/items/5353391251-lego-technic-anleitungen-bauanleitungen-genaue-liste-siehe-text",
-    "price": 9.1,
-    "title": "Lego Technic Anleitungen, Bauanleitungen, genaue Liste siehe Text",
-    "imgUrl": "https://images1.vinted.net/t/02_00507_kCaNDzQvrsiNZbmWhGr55JtL/f800/1731165125.jpeg?s=c09a764cc2bb8c1526bea6104aa909a7da3308ba",
-    "publicationDate": 1731165125,
-    "id": 5353391251
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/5378702731-lego-compatible-technic-42130",
+    "price": 63.7,
+    "title": "Lego Compatible Technic 42130",
+    "imgUrl": "https://images1.vinted.net/t/02_00d2b_rQSu2wDeB7HdjLj51NDqGh8p/f800/1731526554.jpeg?s=5f858bbee04a852ab5016e070b4821a6f51bc9f5",
+    "publicationDate": 1731526554,
+    "id": 5378702731
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5240852280-lego-moto-bmw-1000-rr",
     "price": 110.95,
     "title": "Lego moto bmw 1000 RR",
@@ -40,6 +36,7 @@
     "id": 5240852280
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/4646384331-lego-rescuehoovercraft-42130",
     "price": 13.83,
     "title": "Lego rescuehoovercraft 42130",
@@ -48,14 +45,16 @@
     "id": 4646384331
   },
   {
-    "link": "https://www.vinted.fr/items/5336895191-lego-bmw-s1000rr",
-    "price": 158.2,
-    "title": "Lego bmw S1000RR",
-    "imgUrl": "https://images1.vinted.net/t/04_01dab_xe6r5PE1Qe8YX54TtNLzXZz8/f800/1730877404.jpeg?s=77faeed7c2c900bc9d25082c90841a725fc16856",
-    "publicationDate": 1730877404,
-    "id": 5336895191
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/5353391251-lego-technic-anleitungen-bauanleitungen-genaue-liste-siehe-text",
+    "price": 9.1,
+    "title": "Lego Technic Anleitungen, Bauanleitungen, genaue Liste siehe Text",
+    "imgUrl": "https://images1.vinted.net/t/02_00507_kCaNDzQvrsiNZbmWhGr55JtL/f800/1731165125.jpeg?s=c09a764cc2bb8c1526bea6104aa909a7da3308ba",
+    "publicationDate": 1731165125,
+    "id": 5353391251
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/4501415629-lego-technic-moto-bmw-gs1200",
     "price": 32.2,
     "title": "Lego Technic Moto Bmw Gs1200",
@@ -64,6 +63,16 @@
     "id": 4501415629
   },
   {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/5336895191-lego-bmw-s1000rr",
+    "price": 158.2,
+    "title": "Lego bmw S1000RR",
+    "imgUrl": "https://images1.vinted.net/t/04_01dab_xe6r5PE1Qe8YX54TtNLzXZz8/f800/1730877404.jpeg?s=77faeed7c2c900bc9d25082c90841a725fc16856",
+    "publicationDate": 1730877404,
+    "id": 5336895191
+  },
+  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5358569452-moto-bmw-1000-rr-lego-compatible-42130",
     "price": 116.2,
     "title": "Moto BMW 1000 RR Lego Compatible 42130",
@@ -72,6 +81,7 @@
     "id": 5358569452
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5357651141-lego-technic-set-42130-bmw-m1000rr",
     "price": 137.2,
     "title": "Lego Technic set 42130 BMW M1000RR",
@@ -80,6 +90,7 @@
     "id": 5357651141
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5194493089-lego-technic-42130-bmw-m1000-rr",
     "price": 137.2,
     "title": "Lego Technic 42130 bmw m1000 rr",
@@ -88,14 +99,7 @@
     "id": 5194493089
   },
   {
-    "link": "https://www.vinted.fr/items/5342329200-lego-42130-bmw",
-    "price": 194.95,
-    "title": "lego 42130 bmw",
-    "imgUrl": "https://images1.vinted.net/t/04_01e68_HbQv1ZKV4C3WoNEGozLZe2MA/f800/1730976113.jpeg?s=0ef8b3934d539f95e68645b5d52f74b7bd4922ce",
-    "publicationDate": 1730976113,
-    "id": 5342329200
-  },
-  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5361217248-lego-moto-bmw-m1000-rr-42130",
     "price": 189.7,
     "title": "LEGO moto BMW M1000 RR 42130",
@@ -104,6 +108,16 @@
     "id": 5361217248
   },
   {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/5342329200-lego-42130-bmw",
+    "price": 194.95,
+    "title": "lego 42130 bmw",
+    "imgUrl": "https://images1.vinted.net/t/04_01e68_HbQv1ZKV4C3WoNEGozLZe2MA/f800/1730976113.jpeg?s=0ef8b3934d539f95e68645b5d52f74b7bd4922ce",
+    "publicationDate": 1730976113,
+    "id": 5342329200
+  },
+  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5292953332-lego-icons-ayrton-senna-formule-1",
     "price": 63.7,
     "title": "Lego Icons Ayrton Senna Formule 1",
@@ -112,6 +126,7 @@
     "id": 5292953332
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5373710303-lego-42130-bmw-m-1000-rr",
     "price": 179.2,
     "title": "Lego 42130 BMW M 1000 RR",
@@ -120,6 +135,7 @@
     "id": 5373710303
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5257597457-lego-bmw",
     "price": 179.2,
     "title": "Lego BMW",
@@ -128,14 +144,7 @@
     "id": 5257597457
   },
   {
-    "link": "https://www.vinted.fr/items/5233084050-lego-technich-42130-m1000rr",
-    "price": 158.2,
-    "title": "Lego Technich 42130 M1000RR",
-    "imgUrl": "https://images1.vinted.net/t/02_00f22_4eANqp48fe9wH3vrRsL34f1a/f800/1729177404.jpeg?s=0d144a259b05e51552935ec923814ce57b72ff2f",
-    "publicationDate": 1729177404,
-    "id": 5233084050
-  },
-  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5099782757-lego-42130",
     "price": 105.7,
     "title": "LEGO 42130",
@@ -144,6 +153,7 @@
     "id": 5099782757
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5384942367-lot-9-lego-technic",
     "price": 897.6,
     "title": "Lot 9 lego technic",
@@ -152,6 +162,7 @@
     "id": 5384942367
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5388287693-lego-technic-42130",
     "price": 172.9,
     "title": "Lego technic 42130",
@@ -160,6 +171,7 @@
     "id": 5388287693
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5332319580-lego-technic-bmw-m-1000-rr-42130",
     "price": 152.95,
     "title": "LEGO Technic BMW M 1000 RR - 42130",
@@ -168,6 +180,7 @@
     "id": 5332319580
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5383728041-lego-technic-moto-yamaha-mt10",
     "price": 147.7,
     "title": "Lego Technic Moto Yamaha MT10",
@@ -176,14 +189,7 @@
     "id": 5383728041
   },
   {
-    "link": "https://www.vinted.fr/items/5375713878-sets-lego-scelles",
-    "price": 315.7,
-    "title": "Sets Lego scellés",
-    "imgUrl": "https://images1.vinted.net/t/04_01e1d_dN6NDKD7zkHGF9xSY6QWBSgc/f800/1731497065.jpeg?s=8740fab934e123f77c5b238f429ce0156eb2e889",
-    "publicationDate": 1731497065,
-    "id": 5375713878
-  },
-  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/4765398532-lego-technic-42130-moto-bmw-1000rr",
     "price": 189.7,
     "title": "Lego technic 42130 moto BMW 1000RR",
@@ -192,30 +198,7 @@
     "id": 4765398532
   },
   {
-    "link": "https://www.vinted.fr/items/5354853342-lego-technic-audi",
-    "price": 105.7,
-    "title": "Lego Technic Audi",
-    "imgUrl": "https://images1.vinted.net/t/04_01d21_GpM3VThNtbrXzh5gxa4Ro8tw/f800/1731179222.jpeg?s=9d28bb310f25afd5bb8ace94c2be39f449042e1f",
-    "publicationDate": 1731179222,
-    "id": 5354853342
-  },
-  {
-    "link": "https://www.vinted.fr/items/5007269122-lego-moto-bmw",
-    "price": 179.2,
-    "title": "Lego moto bmw",
-    "imgUrl": "https://images1.vinted.net/t/01_01596_BMumo65pafkPGzeRkFRkPUVG/f800/1725806485.jpeg?s=159f1595f66c26c067069bc96e1e8e0659b7e04e",
-    "publicationDate": 1725806485,
-    "id": 5007269122
-  },
-  {
-    "link": "https://www.vinted.fr/items/5305042586-lego-vespa-125",
-    "price": 84.7,
-    "title": "Lego Vespa 125",
-    "imgUrl": "https://images1.vinted.net/t/04_01ff6_KdwycHFqayY8YWa8ah8swZL3/f800/1730322356.jpeg?s=512a6d1e747fd58b0277f7ef098453ef25bae5a9",
-    "publicationDate": 1730322356,
-    "id": 5305042586
-  },
-  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5190453947-lego-technic-42130-bmw-m-1000-rr",
     "price": 199.66,
     "title": "Lego Technic #42130 BMW M 1000 RR",
@@ -224,22 +207,43 @@
     "id": 5190453947
   },
   {
-    "link": "https://www.vinted.fr/items/5269090798-lego-technic-42130-bmw-m-1000-rr",
-    "price": 200.2,
-    "title": "Lego Technic 42130 BMW M 1000 RR",
-    "imgUrl": "https://images1.vinted.net/t/02_00a69_9Q67MZNuiY3uMR7NkRjZN6A3/f800/1729756280.jpeg?s=3097a0a84441d1b5138aaa640c53268527a1a1b8",
-    "publicationDate": 1729756280,
-    "id": 5269090798
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/5354853342-lego-technic-audi",
+    "price": 105.7,
+    "title": "Lego Technic Audi",
+    "imgUrl": "https://images1.vinted.net/t/04_01d21_GpM3VThNtbrXzh5gxa4Ro8tw/f800/1731179222.jpeg?s=9d28bb310f25afd5bb8ace94c2be39f449042e1f",
+    "publicationDate": 1731179222,
+    "id": 5354853342
   },
   {
-    "link": "https://www.vinted.fr/items/5372589846-lego-42130-bmw-m-1000-pr-neuf",
-    "price": 263.2,
-    "title": "Lego 42130 Bmw M 1000 Pr NEUF",
-    "imgUrl": "https://images1.vinted.net/t/04_014ee_1JsVxe946hQaPLRWtZNQaDLJ/f800/1731429870.jpeg?s=ecd773c1fec4baf6c69f2ce61643d15a120d63cc",
-    "publicationDate": 1731429870,
-    "id": 5372589846
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/5375713878-sets-lego-scelles",
+    "price": 315.7,
+    "title": "Sets Lego scellés",
+    "imgUrl": "https://images1.vinted.net/t/04_01e1d_dN6NDKD7zkHGF9xSY6QWBSgc/f800/1731497065.jpeg?s=8740fab934e123f77c5b238f429ce0156eb2e889",
+    "publicationDate": 1731497065,
+    "id": 5375713878
   },
   {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/5007269122-lego-moto-bmw",
+    "price": 179.2,
+    "title": "Lego moto bmw",
+    "imgUrl": "https://images1.vinted.net/t/01_01596_BMumo65pafkPGzeRkFRkPUVG/f800/1725806485.jpeg?s=159f1595f66c26c067069bc96e1e8e0659b7e04e",
+    "publicationDate": 1725806485,
+    "id": 5007269122
+  },
+  {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/5305042586-lego-vespa-125",
+    "price": 84.7,
+    "title": "Lego Vespa 125",
+    "imgUrl": "https://images1.vinted.net/t/04_01ff6_KdwycHFqayY8YWa8ah8swZL3/f800/1730322356.jpeg?s=512a6d1e747fd58b0277f7ef098453ef25bae5a9",
+    "publicationDate": 1730322356,
+    "id": 5305042586
+  },
+  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/4997576474-lego-technic-42130-bmw-m-1000-rr",
     "price": 189.7,
     "title": "Lego Technic 42130 BMW m 1000 rr",
@@ -248,6 +252,25 @@
     "id": 4997576474
   },
   {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/5269090798-lego-technic-42130-bmw-m-1000-rr",
+    "price": 200.2,
+    "title": "Lego Technic 42130 BMW M 1000 RR",
+    "imgUrl": "https://images1.vinted.net/t/02_00a69_9Q67MZNuiY3uMR7NkRjZN6A3/f800/1729756280.jpeg?s=3097a0a84441d1b5138aaa640c53268527a1a1b8",
+    "publicationDate": 1729756280,
+    "id": 5269090798
+  },
+  {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/5372589846-lego-42130-bmw-m-1000-pr-neuf",
+    "price": 263.2,
+    "title": "Lego 42130 Bmw M 1000 Pr NEUF",
+    "imgUrl": "https://images1.vinted.net/t/04_014ee_1JsVxe946hQaPLRWtZNQaDLJ/f800/1731429870.jpeg?s=ecd773c1fec4baf6c69f2ce61643d15a120d63cc",
+    "publicationDate": 1731429870,
+    "id": 5372589846
+  },
+  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5118751865-lego-bmw-rr",
     "price": 147.7,
     "title": "Lego bmw rr",
@@ -256,6 +279,7 @@
     "id": 5118751865
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5336521203-lego-bmw-m-1000-rr-set-42130",
     "price": 205.45,
     "title": "Lego BMW M 1000 RR -  set 42130",
@@ -264,6 +288,7 @@
     "id": 5336521203
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5322055516-lego-technic-42130",
     "price": 215.95,
     "title": "Lego technic 42130",
@@ -272,6 +297,7 @@
     "id": 5322055516
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5335557452-lego-technic-porsche-911",
     "price": 147.7,
     "title": "Lego Technic Porsche 911",
@@ -280,6 +306,7 @@
     "id": 5335557452
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/3955987472-lego-technic",
     "price": 194.95,
     "title": "Lego technic",
@@ -288,14 +315,7 @@
     "id": 3955987472
   },
   {
-    "link": "https://www.vinted.fr/items/5394039314-lego-technic-fusee-nasa",
-    "price": 158.2,
-    "title": "Lego Technic fusée NASA",
-    "imgUrl": "https://images1.vinted.net/t/04_01a53_Fm68o6tnb1XftBs2QFsoGB2Y/f800/1731792039.jpeg?s=c90fd9c90e9dbb9b03b201499738c2fd0b04e053",
-    "publicationDate": 1731792039,
-    "id": 5394039314
-  },
-  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5245843059-lego-bmw-m1000rr-42130",
     "price": 194.95,
     "title": "Lego BMW M1000RR 42130",
@@ -304,14 +324,25 @@
     "id": 5245843059
   },
   {
-    "link": "https://www.vinted.fr/items/5120232442-lego-42130-bmw-m-1000-rr",
-    "price": 199.15,
-    "title": "Lego 42130 BMW M 1000 RR",
-    "imgUrl": "https://images1.vinted.net/t/02_00f91_AP3ExY7rpie73BBnUtujQe46/f800/1727518971.jpeg?s=efb15e7ed02fff40b43b09774881a7738e3f86da",
-    "publicationDate": 1727518971,
-    "id": 5120232442
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/5233084050-lego-technich-42130-m1000rr",
+    "price": 158.2,
+    "title": "Lego Technich 42130 M1000RR",
+    "imgUrl": "https://images1.vinted.net/t/02_00f22_4eANqp48fe9wH3vrRsL34f1a/f800/1729177404.jpeg?s=0d144a259b05e51552935ec923814ce57b72ff2f",
+    "publicationDate": 1729177404,
+    "id": 5233084050
   },
   {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/5394039314-lego-technic-fusee-nasa",
+    "price": 158.2,
+    "title": "Lego Technic fusée NASA",
+    "imgUrl": "https://images1.vinted.net/t/04_01a53_Fm68o6tnb1XftBs2QFsoGB2Y/f800/1731792039.jpeg?s=c90fd9c90e9dbb9b03b201499738c2fd0b04e053",
+    "publicationDate": 1731792039,
+    "id": 5394039314
+  },
+  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5019017082-lego-technic-42130-bmw-m-1000-rr",
     "price": 273.7,
     "title": "Lego technic 42130 bmw m 1000 rr",
@@ -320,14 +351,16 @@
     "id": 5019017082
   },
   {
-    "link": "https://www.vinted.fr/items/5165867561-lego-technic-bmw-motorrad-modell-m-1000-rr-neu-inkl-ovp",
-    "price": 188.65,
-    "title": "LEGO Technic - BMW Motorrad - Modell M 1000 RR - NEU inkl. OVP!",
-    "imgUrl": "https://images1.vinted.net/t/03_00ffd_5pBS42GCBXCQaLcD3LpdBKPP/f800/1728199046.jpeg?s=840739c596f596376dccb2832c3c7b928c318bab",
-    "publicationDate": 1728199046,
-    "id": 5165867561
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/5120232442-lego-42130-bmw-m-1000-rr",
+    "price": 199.15,
+    "title": "Lego 42130 BMW M 1000 RR",
+    "imgUrl": "https://images1.vinted.net/t/02_00f91_AP3ExY7rpie73BBnUtujQe46/f800/1727518971.jpeg?s=efb15e7ed02fff40b43b09774881a7738e3f86da",
+    "publicationDate": 1727518971,
+    "id": 5120232442
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/4442895137-lego-bmw-1000rr-42130",
     "price": 200.2,
     "title": "Lego BMW 1000RR (42130)",
@@ -336,6 +369,16 @@
     "id": 4442895137
   },
   {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/5165867561-lego-technic-bmw-motorrad-modell-m-1000-rr-neu-inkl-ovp",
+    "price": 188.65,
+    "title": "LEGO Technic - BMW Motorrad - Modell M 1000 RR - NEU inkl. OVP!",
+    "imgUrl": "https://images1.vinted.net/t/03_00ffd_5pBS42GCBXCQaLcD3LpdBKPP/f800/1728199046.jpeg?s=840739c596f596376dccb2832c3c7b928c318bab",
+    "publicationDate": 1728199046,
+    "id": 5165867561
+  },
+  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/4727374443-lego-set-42130-technic-bmw-m-1000-rr",
     "price": 168.7,
     "title": "Lego set 42130 Technic BMW m 1000 rr",
@@ -344,6 +387,7 @@
     "id": 4727374443
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/4258569910-lego-42130-bmw-m-1000-rr",
     "price": 209.65,
     "title": "Lego - 42130 - BMW M 1000 RR ",
@@ -352,6 +396,7 @@
     "id": 4258569910
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/4009754704-moto-bmw-1000rr-lego",
     "price": 168.7,
     "title": "Moto BMW 1000RR Lego",
@@ -360,6 +405,7 @@
     "id": 4009754704
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/4251238620-lego-technic-42130-bmw-m-1000-rr",
     "price": 152.95,
     "title": "LEGO Technic 42130 BMW M 1000 RR",
@@ -368,6 +414,7 @@
     "id": 4251238620
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5018028676-lego-42130",
     "price": 158.2,
     "title": "Lego 42130",
@@ -376,6 +423,7 @@
     "id": 5018028676
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/4510252541-lego-technic-bmw-42130-nuovo",
     "price": 263.2,
     "title": "Lego Technic BMW 42130 nuovo",
@@ -384,6 +432,7 @@
     "id": 4510252541
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5305087267-lego-technic-la-debardeuse-john-deere",
     "price": 152.95,
     "title": "Lego Technic La débardeuse John Deere",
@@ -392,30 +441,7 @@
     "id": 5305087267
   },
   {
-    "link": "https://www.vinted.fr/items/4726107294-lego-42130",
-    "price": 210.7,
-    "title": "Lego 42130",
-    "imgUrl": "https://images1.vinted.net/t/02_0121f_nZ6xyYa9RtR5kDCnMYs4z1bE/f800/1720179216.jpeg?s=e5917f6128dd1c6a4f7e82e1f69474aac0514b9f",
-    "publicationDate": 1720179216,
-    "id": 4726107294
-  },
-  {
-    "link": "https://www.vinted.fr/items/4317037365-lego-motorrad-bmw-m-1000-rr",
-    "price": 189.7,
-    "title": "Lego Motorrad BMW M 1000 RR",
-    "imgUrl": "https://images1.vinted.net/t/01_00b40_kQLCFmG264vVLCzSyMtWkWPa/f800/1712254630.jpeg?s=4a02c43bb5df77c2b79a923a54407ccce3a3467c",
-    "publicationDate": 1712254630,
-    "id": 4317037365
-  },
-  {
-    "link": "https://www.vinted.fr/items/2513256117-lego-42130-bmw-m-1000-rr",
-    "price": 200.2,
-    "title": "LEGO 42130 bmw m 1000 RR",
-    "imgUrl": "https://images1.vinted.net/t/03_01d27_m3279CJSB9MJrLaTb7UrauXW/f800/1671054652.jpeg?s=4650fa25b37ac59b3cdd57fb7f976361a78931df",
-    "publicationDate": 1671054652,
-    "id": 2513256117
-  },
-  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/3688267466-lego-bmw-m-1000-rr",
     "price": 210.69,
     "title": "Lego Bmw M 1000 RR",
@@ -424,6 +450,25 @@
     "id": 3688267466
   },
   {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/4317037365-lego-motorrad-bmw-m-1000-rr",
+    "price": 189.7,
+    "title": "Lego Motorrad BMW M 1000 RR",
+    "imgUrl": "https://images1.vinted.net/t/01_00b40_kQLCFmG264vVLCzSyMtWkWPa/f800/1712254630.jpeg?s=4a02c43bb5df77c2b79a923a54407ccce3a3467c",
+    "publicationDate": 1712254630,
+    "id": 4317037365
+  },
+  {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/4726107294-lego-42130",
+    "price": 210.7,
+    "title": "Lego 42130",
+    "imgUrl": "https://images1.vinted.net/t/02_0121f_nZ6xyYa9RtR5kDCnMYs4z1bE/f800/1720179216.jpeg?s=e5917f6128dd1c6a4f7e82e1f69474aac0514b9f",
+    "publicationDate": 1720179216,
+    "id": 4726107294
+  },
+  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5159104473-lego-technic-42130-bmw-m-1000-rr-motor",
     "price": 230.65,
     "title": "LEGO Technic 42130 BMW M 1000 RR Motor",
@@ -432,6 +477,16 @@
     "id": 5159104473
   },
   {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/2513256117-lego-42130-bmw-m-1000-rr",
+    "price": 200.2,
+    "title": "LEGO 42130 bmw m 1000 RR",
+    "imgUrl": "https://images1.vinted.net/t/03_01d27_m3279CJSB9MJrLaTb7UrauXW/f800/1671054652.jpeg?s=4650fa25b37ac59b3cdd57fb7f976361a78931df",
+    "publicationDate": 1671054652,
+    "id": 2513256117
+  },
+  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/5155496747-lego-technic-42130-bmw-m-1000-rr",
     "price": 210.7,
     "title": "LEGO Technic 42130 BMW M 1000 RR",
@@ -440,6 +495,7 @@
     "id": 5155496747
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/4926825106-lego-42130",
     "price": 209.65,
     "title": "Lego 42130",
@@ -448,6 +504,7 @@
     "id": 4926825106
   },
   {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/3011071509-lego-s-moto-bmw-42130",
     "price": 221.2,
     "title": "Lego s moto BMW 42130",
@@ -456,22 +513,7 @@
     "id": 3011071509
   },
   {
-    "link": "https://www.vinted.fr/items/2753567003-modelli-lego",
-    "price": 263.2,
-    "title": "Modelli Lego",
-    "imgUrl": "https://images1.vinted.net/t/02_00bb2_5w942KnxMNF4QeZGiTqB45eV/f800/1678008118.jpeg?s=61de80c3d6098ced7961010556b7ded1e7e6f876",
-    "publicationDate": 1678008118,
-    "id": 2753567003
-  },
-  {
-    "link": "https://www.vinted.fr/items/3659509501-lego-42130",
-    "price": 210.7,
-    "title": "Lego 42130",
-    "imgUrl": "https://images1.vinted.net/t/02_00176_WEYPanxa9hWr8GF4bWdd2AEG/f800/1698163937.jpeg?s=5b19e2072c688f97e72f9d5b2149a8d5e71e311c",
-    "publicationDate": 1698163937,
-    "id": 3659509501
-  },
-  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/3687576523-lego-bmw-m-1000-rr-ref-42130",
     "price": 221.2,
     "title": "Lego BMW M 1000 RR réf 42130",
@@ -480,70 +522,7 @@
     "id": 3687576523
   },
   {
-    "link": "https://www.vinted.fr/items/2990479940-lego-42130-mib-bmw-m-1000-rr",
-    "price": 200.2,
-    "title": "Lego 42130 MIB bmw M 1000 RR",
-    "imgUrl": "https://images1.vinted.net/t/01_00620_hRHUpUa5bA4bvUiB8nTgyu9n/f800/1683465427.jpeg?s=1c34556431951b95d9c6afb209785994fabae6d3",
-    "publicationDate": 1683465427,
-    "id": 2990479940
-  },
-  {
-    "link": "https://www.vinted.fr/items/2874071718-lego-42130-technic-bmw-m-1000-rr",
-    "price": 210.7,
-    "title": "Lego 42130 Technic BMW m 1000 RR",
-    "imgUrl": "https://images1.vinted.net/t/02_0224e_VGKcvmz3KZeMhvESsZCbP3hN/f800/1680796480.jpeg?s=5b677c7e7dab745e0788c8dd86fcede1040ce703",
-    "publicationDate": 1680796480,
-    "id": 2874071718
-  },
-  {
-    "link": "https://www.vinted.fr/items/3673008093-lego-technic-42130",
-    "price": 221.2,
-    "title": "Lego technic 42130",
-    "imgUrl": "https://images1.vinted.net/t/01_01743_HxFAMsqtWE4XsByvCVKxCduK/f800/1698421858.jpeg?s=dffa04826b9b5e33f12877405f635ffc412d25f6",
-    "publicationDate": 1698421858,
-    "id": 3673008093
-  },
-  {
-    "link": "https://www.vinted.fr/items/2695685477-lego-42130-bmw-1000-rr",
-    "price": 200.2,
-    "title": "Lego 42130 BMW 1000 RR",
-    "imgUrl": "https://images1.vinted.net/t/01_0023b_HyX94c3uq8ipTFB1Kt7gr1pC/f800/1676504041.jpeg?s=971672471578f205584dc9ab0380edd4f8da9d24",
-    "publicationDate": 1676504041,
-    "id": 2695685477
-  },
-  {
-    "link": "https://www.vinted.fr/items/2504161745-lego-technic-moto-bmw-42130",
-    "price": 242.2,
-    "title": "Lego Technic moto BMW 42130",
-    "imgUrl": "https://images1.vinted.net/t/01_0160b_AetFgqNfdsX4L4zVBnWX5LjC/f800/1670787368.jpeg?s=7fe3d8b5a7e5fee36d6a75623517e132893e7e25",
-    "publicationDate": 1670787368,
-    "id": 2504161745
-  },
-  {
-    "link": "https://www.vinted.fr/items/1563616661-lego-bmw-motorrad-motorcycle-set",
-    "price": 210.7,
-    "title": "Lego bmw  Motorrad Motorcycle set",
-    "imgUrl": "https://images1.vinted.net/t/01_005d5_aqfGt5GK3yY9ahJxxp7c7nhv/f800/1642231310.jpeg?s=3e8c0345b7477b12d49b14f86695c5a1a7239770",
-    "publicationDate": 1642231310,
-    "id": 1563616661
-  },
-  {
-    "link": "https://www.vinted.fr/items/4109522119-set-lego-42130",
-    "price": 263.2,
-    "title": "Set lego 42130",
-    "imgUrl": "https://images1.vinted.net/t/03_00e89_KfjztGYYCo2uVycTxfbyDHUk/f800/1708152125.jpeg?s=946a5789977301ba501c6837e8609c4aa8cf6fb3",
-    "publicationDate": 1708152125,
-    "id": 4109522119
-  },
-  {
-    "link": "https://www.vinted.fr/items/2007486786-lego-42130-bmw-m-1000-rr",
-    "price": 200.2,
-    "title": "Lego 42130 BMW M 1000 RR",
-    "imgUrl": "https://images1.vinted.net/t/03_01765_pDAkmBN8Ka9oUawZjuXNV6vn/f800/1656815364.jpeg?s=5241601957c4cd499c819276c09a5df3f9955e72",
-    "publicationDate": 1656815364,
-    "id": 2007486786
-  },
-  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/1579285257-lego-technik-bmw-m-1000-rr",
     "price": 179.2,
     "title": "Lego Technik BMW M 1000 RR",
@@ -552,6 +531,97 @@
     "id": 1579285257
   },
   {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/3659509501-lego-42130",
+    "price": 210.7,
+    "title": "Lego 42130",
+    "imgUrl": "https://images1.vinted.net/t/02_00176_WEYPanxa9hWr8GF4bWdd2AEG/f800/1698163937.jpeg?s=5b19e2072c688f97e72f9d5b2149a8d5e71e311c",
+    "publicationDate": 1698163937,
+    "id": 3659509501
+  },
+  {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/2874071718-lego-42130-technic-bmw-m-1000-rr",
+    "price": 210.7,
+    "title": "Lego 42130 Technic BMW m 1000 RR",
+    "imgUrl": "https://images1.vinted.net/t/02_0224e_VGKcvmz3KZeMhvESsZCbP3hN/f800/1680796480.jpeg?s=5b677c7e7dab745e0788c8dd86fcede1040ce703",
+    "publicationDate": 1680796480,
+    "id": 2874071718
+  },
+  {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/3673008093-lego-technic-42130",
+    "price": 221.2,
+    "title": "Lego technic 42130",
+    "imgUrl": "https://images1.vinted.net/t/01_01743_HxFAMsqtWE4XsByvCVKxCduK/f800/1698421858.jpeg?s=dffa04826b9b5e33f12877405f635ffc412d25f6",
+    "publicationDate": 1698421858,
+    "id": 3673008093
+  },
+  {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/3190578562-lego-42130-bmw-m-1000-r",
+    "price": 210.7,
+    "title": "Lego 42130 BMW M 1000 R",
+    "imgUrl": "https://images1.vinted.net/t/03_01ab9_quMUe4LUozKM3X7jeaywcezG/f800/1688115868.jpeg?s=5f31c7d2c3480f5c9bd3c8d5e71ea6c73b90dc16",
+    "publicationDate": 1688115868,
+    "id": 3190578562
+  },
+  {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/2990479940-lego-42130-mib-bmw-m-1000-rr",
+    "price": 200.2,
+    "title": "Lego 42130 MIB bmw M 1000 RR",
+    "imgUrl": "https://images1.vinted.net/t/01_00620_hRHUpUa5bA4bvUiB8nTgyu9n/f800/1683465427.jpeg?s=1c34556431951b95d9c6afb209785994fabae6d3",
+    "publicationDate": 1683465427,
+    "id": 2990479940
+  },
+  {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/2695685477-lego-42130-bmw-1000-rr",
+    "price": 200.2,
+    "title": "Lego 42130 BMW 1000 RR",
+    "imgUrl": "https://images1.vinted.net/t/01_0023b_HyX94c3uq8ipTFB1Kt7gr1pC/f800/1676504041.jpeg?s=971672471578f205584dc9ab0380edd4f8da9d24",
+    "publicationDate": 1676504041,
+    "id": 2695685477
+  },
+  {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/2504161745-lego-technic-moto-bmw-42130",
+    "price": 242.2,
+    "title": "Lego Technic moto BMW 42130",
+    "imgUrl": "https://images1.vinted.net/t/01_0160b_AetFgqNfdsX4L4zVBnWX5LjC/f800/1670787368.jpeg?s=7fe3d8b5a7e5fee36d6a75623517e132893e7e25",
+    "publicationDate": 1670787368,
+    "id": 2504161745
+  },
+  {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/4109522119-set-lego-42130",
+    "price": 263.2,
+    "title": "Set lego 42130",
+    "imgUrl": "https://images1.vinted.net/t/03_00e89_KfjztGYYCo2uVycTxfbyDHUk/f800/1708152125.jpeg?s=946a5789977301ba501c6837e8609c4aa8cf6fb3",
+    "publicationDate": 1708152125,
+    "id": 4109522119
+  },
+  {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/1563616661-lego-bmw-motorrad-motorcycle-set",
+    "price": 210.7,
+    "title": "Lego bmw  Motorrad Motorcycle set",
+    "imgUrl": "https://images1.vinted.net/t/01_005d5_aqfGt5GK3yY9ahJxxp7c7nhv/f800/1642231310.jpeg?s=3e8c0345b7477b12d49b14f86695c5a1a7239770",
+    "publicationDate": 1642231310,
+    "id": 1563616661
+  },
+  {
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/2007486786-lego-42130-bmw-m-1000-rr",
+    "price": 200.2,
+    "title": "Lego 42130 BMW M 1000 RR",
+    "imgUrl": "https://images1.vinted.net/t/03_01765_pDAkmBN8Ka9oUawZjuXNV6vn/f800/1656815364.jpeg?s=5241601957c4cd499c819276c09a5df3f9955e72",
+    "publicationDate": 1656815364,
+    "id": 2007486786
+  },
+  {
+    "legoId": "42130",
     "link": "https://www.vinted.fr/items/4053833401-lego-42130-bmw-m-1000-rr",
     "price": 236.95,
     "title": "Lego 42130 BMW M 1000 RR",
@@ -560,11 +630,12 @@
     "id": 4053833401
   },
   {
-    "link": "https://www.vinted.fr/items/3190578562-lego-42130-bmw-m-1000-r",
-    "price": 210.7,
-    "title": "Lego 42130 BMW M 1000 R",
-    "imgUrl": "https://images1.vinted.net/t/03_01ab9_quMUe4LUozKM3X7jeaywcezG/f800/1688115868.jpeg?s=5f31c7d2c3480f5c9bd3c8d5e71ea6c73b90dc16",
-    "publicationDate": 1688115868,
-    "id": 3190578562
+    "legoId": "42130",
+    "link": "https://www.vinted.fr/items/2753567003-modelli-lego",
+    "price": 263.2,
+    "title": "Modelli Lego",
+    "imgUrl": "https://images1.vinted.net/t/02_00bb2_5w942KnxMNF4QeZGiTqB45eV/f800/1678008118.jpeg?s=61de80c3d6098ced7961010556b7ded1e7e6f876",
+    "publicationDate": 1678008118,
+    "id": 2753567003
   }
 ]

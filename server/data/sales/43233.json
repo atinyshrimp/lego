@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "43233",
     "link": "https://www.vinted.fr/items/5362517333-lego-belle-43233",
     "price": 5.95,
     "title": "Lego Belle 43233",
@@ -8,6 +9,7 @@
     "id": 5362517333
   },
   {
+    "legoId": "43233",
     "link": "https://www.vinted.fr/items/5260214906-lego-43233-belle-et-philibert",
     "price": 4.9,
     "title": "Lego 43233 Belle et Philibert",
@@ -16,6 +18,7 @@
     "id": 5260214906
   },
   {
+    "legoId": "43233",
     "link": "https://www.vinted.fr/items/4820727419-boite-lego-vide-43233",
     "price": 3.85,
     "title": "Boîte lego vide 43233",
@@ -24,6 +27,7 @@
     "id": 4820727419
   },
   {
+    "legoId": "43233",
     "link": "https://www.vinted.fr/items/5343525448-lego-disney-princess-43233",
     "price": 12.78,
     "title": "Lego Disney Princess 43233",
@@ -32,6 +36,7 @@
     "id": 5343525448
   },
   {
+    "legoId": "43233",
     "link": "https://www.vinted.fr/items/5294834951-lego-disney-beauty-43233",
     "price": 11.19,
     "title": "Lego Disney beauty 43233",
@@ -40,6 +45,7 @@
     "id": 5294834951
   },
   {
+    "legoId": "43233",
     "link": "https://www.vinted.fr/items/5105000040-lego-princesse-disney",
     "price": 11.2,
     "title": "Lego princesse Disney",
@@ -48,14 +54,7 @@
     "id": 5105000040
   },
   {
-    "link": "https://www.vinted.fr/items/4607511327-lego-disney-set-43233",
-    "price": 13.3,
-    "title": "Lego Disney set 43233",
-    "imgUrl": "https://images1.vinted.net/t/02_00abc_jbdKzgaHiWpXu94qTgz2P5wz/f800/1717691920.jpeg?s=822268348f2b83d204f25d0b9fb79f77c8ca9840",
-    "publicationDate": 1717691920,
-    "id": 4607511327
-  },
-  {
+    "legoId": "43233",
     "link": "https://www.vinted.fr/items/5283968643-lego-disney-princess-43233-belle-et-philippe-le-cheval",
     "price": 13.3,
     "title": "Lego Disney princess 43233 Belle et Philippe le cheval",
@@ -64,6 +63,16 @@
     "id": 5283968643
   },
   {
+    "legoId": "43233",
+    "link": "https://www.vinted.fr/items/4607511327-lego-disney-set-43233",
+    "price": 13.3,
+    "title": "Lego Disney set 43233",
+    "imgUrl": "https://images1.vinted.net/t/02_00abc_jbdKzgaHiWpXu94qTgz2P5wz/f800/1717691920.jpeg?s=822268348f2b83d204f25d0b9fb79f77c8ca9840",
+    "publicationDate": 1717691920,
+    "id": 4607511327
+  },
+  {
+    "legoId": "43233",
     "link": "https://www.vinted.fr/items/5113055470-lego-disney-43233-la-belle-et-la-bete",
     "price": 13.3,
     "title": "Lego disney 43233 la belle et la bête",

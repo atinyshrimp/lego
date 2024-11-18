@@ -1,53 +1,6 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5340205460-lego-creator-31147",
-    "price": 15.4,
-    "title": "Lego creator 31147",
-    "imgUrl": "https://images1.vinted.net/t/02_00b5e_itQ5bWfDfSspevVGn7VKKubG/f800/1730917780.jpeg?s=399cf8f993f3fdff5d6f7e33fb6c3a582525d324",
-    "publicationDate": 1730917780,
-    "id": 5340205460
-  },
-  {
-    "link": "https://www.vinted.fr/items/5353271190-lego-creator-31147-camera-retro-3-em-1",
-    "price": 18.55,
-    "title": "Lego creator 31147 câmera retro 3 em 1",
-    "imgUrl": "https://images1.vinted.net/t/02_01697_aPTYYMmkMyGjH8PTeqCPNThg/f800/1731164194.jpeg?s=73f9bd92a1ff83510a999e140727b75073a2c1d1",
-    "publicationDate": 1731164194,
-    "id": 5353271190
-  },
-  {
-    "link": "https://www.vinted.fr/items/5083733565-lego-creator-3-en-1-notice-reference-31147",
-    "price": 2.8,
-    "title": "Lego creator 3 en 1 notice référence 31147",
-    "imgUrl": "https://images1.vinted.net/t/02_02418_VFmqFmZjWodMjPCoXEkqxKx9/f800/1726943777.jpeg?s=5beb0eaf311d27d87ccb9c002700e93b051e67df",
-    "publicationDate": 1726943777,
-    "id": 5083733565
-  },
-  {
-    "link": "https://www.vinted.fr/items/5399771221-lego-creator-31147",
-    "price": 21.7,
-    "title": "Lego creator 31147",
-    "imgUrl": "https://images1.vinted.net/t/04_0245b_vUea39ZjXkT7zpftXkTDULhg/f800/1731863639.jpeg?s=e5539eb285e7375491a20cf614cd1a7634ea7824",
-    "publicationDate": 1731863639,
-    "id": 5399771221
-  },
-  {
-    "link": "https://www.vinted.fr/items/5351708133-lego-appareils-photos",
-    "price": 21.7,
-    "title": "Lego appareils photos",
-    "imgUrl": "https://images1.vinted.net/t/02_0107e_afyqXS3BCxBBfsqJ75qwcqcx/f800/1731151795.jpeg?s=1582aaf6c7e173b540b9bf48bdf5a07e1c49b66e",
-    "publicationDate": 1731151795,
-    "id": 5351708133
-  },
-  {
-    "link": "https://www.vinted.fr/items/5307976098-lego-31147-retro-camera-creator-3-in-1",
-    "price": 18.55,
-    "title": "Lego 31147 Retro Camera - Creator 3 in 1",
-    "imgUrl": "https://images1.vinted.net/t/04_0142f_PA9Ac43pVbgy34rVxyU3CJaA/f800/1730389287.jpeg?s=906977816fa0f60de3941a185dcaeb70a5486176",
-    "publicationDate": 1730389287,
-    "id": 5307976098
-  },
-  {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/5393873492-lego-31147",
     "price": 16.45,
     "title": "Lego 31147",
@@ -56,6 +9,7 @@
     "id": 5393873492
   },
   {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/5399065406-lego-creator-31147-novo",
     "price": 16.45,
     "title": "Lego Creator 31147 Novo",
@@ -64,6 +18,61 @@
     "id": 5399065406
   },
   {
+    "legoId": "31147",
+    "link": "https://www.vinted.fr/items/5340205460-lego-creator-31147",
+    "price": 15.4,
+    "title": "Lego creator 31147",
+    "imgUrl": "https://images1.vinted.net/t/02_00b5e_itQ5bWfDfSspevVGn7VKKubG/f800/1730917780.jpeg?s=399cf8f993f3fdff5d6f7e33fb6c3a582525d324",
+    "publicationDate": 1730917780,
+    "id": 5340205460
+  },
+  {
+    "legoId": "31147",
+    "link": "https://www.vinted.fr/items/5353271190-lego-creator-31147-camera-retro-3-em-1",
+    "price": 18.55,
+    "title": "Lego creator 31147 câmera retro 3 em 1",
+    "imgUrl": "https://images1.vinted.net/t/02_01697_aPTYYMmkMyGjH8PTeqCPNThg/f800/1731164194.jpeg?s=73f9bd92a1ff83510a999e140727b75073a2c1d1",
+    "publicationDate": 1731164194,
+    "id": 5353271190
+  },
+  {
+    "legoId": "31147",
+    "link": "https://www.vinted.fr/items/5083733565-lego-creator-3-en-1-notice-reference-31147",
+    "price": 2.8,
+    "title": "Lego creator 3 en 1 notice référence 31147",
+    "imgUrl": "https://images1.vinted.net/t/02_02418_VFmqFmZjWodMjPCoXEkqxKx9/f800/1726943777.jpeg?s=5beb0eaf311d27d87ccb9c002700e93b051e67df",
+    "publicationDate": 1726943777,
+    "id": 5083733565
+  },
+  {
+    "legoId": "31147",
+    "link": "https://www.vinted.fr/items/5399771221-lego-creator-31147",
+    "price": 21.7,
+    "title": "Lego creator 31147",
+    "imgUrl": "https://images1.vinted.net/t/04_0245b_vUea39ZjXkT7zpftXkTDULhg/f800/1731863639.jpeg?s=e5539eb285e7375491a20cf614cd1a7634ea7824",
+    "publicationDate": 1731863639,
+    "id": 5399771221
+  },
+  {
+    "legoId": "31147",
+    "link": "https://www.vinted.fr/items/5351708133-lego-appareils-photos",
+    "price": 21.7,
+    "title": "Lego appareils photos",
+    "imgUrl": "https://images1.vinted.net/t/02_0107e_afyqXS3BCxBBfsqJ75qwcqcx/f800/1731151795.jpeg?s=1582aaf6c7e173b540b9bf48bdf5a07e1c49b66e",
+    "publicationDate": 1731151795,
+    "id": 5351708133
+  },
+  {
+    "legoId": "31147",
+    "link": "https://www.vinted.fr/items/5307976098-lego-31147-retro-camera-creator-3-in-1",
+    "price": 18.55,
+    "title": "Lego 31147 Retro Camera - Creator 3 in 1",
+    "imgUrl": "https://images1.vinted.net/t/04_0142f_PA9Ac43pVbgy34rVxyU3CJaA/f800/1730389287.jpeg?s=906977816fa0f60de3941a185dcaeb70a5486176",
+    "publicationDate": 1730389287,
+    "id": 5307976098
+  },
+  {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/4978140916-lego-creator-3-in-1-31147",
     "price": 21.7,
     "title": "Lego creator 3 in 1 - 31147",
@@ -72,14 +81,7 @@
     "id": 4978140916
   },
   {
-    "link": "https://www.vinted.fr/items/5323982152-lappareil-photo-retro-lego-creator-3-en-1-31147",
-    "price": 16.45,
-    "title": "L’appareil photo rétro lego creator 3 en 1   31147",
-    "imgUrl": "https://images1.vinted.net/t/02_006ae_Fog6kEzarA7a2X5XczxythzH/f800/1730647715.jpeg?s=e0ac7745381eefcbe7459ec6f66c2dd18b1879fd",
-    "publicationDate": 1730647715,
-    "id": 5323982152
-  },
-  {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/5277732322-lego-creator-3-in-1-31147-retro-camera",
     "price": 19.08,
     "title": "Lego Creator 3-in-1 31147 Retro Camera",
@@ -88,22 +90,7 @@
     "id": 5277732322
   },
   {
-    "link": "https://www.vinted.fr/items/5383541120-legor-creator-31147-lappareil-photo-retro",
-    "price": 20.13,
-    "title": "LEGO® Creator 31147 -  L’Appareil Photo Rétro",
-    "imgUrl": "https://images1.vinted.net/t/04_02057_oADUS1SuL9gfxUWHrsSscTHz/f800/1731613177.jpeg?s=dd49fa0d3cdcf2c4a763aa11057a0c28e349d4d0",
-    "publicationDate": 1731613177,
-    "id": 5383541120
-  },
-  {
-    "link": "https://www.vinted.fr/items/5297864825-lego-creator-3-in-1-31147-retro-camera",
-    "price": 19.08,
-    "title": "Lego Creator 3 in 1 31147 Retro Camera",
-    "imgUrl": "https://images1.vinted.net/t/04_01863_BTsZN7bfvipw1yBkf9tGMFe4/f800/1730210286.jpeg?s=f2f612e7245901a1245e9f447b7afab44c5b658c",
-    "publicationDate": 1730210286,
-    "id": 5297864825
-  },
-  {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/5300917586-31147-retro-camera",
     "price": 17.5,
     "title": "31147 - Retro Camera",
@@ -112,6 +99,34 @@
     "id": 5300917586
   },
   {
+    "legoId": "31147",
+    "link": "https://www.vinted.fr/items/5297864825-lego-creator-3-in-1-31147-retro-camera",
+    "price": 19.08,
+    "title": "Lego Creator 3 in 1 31147 Retro Camera",
+    "imgUrl": "https://images1.vinted.net/t/04_01863_BTsZN7bfvipw1yBkf9tGMFe4/f800/1730210286.jpeg?s=f2f612e7245901a1245e9f447b7afab44c5b658c",
+    "publicationDate": 1730210286,
+    "id": 5297864825
+  },
+  {
+    "legoId": "31147",
+    "link": "https://www.vinted.fr/items/5383541120-legor-creator-31147-lappareil-photo-retro",
+    "price": 20.13,
+    "title": "LEGO® Creator 31147 -  L’Appareil Photo Rétro",
+    "imgUrl": "https://images1.vinted.net/t/04_02057_oADUS1SuL9gfxUWHrsSscTHz/f800/1731613177.jpeg?s=dd49fa0d3cdcf2c4a763aa11057a0c28e349d4d0",
+    "publicationDate": 1731613177,
+    "id": 5383541120
+  },
+  {
+    "legoId": "31147",
+    "link": "https://www.vinted.fr/items/5323982152-lappareil-photo-retro-lego-creator-3-en-1-31147",
+    "price": 16.45,
+    "title": "L’appareil photo rétro lego creator 3 en 1   31147",
+    "imgUrl": "https://images1.vinted.net/t/02_006ae_Fog6kEzarA7a2X5XczxythzH/f800/1730647715.jpeg?s=e0ac7745381eefcbe7459ec6f66c2dd18b1879fd",
+    "publicationDate": 1730647715,
+    "id": 5323982152
+  },
+  {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/5305086529-conjunto-retro-roller-skate-retro-camera",
     "price": 42.7,
     "title": "Conjunto Retro Roller Skate + Retro Camera",
@@ -120,6 +135,7 @@
     "id": 5305086529
   },
   {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/5220176528-lego-creator-31147-3-in-1",
     "price": 17.5,
     "title": "Lego creator 31147  3 in 1",
@@ -128,6 +144,7 @@
     "id": 5220176528
   },
   {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/4257036289-lego-creator-31147",
     "price": 16.45,
     "title": "Lego Creator 31147",
@@ -136,14 +153,7 @@
     "id": 4257036289
   },
   {
-    "link": "https://www.vinted.fr/items/5275986286-camera",
-    "price": 15.93,
-    "title": "Camera",
-    "imgUrl": "https://images1.vinted.net/t/04_0229c_aCjssx8yAmfcYeex2D4ucRu7/f800/1729866583.jpeg?s=33f7190c47e4887c05745d9b501173b3e146ae7b",
-    "publicationDate": 1729866583,
-    "id": 5275986286
-  },
-  {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/5336322385-nuevo-lego-creator-3en1-31147-camara",
     "price": 19.6,
     "title": "Nuevo LEGO Creator 3en1 31147 Cámara",
@@ -152,14 +162,16 @@
     "id": 5336322385
   },
   {
-    "link": "https://www.vinted.fr/items/5159530045-lego-creator-appareil-photo-31147-neuf",
-    "price": 26.95,
-    "title": "Lego creator appareil photo 31147 neuf",
-    "imgUrl": "https://images1.vinted.net/t/02_025f4_Xr1TkQnuBG73mHZimnDRaJ5S/f800/1728083054.jpeg?s=47500224d4a82fcbcd52d440a249af50b462a00d",
-    "publicationDate": 1728083054,
-    "id": 5159530045
+    "legoId": "31147",
+    "link": "https://www.vinted.fr/items/5275986286-camera",
+    "price": 15.93,
+    "title": "Camera",
+    "imgUrl": "https://images1.vinted.net/t/04_0229c_aCjssx8yAmfcYeex2D4ucRu7/f800/1729866583.jpeg?s=33f7190c47e4887c05745d9b501173b3e146ae7b",
+    "publicationDate": 1729866583,
+    "id": 5275986286
   },
   {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/4081143215-lego-creator-31147",
     "price": 25.38,
     "title": "Lego creator 31147",
@@ -168,14 +180,16 @@
     "id": 4081143215
   },
   {
-    "link": "https://www.vinted.fr/items/3979313517-lego-31147",
-    "price": 32.2,
-    "title": "Lego 31147",
-    "imgUrl": "https://images1.vinted.net/t/01_018fa_uhrCRA6FetQP7nkfvbqadNRm/f800/1705254013.jpeg?s=e015ca09301d7722a99a7cf1a06a79839e7d1b49",
-    "publicationDate": 1705254013,
-    "id": 3979313517
+    "legoId": "31147",
+    "link": "https://www.vinted.fr/items/5159530045-lego-creator-appareil-photo-31147-neuf",
+    "price": 26.95,
+    "title": "Lego creator appareil photo 31147 neuf",
+    "imgUrl": "https://images1.vinted.net/t/02_025f4_Xr1TkQnuBG73mHZimnDRaJ5S/f800/1728083054.jpeg?s=47500224d4a82fcbcd52d440a249af50b462a00d",
+    "publicationDate": 1728083054,
+    "id": 5159530045
   },
   {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/3996997402-lego-31147-creator-camera",
     "price": 21.7,
     "title": "LEGO 31147 Creator Camera",
@@ -184,6 +198,16 @@
     "id": 3996997402
   },
   {
+    "legoId": "31147",
+    "link": "https://www.vinted.fr/items/3979313517-lego-31147",
+    "price": 32.2,
+    "title": "Lego 31147",
+    "imgUrl": "https://images1.vinted.net/t/01_018fa_uhrCRA6FetQP7nkfvbqadNRm/f800/1705254013.jpeg?s=e015ca09301d7722a99a7cf1a06a79839e7d1b49",
+    "publicationDate": 1705254013,
+    "id": 3979313517
+  },
+  {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/5350770430-pack-2-lego-creator-31146-e-31147",
     "price": 37.45,
     "title": "Pack 2 Lego Creator 31146 e 31147",
@@ -192,6 +216,7 @@
     "id": 5350770430
   },
   {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/5372537992-lego-creator-31147-retro-camera",
     "price": 19.08,
     "title": "LEGO Creator 31147 Retrò Camera",
@@ -200,6 +225,7 @@
     "id": 5372537992
   },
   {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/4015732265-lego-31147-nuovo",
     "price": 29,
     "title": "Lego 31147 nuovo",
@@ -208,6 +234,7 @@
     "id": 4015732265
   },
   {
+    "legoId": "31147",
     "link": "https://www.vinted.fr/items/5276080692-lego-31147-3-en-1",
     "price": 21.7,
     "title": "Lego 31147 3 en 1",

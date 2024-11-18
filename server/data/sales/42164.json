@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5358284054-lego-technic-42164",
     "price": 9.1,
     "title": "Lego technic 42164",
@@ -8,6 +9,7 @@
     "id": 5358284054
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5400245607-lego-technic-off-road-race-buggy-42164",
     "price": 11.2,
     "title": "Lego Technic off road race buggy (42164)",
@@ -16,6 +18,7 @@
     "id": 5400245607
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5287310326-boite-vide-lego-42164",
     "price": 2.8,
     "title": "Boîte vide lego 42164",
@@ -24,6 +27,7 @@
     "id": 5287310326
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5169711312-lego-technic-42164-buggy",
     "price": 12.25,
     "title": "Lego Technic 42164 Buggy",
@@ -32,22 +36,7 @@
     "id": 5169711312
   },
   {
-    "link": "https://www.vinted.fr/items/5395034843-lego-technic-buggy-42164-neuf",
-    "price": 14.34,
-    "title": "Lego technic buggy 42164 neuf",
-    "imgUrl": "https://images1.vinted.net/t/04_006dd_MQ9QcNxpDqPto7CNsKnPHSyf/f800/1731835661.jpeg?s=c46aee22e7368cc5075523f6b38d9530b5c8559b",
-    "publicationDate": 1731835661,
-    "id": 5395034843
-  },
-  {
-    "link": "https://www.vinted.fr/items/5279038735-lego-technic-off-road-race-buggy",
-    "price": 11.2,
-    "title": "Lego technic off road race buggy",
-    "imgUrl": "https://images1.vinted.net/t/02_011d4_dfv9pJ5HyDVkunxPQCA47Efs/f800/1729937392.jpeg?s=fd42e08b658c67968400681596a1a7ce72f41c3f",
-    "publicationDate": 1729937392,
-    "id": 5279038735
-  },
-  {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5196706130-lego-technic-42164",
     "price": 7,
     "title": "Lego Technic 42164",
@@ -56,6 +45,7 @@
     "id": 5196706130
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5326584125-lego-technic-42164",
     "price": 7,
     "title": "Lego technic 42164",
@@ -64,6 +54,25 @@
     "id": 5326584125
   },
   {
+    "legoId": "42164",
+    "link": "https://www.vinted.fr/items/5279038735-lego-technic-off-road-race-buggy",
+    "price": 11.2,
+    "title": "Lego technic off road race buggy",
+    "imgUrl": "https://images1.vinted.net/t/02_011d4_dfv9pJ5HyDVkunxPQCA47Efs/f800/1729937392.jpeg?s=fd42e08b658c67968400681596a1a7ce72f41c3f",
+    "publicationDate": 1729937392,
+    "id": 5279038735
+  },
+  {
+    "legoId": "42164",
+    "link": "https://www.vinted.fr/items/5405182418-lego-technic-42164",
+    "price": 10.15,
+    "title": "Lego technic 42164",
+    "imgUrl": "https://images1.vinted.net/t/01_01558_zeZB8McNTM3GEzjmQxDiWJpE/f800/1731947379.jpeg?s=ad5cc4baf18d45630616d41200f9d2a999220f62",
+    "publicationDate": 1731947379,
+    "id": 5405182418
+  },
+  {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5317152144-lego-technic-42164-in-originele-verpakking",
     "price": 9.1,
     "title": "Lego technic 42164 in originele verpakking",
@@ -72,6 +81,7 @@
     "id": 5317152144
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5391255243-lego-technic-42164-le-buggy-tout-terrain",
     "price": 14.35,
     "title": "LEGO Technic 42164 Le buggy tout terrain",
@@ -80,14 +90,7 @@
     "id": 5391255243
   },
   {
-    "link": "https://www.vinted.fr/items/5389027035-lego-technic",
-    "price": 5.95,
-    "title": "Lego technic",
-    "imgUrl": "https://images1.vinted.net/t/04_0250a_ogsUQza3xANhCrTZFG97tJHB/f800/1731743819.jpeg?s=c4cff60be4a0965f7f54b0f8446cdee634ce6334",
-    "publicationDate": 1731743819,
-    "id": 5389027035
-  },
-  {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5229518292-lego-technic-42164",
     "price": 5.95,
     "title": "Lego technic 42164",
@@ -96,6 +99,16 @@
     "id": 5229518292
   },
   {
+    "legoId": "42164",
+    "link": "https://www.vinted.fr/items/5389027035-lego-technic",
+    "price": 5.95,
+    "title": "Lego technic",
+    "imgUrl": "https://images1.vinted.net/t/04_0250a_ogsUQza3xANhCrTZFG97tJHB/f800/1731743819.jpeg?s=c4cff60be4a0965f7f54b0f8446cdee634ce6334",
+    "publicationDate": 1731743819,
+    "id": 5389027035
+  },
+  {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5285448766-lego-technic-42164",
     "price": 10.15,
     "title": "Lego Technic 42164",
@@ -104,14 +117,7 @@
     "id": 5285448766
   },
   {
-    "link": "https://www.vinted.fr/items/5396336562-lego-technic-42164",
-    "price": 7,
-    "title": "Lego Technic 42164",
-    "imgUrl": "https://images1.vinted.net/t/04_01088_sC4ws1gpv4GdY8zzU7QSs9S9/f800/1731844272.jpeg?s=eb58180ef374582f3fe727490fdadadfab3a7143",
-    "publicationDate": 1731844272,
-    "id": 5396336562
-  },
-  {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5022207288-lego-technic-race-buggy",
     "price": 8.05,
     "title": "Lego Technic Race Buggy",
@@ -120,22 +126,16 @@
     "id": 5022207288
   },
   {
-    "link": "https://www.vinted.fr/items/5361991898-lego-technic-buggy-42164",
-    "price": 15.4,
-    "title": "Lego Technic buggy 42164",
-    "imgUrl": "https://images1.vinted.net/t/03_00ae5_phRqDhmZHuy3wV764oDWuAzG/f800/1731268623.jpeg?s=b31378e70bfe68cab954dfefdb9fe4c4f5f24d52",
-    "publicationDate": 1731268623,
-    "id": 5361991898
+    "legoId": "42164",
+    "link": "https://www.vinted.fr/items/5396336562-lego-technic-42164",
+    "price": 7,
+    "title": "Lego Technic 42164",
+    "imgUrl": "https://images1.vinted.net/t/04_01088_sC4ws1gpv4GdY8zzU7QSs9S9/f800/1731844272.jpeg?s=eb58180ef374582f3fe727490fdadadfab3a7143",
+    "publicationDate": 1731844272,
+    "id": 5396336562
   },
   {
-    "link": "https://www.vinted.fr/items/5041797297-lego-technic-42164",
-    "price": 9.1,
-    "title": "Lego technic 42164",
-    "imgUrl": "https://images1.vinted.net/t/03_01c4a_ToAPH8TumFvSdy47hxZiA3sv/f800/1726321750.jpeg?s=7a23ef0f446b49b09f2046c205435839c84ea43d",
-    "publicationDate": 1726321750,
-    "id": 5041797297
-  },
-  {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5267263900-technic-lego-42164-off-road-buggy",
     "price": 9.1,
     "title": "Technic lego 42164 off Road Buggy",
@@ -144,6 +144,16 @@
     "id": 5267263900
   },
   {
+    "legoId": "42164",
+    "link": "https://www.vinted.fr/items/5361991898-lego-technic-buggy-42164",
+    "price": 15.4,
+    "title": "Lego Technic buggy 42164",
+    "imgUrl": "https://images1.vinted.net/t/03_00ae5_phRqDhmZHuy3wV764oDWuAzG/f800/1731268623.jpeg?s=b31378e70bfe68cab954dfefdb9fe4c4f5f24d52",
+    "publicationDate": 1731268623,
+    "id": 5361991898
+  },
+  {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5399388483-lego-technic-42164-off-road-race-buggy",
     "price": 11.2,
     "title": "Lego technic 42164 off-road race buggy",
@@ -152,14 +162,7 @@
     "id": 5399388483
   },
   {
-    "link": "https://www.vinted.fr/items/5383786655-lego-technic-42164",
-    "price": 10.15,
-    "title": "Lego technic 42164",
-    "imgUrl": "https://images1.vinted.net/t/04_009d7_TX6XMGuABdHyYkqEjnBps6mN/f800/1731616158.jpeg?s=6d8d29cb3e2d23a913fc6bc90e6369491dfb8f8f",
-    "publicationDate": 1731616158,
-    "id": 5383786655
-  },
-  {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/4968940990-lego-technic",
     "price": 11.2,
     "title": "Lego technic",
@@ -168,6 +171,16 @@
     "id": 4968940990
   },
   {
+    "legoId": "42164",
+    "link": "https://www.vinted.fr/items/5041797297-lego-technic-42164",
+    "price": 9.1,
+    "title": "Lego technic 42164",
+    "imgUrl": "https://images1.vinted.net/t/03_01c4a_ToAPH8TumFvSdy47hxZiA3sv/f800/1726321750.jpeg?s=7a23ef0f446b49b09f2046c205435839c84ea43d",
+    "publicationDate": 1726321750,
+    "id": 5041797297
+  },
+  {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5203396943-lego-technic-42164",
     "price": 13.3,
     "title": "Lego Technic 42164",
@@ -176,6 +189,7 @@
     "id": 5203396943
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5290146436-lego-technic-42164-novo-e-selado",
     "price": 13.3,
     "title": "LEGO Technic 42164 - Novo e Selado",
@@ -184,6 +198,7 @@
     "id": 5290146436
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5155058389-lego-technic-42164-offroad-buggy-auto-ab-8-jahren",
     "price": 8.05,
     "title": "LEGO Technic 42164 Offroad Buggy Auto - ab 8 Jahren",
@@ -192,6 +207,7 @@
     "id": 5155058389
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5149074507-lego-lego-technic-lego-42164",
     "price": 8.58,
     "title": "Lego - Lego Technic - Lego 42164",
@@ -200,6 +216,7 @@
     "id": 5149074507
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/4466235289-lego-technic-42164-buggy-tout-terrain",
     "price": 13.3,
     "title": "Lego technic 42164 buggy tout terrain",
@@ -208,6 +225,7 @@
     "id": 4466235289
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5316942407-lego-technic-42164-off-road-race-buggy",
     "price": 12.76,
     "title": "Lego Technic 42164 Off-road Race Buggy",
@@ -216,14 +234,7 @@
     "id": 5316942407
   },
   {
-    "link": "https://www.vinted.fr/items/4972996929-lego-off-road-race-buggy-42164",
-    "price": 8.58,
-    "title": "Lego Off-Road Race Buggy 42164",
-    "imgUrl": "https://images1.vinted.net/t/03_02320_PsnKV4U71U8UZZPayRC1DJsv/f800/1725209615.jpeg?s=91c019a032d030f5fa3557abdc1d894d002631c6",
-    "publicationDate": 1725209615,
-    "id": 4972996929
-  },
-  {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5325862869-lego-technic",
     "price": 10.15,
     "title": "Lego technic",
@@ -232,6 +243,16 @@
     "id": 5325862869
   },
   {
+    "legoId": "42164",
+    "link": "https://www.vinted.fr/items/4972996929-lego-off-road-race-buggy-42164",
+    "price": 8.58,
+    "title": "Lego Off-Road Race Buggy 42164",
+    "imgUrl": "https://images1.vinted.net/t/03_02320_PsnKV4U71U8UZZPayRC1DJsv/f800/1725209615.jpeg?s=91c019a032d030f5fa3557abdc1d894d002631c6",
+    "publicationDate": 1725209615,
+    "id": 4972996929
+  },
+  {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/4810539588-lego-technic",
     "price": 8.58,
     "title": "Lego Technic",
@@ -240,6 +261,7 @@
     "id": 4810539588
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5394725813-lego-technic-42164-off-road-race-buggy",
     "price": 19.6,
     "title": "Lego Technic 42164 off Road race buggy",
@@ -248,6 +270,7 @@
     "id": 5394725813
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5352940453-lego-technic-42164-off-road-race-buggy",
     "price": 15.4,
     "title": "Lego Technic 42164 - Off-Road Race Buggy",
@@ -256,6 +279,7 @@
     "id": 5352940453
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5194649353-lego-technic-42164-le-buggy-tout-terrain-de-course",
     "price": 21.7,
     "title": "Lego Technic 42164  Le buggy tout terrain de course",
@@ -264,6 +288,7 @@
     "id": 5194649353
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5194849970-set-lego-nuovi-originali-e-sigillati-leggi",
     "price": 11.19,
     "title": "Set lego nuovi originali e sigillati (leggi)",
@@ -272,6 +297,7 @@
     "id": 5194849970
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/4301685239-lego-technic-42164-neuf-et-scelle",
     "price": 16.45,
     "title": "Lego technic 42164 neuf et scellé ",
@@ -280,6 +306,7 @@
     "id": 4301685239
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/4934894411-lego-rechnic-42164",
     "price": 11.2,
     "title": "Lego rechnic 42164",
@@ -288,6 +315,7 @@
     "id": 4934894411
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/4991049972-lego-technic-42164",
     "price": 16.45,
     "title": "Lego technic 42164",
@@ -296,6 +324,7 @@
     "id": 4991049972
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/4960983908-lego-neuf-42164",
     "price": 16.45,
     "title": "Lego neuf 42164",
@@ -304,6 +333,7 @@
     "id": 4960983908
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5230047836-lego-technic",
     "price": 16.45,
     "title": "Lego technic",
@@ -312,6 +342,7 @@
     "id": 5230047836
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5072493387-lego-technic-42164",
     "price": 15.4,
     "title": "Lego technic 42164",
@@ -320,6 +351,7 @@
     "id": 5072493387
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5272190869-lego-buggy-tout-terrain",
     "price": 13.3,
     "title": "Lego buggy tout terrain",
@@ -328,6 +360,7 @@
     "id": 5272190869
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/4948431445-lego-technic-42164-off-road-race-buggy",
     "price": 8.05,
     "title": "LEGO Technic 42164 Off-Road Race Buggy",
@@ -336,6 +369,7 @@
     "id": 4948431445
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/4786860549-lego-technic-42164",
     "price": 13.3,
     "title": "Lego technic 42164",
@@ -344,6 +378,7 @@
     "id": 4786860549
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5296195469-lego-technic-42164-off-road-race-buggy-8",
     "price": 13.3,
     "title": "Lego technic 42164 Off road Race Buggy 8+",
@@ -352,6 +387,7 @@
     "id": 5296195469
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5324804571-lego-42164",
     "price": 13.3,
     "title": "Lego 42164",
@@ -360,22 +396,7 @@
     "id": 5324804571
   },
   {
-    "link": "https://www.vinted.fr/items/5232270115-lot-lego",
-    "price": 17.5,
-    "title": "Lot Lego",
-    "imgUrl": "https://images1.vinted.net/t/03_013ee_GzGVc1r7vhMKcW6JH4SVkKmq/f800/1729169476.jpeg?s=a679055b7ff5149f6201cd4c4a903bd6b97a6cfb",
-    "publicationDate": 1729169476,
-    "id": 5232270115
-  },
-  {
-    "link": "https://www.vinted.fr/items/4449402198-lego-set-technic-42164-nuovo-sigilatto",
-    "price": 17.49,
-    "title": "Lego set technic 42164 nuovo  sigilatto",
-    "imgUrl": "https://images1.vinted.net/t/03_0237f_GhottgzLQmtrhSwKmdsShZKU/f800/1714684650.jpeg?s=510d0d60e8f3bdd2f3e9df8a40122961a8b2471c",
-    "publicationDate": 1714684650,
-    "id": 4449402198
-  },
-  {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5354966610-lego-technic-buggy",
     "price": 16.45,
     "title": "Lego technic buggy",
@@ -384,6 +405,25 @@
     "id": 5354966610
   },
   {
+    "legoId": "42164",
+    "link": "https://www.vinted.fr/items/5232270115-lot-lego",
+    "price": 17.5,
+    "title": "Lot Lego",
+    "imgUrl": "https://images1.vinted.net/t/03_013ee_GzGVc1r7vhMKcW6JH4SVkKmq/f800/1729169476.jpeg?s=a679055b7ff5149f6201cd4c4a903bd6b97a6cfb",
+    "publicationDate": 1729169476,
+    "id": 5232270115
+  },
+  {
+    "legoId": "42164",
+    "link": "https://www.vinted.fr/items/4449402198-lego-set-technic-42164-nuovo-sigilatto",
+    "price": 17.49,
+    "title": "Lego set technic 42164 nuovo  sigilatto",
+    "imgUrl": "https://images1.vinted.net/t/03_0237f_GhottgzLQmtrhSwKmdsShZKU/f800/1714684650.jpeg?s=510d0d60e8f3bdd2f3e9df8a40122961a8b2471c",
+    "publicationDate": 1714684650,
+    "id": 4449402198
+  },
+  {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/4442395172-lego-42164",
     "price": 18.55,
     "title": "Légo 42164",
@@ -392,6 +432,7 @@
     "id": 4442395172
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5233769695-lego-voiture-42164",
     "price": 32.2,
     "title": "Lego voiture 42164",
@@ -400,6 +441,7 @@
     "id": 5233769695
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5306898701-lego-technic-race-buggy-nro-42164",
     "price": 16.45,
     "title": "Lego technic race buggy nro 42164",
@@ -408,6 +450,7 @@
     "id": 5306898701
   },
   {
+    "legoId": "42164",
     "link": "https://www.vinted.fr/items/5141385025-lot-15-kits-lego",
     "price": 137.2,
     "title": "Lot 15 kits Lego",

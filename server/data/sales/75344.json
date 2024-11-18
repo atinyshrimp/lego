@@ -1,13 +1,6 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5404614556-lego-star-wars-75344",
-    "price": 5.43,
-    "title": "Lego star Wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_01bbb_FMGMBQazN3JDkgaNHdkmQZsj/f800/1731941824.jpeg?s=fecbb5683b26d4941001e9f5371fb654bd85a4ac",
-    "publicationDate": 1731941824,
-    "id": 5404614556
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5241120979-lego-75344",
     "price": 5.95,
     "title": "Lego 75344",
@@ -16,22 +9,7 @@
     "id": 5241120979
   },
   {
-    "link": "https://www.vinted.fr/items/5324563848-lego-star-wars-75344",
-    "price": 4.9,
-    "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/04_00f8d_JmksJpqAgNMrcMvxbtKEKJHG/f800/1730651114.jpeg?s=ca1ffdfbcaf141a67dc4bbae62938b6fa367d78d",
-    "publicationDate": 1730651114,
-    "id": 5324563848
-  },
-  {
-    "link": "https://www.vinted.fr/items/5170257064-lego-75344",
-    "price": 4.9,
-    "title": "Lego 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_019b5_AmXujR4Ht398mqiNGJaKzGZb/f800/1728225941.jpeg?s=ea38fef58e5826aa620c3c7b604ff30274e069c0",
-    "publicationDate": 1728225941,
-    "id": 5170257064
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5385119312-lego-r-figurine-star-wars-boba-fett",
     "price": 3.75,
     "title": "Lego ® figurine Star Wars – Boba Fett",
@@ -40,22 +18,16 @@
     "id": 5385119312
   },
   {
-    "link": "https://www.vinted.fr/items/5395159179-lego-star-wars-75344-le-vaisseau-de-boba-fett-microfighter",
-    "price": 5.95,
-    "title": "Lego Star Wars 75344 Le vaisseau de Boba Fett Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/02_01b40_gZKikF9iKdAfZy1hEpVQRYHL/f800/1731836716.jpeg?s=39cc6feaea89120bd6758aba38a0eec9891bb673",
-    "publicationDate": 1731836716,
-    "id": 5395159179
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5405499904-lego-star-wars-75344-et-spiderman-76275",
+    "price": 11.2,
+    "title": "Lego star wars 75344 et spiderman 76275",
+    "imgUrl": "https://images1.vinted.net/t/04_00050_dkyAxa3pPh8Ms34eTP3mCVAW/f800/1731953485.jpeg?s=bbf2f2595a7cb56d843d31a4daecca91267db2c2",
+    "publicationDate": 1731953485,
+    "id": 5405499904
   },
   {
-    "link": "https://www.vinted.fr/items/5398651108-lego-star-wars-boba-fetts-starship-75344",
-    "price": 11.19,
-    "title": "Lego star Wars Boba Fett's Starship (75344)",
-    "imgUrl": "https://images1.vinted.net/t/02_01570_6VFXuRUQ7SHo7jp88Cze6U4S/f800/1731857141.jpeg?s=4e7b9401183dfd42eff9eb25947f81d1cd70d99a",
-    "publicationDate": 1731857141,
-    "id": 5398651108
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4976405422-boba-fett",
     "price": 5.69,
     "title": "Boba Fett",
@@ -64,6 +36,52 @@
     "id": 4976405422
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5324563848-lego-star-wars-75344",
+    "price": 4.9,
+    "title": "Lego star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/04_00f8d_JmksJpqAgNMrcMvxbtKEKJHG/f800/1730651114.jpeg?s=ca1ffdfbcaf141a67dc4bbae62938b6fa367d78d",
+    "publicationDate": 1730651114,
+    "id": 5324563848
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5170257064-lego-75344",
+    "price": 4.9,
+    "title": "Lego 75344",
+    "imgUrl": "https://images1.vinted.net/t/01_019b5_AmXujR4Ht398mqiNGJaKzGZb/f800/1728225941.jpeg?s=ea38fef58e5826aa620c3c7b604ff30274e069c0",
+    "publicationDate": 1728225941,
+    "id": 5170257064
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5398651108-lego-star-wars-boba-fetts-starship-75344",
+    "price": 11.19,
+    "title": "Lego star Wars Boba Fett's Starship (75344)",
+    "imgUrl": "https://images1.vinted.net/t/02_01570_6VFXuRUQ7SHo7jp88Cze6U4S/f800/1731857141.jpeg?s=4e7b9401183dfd42eff9eb25947f81d1cd70d99a",
+    "publicationDate": 1731857141,
+    "id": 5398651108
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5395159179-lego-star-wars-75344-le-vaisseau-de-boba-fett-microfighter",
+    "price": 5.95,
+    "title": "Lego Star Wars 75344 Le vaisseau de Boba Fett Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/02_01b40_gZKikF9iKdAfZy1hEpVQRYHL/f800/1731836716.jpeg?s=39cc6feaea89120bd6758aba38a0eec9891bb673",
+    "publicationDate": 1731836716,
+    "id": 5395159179
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5405783334-lego-75344",
+    "price": 8.56,
+    "title": "Lego #75344",
+    "imgUrl": "https://images1.vinted.net/t/04_01e5f_LLgevQLe2RSMKsUHB4mxzzhq/f800/1731953121.jpeg?s=1fe0e1e01aa69cea10928467e4d96b3dc09b8d39",
+    "publicationDate": 1731953121,
+    "id": 5405783334
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5083426957-lego-75344-boba-fetts-starship-microfighter",
     "price": 5.43,
     "title": "Lego 75344 - Boba Fett's Starship Microfighter",
@@ -72,30 +90,7 @@
     "id": 5083426957
   },
   {
-    "link": "https://www.vinted.fr/items/4312412031-lego-star-wars-75344",
-    "price": 3.85,
-    "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_00d60_JDHgRe2tbDsWnBiWRrnnaVYq/f800/1712167171.jpeg?s=d7048aae106127620c65a679cbafeda91ea088e9",
-    "publicationDate": 1712167171,
-    "id": 4312412031
-  },
-  {
-    "link": "https://www.vinted.fr/items/4409696430-lego-starwars-75344-boba-fetts-starship-microfighter",
-    "price": 7,
-    "title": "Lego starwars 75344 boba fett’s starship microfighter",
-    "imgUrl": "https://images1.vinted.net/t/02_01804_ZmB53PZFux8SKDnFZCmJhrZn/f800/1713946883.jpeg?s=6261d664a14d928ef0e36900cd30623a0d7ce83a",
-    "publicationDate": 1713946883,
-    "id": 4409696430
-  },
-  {
-    "link": "https://www.vinted.fr/items/4152808495-boite-vide-et-sa-notice-lego-75344",
-    "price": 3.85,
-    "title": "Boite vide et sa notice LEGO 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_0037e_ctqxs9X788PNmXwoxsKexuvS/f800/1709152036.jpeg?s=2828c23b68293b78e19fe5a259a935dfa869a77b",
-    "publicationDate": 1709152036,
-    "id": 4152808495
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5392533476-boite-neuve-lego-star-wars-num-75344",
     "price": 8.05,
     "title": "Boîte neuve Lego Star Wars Num 75344",
@@ -104,22 +99,34 @@
     "id": 5392533476
   },
   {
-    "link": "https://www.vinted.fr/items/5364313729-lego-star-wars-75344",
-    "price": 4.9,
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4312412031-lego-star-wars-75344",
+    "price": 3.85,
     "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_01623_vrP5NHC2AMjQgjvtTWoKfUUh/f800/1731323551.jpeg?s=e1f22be91e4a0b168f9cd7fa62eac7a1a848f52c",
-    "publicationDate": 1731323551,
-    "id": 5364313729
+    "imgUrl": "https://images1.vinted.net/t/03_00d60_JDHgRe2tbDsWnBiWRrnnaVYq/f800/1712167171.jpeg?s=d7048aae106127620c65a679cbafeda91ea088e9",
+    "publicationDate": 1712167171,
+    "id": 4312412031
   },
   {
-    "link": "https://www.vinted.fr/items/5314990832-lego-star-wars-75344",
-    "price": 9.1,
-    "title": "Lego star Wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/04_005b1_G5RxpHpUeVfe755hsqsG3Tsp/f800/1730539312.jpeg?s=018f2965af620b75a61ecbee07873a342ad2a155",
-    "publicationDate": 1730539312,
-    "id": 5314990832
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4409696430-lego-starwars-75344-boba-fetts-starship-microfighter",
+    "price": 7,
+    "title": "Lego starwars 75344 boba fett’s starship microfighter",
+    "imgUrl": "https://images1.vinted.net/t/02_01804_ZmB53PZFux8SKDnFZCmJhrZn/f800/1713946883.jpeg?s=6261d664a14d928ef0e36900cd30623a0d7ce83a",
+    "publicationDate": 1713946883,
+    "id": 4409696430
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4152808495-boite-vide-et-sa-notice-lego-75344",
+    "price": 3.85,
+    "title": "Boite vide et sa notice LEGO 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_0037e_ctqxs9X788PNmXwoxsKexuvS/f800/1709152036.jpeg?s=2828c23b68293b78e19fe5a259a935dfa869a77b",
+    "publicationDate": 1709152036,
+    "id": 4152808495
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5255218234-lego-75344",
     "price": 9.1,
     "title": "Lego 75344",
@@ -128,6 +135,16 @@
     "id": 5255218234
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5314990832-lego-star-wars-75344",
+    "price": 9.1,
+    "title": "Lego star Wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/04_005b1_G5RxpHpUeVfe755hsqsG3Tsp/f800/1730539312.jpeg?s=018f2965af620b75a61ecbee07873a342ad2a155",
+    "publicationDate": 1730539312,
+    "id": 5314990832
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4245556729-lego-75344",
     "price": 3.85,
     "title": "Lego 75344",
@@ -136,22 +153,7 @@
     "id": 4245556729
   },
   {
-    "link": "https://www.vinted.fr/items/4984354393-lego-neuf-star-wars-75344",
-    "price": 9.1,
-    "title": "Lego neuf star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_00a01_55tiyKREka8vm58ef4T6pYfV/f800/1725431975.jpeg?s=8be75a9ea4407b2672f7350260717913256d3844",
-    "publicationDate": 1725431975,
-    "id": 4984354393
-  },
-  {
-    "link": "https://www.vinted.fr/items/5144165359-lego-star-wars-75344-neuf-pas-de-minifigs",
-    "price": 7.95,
-    "title": "Lego star wars 75344 neuf pas de minifigs",
-    "imgUrl": "https://images1.vinted.net/t/02_0130b_iQNbzcbAdEN2dvuxV7HeGttj/f800/1727853315.jpeg?s=cf83ed191461f64f0a1a4a9dae64cc9387c6ac91",
-    "publicationDate": 1727853315,
-    "id": 5144165359
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5170505141-lego-star-wars-neuf-75344",
     "price": 8.05,
     "title": "Lego Star Wars neuf 75344",
@@ -160,14 +162,16 @@
     "id": 5170505141
   },
   {
-    "link": "https://www.vinted.fr/items/4948437982-lego-star-wars-75344-boba-fetts-starship-microfighter",
-    "price": 4.11,
-    "title": "Lego Star Wars 75344 Boba Fett's Starship Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/02_024de_dKXV4eHcspjfVrYF7goiKy2X/f800/1724775446.jpeg?s=db5ba582dc0904d19ea4c206507f9fef57c8820a",
-    "publicationDate": 1724775446,
-    "id": 4948437982
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5364313729-lego-star-wars-75344",
+    "price": 4.9,
+    "title": "Lego star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/03_01623_vrP5NHC2AMjQgjvtTWoKfUUh/f800/1731323551.jpeg?s=e1f22be91e4a0b168f9cd7fa62eac7a1a848f52c",
+    "publicationDate": 1731323551,
+    "id": 5364313729
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3776616318-lego-star-wars-75344",
     "price": 4.38,
     "title": "Lego star wars 75344",
@@ -176,6 +180,25 @@
     "id": 3776616318
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4984354393-lego-neuf-star-wars-75344",
+    "price": 9.1,
+    "title": "Lego neuf star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/03_00a01_55tiyKREka8vm58ef4T6pYfV/f800/1725431975.jpeg?s=8be75a9ea4407b2672f7350260717913256d3844",
+    "publicationDate": 1725431975,
+    "id": 4984354393
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5144165359-lego-star-wars-75344-neuf-pas-de-minifigs",
+    "price": 7.95,
+    "title": "Lego star wars 75344 neuf pas de minifigs",
+    "imgUrl": "https://images1.vinted.net/t/02_0130b_iQNbzcbAdEN2dvuxV7HeGttj/f800/1727853315.jpeg?s=cf83ed191461f64f0a1a4a9dae64cc9387c6ac91",
+    "publicationDate": 1727853315,
+    "id": 5144165359
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5221445439-lego-75344-stars-wars",
     "price": 7,
     "title": "Lego 75344 stars wars",
@@ -184,14 +207,16 @@
     "id": 5221445439
   },
   {
-    "link": "https://www.vinted.fr/items/5401990885-lego-75344-star-wars-slave-1-boba-fett-microfighter",
-    "price": 10.15,
-    "title": "Lego 75344 Star Wars Slave 1 Boba Fett Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/03_01eda_5MZDhgYjkWTctQVs4k34yhdK/f800/1731891926.jpeg?s=fcc90c5c7b97db3fced8998c77900151653b759d",
-    "publicationDate": 1731891926,
-    "id": 5401990885
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4948437982-lego-star-wars-75344-boba-fetts-starship-microfighter",
+    "price": 4.11,
+    "title": "Lego Star Wars 75344 Boba Fett's Starship Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/02_024de_dKXV4eHcspjfVrYF7goiKy2X/f800/1724775446.jpeg?s=db5ba582dc0904d19ea4c206507f9fef57c8820a",
+    "publicationDate": 1724775446,
+    "id": 4948437982
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5388085936-lego-star-wars-75344",
     "price": 8.05,
     "title": "Lego Star Wars 75344",
@@ -200,22 +225,7 @@
     "id": 5388085936
   },
   {
-    "link": "https://www.vinted.fr/items/4664246401-lego-microfighter-ref-75344",
-    "price": 7,
-    "title": "Lego microfighter Ref 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_01a70_vM89udz4YA3pgyBHcCDKjfbK/f800/1718822201.jpeg?s=22d82886df7a31845078e72de693cc7e4722d825",
-    "publicationDate": 1718822201,
-    "id": 4664246401
-  },
-  {
-    "link": "https://www.vinted.fr/items/4189284600-lego-75344-star-wars",
-    "price": 7,
-    "title": "Lego 75344 star wars",
-    "imgUrl": "https://images1.vinted.net/t/02_01dc7_8hkw7o3htuGgRzE7WGFCf3v6/f800/1709735329.jpeg?s=327f1fa63db8aed29e9882c9893caefd1da38ae9",
-    "publicationDate": 1709735329,
-    "id": 4189284600
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5325735171-lego-75344-microfghter",
     "price": 5.95,
     "title": "Lego 75344 Microfghter.",
@@ -224,6 +234,16 @@
     "id": 5325735171
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4664246401-lego-microfighter-ref-75344",
+    "price": 7,
+    "title": "Lego microfighter Ref 75344",
+    "imgUrl": "https://images1.vinted.net/t/03_01a70_vM89udz4YA3pgyBHcCDKjfbK/f800/1718822201.jpeg?s=22d82886df7a31845078e72de693cc7e4722d825",
+    "publicationDate": 1718822201,
+    "id": 4664246401
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5369089931-lego-stars-wars",
     "price": 9.1,
     "title": "Lego Stars Wars",
@@ -232,14 +252,25 @@
     "id": 5369089931
   },
   {
-    "link": "https://www.vinted.fr/items/5376035832-lego-75344-boba-fetts-starship-microfighter",
-    "price": 8.04,
-    "title": "LEGO 75344 - Boba Fett’s Starship Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/04_01426_4VNvw5uThz1ckjZ1S7VBWUMZ/f800/1731500325.jpeg?s=2feef7c95ae52f58980037967a2285a83ec3244b",
-    "publicationDate": 1731500325,
-    "id": 5376035832
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5401990885-lego-75344-star-wars-slave-1-boba-fett-microfighter",
+    "price": 10.15,
+    "title": "Lego 75344 Star Wars Slave 1 Boba Fett Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/03_01eda_5MZDhgYjkWTctQVs4k34yhdK/f800/1731891926.jpeg?s=fcc90c5c7b97db3fced8998c77900151653b759d",
+    "publicationDate": 1731891926,
+    "id": 5401990885
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4189284600-lego-75344-star-wars",
+    "price": 7,
+    "title": "Lego 75344 star wars",
+    "imgUrl": "https://images1.vinted.net/t/02_01dc7_8hkw7o3htuGgRzE7WGFCf3v6/f800/1709735329.jpeg?s=327f1fa63db8aed29e9882c9893caefd1da38ae9",
+    "publicationDate": 1709735329,
+    "id": 4189284600
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5222117134-lego-star-wars-75344",
     "price": 8.05,
     "title": "Lego Star Wars 75344",
@@ -248,14 +279,16 @@
     "id": 5222117134
   },
   {
-    "link": "https://www.vinted.fr/items/5250035903-lego-star-wars-75344-boba-fetts-starship",
-    "price": 8,
-    "title": "Lego Star Wars 75344 Boba Fett's Starship",
-    "imgUrl": "https://images1.vinted.net/t/03_01d1f_StDgHhcaboHbKdhttM8RYJ9C/f800/1729437133.jpeg?s=12d9c09b33f4f9b8c9f1f421ba0271a91f86849b",
-    "publicationDate": 1729437133,
-    "id": 5250035903
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5376035832-lego-75344-boba-fetts-starship-microfighter",
+    "price": 8.04,
+    "title": "LEGO 75344 - Boba Fett’s Starship Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/04_01426_4VNvw5uThz1ckjZ1S7VBWUMZ/f800/1731500325.jpeg?s=2feef7c95ae52f58980037967a2285a83ec3244b",
+    "publicationDate": 1731500325,
+    "id": 5376035832
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4304720659-lego-75344-star-wars-neuf",
     "price": 9.1,
     "title": "Lego 75344 star wars neuf",
@@ -264,22 +297,16 @@
     "id": 4304720659
   },
   {
-    "link": "https://www.vinted.fr/items/5403430188-lego-75344",
-    "price": 9,
-    "title": "Lego #75344",
-    "imgUrl": "https://images1.vinted.net/t/04_011b5_veBq7zyvmFPuBKQVLKPWpnz4/f800/1731931140.jpeg?s=78c1f813b944e7307ad9a6a1fee84d9e7aa49391",
-    "publicationDate": 1731931140,
-    "id": 5403430188
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5250035903-lego-star-wars-75344-boba-fetts-starship",
+    "price": 8,
+    "title": "Lego Star Wars 75344 Boba Fett's Starship",
+    "imgUrl": "https://images1.vinted.net/t/03_01d1f_StDgHhcaboHbKdhttM8RYJ9C/f800/1729437133.jpeg?s=12d9c09b33f4f9b8c9f1f421ba0271a91f86849b",
+    "publicationDate": 1729437133,
+    "id": 5250035903
   },
   {
-    "link": "https://www.vinted.fr/items/5190586192-lego-star-wars",
-    "price": 9.1,
-    "title": "Lego star wars",
-    "imgUrl": "https://images1.vinted.net/t/02_01b8d_Z9KHBHR8UCwdVSZred5sVrYv/f800/1728527413.jpeg?s=f192b55d35a58f3433a7a705e7a9c4534b93caab",
-    "publicationDate": 1728527413,
-    "id": 5190586192
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5322004042-lego-75344",
     "price": 5.95,
     "title": "Lego 75344",
@@ -288,6 +315,7 @@
     "id": 5322004042
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4255400862-lego-75344-star-wars",
     "price": 5.95,
     "title": "Lego 75344 - Star Wars ",
@@ -296,6 +324,7 @@
     "id": 4255400862
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4652403352-lego-le-vaisseau-de-boba-fett-microfighter",
     "price": 9.1,
     "title": "Lego Le vaisseau de Boba Fett Microfighter",
@@ -304,30 +333,16 @@
     "id": 4652403352
   },
   {
-    "link": "https://www.vinted.fr/items/5300518018-lego-star-wars-75344-boba-fetts-starship-microfighter",
-    "price": 8.05,
-    "title": "Lego Star Wars 75344 Boba Fett’s Starship Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/03_0140b_v5owaBzyi4aVsX5ygRRcbosV/f800/1730242006.jpeg?s=f66d7c3fdaf4a16a11bd68abd1b108854f71c12e",
-    "publicationDate": 1730242006,
-    "id": 5300518018
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5190586192-lego-star-wars",
+    "price": 9.1,
+    "title": "Lego star wars",
+    "imgUrl": "https://images1.vinted.net/t/02_01b8d_Z9KHBHR8UCwdVSZred5sVrYv/f800/1728527413.jpeg?s=f192b55d35a58f3433a7a705e7a9c4534b93caab",
+    "publicationDate": 1728527413,
+    "id": 5190586192
   },
   {
-    "link": "https://www.vinted.fr/items/4760929787-compleet-set-lego",
-    "price": 5.95,
-    "title": "Compleet set Lego",
-    "imgUrl": "https://images1.vinted.net/t/02_022fb_WSujr26C6X7h5kg2Fye1a857/f800/1720890644.jpeg?s=d0fbe3372006671469c4bb1828be441add454495",
-    "publicationDate": 1720890644,
-    "id": 4760929787
-  },
-  {
-    "link": "https://www.vinted.fr/items/3787266672-lego-star-wars-75344",
-    "price": 10.15,
-    "title": "Lego Star wars 75344 ",
-    "imgUrl": "https://images1.vinted.net/t/01_00d18_a2YJWRZZQLXmPWztfR1b2s14/f800/1700497841.jpeg?s=4f1efd20664d44cd6e4a6691aeebee73a7f8ac3c",
-    "publicationDate": 1700497841,
-    "id": 3787266672
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3949132970-lego-star-wars-75344",
     "price": 9.63,
     "title": "Lego star wars 75344",
@@ -336,38 +351,16 @@
     "id": 3949132970
   },
   {
-    "link": "https://www.vinted.fr/items/4175616870-lego-star-wars-boba-fetts-starship-microfighter",
-    "price": 10.15,
-    "title": "Lego Star Wars - Boba Fett’s Starship Microfighter ",
-    "imgUrl": "https://images1.vinted.net/t/03_01ae4_odgqXxcwCXjfJxfH7MCpbTJU/f800/1709472907.jpeg?s=c533fdf0ba46b2075e2ac627ae5cf460b2cdbef5",
-    "publicationDate": 1709472907,
-    "id": 4175616870
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4760929787-compleet-set-lego",
+    "price": 5.95,
+    "title": "Compleet set Lego",
+    "imgUrl": "https://images1.vinted.net/t/02_022fb_WSujr26C6X7h5kg2Fye1a857/f800/1720890644.jpeg?s=d0fbe3372006671469c4bb1828be441add454495",
+    "publicationDate": 1720890644,
+    "id": 4760929787
   },
   {
-    "link": "https://www.vinted.fr/items/5225800376-lego-star-wars-le-vaisseau-de-boba-fett-microfighter-75344",
-    "price": 10.15,
-    "title": "Lego Star Wars - Le vaisseau de Boba Fett Microfighter - 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_01bc4_baoWuaE4CD9cKoCRHuED8fkk/f800/1729070391.jpeg?s=d0c70cbd5976c50a232dd5c33e10a0d9ed0ece24",
-    "publicationDate": 1729070391,
-    "id": 5225800376
-  },
-  {
-    "link": "https://www.vinted.fr/items/5147104046-lego-star-wars-75344",
-    "price": 8.05,
-    "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_021c5_QscahjxA9nMphGjSaVnZ7D4x/f800/1727881802.jpeg?s=c6526783510e9170956974c4826be5bdcd3ce50a",
-    "publicationDate": 1727881802,
-    "id": 5147104046
-  },
-  {
-    "link": "https://www.vinted.fr/items/4700120851-lego-star-wars-75344-ovp-neu",
-    "price": 4.9,
-    "title": "Lego Star Wars 75344, OVP, NEU",
-    "imgUrl": "https://images1.vinted.net/t/03_001f2_9mEx2jaekwV41Dm3waJ4kEL4/f800/1719655237.jpeg?s=37de99121dc362223d41ed1e160102f1f0398c4f",
-    "publicationDate": 1719655237,
-    "id": 4700120851
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5366199499-lego-star-wars-75344-boba-fetts",
     "price": 11.2,
     "title": "Lego star wars 75344 boba fett’s",
@@ -376,22 +369,43 @@
     "id": 5366199499
   },
   {
-    "link": "https://www.vinted.fr/items/5397299006-lego-star-wars-75344-boba-fett-starship-microfighter",
-    "price": 10.15,
-    "title": "Lego Star Wars 75344 Boba Fett starship microfighter",
-    "imgUrl": "https://images1.vinted.net/t/03_00aa8_ir5w8UVvagSGVpYpB6GmZ9G9/f800/1731849917.jpeg?s=30e66fd1625c7b17f1d2296bbff966c9ca204a7b",
-    "publicationDate": 1731849917,
-    "id": 5397299006
-  },
-  {
-    "link": "https://www.vinted.fr/items/3742905836-lego-75344-vaisseau-microfighter-de-boba-fett",
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5300518018-lego-star-wars-75344-boba-fetts-starship-microfighter",
     "price": 8.05,
-    "title": "Lego 75344 Vaisseau microfighter de Boba Fett. ",
-    "imgUrl": "https://images1.vinted.net/t/03_01ca5_odgEohYp9mPCaJxjfdLZt8AM/f800/1699707920.jpeg?s=513d8b97cff393be703bddc67e1a95691ca82d90",
-    "publicationDate": 1699707920,
-    "id": 3742905836
+    "title": "Lego Star Wars 75344 Boba Fett’s Starship Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/03_0140b_v5owaBzyi4aVsX5ygRRcbosV/f800/1730242006.jpeg?s=f66d7c3fdaf4a16a11bd68abd1b108854f71c12e",
+    "publicationDate": 1730242006,
+    "id": 5300518018
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5225800376-lego-star-wars-le-vaisseau-de-boba-fett-microfighter-75344",
+    "price": 10.15,
+    "title": "Lego Star Wars - Le vaisseau de Boba Fett Microfighter - 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_01bc4_baoWuaE4CD9cKoCRHuED8fkk/f800/1729070391.jpeg?s=d0c70cbd5976c50a232dd5c33e10a0d9ed0ece24",
+    "publicationDate": 1729070391,
+    "id": 5225800376
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3787266672-lego-star-wars-75344",
+    "price": 10.15,
+    "title": "Lego Star wars 75344 ",
+    "imgUrl": "https://images1.vinted.net/t/01_00d18_a2YJWRZZQLXmPWztfR1b2s14/f800/1700497841.jpeg?s=4f1efd20664d44cd6e4a6691aeebee73a7f8ac3c",
+    "publicationDate": 1700497841,
+    "id": 3787266672
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5147104046-lego-star-wars-75344",
+    "price": 8.05,
+    "title": "Lego star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_021c5_QscahjxA9nMphGjSaVnZ7D4x/f800/1727881802.jpeg?s=c6526783510e9170956974c4826be5bdcd3ce50a",
+    "publicationDate": 1727881802,
+    "id": 5147104046
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5334389709-lego-star-wars-75344-neuf-et-scelle",
     "price": 11.2,
     "title": "Lego star wars 75344 neuf et scellé",
@@ -400,158 +414,34 @@
     "id": 5334389709
   },
   {
-    "link": "https://www.vinted.fr/items/5373624778-lego-stars-wars-75344",
-    "price": 8.04,
-    "title": "Lego stars wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/04_00728_tVD6R66s41e3P3Bc5GdU7PUU/f800/1731440992.jpeg?s=e8f64b54c738d78c816eb25cfa83a6e2bf6861dd",
-    "publicationDate": 1731440992,
-    "id": 5373624778
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4175616870-lego-star-wars-boba-fetts-starship-microfighter",
+    "price": 10.15,
+    "title": "Lego Star Wars - Boba Fett’s Starship Microfighter ",
+    "imgUrl": "https://images1.vinted.net/t/03_01ae4_odgqXxcwCXjfJxfH7MCpbTJU/f800/1709472907.jpeg?s=c533fdf0ba46b2075e2ac627ae5cf460b2cdbef5",
+    "publicationDate": 1709472907,
+    "id": 4175616870
   },
   {
-    "link": "https://www.vinted.fr/items/4879178543-lego-star-wars-75344",
-    "price": 7,
-    "title": "Lego Star Wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_01f88_Vb9t4wpasMeWZEw1d8X8ELne/f800/1723477567.jpeg?s=406237b7db328ca8911e04f8eab42d047e4d3545",
-    "publicationDate": 1723477567,
-    "id": 4879178543
-  },
-  {
-    "link": "https://www.vinted.fr/items/5315183591-lego-75344-vaisseau-de-boba-fett",
-    "price": 5.95,
-    "title": "Lego 75344 vaisseau de Boba Fett",
-    "imgUrl": "https://images1.vinted.net/t/04_0070f_dhPwZcxLyh8wsTZYeVQvSkKE/f800/1730541351.jpeg?s=cbce34e10052df69c5f45fae8abc45e9c1e12304",
-    "publicationDate": 1730541351,
-    "id": 5315183591
-  },
-  {
-    "link": "https://www.vinted.fr/items/5069185306-lego-starwars-75344-novo-e-selado",
-    "price": 9.1,
-    "title": "LEGO StarWars 75344 - Novo e Selado",
-    "imgUrl": "https://images1.vinted.net/t/01_0212f_TgK9HemZ2XyR997gjC7Kr45K/f800/1726695378.jpeg?s=23a924c23d89688d4f75a58768fc1560e12f89ab",
-    "publicationDate": 1726695378,
-    "id": 5069185306
-  },
-  {
-    "link": "https://www.vinted.fr/items/5300481293-lego-star-wars",
-    "price": 7,
-    "title": "Lego star Wars",
-    "imgUrl": "https://images1.vinted.net/t/04_025a3_dHWBETH8cxczbuvxcAREGNCV/f800/1730240842.jpeg?s=db0441fdc1944907d2a2ecd1a20029c63e456883",
-    "publicationDate": 1730240842,
-    "id": 5300481293
-  },
-  {
-    "link": "https://www.vinted.fr/items/5399935948-lego-star-wars-75344",
-    "price": 13.3,
-    "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_00b0d_5xQvL9eFxVstSCmJKfREG4ym/f800/1731864700.jpeg?s=dbe056220b9b013194d7a6158f8c7f6d8e420cb9",
-    "publicationDate": 1731864700,
-    "id": 5399935948
-  },
-  {
-    "link": "https://www.vinted.fr/items/5200733371-lego-star-wars-75344",
-    "price": 9.1,
-    "title": "Lego star Wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_007b3_5mr1tSa1AGQZAP2rTVpN3Ah8/f800/1728719240.jpeg?s=f43ac997d5c67bc8f23ac5654d5d3fa1bc94d7c5",
-    "publicationDate": 1728719240,
-    "id": 5200733371
-  },
-  {
-    "link": "https://www.vinted.fr/items/5005862645-lego-75344-star-wars",
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4700120851-lego-star-wars-75344-ovp-neu",
     "price": 4.9,
-    "title": "Lego 75344 star wars",
-    "imgUrl": "https://images1.vinted.net/t/03_01870_85zGuXgvbpyFSm29M7zYQx1B/f800/1725798568.jpeg?s=2f8faeb6c3ae5581028fa391d1ea59c25ec9f535",
-    "publicationDate": 1725798568,
-    "id": 5005862645
+    "title": "Lego Star Wars 75344, OVP, NEU",
+    "imgUrl": "https://images1.vinted.net/t/03_001f2_9mEx2jaekwV41Dm3waJ4kEL4/f800/1719655237.jpeg?s=37de99121dc362223d41ed1e160102f1f0398c4f",
+    "publicationDate": 1719655237,
+    "id": 4700120851
   },
   {
-    "link": "https://www.vinted.fr/items/5273372872-star-wars-75344",
-    "price": 11.2,
-    "title": "Star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/04_00644_vyrT8QPaevXn2VMGywHxQi5A/f800/1729805772.jpeg?s=77ca79418981d8321cb001299e49720eebd99b7e",
-    "publicationDate": 1729805772,
-    "id": 5273372872
-  },
-  {
-    "link": "https://www.vinted.fr/items/3746759647-lego-star-wars",
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3742905836-lego-75344-vaisseau-microfighter-de-boba-fett",
     "price": 8.05,
-    "title": "Lego star wars",
-    "imgUrl": "https://images1.vinted.net/t/03_0196d_oyDYiB18khqgnKZbCGbcwghW/f800/1699783032.jpeg?s=9a8b6c0291055b796e3f42dbb1a8c74802f9b61f",
-    "publicationDate": 1699783032,
-    "id": 3746759647
+    "title": "Lego 75344 Vaisseau microfighter de Boba Fett. ",
+    "imgUrl": "https://images1.vinted.net/t/03_01ca5_odgEohYp9mPCaJxjfdLZt8AM/f800/1699707920.jpeg?s=513d8b97cff393be703bddc67e1a95691ca82d90",
+    "publicationDate": 1699707920,
+    "id": 3742905836
   },
   {
-    "link": "https://www.vinted.fr/items/5251604434-lego-75344",
-    "price": 8.05,
-    "title": "lego 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_01e88_q5stxjoZQELGKLNXUNyr2wEt/f800/1729447016.jpeg?s=640290ea178334d2e45130ef5bfdda496df43a2c",
-    "publicationDate": 1729447016,
-    "id": 5251604434
-  },
-  {
-    "link": "https://www.vinted.fr/items/4605253626-lego-75344",
-    "price": 8.05,
-    "title": "Lego 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_00ff8_utAWgiS17sTMZ6D2Djjf2siZ/f800/1717661532.jpeg?s=7524dde258623e7e8bda28e53d8382aadf269f56",
-    "publicationDate": 1717661532,
-    "id": 4605253626
-  },
-  {
-    "link": "https://www.vinted.fr/items/4958558484-te-koop-star-wars-lego-set-75344",
-    "price": 5.43,
-    "title": "Te koop: Star Wars Lego set 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_00575_W2SR1fcU2dxLTb4cp85SEUAP/f800/1724954107.jpeg?s=a2160d35d6db60ff00fb478bc311f057953b3d6c",
-    "publicationDate": 1724954107,
-    "id": 4958558484
-  },
-  {
-    "link": "https://www.vinted.fr/items/5263841675-lego-75344-stars-wars-microfighter-neuf-scelle",
-    "price": 11.2,
-    "title": "Lego 75344 stars wars microfighter neuf scellé",
-    "imgUrl": "https://images1.vinted.net/t/02_00ece_SmbEUd6AnWdkCSjT2NWQaMTD/f800/1729666724.jpeg?s=15e4750294e2c31fcca1706bd9e9bf0019a6b4f2",
-    "publicationDate": 1729666724,
-    "id": 5263841675
-  },
-  {
-    "link": "https://www.vinted.fr/items/3723681673-set-lego-star-wars-75344-boba-fetts-starship",
-    "price": 11.2,
-    "title": "Set Lego Star Wars 75344 Boba Fett's Starship ",
-    "imgUrl": "https://images1.vinted.net/t/01_02428_67Uow6mKAHnFX5NSSB17uuNp/f800/1699300613.jpeg?s=b0d28e2dd9bbdae2b2517905f2d3ac22cba9065d",
-    "publicationDate": 1699300613,
-    "id": 3723681673
-  },
-  {
-    "link": "https://www.vinted.fr/items/5109165387-lego-star-wars-75344-microfighter-vaisseau-de-boobafeth",
-    "price": 11.2,
-    "title": "Lego Star Wars 75344 microfighter Vaisseau de Boobafeth",
-    "imgUrl": "https://images1.vinted.net/t/02_00e6c_r4LtLKWJdgUWwXcZ7PPPKZRM/f800/1727335337.jpeg?s=76edb0a27d58dd6ecaa7673ae3e237120e483522",
-    "publicationDate": 1727335337,
-    "id": 5109165387
-  },
-  {
-    "link": "https://www.vinted.fr/items/4642602534-lego-star-wars-75344-boba-fetts-starship-microfighter-sans-figurine",
-    "price": 2.8,
-    "title": "Lego Star Wars 75344 Boba Fett’s Starship Microfighter sans figurine",
-    "imgUrl": "https://images1.vinted.net/t/02_01ecd_MY2CnTngZAfzwiFq2AmmMEPK/f800/1718391180.jpeg?s=6276c7bf43811ae4610e5d69f62346a746302f52",
-    "publicationDate": 1718391180,
-    "id": 4642602534
-  },
-  {
-    "link": "https://www.vinted.fr/items/4059230704-lego-star-wars-75344",
-    "price": 9.1,
-    "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_00326_5siF8wYAwpssZJrWM5HX9DW8/f800/1707038226.jpeg?s=8fe2b0f8a95b99a12e4bc98a838ad02d1cbb2879",
-    "publicationDate": 1707038226,
-    "id": 4059230704
-  },
-  {
-    "link": "https://www.vinted.fr/items/3865926849-lego-star-wars-75344-neuf-et-scelle",
-    "price": 11.2,
-    "title": "Lego Star Wars - 75344 - Neuf et scellé ",
-    "imgUrl": "https://images1.vinted.net/t/01_02127_tCbH38GU78D1NHAfSuZT8zav/f800/1702206000.jpeg?s=f054a2c146dbe49d8307730d05db271469bcca1d",
-    "publicationDate": 1702206000,
-    "id": 3865926849
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3870004415-lego-star-wars-75344",
     "price": 16.45,
     "title": "Lego star wars 75344",
@@ -560,46 +450,124 @@
     "id": 3870004415
   },
   {
-    "link": "https://www.vinted.fr/items/4572346294-lego-75344-slave-i-microfighter",
-    "price": 11.2,
-    "title": "Lego 75344 Slave I Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/02_0110d_aCgApQT8WuK1Hd3J3kHaL4RW/f800/1717008295.jpeg?s=c0821b376a4ccff2e93a3d2ae85e328ad308aa08",
-    "publicationDate": 1717008295,
-    "id": 4572346294
-  },
-  {
-    "link": "https://www.vinted.fr/items/4203807223-lego-star-wars-75344-neuf",
-    "price": 9.1,
-    "title": "Lego star wars 75344 neuf ",
-    "imgUrl": "https://images1.vinted.net/t/01_00b39_FdcedYn4bycqXDFazygkJzgJ/f800/1710066294.jpeg?s=776aa68a0948481f79ab5a00aee337beb3fd91b0",
-    "publicationDate": 1710066294,
-    "id": 4203807223
-  },
-  {
-    "link": "https://www.vinted.fr/items/3993855874-lego-star-wars-75344",
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5315183591-lego-75344-vaisseau-de-boba-fett",
     "price": 5.95,
+    "title": "Lego 75344 vaisseau de Boba Fett",
+    "imgUrl": "https://images1.vinted.net/t/04_0070f_dhPwZcxLyh8wsTZYeVQvSkKE/f800/1730541351.jpeg?s=cbce34e10052df69c5f45fae8abc45e9c1e12304",
+    "publicationDate": 1730541351,
+    "id": 5315183591
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5373624778-lego-stars-wars-75344",
+    "price": 8.04,
+    "title": "Lego stars wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/04_00728_tVD6R66s41e3P3Bc5GdU7PUU/f800/1731440992.jpeg?s=e8f64b54c738d78c816eb25cfa83a6e2bf6861dd",
+    "publicationDate": 1731440992,
+    "id": 5373624778
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5397299006-lego-star-wars-75344-boba-fett-starship-microfighter",
+    "price": 10.15,
+    "title": "Lego Star Wars 75344 Boba Fett starship microfighter",
+    "imgUrl": "https://images1.vinted.net/t/03_00aa8_ir5w8UVvagSGVpYpB6GmZ9G9/f800/1731849917.jpeg?s=30e66fd1625c7b17f1d2296bbff966c9ca204a7b",
+    "publicationDate": 1731849917,
+    "id": 5397299006
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4879178543-lego-star-wars-75344",
+    "price": 7,
+    "title": "Lego Star Wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_01f88_Vb9t4wpasMeWZEw1d8X8ELne/f800/1723477567.jpeg?s=406237b7db328ca8911e04f8eab42d047e4d3545",
+    "publicationDate": 1723477567,
+    "id": 4879178543
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5200733371-lego-star-wars-75344",
+    "price": 9.1,
+    "title": "Lego star Wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/01_007b3_5mr1tSa1AGQZAP2rTVpN3Ah8/f800/1728719240.jpeg?s=f43ac997d5c67bc8f23ac5654d5d3fa1bc94d7c5",
+    "publicationDate": 1728719240,
+    "id": 5200733371
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5005862645-lego-75344-star-wars",
+    "price": 4.9,
+    "title": "Lego 75344 star wars",
+    "imgUrl": "https://images1.vinted.net/t/03_01870_85zGuXgvbpyFSm29M7zYQx1B/f800/1725798568.jpeg?s=2f8faeb6c3ae5581028fa391d1ea59c25ec9f535",
+    "publicationDate": 1725798568,
+    "id": 5005862645
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5069185306-lego-starwars-75344-novo-e-selado",
+    "price": 9.1,
+    "title": "LEGO StarWars 75344 - Novo e Selado",
+    "imgUrl": "https://images1.vinted.net/t/01_0212f_TgK9HemZ2XyR997gjC7Kr45K/f800/1726695378.jpeg?s=23a924c23d89688d4f75a58768fc1560e12f89ab",
+    "publicationDate": 1726695378,
+    "id": 5069185306
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5300481293-lego-star-wars",
+    "price": 7,
+    "title": "Lego star Wars",
+    "imgUrl": "https://images1.vinted.net/t/04_025a3_dHWBETH8cxczbuvxcAREGNCV/f800/1730240842.jpeg?s=db0441fdc1944907d2a2ecd1a20029c63e456883",
+    "publicationDate": 1730240842,
+    "id": 5300481293
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4605253626-lego-75344",
+    "price": 8.05,
+    "title": "Lego 75344",
+    "imgUrl": "https://images1.vinted.net/t/03_00ff8_utAWgiS17sTMZ6D2Djjf2siZ/f800/1717661532.jpeg?s=7524dde258623e7e8bda28e53d8382aadf269f56",
+    "publicationDate": 1717661532,
+    "id": 4605253626
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5263841675-lego-75344-stars-wars-microfighter-neuf-scelle",
+    "price": 11.2,
+    "title": "Lego 75344 stars wars microfighter neuf scellé",
+    "imgUrl": "https://images1.vinted.net/t/02_00ece_SmbEUd6AnWdkCSjT2NWQaMTD/f800/1729666724.jpeg?s=15e4750294e2c31fcca1706bd9e9bf0019a6b4f2",
+    "publicationDate": 1729666724,
+    "id": 5263841675
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5399935948-lego-star-wars-75344",
+    "price": 13.3,
     "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_01f25_itPsVCJXRvjYzTMizV145kgN/f800/1705587017.jpeg?s=0360a3d6a9e5845f37fd9769217a7923e08c6424",
-    "publicationDate": 1705587017,
-    "id": 3993855874
+    "imgUrl": "https://images1.vinted.net/t/01_00b0d_5xQvL9eFxVstSCmJKfREG4ym/f800/1731864700.jpeg?s=dbe056220b9b013194d7a6158f8c7f6d8e420cb9",
+    "publicationDate": 1731864700,
+    "id": 5399935948
   },
   {
-    "link": "https://www.vinted.fr/items/4293212987-lego-star-wars-75344",
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3746759647-lego-star-wars",
+    "price": 8.05,
+    "title": "Lego star wars",
+    "imgUrl": "https://images1.vinted.net/t/03_0196d_oyDYiB18khqgnKZbCGbcwghW/f800/1699783032.jpeg?s=9a8b6c0291055b796e3f42dbb1a8c74802f9b61f",
+    "publicationDate": 1699783032,
+    "id": 3746759647
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4059230704-lego-star-wars-75344",
     "price": 9.1,
-    "title": "Lego Star Wars 75344 ",
-    "imgUrl": "https://images1.vinted.net/t/03_0247b_iFSaHfxzo2HVvsJxQ2HrVJyr/f800/1711816353.jpeg?s=ebd240d77ab920583b615a6b9d248457ae5c727c",
-    "publicationDate": 1711816353,
-    "id": 4293212987
+    "title": "Lego star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/01_00326_5siF8wYAwpssZJrWM5HX9DW8/f800/1707038226.jpeg?s=8fe2b0f8a95b99a12e4bc98a838ad02d1cbb2879",
+    "publicationDate": 1707038226,
+    "id": 4059230704
   },
   {
-    "link": "https://www.vinted.fr/items/4583025228-lego-star-wars-75344-boba-fetts-starship-microfighter",
-    "price": 9.1,
-    "title": "LEGO Star Wars 75344 Boba Fett's starship microfighter",
-    "imgUrl": "https://images1.vinted.net/t/01_02395_ZfbCn89jyY76feDNjjntw7Ps/f800/1717240223.jpeg?s=4c20c34248781e03bc77e93a6f4b36efaca81d46",
-    "publicationDate": 1717240223,
-    "id": 4583025228
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5128129149-lego-star-wars-75344",
     "price": 8.58,
     "title": "Lego Star Wars 75344",
@@ -608,22 +576,70 @@
     "id": 5128129149
   },
   {
-    "link": "https://www.vinted.fr/items/5173577149-av-lego-starwars-neuf",
-    "price": 10.15,
-    "title": "Av lego starwars neuf",
-    "imgUrl": "https://images1.vinted.net/t/02_001d1_bZuRLM5mGUCdeWrnLbcL3C4p/f800/1728249330.jpeg?s=06c5145058c49edc7b2dd8b6191e7e9e33e4f943",
-    "publicationDate": 1728249330,
-    "id": 5173577149
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4642602534-lego-star-wars-75344-boba-fetts-starship-microfighter-sans-figurine",
+    "price": 2.8,
+    "title": "Lego Star Wars 75344 Boba Fett’s Starship Microfighter sans figurine",
+    "imgUrl": "https://images1.vinted.net/t/02_01ecd_MY2CnTngZAfzwiFq2AmmMEPK/f800/1718391180.jpeg?s=6276c7bf43811ae4610e5d69f62346a746302f52",
+    "publicationDate": 1718391180,
+    "id": 4642602534
   },
   {
-    "link": "https://www.vinted.fr/items/5131732854-lego-75344",
-    "price": 4.9,
-    "title": "Lego 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_01bd7_WjHY4zYnZo5eEfUQj9QoWqNn/f800/1727634851.jpeg?s=286b44159cb3dd14a2b519cfccb7fcc9e5b2d4ca",
-    "publicationDate": 1727634851,
-    "id": 5131732854
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4958558484-te-koop-star-wars-lego-set-75344",
+    "price": 5.43,
+    "title": "Te koop: Star Wars Lego set 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_00575_W2SR1fcU2dxLTb4cp85SEUAP/f800/1724954107.jpeg?s=a2160d35d6db60ff00fb478bc311f057953b3d6c",
+    "publicationDate": 1724954107,
+    "id": 4958558484
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4203807223-lego-star-wars-75344-neuf",
+    "price": 9.1,
+    "title": "Lego star wars 75344 neuf ",
+    "imgUrl": "https://images1.vinted.net/t/01_00b39_FdcedYn4bycqXDFazygkJzgJ/f800/1710066294.jpeg?s=776aa68a0948481f79ab5a00aee337beb3fd91b0",
+    "publicationDate": 1710066294,
+    "id": 4203807223
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3993855874-lego-star-wars-75344",
+    "price": 5.95,
+    "title": "Lego star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/03_01f25_itPsVCJXRvjYzTMizV145kgN/f800/1705587017.jpeg?s=0360a3d6a9e5845f37fd9769217a7923e08c6424",
+    "publicationDate": 1705587017,
+    "id": 3993855874
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4293212987-lego-star-wars-75344",
+    "price": 9.1,
+    "title": "Lego Star Wars 75344 ",
+    "imgUrl": "https://images1.vinted.net/t/03_0247b_iFSaHfxzo2HVvsJxQ2HrVJyr/f800/1711816353.jpeg?s=ebd240d77ab920583b615a6b9d248457ae5c727c",
+    "publicationDate": 1711816353,
+    "id": 4293212987
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4583025228-lego-star-wars-75344-boba-fetts-starship-microfighter",
+    "price": 9.1,
+    "title": "LEGO Star Wars 75344 Boba Fett's starship microfighter",
+    "imgUrl": "https://images1.vinted.net/t/01_02395_ZfbCn89jyY76feDNjjntw7Ps/f800/1717240223.jpeg?s=4c20c34248781e03bc77e93a6f4b36efaca81d46",
+    "publicationDate": 1717240223,
+    "id": 4583025228
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3723681673-set-lego-star-wars-75344-boba-fetts-starship",
+    "price": 11.2,
+    "title": "Set Lego Star Wars 75344 Boba Fett's Starship ",
+    "imgUrl": "https://images1.vinted.net/t/01_02428_67Uow6mKAHnFX5NSSB17uuNp/f800/1699300613.jpeg?s=b0d28e2dd9bbdae2b2517905f2d3ac22cba9065d",
+    "publicationDate": 1699300613,
+    "id": 3723681673
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5346888354-star-wars-lego-75344",
     "price": 8.05,
     "title": "Star Wars | Lego 75344",
@@ -632,6 +648,34 @@
     "id": 5346888354
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5131732854-lego-75344",
+    "price": 4.9,
+    "title": "Lego 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_01bd7_WjHY4zYnZo5eEfUQj9QoWqNn/f800/1727634851.jpeg?s=286b44159cb3dd14a2b519cfccb7fcc9e5b2d4ca",
+    "publicationDate": 1727634851,
+    "id": 5131732854
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3865926849-lego-star-wars-75344-neuf-et-scelle",
+    "price": 11.2,
+    "title": "Lego Star Wars - 75344 - Neuf et scellé ",
+    "imgUrl": "https://images1.vinted.net/t/01_02127_tCbH38GU78D1NHAfSuZT8zav/f800/1702206000.jpeg?s=f054a2c146dbe49d8307730d05db271469bcca1d",
+    "publicationDate": 1702206000,
+    "id": 3865926849
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5109165387-lego-star-wars-75344-microfighter-vaisseau-de-boobafeth",
+    "price": 11.2,
+    "title": "Lego Star Wars 75344 microfighter Vaisseau de Boobafeth",
+    "imgUrl": "https://images1.vinted.net/t/02_00e6c_r4LtLKWJdgUWwXcZ7PPPKZRM/f800/1727335337.jpeg?s=76edb0a27d58dd6ecaa7673ae3e237120e483522",
+    "publicationDate": 1727335337,
+    "id": 5109165387
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4486721528-lego-star-wars-75344",
     "price": 5.95,
     "title": "Lego star wars 75344",
@@ -640,6 +684,7 @@
     "id": 4486721528
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4336282902-lego-75344",
     "price": 5.95,
     "title": "Lego 75344",
@@ -648,6 +693,7 @@
     "id": 4336282902
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4676975904-lego-star-wars",
     "price": 11.2,
     "title": "lego star wars",
@@ -656,6 +702,16 @@
     "id": 4676975904
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5173577149-av-lego-starwars-neuf",
+    "price": 10.15,
+    "title": "Av lego starwars neuf",
+    "imgUrl": "https://images1.vinted.net/t/02_001d1_bZuRLM5mGUCdeWrnLbcL3C4p/f800/1728249330.jpeg?s=06c5145058c49edc7b2dd8b6191e7e9e33e4f943",
+    "publicationDate": 1728249330,
+    "id": 5173577149
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3433549541-lego-75344",
     "price": 8.05,
     "title": "Lego 75344",
@@ -664,6 +720,7 @@
     "id": 3433549541
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3774879576-lego-star-wars",
     "price": 10.15,
     "title": "Lego Star Wars ",
@@ -672,6 +729,16 @@
     "id": 3774879576
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4572346294-lego-75344-slave-i-microfighter",
+    "price": 11.2,
+    "title": "Lego 75344 Slave I Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/02_0110d_aCgApQT8WuK1Hd3J3kHaL4RW/f800/1717008295.jpeg?s=c0821b376a4ccff2e93a3d2ae85e328ad308aa08",
+    "publicationDate": 1717008295,
+    "id": 4572346294
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3743790418-lego-75344-boba-fett-microfighter",
     "price": 8.05,
     "title": "Lego 75344 Boba Fett microfighter.",
@@ -680,6 +747,7 @@
     "id": 3743790418
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4013856036-lego-star-wars-75344",
     "price": 11.2,
     "title": "Lego star wars 75344",
@@ -688,6 +756,7 @@
     "id": 4013856036
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4493345940-lego-star-wars-75344",
     "price": 9.1,
     "title": "Lego star wars 75344",
@@ -696,6 +765,7 @@
     "id": 4493345940
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4915361711-lego-star-wars-75344",
     "price": 11.2,
     "title": "Lego Star Wars 75344",
@@ -704,6 +774,25 @@
     "id": 4915361711
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5251604434-lego-75344",
+    "price": 8.05,
+    "title": "lego 75344",
+    "imgUrl": "https://images1.vinted.net/t/01_01e88_q5stxjoZQELGKLNXUNyr2wEt/f800/1729447016.jpeg?s=640290ea178334d2e45130ef5bfdda496df43a2c",
+    "publicationDate": 1729447016,
+    "id": 5251604434
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5273372872-star-wars-75344",
+    "price": 11.2,
+    "title": "Star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/04_00644_vyrT8QPaevXn2VMGywHxQi5A/f800/1729805772.jpeg?s=77ca79418981d8321cb001299e49720eebd99b7e",
+    "publicationDate": 1729805772,
+    "id": 5273372872
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5341205138-lot-lego-star-wars-75391-captain-rex-y-wing-microfighter-75344-boba-fetts-starship-microfighter",
     "price": 19.6,
     "title": "Lot lego star wars 75391 Captain Rex Y-Wing Microfighter 75344 Boba Fett's Starship Microfighter",
@@ -712,22 +801,7 @@
     "id": 5341205138
   },
   {
-    "link": "https://www.vinted.fr/items/5340207141-lego-75344-nieuw",
-    "price": 16.45,
-    "title": "Lego 75344 NIEUW",
-    "imgUrl": "https://images1.vinted.net/t/04_019d3_9HWaQv4tEQA4AyZSr3jN3uAr/f800/1730917800.jpeg?s=f027d02d6d89e8dd77a1c56eb202fd7f10c9c6c3",
-    "publicationDate": 1730917800,
-    "id": 5340207141
-  },
-  {
-    "link": "https://www.vinted.fr/items/4807421756-lego-star-wars-75344",
-    "price": 11.2,
-    "title": "Lego Star Wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_00fc4_yND1rcw7Gzgw6GgPbdtrvXLu/f800/1721909727.jpeg?s=0b36b549a3b19787f8c28af6546c79bda5b4a0d4",
-    "publicationDate": 1721909727,
-    "id": 4807421756
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4999615053-lego-75344",
     "price": 11.2,
     "title": "Lego 75344",
@@ -736,6 +810,16 @@
     "id": 4999615053
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4807421756-lego-star-wars-75344",
+    "price": 11.2,
+    "title": "Lego Star Wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/03_00fc4_yND1rcw7Gzgw6GgPbdtrvXLu/f800/1721909727.jpeg?s=0b36b549a3b19787f8c28af6546c79bda5b4a0d4",
+    "publicationDate": 1721909727,
+    "id": 4807421756
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3889232420-star-wars",
     "price": 13.3,
     "title": "Star wars",
@@ -744,6 +828,7 @@
     "id": 3889232420
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5262116584-lego-star-wars",
     "price": 11.2,
     "title": "Lego Star Wars",
@@ -752,270 +837,16 @@
     "id": 5262116584
   },
   {
-    "link": "https://www.vinted.fr/items/4871136807-lego-star-wars-75344-boba-fetts-starship-microfighter",
-    "price": 9.1,
-    "title": "Lego Star Wars 75344 Boba Fett's Starship Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/03_022e0_owgkayLonnheDUJgvRtqxY9t/f800/1723301358.jpeg?s=d98c0fab972f6ed00835463fb16c3f00128d421d",
-    "publicationDate": 1723301358,
-    "id": 4871136807
-  },
-  {
-    "link": "https://www.vinted.fr/items/5039173989-lego-star-wars-75344-neuf",
-    "price": 13.3,
-    "title": "Lego Star Wars 75344 neuf",
-    "imgUrl": "https://images1.vinted.net/t/03_009ac_mvF88muzusgBJDhBiBhufpGk/f800/1726301711.jpeg?s=096b7466b9914e4eb8fa8782f1549a9311cc08b2",
-    "publicationDate": 1726301711,
-    "id": 5039173989
-  },
-  {
-    "link": "https://www.vinted.fr/items/5039173989-lego-star-wars-75344-neuf",
-    "price": 13.3,
-    "title": "Lego Star Wars 75344 neuf",
-    "imgUrl": "https://images1.vinted.net/t/03_009ac_mvF88muzusgBJDhBiBhufpGk/f800/1726301711.jpeg?s=096b7466b9914e4eb8fa8782f1549a9311cc08b2",
-    "publicationDate": 1726301711,
-    "id": 5039173989
-  },
-  {
-    "link": "https://www.vinted.fr/items/4754553348-lego-star-wars-75344",
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5262556738-microfighter-boba-fett-lego-star-wars-75344",
     "price": 11.2,
-    "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_005e5_8uERZUwC178vayTsAm2ToV41/f800/1720770549.jpeg?s=b2976e14da518d728579959a5f1eadf7561b5329",
-    "publicationDate": 1720770549,
-    "id": 4754553348
+    "title": "Microfighter Boba Fett lego Star Wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_01db5_V6Hj9S4YBMfqDYWchnHoJsQ8/f800/1729620109.jpeg?s=55570b4b5024385398b95fa2c0cf14ea38aa0fba",
+    "publicationDate": 1729620109,
+    "id": 5262556738
   },
   {
-    "link": "https://www.vinted.fr/items/2879157496-lego-star-wars-75344-boba-fetts-starship",
-    "price": 9.1,
-    "title": "Lego Star Wars 75344 Boba fett's starship ",
-    "imgUrl": "https://images1.vinted.net/t/02_01a2c_HcgD767xn72JPuBeKeTAFvyn/f800/1680952098.jpeg?s=b4ea89967b277cb0deffebb9eab2e911542f1b95",
-    "publicationDate": 1680952098,
-    "id": 2879157496
-  },
-  {
-    "link": "https://www.vinted.fr/items/5313874438-lego-star-wars-75344-le-vaisseau-de-boba-fett-microfighter",
-    "price": 11.2,
-    "title": "Lego star wars 75344 - Le vaisseau de Boba Fett Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/04_01d08_JMq7nB4geVhEecMFR4Qhff5X/f800/1730491854.jpeg?s=fbf1eb50b8df76719f7dc19d4a8d6587790d70a0",
-    "publicationDate": 1730491854,
-    "id": 5313874438
-  },
-  {
-    "link": "https://www.vinted.fr/items/4386689393-lego-star-wars-75344",
-    "price": 9.1,
-    "title": "Lego Star Wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_00d35_4wWWanbyR967ERc3uMcVk5yv/f800/1713537311.jpeg?s=de5efb88d5e62287043e2ce76e5136ac20f0fab5",
-    "publicationDate": 1713537311,
-    "id": 4386689393
-  },
-  {
-    "link": "https://www.vinted.fr/items/5160631178-lego-boba-fetts-starship",
-    "price": 11.2,
-    "title": "Lego Boba Fett's Starship",
-    "imgUrl": "https://images1.vinted.net/t/03_01107_cZ9R72ELyS8EbN5ebdjD3uTc/f800/1728121234.jpeg?s=e4c0712725979775b91c25fcfa4e16d0fa5b4a0d",
-    "publicationDate": 1728121234,
-    "id": 5160631178
-  },
-  {
-    "link": "https://www.vinted.fr/items/3947909588-lego-75344",
-    "price": 3.85,
-    "title": "Lego 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_00b62_Po7Uo9DUHSareH6B17jtkrJa/f800/1704569526.jpeg?s=dd486f1c942f0a46d5b92e79c271e5a6b7c8382b",
-    "publicationDate": 1704569526,
-    "id": 3947909588
-  },
-  {
-    "link": "https://www.vinted.fr/items/4923535822-qyyq-lego-75344-star-wars-boba-fetts-sterrenschip-microfighter",
-    "price": 10.1,
-    "title": "qyyq Lego 75344 Star Wars Boba Fett's sterrenschip Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/01_00a8c_AFPb5rZAg4a5FNNyRYnrMACM/f800/1724343885.jpeg?s=9bd2c4f79109cf1945f69c3ce96684b5291edead",
-    "publicationDate": 1724343885,
-    "id": 4923535822
-  },
-  {
-    "link": "https://www.vinted.fr/items/5101045565-lego-starwars-75344",
-    "price": 11.19,
-    "title": "Lego StarWars 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_013aa_Ao1msP2yFaYwDaBVFotkG3cq/f800/1727190598.jpeg?s=74c3c3fcd1d49c85bd076785e643ea13c3273628",
-    "publicationDate": 1727190598,
-    "id": 5101045565
-  },
-  {
-    "link": "https://www.vinted.fr/items/4585100988-lego-star-wars-75344-boba-fetts",
-    "price": 11.2,
-    "title": "Lego Star Wars 75344 Boba Fett’s",
-    "imgUrl": "https://images1.vinted.net/t/01_00a17_xzizLRuakCNKtRiFDF8JogKZ/f800/1717262437.jpeg?s=f637367090c94b4a3373a6db00b66ca15b8406af",
-    "publicationDate": 1717262437,
-    "id": 4585100988
-  },
-  {
-    "link": "https://www.vinted.fr/items/5194849970-set-lego-nuovi-originali-e-sigillati-leggi",
-    "price": 11.19,
-    "title": "Set lego nuovi originali e sigillati (leggi)",
-    "imgUrl": "https://images1.vinted.net/t/03_00a55_FrN8tXEPu51nrtz1Zq4fpR9x/f800/1728586789.jpeg?s=d803c193366e306be0e0ccbdc6b1b240a675a089",
-    "publicationDate": 1728586789,
-    "id": 5194849970
-  },
-  {
-    "link": "https://www.vinted.fr/items/3877522829-lego-star-wars-75344-boba-fetts-starship",
-    "price": 10.68,
-    "title": "Lego Star Wars 75344 Boba Fett's Starship",
-    "imgUrl": "https://images1.vinted.net/t/03_014e6_xDEbLBWox4mQtZf7jPMmTjJy/f800/1702456845.jpeg?s=3054dba3dc36d1b80ba7c234f50026cdf49b14d6",
-    "publicationDate": 1702456845,
-    "id": 3877522829
-  },
-  {
-    "link": "https://www.vinted.fr/items/5260831130-boite-de-lego-stars-wars-75344",
-    "price": 13.3,
-    "title": "Boîte de lego stars wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_00d01_R7iG8CPnytGY1MG4JXeiCfsm/f800/1729603582.jpeg?s=afdae45d0b4673838e60df7401feb60c37de4ad8",
-    "publicationDate": 1729603582,
-    "id": 5260831130
-  },
-  {
-    "link": "https://www.vinted.fr/items/5354705760-lego-star-wars-microfighter",
-    "price": 19.6,
-    "title": "Lego star wars - microfighter",
-    "imgUrl": "https://images1.vinted.net/t/04_000db_53DD5rUxTvpU9eBXEWj6Gpsm/f800/1731177363.jpeg?s=30410dba8f61f2d41c674d5318c3bb571bec29f6",
-    "publicationDate": 1731177363,
-    "id": 5354705760
-  },
-  {
-    "link": "https://www.vinted.fr/items/5179929073-lego-75344-figurineboba-fetts-starship-microfighter",
-    "price": 7,
-    "title": "Lego 75344 figurine,boba fett's starship Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/02_00d50_HSFrcPVELNqiHu2uGrVzcpF3/f800/1728372894.jpeg?s=2ce8cedb1fe8a10c64974c2fa78972f8210b9c84",
-    "publicationDate": 1728372894,
-    "id": 5179929073
-  },
-  {
-    "link": "https://www.vinted.fr/items/4642479744-lego-75344",
-    "price": 9.1,
-    "title": "Lego 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_00810_SyiTXFnJXkrYu26gAsG7S6n6/f800/1718389136.jpeg?s=558da9d7adc4b3cb145a517ee3e77e49aa5d39e8",
-    "publicationDate": 1718389136,
-    "id": 4642479744
-  },
-  {
-    "link": "https://www.vinted.fr/items/3846874244-lego-disney-star-wars-75344",
-    "price": 8.58,
-    "title": "Lego Disney star Wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_004c0_Jc1o1G6HtwrjNY4LTcCwRs9m/f800/1701731623.jpeg?s=ad77b6d2996e0f5a6049996e9084d9a9a4e89ba4",
-    "publicationDate": 1701731623,
-    "id": 3846874244
-  },
-  {
-    "link": "https://www.vinted.fr/items/5248535847-lego-star-wars-75344-boba-fett-microfighter-new",
-    "price": 11.19,
-    "title": "Lego Star Wars 75344 Boba Fett Microfighter New",
-    "imgUrl": "https://images1.vinted.net/t/03_01ec8_Ve1vue94aZbhgughn1neBw13/f800/1729428930.jpeg?s=53ab4addb6bf6e76c0861dfe722e1de6304b7d61",
-    "publicationDate": 1729428930,
-    "id": 5248535847
-  },
-  {
-    "link": "https://www.vinted.fr/items/5381284936-lego-set-boba-fetts-starship-mircofighter-75344",
-    "price": 10.15,
-    "title": "Lego Set Boba Fett's Starship Mircofighter 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_01862_fYNiD2bpBeVUc3jFszEezVg7/f800/1731588675.jpeg?s=0adb6fea1f5d4fa1f36f47780ee41d6eb7c4957f",
-    "publicationDate": 1731588675,
-    "id": 5381284936
-  },
-  {
-    "link": "https://www.vinted.fr/items/4198930051-lego-75344-boba-fetts-starship-microfighter",
-    "price": 14.35,
-    "title": "Lego 75344# Boba Fett’s Starship Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/03_00b6a_Y98U4TmTjYErZR2DMtgzWRka/f800/1709974214.jpeg?s=2774eecf3b093dfea05efb7f9f123fa3d18f8f88",
-    "publicationDate": 1709974214,
-    "id": 4198930051
-  },
-  {
-    "link": "https://www.vinted.fr/items/3937565942-lego-75344-bobba-feet-starship-star-wars",
-    "price": 9.1,
-    "title": "Lego 75344 Bobba feet Starship Star Wars",
-    "imgUrl": "https://images1.vinted.net/t/03_00c03_UjDmCPgwH4bCGnvGEJ3LR5oJ/f800/1704368423.jpeg?s=b9ae03d6754b4af1937a5428d5549ab6eb7a004c",
-    "publicationDate": 1704368423,
-    "id": 3937565942
-  },
-  {
-    "link": "https://www.vinted.fr/items/4842044289-lego-75344-star-wars",
-    "price": 9.1,
-    "title": "LEGO 75344 “Star Wars”",
-    "imgUrl": "https://images1.vinted.net/t/03_024a8_rxzRPnaw3A82Fpzi7jxCazyy/f800/1722694982.jpeg?s=fe9554cf5624e462aa0e1523989c1edc3346ba70",
-    "publicationDate": 1722694982,
-    "id": 4842044289
-  },
-  {
-    "link": "https://www.vinted.fr/items/5253215775-lego-star-wars-75344-boba-fett",
-    "price": 10.14,
-    "title": "Lego star wars 75344 boba fett",
-    "imgUrl": "https://images1.vinted.net/t/02_014af_Fh7sXmzPf3kCKmojthcH8PXf/f800/1729495189.jpeg?s=e2f3091bc302eb6790fefad98a401831bd4ad888",
-    "publicationDate": 1729495189,
-    "id": 5253215775
-  },
-  {
-    "link": "https://www.vinted.fr/items/5078217550-75344-lego-star-wars-le-microchasseur-du-vaisseau-spatial-de-boba-fett",
-    "price": 11.19,
-    "title": "75344 LEGO Star Wars Le microchasseur du vaisseau spatial de Boba Fett",
-    "imgUrl": "https://images1.vinted.net/t/03_01f60_5W9VYSiHycjVDDbZk5anDsm8/f800/1726857716.jpeg?s=e0b9f6848e5e7a9c734319a864b48a3531aba598",
-    "publicationDate": 1726857716,
-    "id": 5078217550
-  },
-  {
-    "link": "https://www.vinted.fr/items/5316550483-lego-star-wars-75344",
-    "price": 8.05,
-    "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_01f58_UajVpmXhYLTdsJuz9GfAG8q3/f800/1730552757.jpeg?s=2417a6285041aa3ac6214c774e9d4bf9157412f2",
-    "publicationDate": 1730552757,
-    "id": 5316550483
-  },
-  {
-    "link": "https://www.vinted.fr/items/5252085657-lego-star-wars-75344",
-    "price": 9.1,
-    "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_009e4_AZVUWjcAQph2Wsg5t9xVigt9/f800/1729451343.jpeg?s=b6ec53a01b244749a566fcc6f12a6822038a5a49",
-    "publicationDate": 1729451343,
-    "id": 5252085657
-  },
-  {
-    "link": "https://www.vinted.fr/items/4312879979-lego-star-wars-75344-boba-fetts-starship-microfighter",
-    "price": 8.05,
-    "title": "Lego Star Wars 75344 Boba Fett's Starship Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/01_02235_xRoqvNBk3qk9FEMGdSCDW4Ee/f800/1712172770.jpeg?s=29386836ffd3f5d1946687c699ce010f1d56fd3a",
-    "publicationDate": 1712172770,
-    "id": 4312879979
-  },
-  {
-    "link": "https://www.vinted.fr/items/4830655349-lego-star-wars-75344",
-    "price": 10.1,
-    "title": "Lego Star Wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_020cf_BCmKedAXRL5q9EByeVhgqnW1/f800/1722489828.jpeg?s=6aae33771caa943e4516d10eab22cca3817592a3",
-    "publicationDate": 1722489828,
-    "id": 4830655349
-  },
-  {
-    "link": "https://www.vinted.fr/items/4906127397-lego-star-wars-75344-boba-fetts-starship-microfighter-saled",
-    "price": 11.2,
-    "title": "Lego star Wars 75344 Boba Fett’s starship microfighter saled",
-    "imgUrl": "https://images1.vinted.net/t/03_0254b_J8gYcDXWU4Bi65rGYRe1UCdX/f800/1724054898.jpeg?s=aa9bf521b002a78e983b709ff37d34d5b0b64b5d",
-    "publicationDate": 1724054898,
-    "id": 4906127397
-  },
-  {
-    "link": "https://www.vinted.fr/items/4790527638-lego-star-wars-75344-le-vaisseau-de-boba-fett-microfighter",
-    "price": 11.2,
-    "title": "Lego Star Wars 75344 Le Vaisseau de Boba Fett Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/03_01954_kuea3wm6MabsZAsiD4njdui2/f800/1721566904.jpeg?s=bd9e4f0f3f7db2a4f6330cb06e6b8f58d1e70d9f",
-    "publicationDate": 1721566904,
-    "id": 4790527638
-  },
-  {
-    "link": "https://www.vinted.fr/items/5338734969-lego-star-wars-ref-75344-le-vaisseau-de-boba-fett-microfighter",
-    "price": 11.2,
-    "title": "Lego star wars réf 75344 le vaisseau de Boba Fett microfighter",
-    "imgUrl": "https://images1.vinted.net/t/04_00bf6_i97fUudrZGTg3GEiCv1NwLqP/f800/1730902636.jpeg?s=4a8558800674515d6f5c33fa63dc1f83812f38a8",
-    "publicationDate": 1730902636,
-    "id": 5338734969
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5323053290-lego-star-wars-75344-boba-fetts-starship-microfigher",
     "price": 16.44,
     "title": "Lego Star Wars 75344 Boba Fett’s Starship Microfigher",
@@ -1024,22 +855,268 @@
     "id": 5323053290
   },
   {
-    "link": "https://www.vinted.fr/items/4417670449-boba-fetts-starship-microfighter-75344-lego",
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5313874438-lego-star-wars-75344-le-vaisseau-de-boba-fett-microfighter",
+    "price": 11.2,
+    "title": "Lego star wars 75344 - Le vaisseau de Boba Fett Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/04_01d08_JMq7nB4geVhEecMFR4Qhff5X/f800/1730491854.jpeg?s=fbf1eb50b8df76719f7dc19d4a8d6587790d70a0",
+    "publicationDate": 1730491854,
+    "id": 5313874438
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4871136807-lego-star-wars-75344-boba-fetts-starship-microfighter",
+    "price": 9.1,
+    "title": "Lego Star Wars 75344 Boba Fett's Starship Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/03_022e0_owgkayLonnheDUJgvRtqxY9t/f800/1723301358.jpeg?s=d98c0fab972f6ed00835463fb16c3f00128d421d",
+    "publicationDate": 1723301358,
+    "id": 4871136807
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5039173989-lego-star-wars-75344-neuf",
     "price": 13.3,
-    "title": "Boba Fett's Starship Microfighter 75344 Lego",
-    "imgUrl": "https://images1.vinted.net/t/03_021e7_McoyWWYaqJD9rBDdDovABdsf/f800/1714078707.jpeg?s=23324126c3f344fd69aa558cc4f62825cbca1945",
-    "publicationDate": 1714078707,
-    "id": 4417670449
+    "title": "Lego Star Wars 75344 neuf",
+    "imgUrl": "https://images1.vinted.net/t/03_009ac_mvF88muzusgBJDhBiBhufpGk/f800/1726301711.jpeg?s=096b7466b9914e4eb8fa8782f1549a9311cc08b2",
+    "publicationDate": 1726301711,
+    "id": 5039173989
   },
   {
-    "link": "https://www.vinted.fr/items/3833851098-lego-star-wars-75344-boba-fetts-starship-microfighter",
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4754553348-lego-star-wars-75344",
+    "price": 11.2,
+    "title": "Lego star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/01_005e5_8uERZUwC178vayTsAm2ToV41/f800/1720770549.jpeg?s=b2976e14da518d728579959a5f1eadf7561b5329",
+    "publicationDate": 1720770549,
+    "id": 4754553348
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/2879157496-lego-star-wars-75344-boba-fetts-starship",
+    "price": 9.1,
+    "title": "Lego Star Wars 75344 Boba fett's starship ",
+    "imgUrl": "https://images1.vinted.net/t/02_01a2c_HcgD767xn72JPuBeKeTAFvyn/f800/1680952098.jpeg?s=b4ea89967b277cb0deffebb9eab2e911542f1b95",
+    "publicationDate": 1680952098,
+    "id": 2879157496
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4386689393-lego-star-wars-75344",
+    "price": 9.1,
+    "title": "Lego Star Wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/01_00d35_4wWWanbyR967ERc3uMcVk5yv/f800/1713537311.jpeg?s=de5efb88d5e62287043e2ce76e5136ac20f0fab5",
+    "publicationDate": 1713537311,
+    "id": 4386689393
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5194849970-set-lego-nuovi-originali-e-sigillati-leggi",
+    "price": 11.19,
+    "title": "Set lego nuovi originali e sigillati (leggi)",
+    "imgUrl": "https://images1.vinted.net/t/03_00a55_FrN8tXEPu51nrtz1Zq4fpR9x/f800/1728586789.jpeg?s=d803c193366e306be0e0ccbdc6b1b240a675a089",
+    "publicationDate": 1728586789,
+    "id": 5194849970
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4585100988-lego-star-wars-75344-boba-fetts",
+    "price": 11.2,
+    "title": "Lego Star Wars 75344 Boba Fett’s",
+    "imgUrl": "https://images1.vinted.net/t/01_00a17_xzizLRuakCNKtRiFDF8JogKZ/f800/1717262437.jpeg?s=f637367090c94b4a3373a6db00b66ca15b8406af",
+    "publicationDate": 1717262437,
+    "id": 4585100988
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5260831130-boite-de-lego-stars-wars-75344",
+    "price": 13.3,
+    "title": "Boîte de lego stars wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_00d01_R7iG8CPnytGY1MG4JXeiCfsm/f800/1729603582.jpeg?s=afdae45d0b4673838e60df7401feb60c37de4ad8",
+    "publicationDate": 1729603582,
+    "id": 5260831130
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5160631178-lego-boba-fetts-starship",
+    "price": 11.2,
+    "title": "Lego Boba Fett's Starship",
+    "imgUrl": "https://images1.vinted.net/t/03_01107_cZ9R72ELyS8EbN5ebdjD3uTc/f800/1728121234.jpeg?s=e4c0712725979775b91c25fcfa4e16d0fa5b4a0d",
+    "publicationDate": 1728121234,
+    "id": 5160631178
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5354705760-lego-star-wars-microfighter",
+    "price": 19.6,
+    "title": "Lego star wars - microfighter",
+    "imgUrl": "https://images1.vinted.net/t/04_000db_53DD5rUxTvpU9eBXEWj6Gpsm/f800/1731177363.jpeg?s=30410dba8f61f2d41c674d5318c3bb571bec29f6",
+    "publicationDate": 1731177363,
+    "id": 5354705760
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3846874244-lego-disney-star-wars-75344",
+    "price": 8.58,
+    "title": "Lego Disney star Wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/03_004c0_Jc1o1G6HtwrjNY4LTcCwRs9m/f800/1701731623.jpeg?s=ad77b6d2996e0f5a6049996e9084d9a9a4e89ba4",
+    "publicationDate": 1701731623,
+    "id": 3846874244
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5101045565-lego-starwars-75344",
+    "price": 11.19,
+    "title": "Lego StarWars 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_013aa_Ao1msP2yFaYwDaBVFotkG3cq/f800/1727190598.jpeg?s=74c3c3fcd1d49c85bd076785e643ea13c3273628",
+    "publicationDate": 1727190598,
+    "id": 5101045565
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5078217550-75344-lego-star-wars-le-microchasseur-du-vaisseau-spatial-de-boba-fett",
+    "price": 11.19,
+    "title": "75344 LEGO Star Wars Le microchasseur du vaisseau spatial de Boba Fett",
+    "imgUrl": "https://images1.vinted.net/t/03_01f60_5W9VYSiHycjVDDbZk5anDsm8/f800/1726857716.jpeg?s=e0b9f6848e5e7a9c734319a864b48a3531aba598",
+    "publicationDate": 1726857716,
+    "id": 5078217550
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4642479744-lego-75344",
+    "price": 9.1,
+    "title": "Lego 75344",
+    "imgUrl": "https://images1.vinted.net/t/01_00810_SyiTXFnJXkrYu26gAsG7S6n6/f800/1718389136.jpeg?s=558da9d7adc4b3cb145a517ee3e77e49aa5d39e8",
+    "publicationDate": 1718389136,
+    "id": 4642479744
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5179929073-lego-75344-figurineboba-fetts-starship-microfighter",
+    "price": 7,
+    "title": "Lego 75344 figurine,boba fett's starship Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/02_00d50_HSFrcPVELNqiHu2uGrVzcpF3/f800/1728372894.jpeg?s=2ce8cedb1fe8a10c64974c2fa78972f8210b9c84",
+    "publicationDate": 1728372894,
+    "id": 5179929073
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3947909588-lego-75344",
+    "price": 3.85,
+    "title": "Lego 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_00b62_Po7Uo9DUHSareH6B17jtkrJa/f800/1704569526.jpeg?s=dd486f1c942f0a46d5b92e79c271e5a6b7c8382b",
+    "publicationDate": 1704569526,
+    "id": 3947909588
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4923535822-qyyq-lego-75344-star-wars-boba-fetts-sterrenschip-microfighter",
+    "price": 10.1,
+    "title": "qyyq Lego 75344 Star Wars Boba Fett's sterrenschip Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/01_00a8c_AFPb5rZAg4a5FNNyRYnrMACM/f800/1724343885.jpeg?s=9bd2c4f79109cf1945f69c3ce96684b5291edead",
+    "publicationDate": 1724343885,
+    "id": 4923535822
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4198930051-lego-75344-boba-fetts-starship-microfighter",
+    "price": 14.35,
+    "title": "Lego 75344# Boba Fett’s Starship Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/03_00b6a_Y98U4TmTjYErZR2DMtgzWRka/f800/1709974214.jpeg?s=2774eecf3b093dfea05efb7f9f123fa3d18f8f88",
+    "publicationDate": 1709974214,
+    "id": 4198930051
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3937565942-lego-75344-bobba-feet-starship-star-wars",
+    "price": 9.1,
+    "title": "Lego 75344 Bobba feet Starship Star Wars",
+    "imgUrl": "https://images1.vinted.net/t/03_00c03_UjDmCPgwH4bCGnvGEJ3LR5oJ/f800/1704368423.jpeg?s=b9ae03d6754b4af1937a5428d5549ab6eb7a004c",
+    "publicationDate": 1704368423,
+    "id": 3937565942
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5253215775-lego-star-wars-75344-boba-fett",
+    "price": 10.14,
+    "title": "Lego star wars 75344 boba fett",
+    "imgUrl": "https://images1.vinted.net/t/02_014af_Fh7sXmzPf3kCKmojthcH8PXf/f800/1729495189.jpeg?s=e2f3091bc302eb6790fefad98a401831bd4ad888",
+    "publicationDate": 1729495189,
+    "id": 5253215775
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5381284936-lego-set-boba-fetts-starship-mircofighter-75344",
     "price": 10.15,
-    "title": "Lego Star wars 75344. Boba Fett's starship microfighter ",
-    "imgUrl": "https://images1.vinted.net/t/03_01385_xdRm9KU7bHP6pBPeh6oY4JTY/f800/1701462009.jpeg?s=a61ea3ac86c4c81197dd3bfa9f30dedf48f47cf9",
-    "publicationDate": 1701462009,
-    "id": 3833851098
+    "title": "Lego Set Boba Fett's Starship Mircofighter 75344",
+    "imgUrl": "https://images1.vinted.net/t/03_01862_fYNiD2bpBeVUc3jFszEezVg7/f800/1731588675.jpeg?s=0adb6fea1f5d4fa1f36f47780ee41d6eb7c4957f",
+    "publicationDate": 1731588675,
+    "id": 5381284936
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5248535847-lego-star-wars-75344-boba-fett-microfighter-new",
+    "price": 11.19,
+    "title": "Lego Star Wars 75344 Boba Fett Microfighter New",
+    "imgUrl": "https://images1.vinted.net/t/03_01ec8_Ve1vue94aZbhgughn1neBw13/f800/1729428930.jpeg?s=53ab4addb6bf6e76c0861dfe722e1de6304b7d61",
+    "publicationDate": 1729428930,
+    "id": 5248535847
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3877522829-lego-star-wars-75344-boba-fetts-starship",
+    "price": 10.68,
+    "title": "Lego Star Wars 75344 Boba Fett's Starship",
+    "imgUrl": "https://images1.vinted.net/t/03_014e6_xDEbLBWox4mQtZf7jPMmTjJy/f800/1702456845.jpeg?s=3054dba3dc36d1b80ba7c234f50026cdf49b14d6",
+    "publicationDate": 1702456845,
+    "id": 3877522829
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5316550483-lego-star-wars-75344",
+    "price": 8.05,
+    "title": "Lego star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_01f58_UajVpmXhYLTdsJuz9GfAG8q3/f800/1730552757.jpeg?s=2417a6285041aa3ac6214c774e9d4bf9157412f2",
+    "publicationDate": 1730552757,
+    "id": 5316550483
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5252085657-lego-star-wars-75344",
+    "price": 9.1,
+    "title": "Lego star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/03_009e4_AZVUWjcAQph2Wsg5t9xVigt9/f800/1729451343.jpeg?s=b6ec53a01b244749a566fcc6f12a6822038a5a49",
+    "publicationDate": 1729451343,
+    "id": 5252085657
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4842044289-lego-75344-star-wars",
+    "price": 9.1,
+    "title": "LEGO 75344 “Star Wars”",
+    "imgUrl": "https://images1.vinted.net/t/03_024a8_rxzRPnaw3A82Fpzi7jxCazyy/f800/1722694982.jpeg?s=fe9554cf5624e462aa0e1523989c1edc3346ba70",
+    "publicationDate": 1722694982,
+    "id": 4842044289
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4790527638-lego-star-wars-75344-le-vaisseau-de-boba-fett-microfighter",
+    "price": 11.2,
+    "title": "Lego Star Wars 75344 Le Vaisseau de Boba Fett Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/03_01954_kuea3wm6MabsZAsiD4njdui2/f800/1721566904.jpeg?s=bd9e4f0f3f7db2a4f6330cb06e6b8f58d1e70d9f",
+    "publicationDate": 1721566904,
+    "id": 4790527638
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4906127397-lego-star-wars-75344-boba-fetts-starship-microfighter-saled",
+    "price": 11.2,
+    "title": "Lego star Wars 75344 Boba Fett’s starship microfighter saled",
+    "imgUrl": "https://images1.vinted.net/t/03_0254b_J8gYcDXWU4Bi65rGYRe1UCdX/f800/1724054898.jpeg?s=aa9bf521b002a78e983b709ff37d34d5b0b64b5d",
+    "publicationDate": 1724054898,
+    "id": 4906127397
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3229986448-lego-75344",
     "price": 10.1,
     "title": "Lego 75344",
@@ -1048,14 +1125,43 @@
     "id": 3229986448
   },
   {
-    "link": "https://www.vinted.fr/items/5374347462-set-lego-star-wars-75344",
-    "price": 7,
-    "title": "Set LEGO Star Wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/04_020db_HLQhzvnZbLmphTpG1uVT2v6u/f800/1731451406.jpeg?s=db554277bb308e479f9e944c92c0f69ca4961054",
-    "publicationDate": 1731451406,
-    "id": 5374347462
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4417670449-boba-fetts-starship-microfighter-75344-lego",
+    "price": 13.3,
+    "title": "Boba Fett's Starship Microfighter 75344 Lego",
+    "imgUrl": "https://images1.vinted.net/t/03_021e7_McoyWWYaqJD9rBDdDovABdsf/f800/1714078707.jpeg?s=23324126c3f344fd69aa558cc4f62825cbca1945",
+    "publicationDate": 1714078707,
+    "id": 4417670449
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4830655349-lego-star-wars-75344",
+    "price": 10.1,
+    "title": "Lego Star Wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_020cf_BCmKedAXRL5q9EByeVhgqnW1/f800/1722489828.jpeg?s=6aae33771caa943e4516d10eab22cca3817592a3",
+    "publicationDate": 1722489828,
+    "id": 4830655349
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5338734969-lego-star-wars-ref-75344-le-vaisseau-de-boba-fett-microfighter",
+    "price": 11.2,
+    "title": "Lego star wars réf 75344 le vaisseau de Boba Fett microfighter",
+    "imgUrl": "https://images1.vinted.net/t/04_00bf6_i97fUudrZGTg3GEiCv1NwLqP/f800/1730902636.jpeg?s=4a8558800674515d6f5c33fa63dc1f83812f38a8",
+    "publicationDate": 1730902636,
+    "id": 5338734969
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4312879979-lego-star-wars-75344-boba-fetts-starship-microfighter",
+    "price": 8.05,
+    "title": "Lego Star Wars 75344 Boba Fett's Starship Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/01_02235_xRoqvNBk3qk9FEMGdSCDW4Ee/f800/1712172770.jpeg?s=29386836ffd3f5d1946687c699ce010f1d56fd3a",
+    "publicationDate": 1712172770,
+    "id": 4312879979
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4942243990-lego-75344-star-wars-microfighter",
     "price": 9.1,
     "title": "Lego 75344 star wars microfighter",
@@ -1064,6 +1170,16 @@
     "id": 4942243990
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5374347462-set-lego-star-wars-75344",
+    "price": 7,
+    "title": "Set LEGO Star Wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/04_020db_HLQhzvnZbLmphTpG1uVT2v6u/f800/1731451406.jpeg?s=db554277bb308e479f9e944c92c0f69ca4961054",
+    "publicationDate": 1731451406,
+    "id": 5374347462
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3870267942-lego-star-wars-75344-nuovo-mai-aperto",
     "price": 11.2,
     "title": "Lego star Wars 75344 nuovo mai aperto",
@@ -1072,46 +1188,16 @@
     "id": 3870267942
   },
   {
-    "link": "https://www.vinted.fr/items/4543842161-lego-75344-boba-fetts-starship-microfighter",
-    "price": 8.05,
-    "title": "LEGO 75344 - Boba Fett's Starship microfighter",
-    "imgUrl": "https://images1.vinted.net/t/01_01e73_5mSfmu4b9zfuKoMxVJSbiX6u/f800/1716465258.jpeg?s=5036d9ef379a905896288e9ed9d1c52ce32b9cad",
-    "publicationDate": 1716465258,
-    "id": 4543842161
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5340207141-lego-75344-nieuw",
+    "price": 16.45,
+    "title": "Lego 75344 NIEUW",
+    "imgUrl": "https://images1.vinted.net/t/04_019d3_9HWaQv4tEQA4AyZSr3jN3uAr/f800/1730917800.jpeg?s=f027d02d6d89e8dd77a1c56eb202fd7f10c9c6c3",
+    "publicationDate": 1730917800,
+    "id": 5340207141
   },
   {
-    "link": "https://www.vinted.fr/items/5050936835-lego-star-wars-75344",
-    "price": 11.2,
-    "title": "Lego Star Wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_002c3_2GdZgoZZHNJN3iBXLrpkYTYC/f800/1726419325.jpeg?s=74917857503e4a1af8cb5be5b2796db261f88ccf",
-    "publicationDate": 1726419325,
-    "id": 5050936835
-  },
-  {
-    "link": "https://www.vinted.fr/items/3709555789-lego-75344-star-wars-novo",
-    "price": 8.89,
-    "title": "Lego 75344 Star Wars. NOVO",
-    "imgUrl": "https://images1.vinted.net/t/03_01b94_FjypFbTi5HYtJypMqEEEBDjz/f800/1699102846.jpeg?s=9582d4abaecd75fdf76b07a2ce5f79aa99a6dfa2",
-    "publicationDate": 1699102846,
-    "id": 3709555789
-  },
-  {
-    "link": "https://www.vinted.fr/items/4090943088-lego-vaisseaux-star-wars",
-    "price": 13.3,
-    "title": "Lego vaisseaux star wars",
-    "imgUrl": "https://images1.vinted.net/t/03_00c2f_cUdAbC4qVWDikXh1cKLZS8ru/f800/1716016444.jpeg?s=e3db4f3242e78124efbdcb18c080337bfaa901da",
-    "publicationDate": 1716016444,
-    "id": 4090943088
-  },
-  {
-    "link": "https://www.vinted.fr/items/5149782710-star-wars-boba-fett-starship-microfighter-75344",
-    "price": 11.1,
-    "title": "Star Wars Boba Fett Starship Microfighter 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_0130d_D1s6XYdVDyqzHwNZMQbpmoq8/f800/1727942610.jpeg?s=35ce4fa8fbc570f6955dc5ef026011e1be65f567",
-    "publicationDate": 1727942610,
-    "id": 5149782710
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3549763887-lego-star-wars-le-vaisseau-de-boba-fett-75344",
     "price": 9.63,
     "title": "Lego Star Wars Le Vaisseau de Boba Fett  75344 ",
@@ -1120,6 +1206,43 @@
     "id": 3549763887
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3833851098-lego-star-wars-75344-boba-fetts-starship-microfighter",
+    "price": 10.15,
+    "title": "Lego Star wars 75344. Boba Fett's starship microfighter ",
+    "imgUrl": "https://images1.vinted.net/t/03_01385_xdRm9KU7bHP6pBPeh6oY4JTY/f800/1701462009.jpeg?s=a61ea3ac86c4c81197dd3bfa9f30dedf48f47cf9",
+    "publicationDate": 1701462009,
+    "id": 3833851098
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4543842161-lego-75344-boba-fetts-starship-microfighter",
+    "price": 8.05,
+    "title": "LEGO 75344 - Boba Fett's Starship microfighter",
+    "imgUrl": "https://images1.vinted.net/t/01_01e73_5mSfmu4b9zfuKoMxVJSbiX6u/f800/1716465258.jpeg?s=5036d9ef379a905896288e9ed9d1c52ce32b9cad",
+    "publicationDate": 1716465258,
+    "id": 4543842161
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3709555789-lego-75344-star-wars-novo",
+    "price": 8.89,
+    "title": "Lego 75344 Star Wars. NOVO",
+    "imgUrl": "https://images1.vinted.net/t/03_01b94_FjypFbTi5HYtJypMqEEEBDjz/f800/1699102846.jpeg?s=9582d4abaecd75fdf76b07a2ce5f79aa99a6dfa2",
+    "publicationDate": 1699102846,
+    "id": 3709555789
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4090943088-lego-vaisseaux-star-wars",
+    "price": 13.3,
+    "title": "Lego vaisseaux star wars",
+    "imgUrl": "https://images1.vinted.net/t/03_00c2f_cUdAbC4qVWDikXh1cKLZS8ru/f800/1716016444.jpeg?s=e3db4f3242e78124efbdcb18c080337bfaa901da",
+    "publicationDate": 1716016444,
+    "id": 4090943088
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3461192104-lego-75344",
     "price": 5.95,
     "title": "Lego 75344",
@@ -1128,30 +1251,16 @@
     "id": 3461192104
   },
   {
-    "link": "https://www.vinted.fr/items/5113419917-lego-stars-wars-75344-boba-fett-starship",
-    "price": 7,
-    "title": "Lego Stars Wars 75344 Boba Fett Starship",
-    "imgUrl": "https://images1.vinted.net/t/03_020fb_mUWowLHeGxLq6c5D8d4NvuLA/f800/1727379035.jpeg?s=cb1a797874317c038521ab6f330efde184ea888e",
-    "publicationDate": 1727379035,
-    "id": 5113419917
-  },
-  {
-    "link": "https://www.vinted.fr/items/4595376444-lego-star-wars",
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5050936835-lego-star-wars-75344",
     "price": 11.2,
-    "title": "Lego Star Wars",
-    "imgUrl": "https://images1.vinted.net/t/01_01999_NLKo2t8nQrXXDoD4DJes6GGz/f800/1717440140.jpeg?s=5552ceec0bcff5084b9bd91f3b28d73b5140df65",
-    "publicationDate": 1717440140,
-    "id": 4595376444
+    "title": "Lego Star Wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/03_002c3_2GdZgoZZHNJN3iBXLrpkYTYC/f800/1726419325.jpeg?s=74917857503e4a1af8cb5be5b2796db261f88ccf",
+    "publicationDate": 1726419325,
+    "id": 5050936835
   },
   {
-    "link": "https://www.vinted.fr/items/4365380111-75344-star-wars-nuevo-sellado",
-    "price": 11.2,
-    "title": "75344 star wars. Nuevo sellado.",
-    "imgUrl": "https://images1.vinted.net/t/01_00645_fxQQmcwjFKYG9eTgxuPZpqsp/f800/1713125785.jpeg?s=27800b453b740d50db582dbf133fccd9e47e8ec1",
-    "publicationDate": 1713125785,
-    "id": 4365380111
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5358664882-lego-75344-star-wars-microfighters-boba-fetts-starship-neu-ovp",
     "price": 11.2,
     "title": "Lego 75344 Star Wars Microfighters Boba Fetts Starship Neu OVP",
@@ -1160,38 +1269,34 @@
     "id": 5358664882
   },
   {
-    "link": "https://www.vinted.fr/items/3863280646-lego-star-wars-boite-neuve",
-    "price": 11.19,
-    "title": "Lego star Wars boîte neuve ",
-    "imgUrl": "https://images1.vinted.net/t/03_025e8_wYAcPvFUGs1oG4ueAfA1afa7/f800/1702135803.jpeg?s=f798b9bf0dce890fbda81c187755714a1e200a2a",
-    "publicationDate": 1702135803,
-    "id": 3863280646
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5113419917-lego-stars-wars-75344-boba-fett-starship",
+    "price": 7,
+    "title": "Lego Stars Wars 75344 Boba Fett Starship",
+    "imgUrl": "https://images1.vinted.net/t/03_020fb_mUWowLHeGxLq6c5D8d4NvuLA/f800/1727379035.jpeg?s=cb1a797874317c038521ab6f330efde184ea888e",
+    "publicationDate": 1727379035,
+    "id": 5113419917
   },
   {
-    "link": "https://www.vinted.fr/items/3882257589-lego-star-wars-75344",
-    "price": 9.63,
-    "title": "Lego star wars  75344 ",
-    "imgUrl": "https://images1.vinted.net/t/02_006e0_HikXFfoVzinq5pKsjLu5pHjX/f800/1702567219.jpeg?s=dadad0fde6a8ccf3c67f031d23cf8f3eacba6f36",
-    "publicationDate": 1702567219,
-    "id": 3882257589
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5149782710-star-wars-boba-fett-starship-microfighter-75344",
+    "price": 11.1,
+    "title": "Star Wars Boba Fett Starship Microfighter 75344",
+    "imgUrl": "https://images1.vinted.net/t/03_0130d_D1s6XYdVDyqzHwNZMQbpmoq8/f800/1727942610.jpeg?s=35ce4fa8fbc570f6955dc5ef026011e1be65f567",
+    "publicationDate": 1727942610,
+    "id": 5149782710
   },
   {
-    "link": "https://www.vinted.fr/items/4768627523-lego-boba-fetts-starship-75344",
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4595376444-lego-star-wars",
     "price": 11.2,
-    "title": "Lego boba fett’s starship 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_000cf_Kwp55DiYWyQvzkC21KU6U1sD/f800/1721056632.jpeg?s=9aa17bbb44084302d9e63c3ff7de49afa3b80c18",
-    "publicationDate": 1721056632,
-    "id": 4768627523
+    "title": "Lego Star Wars",
+    "imgUrl": "https://images1.vinted.net/t/01_01999_NLKo2t8nQrXXDoD4DJes6GGz/f800/1717440140.jpeg?s=5552ceec0bcff5084b9bd91f3b28d73b5140df65",
+    "publicationDate": 1717440140,
+    "id": 4595376444
   },
   {
-    "link": "https://www.vinted.fr/items/5068219156-lego-star-wars-75344-nieuw-in-doos",
-    "price": 11.19,
-    "title": "LEGO Star Wars # 75344 nieuw in doos",
-    "imgUrl": "https://images1.vinted.net/t/02_011cf_HEd4ub4PGCyJ5vrLrmu26ieB/f800/1726681983.jpeg?s=299bbd3ab06fe5124b71cf52bcfd6060335e5ac1",
-    "publicationDate": 1726681983,
-    "id": 5068219156
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5247873919-lego-75344",
     "price": 11.2,
     "title": "Lego 75344",
@@ -1200,6 +1305,7 @@
     "id": 5247873919
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5247889064-lego-75344",
     "price": 11.2,
     "title": "Lego 75344",
@@ -1208,6 +1314,25 @@
     "id": 5247889064
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4365380111-75344-star-wars-nuevo-sellado",
+    "price": 11.2,
+    "title": "75344 star wars. Nuevo sellado.",
+    "imgUrl": "https://images1.vinted.net/t/01_00645_fxQQmcwjFKYG9eTgxuPZpqsp/f800/1713125785.jpeg?s=27800b453b740d50db582dbf133fccd9e47e8ec1",
+    "publicationDate": 1713125785,
+    "id": 4365380111
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5068219156-lego-star-wars-75344-nieuw-in-doos",
+    "price": 11.19,
+    "title": "LEGO Star Wars # 75344 nieuw in doos",
+    "imgUrl": "https://images1.vinted.net/t/02_011cf_HEd4ub4PGCyJ5vrLrmu26ieB/f800/1726681983.jpeg?s=299bbd3ab06fe5124b71cf52bcfd6060335e5ac1",
+    "publicationDate": 1726681983,
+    "id": 5068219156
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3926347273-lego-star-wars-boba-fetts-starship-microfighter-75344-new-and-sealed",
     "price": 8.05,
     "title": "Lego Star Wars Boba Fett's Starship Microfighter (75344) new and sealed",
@@ -1216,14 +1341,7 @@
     "id": 3926347273
   },
   {
-    "link": "https://www.vinted.fr/items/5017114555-lego-star-wars-75344-boba-fett",
-    "price": 21.7,
-    "title": "Lego Star Wars 75344 Boba Fett",
-    "imgUrl": "https://images1.vinted.net/t/01_0214c_C4FUYeZ7MNWdkNUB2Xt4pdrp/f800/1725963082.jpeg?s=a79c77fbd6375f8a8c458cc1ff5f7e3ac6fe66f0",
-    "publicationDate": 1725963082,
-    "id": 5017114555
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3624083235-lego-75344-boba-fetts-starship-microfighter",
     "price": 8.58,
     "title": "Lego 75344 Boba Fett's Starship microfighter",
@@ -1232,6 +1350,16 @@
     "id": 3624083235
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3863280646-lego-star-wars-boite-neuve",
+    "price": 11.19,
+    "title": "Lego star Wars boîte neuve ",
+    "imgUrl": "https://images1.vinted.net/t/03_025e8_wYAcPvFUGs1oG4ueAfA1afa7/f800/1702135803.jpeg?s=f798b9bf0dce890fbda81c187755714a1e200a2a",
+    "publicationDate": 1702135803,
+    "id": 3863280646
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5116593342-lego-75344-microfighter-le-vaisseau-de-boba-fett",
     "price": 11.2,
     "title": "Lego 75344 Microfighter Le vaisseau de Boba Fett",
@@ -1240,6 +1368,7 @@
     "id": 5116593342
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4056081210-lego-star-wars-le-vaisseau-de-boba-fett-ref-75344",
     "price": 11.2,
     "title": "Lego star wars le vaisseau de Boba Fett réf 75344",
@@ -1248,6 +1377,16 @@
     "id": 4056081210
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5017114555-lego-star-wars-75344-boba-fett",
+    "price": 21.7,
+    "title": "Lego Star Wars 75344 Boba Fett",
+    "imgUrl": "https://images1.vinted.net/t/01_0214c_C4FUYeZ7MNWdkNUB2Xt4pdrp/f800/1725963082.jpeg?s=a79c77fbd6375f8a8c458cc1ff5f7e3ac6fe66f0",
+    "publicationDate": 1725963082,
+    "id": 5017114555
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4657373991-lego-75344-boba-fetts-starship-microfighter",
     "price": 16.45,
     "title": "LEGO 75344 Boba Fett’s Starship Microfighter",
@@ -1256,6 +1395,7 @@
     "id": 4657373991
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3905341680-lego-75344-star-wars-microfighter-boba-fetts-starship",
     "price": 5.95,
     "title": "Lego 75344 star wars microfighter Boba fett’s starship",
@@ -1264,278 +1404,7 @@
     "id": 3905341680
   },
   {
-    "link": "https://www.vinted.fr/items/5301264793-lego-star-wars",
-    "price": 16.45,
-    "title": "Lego Star Wars",
-    "imgUrl": "https://images1.vinted.net/t/04_00753_b9gR6Rpg7sZGAPMycuuQqoEw/f800/1730280837.jpeg?s=442f42017b85de02ef9ecd5c9a64d413b77d2e43",
-    "publicationDate": 1730280837,
-    "id": 5301264793
-  },
-  {
-    "link": "https://www.vinted.fr/items/4880335342-lego-star-wars-set-75344",
-    "price": 9.1,
-    "title": "Lego star wars set 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_01416_APbXTwV1ezF753cEFkDJ1Dxr/f800/1723494128.jpeg?s=8c7061ca551c8f891cd7f9bb1a20c6e1820f227d",
-    "publicationDate": 1723494128,
-    "id": 4880335342
-  },
-  {
-    "link": "https://www.vinted.fr/items/4539277245-lego-star-wars-75344",
-    "price": 8.05,
-    "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_00c5a_1HE8fLomwsCc1KJAqBA9SZLE/f800/1716378645.jpeg?s=6aec1cc03d6cb685f9343778dd3ae3d41423358e",
-    "publicationDate": 1716378645,
-    "id": 4539277245
-  },
-  {
-    "link": "https://www.vinted.fr/items/5316637901-lego-star-wars-75344",
-    "price": 11.2,
-    "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/04_001a8_cez2YE8xEgujesDcUWojGWo9/f800/1730553438.jpeg?s=a1310c9f0e7f44cb46dea49b5f12b15322a6b3f9",
-    "publicationDate": 1730553438,
-    "id": 5316637901
-  },
-  {
-    "link": "https://www.vinted.fr/items/5322584076-lego-star-wars-75344",
-    "price": 5.95,
-    "title": "LEGO star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/04_00615_RzuqTDUTpNVZtTVGHDNDmq9Z/f800/1730639708.jpeg?s=bbbf519ae63abfe023e3e08d286e5d237729b693",
-    "publicationDate": 1730639708,
-    "id": 5322584076
-  },
-  {
-    "link": "https://www.vinted.fr/items/2744799819-lego-star-wars-75344-boba-fetts-starship-microfighter",
-    "price": 11.15,
-    "title": "Lego star wars 75344 Boba Fett's starship microfighter",
-    "imgUrl": "https://images1.vinted.net/t/03_00f24_3qd2atCWjdEgbcEr26kCepJx/f800/1677763439.jpeg?s=9c77fafc007aece84a6a80377f0d4cb409613ec1",
-    "publicationDate": 1677763439,
-    "id": 2744799819
-  },
-  {
-    "link": "https://www.vinted.fr/items/5288641264-lego-star-wars-75344",
-    "price": 11.2,
-    "title": "Lego Star Wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_01e49_uC6tDRxMATm1H8Ke8ANY4hte/f800/1730051388.jpeg?s=55cc38ce4433f86736d88b7020cda61fe022a55b",
-    "publicationDate": 1730051388,
-    "id": 5288641264
-  },
-  {
-    "link": "https://www.vinted.fr/items/4011310753-lego-75344",
-    "price": 16.45,
-    "title": "lego 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_01f5c_W2owDRZEGu5fL9ndTu7HvPYz/f800/1705942414.jpeg?s=31de3c1d3ed85030a1fb29fbcb115da66a031c88",
-    "publicationDate": 1705942414,
-    "id": 4011310753
-  },
-  {
-    "link": "https://www.vinted.fr/items/4890094750-lego-star-wars-75344-boba-fett-slave-one-starfighter-microfighter",
-    "price": 11.19,
-    "title": "Lego star wars 75344 boba fett slave one starfighter microfighter",
-    "imgUrl": "https://images1.vinted.net/t/02_00898_iF1HBybc2YJMhGMojUdjZUtD/f800/1723724356.jpeg?s=4f23394b9ac18e5dbb3d620b745c516aa488b15f",
-    "publicationDate": 1723724356,
-    "id": 4890094750
-  },
-  {
-    "link": "https://www.vinted.fr/items/4511686067-lego-star-wars-75344",
-    "price": 11.2,
-    "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_010d2_9F7rNER4eQmXozWu9FcShpL8/f800/1715867733.jpeg?s=2fa03b342fb0d678dc64b577eb29c5616240fb0b",
-    "publicationDate": 1715867733,
-    "id": 4511686067
-  },
-  {
-    "link": "https://www.vinted.fr/items/3590032954-lego-75344",
-    "price": 9.1,
-    "title": "Lego 75344 ",
-    "imgUrl": "https://images1.vinted.net/t/03_0100f_cuV1z8XyXwjYdxQLYRFo4qse/f800/1696945577.jpeg?s=93d02d45876add3db5519aa1c1b9ccc630768526",
-    "publicationDate": 1696945577,
-    "id": 3590032954
-  },
-  {
-    "link": "https://www.vinted.fr/items/4057882184-lego-star-wars",
-    "price": 15.4,
-    "title": "Lego Star Wars",
-    "imgUrl": "https://images1.vinted.net/t/03_00dce_LDMEwNjVpUo7VMsvvwMAy5Jb/f800/1706982623.jpeg?s=d21c821977d570fb2a90d7c4f7c9ae27681093f7",
-    "publicationDate": 1706982623,
-    "id": 4057882184
-  },
-  {
-    "link": "https://www.vinted.fr/items/3840946976-lego-star-wars-75344-le-vaisseau-de-boba-fett",
-    "price": 11.2,
-    "title": "Lego star wars 75344 le vaisseau de Boba Fett ",
-    "imgUrl": "https://images1.vinted.net/t/02_015dd_RDQGPhPo1PYsmGMKqJiTnuZH/f800/1701617696.jpeg?s=a0d405eba6159ab801afcc9d31694f7eabe99d83",
-    "publicationDate": 1701617696,
-    "id": 3840946976
-  },
-  {
-    "link": "https://www.vinted.fr/items/4777300234-lego-star-wars-set-75344",
-    "price": 9.1,
-    "title": "Lego star wars set 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_01204_QXTtPB6sJHZ8cv5nPerqLYT8/f800/1721233686.jpeg?s=05f53365a72578a9edec71787a545ec3407c9224",
-    "publicationDate": 1721233686,
-    "id": 4777300234
-  },
-  {
-    "link": "https://www.vinted.fr/items/5251643916-lego-star-wars-75344",
-    "price": 11.2,
-    "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_00b1a_DuPEeFm5eNPVbfXGCL8KGHo6/f800/1729447352.jpeg?s=bf454ed270bce9efd508b483eeb36662792f46b9",
-    "publicationDate": 1729447352,
-    "id": 5251643916
-  },
-  {
-    "link": "https://www.vinted.fr/items/5173457480-lego-star-wars-75344",
-    "price": 16.45,
-    "title": "Lego Star Wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_01abd_9iHHnko5vssdnmxayZpgkdPp/f800/1728247385.jpeg?s=8c8fcc3d52dd6908251f4014930b931bfffdce02",
-    "publicationDate": 1728247385,
-    "id": 5173457480
-  },
-  {
-    "link": "https://www.vinted.fr/items/5292133206-lego-75320-75344",
-    "price": 26.95,
-    "title": "Lego 75320 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_0077f_FmuKca1qyGvW2zucQy7CarqP/f800/1730119669.jpeg?s=54b4a00c4b7f8176f3f744a64c21b4aea02563fc",
-    "publicationDate": 1730119669,
-    "id": 5292133206
-  },
-  {
-    "link": "https://www.vinted.fr/items/5322117677-lego-75344",
-    "price": 8.05,
-    "title": "Lego 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_01ce1_ZTkGcszEneGkoNHABRjtwmgT/f800/1730636771.jpeg?s=d53bda7f04ba7c3d680712d4114e72f17d4f7833",
-    "publicationDate": 1730636771,
-    "id": 5322117677
-  },
-  {
-    "link": "https://www.vinted.fr/items/3884615886-lego-star-wars-75344-boba-fetts-starship-microfighter",
-    "price": 8.58,
-    "title": "Lego Star Wars 75344 Boba Fett’s Starship Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/02_01704_YeEinLq9wubEJHAY2XYdApXa/f800/1702644207.jpeg?s=16437002bfbef350b700d113e6e6fe3140290898",
-    "publicationDate": 1702644207,
-    "id": 3884615886
-  },
-  {
-    "link": "https://www.vinted.fr/items/4054460722-minifigurine-lego-star-wars-boba-fett-sw1158",
-    "price": 11.19,
-    "title": "Minifigurine LEGO Star Wars Boba Fett (sw1158)",
-    "imgUrl": "https://images1.vinted.net/t/01_009b8_PsdzEsPbPTmukoQGUxubErCM/f800/1706908493.jpeg?s=d3be3e50146bc361ec6f82ffc1513786e9b35ce4",
-    "publicationDate": 1706908493,
-    "id": 4054460722
-  },
-  {
-    "link": "https://www.vinted.fr/items/5182362691-lego-starwars-75344-boba-fetts-starship",
-    "price": 11.2,
-    "title": "Lego Starwars 75344 Boba Fett’s starship",
-    "imgUrl": "https://images1.vinted.net/t/02_00a57_U1CkaSMHSWUHZWyeL8eiKy2c/f800/1728396912.jpeg?s=6ff6d3d37060a8f6a276e75c3f96f20cb2b62ab9",
-    "publicationDate": 1728396912,
-    "id": 5182362691
-  },
-  {
-    "link": "https://www.vinted.fr/items/4282747977-lego-star-wars-modele-75344",
-    "price": 21.7,
-    "title": "lego star wars modèle 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_01e4f_K7LdE2LKmEpRhRfxh2PwTPRK/f800/1711589914.jpeg?s=c21887cb1ef1b5e7ae3adb92752f7fe9d3c1c2ab",
-    "publicationDate": 1711589914,
-    "id": 4282747977
-  },
-  {
-    "link": "https://www.vinted.fr/items/4660923842-lego-75344-boba-fetts-microfighter",
-    "price": 16.45,
-    "title": "Lego 75344\n| Boba Fett's\nMicrofighter",
-    "imgUrl": "https://images1.vinted.net/t/01_01a97_xR5t1HUVSDQbAPhmrUwrLjDF/f800/1729897576.jpeg?s=627e6b6f8254db17eb50ea2db65792dd8c1fec03",
-    "publicationDate": 1729897576,
-    "id": 4660923842
-  },
-  {
-    "link": "https://www.vinted.fr/items/5152710696-lego-star-wars-75344-boba-fetts-starship-microfighter",
-    "price": 11.1,
-    "title": "LEGO Star Wars 75344 Boba Fett´s Starship Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/03_021aa_kuUA38UuwtpH9TBxGF5jXmMB/f800/1727969706.jpeg?s=816d2bbff8071a9f53fc18bddb5fe141e5d6dae2",
-    "publicationDate": 1727969706,
-    "id": 5152710696
-  },
-  {
-    "link": "https://www.vinted.fr/items/3626861390-lego-star-wars-boba-fett-75344",
-    "price": 11.2,
-    "title": "Lego star wars boba fett 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_00629_C9iTVmopvny4FMZwX4EjyjFY/f800/1697626502.jpeg?s=26e6e0c29d283a0ff350c45fd91537dcba719eec",
-    "publicationDate": 1697626502,
-    "id": 3626861390
-  },
-  {
-    "link": "https://www.vinted.fr/items/4956919885-lego-75344-boba-fetts-sterrenschipstarship-star-wars",
-    "price": 17.5,
-    "title": "LEGO 75344 - Boba Fett’s Sterrenschip/Starship (Star Wars)",
-    "imgUrl": "https://images1.vinted.net/t/02_01563_sGB4SjiUdnxdfGLDa6cJQPMn/f800/1724937181.jpeg?s=7fba0c3006a2123153bbd65731e69bdaf87c7ae5",
-    "publicationDate": 1724937181,
-    "id": 4956919885
-  },
-  {
-    "link": "https://www.vinted.fr/items/4110327288-lego-star-wars-75344-vaisseau-boba-fett",
-    "price": 13.3,
-    "title": "Lego star wars 75344 vaisseau Boba fett ",
-    "imgUrl": "https://images1.vinted.net/t/01_01caa_41Mc5MvLA5buiyjcZs98sj1d/f800/1708167807.jpeg?s=bf2cfc100f6fa7b8c4e4d78ca4ed56bf24d9a29e",
-    "publicationDate": 1708167807,
-    "id": 4110327288
-  },
-  {
-    "link": "https://www.vinted.fr/items/4149507966-lego-75344-star-wars-sklave-1-mini-boba-fett",
-    "price": 10.15,
-    "title": "Lego 75344 Star Wars Sklave 1 Mini Boba Fett",
-    "imgUrl": "https://images1.vinted.net/t/03_01be8_NvTHGEbfZGygS9wtnaoNuhft/f800/1708937747.jpeg?s=8afa4c2acd14c17af2194f19608cfdb9e6f5c1c5",
-    "publicationDate": 1708937747,
-    "id": 4149507966
-  },
-  {
-    "link": "https://www.vinted.fr/items/3919151126-lego-75344-star-wars-boba-fetts-starship-microfighter",
-    "price": 9.1,
-    "title": "Lego 75344 Star Wars Boba Fett's Starship Microfighter",
-    "imgUrl": "https://images1.vinted.net/t/03_01b64_FRLHCLNGNaCDPM7ZLTYNRaxB/f800/1703867825.jpeg?s=bd64ffa799f2b95fbcdaa84e7006b3737c4d79c1",
-    "publicationDate": 1703867825,
-    "id": 3919151126
-  },
-  {
-    "link": "https://www.vinted.fr/items/2906255237-lego-disney-star-wars-n75344-neuf",
-    "price": 17.5,
-    "title": "Lego Disney Star Wars N•75344 neuf ",
-    "imgUrl": "https://images1.vinted.net/t/02_00925_ZCfp3veKVGXSMKwVAf2RVxyg/f800/1681569207.jpeg?s=da8ade4ed2abd027931e89fc408da4a7c66df402",
-    "publicationDate": 1681569207,
-    "id": 2906255237
-  },
-  {
-    "link": "https://www.vinted.fr/items/4230766085-lego-star-wars-75344-boba-fett-star-ship",
-    "price": 12.25,
-    "title": "Lego star wars 75344 boba fett star ship",
-    "imgUrl": "https://images1.vinted.net/t/02_0004a_fp8XcH7Lt8DWDZsroiwLaajX/f800/1710602974.jpeg?s=3376c8d418bc255ab4b232d614428cc508f7e7ca",
-    "publicationDate": 1710602974,
-    "id": 4230766085
-  },
-  {
-    "link": "https://www.vinted.fr/items/5341271924-lego-star-wars-bundle",
-    "price": 38.5,
-    "title": "Lego Star Wars Bundle",
-    "imgUrl": "https://images1.vinted.net/t/02_009b9_yQ4NSGx7pebouzoNKFeqDLwf/f800/1730933041.jpeg?s=366616aa82bfb1ee36bb50678f57ec745266dce1",
-    "publicationDate": 1730933041,
-    "id": 5341271924
-  },
-  {
-    "link": "https://www.vinted.fr/items/4678254125-lot-de-2-lego-star-wars",
-    "price": 21.7,
-    "title": "Lot de 2 lego -- star wars",
-    "imgUrl": "https://images1.vinted.net/t/03_00ea3_2cPwCPhA5qRbh7ckokBNDsSu/f800/1719150253.jpeg?s=d7916beef60a197097008245852cdd1dd3491d28",
-    "publicationDate": 1719150253,
-    "id": 4678254125
-  },
-  {
-    "link": "https://www.vinted.fr/items/3604223325-lego-star-wars-75344",
-    "price": 16.45,
-    "title": "Lego Star Wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/01_0217b_4j7HxxgdNcJHcaqNhJ9sTnND/f800/1697225240.jpeg?s=963bcbef5e3a65aced5797bb17e401c09c79d8b3",
-    "publicationDate": 1697225240,
-    "id": 3604223325
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3015619815-lego-star-wars-75344",
     "price": 13.3,
     "title": "Lego Star Wars 75344",
@@ -1544,6 +1413,322 @@
     "id": 3015619815
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5316637901-lego-star-wars-75344",
+    "price": 11.2,
+    "title": "Lego star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/04_001a8_cez2YE8xEgujesDcUWojGWo9/f800/1730553438.jpeg?s=a1310c9f0e7f44cb46dea49b5f12b15322a6b3f9",
+    "publicationDate": 1730553438,
+    "id": 5316637901
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4880335342-lego-star-wars-set-75344",
+    "price": 9.1,
+    "title": "Lego star wars set 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_01416_APbXTwV1ezF753cEFkDJ1Dxr/f800/1723494128.jpeg?s=8c7061ca551c8f891cd7f9bb1a20c6e1820f227d",
+    "publicationDate": 1723494128,
+    "id": 4880335342
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5292133206-lego-75320-75344",
+    "price": 26.95,
+    "title": "Lego 75320 75344",
+    "imgUrl": "https://images1.vinted.net/t/01_0077f_FmuKca1qyGvW2zucQy7CarqP/f800/1730119669.jpeg?s=54b4a00c4b7f8176f3f744a64c21b4aea02563fc",
+    "publicationDate": 1730119669,
+    "id": 5292133206
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4539277245-lego-star-wars-75344",
+    "price": 8.05,
+    "title": "Lego star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/01_00c5a_1HE8fLomwsCc1KJAqBA9SZLE/f800/1716378645.jpeg?s=6aec1cc03d6cb685f9343778dd3ae3d41423358e",
+    "publicationDate": 1716378645,
+    "id": 4539277245
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3882257589-lego-star-wars-75344",
+    "price": 9.63,
+    "title": "Lego star wars  75344 ",
+    "imgUrl": "https://images1.vinted.net/t/02_006e0_HikXFfoVzinq5pKsjLu5pHjX/f800/1702567219.jpeg?s=dadad0fde6a8ccf3c67f031d23cf8f3eacba6f36",
+    "publicationDate": 1702567219,
+    "id": 3882257589
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5322584076-lego-star-wars-75344",
+    "price": 5.95,
+    "title": "LEGO star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/04_00615_RzuqTDUTpNVZtTVGHDNDmq9Z/f800/1730639708.jpeg?s=bbbf519ae63abfe023e3e08d286e5d237729b693",
+    "publicationDate": 1730639708,
+    "id": 5322584076
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4768627523-lego-boba-fetts-starship-75344",
+    "price": 11.2,
+    "title": "Lego boba fett’s starship 75344",
+    "imgUrl": "https://images1.vinted.net/t/01_000cf_Kwp55DiYWyQvzkC21KU6U1sD/f800/1721056632.jpeg?s=9aa17bbb44084302d9e63c3ff7de49afa3b80c18",
+    "publicationDate": 1721056632,
+    "id": 4768627523
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5301264793-lego-star-wars",
+    "price": 16.45,
+    "title": "Lego Star Wars",
+    "imgUrl": "https://images1.vinted.net/t/04_00753_b9gR6Rpg7sZGAPMycuuQqoEw/f800/1730280837.jpeg?s=442f42017b85de02ef9ecd5c9a64d413b77d2e43",
+    "publicationDate": 1730280837,
+    "id": 5301264793
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5288641264-lego-star-wars-75344",
+    "price": 11.2,
+    "title": "Lego Star Wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/03_01e49_uC6tDRxMATm1H8Ke8ANY4hte/f800/1730051388.jpeg?s=55cc38ce4433f86736d88b7020cda61fe022a55b",
+    "publicationDate": 1730051388,
+    "id": 5288641264
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4011310753-lego-75344",
+    "price": 16.45,
+    "title": "lego 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_01f5c_W2owDRZEGu5fL9ndTu7HvPYz/f800/1705942414.jpeg?s=31de3c1d3ed85030a1fb29fbcb115da66a031c88",
+    "publicationDate": 1705942414,
+    "id": 4011310753
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4890094750-lego-star-wars-75344-boba-fett-slave-one-starfighter-microfighter",
+    "price": 11.19,
+    "title": "Lego star wars 75344 boba fett slave one starfighter microfighter",
+    "imgUrl": "https://images1.vinted.net/t/02_00898_iF1HBybc2YJMhGMojUdjZUtD/f800/1723724356.jpeg?s=4f23394b9ac18e5dbb3d620b745c516aa488b15f",
+    "publicationDate": 1723724356,
+    "id": 4890094750
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4511686067-lego-star-wars-75344",
+    "price": 11.2,
+    "title": "Lego star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_010d2_9F7rNER4eQmXozWu9FcShpL8/f800/1715867733.jpeg?s=2fa03b342fb0d678dc64b577eb29c5616240fb0b",
+    "publicationDate": 1715867733,
+    "id": 4511686067
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3590032954-lego-75344",
+    "price": 9.1,
+    "title": "Lego 75344 ",
+    "imgUrl": "https://images1.vinted.net/t/03_0100f_cuV1z8XyXwjYdxQLYRFo4qse/f800/1696945577.jpeg?s=93d02d45876add3db5519aa1c1b9ccc630768526",
+    "publicationDate": 1696945577,
+    "id": 3590032954
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3840946976-lego-star-wars-75344-le-vaisseau-de-boba-fett",
+    "price": 11.2,
+    "title": "Lego star wars 75344 le vaisseau de Boba Fett ",
+    "imgUrl": "https://images1.vinted.net/t/02_015dd_RDQGPhPo1PYsmGMKqJiTnuZH/f800/1701617696.jpeg?s=a0d405eba6159ab801afcc9d31694f7eabe99d83",
+    "publicationDate": 1701617696,
+    "id": 3840946976
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4777300234-lego-star-wars-set-75344",
+    "price": 9.1,
+    "title": "Lego star wars set 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_01204_QXTtPB6sJHZ8cv5nPerqLYT8/f800/1721233686.jpeg?s=05f53365a72578a9edec71787a545ec3407c9224",
+    "publicationDate": 1721233686,
+    "id": 4777300234
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5251643916-lego-star-wars-75344",
+    "price": 11.2,
+    "title": "Lego star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/01_00b1a_DuPEeFm5eNPVbfXGCL8KGHo6/f800/1729447352.jpeg?s=bf454ed270bce9efd508b483eeb36662792f46b9",
+    "publicationDate": 1729447352,
+    "id": 5251643916
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/2744799819-lego-star-wars-75344-boba-fetts-starship-microfighter",
+    "price": 11.15,
+    "title": "Lego star wars 75344 Boba Fett's starship microfighter",
+    "imgUrl": "https://images1.vinted.net/t/03_00f24_3qd2atCWjdEgbcEr26kCepJx/f800/1677763439.jpeg?s=9c77fafc007aece84a6a80377f0d4cb409613ec1",
+    "publicationDate": 1677763439,
+    "id": 2744799819
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4057882184-lego-star-wars",
+    "price": 15.4,
+    "title": "Lego Star Wars",
+    "imgUrl": "https://images1.vinted.net/t/03_00dce_LDMEwNjVpUo7VMsvvwMAy5Jb/f800/1706982623.jpeg?s=d21c821977d570fb2a90d7c4f7c9ae27681093f7",
+    "publicationDate": 1706982623,
+    "id": 4057882184
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5173457480-lego-star-wars-75344",
+    "price": 16.45,
+    "title": "Lego Star Wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_01abd_9iHHnko5vssdnmxayZpgkdPp/f800/1728247385.jpeg?s=8c8fcc3d52dd6908251f4014930b931bfffdce02",
+    "publicationDate": 1728247385,
+    "id": 5173457480
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5322117677-lego-75344",
+    "price": 8.05,
+    "title": "Lego 75344",
+    "imgUrl": "https://images1.vinted.net/t/03_01ce1_ZTkGcszEneGkoNHABRjtwmgT/f800/1730636771.jpeg?s=d53bda7f04ba7c3d680712d4114e72f17d4f7833",
+    "publicationDate": 1730636771,
+    "id": 5322117677
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4678254125-lot-de-2-lego-star-wars",
+    "price": 21.7,
+    "title": "Lot de 2 lego -- star wars",
+    "imgUrl": "https://images1.vinted.net/t/03_00ea3_2cPwCPhA5qRbh7ckokBNDsSu/f800/1719150253.jpeg?s=d7916beef60a197097008245852cdd1dd3491d28",
+    "publicationDate": 1719150253,
+    "id": 4678254125
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3884615886-lego-star-wars-75344-boba-fetts-starship-microfighter",
+    "price": 8.58,
+    "title": "Lego Star Wars 75344 Boba Fett’s Starship Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/02_01704_YeEinLq9wubEJHAY2XYdApXa/f800/1702644207.jpeg?s=16437002bfbef350b700d113e6e6fe3140290898",
+    "publicationDate": 1702644207,
+    "id": 3884615886
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5182362691-lego-starwars-75344-boba-fetts-starship",
+    "price": 11.2,
+    "title": "Lego Starwars 75344 Boba Fett’s starship",
+    "imgUrl": "https://images1.vinted.net/t/02_00a57_U1CkaSMHSWUHZWyeL8eiKy2c/f800/1728396912.jpeg?s=6ff6d3d37060a8f6a276e75c3f96f20cb2b62ab9",
+    "publicationDate": 1728396912,
+    "id": 5182362691
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4282747977-lego-star-wars-modele-75344",
+    "price": 21.7,
+    "title": "lego star wars modèle 75344",
+    "imgUrl": "https://images1.vinted.net/t/01_01e4f_K7LdE2LKmEpRhRfxh2PwTPRK/f800/1711589914.jpeg?s=c21887cb1ef1b5e7ae3adb92752f7fe9d3c1c2ab",
+    "publicationDate": 1711589914,
+    "id": 4282747977
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4660923842-lego-75344-boba-fetts-microfighter",
+    "price": 16.45,
+    "title": "Lego 75344\n| Boba Fett's\nMicrofighter",
+    "imgUrl": "https://images1.vinted.net/t/01_01a97_xR5t1HUVSDQbAPhmrUwrLjDF/f800/1729897576.jpeg?s=627e6b6f8254db17eb50ea2db65792dd8c1fec03",
+    "publicationDate": 1729897576,
+    "id": 4660923842
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5152710696-lego-star-wars-75344-boba-fetts-starship-microfighter",
+    "price": 11.1,
+    "title": "LEGO Star Wars 75344 Boba Fett´s Starship Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/03_021aa_kuUA38UuwtpH9TBxGF5jXmMB/f800/1727969706.jpeg?s=816d2bbff8071a9f53fc18bddb5fe141e5d6dae2",
+    "publicationDate": 1727969706,
+    "id": 5152710696
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4149507966-lego-75344-star-wars-sklave-1-mini-boba-fett",
+    "price": 10.15,
+    "title": "Lego 75344 Star Wars Sklave 1 Mini Boba Fett",
+    "imgUrl": "https://images1.vinted.net/t/03_01be8_NvTHGEbfZGygS9wtnaoNuhft/f800/1708937747.jpeg?s=8afa4c2acd14c17af2194f19608cfdb9e6f5c1c5",
+    "publicationDate": 1708937747,
+    "id": 4149507966
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4956919885-lego-75344-boba-fetts-sterrenschipstarship-star-wars",
+    "price": 17.5,
+    "title": "LEGO 75344 - Boba Fett’s Sterrenschip/Starship (Star Wars)",
+    "imgUrl": "https://images1.vinted.net/t/02_01563_sGB4SjiUdnxdfGLDa6cJQPMn/f800/1724937181.jpeg?s=7fba0c3006a2123153bbd65731e69bdaf87c7ae5",
+    "publicationDate": 1724937181,
+    "id": 4956919885
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4110327288-lego-star-wars-75344-vaisseau-boba-fett",
+    "price": 13.3,
+    "title": "Lego star wars 75344 vaisseau Boba fett ",
+    "imgUrl": "https://images1.vinted.net/t/01_01caa_41Mc5MvLA5buiyjcZs98sj1d/f800/1708167807.jpeg?s=bf2cfc100f6fa7b8c4e4d78ca4ed56bf24d9a29e",
+    "publicationDate": 1708167807,
+    "id": 4110327288
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3626861390-lego-star-wars-boba-fett-75344",
+    "price": 11.2,
+    "title": "Lego star wars boba fett 75344",
+    "imgUrl": "https://images1.vinted.net/t/01_00629_C9iTVmopvny4FMZwX4EjyjFY/f800/1697626502.jpeg?s=26e6e0c29d283a0ff350c45fd91537dcba719eec",
+    "publicationDate": 1697626502,
+    "id": 3626861390
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3919151126-lego-75344-star-wars-boba-fetts-starship-microfighter",
+    "price": 9.1,
+    "title": "Lego 75344 Star Wars Boba Fett's Starship Microfighter",
+    "imgUrl": "https://images1.vinted.net/t/03_01b64_FRLHCLNGNaCDPM7ZLTYNRaxB/f800/1703867825.jpeg?s=bd64ffa799f2b95fbcdaa84e7006b3737c4d79c1",
+    "publicationDate": 1703867825,
+    "id": 3919151126
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/2906255237-lego-disney-star-wars-n75344-neuf",
+    "price": 17.5,
+    "title": "Lego Disney Star Wars N•75344 neuf ",
+    "imgUrl": "https://images1.vinted.net/t/02_00925_ZCfp3veKVGXSMKwVAf2RVxyg/f800/1681569207.jpeg?s=da8ade4ed2abd027931e89fc408da4a7c66df402",
+    "publicationDate": 1681569207,
+    "id": 2906255237
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5341271924-lego-star-wars-bundle",
+    "price": 38.5,
+    "title": "Lego Star Wars Bundle",
+    "imgUrl": "https://images1.vinted.net/t/02_009b9_yQ4NSGx7pebouzoNKFeqDLwf/f800/1730933041.jpeg?s=366616aa82bfb1ee36bb50678f57ec745266dce1",
+    "publicationDate": 1730933041,
+    "id": 5341271924
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4230766085-lego-star-wars-75344-boba-fett-star-ship",
+    "price": 12.25,
+    "title": "Lego star wars 75344 boba fett star ship",
+    "imgUrl": "https://images1.vinted.net/t/02_0004a_fp8XcH7Lt8DWDZsroiwLaajX/f800/1710602974.jpeg?s=3376c8d418bc255ab4b232d614428cc508f7e7ca",
+    "publicationDate": 1710602974,
+    "id": 4230766085
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3604223325-lego-star-wars-75344",
+    "price": 16.45,
+    "title": "Lego Star Wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/01_0217b_4j7HxxgdNcJHcaqNhJ9sTnND/f800/1697225240.jpeg?s=963bcbef5e3a65aced5797bb17e401c09c79d8b3",
+    "publicationDate": 1697225240,
+    "id": 3604223325
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3829792126-lego-star-wars-astronave-di-boba-fett-75344-nuovo-sigillato",
     "price": 10.15,
     "title": "LEGO Star Wars Astronave di Boba Fett - (75344)  Nuovo sigillato",
@@ -1552,6 +1737,7 @@
     "id": 3829792126
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3824027236-lego-75344",
     "price": 16.45,
     "title": "Lego 75344",
@@ -1560,6 +1746,7 @@
     "id": 3824027236
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4170423120-lot-de-2-lego-star-wars-microfighter",
     "price": 7,
     "title": "Lot de 2 Lego Star wars microfighter",
@@ -1568,14 +1755,7 @@
     "id": 4170423120
   },
   {
-    "link": "https://www.vinted.fr/items/5375344826-lego-star-wars-bobba-fetts-starship",
-    "price": 11.19,
-    "title": "Lego Star Wars - Bobba Fett's Starship",
-    "imgUrl": "https://images1.vinted.net/t/04_00d16_2PVswES1hpfkNrtRGkwWFFog/f800/1731493405.jpeg?s=eae9ee318e3e612337e7da7a4fedaa2256327bd0",
-    "publicationDate": 1731493405,
-    "id": 5375344826
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3287355357-boite-lego-disney-star-wars-75344-boba-fetts-starship-microfighter-scellee",
     "price": 17.49,
     "title": "Boite Lego Disney Star Wars 75344 Boba Fett's Starship Microfighter scéllée ",
@@ -1584,14 +1764,16 @@
     "id": 3287355357
   },
   {
-    "link": "https://www.vinted.fr/items/4584279418-lego-star-wars-75344",
-    "price": 16.44,
-    "title": "Lego star wars 75344",
-    "imgUrl": "https://images1.vinted.net/t/03_0195e_McmDmdMjwY5mTDb3jVuDgJ7U/f800/1717253562.jpeg?s=9e9ec1d5459005d7eb467eec0b7c24becbd39ed7",
-    "publicationDate": 1717253562,
-    "id": 4584279418
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5375344826-lego-star-wars-bobba-fetts-starship",
+    "price": 11.19,
+    "title": "Lego Star Wars - Bobba Fett's Starship",
+    "imgUrl": "https://images1.vinted.net/t/04_00d16_2PVswES1hpfkNrtRGkwWFFog/f800/1731493405.jpeg?s=eae9ee318e3e612337e7da7a4fedaa2256327bd0",
+    "publicationDate": 1731493405,
+    "id": 5375344826
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3902891391-set-lego-75344",
     "price": 26.95,
     "title": "Set lego 75344",
@@ -1600,14 +1782,7 @@
     "id": 3902891391
   },
   {
-    "link": "https://www.vinted.fr/items/3810106126-lego-star-wars-75344-astronave",
-    "price": 8.05,
-    "title": "Lego Star Wars 75344 Astronave",
-    "imgUrl": "https://images1.vinted.net/t/02_01397_KXx2Dh3HVY9MPa4FseCHwXkE/f800/1700993610.jpeg?s=f94b242cd72159327d8da21a00758bf1b6b9bcf3",
-    "publicationDate": 1700993610,
-    "id": 3810106126
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4202297352-lego-boba-fett-75344",
     "price": 11.2,
     "title": "Lego boba fett 75344",
@@ -1616,6 +1791,25 @@
     "id": 4202297352
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3810106126-lego-star-wars-75344-astronave",
+    "price": 8.05,
+    "title": "Lego Star Wars 75344 Astronave",
+    "imgUrl": "https://images1.vinted.net/t/02_01397_KXx2Dh3HVY9MPa4FseCHwXkE/f800/1700993610.jpeg?s=f94b242cd72159327d8da21a00758bf1b6b9bcf3",
+    "publicationDate": 1700993610,
+    "id": 3810106126
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4584279418-lego-star-wars-75344",
+    "price": 16.44,
+    "title": "Lego star wars 75344",
+    "imgUrl": "https://images1.vinted.net/t/03_0195e_McmDmdMjwY5mTDb3jVuDgJ7U/f800/1717253562.jpeg?s=9e9ec1d5459005d7eb467eec0b7c24becbd39ed7",
+    "publicationDate": 1717253562,
+    "id": 4584279418
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3495473175-lego-75344-star-wars-boba-fetts-starship-microfighter-misb",
     "price": 15.4,
     "title": "Lego 75344 Star Wars Boba Fett's Starship Microfighter MISB!!",
@@ -1624,22 +1818,7 @@
     "id": 3495473175
   },
   {
-    "link": "https://www.vinted.fr/items/5310619403-lote-cajas-lego",
-    "price": 24.85,
-    "title": "lote cajas Lego",
-    "imgUrl": "https://images1.vinted.net/t/04_0258d_N9JVMhyY6LSXjcYcatSvw9wH/f800/1730459492.jpeg?s=f539d2ce0daf7db3ec1c7e324c14c1cb1f5253cf",
-    "publicationDate": 1730459492,
-    "id": 5310619403
-  },
-  {
-    "link": "https://www.vinted.fr/items/3906252496-lego-star-wars-75344-75368",
-    "price": 20.65,
-    "title": "LEGO Star Wars - 75344 & 75368",
-    "imgUrl": "https://images1.vinted.net/t/02_024c6_cHNgNWizvN8zXcXFAFDf2AEp/f800/1703434945.jpeg?s=96f829796f3055ca2e4bdaecc1fbfd8eda481fbe",
-    "publicationDate": 1703434945,
-    "id": 3906252496
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3880170960-lego-75363-et-75344-neuf-scelle",
     "price": 32.19,
     "title": "Lego 75363 et 75344 Neuf & Scellé",
@@ -1648,6 +1827,34 @@
     "id": 3880170960
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5310619403-lote-cajas-lego",
+    "price": 24.85,
+    "title": "lote cajas Lego",
+    "imgUrl": "https://images1.vinted.net/t/04_0258d_N9JVMhyY6LSXjcYcatSvw9wH/f800/1730459492.jpeg?s=f539d2ce0daf7db3ec1c7e324c14c1cb1f5253cf",
+    "publicationDate": 1730459492,
+    "id": 5310619403
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3906252496-lego-star-wars-75344-75368",
+    "price": 20.65,
+    "title": "LEGO Star Wars - 75344 & 75368",
+    "imgUrl": "https://images1.vinted.net/t/02_024c6_cHNgNWizvN8zXcXFAFDf2AEp/f800/1703434945.jpeg?s=96f829796f3055ca2e4bdaecc1fbfd8eda481fbe",
+    "publicationDate": 1703434945,
+    "id": 3906252496
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4054460722-minifigurine-lego-star-wars-boba-fett-sw1158",
+    "price": 11.19,
+    "title": "Minifigurine LEGO Star Wars Boba Fett (sw1158)",
+    "imgUrl": "https://images1.vinted.net/t/01_009b8_PsdzEsPbPTmukoQGUxubErCM/f800/1706908493.jpeg?s=d3be3e50146bc361ec6f82ffc1513786e9b35ce4",
+    "publicationDate": 1706908493,
+    "id": 4054460722
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4583226073-lot-de-4-microfighters-avec-boite-lego-75129-75344-75193-75194",
     "price": 33.25,
     "title": "Lot de 4 microfighters avec boîte (lego 75129, 75344, 75193, 75194)",
@@ -1656,14 +1863,7 @@
     "id": 4583226073
   },
   {
-    "link": "https://www.vinted.fr/items/5353510312-pack-3-lego-75344-75321-75363",
-    "price": 33.78,
-    "title": "Pack 3 lego 75344 75321 75363",
-    "imgUrl": "https://images1.vinted.net/t/04_00c79_QcLURMmjZT5wo223Q77CTJMH/f800/1731166056.jpeg?s=be50dd100d459212d0ee8c84d08817479b56b625",
-    "publicationDate": 1731166056,
-    "id": 5353510312
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3836876339-lego-sw-microfighter",
     "price": 29.05,
     "title": "Lego SW microfighter",
@@ -1672,14 +1872,16 @@
     "id": 3836876339
   },
   {
-    "link": "https://www.vinted.fr/items/4310475825-lego-star-wars-karton-ohne-inhalt",
-    "price": 1.75,
-    "title": "Lego Star Wars Karton OHNE Inhalt ",
-    "imgUrl": "https://images1.vinted.net/t/01_011d1_qaHgAvfhfky2M5oXBiNZyyat/f800/1712148401.jpeg?s=7541b3bbc156349728559cb0f142b6d03d96525f",
-    "publicationDate": 1712148401,
-    "id": 4310475825
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5353510312-pack-3-lego-75344-75321-75363",
+    "price": 33.78,
+    "title": "Pack 3 lego 75344 75321 75363",
+    "imgUrl": "https://images1.vinted.net/t/04_00c79_QcLURMmjZT5wo223Q77CTJMH/f800/1731166056.jpeg?s=be50dd100d459212d0ee8c84d08817479b56b625",
+    "publicationDate": 1731166056,
+    "id": 5353510312
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3104659013-lego-star-wars-set-75344",
     "price": 16.44,
     "title": "LEGO Star Wars - Set 75344",
@@ -1688,6 +1890,7 @@
     "id": 3104659013
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4925791933-lego-starwars",
     "price": 29.58,
     "title": "Lego starwars",
@@ -1696,22 +1899,16 @@
     "id": 4925791933
   },
   {
-    "link": "https://www.vinted.fr/items/4992216615-lego-76179-30653-75344",
-    "price": 37.45,
-    "title": "LEGO 76179 + 30653 + 75344",
-    "imgUrl": "https://images1.vinted.net/t/02_00aeb_7ewriP1C6UepT6YEGtKnxGrS/f800/1726561644.jpeg?s=4a6a001423415be0ff7c9654405c0290a6a3eeeb",
-    "publicationDate": 1726561644,
-    "id": 4992216615
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4310475825-lego-star-wars-karton-ohne-inhalt",
+    "price": 1.75,
+    "title": "Lego Star Wars Karton OHNE Inhalt ",
+    "imgUrl": "https://images1.vinted.net/t/01_011d1_qaHgAvfhfky2M5oXBiNZyyat/f800/1712148401.jpeg?s=7541b3bbc156349728559cb0f142b6d03d96525f",
+    "publicationDate": 1712148401,
+    "id": 4310475825
   },
   {
-    "link": "https://www.vinted.fr/items/3559064868-lego-75363-star-warsn1-starship-lego-75344-star-wars-boba-fett-starship",
-    "price": 21.7,
-    "title": "Lego 75363 Star WarsN1 Starship + Lego 75344 Star Wars Boba Fett Starship",
-    "imgUrl": "https://images1.vinted.net/t/02_00c48_SXHrzUDiSRUWGomu1wkPceJn/f800/1696356301.jpeg?s=3cabac1d3cb31286267567c12f8f91c2a8cb7ee1",
-    "publicationDate": 1696356301,
-    "id": 3559064868
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3711866455-lego-75344-star-wars-boba-fett",
     "price": 15.4,
     "title": "Lego 75344 star Wars Boba fett",
@@ -1720,6 +1917,25 @@
     "id": 3711866455
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4992216615-lego-76179-30653-75344",
+    "price": 37.45,
+    "title": "LEGO 76179 + 30653 + 75344",
+    "imgUrl": "https://images1.vinted.net/t/02_00aeb_7ewriP1C6UepT6YEGtKnxGrS/f800/1726561644.jpeg?s=4a6a001423415be0ff7c9654405c0290a6a3eeeb",
+    "publicationDate": 1726561644,
+    "id": 4992216615
+  },
+  {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/3559064868-lego-75363-star-warsn1-starship-lego-75344-star-wars-boba-fett-starship",
+    "price": 21.7,
+    "title": "Lego 75363 Star WarsN1 Starship + Lego 75344 Star Wars Boba Fett Starship",
+    "imgUrl": "https://images1.vinted.net/t/02_00c48_SXHrzUDiSRUWGomu1wkPceJn/f800/1696356301.jpeg?s=3cabac1d3cb31286267567c12f8f91c2a8cb7ee1",
+    "publicationDate": 1696356301,
+    "id": 3559064868
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5278491009-lego-2-boites-starwars-75324-et-75344",
     "price": 40.6,
     "title": "Lego 2 boîtes starwars 75324 et 75344",
@@ -1728,6 +1944,7 @@
     "id": 5278491009
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3344805877-lego-star-wars-75344-no-minifigures",
     "price": 37.45,
     "title": "Lego Star Wars 75344 - NO Minifigures ",
@@ -1736,6 +1953,7 @@
     "id": 3344805877
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4759022549-ce-lot-lego-star-wars-est-compose-de",
     "price": 58.43,
     "title": "Ce lot LEGO Star Wars est composé de",
@@ -1744,14 +1962,7 @@
     "id": 4759022549
   },
   {
-    "link": "https://www.vinted.fr/items/4748084769-lego-star-wars-konvolut",
-    "price": 137.2,
-    "title": "Lego Star Wars Konvolut",
-    "imgUrl": "https://images1.vinted.net/t/02_00c43_R2AmBi3uZSR5DEeFgwELL3Uj/f800/1720619236.jpeg?s=b2329b6fe24408fef7fc2e9c0e53b8088db17ede",
-    "publicationDate": 1720619236,
-    "id": 4748084769
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4985872608-lego-star-wars-obi-wan-contre-dark-vador",
     "price": 52.15,
     "title": "Lego Star Wars Obi-Wan contre Dark Vador",
@@ -1760,6 +1971,7 @@
     "id": 4985872608
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4760059263-lego-star-wars-sets",
     "price": 37.45,
     "title": "Lego Star Wars Sets",
@@ -1768,6 +1980,16 @@
     "id": 4760059263
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/4748084769-lego-star-wars-konvolut",
+    "price": 137.2,
+    "title": "Lego Star Wars Konvolut",
+    "imgUrl": "https://images1.vinted.net/t/02_00c43_R2AmBi3uZSR5DEeFgwELL3Uj/f800/1720619236.jpeg?s=b2329b6fe24408fef7fc2e9c0e53b8088db17ede",
+    "publicationDate": 1720619236,
+    "id": 4748084769
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3375285983-lego-star-wars",
     "price": 11.2,
     "title": "Lego Star Wars",
@@ -1776,6 +1998,7 @@
     "id": 3375285983
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5370363784-lote-star-wars-lego-nuevo",
     "price": 37.45,
     "title": "Lote star wars lego nuevo.",
@@ -1784,14 +2007,7 @@
     "id": 5370363784
   },
   {
-    "link": "https://www.vinted.fr/items/5247119333-lego-star-wars-microfighters",
-    "price": 47.95,
-    "title": "Lego Star Wars Microfighters",
-    "imgUrl": "https://images1.vinted.net/t/01_013eb_9Quyu5rqR2o1Ki989wJv1CSJ/f800/r3/1729420345.jpeg?s=dcc5d33f12c08bf78c914134f5d93092219ad952",
-    "publicationDate": 1729420345,
-    "id": 5247119333
-  },
-  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3694573254-lego-75344-star-wars-boba-fetts",
     "price": 16.45,
     "title": "Lego 75344 Star Wars Boba fetts",
@@ -1800,6 +2016,7 @@
     "id": 3694573254
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4245187534-lot-lego-star-wars",
     "price": 39.55,
     "title": "Lot Lego Star Wars",
@@ -1808,14 +2025,16 @@
     "id": 4245187534
   },
   {
-    "link": "https://www.vinted.fr/items/5397282777-lego-star-wars-pack-x3-753447536375386",
-    "price": 62.65,
-    "title": "Lego Star Wars - Pack X3 - 75344+75363+75386",
-    "imgUrl": "https://images1.vinted.net/t/04_00174_sgKYMgqvhj7BcKaWG6hads5y/f800/1731849827.jpeg?s=2b7f9d683815e2c3611259fab53bcd559cb9a77e",
-    "publicationDate": 1731849827,
-    "id": 5397282777
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5247119333-lego-star-wars-microfighters",
+    "price": 47.95,
+    "title": "Lego Star Wars Microfighters",
+    "imgUrl": "https://images1.vinted.net/t/01_013eb_9Quyu5rqR2o1Ki989wJv1CSJ/f800/r3/1729420345.jpeg?s=dcc5d33f12c08bf78c914134f5d93092219ad952",
+    "publicationDate": 1729420345,
+    "id": 5247119333
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/3884958135-set-lego-star-wars",
     "price": 37.45,
     "title": "Set Lego Star Wars ",
@@ -1824,6 +2043,16 @@
     "id": 3884958135
   },
   {
+    "legoId": "75344",
+    "link": "https://www.vinted.fr/items/5397282777-lego-star-wars-pack-x3-753447536375386",
+    "price": 62.65,
+    "title": "Lego Star Wars - Pack X3 - 75344+75363+75386",
+    "imgUrl": "https://images1.vinted.net/t/04_00174_sgKYMgqvhj7BcKaWG6hads5y/f800/1731849827.jpeg?s=2b7f9d683815e2c3611259fab53bcd559cb9a77e",
+    "publicationDate": 1731849827,
+    "id": 5397282777
+  },
+  {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4901233254-lego-star-wars-microfighters-75265-75321-75344",
     "price": 40.08,
     "title": "Lego Star Wars Microfighters 75265 75321 75344",
@@ -1832,6 +2061,7 @@
     "id": 4901233254
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4378401202-lego-lotto-di-set-star-wars-the-mandalorian",
     "price": 42.7,
     "title": "Lego lotto di set Star Wars The Mandalorian",
@@ -1840,6 +2070,7 @@
     "id": 4378401202
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5327759697-pack-5-lego-starwars-75321-75363-75344-75345-75359",
     "price": 73.15,
     "title": "Pack 5 Lego Starwars 75321 75363 75344 75345 75359",
@@ -1848,6 +2079,7 @@
     "id": 5327759697
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5403671726-lego-starwars",
     "price": 126.65,
     "title": "Lego StarWars",
@@ -1856,6 +2088,7 @@
     "id": 5403671726
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/5403710458-lego-starwars",
     "price": 158.19,
     "title": "Lego StarWars",
@@ -1864,6 +2097,7 @@
     "id": 5403710458
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4802973017-lot-lego-super-mario-en-boite-neuf",
     "price": 126.7,
     "title": "Lot Lego super Mario en boîte neuf",
@@ -1872,6 +2106,7 @@
     "id": 4802973017
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4802955477-lot-lego-star-wars-neuf-en-boite",
     "price": 89.95,
     "title": "Lot Lego star wars neuf en boîte",
@@ -1880,6 +2115,7 @@
     "id": 4802955477
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4802984716-lot-lego-marvel-en-boite-neuf",
     "price": 105.7,
     "title": "Lot Lego Marvel en boîte neuf",
@@ -1888,6 +2124,7 @@
     "id": 4802984716
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4802965283-lot-lego-harry-potter-en-boite-neuf",
     "price": 168.7,
     "title": "Lot Lego harry Potter en boîte neuf",
@@ -1896,6 +2133,7 @@
     "id": 4802965283
   },
   {
+    "legoId": "75344",
     "link": "https://www.vinted.fr/items/4812168509-lot-lego-minecraft-neuf-en-boite",
     "price": 221.2,
     "title": "Lot Lego Minecraft neuf en boite",

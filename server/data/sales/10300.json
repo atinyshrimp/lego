@@ -1,13 +1,6 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5403342787-lego-black-to-the-future-10300",
-    "price": 210.7,
-    "title": "Lego Black to The future 10300",
-    "imgUrl": "https://images1.vinted.net/t/01_00a8a_SgUC59kkmS3AsztkD2r53kx2/f800/1731930294.jpeg?s=ed1aad9ba35ad9602d3dbf66686f5c440e89e6c3",
-    "publicationDate": 1731930294,
-    "id": 5403342787
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5344552087-scatola-lego-10300-ritorno-al-futuro",
     "price": 21.7,
     "title": "Scatola lego 10300 - ritorno al futuro",
@@ -16,6 +9,7 @@
     "id": 5344552087
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5400953797-plaque-decorative-lego-de-lorean-10300",
     "price": 32.2,
     "title": "Plaque décorative Lego De Lorean 10300",
@@ -24,6 +18,7 @@
     "id": 5400953797
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/1970571355-lego-pieces-set-10300",
     "price": 2.8,
     "title": "Lego Pieces set 10300",
@@ -32,6 +27,7 @@
     "id": 1970571355
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/1974356450-lego-roues-4539270-6365073-set-retour-vers-le-futur",
     "price": 2.8,
     "title": "Lego Roues 4539270 + 6365073 Set Retour vers le Futur",
@@ -40,14 +36,7 @@
     "id": 1974356450
   },
   {
-    "link": "https://www.vinted.fr/items/2999471021-lego-manuel-dinstruction-retour-vers-le-futur-10300-neuf",
-    "price": 11.2,
-    "title": "Lego manuel d'instruction Retour vers le futur 10300 neuf",
-    "imgUrl": "https://images1.vinted.net/t/01_009c1_JzZfWkRKfiwKGc9KL2CJESLk/f800/1683629626.jpeg?s=d684170d507ac3b427cdc43424ff7c5dff28a01f",
-    "publicationDate": 1683629626,
-    "id": 2999471021
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/1974362447-lego-pieces-set-10300-retour-vers-le-futur",
     "price": 2.8,
     "title": "Lego Pièces set 10300 Retour vers le Futur",
@@ -56,14 +45,16 @@
     "id": 1974362447
   },
   {
-    "link": "https://www.vinted.fr/items/5244132014-scatole-vuote-lego",
-    "price": 105.7,
-    "title": "Scatole vuote lego",
-    "imgUrl": "https://images1.vinted.net/t/01_00622_3rvVS9J6MTyRfAPrGJYtxdcR/f800/1729356672.jpeg?s=f7bcbee7a3868a8e9cbfd4fec90f1e6a466199ee",
-    "publicationDate": 1729356672,
-    "id": 5244132014
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/2999471021-lego-manuel-dinstruction-retour-vers-le-futur-10300-neuf",
+    "price": 11.2,
+    "title": "Lego manuel d'instruction Retour vers le futur 10300 neuf",
+    "imgUrl": "https://images1.vinted.net/t/01_009c1_JzZfWkRKfiwKGc9KL2CJESLk/f800/1683629626.jpeg?s=d684170d507ac3b427cdc43424ff7c5dff28a01f",
+    "publicationDate": 1683629626,
+    "id": 2999471021
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5395446566-lego-creator-10300-black-to-future-neuf-scelle",
     "price": 210.7,
     "title": "Lego creator 10300, Black to future. Neuf scellé.",
@@ -72,6 +63,16 @@
     "id": 5395446566
   },
   {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5244132014-scatole-vuote-lego",
+    "price": 105.7,
+    "title": "Scatole vuote lego",
+    "imgUrl": "https://images1.vinted.net/t/01_00622_3rvVS9J6MTyRfAPrGJYtxdcR/f800/1729356672.jpeg?s=f7bcbee7a3868a8e9cbfd4fec90f1e6a466199ee",
+    "publicationDate": 1729356672,
+    "id": 5244132014
+  },
+  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5332780474-lego-neuf-retour-vers-le-futur-10300-delorean",
     "price": 205.45,
     "title": "Lego neuf retour vers le futur 10300 delorean",
@@ -80,14 +81,7 @@
     "id": 5332780474
   },
   {
-    "link": "https://www.vinted.fr/items/5367646217-lego-10300-back-to-the-future-time-machine",
-    "price": 189.7,
-    "title": "Lego 10300 Back to the Future Time Machine",
-    "imgUrl": "https://images1.vinted.net/t/04_01159_336jdJAyf6rk6vYf24KQwV1e/f800/1731346443.jpeg?s=fb2b83cf7920d92be67deb7c841f953a21f646ef",
-    "publicationDate": 1731346443,
-    "id": 5367646217
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4989087669-lego-21103",
     "price": 26.94,
     "title": "Lego 21103",
@@ -96,6 +90,16 @@
     "id": 4989087669
   },
   {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5367646217-lego-10300-back-to-the-future-time-machine",
+    "price": 189.7,
+    "title": "Lego 10300 Back to the Future Time Machine",
+    "imgUrl": "https://images1.vinted.net/t/04_01159_336jdJAyf6rk6vYf24KQwV1e/f800/1731346443.jpeg?s=fb2b83cf7920d92be67deb7c841f953a21f646ef",
+    "publicationDate": 1731346443,
+    "id": 5367646217
+  },
+  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4388754553-teca-per-set-lego-10300-back-to-the-future-con-sfondo",
     "price": 94.15,
     "title": "Teca per set Lego 10300 Back To The Future (con sfondo)",
@@ -104,6 +108,7 @@
     "id": 4388754553
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/3276475905-figurines-lego-marty-mcfly-retour-vers-le-futur-set-10300-delorean",
     "price": 26.95,
     "title": "Figurines Lego Marty McFly retour vers le futur set 10300 Delorean",
@@ -112,22 +117,7 @@
     "id": 3276475905
   },
   {
-    "link": "https://www.vinted.fr/items/5347406312-lego-10300-retour-vers-le-futur-delorean-neuf-fink93",
-    "price": 189.7,
-    "title": "Lego 10300 - Retour vers le futur - DeLorean – NEUF fink93",
-    "imgUrl": "https://images1.vinted.net/t/02_01f6b_uePYHWSebEXA7p1epipTr8ZL/f800/1731068167.jpeg?s=750025d982db375548d78d1db8c5230d46367566",
-    "publicationDate": 1731068167,
-    "id": 5347406312
-  },
-  {
-    "link": "https://www.vinted.fr/items/5369442211-gioco-lego-10300-back-to-the-future",
-    "price": 173.95,
-    "title": "Gioco Lego 10300 Back to the Future",
-    "imgUrl": "https://images1.vinted.net/t/03_01530_4zKHeP8A6VTHUM7SFU36TS72/f800/1731370258.jpeg?s=7eac308b3d52aed76cbc4940f520400459050b8c",
-    "publicationDate": 1731370258,
-    "id": 5369442211
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2592296607-lego-10300-delorean-libro-delle-istruzioni",
     "price": 16.45,
     "title": "Lego 10300 Delorean Libro delle istruzioni ",
@@ -136,6 +126,25 @@
     "id": 2592296607
   },
   {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5347406312-lego-10300-retour-vers-le-futur-delorean-neuf-fink93",
+    "price": 189.7,
+    "title": "Lego 10300 - Retour vers le futur - DeLorean – NEUF fink93",
+    "imgUrl": "https://images1.vinted.net/t/02_01f6b_uePYHWSebEXA7p1epipTr8ZL/f800/1731068167.jpeg?s=750025d982db375548d78d1db8c5230d46367566",
+    "publicationDate": 1731068167,
+    "id": 5347406312
+  },
+  {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5369442211-gioco-lego-10300-back-to-the-future",
+    "price": 173.95,
+    "title": "Gioco Lego 10300 Back to the Future",
+    "imgUrl": "https://images1.vinted.net/t/03_01530_4zKHeP8A6VTHUM7SFU36TS72/f800/1731370258.jpeg?s=7eac308b3d52aed76cbc4940f520400459050b8c",
+    "publicationDate": 1731370258,
+    "id": 5369442211
+  },
+  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5386325873-lego-10300-maquina-del-tiempo-de-regreso-al-futuro",
     "price": 179.2,
     "title": "Lego 10300 Máquina del Tiempo de Regreso al Futuro",
@@ -144,6 +153,7 @@
     "id": 5386325873
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5315380830-lego-10300-back-to-the-future",
     "price": 184.45,
     "title": "Lego 10300 back to the future",
@@ -152,14 +162,7 @@
     "id": 5315380830
   },
   {
-    "link": "https://www.vinted.fr/items/5324504190-la-machine-a-remonter-le-temps-de-retour-vers-le-futur-icones-10300-boite-scelle-lego",
-    "price": 184.45,
-    "title": "La machine à remonter le temps de Retour vers le futur icônes 10300 boite scellé  lego",
-    "imgUrl": "https://images1.vinted.net/t/04_0102f_GNb5RJZbxuAAfrFT1rPwemZQ/f800/1730650751.jpeg?s=5e0805e038be25c4bd4fd74ef33e0adb2a7ab59e",
-    "publicationDate": 1730650751,
-    "id": 5324504190
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5280033277-lego-10300-voiture-retour-vers-le-futur",
     "price": 194.95,
     "title": "Lego 10300 voiture retour vers le futur",
@@ -168,6 +171,16 @@
     "id": 5280033277
   },
   {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5403342787-lego-black-to-the-future-10300",
+    "price": 210.7,
+    "title": "Lego Black to The future 10300",
+    "imgUrl": "https://images1.vinted.net/t/01_00a8a_SgUC59kkmS3AsztkD2r53kx2/f800/1731930294.jpeg?s=ed1aad9ba35ad9602d3dbf66686f5c440e89e6c3",
+    "publicationDate": 1731930294,
+    "id": 5403342787
+  },
+  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4702008514-lego-10300-back-to-the-future",
     "price": 173.95,
     "title": "Lego 10300 Back to the future",
@@ -176,22 +189,16 @@
     "id": 4702008514
   },
   {
-    "link": "https://www.vinted.fr/items/5388921276-lego-10300-macchina-back-to-the-future",
-    "price": 188.65,
-    "title": "Lego 10300 - Macchina Back to the Future",
-    "imgUrl": "https://images1.vinted.net/t/04_016f2_2MKhX1vE3pY69ahrp73tBnS6/f800/1731739981.jpeg?s=3687610c647efca638c6517cd0eb5912ef5910f8",
-    "publicationDate": 1731739981,
-    "id": 5388921276
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5324504190-la-machine-a-remonter-le-temps-de-retour-vers-le-futur-icones-10300-boite-scelle-lego",
+    "price": 184.45,
+    "title": "La machine à remonter le temps de Retour vers le futur icônes 10300 boite scellé  lego",
+    "imgUrl": "https://images1.vinted.net/t/04_0102f_GNb5RJZbxuAAfrFT1rPwemZQ/f800/1730650751.jpeg?s=5e0805e038be25c4bd4fd74ef33e0adb2a7ab59e",
+    "publicationDate": 1730650751,
+    "id": 5324504190
   },
   {
-    "link": "https://www.vinted.fr/items/5294036263-lego-lot-de-2-figurines-marty-mcfly-et-doc-brown-de-retour-vers-le-futur-issues-de-la-boite-10300",
-    "price": 53.2,
-    "title": "Lego. Lot de 2 figurines Marty McFly et Doc brown de  Retour vers le futur Issues de la boîte 10300",
-    "imgUrl": "https://images1.vinted.net/t/04_00a74_FaksdQ8nx8jsRi8prYkfcSkF/f800/1730136532.jpeg?s=a7a81139fe7f262590fe5f741751a512b4a6ac5f",
-    "publicationDate": 1730136532,
-    "id": 5294036263
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/3571587871-lego-10300-icons-maquina-del-tiempo-de-regreso-al-futuro",
     "price": 163.45,
     "title": "Lego 10300 ICONS Máquina del Tiempo de Regreso al Futuro",
@@ -200,6 +207,25 @@
     "id": 3571587871
   },
   {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5388921276-lego-10300-macchina-back-to-the-future",
+    "price": 188.65,
+    "title": "Lego 10300 - Macchina Back to the Future",
+    "imgUrl": "https://images1.vinted.net/t/04_016f2_2MKhX1vE3pY69ahrp73tBnS6/f800/1731739981.jpeg?s=3687610c647efca638c6517cd0eb5912ef5910f8",
+    "publicationDate": 1731739981,
+    "id": 5388921276
+  },
+  {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5294036263-lego-lot-de-2-figurines-marty-mcfly-et-doc-brown-de-retour-vers-le-futur-issues-de-la-boite-10300",
+    "price": 53.2,
+    "title": "Lego. Lot de 2 figurines Marty McFly et Doc brown de  Retour vers le futur Issues de la boîte 10300",
+    "imgUrl": "https://images1.vinted.net/t/04_00a74_FaksdQ8nx8jsRi8prYkfcSkF/f800/1730136532.jpeg?s=a7a81139fe7f262590fe5f741751a512b4a6ac5f",
+    "publicationDate": 1730136532,
+    "id": 5294036263
+  },
+  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5340927832-lego-10300-nuovo",
     "price": 179.2,
     "title": "Lego 10300 nuovo",
@@ -208,22 +234,7 @@
     "id": 5340927832
   },
   {
-    "link": "https://www.vinted.fr/items/5185105979-lego-10300-delorean",
-    "price": 179.2,
-    "title": "Lego 10300 DeLorean",
-    "imgUrl": "https://images1.vinted.net/t/03_01894_mmUvYnhYkHDQfPjeZzWH7n8Y/f800/1728450184.jpeg?s=88092ea4dcdc039700ae9368d6db6f1ab108d4fd",
-    "publicationDate": 1728450184,
-    "id": 5185105979
-  },
-  {
-    "link": "https://www.vinted.fr/items/2761084039-lot-x2-plaque-2x2-avec-rainure-1-goujon-noir-87580-piece-detachee-lego-b35",
-    "price": 2.38,
-    "title": "Lot x2 Plaque 2x2 avec rainure 1 goujon noir 87580 pièce détachée Lego #B35",
-    "imgUrl": "https://images1.vinted.net/t/01_01857_J1X3UsTCB3jxkzn1iiTbtZpZ/f800/1678136934.jpeg?s=56d0ab06ffedb8f7daeb3148516fc39815f9b5d7",
-    "publicationDate": 1678136934,
-    "id": 2761084039
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2761208311-lot-x2-brique-2x2-avec-goupille-et-trou-dessieu-jaune-6232-piece-detachee-lego-b35",
     "price": 1.96,
     "title": "lot x2 Brique 2x2 avec goupille et trou d'essieu jaune 6232 pièce détachée Lego #B35",
@@ -232,6 +243,25 @@
     "id": 2761208311
   },
   {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5185105979-lego-10300-delorean",
+    "price": 179.2,
+    "title": "Lego 10300 DeLorean",
+    "imgUrl": "https://images1.vinted.net/t/03_01894_mmUvYnhYkHDQfPjeZzWH7n8Y/f800/1728450184.jpeg?s=88092ea4dcdc039700ae9368d6db6f1ab108d4fd",
+    "publicationDate": 1728450184,
+    "id": 5185105979
+  },
+  {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/2761084039-lot-x2-plaque-2x2-avec-rainure-1-goujon-noir-87580-piece-detachee-lego-b35",
+    "price": 2.38,
+    "title": "Lot x2 Plaque 2x2 avec rainure 1 goujon noir 87580 pièce détachée Lego #B35",
+    "imgUrl": "https://images1.vinted.net/t/01_01857_J1X3UsTCB3jxkzn1iiTbtZpZ/f800/1678136934.jpeg?s=56d0ab06ffedb8f7daeb3148516fc39815f9b5d7",
+    "publicationDate": 1678136934,
+    "id": 2761084039
+  },
+  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5274435795-lego-icons-10300-back-to-the-future-macchina-del-tempo-ritorno-al-futuro",
     "price": 194.94,
     "title": "Lego Icons 10300 Back To The Future - Macchina del tempo Ritorno al futuro",
@@ -240,6 +270,7 @@
     "id": 5274435795
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4152117342-lego-back-to-the-future",
     "price": 179.19,
     "title": "Lego back to the future",
@@ -248,14 +279,7 @@
     "id": 4152117342
   },
   {
-    "link": "https://www.vinted.fr/items/4144971524-lego-minifigure-doc-brown-btf002-doc-brown-ritorno-al-futuro-10300-exclusive",
-    "price": 52.15,
-    "title": "LEGO minifigure Doc Brown btf002 Doc Brown ritorno al futuro 10300 exclusive",
-    "imgUrl": "https://images1.vinted.net/t/02_01ab1_5uebY1CKNQ9L6TQQSH5YYxyu/f800/1708862397.jpeg?s=3bcb0ce1f9ab3e806768cc2d57ff6b5c8a423d51",
-    "publicationDate": 1708862397,
-    "id": 4144971524
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2046592386-lot-x2-assiette-ronde-1x1-orange-4073-piece-detachee-lego-a14",
     "price": 1.75,
     "title": "Lot x2 Assiette ronde 1x1 orange 4073 pièce détachée Lego #A14",
@@ -264,6 +288,16 @@
     "id": 2046592386
   },
   {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/4144971524-lego-minifigure-doc-brown-btf002-doc-brown-ritorno-al-futuro-10300-exclusive",
+    "price": 52.15,
+    "title": "LEGO minifigure Doc Brown btf002 Doc Brown ritorno al futuro 10300 exclusive",
+    "imgUrl": "https://images1.vinted.net/t/02_01ab1_5uebY1CKNQ9L6TQQSH5YYxyu/f800/1708862397.jpeg?s=3bcb0ce1f9ab3e806768cc2d57ff6b5c8a423d51",
+    "publicationDate": 1708862397,
+    "id": 4144971524
+  },
+  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5075858577-lego-10300-de-lorean",
     "price": 189.7,
     "title": "Lego 10300 de lorean",
@@ -272,14 +306,7 @@
     "id": 5075858577
   },
   {
-    "link": "https://www.vinted.fr/items/4145044378-minifigure-lego-marty-mcfly-btf001-exclusive-ritorno-al-futuro-10300",
-    "price": 46.9,
-    "title": "Minifigure LEGO Marty McFly btf001 exclusive ritorno al futuro 10300",
-    "imgUrl": "https://images1.vinted.net/t/03_01b28_YntJn1BkuooYmoGJJi8YuG42/f800/1708863010.jpeg?s=c165e980e9a3d9fc035f45c1cff1179f116c5e1a",
-    "publicationDate": 1708863010,
-    "id": 4145044378
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2881103163-lot-x2-essieu-1l-avec-boule-de-remorquage-gris-bleute-clair-2736-piece-detachee-lego-a49",
     "price": 2.28,
     "title": "Lot x2 Essieu 1L avec boule de remorquage gris bleuté clair 2736 pièce détachée Lego #A49",
@@ -288,14 +315,16 @@
     "id": 2881103163
   },
   {
-    "link": "https://www.vinted.fr/items/2761173254-lot-x2-technic-douille-12-lisse-4265c-piece-detachee-lego-b35",
-    "price": 1.75,
-    "title": "lot x2 Technic Douille 1/2 Lisse 4265c pièce détachée Lego #B35",
-    "imgUrl": "https://images1.vinted.net/t/03_00fcd_WocT51ZMxzr4UDwwYqxY6zwA/f800/1678139013.jpeg?s=2ca3e43a71843766f94f8a625fd70fb98b59274d",
-    "publicationDate": 1678139013,
-    "id": 2761173254
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/4145044378-minifigure-lego-marty-mcfly-btf001-exclusive-ritorno-al-futuro-10300",
+    "price": 46.9,
+    "title": "Minifigure LEGO Marty McFly btf001 exclusive ritorno al futuro 10300",
+    "imgUrl": "https://images1.vinted.net/t/03_01b28_YntJn1BkuooYmoGJJi8YuG42/f800/1708863010.jpeg?s=c165e980e9a3d9fc035f45c1cff1179f116c5e1a",
+    "publicationDate": 1708863010,
+    "id": 4145044378
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2761166517-lot-x2-assiette-ronde-1x1-trans-orange-4073-piece-detachee-lego-b35",
     "price": 1.75,
     "title": "Lot x2 Assiette ronde 1x1 trans-orange 4073 pièce détachée Lego #B35",
@@ -304,6 +333,16 @@
     "id": 2761166517
   },
   {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/2761173254-lot-x2-technic-douille-12-lisse-4265c-piece-detachee-lego-b35",
+    "price": 1.75,
+    "title": "lot x2 Technic Douille 1/2 Lisse 4265c pièce détachée Lego #B35",
+    "imgUrl": "https://images1.vinted.net/t/03_00fcd_WocT51ZMxzr4UDwwYqxY6zwA/f800/1678139013.jpeg?s=2ca3e43a71843766f94f8a625fd70fb98b59274d",
+    "publicationDate": 1678139013,
+    "id": 2761173254
+  },
+  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5326663664-lego-back-to-the-future-delorian",
     "price": 210.7,
     "title": "Lego - back to the future - delorian",
@@ -312,22 +351,7 @@
     "id": 5326663664
   },
   {
-    "link": "https://www.vinted.fr/items/2761174889-axe-8l-avec-stop-gris-bleuatre-fonce-55013-piece-detachee-lego-b35",
-    "price": 1.75,
-    "title": "Axe 8L avec Stop gris bleuâtre foncé 55013 pièce détachée Lego #B35",
-    "imgUrl": "https://images1.vinted.net/t/03_025db_uLM82W8ri5S7ibU11f7mDEmx/f800/1678139058.jpeg?s=f7526b78684807f4e6ca46ee003039746e978a30",
-    "publicationDate": 1678139058,
-    "id": 2761174889
-  },
-  {
-    "link": "https://www.vinted.fr/items/2046604082-lot-x2-assiette-ronde-noir-2x2-fond-arrondi-2654-piece-detachee-lego-a14",
-    "price": 1.75,
-    "title": "lot x2 Assiette ronde noir 2x2 fond arrondi 2654 pièce détachée Lego #A14",
-    "imgUrl": "https://images1.vinted.net/t/02_02032_ukBd7jeE4Ub572EBz2DRazau/f800/1658304292.jpeg?s=685f9883afa9faf12620f17d8b06f607be04b804",
-    "publicationDate": 1658304292,
-    "id": 2046604082
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2761164905-lot-x2-bras-mecanique-noir-30377-piece-detachee-lego-b35",
     "price": 2.07,
     "title": "lot x2 Bras mécanique noir 30377 pièce détachée Lego #B35",
@@ -336,6 +360,25 @@
     "id": 2761164905
   },
   {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/2761174889-axe-8l-avec-stop-gris-bleuatre-fonce-55013-piece-detachee-lego-b35",
+    "price": 1.75,
+    "title": "Axe 8L avec Stop gris bleuâtre foncé 55013 pièce détachée Lego #B35",
+    "imgUrl": "https://images1.vinted.net/t/03_025db_uLM82W8ri5S7ibU11f7mDEmx/f800/1678139058.jpeg?s=f7526b78684807f4e6ca46ee003039746e978a30",
+    "publicationDate": 1678139058,
+    "id": 2761174889
+  },
+  {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/2046604082-lot-x2-assiette-ronde-noir-2x2-fond-arrondi-2654-piece-detachee-lego-a14",
+    "price": 1.75,
+    "title": "lot x2 Assiette ronde noir 2x2 fond arrondi 2654 pièce détachée Lego #A14",
+    "imgUrl": "https://images1.vinted.net/t/02_02032_ukBd7jeE4Ub572EBz2DRazau/f800/1658304292.jpeg?s=685f9883afa9faf12620f17d8b06f607be04b804",
+    "publicationDate": 1658304292,
+    "id": 2046604082
+  },
+  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2046956602-lot-x2-plaque-noir-modifiee-2x2-avec-trou-depingle-10247-piece-detachee-lego-a14",
     "price": 1.75,
     "title": "lot x2 Plaque noir modifiée 2x2 avec trou d'épingle 10247 pièce détachée Lego #A14",
@@ -344,22 +387,7 @@
     "id": 2046956602
   },
   {
-    "link": "https://www.vinted.fr/items/2177519375-lego-10300-la-machine-a-remonter-le-temps-retour-vers-le-futur",
-    "price": 188.65,
-    "title": "Lego 10300 - La machine à remonter le temps / retour vers le futur",
-    "imgUrl": "https://images1.vinted.net/t/03_0028c_weixxgPuF2JWJzQSm5zcWLbj/f800/1662629634.jpeg?s=daad2525e47c4d87fb5d03eb71bd6eb4e5fba520",
-    "publicationDate": 1662629634,
-    "id": 2177519375
-  },
-  {
-    "link": "https://www.vinted.fr/items/5206236501-lego-delorean-10300",
-    "price": 200.2,
-    "title": "Lego Delorean 10300",
-    "imgUrl": "https://images1.vinted.net/t/01_01dce_f5HNZTb4jM3NSiXisZifF3Rs/f800/1728772119.jpeg?s=1586f1a4256c666294d912299931c49c44f2702c",
-    "publicationDate": 1728772119,
-    "id": 5206236501
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2761076382-lot-x2-plaque-1x2-avec-bras-de-barre-vers-le-haut-gris-bleute-fonce-4623b-piece-detachee-lego-b35",
     "price": 1.75,
     "title": "Lot x2 Plaque 1x2 avec bras de barre vers le haut gris bleuté foncé 4623b pièce détachée Lego #B35",
@@ -368,14 +396,25 @@
     "id": 2761076382
   },
   {
-    "link": "https://www.vinted.fr/items/5295208812-lego-10300-back-to-the-future",
-    "price": 210.7,
-    "title": "Lego (10300) back to the future",
-    "imgUrl": "https://images1.vinted.net/t/04_00db0_dBHX4KgcRz8TXsQMvkk8g9Xy/f800/1730150409.jpeg?s=ebc6c04068e20b52f607c0dcd8ce31b8b102a8bc",
-    "publicationDate": 1730150409,
-    "id": 5295208812
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5206236501-lego-delorean-10300",
+    "price": 200.2,
+    "title": "Lego Delorean 10300",
+    "imgUrl": "https://images1.vinted.net/t/01_01dce_f5HNZTb4jM3NSiXisZifF3Rs/f800/1728772119.jpeg?s=1586f1a4256c666294d912299931c49c44f2702c",
+    "publicationDate": 1728772119,
+    "id": 5206236501
   },
   {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/2177519375-lego-10300-la-machine-a-remonter-le-temps-retour-vers-le-futur",
+    "price": 188.65,
+    "title": "Lego 10300 - La machine à remonter le temps / retour vers le futur",
+    "imgUrl": "https://images1.vinted.net/t/03_0028c_weixxgPuF2JWJzQSm5zcWLbj/f800/1662629634.jpeg?s=daad2525e47c4d87fb5d03eb71bd6eb4e5fba520",
+    "publicationDate": 1662629634,
+    "id": 2177519375
+  },
+  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5235222663-lego-delorean-10300",
     "price": 205.45,
     "title": "Lego delorean 10300",
@@ -384,6 +423,16 @@
     "id": 5235222663
   },
   {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5295208812-lego-10300-back-to-the-future",
+    "price": 210.7,
+    "title": "Lego (10300) back to the future",
+    "imgUrl": "https://images1.vinted.net/t/04_00db0_dBHX4KgcRz8TXsQMvkk8g9Xy/f800/1730150409.jpeg?s=ebc6c04068e20b52f607c0dcd8ce31b8b102a8bc",
+    "publicationDate": 1730150409,
+    "id": 5295208812
+  },
+  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/3793754323-lego-delorean-10300",
     "price": 189.7,
     "title": "Lego DeLorean 10300",
@@ -392,6 +441,7 @@
     "id": 3793754323
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2750806301-lego-ideas-cuusoo-21103-back-to-the-futur-retour-vers-le-futur-rare-erreur-shield",
     "price": 126.7,
     "title": "LEGO Ideas Cuusoo 21103 Back to the Futur - Retour vers le futur/ Rare erreur \"Shield\"",
@@ -400,6 +450,7 @@
     "id": 2750806301
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5353332015-lego-delorian-ritorno-al-futuro-back-to-the-future",
     "price": 209.65,
     "title": "Lego Delorian Ritorno al futuro back to the future",
@@ -408,6 +459,7 @@
     "id": 5353332015
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2761202227-axe-1l-avec-goupille-2l-avec-cretes-de-friction-gris-bleuatre-fonce-11214-piece-detachee-lego-b35",
     "price": 1.75,
     "title": "Axe 1L avec goupille 2L avec crêtes de friction gris bleuâtre foncé 11214 pièce détachée Lego #B35",
@@ -416,6 +468,7 @@
     "id": 2761202227
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4093298647-lego-10300-back-to-the-future",
     "price": 179.2,
     "title": "Lego 10300 back to the future",
@@ -424,14 +477,7 @@
     "id": 4093298647
   },
   {
-    "link": "https://www.vinted.fr/items/3687606679-lego-voiture-retour-vers-le-futur-ref-10300",
-    "price": 189.7,
-    "title": "Lego voiture Retour vers le futur réf 10300",
-    "imgUrl": "https://images1.vinted.net/t/03_01e7a_a9UggzbhbpvFUq15GHHkoyNy/f800/1698829561.jpeg?s=efb21102a0112eb4f897734e287cba46bbf2a7bc",
-    "publicationDate": 1698829561,
-    "id": 3687606679
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/3957719562-lego-delorean",
     "price": 168.7,
     "title": "Lego delorean",
@@ -440,22 +486,7 @@
     "id": 3957719562
   },
   {
-    "link": "https://www.vinted.fr/items/5178308884-lego-back-to-the-future-set-10300-nuovo",
-    "price": 200.2,
-    "title": "Lego back to the future set 10300 nuovo",
-    "imgUrl": "https://images1.vinted.net/t/03_02504_T1QcRMGJa8XZmnpQHs8tedVq/f800/1728323934.jpeg?s=4027d99e70157ca255ec589c600924500d3b1c4d",
-    "publicationDate": 1728323934,
-    "id": 5178308884
-  },
-  {
-    "link": "https://www.vinted.fr/items/5058760626-lego-delorean-regreso-al-futuro-ref-10300",
-    "price": 189.7,
-    "title": "Lego Delorean Regreso al Futuro, Ref: 10300",
-    "imgUrl": "https://images1.vinted.net/t/03_01ccf_MmrS1LWBSWnMDvErTcEiz7Df/f800/1726554380.jpeg?s=ce7df5bb6608d0fbc7ea7f2a95ed85a531434258",
-    "publicationDate": 1726554380,
-    "id": 5058760626
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2761211095-plaque-1x2-avec-poignee-en-forme-de-barre-a-lextremite-4515364-piece-detachee-lego-b35",
     "price": 1.75,
     "title": "Plaque 1x2 avec poignée en forme de barre à l'extrémité 4515364 pièce détachée Lego #B35",
@@ -464,6 +495,34 @@
     "id": 2761211095
   },
   {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5178308884-lego-back-to-the-future-set-10300-nuovo",
+    "price": 200.2,
+    "title": "Lego back to the future set 10300 nuovo",
+    "imgUrl": "https://images1.vinted.net/t/03_02504_T1QcRMGJa8XZmnpQHs8tedVq/f800/1728323934.jpeg?s=4027d99e70157ca255ec589c600924500d3b1c4d",
+    "publicationDate": 1728323934,
+    "id": 5178308884
+  },
+  {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5058760626-lego-delorean-regreso-al-futuro-ref-10300",
+    "price": 189.7,
+    "title": "Lego Delorean Regreso al Futuro, Ref: 10300",
+    "imgUrl": "https://images1.vinted.net/t/03_01ccf_MmrS1LWBSWnMDvErTcEiz7Df/f800/1726554380.jpeg?s=ce7df5bb6608d0fbc7ea7f2a95ed85a531434258",
+    "publicationDate": 1726554380,
+    "id": 5058760626
+  },
+  {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/3687606679-lego-voiture-retour-vers-le-futur-ref-10300",
+    "price": 189.7,
+    "title": "Lego voiture Retour vers le futur réf 10300",
+    "imgUrl": "https://images1.vinted.net/t/03_01e7a_a9UggzbhbpvFUq15GHHkoyNy/f800/1698829561.jpeg?s=efb21102a0112eb4f897734e287cba46bbf2a7bc",
+    "publicationDate": 1698829561,
+    "id": 3687606679
+  },
+  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5040486173-lego-10300-macchina-del-tempo-ritorno-al-futuro",
     "price": 189.7,
     "title": "LEGO 10300, Macchina del tempo Ritorno al futuro",
@@ -472,6 +531,7 @@
     "id": 5040486173
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5182176658-lego-icons-10300",
     "price": 179.2,
     "title": "Lego icons 10300",
@@ -480,6 +540,7 @@
     "id": 5182176658
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4591693280-lego-10300-ritorno-al-futuro",
     "price": 179.2,
     "title": "Lego 10300 ritorno al futuro",
@@ -488,6 +549,7 @@
     "id": 4591693280
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4398982521-lego-10300-back-to-the-future-time-machine",
     "price": 188.65,
     "title": "Lego 10300 back to the future time machine",
@@ -496,6 +558,7 @@
     "id": 4398982521
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2067949445-lego-icons-10300-the-time-machine",
     "price": 179.19,
     "title": "Lego Icons 10300 The Time Machine",
@@ -504,6 +567,7 @@
     "id": 2067949445
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4082480554-lego-back-to-the-future-time-machine",
     "price": 221.2,
     "title": "LEGO Back to the Future: Time Machine",
@@ -512,6 +576,7 @@
     "id": 4082480554
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4910181098-back-to-the-future-10300-lego-nuovo",
     "price": 247.45,
     "title": "BACK to the future 10300 lego nuovo",
@@ -520,6 +585,7 @@
     "id": 4910181098
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/5141332870-lego-10300-back-to-the-future-time-machine-selado",
     "price": 200.2,
     "title": "LEGO 10300 Back to the Future Time Machine Selado",
@@ -528,6 +594,7 @@
     "id": 5141332870
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4991582289-lego-misb-10300",
     "price": 200.2,
     "title": "Lego MISB 10300",
@@ -536,6 +603,7 @@
     "id": 4991582289
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2401406601-10300-lego-back-to-the-future-time-machine",
     "price": 200.2,
     "title": "10300 Lego Back to the future time machine",
@@ -544,38 +612,7 @@
     "id": 2401406601
   },
   {
-    "link": "https://www.vinted.fr/items/4759746168-lego-delorean-nuova-sigillata",
-    "price": 189.69,
-    "title": "LEGO Delorean Nuova sigillata",
-    "imgUrl": "https://images1.vinted.net/t/02_006a5_LhSnEADQ7FqPhhW1BwGkC8CK/f800/1720876408.jpeg?s=a8f3865f1b3238f59c9a047a8af523e338c3ca99",
-    "publicationDate": 1720876408,
-    "id": 4759746168
-  },
-  {
-    "link": "https://www.vinted.fr/items/5073925506-lego-delorean-double-set-21103-open-box-10300-sealed",
-    "price": 326.2,
-    "title": "Lego Delorean Double set 21103 (open box) 10300 (sealed)",
-    "imgUrl": "https://images1.vinted.net/t/03_014cb_fxviGdZCX4QomoBsb15VTyHu/f800/1726777244.jpeg?s=6305168a68c7e7740bec045c8245fe9560fc8d98",
-    "publicationDate": 1726777244,
-    "id": 5073925506
-  },
-  {
-    "link": "https://www.vinted.fr/items/5085982738-lego-10300-back-to-the-future-time-machine-sealed",
-    "price": 189.7,
-    "title": "LEGO 10300 Back to the Future Time Machine - SEALED",
-    "imgUrl": "https://images1.vinted.net/t/02_0061c_7hc1nsAsqCNYZt8q33CRQj2C/f800/1726999595.jpeg?s=f3f41db5d923f9d3ddad819c04f7c4b25e6fb59e",
-    "publicationDate": 1726999595,
-    "id": 5085982738
-  },
-  {
-    "link": "https://www.vinted.fr/items/4682143294-delorean-lego-10300",
-    "price": 189.7,
-    "title": "DeLorean LEGO 10300",
-    "imgUrl": "https://images1.vinted.net/t/01_01576_QEozhmgVt9nAMXMPaYH9woqm/f800/1719229323.jpeg?s=e9a99ba9df7accba6bcdebb070f7621d5aecd6ae",
-    "publicationDate": 1719229323,
-    "id": 4682143294
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4255930526-lego-10300-back-to-the-future",
     "price": 189.7,
     "title": "Lego 10300 Back to the future",
@@ -584,6 +621,43 @@
     "id": 4255930526
   },
   {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/4759746168-lego-delorean-nuova-sigillata",
+    "price": 189.69,
+    "title": "LEGO Delorean Nuova sigillata",
+    "imgUrl": "https://images1.vinted.net/t/02_006a5_LhSnEADQ7FqPhhW1BwGkC8CK/f800/1720876408.jpeg?s=a8f3865f1b3238f59c9a047a8af523e338c3ca99",
+    "publicationDate": 1720876408,
+    "id": 4759746168
+  },
+  {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5073925506-lego-delorean-double-set-21103-open-box-10300-sealed",
+    "price": 326.2,
+    "title": "Lego Delorean Double set 21103 (open box) 10300 (sealed)",
+    "imgUrl": "https://images1.vinted.net/t/03_014cb_fxviGdZCX4QomoBsb15VTyHu/f800/1726777244.jpeg?s=6305168a68c7e7740bec045c8245fe9560fc8d98",
+    "publicationDate": 1726777244,
+    "id": 5073925506
+  },
+  {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/5085982738-lego-10300-back-to-the-future-time-machine-sealed",
+    "price": 189.7,
+    "title": "LEGO 10300 Back to the Future Time Machine - SEALED",
+    "imgUrl": "https://images1.vinted.net/t/02_0061c_7hc1nsAsqCNYZt8q33CRQj2C/f800/1726999595.jpeg?s=f3f41db5d923f9d3ddad819c04f7c4b25e6fb59e",
+    "publicationDate": 1726999595,
+    "id": 5085982738
+  },
+  {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/4682143294-delorean-lego-10300",
+    "price": 189.7,
+    "title": "DeLorean LEGO 10300",
+    "imgUrl": "https://images1.vinted.net/t/01_01576_QEozhmgVt9nAMXMPaYH9woqm/f800/1719229323.jpeg?s=e9a99ba9df7accba6bcdebb070f7621d5aecd6ae",
+    "publicationDate": 1719229323,
+    "id": 4682143294
+  },
+  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2516633075-lego-back-to-the-future-10300",
     "price": 284.2,
     "title": "Lego Back to the future 10300",
@@ -592,6 +666,7 @@
     "id": 2516633075
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4138507263-lego-10300",
     "price": 210.7,
     "title": "Lego 10300",
@@ -600,6 +675,7 @@
     "id": 4138507263
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4112597278-lego-10300-back-to-the-future-time-machine",
     "price": 197.05,
     "title": "LEGO 10300 Back to the Future Time Machine",
@@ -608,6 +684,7 @@
     "id": 4112597278
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2430183884-lego-10300-back-to-the-future-neuf",
     "price": 189.7,
     "title": "Lego 10300 Back to the Future NEUF",
@@ -616,6 +693,7 @@
     "id": 2430183884
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/3878350693-lego-icons-10300",
     "price": 189.7,
     "title": "Lego Icons 10300",
@@ -624,6 +702,7 @@
     "id": 3878350693
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2728536854-lego-10300-macchina-del-tempo-ritorno-al-futuro-nuovo-sigillato",
     "price": 196,
     "title": "Lego 10300 - Macchina del Tempo - Ritorno al Futuro - Nuovo - Sigillato",
@@ -632,6 +711,7 @@
     "id": 2728536854
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2812920018-lego-10300-back-to-the-future-delorean",
     "price": 209.65,
     "title": "Lego 10300 Back To The Future DeLorean",
@@ -640,6 +720,7 @@
     "id": 2812920018
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4675300492-lego-10300-delorean",
     "price": 200.2,
     "title": "Lego 10300 Delorean",
@@ -648,6 +729,7 @@
     "id": 4675300492
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/4077411551-lego-10300-retour-vers-le-futur-delorean",
     "price": 210.7,
     "title": "Lego 10300 - Retour vers le futur - Delorean",
@@ -656,6 +738,7 @@
     "id": 4077411551
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2522403609-lego-idea-10300-delorean-back-to-the-future-misb",
     "price": 210.7,
     "title": " Lego Idea 10300 delorean back to the future -MISB",
@@ -664,6 +747,7 @@
     "id": 2522403609
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/1755341386-lego-10300",
     "price": 273.7,
     "title": "Lego 10300",
@@ -672,6 +756,7 @@
     "id": 1755341386
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/3882367165-lego-10300-back-to-the-future-delorean-time-machine-nuovo-sigillato",
     "price": 215.95,
     "title": "Lego 10300 Back to the Future, Delorean Time Machine nuovo sigillato",
@@ -680,6 +765,7 @@
     "id": 3882367165
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2031063698-lego-back-to-the-future-10300-nuovo",
     "price": 273.69,
     "title": "Lego back to the future 10300 NUOVO",
@@ -688,6 +774,7 @@
     "id": 2031063698
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2822151688-lego-10300-coche-del-regreso-al-futuro",
     "price": 210.7,
     "title": "LEGO 10300 Coche del Regreso al Futuro",
@@ -696,6 +783,7 @@
     "id": 2822151688
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2481490802-lego-10300-nuovo-prima-edizione",
     "price": 210.7,
     "title": "Lego 10300 Nuovo prima edizione ",
@@ -704,6 +792,7 @@
     "id": 2481490802
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2528358481-lego-10300-maquina-del-tiempo-de-regreso-al-futuro",
     "price": 263.2,
     "title": "Lego 10300 Máquina del Tiempo de Regreso al Futuro",
@@ -712,14 +801,7 @@
     "id": 2528358481
   },
   {
-    "link": "https://www.vinted.fr/items/1773023056-macchina-del-tempo-ritorno-al-futuro-lego",
-    "price": 378.7,
-    "title": "Macchina del tempo ritorno al futuro lego",
-    "imgUrl": "https://images1.vinted.net/t/03_0015c_WwKRLdKpraey8vjqAherKeaE/f800/1650364770.jpeg?s=72ef1b18dca18ec6944ca337deb6f71838482b8d",
-    "publicationDate": 1650364770,
-    "id": 1773023056
-  },
-  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/2052385165-lego-10300-delorean-ritorno-al-futuro-misb",
     "price": 231.7,
     "title": "Lego 10300 Delorean Ritorno al Futuro MISB",
@@ -728,6 +810,16 @@
     "id": 2052385165
   },
   {
+    "legoId": "10300",
+    "link": "https://www.vinted.fr/items/1773023056-macchina-del-tempo-ritorno-al-futuro-lego",
+    "price": 378.7,
+    "title": "Macchina del tempo ritorno al futuro lego",
+    "imgUrl": "https://images1.vinted.net/t/03_0015c_WwKRLdKpraey8vjqAherKeaE/f800/1650364770.jpeg?s=72ef1b18dca18ec6944ca337deb6f71838482b8d",
+    "publicationDate": 1650364770,
+    "id": 1773023056
+  },
+  {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/1746160286-lego-10300-delorean-ritorno-al-futuro-back-to-the-future",
     "price": 210.69,
     "title": "Lego 10300 DeLorean Ritorno al futuro back to the future",
@@ -736,6 +828,7 @@
     "id": 1746160286
   },
   {
+    "legoId": "10300",
     "link": "https://www.vinted.fr/items/1739447937-lego-10300-back-to-the-future-time-machine",
     "price": 263.2,
     "title": "Lego 10300 Back to the Future Time Machine",

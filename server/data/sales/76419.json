@@ -1,5 +1,6 @@
 [
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5131609367-notice-lego-harry-potter",
     "price": 8.05,
     "title": "Notice Lego Harry Potter",
@@ -8,6 +9,7 @@
     "id": 5131609367
   },
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5367606598-76419-hogwarts-castle-and-grounds-lego",
     "price": 105.7,
     "title": "76419 hogwarts castle and grounds lego",
@@ -16,14 +18,7 @@
     "id": 5367606598
   },
   {
-    "link": "https://www.vinted.fr/items/5398424005-lego-harry-potter-76419",
-    "price": 126.7,
-    "title": "Lego Harry Potter 76419",
-    "imgUrl": "https://images1.vinted.net/t/04_01851_cGwhjz5zNn7e4TnY4gSuMsTG/f800/1731855931.jpeg?s=1a7d7cfa12c308ac299437af30b952a4a9fd9832",
-    "publicationDate": 1731855931,
-    "id": 5398424005
-  },
-  {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5354949283-lego-76419-le-chateau-et-le-domaine-de-poudlard-neuf",
     "price": 142.45,
     "title": "LEGO 76419: Le château et le domaine de Poudlard (NEUF)",
@@ -32,6 +27,7 @@
     "id": 5354949283
   },
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5388518766-lego-harry-potter-76419",
     "price": 137.2,
     "title": "Lego Harry Potter 76419",
@@ -40,6 +36,7 @@
     "id": 5388518766
   },
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5393887200-lego-76419-harry-potter-nuevo-e-sellado",
     "price": 137.2,
     "title": "Lego 76419 Harry Potter NUEVO e sellado",
@@ -48,14 +45,7 @@
     "id": 5393887200
   },
   {
-    "link": "https://www.vinted.fr/items/5366610630-lego-hogwarts-castle-and-grounds",
-    "price": 152.95,
-    "title": "LEGO Hogwarts castle and Grounds",
-    "imgUrl": "https://images1.vinted.net/t/03_00c7e_Vtd4JBfRsvccucyS8QxEae6S/f800/1731338965.jpeg?s=2b70eff2c87c6ee706234b854f9578ca238ad05b",
-    "publicationDate": 1731338965,
-    "id": 5366610630
-  },
-  {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5388553552-lego-harry-potter-castello-di-hogwarts",
     "price": 163.45,
     "title": "Lego harry potter castello di Hogwarts",
@@ -64,6 +54,16 @@
     "id": 5388553552
   },
   {
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/5366610630-lego-hogwarts-castle-and-grounds",
+    "price": 152.95,
+    "title": "LEGO Hogwarts castle and Grounds",
+    "imgUrl": "https://images1.vinted.net/t/03_00c7e_Vtd4JBfRsvccucyS8QxEae6S/f800/1731338965.jpeg?s=2b70eff2c87c6ee706234b854f9578ca238ad05b",
+    "publicationDate": 1731338965,
+    "id": 5366610630
+  },
+  {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5389292999-lego-chateau-et-domaine-de-poudlard-76419",
     "price": 105.7,
     "title": "Lego château et domaine de Poudlard 76419",
@@ -72,14 +72,7 @@
     "id": 5389292999
   },
   {
-    "link": "https://www.vinted.fr/items/4219546483-vitrine-pour-lego-76419-le-chateau-et-le-domaine-de-poudlard",
-    "price": 74.2,
-    "title": "Vitrine pour LEGO 76419 : Le château et le domaine de Poudlard",
-    "imgUrl": "https://images1.vinted.net/t/01_01b79_EhUG6bacQWJDdmpmCw6kELDU/f800/1710350196.jpeg?s=71bf77f7839d79235a013aa21538c2d35ac072e4",
-    "publicationDate": 1710350196,
-    "id": 4219546483
-  },
-  {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5205618661-lego-76419-hogwarts-castel-and-grounds",
     "price": 145.6,
     "title": "Lego 76419 Hogwarts Castel and Grounds",
@@ -88,6 +81,16 @@
     "id": 5205618661
   },
   {
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/4219546483-vitrine-pour-lego-76419-le-chateau-et-le-domaine-de-poudlard",
+    "price": 74.2,
+    "title": "Vitrine pour LEGO 76419 : Le château et le domaine de Poudlard",
+    "imgUrl": "https://images1.vinted.net/t/01_01b79_EhUG6bacQWJDdmpmCw6kELDU/f800/1710350196.jpeg?s=71bf77f7839d79235a013aa21538c2d35ac072e4",
+    "publicationDate": 1710350196,
+    "id": 4219546483
+  },
+  {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5320771055-lego-hogwarts-castle-and-grounds-harry-potter-76419-novo",
     "price": 135.1,
     "title": "Lego Hogwarts Castle and Grounds Harry Potter 76419 Novo",
@@ -96,14 +99,16 @@
     "id": 5320771055
   },
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5365577455-lego-76419-zweinstein-kasteel-harry-potter",
-    "price": 121.45,
+    "price": 110.95,
     "title": "Lego 76419 Zweinstein kasteel Harry Potter",
     "imgUrl": "https://images1.vinted.net/t/03_00140_p63rRSkUpJg3ZbtnLzwsAcdg/f800/1731332373.jpeg?s=277c4afbdd5e0dcc0c318b6736753f253f4db3ec",
     "publicationDate": 1731332373,
     "id": 5365577455
   },
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5372006733-lego-harry-potter-76419-hogwarts-castle-and-grounds",
     "price": 173.95,
     "title": "Lego Harry Potter 76419 Hogwarts castle and grounds",
@@ -112,14 +117,7 @@
     "id": 5372006733
   },
   {
-    "link": "https://www.vinted.fr/items/5331360899-lego-76419-castello-e-parco-di-hogwart-harry-potter",
-    "price": 156.1,
-    "title": "LEGO 76419, Castello e parco di Hogwart, Harry Potter",
-    "imgUrl": "https://images1.vinted.net/t/02_015bb_UXgBjTAqtiF11KSdathXzBTx/f800/1730751074.jpeg?s=1f6be4e44514ec7fef1e787aee7d45cc56f24753",
-    "publicationDate": 1730751074,
-    "id": 5331360899
-  },
-  {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/4244907782-lego-pezzi-del-castello-di-harry-potter-modello-76419",
     "price": 5.95,
     "title": "Lego pezzi del castello di Harry Potter modello 76419",
@@ -128,6 +126,7 @@
     "id": 4244907782
   },
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/4400778450-harry-potter-lego-schloss-76419",
     "price": 126.7,
     "title": "Harry Potter Lego Schloss 76419",
@@ -136,6 +135,7 @@
     "id": 4400778450
   },
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/4592759700-lego-76419-harry-potter-hogwarts-schlossarchitekt-gold",
     "price": 26.95,
     "title": "Lego 76419 Harry Potter Hogwarts Schlossarchitekt Gold",
@@ -144,6 +144,16 @@
     "id": 4592759700
   },
   {
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/5331360899-lego-76419-castello-e-parco-di-hogwart-harry-potter",
+    "price": 156.1,
+    "title": "LEGO 76419, Castello e parco di Hogwart, Harry Potter",
+    "imgUrl": "https://images1.vinted.net/t/02_015bb_UXgBjTAqtiF11KSdathXzBTx/f800/1730751074.jpeg?s=1f6be4e44514ec7fef1e787aee7d45cc56f24753",
+    "publicationDate": 1730751074,
+    "id": 5331360899
+  },
+  {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/4589433312-lego-76419-castillo-y-terrenos-harry-potter",
     "price": 142.45,
     "title": "Lego 76419 Castillo y terrenos Harry Potter",
@@ -152,6 +162,7 @@
     "id": 4589433312
   },
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5397774738-76419-lego-poudlard",
     "price": 146.65,
     "title": "76419 lego poudlard",
@@ -160,6 +171,16 @@
     "id": 5397774738
   },
   {
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/5389920644-lego-harry-potter-76419-chateau-de-poudlard-neuf-et-scelle",
+    "price": 155.05,
+    "title": "Lego Harry Potter 76419 Château de Poudlard NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/04_017c2_X6AorDviuAyfxbq4y1QXKd2K/f800/1731754408.jpeg?s=3c624156179824e50c3f8335924d5a147097fc23",
+    "publicationDate": 1731754408,
+    "id": 5389920644
+  },
+  {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/4879001984-lego-76419-schloss-hogwarts-mit-schlossgelande",
     "price": 116.2,
     "title": "Lego 76419 - Schloss Hogwarts mit Schlossgelände",
@@ -168,62 +189,7 @@
     "id": 4879001984
   },
   {
-    "link": "https://www.vinted.fr/items/5389920644-lego-harry-potter-76419-chateau-de-poudlard-neuf-et-scelle",
-    "price": 156.1,
-    "title": "Lego Harry Potter 76419 Château de Poudlard NEUF et scellé",
-    "imgUrl": "https://images1.vinted.net/t/04_017c2_X6AorDviuAyfxbq4y1QXKd2K/f800/1731754408.jpeg?s=3c624156179824e50c3f8335924d5a147097fc23",
-    "publicationDate": 1731754408,
-    "id": 5389920644
-  },
-  {
-    "link": "https://www.vinted.fr/items/5353738178-lego-76419-hogwarts-castle-and-grounds",
-    "price": 146.65,
-    "title": "LEGO 76419 Hogwarts Castle and Grounds",
-    "imgUrl": "https://images1.vinted.net/t/04_00609_XLmFYAqgoF1jf7jqB4XB7U8e/f800/r3/1731167880.jpeg?s=37eed50b04a9ad4e5e583fb329699ee8a966d31a",
-    "publicationDate": 1731167880,
-    "id": 5353738178
-  },
-  {
-    "link": "https://www.vinted.fr/items/5323413153-lego-76419-hogwarts-castle-and-grounds",
-    "price": 158.2,
-    "title": "Lego 76419 Hogwarts Castle and Grounds",
-    "imgUrl": "https://images1.vinted.net/t/03_011bc_JSR5PNzUcS6EoRHM7AZL2nBd/f800/1731251337.jpeg?s=f7fabfe7c4856d808cc4c3853f6cbfc74ff5a8b8",
-    "publicationDate": 1731251337,
-    "id": 5323413153
-  },
-  {
-    "link": "https://www.vinted.fr/items/5318555098-lego-castello-e-parco-di-hogwarts-76419",
-    "price": 163.45,
-    "title": "Lego Castello e parco di Hogwarts 76419",
-    "imgUrl": "https://images1.vinted.net/t/04_0108b_iCrQREqY5cbdXdwkphqznJmf/f800/1730568828.jpeg?s=3909015a2165905f844e3bb580b6b473c36229cc",
-    "publicationDate": 1730568828,
-    "id": 5318555098
-  },
-  {
-    "link": "https://www.vinted.fr/items/4924263765-set-lego-76419",
-    "price": 158.2,
-    "title": "Set lego 76419",
-    "imgUrl": "https://images1.vinted.net/t/03_021b3_FV9Fafme1ocZv3kzxcAkV8wA/f800/1724352571.jpeg?s=220c52c213a25d5ee49b4ff4e7d786b8b954b6d9",
-    "publicationDate": 1724352571,
-    "id": 4924263765
-  },
-  {
-    "link": "https://www.vinted.fr/items/4154265199-lego-76419-castillo-de-hogwarts",
-    "price": 168.7,
-    "title": "Lego 76419 Castillo de Hogwarts",
-    "imgUrl": "https://images1.vinted.net/t/01_02273_RxLjocpFzYmq85ZmtkKreuuz/f800/1709030198.jpeg?s=d8f4355335d508c810028230fda640e53f56e441",
-    "publicationDate": 1709030198,
-    "id": 4154265199
-  },
-  {
-    "link": "https://www.vinted.fr/items/5188800521-set-lego-harry-potter-76419-extension-custom-tres-rare",
-    "price": 315.7,
-    "title": "Set Lego Harry Potter 76419 + extension custom (très rare)",
-    "imgUrl": "https://images1.vinted.net/t/01_0156d_qpvgvFRm9D8mBGXYLHVxZG5L/f800/1728490881.jpeg?s=ef5a1e3f326a13a8a941ec137bed9cfd824f95e5",
-    "publicationDate": 1728490881,
-    "id": 5188800521
-  },
-  {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5079960792-lego-76419-harry-potter-chateau-hogwarts",
     "price": 173.95,
     "title": "Lego 76419 Harry Potter château Hogwarts",
@@ -232,46 +198,61 @@
     "id": 5079960792
   },
   {
-    "link": "https://www.vinted.fr/items/5282711223-lego-castello-di-hogwarts",
-    "price": 168.7,
-    "title": "Lego castello di Hogwarts",
-    "imgUrl": "https://images1.vinted.net/t/04_01fbc_J2m5wVo4KgsuajUzyoGmp59c/f800/1729971553.jpeg?s=98ea9a3d83a742ed2b377df1cce37665818a2e72",
-    "publicationDate": 1729971553,
-    "id": 5282711223
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/5353738178-lego-76419-hogwarts-castle-and-grounds",
+    "price": 146.65,
+    "title": "LEGO 76419 Hogwarts Castle and Grounds",
+    "imgUrl": "https://images1.vinted.net/t/04_00609_XLmFYAqgoF1jf7jqB4XB7U8e/f800/r3/1731167880.jpeg?s=37eed50b04a9ad4e5e583fb329699ee8a966d31a",
+    "publicationDate": 1731167880,
+    "id": 5353738178
   },
   {
-    "link": "https://www.vinted.fr/items/4766391199-lego-76419-harry-potter-castello-di-hogwarts",
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/5323413153-lego-76419-hogwarts-castle-and-grounds",
     "price": 158.2,
-    "title": "Lego 76419 Harry Potter castello di Hogwarts",
-    "imgUrl": "https://images1.vinted.net/t/03_00432_uwNCLLESKo6wP3G9D2ptCdx7/f800/1721013823.jpeg?s=99e6b6edb1768a6a8a260fe37ac6eebf31154735",
-    "publicationDate": 1721013823,
-    "id": 4766391199
+    "title": "Lego 76419 Hogwarts Castle and Grounds",
+    "imgUrl": "https://images1.vinted.net/t/03_011bc_JSR5PNzUcS6EoRHM7AZL2nBd/f800/1731251337.jpeg?s=f7fabfe7c4856d808cc4c3853f6cbfc74ff5a8b8",
+    "publicationDate": 1731251337,
+    "id": 5323413153
   },
   {
-    "link": "https://www.vinted.fr/items/3942557150-lego-harry-potter-76419-chateau",
-    "price": 158.2,
-    "title": "Lego Harry Potter 76419 château ",
-    "imgUrl": "https://images1.vinted.net/t/01_021cb_k2PqEWLXvKEati5xJRSYdZxB/f800/1704467300.jpeg?s=f088f22b6c8191fa1c92e3f486104f4c6082e54e",
-    "publicationDate": 1704467300,
-    "id": 3942557150
-  },
-  {
-    "link": "https://www.vinted.fr/items/5280467410-lego-76419",
-    "price": 158.2,
-    "title": "Lego 76419",
-    "imgUrl": "https://images1.vinted.net/t/04_00882_eTmQRB2EBBmuN4pp9treyWQP/f800/1729949186.jpeg?s=010c2ddbc202313e038a79aa2961481acb8def68",
-    "publicationDate": 1729949186,
-    "id": 5280467410
-  },
-  {
-    "link": "https://www.vinted.fr/items/3914497046-lego-76419-harry-potter-hogwarts-castelo-and-grounds",
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/5318555098-lego-castello-e-parco-di-hogwarts-76419",
     "price": 163.45,
-    "title": "Lego 76419 Harry Potter Hogwarts castelo and grounds",
-    "imgUrl": "https://images1.vinted.net/t/02_0070f_S9XcQ5xbFCqdnFMoBk2En5AS/f800/1703765771.jpeg?s=9ab4cd0f107a645b0a268f6412b997c13c2125e1",
-    "publicationDate": 1703765771,
-    "id": 3914497046
+    "title": "Lego Castello e parco di Hogwarts 76419",
+    "imgUrl": "https://images1.vinted.net/t/04_0108b_iCrQREqY5cbdXdwkphqznJmf/f800/1730568828.jpeg?s=3909015a2165905f844e3bb580b6b473c36229cc",
+    "publicationDate": 1730568828,
+    "id": 5318555098
   },
   {
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/4924263765-set-lego-76419",
+    "price": 158.2,
+    "title": "Set lego 76419",
+    "imgUrl": "https://images1.vinted.net/t/03_021b3_FV9Fafme1ocZv3kzxcAkV8wA/f800/1724352571.jpeg?s=220c52c213a25d5ee49b4ff4e7d786b8b954b6d9",
+    "publicationDate": 1724352571,
+    "id": 4924263765
+  },
+  {
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/4154265199-lego-76419-castillo-de-hogwarts",
+    "price": 168.7,
+    "title": "Lego 76419 Castillo de Hogwarts",
+    "imgUrl": "https://images1.vinted.net/t/01_02273_RxLjocpFzYmq85ZmtkKreuuz/f800/1709030198.jpeg?s=d8f4355335d508c810028230fda640e53f56e441",
+    "publicationDate": 1709030198,
+    "id": 4154265199
+  },
+  {
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/5188800521-set-lego-harry-potter-76419-extension-custom-tres-rare",
+    "price": 315.7,
+    "title": "Set Lego Harry Potter 76419 + extension custom (très rare)",
+    "imgUrl": "https://images1.vinted.net/t/01_0156d_qpvgvFRm9D8mBGXYLHVxZG5L/f800/1728490881.jpeg?s=ef5a1e3f326a13a8a941ec137bed9cfd824f95e5",
+    "publicationDate": 1728490881,
+    "id": 5188800521
+  },
+  {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5352237237-lego-76419",
     "price": 210.7,
     "title": "Lego 76419",
@@ -280,14 +261,52 @@
     "id": 5352237237
   },
   {
-    "link": "https://www.vinted.fr/items/3858355100-lego-castello-e-parco-di-hogwarts-76419",
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/3942557150-lego-harry-potter-76419-chateau",
     "price": 158.2,
-    "title": "Lego Castello e parco di Hogwarts (#76419)",
-    "imgUrl": "https://images1.vinted.net/t/02_0049f_eac96pcGbekEkNYbmwsdyQKX/f800/1702033030.jpeg?s=6b1bf8e7fa5a41a06de12b9652ef795f041eddb4",
-    "publicationDate": 1702033030,
-    "id": 3858355100
+    "title": "Lego Harry Potter 76419 château ",
+    "imgUrl": "https://images1.vinted.net/t/01_021cb_k2PqEWLXvKEati5xJRSYdZxB/f800/1704467300.jpeg?s=f088f22b6c8191fa1c92e3f486104f4c6082e54e",
+    "publicationDate": 1704467300,
+    "id": 3942557150
   },
   {
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/5282711223-lego-castello-di-hogwarts",
+    "price": 168.7,
+    "title": "Lego castello di Hogwarts",
+    "imgUrl": "https://images1.vinted.net/t/04_01fbc_J2m5wVo4KgsuajUzyoGmp59c/f800/1729971553.jpeg?s=98ea9a3d83a742ed2b377df1cce37665818a2e72",
+    "publicationDate": 1729971553,
+    "id": 5282711223
+  },
+  {
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/4766391199-lego-76419-harry-potter-castello-di-hogwarts",
+    "price": 158.2,
+    "title": "Lego 76419 Harry Potter castello di Hogwarts",
+    "imgUrl": "https://images1.vinted.net/t/03_00432_uwNCLLESKo6wP3G9D2ptCdx7/f800/1721013823.jpeg?s=99e6b6edb1768a6a8a260fe37ac6eebf31154735",
+    "publicationDate": 1721013823,
+    "id": 4766391199
+  },
+  {
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/5280467410-lego-76419",
+    "price": 158.2,
+    "title": "Lego 76419",
+    "imgUrl": "https://images1.vinted.net/t/04_00882_eTmQRB2EBBmuN4pp9treyWQP/f800/1729949186.jpeg?s=010c2ddbc202313e038a79aa2961481acb8def68",
+    "publicationDate": 1729949186,
+    "id": 5280467410
+  },
+  {
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/3914497046-lego-76419-harry-potter-hogwarts-castelo-and-grounds",
+    "price": 163.45,
+    "title": "Lego 76419 Harry Potter Hogwarts castelo and grounds",
+    "imgUrl": "https://images1.vinted.net/t/02_0070f_S9XcQ5xbFCqdnFMoBk2En5AS/f800/1703765771.jpeg?s=9ab4cd0f107a645b0a268f6412b997c13c2125e1",
+    "publicationDate": 1703765771,
+    "id": 3914497046
+  },
+  {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5091255897-lego-icons-vespa-10298-novoselado",
     "price": 89.95,
     "title": "LEGO Icons Vespa 10298 [Novo/Selado]",
@@ -296,6 +315,16 @@
     "id": 5091255897
   },
   {
+    "legoId": "76419",
+    "link": "https://www.vinted.fr/items/3858355100-lego-castello-e-parco-di-hogwarts-76419",
+    "price": 158.2,
+    "title": "Lego Castello e parco di Hogwarts (#76419)",
+    "imgUrl": "https://images1.vinted.net/t/02_0049f_eac96pcGbekEkNYbmwsdyQKX/f800/1702033030.jpeg?s=6b1bf8e7fa5a41a06de12b9652ef795f041eddb4",
+    "publicationDate": 1702033030,
+    "id": 3858355100
+  },
+  {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/4960499131-collezione-lego",
     "price": 816,
     "title": "Collezione LEGO",
@@ -304,6 +333,7 @@
     "id": 4960499131
   },
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5091176516-lego-harry-potter-castle-and-grounds-76149-novoselado",
     "price": 147.7,
     "title": "LEGO Harry Potter Castle and Grounds 76149 [Novo/Selado]",
@@ -312,6 +342,7 @@
     "id": 5091176516
   },
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/4898377418-lego-harry-potter-76419-hogwarts-castle",
     "price": 158.2,
     "title": "Lego Harry Potter 76419 Hogwarts Castle",
@@ -320,6 +351,7 @@
     "id": 4898377418
   },
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/4093475746-lego-harry-potter-76419",
     "price": 158.2,
     "title": "Lego harry Potter 76419",
@@ -328,6 +360,7 @@
     "id": 4093475746
   },
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/4783387480-lego-76419",
     "price": 147.7,
     "title": "Lego 76419",
@@ -336,6 +369,7 @@
     "id": 4783387480
   },
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/4130180268-lego-76419-harry-potter-hogwarts-castle-and-grounds-new-not-open",
     "price": 161.35,
     "title": "Lego 76419: Harry Potter Hogwarts Castle and Grounds (new / not open)",
@@ -344,6 +378,7 @@
     "id": 4130180268
   },
   {
+    "legoId": "76419",
     "link": "https://www.vinted.fr/items/5091266067-lego-technic-yamaha-mt-10-sp-42159-novoselado",
     "price": 189.7,
     "title": "LEGO Technic Yamaha MT-10 SP 42159 [Novo/Selado]",

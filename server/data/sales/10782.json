@@ -1,13 +1,15 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5401712620-lego-marvel-10782-le-combat-des-camions",
-    "price": 9.1,
-    "title": "Lego Marvel  10782 le combat des camions",
-    "imgUrl": "https://images1.vinted.net/t/04_01e24_zz7kR7zVwewjU6zqe6jyvAzC/f800/1731880484.jpeg?s=2805d60ab0bfe5d3b7812cb95f056cd2aea44d1d",
-    "publicationDate": 1731880484,
-    "id": 5401712620
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/5405119541-lego-10782-marvel-spidey-amazing-friend-hulk-vs-rhino-neuf-pas-ouvert",
+    "price": 14.35,
+    "title": "Lego 10782 Marvel spidey amazing friend Hulk vs rhino neuf pas ouvert",
+    "imgUrl": "https://images1.vinted.net/t/04_0054c_jP1kvV31JU98y3LFjMQEZKAN/f800/1731946767.jpeg?s=d9e4df4e7b15eec61a9b6e6cd73e6c7ab0b68c2a",
+    "publicationDate": 1731946767,
+    "id": 5405119541
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5222425221-lego-10782-ovp-neu",
     "price": 11.2,
     "title": "Lego 10782 OVP neu",
@@ -16,6 +18,7 @@
     "id": 5222425221
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5396782884-lego-marvel-spidey-10782",
     "price": 7,
     "title": "Lego Marvel spidey 10782",
@@ -24,6 +27,7 @@
     "id": 5396782884
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5239992349-lego-spiderman-10782",
     "price": 11.2,
     "title": "Lego spiderman 10782",
@@ -32,22 +36,7 @@
     "id": 5239992349
   },
   {
-    "link": "https://www.vinted.fr/items/5297117892-lego-10782-spider-man-drilboorvoertuig",
-    "price": 9.1,
-    "title": "Lego 10782 Spider-man Drilboorvoertuig",
-    "imgUrl": "https://images1.vinted.net/t/02_00b98_mzxy2dEZQSQMsmPWTCrAUJDQ/f800/1730203292.jpeg?s=1b85f24e733027437b5bc7e01668c7d4b28d2c25",
-    "publicationDate": 1730203292,
-    "id": 5297117892
-  },
-  {
-    "link": "https://www.vinted.fr/items/5351587238-lego-marvel-spidey-amazing-friends",
-    "price": 11.2,
-    "title": "Lego Marvel Spidey Amazing Friends",
-    "imgUrl": "https://images1.vinted.net/t/04_01cc4_Wjak9koFwYUKby5pDkusvaoT/f800/1731150773.jpeg?s=ed6da7d9e70a5d8964913afe4b1bd6ff58a7e86c",
-    "publicationDate": 1731150773,
-    "id": 5351587238
-  },
-  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/4910527680-lego-10782-neuf-marvel-hulk-contre-le-rhino",
     "price": 16.45,
     "title": "Lego 10782 NEUF marvel : hulk contre le rhino",
@@ -56,6 +45,25 @@
     "id": 4910527680
   },
   {
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/5351587238-lego-marvel-spidey-amazing-friends",
+    "price": 11.2,
+    "title": "Lego Marvel Spidey Amazing Friends",
+    "imgUrl": "https://images1.vinted.net/t/04_01cc4_Wjak9koFwYUKby5pDkusvaoT/f800/1731150773.jpeg?s=ed6da7d9e70a5d8964913afe4b1bd6ff58a7e86c",
+    "publicationDate": 1731150773,
+    "id": 5351587238
+  },
+  {
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/5297117892-lego-10782-spider-man-drilboorvoertuig",
+    "price": 9.1,
+    "title": "Lego 10782 Spider-man Drilboorvoertuig",
+    "imgUrl": "https://images1.vinted.net/t/02_00b98_mzxy2dEZQSQMsmPWTCrAUJDQ/f800/1730203292.jpeg?s=1b85f24e733027437b5bc7e01668c7d4b28d2c25",
+    "publicationDate": 1730203292,
+    "id": 5297117892
+  },
+  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5204753738-notices-lego-infinity-saga-marvel-wolverine-spidey-avengers",
     "price": 5.85,
     "title": "Notices Lego Infinity saga Marvel Wolverine spidey avengers",
@@ -64,6 +72,7 @@
     "id": 5204753738
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5254568412-lego-10782-hulk-vs-rhino-truck-showdown",
     "price": 15.4,
     "title": "Lego 10782 hulk vs rhino truck showdown",
@@ -72,14 +81,7 @@
     "id": 5254568412
   },
   {
-    "link": "https://www.vinted.fr/items/5338748683-lego-marvel-amazing-spider-man-10782",
-    "price": 9.1,
-    "title": "Lego Marvel Amazing Spider man 10782",
-    "imgUrl": "https://images1.vinted.net/t/02_00052_kxzQE6xd4dnQmi5KHK1kdRAM/f800/1730902757.jpeg?s=9e44cc526690718d74fe3a9c0dedaf74a5713ea6",
-    "publicationDate": 1730902757,
-    "id": 5338748683
-  },
-  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5373448496-lego-spidey-amazing-10782",
     "price": 11.2,
     "title": "Lego spidey amazing 10782",
@@ -88,6 +90,16 @@
     "id": 5373448496
   },
   {
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/5338748683-lego-marvel-amazing-spider-man-10782",
+    "price": 9.1,
+    "title": "Lego Marvel Amazing Spider man 10782",
+    "imgUrl": "https://images1.vinted.net/t/02_00052_kxzQE6xd4dnQmi5KHK1kdRAM/f800/1730902757.jpeg?s=9e44cc526690718d74fe3a9c0dedaf74a5713ea6",
+    "publicationDate": 1730902757,
+    "id": 5338748683
+  },
+  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5125836819-lego-marvel-10782",
     "price": 10.15,
     "title": "Lego marvel 10782",
@@ -96,6 +108,7 @@
     "id": 5125836819
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5388216062-lego-10782-marvel-le-combat-des-camions-hulk-contre-le-rhino",
     "price": 11.2,
     "title": "Lego 10782 Marvel Le combat des camions, Hulk contre le Rhino",
@@ -104,22 +117,7 @@
     "id": 5388216062
   },
   {
-    "link": "https://www.vinted.fr/items/5396019300-10782-lego-marvel-spidey-amazing-friends",
-    "price": 11.2,
-    "title": "10782 Lego Marvel Spidey Amazing Friends",
-    "imgUrl": "https://images1.vinted.net/t/03_015cf_aL6YdJDXjRpbfE6pFDqh1TYY/f800/1731842359.jpeg?s=858b64d43fe6607ccd974f062cd5d3040b9a366e",
-    "publicationDate": 1731842359,
-    "id": 5396019300
-  },
-  {
-    "link": "https://www.vinted.fr/items/5274206153-lego-marvel-spidey-amazing-friends-hulk-vs-rhino-truck-showdown-10782",
-    "price": 14.35,
-    "title": "LEGO Marvel Spidey Amazing Friends Hulk vs. Rhino Truck Showdown (10782)",
-    "imgUrl": "https://images1.vinted.net/t/04_023a3_rUeq9WhFZ8CJ9wMxZzWxEaZo/f800/1729848177.jpeg?s=4f85470377f7c2db949a18675ef2022dbdf71617",
-    "publicationDate": 1729848177,
-    "id": 5274206153
-  },
-  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5168429195-lego-marvel-spidey",
     "price": 10.15,
     "title": "Lego marvel Spidey",
@@ -128,6 +126,7 @@
     "id": 5168429195
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5354563999-lego-marvel-10782-spidey-and-his-amazing-friends-hulk-vs-rhino-truck-showdown",
     "price": 17.5,
     "title": "Lego marvel 10782 spidey and his amazing friends Hulk vs. Rhino Truck Showdown",
@@ -136,6 +135,25 @@
     "id": 5354563999
   },
   {
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/5274206153-lego-marvel-spidey-amazing-friends-hulk-vs-rhino-truck-showdown-10782",
+    "price": 14.35,
+    "title": "LEGO Marvel Spidey Amazing Friends Hulk vs. Rhino Truck Showdown (10782)",
+    "imgUrl": "https://images1.vinted.net/t/04_023a3_rUeq9WhFZ8CJ9wMxZzWxEaZo/f800/1729848177.jpeg?s=4f85470377f7c2db949a18675ef2022dbdf71617",
+    "publicationDate": 1729848177,
+    "id": 5274206153
+  },
+  {
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/5396019300-10782-lego-marvel-spidey-amazing-friends",
+    "price": 11.2,
+    "title": "10782 Lego Marvel Spidey Amazing Friends",
+    "imgUrl": "https://images1.vinted.net/t/03_015cf_aL6YdJDXjRpbfE6pFDqh1TYY/f800/1731842359.jpeg?s=858b64d43fe6607ccd974f062cd5d3040b9a366e",
+    "publicationDate": 1731842359,
+    "id": 5396019300
+  },
+  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5378375308-lego-marvel-10782-hulk-vs-rhyno-truck-showdown",
     "price": 19.6,
     "title": "Lego Marvel 10782 Hulk vs rhyno truck showdown",
@@ -144,6 +162,7 @@
     "id": 5378375308
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5173654291-2-legos-avengers",
     "price": 11.2,
     "title": "2 legos avengers",
@@ -152,6 +171,7 @@
     "id": 5173654291
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/4177319319-lego-marvel-10782-hulk-vs-rhino",
     "price": 16.45,
     "title": "Lego Marvel 10782 - Hulk vs Rhino",
@@ -160,14 +180,7 @@
     "id": 4177319319
   },
   {
-    "link": "https://www.vinted.fr/items/5322693500-lego-spidey-10782",
-    "price": 7,
-    "title": "LEGO spidey 10782",
-    "imgUrl": "https://images1.vinted.net/t/03_01abe_p4y5gh4THumiVQJoLZevz7pw/f800/1730640369.jpeg?s=4364f3c00873cbe2adb1f8435429a60f39261343",
-    "publicationDate": 1730640369,
-    "id": 5322693500
-  },
-  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/4294808652-lego-10782-incomplet",
     "price": 4.38,
     "title": "Lego 10782 incomplet ",
@@ -176,6 +189,16 @@
     "id": 4294808652
   },
   {
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/5322693500-lego-spidey-10782",
+    "price": 7,
+    "title": "LEGO spidey 10782",
+    "imgUrl": "https://images1.vinted.net/t/03_01abe_p4y5gh4THumiVQJoLZevz7pw/f800/1730640369.jpeg?s=4364f3c00873cbe2adb1f8435429a60f39261343",
+    "publicationDate": 1730640369,
+    "id": 5322693500
+  },
+  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/4307771282-lego-7627-10782-76195",
     "price": 19.6,
     "title": "Lego 7627, 10782, 76195 ",
@@ -184,6 +207,7 @@
     "id": 4307771282
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5145905676-lego-marvel-spidey-10782",
     "price": 16.45,
     "title": "Lego Marvel Spidey 10782",
@@ -192,30 +216,7 @@
     "id": 5145905676
   },
   {
-    "link": "https://www.vinted.fr/items/5224402358-lego-figurine-hulk-smile-grin-10782-marvel-super-heroes",
-    "price": 9.1,
-    "title": "Lego figurine Hulk - Smile Grin 10782 Marvel Super Heroes",
-    "imgUrl": "https://images1.vinted.net/t/02_01f4f_dVLqk4m7KQhQatBZXPWgzd2X/f800/1729022736.jpeg?s=884d8af542496e3d9d9eed55eb00ebb4602d4b50",
-    "publicationDate": 1729022736,
-    "id": 5224402358
-  },
-  {
-    "link": "https://www.vinted.fr/items/4990996318-libretto-di-istruzioni-lego-10782",
-    "price": 2.8,
-    "title": "Libretto di istruzioni - Lego 10782",
-    "imgUrl": "https://images1.vinted.net/t/02_006fa_aZANj81XLWw5QmJAdGGyWQD9/f800/1725541127.jpeg?s=5b99e21123a15ff418686c687429fe2abaf4cc28",
-    "publicationDate": 1725541127,
-    "id": 4990996318
-  },
-  {
-    "link": "https://www.vinted.fr/items/5230897616-set-lego-spidey-10782",
-    "price": 13.3,
-    "title": "Set Lego Spidey 10782",
-    "imgUrl": "https://images1.vinted.net/t/03_02401_S5u5gJczxBTXnZKxVvAGNkAq/f800/1729155121.jpeg?s=7e3bd0880fbe23e99c7eb469c79be17b526f6248",
-    "publicationDate": 1729155121,
-    "id": 5230897616
-  },
-  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/4450588579-lego-10782-instrucciones-spider-man-hulk-y-rino",
     "price": 1.75,
     "title": "LEGO 10782 Instrucciones Spider-Man, Hulk y Rino",
@@ -224,6 +225,34 @@
     "id": 4450588579
   },
   {
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/5224402358-lego-figurine-hulk-smile-grin-10782-marvel-super-heroes",
+    "price": 9.1,
+    "title": "Lego figurine Hulk - Smile Grin 10782 Marvel Super Heroes",
+    "imgUrl": "https://images1.vinted.net/t/02_01f4f_dVLqk4m7KQhQatBZXPWgzd2X/f800/1729022736.jpeg?s=884d8af542496e3d9d9eed55eb00ebb4602d4b50",
+    "publicationDate": 1729022736,
+    "id": 5224402358
+  },
+  {
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/4990996318-libretto-di-istruzioni-lego-10782",
+    "price": 2.8,
+    "title": "Libretto di istruzioni - Lego 10782",
+    "imgUrl": "https://images1.vinted.net/t/02_006fa_aZANj81XLWw5QmJAdGGyWQD9/f800/1725541127.jpeg?s=5b99e21123a15ff418686c687429fe2abaf4cc28",
+    "publicationDate": 1725541127,
+    "id": 4990996318
+  },
+  {
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/5230897616-set-lego-spidey-10782",
+    "price": 13.3,
+    "title": "Set Lego Spidey 10782",
+    "imgUrl": "https://images1.vinted.net/t/03_02401_S5u5gJczxBTXnZKxVvAGNkAq/f800/1729155121.jpeg?s=7e3bd0880fbe23e99c7eb469c79be17b526f6248",
+    "publicationDate": 1729155121,
+    "id": 5230897616
+  },
+  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5326891739-lego-10782-superhelden-hulk-vs-rhino-truck-showdown",
     "price": 16.45,
     "title": "Lego 10782 - Superhelden - Hulk vs. Rhino Truck Showdown",
@@ -232,14 +261,7 @@
     "id": 5326891739
   },
   {
-    "link": "https://www.vinted.fr/items/5354718881-lego-set-10782-rhino-und-hulk",
-    "price": 14.88,
-    "title": "Lego Set 10782  Rhino und Hulk",
-    "imgUrl": "https://images1.vinted.net/t/04_004d0_BA9JBTv9LNMg14BaYiYeLoy8/f800/1731177525.jpeg?s=42c7ec62ab3dd436a4e3cbb2db2d5ac75658ed16",
-    "publicationDate": 1731177525,
-    "id": 5354718881
-  },
-  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/4068365032-lego-10782",
     "price": 14.88,
     "title": "Lego 10782",
@@ -248,14 +270,16 @@
     "id": 4068365032
   },
   {
-    "link": "https://www.vinted.fr/items/5064143444-lego-marvel-spiderman-hulk-vs-rhino-truck-showdown-10782",
-    "price": 19.6,
-    "title": "Lego Marvel Spiderman Hulk vs. Rhino Truck Showdown 10782",
-    "imgUrl": "https://images1.vinted.net/t/03_00c4e_1Wo6NRr6ryKQx5Jn9Mb3TMz7/f800/1726642118.jpeg?s=371b47d59a9aa42e16efe637d57bafa3dc05da7c",
-    "publicationDate": 1726642118,
-    "id": 5064143444
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/5354718881-lego-set-10782-rhino-und-hulk",
+    "price": 14.88,
+    "title": "Lego Set 10782  Rhino und Hulk",
+    "imgUrl": "https://images1.vinted.net/t/04_004d0_BA9JBTv9LNMg14BaYiYeLoy8/f800/1731177525.jpeg?s=42c7ec62ab3dd436a4e3cbb2db2d5ac75658ed16",
+    "publicationDate": 1731177525,
+    "id": 5354718881
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5354477571-lego-10782-spider-man",
     "price": 17.5,
     "title": "Lego 10782 Spider man",
@@ -264,6 +288,16 @@
     "id": 5354477571
   },
   {
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/5064143444-lego-marvel-spiderman-hulk-vs-rhino-truck-showdown-10782",
+    "price": 19.6,
+    "title": "Lego Marvel Spiderman Hulk vs. Rhino Truck Showdown 10782",
+    "imgUrl": "https://images1.vinted.net/t/03_00c4e_1Wo6NRr6ryKQx5Jn9Mb3TMz7/f800/1726642118.jpeg?s=371b47d59a9aa42e16efe637d57bafa3dc05da7c",
+    "publicationDate": 1726642118,
+    "id": 5064143444
+  },
+  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/3872559665-lego-10782-spidey-friends",
     "price": 19.6,
     "title": "Lego 10782 Spidey & Friends ",
@@ -272,30 +306,7 @@
     "id": 3872559665
   },
   {
-    "link": "https://www.vinted.fr/items/5326119946-lego-10782-et-76287",
-    "price": 23.8,
-    "title": "Lego 10782 et 76287",
-    "imgUrl": "https://images1.vinted.net/t/04_0217c_sMsjfoSvNeedysdTs4KhJRvu/f800/1730663124.jpeg?s=aea2139ce77c0bd7b7fc29b1385129cd1a8484a7",
-    "publicationDate": 1730663124,
-    "id": 5326119946
-  },
-  {
-    "link": "https://www.vinted.fr/items/5058573527-lego-10782-hulk-vs-rhino-truck-shodown",
-    "price": 21.7,
-    "title": "Lego 10782 Hulk vs Rhino truck shodown",
-    "imgUrl": "https://images1.vinted.net/t/03_020fd_nvRrzsQDznf6KiiQbCB86dQV/f800/1726526806.jpeg?s=17dd3efd5b2b99457cbd1de13fc8bc236c90e792",
-    "publicationDate": 1726526806,
-    "id": 5058573527
-  },
-  {
-    "link": "https://www.vinted.fr/items/4798722420-lego-10782",
-    "price": 16.45,
-    "title": "Lego 10782",
-    "imgUrl": "https://images1.vinted.net/t/03_01ed2_NaZgGMmikmYZQyt2Q2uDf9uY/f800/1721730921.jpeg?s=9b94855c2915810e37a0ac7207ac2776dae0612f",
-    "publicationDate": 1721730921,
-    "id": 4798722420
-  },
-  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5033279002-lego-10782-hulks-und-rhinos-monster-truck-duell",
     "price": 13.3,
     "title": "Lego 10782 Hulks und Rhinos Monster Truck Duell",
@@ -304,6 +315,34 @@
     "id": 5033279002
   },
   {
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/5058573527-lego-10782-hulk-vs-rhino-truck-shodown",
+    "price": 21.7,
+    "title": "Lego 10782 Hulk vs Rhino truck shodown",
+    "imgUrl": "https://images1.vinted.net/t/03_020fd_nvRrzsQDznf6KiiQbCB86dQV/f800/1726526806.jpeg?s=17dd3efd5b2b99457cbd1de13fc8bc236c90e792",
+    "publicationDate": 1726526806,
+    "id": 5058573527
+  },
+  {
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/4798722420-lego-10782",
+    "price": 16.45,
+    "title": "Lego 10782",
+    "imgUrl": "https://images1.vinted.net/t/03_01ed2_NaZgGMmikmYZQyt2Q2uDf9uY/f800/1721730921.jpeg?s=9b94855c2915810e37a0ac7207ac2776dae0612f",
+    "publicationDate": 1721730921,
+    "id": 4798722420
+  },
+  {
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/5326119946-lego-10782-et-76287",
+    "price": 23.8,
+    "title": "Lego 10782 et 76287",
+    "imgUrl": "https://images1.vinted.net/t/04_0217c_sMsjfoSvNeedysdTs4KhJRvu/f800/1730663124.jpeg?s=aea2139ce77c0bd7b7fc29b1385129cd1a8484a7",
+    "publicationDate": 1730663124,
+    "id": 5326119946
+  },
+  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/4061599978-lego-super-heroes-10782",
     "price": 13.83,
     "title": "Lego Super Heroes 10782",
@@ -312,6 +351,7 @@
     "id": 4061599978
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/4546991712-lego-10782-spidey-amazing-friends",
     "price": 19.08,
     "title": "Lego 10782 - Spidey amazing friends",
@@ -320,6 +360,7 @@
     "id": 4546991712
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/4277814789-lego-marvel-spidey",
     "price": 26.95,
     "title": "Lego marvel spidey ",
@@ -328,6 +369,7 @@
     "id": 4277814789
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/3084652194-lego-misb-hulk-10782",
     "price": 32.2,
     "title": "Lego MISB Hulk 10782",
@@ -336,6 +378,7 @@
     "id": 3084652194
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/4386196658-lego-10782-hulk-vs-rhino-truck-showdown",
     "price": 19.08,
     "title": "LEGO 10782 Hulk vs. Rhino Truck Showdown",
@@ -344,6 +387,7 @@
     "id": 4386196658
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/4554733993-lego-spidey-10782",
     "price": 11.2,
     "title": "Lego spidey 10782",
@@ -352,6 +396,7 @@
     "id": 4554733993
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5382221965-lego-spidey-set-nr-10782",
     "price": 16.45,
     "title": "Lego Spidey Set Nr. 10782",
@@ -360,6 +405,7 @@
     "id": 5382221965
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/4174305462-lego-76172-und-10782",
     "price": 16.45,
     "title": "Lego 76172 und 10782",
@@ -368,6 +414,7 @@
     "id": 4174305462
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5224654505-lego-10782-marvel-spidey-and-his-amazing-friends",
     "price": 21.7,
     "title": "Lego 10782 Marvel Spidey and his amazing friends",
@@ -376,6 +423,7 @@
     "id": 5224654505
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/2455449390-lego-10782-marvel-spidey-et-ses-amis-extraordinaires",
     "price": 25.9,
     "title": "LEGO 10782 Marvel Spidey et Ses Amis Extraordinaires",
@@ -384,6 +432,7 @@
     "id": 2455449390
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/3723562502-lego-part-47753pr0023",
     "price": 1.75,
     "title": "LEGO part 47753pr0023",
@@ -392,6 +441,7 @@
     "id": 3723562502
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/2700205291-lego-10782-marvel-spidey-et-ses-amis-extraordinaires",
     "price": 23.8,
     "title": "LEGO 10782 Marvel Spidey et Ses Amis Extraordinaires",
@@ -400,6 +450,7 @@
     "id": 2700205291
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/2473685494-lego-10782-hulk-vs-rhino-truck-showdown",
     "price": 22.75,
     "title": "Lego 10782 Hulk vs. Rhino Truck Showdown",
@@ -408,6 +459,7 @@
     "id": 2473685494
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5323897915-lego-spidey-amazing-friends-10782",
     "price": 16.45,
     "title": "Lego spidey amazing friends 10782",
@@ -416,6 +468,7 @@
     "id": 5323897915
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5365673699-lego-marvel-10782-spidey-amazing-friends-hulk-vs-rhino-truck-showdown",
     "price": 32.2,
     "title": "Lego Marvel 10782 - Spidey Amazing Friends - Hulk vs Rhino Truck Showdown",
@@ -424,6 +477,7 @@
     "id": 5365673699
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5213528126-set-lego",
     "price": 58.45,
     "title": "Set Lego",
@@ -432,6 +486,7 @@
     "id": 5213528126
   },
   {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/3969863584-lego-10782-spidey-amazing-friends",
     "price": 22.75,
     "title": "Lego 10782 spidey amazing friends",
@@ -440,19 +495,21 @@
     "id": 3969863584
   },
   {
-    "link": "https://www.vinted.fr/items/4951813456-grande-lotto-mix-vari-set-lego",
-    "price": 95.2,
-    "title": "Grande lotto mix vari set Lego!",
-    "imgUrl": "https://images1.vinted.net/t/03_00273_BRYRbRUQQdRTZ9L351Gzvjfu/f800/1724847089.jpeg?s=39a9eeed3d69a0b92bfc5ea6e209e1fc6ed88575",
-    "publicationDate": 1724847089,
-    "id": 4951813456
-  },
-  {
+    "legoId": "10782",
     "link": "https://www.vinted.fr/items/5385010382-gros-lot-lego",
     "price": 158.2,
     "title": "Gros lot Lego",
     "imgUrl": "https://images1.vinted.net/t/04_026cd_uLoajVLQQ2erKhKbekqR6Nbx/f800/1731664179.jpeg?s=2775f8530c7bbc4629e668168635917cb69cd150",
     "publicationDate": 1731664179,
     "id": 5385010382
+  },
+  {
+    "legoId": "10782",
+    "link": "https://www.vinted.fr/items/4951813456-grande-lotto-mix-vari-set-lego",
+    "price": 95.2,
+    "title": "Grande lotto mix vari set Lego!",
+    "imgUrl": "https://images1.vinted.net/t/03_00273_BRYRbRUQQdRTZ9L351Gzvjfu/f800/1724847089.jpeg?s=39a9eeed3d69a0b92bfc5ea6e209e1fc6ed88575",
+    "publicationDate": 1724847089,
+    "id": 4951813456
   }
 ]

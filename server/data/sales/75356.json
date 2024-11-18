@@ -1,13 +1,6 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5331967513-lego-75356-so-a-caixa",
-    "price": 13.3,
-    "title": "LEGO 75356 (só a caixa)",
-    "imgUrl": "https://images1.vinted.net/t/04_0134d_BgyagBToTc89Wn6QBUR9rGoM/f800/1730761265.jpeg?s=533847713dea4c57d36c2572a9e7519c5213ae0e",
-    "publicationDate": 1730761265,
-    "id": 5331967513
-  },
-  {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/5382647099-lego-75356-executor-superstar-destroyer",
     "price": 47.95,
     "title": "Lego 75356 executor superstar destroyer",
@@ -16,6 +9,16 @@
     "id": 5382647099
   },
   {
+    "legoId": "75356",
+    "link": "https://www.vinted.fr/items/5331967513-lego-75356-so-a-caixa",
+    "price": 13.3,
+    "title": "LEGO 75356 (só a caixa)",
+    "imgUrl": "https://images1.vinted.net/t/04_0134d_BgyagBToTc89Wn6QBUR9rGoM/f800/1730761265.jpeg?s=533847713dea4c57d36c2572a9e7519c5213ae0e",
+    "publicationDate": 1730761265,
+    "id": 5331967513
+  },
+  {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/4692443220-lot-de-boite-et-notice-lego-star-wars",
     "price": 21.7,
     "title": "Lot de boîte et notice lego star wars",
@@ -24,6 +27,7 @@
     "id": 4692443220
   },
   {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/5372916430-lego-star-wars-75356-le-super-destroyer-stellaire-de-classe-executor-neuf",
     "price": 68.95,
     "title": "Lego star wars 75356 le super destroyer stellaire de classe executor neuf!",
@@ -32,6 +36,7 @@
     "id": 5372916430
   },
   {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/5378563134-lego-75356-le-star-destroyer",
     "price": 42.7,
     "title": "Lego 75356 le star destroyer",
@@ -40,6 +45,7 @@
     "id": 5378563134
   },
   {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/5121523278-75356-lego-star-wars",
     "price": 59.5,
     "title": "75356 lego star wars",
@@ -48,6 +54,7 @@
     "id": 5121523278
   },
   {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/5393723480-lego-star-wars-75356-le-super-destroyer-stellaire-de-classe-executor",
     "price": 58.45,
     "title": "Lego Star Wars 75356 Le Super Destroyer Stellaire de classe Executor",
@@ -56,14 +63,7 @@
     "id": 5393723480
   },
   {
-    "link": "https://www.vinted.fr/items/5384362786-lego-75356",
-    "price": 84.7,
-    "title": "Lego 75356",
-    "imgUrl": "https://images1.vinted.net/t/04_01a32_nCZZyZVtaYt3Xv9xzGsJnw5F/f800/1731631545.jpeg?s=d0fd23805c21f9e3249c32669ce5d0f5f5717a9e",
-    "publicationDate": 1731631545,
-    "id": 5384362786
-  },
-  {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/5380973418-lego-star-wars-imperial-super-star-destroyer",
     "price": 108.85,
     "title": "Lego Star Wars impérial Super star Destroyer",
@@ -72,6 +72,16 @@
     "id": 5380973418
   },
   {
+    "legoId": "75356",
+    "link": "https://www.vinted.fr/items/5384362786-lego-75356",
+    "price": 84.7,
+    "title": "Lego 75356",
+    "imgUrl": "https://images1.vinted.net/t/04_01a32_nCZZyZVtaYt3Xv9xzGsJnw5F/f800/1731631545.jpeg?s=d0fd23805c21f9e3249c32669ce5d0f5f5717a9e",
+    "publicationDate": 1731631545,
+    "id": 5384362786
+  },
+  {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/4400315005-lego-75356-executor-super-star-destroyer",
     "price": 74.2,
     "title": "Lego 75356 Executor Super Star Destroyer",
@@ -80,6 +90,7 @@
     "id": 4400315005
   },
   {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/5188297721-set-lego-star-wars-ndeg-75356-executor-super-star-destroyer-scellesealed",
     "price": 69.99,
     "title": "Set Lego Star Wars n° 75356 : Executor Super Star Destroyer scellé/sealed",
@@ -88,6 +99,7 @@
     "id": 5188297721
   },
   {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/4914588490-lego-executor-super-star-destroyer-75356",
     "price": 73.68,
     "title": "Lego Executor Super Star Destroyer 75356",
@@ -96,6 +108,7 @@
     "id": 4914588490
   },
   {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/5058320893-lego-executor-super-star-destroyer-set-75356",
     "price": 68.95,
     "title": "Lego Executor Super Star Destroyer set 75356",
@@ -104,6 +117,7 @@
     "id": 5058320893
   },
   {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/3869526171-lego-star-wars-75356-le-super-destroyer-stellaire",
     "price": 79.45,
     "title": "LEGO Star Wars 75356 Le Super Destroyer Stellaire ",
@@ -112,6 +126,7 @@
     "id": 3869526171
   },
   {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/4531076574-lego-75356-super-star-destroyer",
     "price": 68.95,
     "title": "Lego 75356 super star destroyer",
@@ -120,6 +135,7 @@
     "id": 4531076574
   },
   {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/5121692902-lego-75356",
     "price": 80.5,
     "title": "Lego 75356",
@@ -128,14 +144,7 @@
     "id": 5121692902
   },
   {
-    "link": "https://www.vinted.fr/items/2979991556-lego-75356-executor-super-destroyer",
-    "price": 105.7,
-    "title": "Lego 75356 executor super destroyer",
-    "imgUrl": "https://images1.vinted.net/t/02_00e2e_kryz33HiYZEFceySWTvr1qrK/f800/1683215258.jpeg?s=eef8d4154734b83ade5ed75e4a34dcd793b8515e",
-    "publicationDate": 1683215258,
-    "id": 2979991556
-  },
-  {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/3972421804-lego-star-wars-le-super-destroyer-stellaire-de-classe-executor",
     "price": 94.15,
     "title": "LEGO Star Wars Le Super Destroyer Stellaire de classe Executor",
@@ -144,6 +153,16 @@
     "id": 3972421804
   },
   {
+    "legoId": "75356",
+    "link": "https://www.vinted.fr/items/2979991556-lego-75356-executor-super-destroyer",
+    "price": 105.7,
+    "title": "Lego 75356 executor super destroyer",
+    "imgUrl": "https://images1.vinted.net/t/02_00e2e_kryz33HiYZEFceySWTvr1qrK/f800/1683215258.jpeg?s=eef8d4154734b83ade5ed75e4a34dcd793b8515e",
+    "publicationDate": 1683215258,
+    "id": 2979991556
+  },
+  {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/4360578594-lego-75356-star-destroyer-star-wars",
     "price": 95.2,
     "title": "Lego 75356 - Star destroyer star wars",
@@ -152,6 +171,7 @@
     "id": 4360578594
   },
   {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/3662245536-lego-star-wars-75256-new-in-box",
     "price": 87.85,
     "title": "Lego Star Wars 75256 new in box",
@@ -160,6 +180,7 @@
     "id": 3662245536
   },
   {
+    "legoId": "75356",
     "link": "https://www.vinted.fr/items/4631337502-lego-star-wars-einzel-kauf-moglich",
     "price": 1020,
     "title": "Lego Star Wars Einzel Kauf möglich",
