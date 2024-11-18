@@ -1,26 +1,34 @@
 [
   {
     "link": "https://www.vinted.fr/items/5398863868-lego-31213",
-    "price": null,
+    "price": 74.2,
     "title": "Lego 31213",
     "imgUrl": "https://images1.vinted.net/t/04_002e1_bQnxhFvNysHE5gSo6wMfaoFL/f800/1731858293.jpeg?s=27bafdf8f3cd248def59fe293fa02805d1685b60",
     "publicationDate": 1731858293,
     "id": 5398863868
   },
   {
+    "link": "https://www.vinted.fr/items/5361557917-lego-mona-lisa-31213-new",
+    "price": 89.95,
+    "title": "Lego Mona lisa 31213 New",
+    "imgUrl": "https://images1.vinted.net/t/04_00264_LXMUg4PEWY4Dhx2CVmKRjM5z/f800/1731264745.jpeg?s=aa623728df5b9d2e953412eb8bd7a056ce1117c0",
+    "publicationDate": 1731264745,
+    "id": 5361557917
+  },
+  {
     "link": "https://www.vinted.fr/items/5374736346-lego-gioconda-31213-nuovo",
-    "price": null,
+    "price": 89.95,
     "title": "LEGO Gioconda 31213 nuovo",
     "imgUrl": "https://images1.vinted.net/t/02_01cc8_SoSTEWNScSgcPguHt23LoVTg/f800/1731485382.jpeg?s=cdcdf0412e8e7434b03d61def55f84ea5ec3518c",
     "publicationDate": 1731485382,
     "id": 5374736346
   },
   {
-    "link": "https://www.vinted.fr/items/5361557917-lego-mona-lisa-31213-new",
-    "price": null,
-    "title": "Lego Mona lisa 31213 New",
-    "imgUrl": "https://images1.vinted.net/t/04_00264_LXMUg4PEWY4Dhx2CVmKRjM5z/f800/1731264745.jpeg?s=aa623728df5b9d2e953412eb8bd7a056ce1117c0",
-    "publicationDate": 1731264745,
-    "id": 5361557917
+    "link": "https://www.vinted.fr/items/3816310773-lego-duplo-vintage-cute-animals-snail-turtle-2297",
+    "price": 21.7,
+    "title": "Lego Duplo Vintage Cute Animals Snail / Turtle 2297",
+    "imgUrl": "https://images1.vinted.net/t/02_01596_ejWh3ejhLS7kFUUn5k184qXS/f800/1701087415.jpeg?s=0b9171c34ffbd081b554abc3d1acd3678b321a87",
+    "publicationDate": 1701087415,
+    "id": 3816310773
   }
 ]

@@ -1,7 +1,15 @@
 [
   {
+    "link": "https://www.vinted.fr/items/3471595220-lego-lot-96-angle-133-deg",
+    "price": 2.28,
+    "title": "Lego lot 96 angle 133 deg",
+    "imgUrl": "https://images1.vinted.net/t/03_0103c_SV9dpCSL5M1qGVTXwuctWCkv/f800/1694689216.jpeg?s=f1ea17f62f65c1c78174eb69eddb52dd610fcae0",
+    "publicationDate": 1694689216,
+    "id": 3471595220
+  },
+  {
     "link": "https://www.vinted.fr/items/5091013043-supporto-da-muro-per-lego-peugeot",
-    "price": null,
+    "price": 7,
     "title": "Supporto da muro per lego Peugeot",
     "imgUrl": "https://images1.vinted.net/t/02_024a0_2caXfimoa12uWHggNfNaXwtn/f800/1727028413.jpeg?s=279fa393fe2d3a869db21c20a7aa44c5d5daf243",
     "publicationDate": 1727028413,
@@ -9,15 +17,39 @@
   },
   {
     "link": "https://www.vinted.fr/items/5040507167-support-pour-lego-technic-42056",
-    "price": null,
+    "price": 11.2,
     "title": "Support pour lego technic 42056",
     "imgUrl": "https://images1.vinted.net/t/01_02274_DiQ5kevgEpwjUJ8HGrU8LgAa/f800/1726312744.jpeg?s=43f5b2ab8a064880d06394519e8b7e03f2170354",
     "publicationDate": 1726312744,
     "id": 5040507167
   },
   {
+    "link": "https://www.vinted.fr/items/5332182457-boite-lego-42156-vide",
+    "price": 53.2,
+    "title": "Boite LEGO 42156 vide",
+    "imgUrl": "https://images1.vinted.net/t/02_01fbb_1mSJv2ojWvMgeKV6qYRHCCoK/f800/1730790556.jpeg?s=0796badaf3c72ea13d99d1c22c0fb92b568d2bcf",
+    "publicationDate": 1730790556,
+    "id": 5332182457
+  },
+  {
+    "link": "https://www.vinted.fr/items/4252831642-lego-pieces-ref-42156-42127-49155-42128-42155-59443-41488-42134",
+    "price": 4.69,
+    "title": "Lego pieces réf 42156, 42127, 49155, 42128, 42155, 59443, 41488, 42134",
+    "imgUrl": "https://images1.vinted.net/t/03_01bf6_aUftAe1wf48WqWeBngN8sACV/f800/1711026198.jpeg?s=e57340a92f7a0b5e87b19ba2bfd8685a188b58d9",
+    "publicationDate": 1711026198,
+    "id": 4252831642
+  },
+  {
+    "link": "https://www.vinted.fr/items/5377167034-peugeot-9x8",
+    "price": 95.2,
+    "title": "Peugeot 9X8",
+    "imgUrl": "https://images1.vinted.net/t/02_01e56_Y6ESSDcUMx6SvbXR1LMUK2Aa/f800/1731510626.jpeg?s=61ded6e7e81e7c15f856d2cc7cf806d7e44b1860",
+    "publicationDate": 1731510626,
+    "id": 5377167034
+  },
+  {
     "link": "https://www.vinted.fr/items/4897661715-lego-technic-peugeot-9x8-24h-le-mans-hybrid-hypercar-modelauto-bouwpakket-voor-volwassenen-42156",
-    "price": null,
+    "price": 126.7,
     "title": "LEGO Technic Peugeot 9X8 24H Le Mans Hybrid Hypercar Modelauto Bouwpakket voor Volwassenen - 42156",
     "imgUrl": "https://images1.vinted.net/t/03_01ff0_MaTuDZms4xs6cgCGP9qNu3ta/f800/1723894967.jpeg?s=cc3760cdfe3b3ef4712e067d697fe2313494eba9",
     "publicationDate": 1723894967,
@@ -25,23 +57,39 @@
   },
   {
     "link": "https://www.vinted.fr/items/5326866468-lego-technic-42156-peugeot-9x8-24h-le-mans-hybrid-hypercar",
-    "price": null,
+    "price": 142.44,
     "title": "Lego Technic 42156 Peugeot 9X8 24H Le Mans Hybrid Hypercar",
     "imgUrl": "https://images1.vinted.net/t/03_000d9_eq88pmT9zcUzh4TFsFymKnUp/f800/1730672736.jpeg?s=5abb819a976b35b8f48b400c99da9681496ce33c",
     "publicationDate": 1730672736,
     "id": 5326866468
   },
   {
+    "link": "https://www.vinted.fr/items/5398704778-lego-technic-peugeot-9x8-42156",
+    "price": 146.65,
+    "title": "Lego technic Peugeot 9x8 42156",
+    "imgUrl": "https://images1.vinted.net/t/04_00bda_WAXkA9maLUrzyfDCvtkmCDo3/f800/1731857428.jpeg?s=380ee445654fc4252e329107238e87a2459c4ee0",
+    "publicationDate": 1731857428,
+    "id": 5398704778
+  },
+  {
     "link": "https://www.vinted.fr/items/5387449467-lego-42156-peugeot-9x8-neuve-et-scellee",
-    "price": null,
+    "price": 158.2,
     "title": "Lego 42156 Peugeot 9X8 neuve et scellée",
     "imgUrl": "https://images1.vinted.net/t/01_0045e_h1HVcK8Fu2JvxXes87sNujia/f800/1731690995.jpeg?s=c32fe0fb078c5beb39c7220690e2f180a7d1d49f",
     "publicationDate": 1731690995,
     "id": 5387449467
   },
   {
+    "link": "https://www.vinted.fr/items/5390862974-lego-technique-peugeot-42156",
+    "price": 95.2,
+    "title": "Lego technique Peugeot 42156",
+    "imgUrl": "https://images1.vinted.net/t/03_005dc_tyKQ6iYwLLWh97tMoiBd2sxX/f800/1731762013.jpeg?s=6337210ff996dbd8081f3eb6c56a217cb4d32800",
+    "publicationDate": 1731762013,
+    "id": 5390862974
+  },
+  {
     "link": "https://www.vinted.fr/items/5375616748-lego-technic-peugeot-9x8",
-    "price": null,
+    "price": 205.45,
     "title": "LEGO Technic Peugeot 9x8",
     "imgUrl": "https://images1.vinted.net/t/03_01d4d_uzsWV4br4GFbCAjiycgyUReq/f800/1731496083.jpeg?s=c722731f2b103de087c5e1834db9e757a58b50a2",
     "publicationDate": 1731496083,
@@ -49,7 +97,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5397850222-42156-peugeot-lego",
-    "price": null,
+    "price": 157.15,
     "title": "42156 Peugeot lego",
     "imgUrl": "https://images1.vinted.net/t/03_00d90_a9pZbk7yGKtNmmg1VoBN4N4B/f800/1731852909.jpeg?s=3450d989b9253fd46237a963ac47a68fa6b73b87",
     "publicationDate": 1731852909,
@@ -57,7 +105,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5276646837-lego-technic-42156-peugeot-9x8",
-    "price": null,
+    "price": 146.65,
     "title": "Lego technic 42156 Peugeot 9x8",
     "imgUrl": "https://images1.vinted.net/t/04_00b94_nukfhQAihr7dBXNMutBmwv43/f800/1729873469.jpeg?s=1643a4d4ee98a0503216ce38235bdb9e1670d726",
     "publicationDate": 1729873469,
@@ -65,7 +113,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5322301850-lego-42156",
-    "price": null,
+    "price": 252.7,
     "title": "Lego 42156",
     "imgUrl": "https://images1.vinted.net/t/03_01d66_3xEWYdrQPg92zbpskJBorHBJ/f800/1730637955.jpeg?s=52e99cf3aba77c692f5eea1117946da0e5979d83",
     "publicationDate": 1730637955,
@@ -73,15 +121,23 @@
   },
   {
     "link": "https://www.vinted.fr/items/4950180032-lego-technic-42156-voiture-peugeot-24h-du-mans",
-    "price": null,
+    "price": 152.95,
     "title": "Lego technic 42156 voiture Peugeot 24h du mans",
     "imgUrl": "https://images1.vinted.net/t/02_01f08_JDididFrpkZvGSjESQhnHwtb/f800/1724824336.jpeg?s=5b35657c337118dccadc10fd06cea21e75944515",
     "publicationDate": 1724824336,
     "id": 4950180032
   },
   {
+    "link": "https://www.vinted.fr/items/5292953332-lego-icons-ayrton-senna-formule-1",
+    "price": 63.7,
+    "title": "Lego Icons Ayrton Senna Formule 1",
+    "imgUrl": "https://images1.vinted.net/t/04_01f82_ACjiuntKUAAZyt2HG8gj2Qns/f800/1730126704.jpeg?s=57181b478240f025cca455d8ca7251ce11795d21",
+    "publicationDate": 1730126704,
+    "id": 5292953332
+  },
+  {
     "link": "https://www.vinted.fr/items/5327241374-peugeot-9x8-lego-42156",
-    "price": null,
+    "price": 158.2,
     "title": "Peugeot 9X8 LEGO 42156",
     "imgUrl": "https://images1.vinted.net/t/04_0249d_cbJjoXoEd2HBSShwjfExascB/f800/1730706976.jpeg?s=f680d72239bdac6e2811ec73a03c60ee5be984c9",
     "publicationDate": 1730706976,
@@ -89,7 +145,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4668373356-support-pour-lego",
-    "price": null,
+    "price": 21.7,
     "title": "Support pour lego",
     "imgUrl": "https://images1.vinted.net/t/02_01ff2_Re2FmKpfjXhg6fqXysWGP5bd/f800/1722354424.jpeg?s=ee1e41c24a789b32314c656a7902583b963da677",
     "publicationDate": 1722354424,
@@ -97,7 +153,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5355330702-nieuw-lego-technic-42156-peugeot-9x8-24h-le-mans-hybride",
-    "price": null,
+    "price": 152.95,
     "title": "Nieuw! Lego Technic 42156 Peugeot 9x8 24h le mans hybride",
     "imgUrl": "https://images1.vinted.net/t/04_00e50_ChCAiMoESZvchEJu9wqpZc1C/f800/1731185852.jpeg?s=2e9bba9052f52958c978ad6ed4ae8d4dac7b6a07",
     "publicationDate": 1731185852,
@@ -105,7 +161,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5364873380-lego-42156",
-    "price": null,
+    "price": 155.05,
     "title": "Lego 42156",
     "imgUrl": "https://images1.vinted.net/t/04_01daf_BSUmTC9MrcSVrSQA5yxLBguS/f800/1731337991.jpeg?s=1b577920ba1d0cde4b94eed8b391d7052fb26575",
     "publicationDate": 1731337991,
@@ -113,15 +169,47 @@
   },
   {
     "link": "https://www.vinted.fr/items/5071091217-lego-set-42156-peugeot-9x8-24h-le-mans",
-    "price": null,
+    "price": 137.2,
     "title": "Lego set 42156 Peugeot 9X8 24h Le Mans",
     "imgUrl": "https://images1.vinted.net/t/03_005ce_YiS3PieSRvFaYT3H4S7EeJv6/f800/1726747281.jpeg?s=f59b4a41590ef6a0fe5f79982a48e3ea6f4bbac2",
     "publicationDate": 1726747281,
     "id": 5071091217
   },
   {
+    "link": "https://www.vinted.fr/items/5283842090-lego-peugeot-9x8-42156",
+    "price": 126.7,
+    "title": "Lego Peugeot 9x8 42156",
+    "imgUrl": "https://images1.vinted.net/t/03_01933_D87MvPhZP2Akov7XZGCe2sGk/f800/1730019520.jpeg?s=186174ba4566eb3f2a9c77a186301c06ebf077bd",
+    "publicationDate": 1730019520,
+    "id": 5283842090
+  },
+  {
+    "link": "https://www.vinted.fr/items/5384942367-lot-9-lego-technic",
+    "price": 897.6,
+    "title": "Lot 9 lego technic",
+    "imgUrl": "https://images1.vinted.net/t/03_014cb_Sxeu7b7NQ3gJvgy5PEz5Ce5H/f800/1731663333.jpeg?s=aa63a0408feb67351a31f79cab243e99c6f4ef97",
+    "publicationDate": 1731663333,
+    "id": 5384942367
+  },
+  {
+    "link": "https://www.vinted.fr/items/5396166843-lego-peugeot-le-mans-42156",
+    "price": 121.45,
+    "title": "LEGO Peugeot Le Mans 42156",
+    "imgUrl": "https://images1.vinted.net/t/01_00752_BmjRNMir2aiAwC1uwUWwKY6r/f800/1731853058.jpeg?s=704b526a4e38342e3299af6bc4595941c91566d4",
+    "publicationDate": 1731853058,
+    "id": 5396166843
+  },
+  {
+    "link": "https://www.vinted.fr/items/5274375812-lego-technic-peugeot-9x8-42156",
+    "price": 131.95,
+    "title": "Lego technic Peugeot 9X8 42156",
+    "imgUrl": "https://images1.vinted.net/t/04_004bd_my9s2tUZdJreare3jqcKLkSC/f800/1729849963.jpeg?s=d65c5d036b3476d4fb127a76a1b2d3ab9163d158",
+    "publicationDate": 1729849963,
+    "id": 5274375812
+  },
+  {
     "link": "https://www.vinted.fr/items/5375788037-lego-42156",
-    "price": null,
+    "price": 179.2,
     "title": "Lego 42156",
     "imgUrl": "https://images1.vinted.net/t/01_01018_SQPRMvQ4RP95JhXHe4faygYC/f800/1731497824.jpeg?s=0039782edb42531c170572a82833fddd2bb77880",
     "publicationDate": 1731497824,
@@ -129,39 +217,79 @@
   },
   {
     "link": "https://www.vinted.fr/items/5342247992-lego-42156-technic",
-    "price": null,
+    "price": 168.7,
     "title": "lego 42156 technic",
     "imgUrl": "https://images1.vinted.net/t/04_01cf8_jkghHofB9tHuWy5hewMPHgv2/f800/1730975252.jpeg?s=44153a4ed1be6de503ca6d9485ebbb45d02bd338",
     "publicationDate": 1730975252,
     "id": 5342247992
   },
   {
+    "link": "https://www.vinted.fr/items/5383728041-lego-technic-moto-yamaha-mt10",
+    "price": 147.7,
+    "title": "Lego Technic Moto Yamaha MT10",
+    "imgUrl": "https://images1.vinted.net/t/04_00e23_ruKhX4bK4S7PWbbg1iV7cZce/f800/1731615438.jpeg?s=3fa6cf4f1de9c3cb517a5a92d62f6f96f731f02b",
+    "publicationDate": 1731615438,
+    "id": 5383728041
+  },
+  {
     "link": "https://www.vinted.fr/items/5218966014-lego-peugeot-24h-le-mans-42156-neuf-sceller",
-    "price": null,
+    "price": 152.95,
     "title": "Lego Peugeot 24h Le Mans 42156 neuf sceller",
     "imgUrl": "https://images1.vinted.net/t/01_00ad3_NqBrSbScLRMPaKfrdBH8UMpp/f800/1728934259.jpeg?s=e4ba3a49ed04514608f49fbc56a8ddf6cdb81674",
     "publicationDate": 1728934259,
     "id": 5218966014
   },
   {
+    "link": "https://www.vinted.fr/items/5354853342-lego-technic-audi",
+    "price": 105.7,
+    "title": "Lego Technic Audi",
+    "imgUrl": "https://images1.vinted.net/t/04_01d21_GpM3VThNtbrXzh5gxa4Ro8tw/f800/1731179222.jpeg?s=9d28bb310f25afd5bb8ace94c2be39f449042e1f",
+    "publicationDate": 1731179222,
+    "id": 5354853342
+  },
+  {
     "link": "https://www.vinted.fr/items/3860813592-lego-42156",
-    "price": null,
+    "price": 142.45,
     "title": "Lego 42156",
     "imgUrl": "https://images1.vinted.net/t/01_01830_SxMwUsYEDx8FbTrTFZULd5Do/f800/1702072811.jpeg?s=4f7badbbea356541d25ffa4d54982fb33cedc012",
     "publicationDate": 1702072811,
     "id": 3860813592
   },
   {
+    "link": "https://www.vinted.fr/items/5305042586-lego-vespa-125",
+    "price": 84.7,
+    "title": "Lego Vespa 125",
+    "imgUrl": "https://images1.vinted.net/t/04_01ff6_KdwycHFqayY8YWa8ah8swZL3/f800/1730322356.jpeg?s=512a6d1e747fd58b0277f7ef098453ef25bae5a9",
+    "publicationDate": 1730322356,
+    "id": 5305042586
+  },
+  {
     "link": "https://www.vinted.fr/items/5190054142-lego-42156-peugeot-9x8",
-    "price": null,
+    "price": 143.49,
     "title": "Lego 42156 Peugeot 9x8",
     "imgUrl": "https://images1.vinted.net/t/01_020f2_ng7bJiVeFp9Lup9QTXRZQqtt/f800/1728503966.jpeg?s=df49d3635ee43fd1edcf4b645801a7daa50d77ff",
     "publicationDate": 1728503966,
     "id": 5190054142
   },
   {
+    "link": "https://www.vinted.fr/items/5279173176-lego-technic-peugeot-8x9-24h",
+    "price": 152.95,
+    "title": "Lego technic Peugeot 8X9 24H",
+    "imgUrl": "https://images1.vinted.net/t/04_0149d_4kXk237gKTk6ihqsP7nBEE3Y/f800/1729938541.jpeg?s=4bf96183086b3fb293cdf51283ad7fb73688b820",
+    "publicationDate": 1729938541,
+    "id": 5279173176
+  },
+  {
+    "link": "https://www.vinted.fr/items/3761360997-lego-42156",
+    "price": 147.7,
+    "title": "Lego 42156",
+    "imgUrl": "https://images1.vinted.net/t/03_01253_HCVB1njLgMCbiT2pC2PJcsn2/f800/1699999033.jpeg?s=eb96e7b749771cbbd44bf0fac951b1fcbb488d4f",
+    "publicationDate": 1699999033,
+    "id": 3761360997
+  },
+  {
     "link": "https://www.vinted.fr/items/4013219872-lego-technic-peugeot-24h-du-mans",
-    "price": null,
+    "price": 158.2,
     "title": "Lego technic Peugeot 24h du mans",
     "imgUrl": "https://images1.vinted.net/t/03_01209_fFYbMTxDmy3LZ26eKwBBHDbm/f800/1706004289.jpeg?s=e33ecb1effe6f623739607b75638cc116da29a28",
     "publicationDate": 1706004289,
@@ -169,7 +297,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5267722151-lego-peugeot-42156",
-    "price": null,
+    "price": 147.7,
     "title": "Lego Peugeot 42156",
     "imgUrl": "https://images1.vinted.net/t/01_025b8_tc7SBBSksMWyzpGTX1iapJih/f800/1729706604.jpeg?s=b1b5f490ee412993c0bd4187193754e8e66b0949",
     "publicationDate": 1729706604,
@@ -177,31 +305,39 @@
   },
   {
     "link": "https://www.vinted.fr/items/5310030344-lego-technic-42156-peugeot-9x8-24h-du-mans-neuf-et-scelle",
-    "price": null,
+    "price": 152.95,
     "title": "Lego Technic 42156 Peugeot 9X8 24h du Mans NEUF et scellé",
     "imgUrl": "https://images1.vinted.net/t/04_015eb_fvie7vhGbYr1T1o3vefXPUP8/f800/1730454016.jpeg?s=22fb13e3823b6867a4cdcb351cd7be01e655452c",
     "publicationDate": 1730454016,
     "id": 5310030344
   },
   {
-    "link": "https://www.vinted.fr/items/5265225842-lego-peugeot-42156",
-    "price": null,
-    "title": "Lego Peugeot 42156",
-    "imgUrl": "https://images1.vinted.net/t/04_00000_8PP8kfwQ8CmgoisyYUBdJzr5/f800/1729682995.jpeg?s=7fa14caec7ddee7fff0082d9abd816b1d581bdf6",
-    "publicationDate": 1729682995,
-    "id": 5265225842
+    "link": "https://www.vinted.fr/items/5335557452-lego-technic-porsche-911",
+    "price": 147.7,
+    "title": "Lego Technic Porsche 911",
+    "imgUrl": "https://images1.vinted.net/t/04_00e36_qSy2j4PSC4ZUZndnZVsZMxV9/f800/1730830834.jpeg?s=7f11191dcfef01d03ada90acd3b59adc6099e398",
+    "publicationDate": 1730830834,
+    "id": 5335557452
   },
   {
     "link": "https://www.vinted.fr/items/4413718375-lego-42156-new-sealend-peugeot-25h-le-mans",
-    "price": null,
+    "price": 150.85,
     "title": "Lego 42156 new sealend Peugeot 25h Le Mans",
     "imgUrl": "https://images1.vinted.net/t/02_0044c_hb1DBRwbgYSQR83URB5m6yAZ/f800/1714023298.jpeg?s=3a456bcfa61b4b030787ddb9a8c5a0615096cf67",
     "publicationDate": 1714023298,
     "id": 4413718375
   },
   {
+    "link": "https://www.vinted.fr/items/5265225842-lego-peugeot-42156",
+    "price": 168.7,
+    "title": "Lego Peugeot 42156",
+    "imgUrl": "https://images1.vinted.net/t/04_00000_8PP8kfwQ8CmgoisyYUBdJzr5/f800/1729682995.jpeg?s=7fa14caec7ddee7fff0082d9abd816b1d581bdf6",
+    "publicationDate": 1729682995,
+    "id": 5265225842
+  },
+  {
     "link": "https://www.vinted.fr/items/5342744630-lego-42156-peugeot-9x8",
-    "price": null,
+    "price": 158.2,
     "title": "Lego 42156 - Peugeot 9X8",
     "imgUrl": "https://images1.vinted.net/t/04_00af4_u3C5Tt7PdhCcb564xYDmRfD3/f800/1730980591.jpeg?s=6cf55dde2f1118416cc3229078575323488b6f2c",
     "publicationDate": 1730980591,
@@ -209,7 +345,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4030929377-lego-peugeot-9x8-24h-le-mans-hybrid-hypercar-42156",
-    "price": null,
+    "price": 156.1,
     "title": "LEGO Peugeot 9X8 24H Le Mans Hybrid Hypercar (42156)",
     "imgUrl": "https://images1.vinted.net/t/03_01695_E5z5TsSHJK8yiN9G6WP8xVXN/f800/1706391669.jpeg?s=505dcb5d2a5b0020ad51bef9304ddef47d0b291b",
     "publicationDate": 1706391669,
@@ -217,7 +353,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4449841556-lego-42156-peugeot-9x8-24h-le-mans",
-    "price": null,
+    "price": 147.7,
     "title": "LEGO 42156 - Peugeot 9X8 24H Le Mans",
     "imgUrl": "https://images1.vinted.net/t/01_00d15_mUs8HMGxriLvNrphCfw6MvVN/f800/1714722068.jpeg?s=b8fa6b8fbe1284aac7651ba3fc59956142fb068b",
     "publicationDate": 1714722068,
@@ -225,15 +361,23 @@
   },
   {
     "link": "https://www.vinted.fr/items/5127161273-lego-42156-peugeot-9x8-24h-le-mans-hybrid-neuf",
-    "price": null,
+    "price": 179.2,
     "title": "Lego 42156 - Peugeot 9x8 24H Le Mans Hybrid Neuf 🌟",
     "imgUrl": "https://images1.vinted.net/t/03_02708_r1YsEDKzQDCGDS8fQPSWp9sP/f800/1727609464.jpeg?s=22ab808de15a84ee8a1cf1e9939ee9d31b648ea9",
     "publicationDate": 1727609464,
     "id": 5127161273
   },
   {
+    "link": "https://www.vinted.fr/items/5394039314-lego-technic-fusee-nasa",
+    "price": 158.2,
+    "title": "Lego Technic fusée NASA",
+    "imgUrl": "https://images1.vinted.net/t/04_01a53_Fm68o6tnb1XftBs2QFsoGB2Y/f800/1731792039.jpeg?s=c90fd9c90e9dbb9b03b201499738c2fd0b04e053",
+    "publicationDate": 1731792039,
+    "id": 5394039314
+  },
+  {
     "link": "https://www.vinted.fr/items/5025295721-lego-42156-peugeot-9x8-24h-le-mans-hybrid-hypercar",
-    "price": null,
+    "price": 155.05,
     "title": "Lego 42156 Peugeot 9x8 24h Le Mans Hybrid Hypercar",
     "imgUrl": "https://images1.vinted.net/t/02_01fc8_y7iWfTjHFtTJv8RChUdfH9M2/f800/1726065142.jpeg?s=d640561d914186e3dc9c4b7561000dc06c1ddc36",
     "publicationDate": 1726065142,
@@ -241,7 +385,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5314281253-lego-technic-peugeot-9x8-24h-le-mans",
-    "price": null,
+    "price": 179.2,
     "title": "LEGO Technic Peugeot 9X8 24h LE MANS",
     "imgUrl": "https://images1.vinted.net/t/02_00856_xg5puyYXw1RjREbqzdtRc5Hf/f800/1730499277.jpeg?s=7d0812dad043651cac204f1e2549de803407a7e2",
     "publicationDate": 1730499277,
@@ -249,7 +393,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4180073772-lego-42156",
-    "price": null,
+    "price": 158.2,
     "title": "Lego 42156",
     "imgUrl": "https://images1.vinted.net/t/03_00149_zK5mgHWYAob1waFZi7MKQyCC/f800/1709550922.jpeg?s=e6621c0190bd4cc41624e22d663f2a4ea894138a",
     "publicationDate": 1709550922,
@@ -257,7 +401,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4939289419-lego-peugeot-42156",
-    "price": null,
+    "price": 158.2,
     "title": "Lego Peugeot 42156",
     "imgUrl": "https://images1.vinted.net/t/01_00f06_F3HfiXVCouHGFbaSRiGETUGK/f800/1724616115.jpeg?s=668a884081263d860f1af643acfec59f2306140b",
     "publicationDate": 1724616115,
@@ -265,15 +409,23 @@
   },
   {
     "link": "https://www.vinted.fr/items/4165186772-lego-42156",
-    "price": null,
+    "price": 210.7,
     "title": "Lego 42156",
     "imgUrl": "https://images1.vinted.net/t/02_0177a_ZqfYFyHMuqMXDCxDcK9CzpGp/f800/1709242493.jpeg?s=6afe8847df6d4edd10dc72817dc08b2b6c9199af",
     "publicationDate": 1709242493,
     "id": 4165186772
   },
   {
+    "link": "https://www.vinted.fr/items/5305087267-lego-technic-la-debardeuse-john-deere",
+    "price": 152.95,
+    "title": "Lego Technic La débardeuse John Deere",
+    "imgUrl": "https://images1.vinted.net/t/01_005a3_e4DsrmqtSogtnm25D5MtY88P/f800/1730323087.jpeg?s=993d37ea0109b0d6d67d097dab1384faceeec4a3",
+    "publicationDate": 1730323087,
+    "id": 5305087267
+  },
+  {
     "link": "https://www.vinted.fr/items/3886071831-lego-42156",
-    "price": null,
+    "price": 168.7,
     "title": "Lego 42156",
     "imgUrl": "https://images1.vinted.net/t/01_005dc_S2HTtRMqmrWKCWXA1LkT2YR9/f800/1702680766.jpeg?s=40dff61ec8f3cc0baa34ff02b1b504f5777698d7",
     "publicationDate": 1702680766,
@@ -281,7 +433,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4794252250-lego-technic-24h-lemans-peugeot-9x8-ref-42156",
-    "price": null,
+    "price": 189.7,
     "title": "Lego Technic 24h LeMans Peugeot 9x8, Ref: 42156.",
     "imgUrl": "https://images1.vinted.net/t/02_01390_dijUBoqamRfKQYbPaYjW33om/f800/1721642936.jpeg?s=b2ebf481a87b4fc4819ab77a7b8f7cad6330ad1e",
     "publicationDate": 1721642936,
@@ -289,23 +441,39 @@
   },
   {
     "link": "https://www.vinted.fr/items/4512744008-lego-42156-technic-peugeot-9x8-24h-le-mans-nuovo",
-    "price": null,
+    "price": 173.95,
     "title": "Lego 42156 Technic Peugeot 9x8 24h Le Mans Nuovo",
     "imgUrl": "https://images1.vinted.net/t/01_011d4_WVUYxgnCeCF5pfx1TJFTkiRb/f800/1715880195.jpeg?s=bf36ac2b6f07e7e554d4a099755e06abf5b8b02c",
     "publicationDate": 1715880195,
     "id": 4512744008
   },
   {
+    "link": "https://www.vinted.fr/items/3581990939-lego-technic-42156-peugeot-9x8-24h-du-mans-neuf-et-scelle",
+    "price": 152.95,
+    "title": "Lego Technic 42156 Peugeot 9X8 24h du Mans NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/02_01b79_wJcDNSSJ33x18n5qC8cdtZ43/f800/1704891931.jpeg?s=d5042561bf6a836f83a46c76c4c9f8a5e7d7a0f3",
+    "publicationDate": 1704891931,
+    "id": 3581990939
+  },
+  {
     "link": "https://www.vinted.fr/items/3995372961-lego-42156-peugeot-9x8-24h-le-mans-hybrid",
-    "price": null,
+    "price": 152.95,
     "title": "Lego 42156  Peugeot  9x8 24h Le Mans Hybrid",
     "imgUrl": "https://images1.vinted.net/t/01_00bae_zdDa8YXQwCvj6wL19Cu46Lka/f800/1705608260.jpeg?s=abbbc8c3b0fd048b8e4fbffd5228abe177e0061f",
     "publicationDate": 1705608260,
     "id": 3995372961
   },
   {
+    "link": "https://www.vinted.fr/items/3688655706-lego-technic-42156-peugeot-9x8-24h-du-mans-neuf-et-scelle",
+    "price": 157.15,
+    "title": "Lego Technic 42156 Peugeot 9X8 24h du Mans NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/02_01d5d_MTvqcbEPBAbTKGGmRgoXsZ3b/f800/1698691892.jpeg?s=64b0868b889bb2dc22a3718b864455686b3155e3",
+    "publicationDate": 1698691892,
+    "id": 3688655706
+  },
+  {
     "link": "https://www.vinted.fr/items/3850472080-lego-42156-peugeot-9x6-hypercar-etat-neuf",
-    "price": null,
+    "price": 194.95,
     "title": "Lego 42156 Peugeot 9x6 Hypercar état neuf",
     "imgUrl": "https://images1.vinted.net/t/03_00ba9_9wek7iQ12ni3EPKsjuRd7EbZ/f800/1701823795.jpeg?s=a76bab9afc719aac4bb7fd204f914d5418aa3b99",
     "publicationDate": 1701823795,

@@ -42,7 +42,7 @@ async function extractCookies() {
 function parse(body) {
 	return body.map((sale) => {
 		const id = sale.id;
-		const price = Number(sale.total_item_price);
+		const price = Number(sale.total_item_price.amount);
 		const imgUrl = sale.photo.url;
 		const title = sale.title;
 		const link = sale.url;
@@ -155,8 +155,8 @@ module.exports.scrape = async (legoId = undefined) => {
 			console.log(`[${counter}/${legoIds.length}]`);
 			await scrapeVintedForLegoId(legoId);
 
-			// Delay of 2000ms (2 seconds) between each request
-			await sleep(2000);
+			// Delay of 1000ms (1 second) between each request
+			await sleep(1000);
 		}
 
 		console.log(`Scraping completed for all ${legoIds.length} Lego IDs.`);

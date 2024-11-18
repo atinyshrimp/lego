@@ -1,7 +1,39 @@
 [
   {
+    "link": "https://www.vinted.fr/items/5400701453-lego-75345",
+    "price": 16.45,
+    "title": "Lego 75345",
+    "imgUrl": "https://images1.vinted.net/t/04_007ec_JjXRwJULzvdnsK2LCUkTh8Wc/f800/1731870366.jpeg?s=ed8569bd6ecaaef5e2adec910881e33cd80260d7",
+    "publicationDate": 1731870366,
+    "id": 5400701453
+  },
+  {
+    "link": "https://www.vinted.fr/items/4792512436-lego-75345-boite-vide",
+    "price": 3.85,
+    "title": "Lego 75345 boîte vide",
+    "imgUrl": "https://images1.vinted.net/t/03_0268d_KqhPrcrcYiXZLWsGbaxuhbqh/f800/1730104241.jpeg?s=d29bae582d1cb80a167419cde7a777a11846a32b",
+    "publicationDate": 1730104241,
+    "id": 4792512436
+  },
+  {
+    "link": "https://www.vinted.fr/items/5335631095-boite-lego-star-wars-vide",
+    "price": 1.75,
+    "title": "Boite Lego star Wars VIDE",
+    "imgUrl": "https://images1.vinted.net/t/04_01db4_khxNndCdZ64CcV3TGZnx5xHU/f800/1730831727.jpeg?s=f6ea709f8a07b0ca4c1075a0264032ca5e801e47",
+    "publicationDate": 1730831727,
+    "id": 5335631095
+  },
+  {
+    "link": "https://www.vinted.fr/items/3682735160-boite-vide-lego-75345",
+    "price": 3.33,
+    "title": "Boîte vide lego 75345",
+    "imgUrl": "https://images1.vinted.net/t/03_022a4_qMbArpHAkneTut1EytoYAK5c/f800/1698594406.jpeg?s=09d537f0aaa4752a2501637d7841cfbb735c9e55",
+    "publicationDate": 1698594406,
+    "id": 3682735160
+  },
+  {
     "link": "https://www.vinted.fr/items/5299685690-lego-star-wars-501-clone-troopers-battle-pack-75345",
-    "price": null,
+    "price": 14.35,
     "title": "Lego Star Wars  501 Clone Troopers Battle Pack 75345",
     "imgUrl": "https://images1.vinted.net/t/04_0014f_gfDXuAuEyfBEHAccFmzpdVXZ/f800/1730228961.jpeg?s=8e83a8a3deeabe048f0c6aed050eedb5e48e269b",
     "publicationDate": 1730228961,
@@ -9,7 +41,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5222381263-lego-star-wars-75345-x20",
-    "price": null,
+    "price": 19.6,
     "title": "Lego Star Wars 75345 ×20",
     "imgUrl": "https://images1.vinted.net/t/02_00e0b_qSQwYRZzmr4qwKW4bNaLZQdU/f800/1729002162.jpeg?s=d0abaaffc908dfc5d27d4cf0503ef3c24df3c159",
     "publicationDate": 1729002162,
@@ -17,7 +49,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5367083719-lego-75345",
-    "price": null,
+    "price": 14.19,
     "title": "LEGO 75345",
     "imgUrl": "https://images1.vinted.net/t/04_0005d_k6q2hxzpMQerJz4GE9fNUkAH/f800/1731342197.jpeg?s=b22d36cad51137702fd277a2cfdc8f10804801f1",
     "publicationDate": 1731342197,
@@ -25,15 +57,31 @@
   },
   {
     "link": "https://www.vinted.fr/items/5076918098-lego-star-wars-75359",
-    "price": null,
+    "price": 18.03,
     "title": "Lego star wars 75359",
     "imgUrl": "https://images1.vinted.net/t/02_007a7_TDP44css1j1kDNeBhWYtHg51/f800/1726842668.jpeg?s=df0c2d5eb374db49c13d95303393ba9c11b4779a",
     "publicationDate": 1726842668,
     "id": 5076918098
   },
   {
+    "link": "https://www.vinted.fr/items/3682681869-boite-vide-lego-75345",
+    "price": 3.33,
+    "title": "Boîte vide lego 75345",
+    "imgUrl": "https://images1.vinted.net/t/01_01d5f_86BqN2BBABWpYec66gbjSvht/f800/1698594045.jpeg?s=4caefb1815e95165ea070912310daca9b44c999f",
+    "publicationDate": 1698594045,
+    "id": 3682681869
+  },
+  {
+    "link": "https://www.vinted.fr/items/4872359235-lego-star-wars-75345-501st-clone-trooper-battle-pack",
+    "price": 11.2,
+    "title": "Lego star wars 75345 501st clone Trooper battle pack",
+    "imgUrl": "https://images1.vinted.net/t/02_010c1_tRfW5G3CSoU7HBVCTkpAhxVL/f800/1723320891.jpeg?s=953bf2d79ad80e81955f4f8d82ff083465336160",
+    "publicationDate": 1723320891,
+    "id": 4872359235
+  },
+  {
     "link": "https://www.vinted.fr/items/5333018206-canon-clone-de-la-501th-set-75345",
-    "price": null,
+    "price": 3.85,
     "title": "Canon Clone de la 501th - Set 75345",
     "imgUrl": "https://images1.vinted.net/t/04_01ca5_imJaj9znVRb5RfhYUVrhyTBf/f800/1730803601.jpeg?s=13f5348aa3633db3013571a31de3b4463f7ee578",
     "publicationDate": 1730803601,
@@ -41,39 +89,47 @@
   },
   {
     "link": "https://www.vinted.fr/items/5360475805-lego-star-wars-75345-501-st-clone-neuf-scelle",
-    "price": null,
+    "price": 16.45,
     "title": "Lego Star Wars 75345 / 501 St Clone : Neuf / scellé",
     "imgUrl": "https://images1.vinted.net/t/04_0187e_GkSwSp9dvukFqZZqdKAJLm58/f800/1731256854.jpeg?s=0309feb7c51e3ecbf262c4728a0cab55879de045",
     "publicationDate": 1731256854,
     "id": 5360475805
   },
   {
+    "link": "https://www.vinted.fr/items/5365371544-set-lego-star-wars-ndeg-75345-501st-clone-troopers-battle-pack-scellesealed",
+    "price": 15.93,
+    "title": "Set Lego Star Wars n° 75345 501st Clone Troopers Battle Pack scellé/sealed",
+    "imgUrl": "https://images1.vinted.net/t/04_01c20_p7oujt7kGwuKRatmHbrmbK72/f800/1731331022.jpeg?s=0a43ab26b7b16ca3cef97411bf671eee0da74ae6",
+    "publicationDate": 1731331022,
+    "id": 5365371544
+  },
+  {
     "link": "https://www.vinted.fr/items/5333086500-lego-star-wars-75345",
-    "price": null,
+    "price": 17.24,
     "title": "Lego Star Wars 75345",
     "imgUrl": "https://images1.vinted.net/t/04_0046f_jM9t4CPsCNU6xGNSvHunbAmP/f800/1730804325.jpeg?s=5889aac45f335426006e4009952ad7d390d74d0f",
     "publicationDate": 1730804325,
     "id": 5333086500
   },
   {
+    "link": "https://www.vinted.fr/items/3486987424-boite-vide-lego-star-wars-75345",
+    "price": 2.8,
+    "title": "Boîte VIDE Lego Star wars 75345 ",
+    "imgUrl": "https://images1.vinted.net/t/02_00ee0_4gGhPp2aj4FHnYJSENkgTjid/f800/1694976586.jpeg?s=f81e9a25ca976453233e5ff68c94b4a92d42f845",
+    "publicationDate": 1694976586,
+    "id": 3486987424
+  },
+  {
     "link": "https://www.vinted.fr/items/5260947270-lego-75345-novo-selado-caixa-impecavel-star-wars",
-    "price": null,
+    "price": 14.35,
     "title": "Lego 75345 novo selado caixa impecável star wars",
     "imgUrl": "https://images1.vinted.net/t/02_01282_tFMNRymtyvEPuSQXpCwb4cAQ/f800/1729604624.jpeg?s=1d1c684a11faf02379f785d3ae0fd24bb76e36f9",
     "publicationDate": 1729604624,
     "id": 5260947270
   },
   {
-    "link": "https://www.vinted.fr/items/5149281661-lego-75345-star-wars-501-clone-troopers-battle-pack",
-    "price": null,
-    "title": "Lego 75345 Star Wars 501 Clone Troopers Battle Pack",
-    "imgUrl": "https://images1.vinted.net/t/03_0026c_Y9wmWCWGVJDcdjxKUN1Litzu/f800/1727909145.jpeg?s=940b3d5786c1325140d1dbf0e920246580223256",
-    "publicationDate": 1727909145,
-    "id": 5149281661
-  },
-  {
     "link": "https://www.vinted.fr/items/5346969832-set-lego-star-wars-75345-501st-clone-trooper-battle-pack",
-    "price": null,
+    "price": 16.45,
     "title": "Set LEGO Star Wars 75345 501St Clone Trooper Battle Pack",
     "imgUrl": "https://images1.vinted.net/t/03_02341_WST7Yq17XJTdedAxMy88FipA/f800/1731063187.jpeg?s=e4f0484c9a1c007dc971a17618d0f3dd6e3418ed",
     "publicationDate": 1731063187,
@@ -81,23 +137,47 @@
   },
   {
     "link": "https://www.vinted.fr/items/3507367331-lego-star-wars-set-75345-sans-les-figurines",
-    "price": null,
+    "price": 10.15,
     "title": "Lego Star Wars, set 75345, sans les figurines ",
     "imgUrl": "https://images1.vinted.net/t/02_00a30_BXkFdVG95sFJWkbVaUXRx5Xy/f800/1695395287.jpeg?s=cfb90b1e9bc4fafcd39af28c2e9a8165d8800dd5",
     "publicationDate": 1695395287,
     "id": 3507367331
   },
   {
+    "link": "https://www.vinted.fr/items/5149281661-lego-75345-star-wars-501-clone-troopers-battle-pack",
+    "price": 15.4,
+    "title": "Lego 75345 Star Wars 501 Clone Troopers Battle Pack",
+    "imgUrl": "https://images1.vinted.net/t/03_0026c_Y9wmWCWGVJDcdjxKUN1Litzu/f800/1727909145.jpeg?s=940b3d5786c1325140d1dbf0e920246580223256",
+    "publicationDate": 1727909145,
+    "id": 5149281661
+  },
+  {
+    "link": "https://www.vinted.fr/items/5142344471-lego-star-wars-speeder-clone",
+    "price": 4.38,
+    "title": "Lego star wars speeder clone",
+    "imgUrl": "https://images1.vinted.net/t/01_00c21_FHaGAJeHR5hjiXYRe9GNF6zy/f800/1727801718.jpeg?s=55e3780f33fdac30f0c6362da0b21cd898936dee",
+    "publicationDate": 1727801718,
+    "id": 5142344471
+  },
+  {
     "link": "https://www.vinted.fr/items/5400797658-501st-clone-troopers-battle-pack",
-    "price": null,
+    "price": 5.95,
     "title": "501st Clone Troopers Battle pack",
     "imgUrl": "https://images1.vinted.net/t/04_00d56_AvAE7vhP9jbsY853kY3m2s6Y/f800/1731871176.jpeg?s=f9dd8aee8d0f5dec2e4a3d91de12cf8dc9108eb3",
     "publicationDate": 1731871176,
     "id": 5400797658
   },
   {
+    "link": "https://www.vinted.fr/items/5314654830-lego-75345",
+    "price": 4.38,
+    "title": "Lego 75345",
+    "imgUrl": "https://images1.vinted.net/t/04_00440_RMH5MHyRhSXnLsPtkrwoJ9r9/f800/1730533869.jpeg?s=0132e757f57b4a417ca915d783ab53e9f7af40c1",
+    "publicationDate": 1730533869,
+    "id": 5314654830
+  },
+  {
     "link": "https://www.vinted.fr/items/4676889608-lego-star-wars-75345",
-    "price": null,
+    "price": 16.45,
     "title": "lego star wars 75345",
     "imgUrl": "https://images1.vinted.net/t/02_018ba_QmFKktnG1fXNsgcNaMiGYmCt/f800/1719136083.jpeg?s=37c4c04bd44f2fa4ee3ab71146b53eb1ac3046f2",
     "publicationDate": 1719136083,
@@ -105,7 +185,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5396592519-lego-star-wars-75345",
-    "price": null,
+    "price": 13.3,
     "title": "Lego Star Wars 75345",
     "imgUrl": "https://images1.vinted.net/t/04_00297_1yAq2QcoLbpywRCNgbnJWARM/f800/1731845821.jpeg?s=13f485ee73727de62b87690183eadf9ccda87916",
     "publicationDate": 1731845821,
@@ -113,55 +193,47 @@
   },
   {
     "link": "https://www.vinted.fr/items/5397928703-lego-75345",
-    "price": null,
+    "price": 17.5,
     "title": "Lego 75345",
     "imgUrl": "https://images1.vinted.net/t/04_02135_pVQau7HhgmwTXrnBjj1ZrSms/f800/1731853324.jpeg?s=f84c5b049edf908bc8cf7728da90e46e52cf3b3d",
     "publicationDate": 1731853324,
     "id": 5397928703
   },
   {
-    "link": "https://www.vinted.fr/items/5366258447-lot-de-2-sets-lego-75345-pack-de-combat-des-clones-troopers-neuf",
-    "price": null,
-    "title": "Lot de 2 sets Lego 75345 Pack de combat des clones troopers NEUF",
-    "imgUrl": "https://images1.vinted.net/t/01_0038a_fEBWUrvmBc7A4UcwE5UiQBHj/f800/r3/1731336657.jpeg?s=aeb196efd0ee33a6ea371f961aa58f6295bee531",
-    "publicationDate": 1731336657,
-    "id": 5366258447
-  },
-  {
     "link": "https://www.vinted.fr/items/5240144080-lego-75345-star-wars",
-    "price": null,
+    "price": 16.45,
     "title": "Lego 75345 ( Star Wars )",
     "imgUrl": "https://images1.vinted.net/t/03_00a82_AhnRzxkrFc8ttJchgj2Jg76X/f800/1729324572.jpeg?s=2a8f4f6600776a537f45f09e56f0b3afdd29480a",
     "publicationDate": 1729324572,
     "id": 5240144080
   },
   {
-    "link": "https://www.vinted.fr/items/5398404786-lego-starwars-75345-novo",
-    "price": null,
-    "title": "Lego StarWars 75345 novo",
-    "imgUrl": "https://images1.vinted.net/t/04_01d6f_JEd16wY6raiRTJDvVTsSMLgw/f800/1731855829.jpeg?s=d477d33fed3ecb202f2c351f4d9b1dcc90b09f6a",
-    "publicationDate": 1731855829,
-    "id": 5398404786
-  },
-  {
-    "link": "https://www.vinted.fr/items/4678254125-lot-de-2-lego-star-wars",
-    "price": null,
-    "title": "Lot de 2 lego -- star wars",
-    "imgUrl": "https://images1.vinted.net/t/03_00ea3_2cPwCPhA5qRbh7ckokBNDsSu/f800/1719150253.jpeg?s=d7916beef60a197097008245852cdd1dd3491d28",
-    "publicationDate": 1719150253,
-    "id": 4678254125
-  },
-  {
     "link": "https://www.vinted.fr/items/5330217533-set-75345-lego-star-wars-the-clone-wars-501st-clone-troopers-battle-pack",
-    "price": null,
+    "price": 16.44,
     "title": "set 75345 LEGO Star Wars The Clone Wars 501st Clone Troopers Battle Pack",
     "imgUrl": "https://images1.vinted.net/t/04_018f3_yooQAFTAFHNXZ1Bow7tGkHPN/f800/1730804900.jpeg?s=be2b891994e88f5fe84548a4c0228d5a0049cbc7",
     "publicationDate": 1730804900,
     "id": 5330217533
   },
   {
+    "link": "https://www.vinted.fr/items/5398404786-lego-starwars-75345-novo",
+    "price": 16.45,
+    "title": "Lego StarWars 75345 novo",
+    "imgUrl": "https://images1.vinted.net/t/04_01d6f_JEd16wY6raiRTJDvVTsSMLgw/f800/1731855829.jpeg?s=d477d33fed3ecb202f2c351f4d9b1dcc90b09f6a",
+    "publicationDate": 1731855829,
+    "id": 5398404786
+  },
+  {
+    "link": "https://www.vinted.fr/items/5366258447-lot-de-2-sets-lego-75345-pack-de-combat-des-clones-troopers-neuf",
+    "price": 26.95,
+    "title": "Lot de 2 sets Lego 75345 Pack de combat des clones troopers NEUF",
+    "imgUrl": "https://images1.vinted.net/t/01_0038a_fEBWUrvmBc7A4UcwE5UiQBHj/f800/r3/1731336657.jpeg?s=aeb196efd0ee33a6ea371f961aa58f6295bee531",
+    "publicationDate": 1731336657,
+    "id": 5366258447
+  },
+  {
     "link": "https://www.vinted.fr/items/4969402448-lego-sw-75345",
-    "price": null,
+    "price": 11.2,
     "title": "Lego SW 75345",
     "imgUrl": "https://images1.vinted.net/t/03_00ee6_DJSuAR6Xg1cTDpSvLhPYz4VY/f800/1725183592.jpeg?s=cd1d400384df824c891fdf8ccced01e04a94360c",
     "publicationDate": 1725183592,
@@ -169,47 +241,79 @@
   },
   {
     "link": "https://www.vinted.fr/items/4441964550-lego-75345",
-    "price": null,
+    "price": 23.8,
     "title": "Lego 75345",
     "imgUrl": "https://images1.vinted.net/t/03_0022a_qdrBwD5WgEXRid5MYychpeGx/f800/1714564201.jpeg?s=5f1b25af2aeb43160e7050f9c6a9f72d63d3e950",
     "publicationDate": 1714564201,
     "id": 4441964550
   },
   {
-    "link": "https://www.vinted.fr/items/5348890805-lego-star-wars-75345-clone-troopers-501deg-battle-pack-new-sealed",
-    "price": null,
-    "title": "Lego Star Wars 75345 Clone Troopers 501° Battle Pack, New, Sealed",
-    "imgUrl": "https://images1.vinted.net/t/04_01264_8VTn2ouSL5BJjNk3Qu6oDaNx/f800/1731084543.jpeg?s=b2ad6253ebf7c3c0d2a25d326101d7701fff9cab",
-    "publicationDate": 1731084543,
-    "id": 5348890805
+    "link": "https://www.vinted.fr/items/4959672674-cajas-lego-star-wars",
+    "price": 16.45,
+    "title": "Cajas lego star wars",
+    "imgUrl": "https://images1.vinted.net/t/02_01463_JwqJoUkTayUtqa8LEqGSiHxb/f800/1725000201.jpeg?s=e9df9c1cbc84f057b7dab47bf3e23532937b6adb",
+    "publicationDate": 1725000201,
+    "id": 4959672674
   },
   {
-    "link": "https://www.vinted.fr/items/4733276798-lego-75345-star-wars",
-    "price": null,
-    "title": "Lego 75345 star wars",
-    "imgUrl": "https://images1.vinted.net/t/03_0002a_YTubzYCWdweLKBbEJ2S6N7ij/f800/1720345161.jpeg?s=af3b4d5befef44c77c1f3f64072b2c5ecf8efa99",
-    "publicationDate": 1720345161,
-    "id": 4733276798
+    "link": "https://www.vinted.fr/items/5319828050-set-lego-star-wars-75359-senza-minifigure-ma-xon-scatola-e-istruzioni",
+    "price": 7,
+    "title": "Set LEGO Star Wars 75359 senza minifigure ma xon scatola e istruzioni",
+    "imgUrl": "https://images1.vinted.net/t/04_00522_FuPLCgKkP2AsrwTT1Jb6N2wj/f800/1730588446.jpeg?s=13db551160fe6e3df8a2d8b8b4a07313beb8160d",
+    "publicationDate": 1730588446,
+    "id": 5319828050
   },
   {
     "link": "https://www.vinted.fr/items/5359338653-lego-starwars-75345-new",
-    "price": null,
+    "price": 15.93,
     "title": "Lego StarWars 75345 (new)",
     "imgUrl": "https://images1.vinted.net/t/04_00002_aLiq86SFHRWYoRmiUujDousy/f800/1731250114.jpeg?s=90b424a431ac920aa9f77a814edfcd5a59ebe415",
     "publicationDate": 1731250114,
     "id": 5359338653
   },
   {
+    "link": "https://www.vinted.fr/items/3508379228-lego-75345-istruzioni-scatola",
+    "price": 4.9,
+    "title": "Lego 75345 istruzioni + scatola ",
+    "imgUrl": "https://images1.vinted.net/t/02_01912_H3TmHPiX8eYXpAEcb24sU7Aq/f800/1695408971.jpeg?s=dec3b933ccce624dda522e9fa1a356fec4977f4e",
+    "publicationDate": 1695408971,
+    "id": 3508379228
+  },
+  {
+    "link": "https://www.vinted.fr/items/5212487425-lotto-scatoli-vuoti-lego",
+    "price": 9.1,
+    "title": "Lotto Scatoli Vuoti Lego",
+    "imgUrl": "https://images1.vinted.net/t/03_0021f_iQxckLf4NAkzpGiv3ao3qibS/f800/1728841038.jpeg?s=d9696de348f35734f6a449bb927ad89edb6fbc6a",
+    "publicationDate": 1728841038,
+    "id": 5212487425
+  },
+  {
+    "link": "https://www.vinted.fr/items/5391554905-lego-75345-501a-clone-troopers-battle-pack",
+    "price": 16.35,
+    "title": "Lego 75345 501ª Clone Troopers Battle Pack",
+    "imgUrl": "https://images1.vinted.net/t/01_02416_qreuZxKdczRWhqtQobyV8HZ5/f800/1731785869.jpeg?s=0b8becbc4468d751da502f765accf75c78d662d0",
+    "publicationDate": 1731785869,
+    "id": 5391554905
+  },
+  {
     "link": "https://www.vinted.fr/items/5331216752-lego-clone-troopers-75345-sin-abrir",
-    "price": null,
+    "price": 18.55,
     "title": "Lego Clone Troopers 75345 sin abrir",
     "imgUrl": "https://images1.vinted.net/t/04_002cc_MoVx77Qor4z3z1s7dUCiYDER/f800/1730749491.jpeg?s=caa8ae406afc0fdcf863af3bd4bc399506195578",
     "publicationDate": 1730749491,
     "id": 5331216752
   },
   {
+    "link": "https://www.vinted.fr/items/4733276798-lego-75345-star-wars",
+    "price": 21.7,
+    "title": "Lego 75345 star wars",
+    "imgUrl": "https://images1.vinted.net/t/03_0002a_YTubzYCWdweLKBbEJ2S6N7ij/f800/1720345161.jpeg?s=af3b4d5befef44c77c1f3f64072b2c5ecf8efa99",
+    "publicationDate": 1720345161,
+    "id": 4733276798
+  },
+  {
     "link": "https://www.vinted.fr/items/5121502525-battle-pack-lego-star-wars-75345",
-    "price": null,
+    "price": 17.5,
     "title": "battle pack lego star wars 75345",
     "imgUrl": "https://images1.vinted.net/t/01_00d9e_mFCPS8ydja68wzcsCi1jaEop/f800/1727528788.jpeg?s=dff5cb4e22b07ba27137a2a9ce435638a9069742",
     "publicationDate": 1727528788,
@@ -217,71 +321,151 @@
   },
   {
     "link": "https://www.vinted.fr/items/4860653445-lego-star-wars",
-    "price": null,
+    "price": 11.2,
     "title": "Lego star wars",
     "imgUrl": "https://images1.vinted.net/t/01_00b6a_GzYzdWtWxyGQ2vgJe9QZqVb9/f800/1727863522.jpeg?s=93311dd99d25e08033e5bffa7c5a388af61a76a4",
     "publicationDate": 1727863522,
     "id": 4860653445
   },
   {
+    "link": "https://www.vinted.fr/items/5348890805-lego-star-wars-75345-clone-troopers-501deg-battle-pack-new-sealed",
+    "price": 17.5,
+    "title": "Lego Star Wars 75345 Clone Troopers 501° Battle Pack, New, Sealed",
+    "imgUrl": "https://images1.vinted.net/t/04_01264_8VTn2ouSL5BJjNk3Qu6oDaNx/f800/1731084543.jpeg?s=b2ad6253ebf7c3c0d2a25d326101d7701fff9cab",
+    "publicationDate": 1731084543,
+    "id": 5348890805
+  },
+  {
     "link": "https://www.vinted.fr/items/2909348408-boites-lego-vides",
-    "price": null,
+    "price": 3.85,
     "title": "Boites lego vides",
     "imgUrl": "https://images1.vinted.net/t/02_0247d_Q1rgqX1EBV4nYBeXVitJq19A/f800/1681642882.jpeg?s=f4661e38feb9af031ea81af1a30e3d57cb897eb9",
     "publicationDate": 1681642882,
     "id": 2909348408
   },
   {
+    "link": "https://www.vinted.fr/items/5175539988-lego-star-wars-clone-heavy-trooper-501st-legion-75345",
+    "price": 4.9,
+    "title": "LEGO Star Wars Clone Heavy Trooper, 501st Legion 75345",
+    "imgUrl": "https://images1.vinted.net/t/01_00148_BALEN3Pagiow2mCMy7UURroq/f800/1728300458.jpeg?s=cfc1aba889bec413c01b21d7122e571161f79428",
+    "publicationDate": 1728300458,
+    "id": 5175539988
+  },
+  {
+    "link": "https://www.vinted.fr/items/5176627583-lego-star-wars-clone-heavy-trooper-501st-legion-75345",
+    "price": 4.9,
+    "title": "LEGO Star Wars Clone Heavy Trooper, 501st Legion 75345",
+    "imgUrl": "https://images1.vinted.net/t/01_00851_eAaKqojsffJSDdmS7qgRjcPH/f800/1728309481.jpeg?s=38e9b61d9935229e70dc390306404d93369c46a8",
+    "publicationDate": 1728309481,
+    "id": 5176627583
+  },
+  {
     "link": "https://www.vinted.fr/items/5331756438-star-wars-pack-de-combat-des-clone-troopers-de-la-501eme-legion-75345",
-    "price": null,
+    "price": 21.7,
     "title": "Star Wars - Pack de combat des Clone Troopers de la 501ème légion - 75345",
     "imgUrl": "https://images1.vinted.net/t/04_00c22_KexZEKpfRba6MthiT7rwhb8i/f800/1730756207.jpeg?s=80ed78c0397aaaa196fca209c90f39c0586c46d5",
     "publicationDate": 1730756207,
     "id": 5331756438
   },
   {
-    "link": "https://www.vinted.fr/items/5391554905-lego-75345-501a-clone-troopers-battle-pack",
-    "price": null,
-    "title": "Lego 75345 501ª Clone Troopers Battle Pack",
-    "imgUrl": "https://images1.vinted.net/t/01_02416_qreuZxKdczRWhqtQobyV8HZ5/f800/1731785869.jpeg?s=0b8becbc4468d751da502f765accf75c78d662d0",
-    "publicationDate": 1731785869,
-    "id": 5391554905
+    "link": "https://www.vinted.fr/items/5176632738-lego-star-wars-clone-heavy-trooper-501st-legion-75345",
+    "price": 4.9,
+    "title": "LEGO Star Wars Clone Heavy Trooper, 501st Legion 75345",
+    "imgUrl": "https://images1.vinted.net/t/03_0251c_GJdfjWeH2WbwBFCcvbCe4sGd/f800/1728309524.jpeg?s=36fbdfd130e10ce33b3c21e8949926a614591f29",
+    "publicationDate": 1728309524,
+    "id": 5176632738
+  },
+  {
+    "link": "https://www.vinted.fr/items/4055367046-minifigurine-lego-star-wars-specialiste-clone-trooper-501st-sw1248",
+    "price": 6.99,
+    "title": "Minifigurine LEGO Star Wars Spécialiste Clone Trooper 501st (sw1248)",
+    "imgUrl": "https://images1.vinted.net/t/02_0259e_2xyXrkGAmpSKH1sBXX7bGaJn/f800/1706956147.jpeg?s=7ddddcf894363687bf3155de23583cef9bd6a6cf",
+    "publicationDate": 1706956147,
+    "id": 4055367046
   },
   {
     "link": "https://www.vinted.fr/items/4600218838-lego-star-wars-75345-clone-troopers-battle-pack",
-    "price": null,
+    "price": 14.35,
     "title": "Lego Star Wars 75345 clone Troopers battle pack",
     "imgUrl": "https://images1.vinted.net/t/02_00340_Bzxeec4aS1cX5Pwd1P6wmVfa/f800/1717533551.jpeg?s=8091670340b31c1948de797665f25cf779712af4",
     "publicationDate": 1717533551,
     "id": 4600218838
   },
   {
+    "link": "https://www.vinted.fr/items/4124034710-deux-canons-lego-issus-des-sets-75345-et-75088",
+    "price": 10.15,
+    "title": "Deux canons Lego issus des sets 75345 et 75088",
+    "imgUrl": "https://images1.vinted.net/t/02_002a3_5rTXtqK5evnajaKKVzdVYuvd/f800/1708425331.jpeg?s=966782af116ec4c162038866280743d7622c4c32",
+    "publicationDate": 1708425331,
+    "id": 4124034710
+  },
+  {
+    "link": "https://www.vinted.fr/items/4850192468-lego-star-wars-501st-legion-clone-troopers-battle-packs-75280-75345-75391",
+    "price": 9.1,
+    "title": "LEGO Star Wars - 501st Legion Clone Troopers Battle Packs (75280-75345-75391)",
+    "imgUrl": "https://images1.vinted.net/t/01_02658_8Lqy82CTtVDrkigDpsiLk6kt/f800/1722861851.jpeg?s=1cada87a0a5db43242ac69b62f97ab23313e8535",
+    "publicationDate": 1722861851,
+    "id": 4850192468
+  },
+  {
     "link": "https://www.vinted.fr/items/5180429757-lego-star-wars-501-clone-specialist-75345",
-    "price": null,
+    "price": 4.59,
     "title": "Lego Star wars 501 Clone specialist 75345",
     "imgUrl": "https://images1.vinted.net/t/01_0147a_UeZMuv4bzxrm1dxbSa7vq4VP/f800/1728378987.jpeg?s=6047d937bea527fb1c6437a2df42231ca67c60e3",
     "publicationDate": 1728378987,
     "id": 5180429757
   },
   {
+    "link": "https://www.vinted.fr/items/3867020153-lego-75359-et-75345-star-wars",
+    "price": 11.2,
+    "title": "Lego 75359 et 75345 star wars",
+    "imgUrl": "https://images1.vinted.net/t/03_02592_rB8W96GuZ39Ba1okF1adtgQT/f800/1702216048.jpeg?s=87691bf4ac5432b6292564af318b05949083bc0d",
+    "publicationDate": 1702216048,
+    "id": 3867020153
+  },
+  {
+    "link": "https://www.vinted.fr/items/5234107142-figurine-lego-star-wars-clone-trooper-501st-specialiste",
+    "price": 5.95,
+    "title": "Figurine lego star wars Clone Trooper ( 501st , spécialiste )",
+    "imgUrl": "https://images1.vinted.net/t/03_0237b_8mDuoVqUnhBEGsck1fKA8cAo/f800/1729188226.jpeg?s=b2146954da7b547c6e28ff7f098460a725d5eca0",
+    "publicationDate": 1729188226,
+    "id": 5234107142
+  },
+  {
     "link": "https://www.vinted.fr/items/5336692594-lego-star-wars-75345-501st-clone-troopers-battle-pack",
-    "price": null,
+    "price": 17.5,
     "title": "Lego star wars 75345 501st Clone Troopers Battle Pack",
     "imgUrl": "https://images1.vinted.net/t/03_01c2b_ybRzzwqZjQSwwLWyNY7wTVmm/f800/1730849002.jpeg?s=eeba0d19047389d79f3bb91d06a3cf097ff00ebd",
     "publicationDate": 1730849002,
     "id": 5336692594
   },
   {
+    "link": "https://www.vinted.fr/items/4700093864-set-75345-lego-star-wars",
+    "price": 8.58,
+    "title": "Set 75345 lego star wars",
+    "imgUrl": "https://images1.vinted.net/t/03_0148d_RU7qYw68xab3coXHNfvirze8/f800/1719654868.jpeg?s=f2fd14a11fe2c96a6c0055c0024f079e78e3e122",
+    "publicationDate": 1719654868,
+    "id": 4700093864
+  },
+  {
     "link": "https://www.vinted.fr/items/4568753566-lego-5-sets-75359-y-set-75345-star-wars",
-    "price": null,
+    "price": 25.9,
     "title": "Lego 5 sets 75359 y set 75345 star wars",
     "imgUrl": "https://images1.vinted.net/t/03_00c76_ZNpoB3Bgr44yxr6PxsUPmyyQ/f800/1716929770.jpeg?s=0cd40b8276eecb9d2fccde8526dc4f93c1ddcc85",
     "publicationDate": 1716929770,
     "id": 4568753566
   },
   {
+    "link": "https://www.vinted.fr/items/5234113998-figurine-lego-star-wars-clone-trooper-lourd-501st-legion",
+    "price": 5.95,
+    "title": "Figurine Lego Star wars Clone Trooper Lourd ( 501st legion )",
+    "imgUrl": "https://images1.vinted.net/t/02_00ee7_CTqaPxdiN5HA2jwve7JwA1tM/f800/1729188310.jpeg?s=029c0fc6dd0d8eabce3d534d7c4693b0614075bb",
+    "publicationDate": 1729188310,
+    "id": 5234113998
+  },
+  {
     "link": "https://www.vinted.fr/items/4916846159-lego-75345-pack-combat-des-clones",
-    "price": null,
+    "price": 20.13,
     "title": "Lego 75345 pack combat des clones",
     "imgUrl": "https://images1.vinted.net/t/03_021c6_8soV5CimM6EfdXatmqkHFN4U/f800/1724238968.jpeg?s=031d7823c7d4dba87f2c5ffb8f95abf6cf4e035b",
     "publicationDate": 1724238968,
@@ -289,7 +473,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5064850137-lego-75345-clone-troopers-battle-pack",
-    "price": null,
+    "price": 16.45,
     "title": "Lego 75345 Clone troopers battle pack",
     "imgUrl": "https://images1.vinted.net/t/03_003b2_TQtXfkJbvqekJHHHSncXkX1C/f800/1726651299.jpeg?s=2c648df382dbebd2ae637f1f34591277600f026f",
     "publicationDate": 1726651299,
@@ -297,7 +481,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5353168858-lego-star-wars-75345-501-clone-trooper",
-    "price": null,
+    "price": 16.45,
     "title": "Lego star wars 75345 501 clone trooper",
     "imgUrl": "https://images1.vinted.net/t/03_001da_sTAfKerv8KgBHYjHXiktYpYN/f800/1731163418.jpeg?s=f08a9b98325b3105f24e060b3338402d368dffd0",
     "publicationDate": 1731163418,
@@ -305,47 +489,111 @@
   },
   {
     "link": "https://www.vinted.fr/items/5359608223-lego-starwars-75345-75391-new",
-    "price": null,
+    "price": 26.95,
     "title": "Lego StarWars 75345 & 75391 (new)",
     "imgUrl": "https://images1.vinted.net/t/04_00b86_rn7TfGAR2L7wnV8Tg3uiVkWh/f800/1731251650.jpeg?s=a61d25f2f906dd69a9cb82dbda8184c39f84c06e",
     "publicationDate": 1731251650,
     "id": 5359608223
   },
   {
+    "link": "https://www.vinted.fr/items/5156101601-lego-star-wars-clone-trooper-officer-501st-legion-75345",
+    "price": 4.9,
+    "title": "LEGO Star Wars Clone Trooper Officer, 501st Legion 75345",
+    "imgUrl": "https://images1.vinted.net/t/03_00b0a_3t2dpJejstuYjyTgy79RK9Uw/f800/1728039375.jpeg?s=389c328c649be77a6ca17b5cf9d8038c93bf6dff",
+    "publicationDate": 1728039375,
+    "id": 5156101601
+  },
+  {
     "link": "https://www.vinted.fr/items/5300410055-lego-star-wars-75345-troopers-battle-pack",
-    "price": null,
+    "price": 17.5,
     "title": "Lego Star Wars 75345 Troopers Battle Pack",
     "imgUrl": "https://images1.vinted.net/t/03_00281_RWPKuLvmCP1RD5uWz6MhLcg7/f800/1730239064.jpeg?s=8cefac1de30c5e4f0cf0233e3e7c06ae1361a1c7",
     "publicationDate": 1730239064,
     "id": 5300410055
   },
   {
+    "link": "https://www.vinted.fr/items/5176636126-lego-star-wars-clone-heavy-trooper-501st-legion-75345",
+    "price": 4.9,
+    "title": "LEGO Star Wars Clone Heavy Trooper, 501st Legion 75345",
+    "imgUrl": "https://images1.vinted.net/t/01_00954_wkpBxtpjLVfNQ9LkMDGnsKD3/f800/1728309552.jpeg?s=057ae1bec66929dd9577cd69a4c9625dc5178a9e",
+    "publicationDate": 1728309552,
+    "id": 5176636126
+  },
+  {
+    "link": "https://www.vinted.fr/items/5381770320-lego-star-wars-501-clones-75345",
+    "price": 18.55,
+    "title": "Lego Star Wars 501 clones 75345",
+    "imgUrl": "https://images1.vinted.net/t/01_0061f_j8EURKeJxRrurifpub2qViMv/f800/1731593433.jpeg?s=b7b93c9520091dc3d1fcb8d360f49fd0e7d0b67c",
+    "publicationDate": 1731593433,
+    "id": 5381770320
+  },
+  {
     "link": "https://www.vinted.fr/items/2578465976-lego-75345-sin-minifiguras",
-    "price": null,
+    "price": 5.95,
     "title": "Lego 75345 (sin minifiguras)",
     "imgUrl": "https://images1.vinted.net/t/02_008fd_ZNQ62STCTfg5QNcYWDvppAxY/f800/1673429077.jpeg?s=5cadc5d6c6345d303179e11452e8110dca0c91be",
     "publicationDate": 1673429077,
     "id": 2578465976
   },
   {
+    "link": "https://www.vinted.fr/items/4636384059-pack-de-combat-des-clone-troopers",
+    "price": 16.45,
+    "title": "Pack de combat des Clone Troopers",
+    "imgUrl": "https://images1.vinted.net/t/03_00b75_FBbVrBkqX3SrvoE2FMz9ZAK1/f800/1718272328.jpeg?s=25defc11c8ea0936726fb57b46a2717ed98e0619",
+    "publicationDate": 1718272328,
+    "id": 4636384059
+  },
+  {
+    "link": "https://www.vinted.fr/items/4214340003-lego-75345-canon-des-clone-trooper-de-la-501-eme-the-clone-wars-republic",
+    "price": 4.85,
+    "title": "Lego 75345 canon des clone trooper de la 501 ème. The Clone Wars Republic ",
+    "imgUrl": "https://images1.vinted.net/t/01_0205a_HJkxVQqztWfVXCqyA5vDrqDs/f800/1710250261.jpeg?s=20f6c09e8e24a7338e448fbbe28111eb0c4195db",
+    "publicationDate": 1710250261,
+    "id": 4214340003
+  },
+  {
     "link": "https://www.vinted.fr/items/4713194381-lego-set-75345",
-    "price": null,
+    "price": 13.3,
     "title": "Lego set 75345",
     "imgUrl": "https://images1.vinted.net/t/01_00236_FbWoftLFzk9w9Dmi71ZKcgYU/f800/1719915224.jpeg?s=b4b3aad86e2333972260b06bce40f62fb16fa07d",
     "publicationDate": 1719915224,
     "id": 4713194381
   },
   {
+    "link": "https://www.vinted.fr/items/5200783799-lego-star-wars-75345",
+    "price": 8.05,
+    "title": "Lego Star Wars 75345",
+    "imgUrl": "https://images1.vinted.net/t/03_0087f_Phgk47WZwBhjuMXpVuzaZqLf/f800/1728719972.jpeg?s=24afe58bce0863f9c34d21f107ae2f7e7e9a2a36",
+    "publicationDate": 1728719972,
+    "id": 5200783799
+  },
+  {
     "link": "https://www.vinted.fr/items/4669713897-501st-battle-pack",
-    "price": null,
+    "price": 16.45,
     "title": "501st battle pack",
     "imgUrl": "https://images1.vinted.net/t/02_002ec_nbaad9NNRDajoTtpgHzia1bi/f800/1718967107.jpeg?s=42fb956847325f35f3fc8e60031f4d13d98a6917",
     "publicationDate": 1718967107,
     "id": 4669713897
   },
   {
+    "link": "https://www.vinted.fr/items/5280383166-set-lego-star-wars-75345-senza-minifigure-con-scatola-e-libretto",
+    "price": 9.1,
+    "title": "Set LEGO Star wars 75345 senza minifigure con scatola e libretto",
+    "imgUrl": "https://images1.vinted.net/t/03_0122c_joeuPeVM1WFLs2viSLhY3zwj/f800/1729948533.jpeg?s=6bb76cfe93490f841efe63690045481c7184f5ad",
+    "publicationDate": 1729948533,
+    "id": 5280383166
+  },
+  {
+    "link": "https://www.vinted.fr/items/4048974967-minifigurine-lego-star-wars-clone-trooper-501st-sw1247",
+    "price": 6.99,
+    "title": "Minifigurine LEGO Star Wars Clone Trooper 501st (sw1247)",
+    "imgUrl": "https://images1.vinted.net/t/03_02109_WMPAccUAN8iQpzjdHrAb2sMq/f800/1706791632.jpeg?s=f72de36c1dfc904987dd06c822ae806784180ce2",
+    "publicationDate": 1706791632,
+    "id": 4048974967
+  },
+  {
     "link": "https://www.vinted.fr/items/3889292780-lego-star-wars",
-    "price": null,
+    "price": 19.6,
     "title": "Lego Star wars",
     "imgUrl": "https://images1.vinted.net/t/03_0009e_SXhDTWw5jcstHbBkhNPGwQCd/f800/1702799863.jpeg?s=c8ae597c436172d8a5e454eb422e3f3058af9e8e",
     "publicationDate": 1702799863,
@@ -353,15 +601,31 @@
   },
   {
     "link": "https://www.vinted.fr/items/4469706400-lego-star-wars-75345-501st-clone-trooper-battle-pack",
-    "price": null,
+    "price": 16.45,
     "title": "Lego star wars 75345 501st clone trooper battle pack",
     "imgUrl": "https://images1.vinted.net/t/02_01ee2_XZunoVRta2Ez7McUUqJfBHHA/f800/1715069082.jpeg?s=218360d83483c8a56f90faa7eab2ec84b339454f",
     "publicationDate": 1715069082,
     "id": 4469706400
   },
   {
+    "link": "https://www.vinted.fr/items/4055385988-minifigurine-lego-star-wars-officier-clone-trooper-501st-sw1246",
+    "price": 6.99,
+    "title": "Minifigurine LEGO Star Wars Officier Clone Trooper 501st (sw1246)",
+    "imgUrl": "https://images1.vinted.net/t/03_01841_H64Jx45yEjMnifmRisbSoASh/f800/1706956366.jpeg?s=c04c39574029a20ae26fc7f9838a2b7c9b7b402e",
+    "publicationDate": 1706956366,
+    "id": 4055385988
+  },
+  {
+    "link": "https://www.vinted.fr/items/3156507456-lego-star-wars-75345-501st-clone-trooper-battle-pack-sealed",
+    "price": 17.49,
+    "title": "Lego Star Wars 75345: 501st Clone trooper battle pack (Sealed)",
+    "imgUrl": "https://images1.vinted.net/t/01_02517_Fjd1dcTtCYqfpKqhgCKV8xZ5/f800/1687250743.jpeg?s=797d4a1314226096f188f2ce8637573f91299149",
+    "publicationDate": 1687250743,
+    "id": 3156507456
+  },
+  {
     "link": "https://www.vinted.fr/items/5261300503-oficial-clone-trooper-lego-star-wars-75345",
-    "price": null,
+    "price": 7,
     "title": "Oficial Clone Trooper Lego Star Wars 75345",
     "imgUrl": "https://images1.vinted.net/t/04_0167e_npU2b4y5DUUV2XpK9zsW11Xg/f800/1729607871.jpeg?s=95515cb078ff9f570afd90deccc062364c1bbb52",
     "publicationDate": 1729607871,
@@ -369,23 +633,15 @@
   },
   {
     "link": "https://www.vinted.fr/items/5354273083-lego-75345-star-wars-pack-de-combate-clone-troopers-da-501",
-    "price": null,
+    "price": 21.7,
     "title": "Lego 75345 star wars, pack de combate clone troopers da 501",
     "imgUrl": "https://images1.vinted.net/t/04_02414_ffj9oXv7mUFTyS1iD8FBzmVQ/f800/1731172696.jpeg?s=96291bdf08001ebd99a6e504a43ff07545d7d414",
     "publicationDate": 1731172696,
     "id": 5354273083
   },
   {
-    "link": "https://www.vinted.fr/items/3156507456-lego-star-wars-75345-501st-clone-trooper-battle-pack-sealed",
-    "price": null,
-    "title": "Lego Star Wars 75345: 501st Clone trooper battle pack (Sealed)",
-    "imgUrl": "https://images1.vinted.net/t/01_02517_Fjd1dcTtCYqfpKqhgCKV8xZ5/f800/1687250743.jpeg?s=797d4a1314226096f188f2ce8637573f91299149",
-    "publicationDate": 1687250743,
-    "id": 3156507456
-  },
-  {
     "link": "https://www.vinted.fr/items/5152245405-lego-set-75345-star-wars-501st-clone-troopers-nieuw",
-    "price": null,
+    "price": 16.45,
     "title": "LEGO set 75345 - Star Wars 501st Clone Troopers - Nieuw",
     "imgUrl": "https://images1.vinted.net/t/01_0128b_jd61FySZidjXXF7AW35QqV37/f800/1727965591.jpeg?s=95019494f8689d55262880f31764a32962accd07",
     "publicationDate": 1727965591,
@@ -393,31 +649,71 @@
   },
   {
     "link": "https://www.vinted.fr/items/4989505939-lego-battle-pack-clone-trooper-501st-75345",
-    "price": null,
+    "price": 16.45,
     "title": "Lego Battle Pack clone Trooper 501st 75345",
     "imgUrl": "https://images1.vinted.net/t/02_0241a_f7DJzFrTAc7bcUAweuxiu6xE/f800/1725524449.jpeg?s=7bb0fa71298fbf2adfaa2f0d74b217323f3bd2dd",
     "publicationDate": 1725524449,
     "id": 4989505939
   },
   {
+    "link": "https://www.vinted.fr/items/4287347773-lego-star-wars-75345-pack-de-combat-des-clone-troopers",
+    "price": 17.5,
+    "title": "LEGO Star Wars 75345 Pack de combat des Clone Troopers",
+    "imgUrl": "https://images1.vinted.net/t/03_00162_8cWjakrEsZcxHVUgd54dMq5D/f800/1711708727.jpeg?s=43dde75b1f5465a15b29e86d8ab9f83ef45e943a",
+    "publicationDate": 1711708727,
+    "id": 4287347773
+  },
+  {
+    "link": "https://www.vinted.fr/items/4664600990-lego-star-wars-75345",
+    "price": 9.1,
+    "title": "Lego star wars 75345",
+    "imgUrl": "https://images1.vinted.net/t/03_00c57_9k5r9w3RkXrzB74hhNfpdHTS/f800/1718828140.jpeg?s=fd984a421a297ca3e9b6b9d05927710ace26ea5f",
+    "publicationDate": 1718828140,
+    "id": 4664600990
+  },
+  {
     "link": "https://www.vinted.fr/items/4629088686-lego-star-wars-75345",
-    "price": null,
+    "price": 16.45,
     "title": "Lego Star Wars 75345",
     "imgUrl": "https://images1.vinted.net/t/03_00b84_u5Ja9T3ErnNg5i4kJQodicsu/f800/1718118004.jpeg?s=18db9fd35f0197870a78e6e1f6a9e067f5a89794",
     "publicationDate": 1718118004,
     "id": 4629088686
   },
   {
+    "link": "https://www.vinted.fr/items/4607521654-lego-star-wars-clone-heavy-trooper-501st-legion-sw1247",
+    "price": 5.95,
+    "title": "Lego Star Wars Clone Heavy Trooper, 501st Legion (Sw1247)",
+    "imgUrl": "https://images1.vinted.net/t/03_002fc_xXdWEMP3tPpSM8EgykzgoN3h/f800/1717692052.jpeg?s=426941e85869ce23b0086afff28e562304662a5e",
+    "publicationDate": 1717692052,
+    "id": 4607521654
+  },
+  {
     "link": "https://www.vinted.fr/items/5349864056-75345-lego-star-wars-501st-clone-troopers-battle-pack",
-    "price": null,
+    "price": 22.75,
     "title": "75345 LEGO Star Wars - 501st Clone Troopers - Battle-pack",
     "imgUrl": "https://images1.vinted.net/t/04_016cd_fzjgxaGEyE7mTFJrWNEsKvo8/f800/1731098098.jpeg?s=de6b30cb0e6154c0471838856a6d6288ffff8724",
     "publicationDate": 1731098098,
     "id": 5349864056
   },
   {
+    "link": "https://www.vinted.fr/items/3809335216-battle-pack-lego-star-wars-75345",
+    "price": 21.7,
+    "title": "battle pack lego star wars 75345",
+    "imgUrl": "https://images1.vinted.net/t/01_0180a_W3xDTcN5PDmiHEWneZ6LoFPp/f800/1700954699.jpeg?s=55527f7268f25973419898d659fad5bb28db91b5",
+    "publicationDate": 1700954699,
+    "id": 3809335216
+  },
+  {
+    "link": "https://www.vinted.fr/items/4880404997-75345-lego-star-wars-501th-clone-troopers-battle-pack",
+    "price": 15.4,
+    "title": "75345 Lego Star Wars 501th Clone Troopers Battle Pack",
+    "imgUrl": "https://images1.vinted.net/t/03_024b0_GiTiUUBghfzGyJkEPbjjF77y/f800/1723495697.jpeg?s=49d04860adf6304d2ed187a3cf1ed4c335b6dc67",
+    "publicationDate": 1723495697,
+    "id": 4880404997
+  },
+  {
     "link": "https://www.vinted.fr/items/5210124974-lego-75345-501st-clone-troopers-battle-pack",
-    "price": null,
+    "price": 16.45,
     "title": "Lego 75345 501st clone troopers battle pack",
     "imgUrl": "https://images1.vinted.net/t/03_02479_R59MRKDp3NWLJ2jpPFeX5bUi/f800/1728827790.jpeg?s=5b5e10b9137d52126f56541cbd2ae6ffcfa81278",
     "publicationDate": 1728827790,
@@ -425,15 +721,23 @@
   },
   {
     "link": "https://www.vinted.fr/items/5191524807-lego-star-wars-75345",
-    "price": null,
+    "price": 21.7,
     "title": "Lego Star Wars 75345",
     "imgUrl": "https://images1.vinted.net/t/03_01099_cnRjuhExMaHxjXZfNZYqXijx/f800/1728553209.jpeg?s=9ebc28581027026543e5a4b72367c5e9ccc240ec",
     "publicationDate": 1728553209,
     "id": 5191524807
   },
   {
+    "link": "https://www.vinted.fr/items/5300221919-lego-stars-wars-set-75345",
+    "price": 5.94,
+    "title": "Lego Stars Wars Set 75345",
+    "imgUrl": "https://images1.vinted.net/t/02_00829_NzKodjjLoSHkLei3SKH6f2jm/f800/1730235812.jpeg?s=0af7063e8d4ec62969306c1d5df6fff125946b5b",
+    "publicationDate": 1730235812,
+    "id": 5300221919
+  },
+  {
     "link": "https://www.vinted.fr/items/4565639196-instructieboekje-voor-het-bouwen-van-lego-starwars-75345",
-    "price": null,
+    "price": 3.85,
     "title": "Instructieboekje voor het bouwen van Lego Starwars 75345",
     "imgUrl": "https://images1.vinted.net/t/01_013e1_cvGakX9h9HE69DvHzPad4EV7/f800/1716893422.jpeg?s=9ca1788a8893ed812d40b10eac3a81eb0da1f738",
     "publicationDate": 1716893422,
@@ -441,15 +745,23 @@
   },
   {
     "link": "https://www.vinted.fr/items/5129306586-lego-star-wars-75345",
-    "price": null,
+    "price": 19.6,
     "title": "Lego star wars 75345",
     "imgUrl": "https://images1.vinted.net/t/01_0007a_96TtCYwmV6Df9PQ9TKTVUT6p/f800/1727620854.jpeg?s=24bf5d6a2bc7392c2987aad368eb35d982b5a001",
     "publicationDate": 1727620854,
     "id": 5129306586
   },
   {
+    "link": "https://www.vinted.fr/items/5002029232-lego-star-wars-75345",
+    "price": 17.5,
+    "title": "Lego Star Wars 75345",
+    "imgUrl": "https://images1.vinted.net/t/01_016e4_cfzGirrBdCQnPNGJXvsRau4Y/f800/1725728792.jpeg?s=3912bfdea5282462525ee8e43f4fe28db8db4acc",
+    "publicationDate": 1725728792,
+    "id": 5002029232
+  },
+  {
     "link": "https://www.vinted.fr/items/3797274668-lego-star-wars-75345-501-clone-troopers-battle-pack",
-    "price": null,
+    "price": 16.45,
     "title": "Lego Star Wars 75345 501 Clone Troopers Battle Pack",
     "imgUrl": "https://images1.vinted.net/t/03_0016e_jD7iQaBeS6w3GPfpLBEmtJhp/f800/1700688980.jpeg?s=cc74acb1f9e4e98ccf1252dcd8c944ee0201a909",
     "publicationDate": 1700688980,
@@ -457,7 +769,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5263582827-lego-75345",
-    "price": null,
+    "price": 21.7,
     "title": "lego 75345",
     "imgUrl": "https://images1.vinted.net/t/04_0151a_DoPPqWWEzdZgpzCh4wxE7Vtf/f800/1729636352.jpeg?s=8b908472c756557ebdb64d30e8fe85fffb5007da",
     "publicationDate": 1729636352,
@@ -465,7 +777,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5358115542-lego-star-wars-501st-clone-troopers-battle-pack-75345-novo",
-    "price": null,
+    "price": 16.45,
     "title": "Lego Star Wars 501st  Clone troopers battle pack  75345 novo",
     "imgUrl": "https://images1.vinted.net/t/04_0098a_bsFqKz8QQDk63bDorfAbGYgd/f800/1731242917.jpeg?s=a843896cfed9d1c9adf4637cfe696d472915cec4",
     "publicationDate": 1731242917,
@@ -473,7 +785,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4437726713-lego-star-wars-75345",
-    "price": null,
+    "price": 21.7,
     "title": "Lego star wars 75345",
     "imgUrl": "https://images1.vinted.net/t/01_0205b_SgK4twULsEhuDFWvsNdV48Ap/f800/1714477797.jpeg?s=90f3a0d0cdb1bee880b24689b92a091a6fa28911",
     "publicationDate": 1714477797,
@@ -481,23 +793,15 @@
   },
   {
     "link": "https://www.vinted.fr/items/5357273372-lego-starwars-75359-75345-new",
-    "price": null,
+    "price": 33.25,
     "title": "Lego StarWars 75359 & 75345 (new)",
     "imgUrl": "https://images1.vinted.net/t/04_023a1_fJBGXpNLGfoFEuAhorGCqmhR/f800/1731237467.jpeg?s=89a78263ef73baa7a1091ffe79d9b7102f3f7e91",
     "publicationDate": 1731237467,
     "id": 5357273372
   },
   {
-    "link": "https://www.vinted.fr/items/3010143169-lego-star-wars-75345-pack-de-combat-des-clone-troopers-de-la-501eme-legion",
-    "price": null,
-    "title": "Lego Star Wars 75345 - Pack de combat des Clone Troopers de la 501ème légion",
-    "imgUrl": "https://images1.vinted.net/t/02_02292_vJiu1dSNyBC3WHRTQ8K6z5Ug/f800/1683876784.jpeg?s=6187be080388c234bdfe171dec3bcf05c2cf1b8e",
-    "publicationDate": 1683876784,
-    "id": 3010143169
-  },
-  {
     "link": "https://www.vinted.fr/items/4674085690-lego-star-wars-75345",
-    "price": null,
+    "price": 21.7,
     "title": "Lego star wars 75345",
     "imgUrl": "https://images1.vinted.net/t/01_00a5e_g42aApRYVUgpCVcTK1ZUe2f8/f800/1719064553.jpeg?s=35cd989700a3ef5adfbd92250924f81af3ce1817",
     "publicationDate": 1719064553,
@@ -505,23 +809,39 @@
   },
   {
     "link": "https://www.vinted.fr/items/3170335069-lego-star-wars-75345",
-    "price": null,
+    "price": 21.6,
     "title": "Lego star wars 75345",
     "imgUrl": "https://images1.vinted.net/t/01_0268c_bQXWXxMqCo8dj6VeMZie4cVe/f800/1687605514.jpeg?s=f112a6356f88b5c08056d75c022fb20b162de1ff",
     "publicationDate": 1687605514,
     "id": 3170335069
   },
   {
+    "link": "https://www.vinted.fr/items/4753442443-lego-star-wars-75345-complet",
+    "price": 19.6,
+    "title": "Lego star wars 75345 complet",
+    "imgUrl": "https://images1.vinted.net/t/02_02046_tenqS9d3fPBpp3B52Ay6ySvG/f800/1720722192.jpeg?s=3b06d66d02a64ec8b6c2f043d6c229f43c5c2552",
+    "publicationDate": 1720722192,
+    "id": 4753442443
+  },
+  {
     "link": "https://www.vinted.fr/items/4923587723-qyyq-lego-75345-star-wars-501st-clone-troopers-battle-pack",
-    "price": null,
+    "price": 18.5,
     "title": "qyyq Lego 75345 Star Wars 501st Clone Troopers Battle Pack",
     "imgUrl": "https://images1.vinted.net/t/03_0249d_YT1vW2RSzAKtdRu66zL27KTp/f800/1724344427.jpeg?s=9f4654db4f77ab42d678a966a9b225b181b0bf93",
     "publicationDate": 1724344427,
     "id": 4923587723
   },
   {
+    "link": "https://www.vinted.fr/items/4293897464-lego-star-wars-75345-clone-troopers-battle-pack",
+    "price": 12.25,
+    "title": "Lego Star Wars 75345 Clone Troopers Battle Pack",
+    "imgUrl": "https://images1.vinted.net/t/03_00f2e_j6uWein3DFTYakNozC9uQhfT/f800/1711826009.jpeg?s=925d5c42717fc64cfa6f17f673f3d2b35ef961eb",
+    "publicationDate": 1711826009,
+    "id": 4293897464
+  },
+  {
     "link": "https://www.vinted.fr/items/4452246368-lego-starwars-75345-501st-clone-troopers-battle-pack",
-    "price": null,
+    "price": 21.69,
     "title": "Lego StarWars 75345 - 501st Clone Troopers Battle Pack",
     "imgUrl": "https://images1.vinted.net/t/02_024c5_iEhsG9kcg6vVt2YBhm9dYoAG/f800/1714752298.jpeg?s=f1853d2fdbf9c48cb20a0b8e28a54675271034c5",
     "publicationDate": 1714752298,
@@ -529,7 +849,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4519521643-lego-starwars-75345-501st-clone-troopers-batte-pack",
-    "price": null,
+    "price": 21.7,
     "title": "Lego StarWars 75345 501st Clone Troopers Batte Pack",
     "imgUrl": "https://images1.vinted.net/t/01_012b8_QWyjerkbHeS9B8hv7neiGGfY/f800/1716035577.jpeg?s=416740424a769c6329e84c353eac9c7427107abb",
     "publicationDate": 1716035577,
@@ -537,15 +857,23 @@
   },
   {
     "link": "https://www.vinted.fr/items/4295080748-lego-75345-star-wars-clone-troopers-battre-pack",
-    "price": null,
+    "price": 20.65,
     "title": "Lego 75345 star wars clone troopers battre pack",
     "imgUrl": "https://images1.vinted.net/t/01_006fa_M3NQ2KvZgBxHHpnNPfvNvSXt/f800/1711879925.jpeg?s=5e0db88c6da4575281c6f179d8e157f4e9ac4e31",
     "publicationDate": 1711879925,
     "id": 4295080748
   },
   {
+    "link": "https://www.vinted.fr/items/3010143169-lego-star-wars-75345-pack-de-combat-des-clone-troopers-de-la-501eme-legion",
+    "price": 24.85,
+    "title": "Lego Star Wars 75345 - Pack de combat des Clone Troopers de la 501ème légion",
+    "imgUrl": "https://images1.vinted.net/t/02_02292_vJiu1dSNyBC3WHRTQ8K6z5Ug/f800/1683876784.jpeg?s=6187be080388c234bdfe171dec3bcf05c2cf1b8e",
+    "publicationDate": 1683876784,
+    "id": 3010143169
+  },
+  {
     "link": "https://www.vinted.fr/items/2939734878-lego-75345-501-clone-troopers",
-    "price": null,
+    "price": 24.85,
     "title": "LEGO 75345 - 501 Clone Troopers",
     "imgUrl": "https://images1.vinted.net/t/03_00a3c_AvihZs69siCaFvgXKy41Gohi/f800/1682323060.jpeg?s=5ff8384a82ee6747e5859a18ccd77b79d1fda105",
     "publicationDate": 1682323060,
@@ -553,7 +881,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/3853369779-lego-star-wars-75345",
-    "price": null,
+    "price": 17.5,
     "title": "Lego Star Wars 75345",
     "imgUrl": "https://images1.vinted.net/t/01_0116b_68mSvez9rhNTUrpsUaadtYj3/f800/1701890085.jpeg?s=3bad553ee841853cf12203ba57fe1c9fecf9ad43",
     "publicationDate": 1701890085,
@@ -561,7 +889,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4744653496-lego-75345",
-    "price": null,
+    "price": 17.5,
     "title": "Lego 75345",
     "imgUrl": "https://images1.vinted.net/t/01_00fa0_jcXCwXsgNRs8sjLUteq1fh1f/f800/1720541502.jpeg?s=d6cffc38cc41f24bad0b2fff27ca7f0c5eb15753",
     "publicationDate": 1720541502,
@@ -569,23 +897,39 @@
   },
   {
     "link": "https://www.vinted.fr/items/3806908912-lego-star-wars-clone-troopers-75345",
-    "price": null,
+    "price": 21.7,
     "title": "Lego Star Wars Clone Troopers 75345",
     "imgUrl": "https://images1.vinted.net/t/03_01c47_LW6cEJaPz2wqtw5eJKDWkk18/f800/1700919550.jpeg?s=fbfef1233afda1c36c6bd7eb413eff0c811ff41f",
     "publicationDate": 1700919550,
     "id": 3806908912
   },
   {
+    "link": "https://www.vinted.fr/items/3944481395-lego-star-wars-clones",
+    "price": 21.7,
+    "title": "Lego star wars - clones ",
+    "imgUrl": "https://images1.vinted.net/t/02_00511_nh2pofRtQWgEXe5CAtyQwXLk/f800/1704530735.jpeg?s=8c81ea5cd6c6faf8a8843c7a3334402c34ef8436",
+    "publicationDate": 1704530735,
+    "id": 3944481395
+  },
+  {
     "link": "https://www.vinted.fr/items/4059584368-lego-star-wars-75345",
-    "price": null,
+    "price": 16.45,
     "title": "LEGO star wars 75345",
     "imgUrl": "https://images1.vinted.net/t/03_00df7_mq9HypKdvQL9Xk9FHTjJrgiz/f800/1707042169.jpeg?s=65503bc675d688ca0cadb428c5e7413c1a865f26",
     "publicationDate": 1707042169,
     "id": 4059584368
   },
   {
+    "link": "https://www.vinted.fr/items/3765280002-lego-75345-solo-1-clon",
+    "price": 7,
+    "title": "Lego 75345 sólo 1 clon",
+    "imgUrl": "https://images1.vinted.net/t/02_007b2_mGAuYwX4KW3r42a45PApXF6F/f800/1700078700.jpeg?s=68fc1f50a1d27b16da223218eed59d591e1d0b39",
+    "publicationDate": 1700078700,
+    "id": 3765280002
+  },
+  {
     "link": "https://www.vinted.fr/items/4640426647-lego-75345-star-wars",
-    "price": null,
+    "price": 21.7,
     "title": "Lego 75345 star wars",
     "imgUrl": "https://images1.vinted.net/t/02_012fb_RB3A7D1wiSyN7kLNnNe4pjVQ/f800/1718360214.jpeg?s=fcaf4abf65fd53e70046bc5addb98836024faf62",
     "publicationDate": 1718360214,
@@ -593,23 +937,55 @@
   },
   {
     "link": "https://www.vinted.fr/items/4676458922-lego-star-wars-75345-501-clone-troopers-battle-pack",
-    "price": null,
+    "price": 16.45,
     "title": "Lego Star Wars 75345 501 Clone Troopers Battle Pack",
     "imgUrl": "https://images1.vinted.net/t/02_005ff_EaSKeogAQKsJLCDRoxU3T8iv/f800/1719130760.jpeg?s=55f1258c99744801f35e35c9ae7faa4a6ccf2542",
     "publicationDate": 1719130760,
     "id": 4676458922
   },
   {
+    "link": "https://www.vinted.fr/items/4138218243-lote-lego-star-wars",
+    "price": 32.2,
+    "title": "lote lego star wars",
+    "imgUrl": "https://images1.vinted.net/t/02_01834_97xttB1KUJc8Ax5P74aMXuyu/f800/1708713089.jpeg?s=e576de65a824dd32e0e4635fdb722a635dbfd947",
+    "publicationDate": 1708713089,
+    "id": 4138218243
+  },
+  {
+    "link": "https://www.vinted.fr/items/3824049493-lego-75345",
+    "price": 26.95,
+    "title": "Lego 75345",
+    "imgUrl": "https://images1.vinted.net/t/02_02110_Qzg5eZnqL8ZTQKHpJvnqm73S/f800/1701253350.jpeg?s=0587398be9b747ea97c91e6ea510c98234e1f0ba",
+    "publicationDate": 1701253350,
+    "id": 3824049493
+  },
+  {
+    "link": "https://www.vinted.fr/items/4691115538-lego-star-wars",
+    "price": 16.45,
+    "title": "Lego star Wars",
+    "imgUrl": "https://images1.vinted.net/t/01_0229f_JxaUEYxi7yjEVE1S9xuD5QYj/f800/1719418764.jpeg?s=71a35fc301bf8ff28e295bd0262124670f63c141",
+    "publicationDate": 1719418764,
+    "id": 4691115538
+  },
+  {
     "link": "https://www.vinted.fr/items/4555783294-lego-star-wars-clone-troopers-battle-pack-75345",
-    "price": null,
+    "price": 16.45,
     "title": "LEGO Star Wars Clone Troopers Battle Pack 75345",
     "imgUrl": "https://images1.vinted.net/t/03_009ac_dAsQjgMCpfvwjfvWKhoUQrR5/f800/1716721892.jpeg?s=9749670a614d336dde0966fa9047731655f3003b",
     "publicationDate": 1716721892,
     "id": 4555783294
   },
   {
+    "link": "https://www.vinted.fr/items/5383313456-set-lego-star-wars-75345",
+    "price": 21.7,
+    "title": "Set lego star Wars #75345",
+    "imgUrl": "https://images1.vinted.net/t/04_00f6d_yJQZdqyvppjdR4HHsAJd2BvR/f800/1731610407.jpeg?s=047cc656a7350784d328efce6a8b2a428b23356a",
+    "publicationDate": 1731610407,
+    "id": 5383313456
+  },
+  {
     "link": "https://www.vinted.fr/items/3691243779-lego-star-wars",
-    "price": null,
+    "price": 21.7,
     "title": "Lego  star Wars ",
     "imgUrl": "https://images1.vinted.net/t/03_00b5b_YXLVdZThtSoZKnZLocGabRku/f800/1698759245.jpeg?s=a4708678df6ef03cf6048f973672b9cdce756f26",
     "publicationDate": 1698759245,
@@ -617,7 +993,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/3849700021-lego-star-wars-75345",
-    "price": null,
+    "price": 19.6,
     "title": "LEGO Star Wars 75345",
     "imgUrl": "https://images1.vinted.net/t/02_02666_DUNtcDMi7vzENgdjLhPEmxBZ/f800/1701803848.jpeg?s=356f17a51892ccdf1af4d6e7770c84fb24183119",
     "publicationDate": 1701803848,
@@ -625,7 +1001,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4543399816-lego-75345-battle-pack",
-    "price": null,
+    "price": 15.4,
     "title": "Lego 75345 battle pack",
     "imgUrl": "https://images1.vinted.net/t/02_00927_HmCvkfMnNxPJgZErKv73eznL/f800/1716459384.jpeg?s=61fe9618f896c9a8725cd08b8f688d6024698566",
     "publicationDate": 1716459384,
@@ -633,7 +1009,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/3700353648-lego-75345",
-    "price": null,
+    "price": 16.45,
     "title": "Lego 75345",
     "imgUrl": "https://images1.vinted.net/t/01_00322_zTeRs3P1bAHg44NCW67r9Sew/f800/1698931625.jpeg?s=2774aaf2b50d27b088a4b92ea97395d779901702",
     "publicationDate": 1698931625,
@@ -641,7 +1017,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4948924897-lego-disney-star-wars-501st-clone-troopers-battle-pack-75345",
-    "price": null,
+    "price": 17.5,
     "title": "Lego Disney star wars 501st clone troopers battle pack 75345",
     "imgUrl": "https://images1.vinted.net/t/01_00a2f_ZpRMNeyFgxJ2gJ9fKaT536vo/f800/1724780280.jpeg?s=b32e6e6648bf3533e251e540e92ca43761adf224",
     "publicationDate": 1724780280,
@@ -649,23 +1025,15 @@
   },
   {
     "link": "https://www.vinted.fr/items/4012462783-lego-star-wars-501st-specialist-battle-pack-75345",
-    "price": null,
+    "price": 19.08,
     "title": "Lego star wars 501st specialist battle pack 75345",
     "imgUrl": "https://images1.vinted.net/t/03_017a2_LR8wmVx32QEGCMpdJYtkutqS/f800/1705958796.jpeg?s=2e26b4e7c561d7947ec145433c1e6118f3db2718",
     "publicationDate": 1705958796,
     "id": 4012462783
   },
   {
-    "link": "https://www.vinted.fr/items/5214333989-lego-star-wars-75345",
-    "price": null,
-    "title": "Lego Star Wars 75345",
-    "imgUrl": "https://images1.vinted.net/t/01_01d95_FH8qaViVCPciRncHS9C8kH8w/f800/1728891187.jpeg?s=b358012b3652e35928d953b1fccb7888d3ea8c63",
-    "publicationDate": 1728891187,
-    "id": 5214333989
-  },
-  {
     "link": "https://www.vinted.fr/items/5308243526-lego-starwars-501th",
-    "price": null,
+    "price": 47.95,
     "title": "Lego Starwars 501th",
     "imgUrl": "https://images1.vinted.net/t/04_0160f_DWsDnGc4pgq8KJVWGozC6wXj/f800/1730392814.jpeg?s=b78e39d826e1004f77d0bcccc5ddcfdeb811e286",
     "publicationDate": 1730392814,
@@ -673,7 +1041,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5208773235-lego-75345-star-wars-clone-troopers-de-la-501eme-legion",
-    "price": null,
+    "price": 21.7,
     "title": "LEGO 75345 Star Wars Clone Troopers de la 501ème légion",
     "imgUrl": "https://images1.vinted.net/t/01_01705_4AxexKyKtTZv9yLow5QxhAJV/f800/1728820402.jpeg?s=fab68388e7db96992c4df6d24537d52acec7cfd5",
     "publicationDate": 1728820402,
@@ -681,7 +1049,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5355669457-lego-star-wars-501st-clone-troopers-battle-pack-bouwbaar-speelgoed-met-minifiguren-75345",
-    "price": null,
+    "price": 15.4,
     "title": "LEGO 🧱🧱 Star Wars 501st Clone Troopers Battle Pack Bouwbaar Speelgoed met Minifiguren - 75345",
     "imgUrl": "https://images1.vinted.net/t/03_0255e_AFMZhhNmYzwBb2p7P5TG2vkp/f800/1731192819.jpeg?s=e6626c756da0505d97cec4f3074f98af2fc5ef5c",
     "publicationDate": 1731192819,
@@ -689,7 +1057,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5006126544-lego-star-wars-75345-501st-clone-troopers-battle-pack",
-    "price": null,
+    "price": 19.55,
     "title": "Lego star wars 75345 - 501st clone troopers battle pack",
     "imgUrl": "https://images1.vinted.net/t/03_01b38_ssgEp9uMeovh2c8eYXQzbV6n/f800/1725800131.jpeg?s=38addfaad6f0bc22e04eb8d0d82f3d3cb1a7a35e",
     "publicationDate": 1725800131,
@@ -697,7 +1065,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4768692628-501st-clone-troopers-battle-pack-75345-lego",
-    "price": null,
+    "price": 19.08,
     "title": "501st clone troopers battle pack 75345 lego",
     "imgUrl": "https://images1.vinted.net/t/03_01119_sdqyDdhWvP73dqM1vSzTrv5z/f800/1721057374.jpeg?s=25459eb024dc3a1358e2afa7bb0bec8aa8e470e7",
     "publicationDate": 1721057374,
@@ -705,7 +1073,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/3909329178-lego-75345-battle-pack-clone-troopers-legione-501",
-    "price": null,
+    "price": 19.6,
     "title": "Lego 75345 battle pack clone troopers legione 501",
     "imgUrl": "https://images1.vinted.net/t/03_00eaf_hhpivisoKcQtkGKB178s7r25/f800/1703606183.jpeg?s=bcdd578a697c5c6d32c9f8c21fad33a6585f2f20",
     "publicationDate": 1703606183,
@@ -713,7 +1081,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4632480236-lego-star-wars-75345",
-    "price": null,
+    "price": 26.95,
     "title": "Lego star wars 75345",
     "imgUrl": "https://images1.vinted.net/t/02_01bb4_LNnMyXs6iVNRAULG2n6z95dg/f800/1718191848.jpeg?s=0ae9b2478d4832a73043f430b33e18af011228b0",
     "publicationDate": 1718191848,
@@ -721,7 +1089,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4632469617-lego-star-wars-75345",
-    "price": null,
+    "price": 26.95,
     "title": "Lego star wars 75345",
     "imgUrl": "https://images1.vinted.net/t/03_01bc4_jWiWs43ktDu6woC9F7Yq65Zr/f800/1718191716.jpeg?s=a2a2736f5418955d7f6be89a4b80283e86de81ac",
     "publicationDate": 1718191716,
@@ -729,39 +1097,31 @@
   },
   {
     "link": "https://www.vinted.fr/items/4490021523-lego-75345-501st-clone-troopers-battle-pack",
-    "price": null,
+    "price": 18.13,
     "title": "LEGO 75345 501st Clone Troopers Battle Pack",
     "imgUrl": "https://images1.vinted.net/t/01_0246e_erdzuVn3c61xFRUJSNFBeKMd/f800/1715454421.jpeg?s=1ea8018e0dd59f243fabb87e36d17ccdb2b9d995",
     "publicationDate": 1715454421,
     "id": 4490021523
   },
   {
+    "link": "https://www.vinted.fr/items/5399756812-lot-lego-star-wars-lire-lannonce",
+    "price": 58.45,
+    "title": "Lot LEGO Star Wars ( lire l’annonce )",
+    "imgUrl": "https://images1.vinted.net/t/04_01398_p3r1A2LfLT2wPR9uDUj2n4mE/f800/1731863548.jpeg?s=93b6fbfbf4ea4a41e6580c2501cd81beb266ba70",
+    "publicationDate": 1731863548,
+    "id": 5399756812
+  },
+  {
     "link": "https://www.vinted.fr/items/4027078584-lego-star-wars-75345-nieuw",
-    "price": null,
+    "price": 19.6,
     "title": "Lego Star Wars 75345 NIEUW!",
     "imgUrl": "https://images1.vinted.net/t/01_025d1_neXZ1F2iuSQh3nbTt45ehKpb/f800/1706335054.jpeg?s=3714f4f4dc91e2882f21545c9c27fc5d3b8be13b",
     "publicationDate": 1706335054,
     "id": 4027078584
   },
   {
-    "link": "https://www.vinted.fr/items/5399744385-lego-star-wars-7534575280",
-    "price": null,
-    "title": "Lego star wars 75345/75280",
-    "imgUrl": "https://images1.vinted.net/t/01_007b5_9ficnh9wJBkYTdveUWF2qKCP/f800/1731863471.jpeg?s=e514c0527d1f067339efde0d44c1b7fbb5433ee6",
-    "publicationDate": 1731863471,
-    "id": 5399744385
-  },
-  {
-    "link": "https://www.vinted.fr/items/4628212305-lego-star-wars-75345-501st-clone-troopers-battle-pack",
-    "price": null,
-    "title": "Lego star wars 75345 - 501st Clone Troopers Battle Pack",
-    "imgUrl": "https://images1.vinted.net/t/02_006ff_zP1KcWXpWvprzixjkiJEMipC/f800/1718108095.jpeg?s=63a85e69d9419f68e2a7ce8ac4b40e4005a28be9",
-    "publicationDate": 1718108095,
-    "id": 4628212305
-  },
-  {
     "link": "https://www.vinted.fr/items/3865910363-lego-star-wars-75345-neuf-et-scelle",
-    "price": null,
+    "price": 21.7,
     "title": "Lego Star Wars - 75345 - Neuf et scellé",
     "imgUrl": "https://images1.vinted.net/t/01_00c63_dS4Z3qJjaPV2Q6nndDYbcj3r/f800/1702205844.jpeg?s=2fb16c5b6a2f79f362076a43d249bb671724114f",
     "publicationDate": 1702205844,
@@ -769,7 +1129,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4704165768-lego-75345-star-wars-clone-troopers-de-la-501eme-legion",
-    "price": null,
+    "price": 21.7,
     "title": "LEGO 75345 Star Wars Clone Troopers de la 501ème légion",
     "imgUrl": "https://images1.vinted.net/t/02_0086f_eCvGQxVVRmAshj1eFfGsdUhT/f800/1719744985.jpeg?s=aedc6d4f6331f44a03f0776f5c589cfdd7d8356d",
     "publicationDate": 1719744985,
@@ -777,15 +1137,31 @@
   },
   {
     "link": "https://www.vinted.fr/items/4511663239-lego-star-wars-75345",
-    "price": null,
+    "price": 19.6,
     "title": "Lego star wars 75345",
     "imgUrl": "https://images1.vinted.net/t/01_020ba_sk7JHTsoxM8LGXXQtStSNtzn/f800/1715867461.jpeg?s=c0eb2eda9da4f24989c131a340d3ce28d6c5ad86",
     "publicationDate": 1715867461,
     "id": 4511663239
   },
   {
+    "link": "https://www.vinted.fr/items/5399744385-lego-star-wars-7534575280",
+    "price": 53.2,
+    "title": "Lego star wars 75345/75280",
+    "imgUrl": "https://images1.vinted.net/t/01_007b5_9ficnh9wJBkYTdveUWF2qKCP/f800/1731863471.jpeg?s=e514c0527d1f067339efde0d44c1b7fbb5433ee6",
+    "publicationDate": 1731863471,
+    "id": 5399744385
+  },
+  {
+    "link": "https://www.vinted.fr/items/5214333989-lego-star-wars-75345",
+    "price": 16.45,
+    "title": "Lego Star Wars 75345",
+    "imgUrl": "https://images1.vinted.net/t/01_01d95_FH8qaViVCPciRncHS9C8kH8w/f800/1728891187.jpeg?s=b358012b3652e35928d953b1fccb7888d3ea8c63",
+    "publicationDate": 1728891187,
+    "id": 5214333989
+  },
+  {
     "link": "https://www.vinted.fr/items/3665124624-lego-clone-troopers-battle-pack-75345",
-    "price": null,
+    "price": 20.65,
     "title": "LEGO clone troopers battle pack (75345)",
     "imgUrl": "https://images1.vinted.net/t/03_00ad9_1MseWP5x9g4DLpcPFe6sAa72/f800/1698259835.jpeg?s=b0f5198eabea5acbe791780277d82d155ad6d001",
     "publicationDate": 1698259835,
@@ -793,23 +1169,39 @@
   },
   {
     "link": "https://www.vinted.fr/items/5273885206-lego-star-wars-75345-75359-75391-neufincomplet",
-    "price": null,
+    "price": 18.55,
     "title": "Lego Star Wars 75345 - 75359 - 75391 (Neuf/Incomplet)",
     "imgUrl": "https://images1.vinted.net/t/01_02514_hD8deTGPx4tXGgkK6PANz4VV/f800/1729844317.jpeg?s=4fb95a448f17cf95784e15509df9ad07a54292b4",
     "publicationDate": 1729844317,
     "id": 5273885206
   },
   {
+    "link": "https://www.vinted.fr/items/4310475825-lego-star-wars-karton-ohne-inhalt",
+    "price": 1.75,
+    "title": "Lego Star Wars Karton OHNE Inhalt ",
+    "imgUrl": "https://images1.vinted.net/t/01_011d1_qaHgAvfhfky2M5oXBiNZyyat/f800/1712148401.jpeg?s=7541b3bbc156349728559cb0f142b6d03d96525f",
+    "publicationDate": 1712148401,
+    "id": 4310475825
+  },
+  {
     "link": "https://www.vinted.fr/items/3782191539-lego-stars-wars-75345",
-    "price": null,
+    "price": 20.65,
     "title": "Lego stars wars 75345 ",
     "imgUrl": "https://images1.vinted.net/t/01_00ab2_MG2p2iKakdAH3BxdvMbG5Bc1/f800/1700410261.jpeg?s=69d13f1c2e32ad3a31e95f6d5c9405751b914481",
     "publicationDate": 1700410261,
     "id": 3782191539
   },
   {
+    "link": "https://www.vinted.fr/items/4678254125-lot-de-2-lego-star-wars",
+    "price": 21.7,
+    "title": "Lot de 2 lego -- star wars",
+    "imgUrl": "https://images1.vinted.net/t/03_00ea3_2cPwCPhA5qRbh7ckokBNDsSu/f800/1719150253.jpeg?s=d7916beef60a197097008245852cdd1dd3491d28",
+    "publicationDate": 1719150253,
+    "id": 4678254125
+  },
+  {
     "link": "https://www.vinted.fr/items/2900997840-lego-star-wars-75345",
-    "price": null,
+    "price": 18.55,
     "title": "LEGO Star Wars 75345",
     "imgUrl": "https://images1.vinted.net/t/03_0026b_YmGHcBMeKwged8wSR3zaoEiV/f800/1681464634.jpeg?s=1a299658b13f4f6fb4dfa91687b2f4c5f85596c9",
     "publicationDate": 1681464634,
@@ -817,7 +1209,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/2626264587-lego-clone-commander-501st",
-    "price": null,
+    "price": 9.1,
     "title": "Lego Clone Commander 501st ",
     "imgUrl": "https://images1.vinted.net/t/01_02028_mbBNRWcJGUjRE61Z2CyfbTtt/f800/1674674706.jpeg?s=3f37744d26335707fb34001c9e8279d89500a1d5",
     "publicationDate": 1674674706,
@@ -825,31 +1217,39 @@
   },
   {
     "link": "https://www.vinted.fr/items/4251032004-lego-75345-clone-501st-neufscelle",
-    "price": null,
+    "price": 26.95,
     "title": "Lego 75345 Clone 501st Neuf/Scellé",
     "imgUrl": "https://images1.vinted.net/t/03_0022f_L3keFbJVKrNjkByGwMzFpL77/f800/1710968522.jpeg?s=5b36c8b5ed0b07858eaec7774eb703a8151ba2e1",
     "publicationDate": 1710968522,
     "id": 4251032004
   },
   {
+    "link": "https://www.vinted.fr/items/4170183733-lego-star-wars-75345-pack-de-combat-des-clone-troopers-de-la-501eme-legion",
+    "price": 21.7,
+    "title": "Lego star wars 75345 pack de combat des clone troopers de la 501eme légion ",
+    "imgUrl": "https://images1.vinted.net/t/02_00ae4_aWoeMvKLbQWHeFhWJajXiKwX/f800/1709379250.jpeg?s=40586579e259338b1a1a0ad1feacf12ecb57b085",
+    "publicationDate": 1709379250,
+    "id": 4170183733
+  },
+  {
     "link": "https://www.vinted.fr/items/4701623296-lego-star-wars-2x-75345-501st-clone-trooper-battle-pack",
-    "price": null,
+    "price": 34.3,
     "title": "Lego Star Wars 2x 75345 501st clone trooper battle pack",
     "imgUrl": "https://images1.vinted.net/t/03_0089b_qUbPW1wCNmhb8pgu1o2jv5rE/f800/1719674918.jpeg?s=53e12790be937a0657dada11c76a20f4bc433302",
     "publicationDate": 1719674918,
     "id": 4701623296
   },
   {
-    "link": "https://www.vinted.fr/items/4797989014-lego-star-wars-75345-501st-clone-troopers-battle-pack-neu",
-    "price": null,
-    "title": "LEGO Star Wars 75345 - 501st Clone Troopers Battle Pack NEU",
-    "imgUrl": "https://images1.vinted.net/t/03_00814_UUqTXjsM8wkX4AY57LZ27M96/f800/1721719870.jpeg?s=4813179a3c2be3ec447ae0736b287600d484246d",
-    "publicationDate": 1721719870,
-    "id": 4797989014
+    "link": "https://www.vinted.fr/items/3887828428-lego-star-wars-75345-pack-de-combat-des-clone-troopers-de-la-501eme-legion",
+    "price": 21.7,
+    "title": "Lego star wars 75345 pack de combat des clone troopers de la 501eme légion ",
+    "imgUrl": "https://images1.vinted.net/t/01_004cd_V8GtsZFCCDSjDcajWQxw6awi/f800/1702738144.jpeg?s=7da58fe189b6ac2322e77c3e992ee73c0b05956d",
+    "publicationDate": 1702738144,
+    "id": 3887828428
   },
   {
     "link": "https://www.vinted.fr/items/3973368014-lego-75345-clone-troopers-battle-pack-nieuw",
-    "price": null,
+    "price": 26.95,
     "title": "Lego 75345 clone troopers battle pack nieuw",
     "imgUrl": "https://images1.vinted.net/t/01_0239e_3XMbEvv2YUeK1Zobkzmzh4qt/f800/1705158679.jpeg?s=747996e97a55ce70b34bc5dfd3b9385864e5c88d",
     "publicationDate": 1705158679,
@@ -857,7 +1257,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/3913208140-lego-75345-pack-de-combate-clone-troopers-da-501a",
-    "price": null,
+    "price": 15.4,
     "title": "Lego 75345 - Pack de Combate Clone Troopers da 501ª",
     "imgUrl": "https://images1.vinted.net/t/02_00c11_AL274YnU3pd7hrXFNdANZwNx/f800/1703709833.jpeg?s=e5e69bf39922deeb4f8b001956a21fe014c398a6",
     "publicationDate": 1703709833,
@@ -865,39 +1265,47 @@
   },
   {
     "link": "https://www.vinted.fr/items/5107273156-lego-75345-501e-troopers-clone-battle-pack",
-    "price": null,
+    "price": 21.7,
     "title": "Lego - 75345 - 501e Troopers Clone battle pack",
     "imgUrl": "https://images1.vinted.net/t/02_014b2_G5ZYVrgKgmdpnADSmvPQorwP/f800/1727282338.jpeg?s=dd4855928be2dbebb1060def8bd4442aba31a3e0",
     "publicationDate": 1727282338,
     "id": 5107273156
   },
   {
+    "link": "https://www.vinted.fr/items/4628212305-lego-star-wars-75345-501st-clone-troopers-battle-pack",
+    "price": 20.65,
+    "title": "Lego star wars 75345 - 501st Clone Troopers Battle Pack",
+    "imgUrl": "https://images1.vinted.net/t/02_006ff_zP1KcWXpWvprzixjkiJEMipC/f800/1718108095.jpeg?s=63a85e69d9419f68e2a7ce8ac4b40e4005a28be9",
+    "publicationDate": 1718108095,
+    "id": 4628212305
+  },
+  {
     "link": "https://www.vinted.fr/items/4113289762-lego-75345-battlepack-501-clone-trooper",
-    "price": null,
+    "price": 21.7,
     "title": "Lego 75345, Battlepack 501 clone trooper",
     "imgUrl": "https://images1.vinted.net/t/01_00d6c_Dy3nDQzEcArHzvgekGpARw7E/f800/1708202688.jpeg?s=97db7e6a6e479620657992b3cc7a9b214eab266a",
     "publicationDate": 1708202688,
     "id": 4113289762
   },
   {
+    "link": "https://www.vinted.fr/items/5287457953-lego-stars-wars-75345-moc",
+    "price": 11.19,
+    "title": "Lego Stars Wars 75345 Moc",
+    "imgUrl": "https://images1.vinted.net/t/04_0196d_cpNsQC16DgLXMn1FwGj6mBcm/f800/1730043156.jpeg?s=950af4ad4dce9edb78da0ccacd545048494349fe",
+    "publicationDate": 1730043156,
+    "id": 5287457953
+  },
+  {
     "link": "https://www.vinted.fr/items/2793777989-75345-501st-clone-troopers-battle-pack-lego",
-    "price": null,
+    "price": 19.71,
     "title": "75345 - 501st Clone Troopers Battle Pack Lego",
     "imgUrl": "https://images1.vinted.net/t/03_01d3d_2NTtNRqKUXd3QjPS2ZRfRStX/f800/1678915410.jpeg?s=a7ac9b94da00ebbd8e3ff142874b77dcdda42237",
     "publicationDate": 1678915410,
     "id": 2793777989
   },
   {
-    "link": "https://www.vinted.fr/items/3765280002-lego-75345-solo-1-clon",
-    "price": null,
-    "title": "Lego 75345 sólo 1 clon",
-    "imgUrl": "https://images1.vinted.net/t/02_007b2_mGAuYwX4KW3r42a45PApXF6F/f800/1700078700.jpeg?s=68fc1f50a1d27b16da223218eed59d591e1d0b39",
-    "publicationDate": 1700078700,
-    "id": 3765280002
-  },
-  {
     "link": "https://www.vinted.fr/items/5070652151-lego-star-wars-75345-nieuw-in-doos",
-    "price": null,
+    "price": 21.69,
     "title": "LEGO Star Wars # 75345 nieuw in doos",
     "imgUrl": "https://images1.vinted.net/t/02_01eeb_YTVxH7spH7qWaXaLmid6KGdF/f800/1726742245.jpeg?s=81bd02b1d1dee1a986253d647228c87964c9a92c",
     "publicationDate": 1726742245,
@@ -905,15 +1313,31 @@
   },
   {
     "link": "https://www.vinted.fr/items/5361409111-lego-star-wars-501-clone-troopers",
-    "price": null,
+    "price": 26.95,
     "title": "Lego Star Wars 501 Clone troopers",
     "imgUrl": "https://images1.vinted.net/t/02_0050c_PAMWSs428Z159roipWw1ycxZ/f800/1731263502.jpeg?s=524e8ebf35a47ec7ba4f78965fe803e963a4546a",
     "publicationDate": 1731263502,
     "id": 5361409111
   },
   {
+    "link": "https://www.vinted.fr/items/3868408938-lego-75345-clone-501",
+    "price": 16.45,
+    "title": "Lego 75345 clone 501",
+    "imgUrl": "https://images1.vinted.net/t/03_01b69_Yz7cYf35At2gB4cjU4bj9K5d/f800/1702228591.jpeg?s=da89d939d9bc3d0ccc3dfeae0e8acaaedde528c1",
+    "publicationDate": 1702228591,
+    "id": 3868408938
+  },
+  {
+    "link": "https://www.vinted.fr/items/4896498003-lot-de-legos-star-wars",
+    "price": 45.85,
+    "title": "Lot de Legos Star-Wars",
+    "imgUrl": "https://images1.vinted.net/t/02_02318_RMrKjiS722ojujLqdPAWdDaT/f800/1723878487.jpeg?s=c825967d59f63684562a2ef41c9edeb76e844385",
+    "publicationDate": 1723878487,
+    "id": 4896498003
+  },
+  {
     "link": "https://www.vinted.fr/items/4673239018-lego-nr-75345clone-troopers-battle-501-st",
-    "price": null,
+    "price": 16.4,
     "title": "lego nr 75345.Clone troopers battle 501 st",
     "imgUrl": "https://images1.vinted.net/t/03_00930_PGLn4bcuHLKupPogKfkM8fa2/f800/1719054274.jpeg?s=368a053686bc8a5d37e6e650772ae90bea9292cd",
     "publicationDate": 1719054274,
@@ -921,7 +1345,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/3701958890-set-lego-star-wars",
-    "price": null,
+    "price": 21.7,
     "title": "Set lego star wars",
     "imgUrl": "https://images1.vinted.net/t/03_00a97_aLy1QjWfKKVxB6CSqWWjQou5/f800/1698947312.jpeg?s=4e55dfabf08a6d41232a5b98767b1cd5370c154c",
     "publicationDate": 1698947312,
@@ -929,7 +1353,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5173654208-lego-star-wars-75345-501-clone-troppers-battle-pack",
-    "price": null,
+    "price": 19.6,
     "title": "Lego Star Wars 75345 - 501 Clone Troppers Battle Pack",
     "imgUrl": "https://images1.vinted.net/t/03_01549_nQmFyTJ5dyGFyEt2aVi5VzpJ/f800/1728251063.jpeg?s=073094729e3ebfe1720fda5bb096b0d474feb7da",
     "publicationDate": 1728251063,
@@ -937,7 +1361,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4258497685-lego-75345-battle-pack-clone-troopers-legione-501-star-wars",
-    "price": null,
+    "price": 18.55,
     "title": "Lego 75345 Battle Pack Clone Troopers Legione 501 Star Wars",
     "imgUrl": "https://images1.vinted.net/t/01_0021f_j6PZXiBmYJg7X1HJATtoMBRX/f800/1711138479.jpeg?s=1a8e4d49ce27fb7621e1e366d95446dfa084114c",
     "publicationDate": 1711138479,
@@ -945,7 +1369,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4646929988-lego-75345-star-wars",
-    "price": null,
+    "price": 30.1,
     "title": "Lego 75345 star wars",
     "imgUrl": "https://images1.vinted.net/t/02_021fa_9miSB8yGe8ZJGX2c68NkK9uv/f800/1718479847.jpeg?s=536d3ed31d2ae7b19def0f93802739e0ed94bbb8",
     "publicationDate": 1718479847,
@@ -953,7 +1377,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/2629380318-neuf-lego-star-wars-75345",
-    "price": null,
+    "price": 21.7,
     "title": "[NEUF] Lego star Wars 75345",
     "imgUrl": "https://images1.vinted.net/t/02_01d6f_WjsYJJxUqjHjLwntAuwp7zdT/f800/1674765337.jpeg?s=f584429fd38881a5bdaca333a07378564fa5a076",
     "publicationDate": 1674765337,
@@ -961,7 +1385,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/3691567712-lego-star-wars",
-    "price": null,
+    "price": 10.15,
     "title": "Lego Star Wars",
     "imgUrl": "https://images1.vinted.net/t/03_019c6_DqHkWmnJgn5gdx8dCE7QMbK6/f800/1698763043.jpeg?s=c842378c05a463fb42f1ae64d133a99137f412d7",
     "publicationDate": 1698763043,
@@ -969,15 +1393,23 @@
   },
   {
     "link": "https://www.vinted.fr/items/3700105054-lego-star-wars-501st-clone-troopers-battle-pack-set-75345",
-    "price": null,
+    "price": 21.7,
     "title": "LEGO Star Wars 501st Clone Troopers Battle Pack Set 75345",
     "imgUrl": "https://images1.vinted.net/t/02_00f32_DCYqQo5aPk7gLFSpmiVPf2xC/f800/1698929245.jpeg?s=d1cfdf0dbdadf06286f1a84f75bb775db83dc089",
     "publicationDate": 1698929245,
     "id": 3700105054
   },
   {
+    "link": "https://www.vinted.fr/items/2874563233-lego-star-wars-75345-sealed",
+    "price": 21.68,
+    "title": "Lego Star Wars 75345 Sealed!",
+    "imgUrl": "https://images1.vinted.net/t/03_01a5b_mgq4hvy9kFQ7JmRh1Yq9mb7C/f800/1680804559.jpeg?s=dcdc4870eda77040e3643adcc679bf49f50e1dd5",
+    "publicationDate": 1680804559,
+    "id": 2874563233
+  },
+  {
     "link": "https://www.vinted.fr/items/3325164250-set-lego-star-wars-originale75345-clone-troopers",
-    "price": null,
+    "price": 21.69,
     "title": "Set LEGO star wars originale,75345 clone troopers ",
     "imgUrl": "https://images1.vinted.net/t/01_0044a_BhpahdWnGKy2xWkJVBcenUXW/f800/1691418977.jpeg?s=98cc465ec959c98f4dfd06a7cdafb22038eecfff",
     "publicationDate": 1691418977,
@@ -985,7 +1417,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5033429719-lego-star-wars-75345",
-    "price": null,
+    "price": 21.7,
     "title": "Lego Star Wars 75345",
     "imgUrl": "https://images1.vinted.net/t/02_002f6_YmMY8mMHeWLBwSuv7GKUqHkv/f800/1726180674.jpeg?s=08783996431e52f071472570fa39b2d3f30e9f78",
     "publicationDate": 1726180674,
@@ -993,31 +1425,47 @@
   },
   {
     "link": "https://www.vinted.fr/items/3187601624-set-75345-501st-clone-troopers-battle-pack",
-    "price": null,
+    "price": 37.45,
     "title": "Set 75345 501st Clone Troopers Battle Pack",
     "imgUrl": "https://images1.vinted.net/t/02_019a9_ynvqsj6TWy9UFWdzPQAeCd8f/f800/1688034311.jpeg?s=841e81fce9fbe36cb727617543fb033146b8f63c",
     "publicationDate": 1688034311,
     "id": 3187601624
   },
   {
-    "link": "https://www.vinted.fr/items/2874563233-lego-star-wars-75345-sealed",
-    "price": null,
-    "title": "Lego Star Wars 75345 Sealed!",
-    "imgUrl": "https://images1.vinted.net/t/03_01a5b_mgq4hvy9kFQ7JmRh1Yq9mb7C/f800/1680804559.jpeg?s=dcdc4870eda77040e3643adcc679bf49f50e1dd5",
-    "publicationDate": 1680804559,
-    "id": 2874563233
+    "link": "https://www.vinted.fr/items/5221380825-lot-de-3-sets-lego-star-wars-lire-description",
+    "price": 47.95,
+    "title": "Lot de 3 sets lego star wars lire description",
+    "imgUrl": "https://images1.vinted.net/t/03_02204_ajTgzEPyyfRuKFtUVPxno2XF/f800/1728993012.jpeg?s=92f592168af849c9c8dc02456de13c11d22cc4a0",
+    "publicationDate": 1728993012,
+    "id": 5221380825
   },
   {
     "link": "https://www.vinted.fr/items/5360174668-lego-starwars-75345-x5",
-    "price": null,
+    "price": 77.35,
     "title": "Lego StarWars 75345 (x5)",
     "imgUrl": "https://images1.vinted.net/t/04_02597_WMXY5Jb7bNjqpFYkZHcthuBY/f800/1731254977.jpeg?s=a40d24df68847828153541e71c148c62e1dfbbef",
     "publicationDate": 1731254977,
     "id": 5360174668
   },
   {
+    "link": "https://www.vinted.fr/items/4760059263-lego-star-wars-sets",
+    "price": 37.45,
+    "title": "Lego Star Wars Sets",
+    "imgUrl": "https://images1.vinted.net/t/02_01fa2_RQQam8SVRogCWbNCtkkExFR5/f800/1720879975.jpeg?s=7a2b44816527343580d8c1af6a0510bd4e3e656e",
+    "publicationDate": 1720879975,
+    "id": 4760059263
+  },
+  {
+    "link": "https://www.vinted.fr/items/4918147986-ce-lot-lego-star-wars-est-compose-de",
+    "price": 64.74,
+    "title": "Ce lot LEGO Star Wars est composé de",
+    "imgUrl": "https://images1.vinted.net/t/01_01402_nVV4TgBGgWdXMSY6WwVRk1Yu/f800/1724252088.jpeg?s=1e57815e4171b64fe8b85f0da7c009bd367271ae",
+    "publicationDate": 1724252088,
+    "id": 4918147986
+  },
+  {
     "link": "https://www.vinted.fr/items/3674241135-lego-75345-star-wars-tm-pack-de-combate",
-    "price": null,
+    "price": 19.6,
     "title": "LEGO 75345 Star Wars TM Pack de combate",
     "imgUrl": "https://images1.vinted.net/t/03_020c3_1JHULuey3HPHzKo9P3h9koj7/f800/1698442686.jpeg?s=24244850a4b00d86d63568de5dbd8a06ccf37795",
     "publicationDate": 1698442686,
@@ -1025,31 +1473,31 @@
   },
   {
     "link": "https://www.vinted.fr/items/5023918783-lego-star-wars-neuf",
-    "price": null,
+    "price": 84.7,
     "title": "Lego Star Wars neuf",
     "imgUrl": "https://images1.vinted.net/t/03_01771_5tNSQnLRZrgKtm18mpE2f4b8/f800/1726054438.jpeg?s=bddaa3bc9e3180a3c9df5ecd07511a5e9a9e7318",
     "publicationDate": 1726054438,
     "id": 5023918783
   },
   {
-    "link": "https://www.vinted.fr/items/5385902406-lego-starwars-3-battle-packs",
-    "price": null,
-    "title": "Lego StarWars - 3 battle packs",
-    "imgUrl": "https://images1.vinted.net/t/01_0193b_wdKK7gQ8CrGbkktt97a4rtBK/f800/1731674147.jpeg?s=f50ef88de92896f95b572aeed8e3d218d704e8c2",
-    "publicationDate": 1731674147,
-    "id": 5385902406
-  },
-  {
     "link": "https://www.vinted.fr/items/4624936270-lego-star-wars-75345-et-75359",
-    "price": null,
+    "price": 58.44,
     "title": "Lego star wars 75345 et 75359",
     "imgUrl": "https://images1.vinted.net/t/01_0155f_nRKt87hiB8H51v4nphUVCEH6/f800/1718036528.jpeg?s=c52d33af72371e617d0da04385cf3ac983c87a31",
     "publicationDate": 1718036528,
     "id": 4624936270
   },
   {
+    "link": "https://www.vinted.fr/items/5385902406-lego-starwars-3-battle-packs",
+    "price": 53.19,
+    "title": "Lego StarWars - 3 battle packs",
+    "imgUrl": "https://images1.vinted.net/t/01_0193b_wdKK7gQ8CrGbkktt97a4rtBK/f800/1731674147.jpeg?s=f50ef88de92896f95b572aeed8e3d218d704e8c2",
+    "publicationDate": 1731674147,
+    "id": 5385902406
+  },
+  {
     "link": "https://www.vinted.fr/items/2793782527-2x-75345-501st-clone-troopers-battle-pack-lego",
-    "price": null,
+    "price": 35.56,
     "title": "2x 75345 - 501st Clone Troopers Battle Pack Lego",
     "imgUrl": "https://images1.vinted.net/t/03_001dd_hcPZKqydEyuiXUKQsssfKD1W/f800/1678915518.jpeg?s=c9e82f19e941304525bc4d68b6a035016c7de524",
     "publicationDate": 1678915518,
@@ -1057,7 +1505,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4197918372-pack-lego-star-wars",
-    "price": null,
+    "price": 53.2,
     "title": "Pack lego star wars ",
     "imgUrl": "https://images1.vinted.net/t/03_00b3a_przS1xvtXxkpp3khRCRutjiV/f800/1709923624.jpeg?s=e7432d2d8c9c51c0d91727cbf8809439dd521973",
     "publicationDate": 1709923624,
@@ -1065,15 +1513,23 @@
   },
   {
     "link": "https://www.vinted.fr/items/4152343210-lego-star-wars-lot-3x-75345-501st-clone-troopers-battle-pack-neuf-et-scelle",
-    "price": null,
+    "price": 59.5,
     "title": "Lego star Wars lot 3x 75345 501st Clone Troopers Battle pack neuf et scellé ",
     "imgUrl": "https://images1.vinted.net/t/03_00675_9ZwQ8iY1q1Xo4qmhML7BxY4u/f800/1708969979.jpeg?s=109c7807d26f6b5a5b02e34021fdd0f5f5132a4b",
     "publicationDate": 1708969979,
     "id": 4152343210
   },
   {
+    "link": "https://www.vinted.fr/items/2852549060-battle-pack-501",
+    "price": 19.08,
+    "title": "Battle pack 501",
+    "imgUrl": "https://images1.vinted.net/t/03_00b0c_AWW9r2GX3oaf3xYAuSfVmNav/f800/1680297602.jpeg?s=6b060b223ec4800bb987db0d2c1665044b600802",
+    "publicationDate": 1680297602,
+    "id": 2852549060
+  },
+  {
     "link": "https://www.vinted.fr/items/4487663876-lego-75345-501st-clone-troopers-battle-pack",
-    "price": null,
+    "price": 53.19,
     "title": "Lego 75345 501st Clone Troopers Battle pack",
     "imgUrl": "https://images1.vinted.net/t/01_01f5d_TYMbjpMiRLWTFBPvWBjb8b5X/f800/1715424396.jpeg?s=3b24ed5df752ce391893a3576d0f1de31db10c40",
     "publicationDate": 1715424396,
@@ -1081,7 +1537,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4970407273-lego-star-wars-clone-wars-pack-x3-75360-75345-x2-yoda-r2-clone-troopers",
-    "price": null,
+    "price": 62.65,
     "title": "Lego Star Wars - Clone Wars - Pack X3 - 75360 + 75345 x2 (Yoda & R2+ Clone Troopers)",
     "imgUrl": "https://images1.vinted.net/t/03_0060f_Hx25WWGSa1sWPm1FdWx596E7/f800/1725191655.jpeg?s=76e28a1143a04adbac3af2a7670a61443cc31e82",
     "publicationDate": 1725191655,
@@ -1089,47 +1545,47 @@
   },
   {
     "link": "https://www.vinted.fr/items/4220740483-lego-star-wars-75345-battle-pack-x2",
-    "price": null,
+    "price": 40.6,
     "title": "Lego Star Wars 75345 Battle pack x2",
     "imgUrl": "https://images1.vinted.net/t/03_019a1_YQvdWEHLQPCAcmUcScHeDyZ2/f800/1710372793.jpeg?s=5b3a5c3e32ad47bb40ef026da4dd52d56e5885da",
     "publicationDate": 1710372793,
     "id": 4220740483
   },
   {
-    "link": "https://www.vinted.fr/items/5327759697-pack-5-lego-starwars-75321-75363-75344-75345-75359",
-    "price": null,
-    "title": "Pack 5 Lego Starwars 75321 75363 75344 75345 75359",
-    "imgUrl": "https://images1.vinted.net/t/04_01f5f_QKYGzJKib1KqSRgeGLwLyAAt/f800/1730714636.jpeg?s=7fbf36c4efde03591b32124ab0321aeb69e06834",
-    "publicationDate": 1730714636,
-    "id": 5327759697
-  },
-  {
     "link": "https://www.vinted.fr/items/5033426863-lote-lego-star-wars-nuevo",
-    "price": null,
+    "price": 53.2,
     "title": "Lote Lego Star Wars NUEVO",
     "imgUrl": "https://images1.vinted.net/t/02_006f2_ZcNcRjLDnUqY8K7sZSB9xHZr/f800/1726603792.jpeg?s=b87292f0905630caf487bb66cc86959e3135ed9a",
     "publicationDate": 1726603792,
     "id": 5033426863
   },
   {
+    "link": "https://www.vinted.fr/items/5327759697-pack-5-lego-starwars-75321-75363-75344-75345-75359",
+    "price": 73.15,
+    "title": "Pack 5 Lego Starwars 75321 75363 75344 75345 75359",
+    "imgUrl": "https://images1.vinted.net/t/04_01f5f_QKYGzJKib1KqSRgeGLwLyAAt/f800/1730714636.jpeg?s=7fbf36c4efde03591b32124ab0321aeb69e06834",
+    "publicationDate": 1730714636,
+    "id": 5327759697
+  },
+  {
     "link": "https://www.vinted.fr/items/3496689746-lego-75345-star-wars-battle-pack-soldati-clone-misb",
-    "price": null,
+    "price": 25.9,
     "title": "Lego 75345 Star Wars Battle Pack Soldati Clone MISB!!",
     "imgUrl": "https://images1.vinted.net/t/02_01479_NjRfvFRAYSZXYfU4auN729BT/f800/1718220118.jpeg?s=193377933c75469f6490fe716a0b252302a50eea",
     "publicationDate": 1718220118,
     "id": 3496689746
   },
   {
-    "link": "https://www.vinted.fr/items/5403535789-lego-starwars",
-    "price": null,
-    "title": "Lego StarWars",
-    "imgUrl": "https://images1.vinted.net/t/04_01b9d_G8Viqf15Z28PAWzQ8DZb5F1N/f800/1731932636.jpeg?s=fd975a690b353a333ff7314117d5b3cd0413cb64",
-    "publicationDate": 1731932636,
-    "id": 5403535789
+    "link": "https://www.vinted.fr/items/4797989014-lego-star-wars-75345-501st-clone-troopers-battle-pack-neu",
+    "price": 16.45,
+    "title": "LEGO Star Wars 75345 - 501st Clone Troopers Battle Pack NEU",
+    "imgUrl": "https://images1.vinted.net/t/03_00814_UUqTXjsM8wkX4AY57LZ27M96/f800/1721719870.jpeg?s=4813179a3c2be3ec447ae0736b287600d484246d",
+    "publicationDate": 1721719870,
+    "id": 4797989014
   },
   {
     "link": "https://www.vinted.fr/items/5183820869-lego-star-wars-neuf-75387-75345-75386-75372",
-    "price": null,
+    "price": 121.44,
     "title": "Lego Star Wars Neuf  75387 / 75345 / 75386 / 75372",
     "imgUrl": "https://images1.vinted.net/t/03_00867_DdzYvuP81xYceV1dmRK92UP1/f800/1728410158.jpeg?s=fd31472f1dc64fc88ab71c822f78b299c353b228",
     "publicationDate": 1728410158,
@@ -1137,7 +1593,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4141655634-conjunto-lego-sets-75372-75345-75359",
-    "price": null,
+    "price": 78.4,
     "title": "Conjunto Lego Sets 75372 75345 75359",
     "imgUrl": "https://images1.vinted.net/t/01_01264_LML1DdmcpqsGYUjkLx8bTYUS/f800/1708789239.jpeg?s=a29585bc7f794aab0be70ca8424fb8ca426eba77",
     "publicationDate": 1708789239,
@@ -1145,7 +1601,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4259417207-3x-75345-star-wars-501th-clone-troopers-battlepack",
-    "price": null,
+    "price": 58.45,
     "title": "3x 75345 Star Wars 501th clone troopers battlepack",
     "imgUrl": "https://images1.vinted.net/t/02_013d9_C2Ju9wej8eiUwaKEmK4WpRY4/f800/1711185052.jpeg?s=47fc52b32a45bf81c2cb657dec93fbfaa7da698b",
     "publicationDate": 1711185052,
@@ -1153,15 +1609,23 @@
   },
   {
     "link": "https://www.vinted.fr/items/3598450709-75345-star-wars-soldados-clon-de-la-501-lego-new",
-    "price": null,
+    "price": 20.55,
     "title": "75345 Star Wars: Soldados Clon de la 501 LEGO New",
     "imgUrl": "https://images1.vinted.net/t/03_0061f_r1J7oYqSz1o7AKzj4G32YuFw/f800/1697116782.jpeg?s=4dc98fec8fb4066166aa1e57529c49a204d57802",
     "publicationDate": 1697116782,
     "id": 3598450709
   },
   {
+    "link": "https://www.vinted.fr/items/5403535789-lego-starwars",
+    "price": 137.15,
+    "title": "Lego StarWars",
+    "imgUrl": "https://images1.vinted.net/t/04_01b9d_G8Viqf15Z28PAWzQ8DZb5F1N/f800/1731932636.jpeg?s=fd975a690b353a333ff7314117d5b3cd0413cb64",
+    "publicationDate": 1731932636,
+    "id": 5403535789
+  },
+  {
     "link": "https://www.vinted.fr/items/5393151275-pack4-lego-starwars-75373-75363-75321-75345",
-    "price": null,
+    "price": 65.8,
     "title": "Pack4 Lego Starwars 75373 75363 75321 75345",
     "imgUrl": "https://images1.vinted.net/t/04_00925_V6dvheSdSezRg93P2s5Yysgv/f800/1731780538.jpeg?s=b3d33f49a4f135c173a0793d25bdd14105bf88d8",
     "publicationDate": 1731780538,
@@ -1169,7 +1633,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4003798036-75345-lego-star-wars-new-and-sealed",
-    "price": null,
+    "price": 42.7,
     "title": "75345 LEGO Star Wars  NEW and Sealed",
     "imgUrl": "https://images1.vinted.net/t/03_00b12_nmy5s4NiRsJpAkJmiPyF2udy/f800/1705829576.jpeg?s=4bffda1efd3eb31dc8dc221e5e8f3397788fb530",
     "publicationDate": 1705829576,
@@ -1177,7 +1641,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5289289252-misb-lego-star-wars-75345-75372-bundle",
-    "price": null,
+    "price": 53.19,
     "title": "(MISB) Lego Star Wars - 75345 + 75372 Bundle",
     "imgUrl": "https://images1.vinted.net/t/04_02303_DpQ5KtYEPBz91K8WvecyJnwc/f800/1730569501.jpeg?s=0cd638f6e4fb206e541b9588739cdac72721e60d",
     "publicationDate": 1730569501,
@@ -1185,31 +1649,55 @@
   },
   {
     "link": "https://www.vinted.fr/items/4824078933-pack-75297-75363-75345-lego-novos",
-    "price": null,
+    "price": 55.3,
     "title": "Pack 75297 75363 75345 Lego novos!",
     "imgUrl": "https://images1.vinted.net/t/02_00d6b_9XG11QwEfd6hFgj496mn6fGe/f800/1722271726.jpeg?s=09a987c14df303c6e3da4ca89950b66d7290c7ef",
     "publicationDate": 1722271726,
     "id": 4824078933
   },
   {
+    "link": "https://www.vinted.fr/items/3036478023-lego-star-wars-75342-75345-new",
+    "price": 79.45,
+    "title": "Lego star wars 75342 75345 new!",
+    "imgUrl": "https://images1.vinted.net/t/01_01e3d_JX8Xc4jzKjXuULQZtUoLVbms/f800/1684440460.jpeg?s=c80103cc4c884839776df0eb54cba075d9c0072d",
+    "publicationDate": 1684440460,
+    "id": 3036478023
+  },
+  {
     "link": "https://www.vinted.fr/items/4327765517-lego-starwars-clone-troopers-battle-pack",
-    "price": null,
+    "price": 136.15,
     "title": "Lego Starwars Clone Troopers Battle Pack",
     "imgUrl": "https://images1.vinted.net/t/03_02330_ZjjkzMwbsH3ZVqtXs5fo7gp3/f800/1712483984.jpeg?s=bd10ba1cb065ef69bfddf0aa166699d9ac15dc90",
     "publicationDate": 1712483984,
     "id": 4327765517
   },
   {
+    "link": "https://www.vinted.fr/items/4176064262-starwars-bundle-of-7-only-set",
+    "price": 284.2,
+    "title": "StarWars Bundle of 7 only Set",
+    "imgUrl": "https://images1.vinted.net/t/03_025e9_HddK48dgow7QjBQTkD4r2cjE/f800/1709476369.jpeg?s=e8104ec2c2647c26a6b19d3b917975485dbb1d04",
+    "publicationDate": 1709476369,
+    "id": 4176064262
+  },
+  {
     "link": "https://www.vinted.fr/items/4259424013-5x-75345-star-wars-501th-clone-troopers-battlepack",
-    "price": null,
+    "price": 100.45,
     "title": "5x 75345 Star Wars 501th clone troopers battlepack",
     "imgUrl": "https://images1.vinted.net/t/03_02328_QobAeVNvcwbt35efoniUE9GS/f800/1711185139.jpeg?s=b478e95fe25ef835bdcea6996135c3d44fbab4fe",
     "publicationDate": 1711185139,
     "id": 4259424013
   },
   {
+    "link": "https://www.vinted.fr/items/5044028789-collection-lego-star-wars",
+    "price": 2040,
+    "title": "Collection Lego Star Wars",
+    "imgUrl": "https://images1.vinted.net/t/03_0242d_SBfKLDc9xUUhC4vfbs1EktnA/f800/1726339415.jpeg?s=7ee1af0f4c899293974972ff63564f8f4c7391d7",
+    "publicationDate": 1726339415,
+    "id": 5044028789
+  },
+  {
     "link": "https://www.vinted.fr/items/4372174939-set-lego-star-wars",
-    "price": null,
+    "price": 152.95,
     "title": "Set lego star wars",
     "imgUrl": "https://images1.vinted.net/t/01_009e9_amj3waUkTaxKPHT7LHtJfRgA/f800/1713267284.jpeg?s=71d867957dc74af96b76b3d5c2e72e7ff16fecc5",
     "publicationDate": 1713267284,
@@ -1217,7 +1705,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4259434451-9x-75345-star-wars-501th-clone-troopers-battlepack",
-    "price": null,
+    "price": 173.95,
     "title": "9x 75345 Star Wars 501th clone troopers battlepack",
     "imgUrl": "https://images1.vinted.net/t/01_016d2_dv9cMqriJzPUtCN7DnpMPwCc/f800/1711185274.jpeg?s=ffaa1b407854ca0a7eef471be80c84907200ca6d",
     "publicationDate": 1711185274,
@@ -1225,15 +1713,23 @@
   },
   {
     "link": "https://www.vinted.fr/items/2742440729-lego-star-wars-75345",
-    "price": null,
+    "price": 179.2,
     "title": "Lego star wars 75345",
     "imgUrl": "https://images1.vinted.net/t/03_0198b_VYY3MtZNwKPAmCsYz2iqBpTk/f800/1677688901.jpeg?s=13c02db8d69eaf2623f11640a4ddbecfd1f6ff02",
     "publicationDate": 1677688901,
     "id": 2742440729
   },
   {
+    "link": "https://www.vinted.fr/items/3551765587-lego-star-wars-new",
+    "price": 147.69,
+    "title": "Lego star wars new!",
+    "imgUrl": "https://images1.vinted.net/t/03_0205d_SMcKfRYS3E5MHrMvJeqwPM4Y/f800/1696236495.jpeg?s=c375ee8cd9ae9280e2f715899128a6367d0b898c",
+    "publicationDate": 1696236495,
+    "id": 3551765587
+  },
+  {
     "link": "https://www.vinted.fr/items/4259429093-7x-75345-star-wars-501th-clone-troopers-battlepack",
-    "price": null,
+    "price": 142.45,
     "title": "7x 75345 Star Wars 501th clone troopers battlepack",
     "imgUrl": "https://images1.vinted.net/t/02_01f17_yFDpX4DG6KJUQguaGv3Dhyyh/f800/1711185205.jpeg?s=4bd12ac1a794d70866f557f263483ccd86d356d2",
     "publicationDate": 1711185205,
@@ -1241,63 +1737,63 @@
   },
   {
     "link": "https://www.vinted.fr/items/4802973017-lot-lego-super-mario-en-boite-neuf",
-    "price": null,
+    "price": 126.7,
     "title": "Lot Lego super Mario en boîte neuf",
     "imgUrl": "https://images1.vinted.net/t/03_02038_8GsnfLE5AzYQy2piE8GCwZ8i/f800/1721818244.jpeg?s=558fe44df645acfcede1a8d517bb8ffa4acb0ccc",
     "publicationDate": 1721818244,
     "id": 4802973017
   },
   {
-    "link": "https://www.vinted.fr/items/4802955477-lot-lego-star-wars-neuf-en-boite",
-    "price": null,
-    "title": "Lot Lego star wars neuf en boîte",
-    "imgUrl": "https://images1.vinted.net/t/02_026de_m91uJbEzNDpnEaHkdxGkUBBn/f800/1721818021.jpeg?s=7fa3efe5f890a0759aaaf056a1924a104bf0b8c7",
-    "publicationDate": 1721818021,
-    "id": 4802955477
+    "link": "https://www.vinted.fr/items/4251439207-gros-lot-indivisible-de-lego-star-wars-17-references",
+    "price": 452.2,
+    "title": "Gros lot indivisible de LEGO star wars 17 références",
+    "imgUrl": "https://images1.vinted.net/t/03_01c9a_dTfC1kv77aVx31TZmaEuSEKX/f800/1711003815.jpeg?s=588e43b0a45a600472b246f1cbbc12e0df72d7fd",
+    "publicationDate": 1711003815,
+    "id": 4251439207
   },
   {
     "link": "https://www.vinted.fr/items/3248578618-20x-lego-star-wars-501st-trooper-heavy-trooper-aus-set-75345-neusw1247",
-    "price": null,
+    "price": 116.2,
     "title": "20x Lego Star Wars 501st Trooper Heavy Trooper Aus Set 75345 Neu/sw1247",
     "imgUrl": "https://images1.vinted.net/t/01_01f88_eikkmq8YD42rHoynsRw9qyYU/f800/1689549702.jpeg?s=933e581c52b08fdb7a2e8c110cdf69db2867341f",
     "publicationDate": 1689549702,
     "id": 3248578618
   },
   {
-    "link": "https://www.vinted.fr/items/4176002336-lego-star-wars-ultimate-bundle-of-seven-too-starwars",
-    "price": null,
-    "title": "Lego Star Wars ultimate Bundle of Seven too StarWars",
-    "imgUrl": "https://images1.vinted.net/t/02_00f82_HJ8NBEc6jpC8qYegjA9pyXut/f800/1709475900.jpeg?s=58a8aa325e7a8cc13f9cb94dafd9d0bbb7c49636",
-    "publicationDate": 1709475900,
-    "id": 4176002336
+    "link": "https://www.vinted.fr/items/4802955477-lot-lego-star-wars-neuf-en-boite",
+    "price": 89.95,
+    "title": "Lot Lego star wars neuf en boîte",
+    "imgUrl": "https://images1.vinted.net/t/02_026de_m91uJbEzNDpnEaHkdxGkUBBn/f800/1721818021.jpeg?s=7fa3efe5f890a0759aaaf056a1924a104bf0b8c7",
+    "publicationDate": 1721818021,
+    "id": 4802955477
   },
   {
     "link": "https://www.vinted.fr/items/4116923934-lotto-lego-star-wars-sigillati",
-    "price": null,
+    "price": 231.7,
     "title": "Lotto lego star wars sigillati ",
     "imgUrl": "https://images1.vinted.net/t/01_01e7f_yozme9itdjtoBUg2tJzngfHw/f800/1708271421.jpeg?s=9c1c5d7c58db83e940ee378f6520e5690ce8ab6a",
     "publicationDate": 1708271421,
     "id": 4116923934
   },
   {
-    "link": "https://www.vinted.fr/items/4176064262-starwars-bundle-of-7-only-set",
-    "price": null,
-    "title": "StarWars Bundle of 7 only Set",
-    "imgUrl": "https://images1.vinted.net/t/03_025e9_HddK48dgow7QjBQTkD4r2cjE/f800/1709476369.jpeg?s=e8104ec2c2647c26a6b19d3b917975485dbb1d04",
-    "publicationDate": 1709476369,
-    "id": 4176064262
-  },
-  {
     "link": "https://www.vinted.fr/items/3248577622-20x-legor-star-wars-minifigur-sw1248-clone-trooper-specialist-501st-aus-75345",
-    "price": null,
+    "price": 131.95,
     "title": "20x LEGO® Star Wars Minifigur (sw1248) Clone Trooper Specialist, 501st aus 75345",
     "imgUrl": "https://images1.vinted.net/t/03_018a0_6WB26hGXMzpxy8WPLh876ZH8/f800/1689549568.jpeg?s=1d6c91e2fd90011ff7e36059131b4864c16c3c9d",
     "publicationDate": 1689549568,
     "id": 3248577622
   },
   {
+    "link": "https://www.vinted.fr/items/4176002336-lego-star-wars-ultimate-bundle-of-seven-too-starwars",
+    "price": 336.7,
+    "title": "Lego Star Wars ultimate Bundle of Seven too StarWars",
+    "imgUrl": "https://images1.vinted.net/t/02_00f82_HJ8NBEc6jpC8qYegjA9pyXut/f800/1709475900.jpeg?s=58a8aa325e7a8cc13f9cb94dafd9d0bbb7c49636",
+    "publicationDate": 1709475900,
+    "id": 4176002336
+  },
+  {
     "link": "https://www.vinted.fr/items/3248576805-20x-lego-star-wars-minifigur-sw1246-clone-trooper-officer-501st-legion-75345",
-    "price": null,
+    "price": 126.7,
     "title": "20x LEGO Star Wars Minifigur sw1246 Clone Trooper Officer, 501st Legion 75345",
     "imgUrl": "https://images1.vinted.net/t/03_01cb6_ubFaJ35N5yQTstaurFj1xS1w/f800/1689549452.jpeg?s=aec24df4815f6335a2205cbc8feaf0d8aec9928c",
     "publicationDate": 1689549452,
@@ -1305,7 +1801,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4802984716-lot-lego-marvel-en-boite-neuf",
-    "price": null,
+    "price": 105.7,
     "title": "Lot Lego Marvel en boîte neuf",
     "imgUrl": "https://images1.vinted.net/t/03_00cd9_sdFhkLpEvEGosp3Eiq5JLSv4/f800/1721818394.jpeg?s=c6bb4c577e6b8d4a3d3729b9bc812e5fdc85ffd4",
     "publicationDate": 1721818394,
@@ -1313,10 +1809,18 @@
   },
   {
     "link": "https://www.vinted.fr/items/4802965283-lot-lego-harry-potter-en-boite-neuf",
-    "price": null,
+    "price": 168.7,
     "title": "Lot Lego harry Potter en boîte neuf",
     "imgUrl": "https://images1.vinted.net/t/01_0138c_pWGDseGjEdNDC5QiXnvLHaTR/f800/1721818145.jpeg?s=ad2bb4f2ee50ac7dba9389347a4ce4d343b70bc6",
     "publicationDate": 1721818145,
     "id": 4802965283
+  },
+  {
+    "link": "https://www.vinted.fr/items/3461553730-gros-lot-de-legos",
+    "price": 231.7,
+    "title": "Gros lot de legos ",
+    "imgUrl": "https://images1.vinted.net/t/01_00542_uaJoF5oC25xCKQZ2CJP7upFa/f800/1694454016.jpeg?s=81ecc85819179977ba31acad29835a8318ffd403",
+    "publicationDate": 1694454016,
+    "id": 3461553730
   }
 ]

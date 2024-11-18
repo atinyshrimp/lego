@@ -1,7 +1,7 @@
 [
   {
     "link": "https://www.vinted.fr/items/5282512204-lego-31136-le-perroquet-exotique",
-    "price": null,
+    "price": 24.33,
     "title": "Lego 31136 le perroquet exotique",
     "imgUrl": "https://images1.vinted.net/t/04_00110_pkAkeQHW4FaN8B9SUXhd8t7e/f800/1729968545.jpeg?s=7333368c6ae7dc787f24dd193e3e04e9da3d0714",
     "publicationDate": 1729968545,
@@ -9,71 +9,103 @@
   },
   {
     "link": "https://www.vinted.fr/items/5246910349-lego-31136",
-    "price": null,
+    "price": 21.7,
     "title": "Lego 31136",
     "imgUrl": "https://images1.vinted.net/t/03_00f23_kqm4FSVQpCD7FnWjdGUo2Gy9/f800/1729419038.jpeg?s=011f8a00ac80e2ea819186c79351854956072454",
     "publicationDate": 1729419038,
     "id": 5246910349
   },
   {
+    "link": "https://www.vinted.fr/items/5388524056-31136-lego-creator-3-en-1-le-perroquet-exotique",
+    "price": 22.59,
+    "title": "31136 LEGO Creator 3 en 1 Le perroquet exotique",
+    "imgUrl": "https://images1.vinted.net/t/04_0049d_242d8aFXHEKMbt6oe9iZHALd/f800/1731706431.jpeg?s=310e30e83ed02c770371e4829595c3a4a1f20fc9",
+    "publicationDate": 1731706431,
+    "id": 5388524056
+  },
+  {
     "link": "https://www.vinted.fr/items/5353588110-lego-creator-3-in-1-31136-papagaio-arara-peixe-ou-sapo-novo-selado",
-    "price": null,
+    "price": 21.7,
     "title": "Lego Creator 3 in 1 31136 Papagaio Arará Peixe ou Sapo Novo Selado",
     "imgUrl": "https://images1.vinted.net/t/04_01e89_aJmfQoewhjijTvXLXu3q4y6K/f800/1731166672.jpeg?s=2be505f75dddbaf8ed3adb80949df9e52b620057",
     "publicationDate": 1731166672,
     "id": 5353588110
   },
   {
+    "link": "https://www.vinted.fr/items/4728611120-lego-instructions",
+    "price": 2.8,
+    "title": "Lego instructions",
+    "imgUrl": "https://images1.vinted.net/t/01_0169b_dmaUVz7BJtKksCPkcx7ePb4t/f800/1720243840.jpeg?s=eb56502c798a7030a9db7c981708393bac546442",
+    "publicationDate": 1720243840,
+    "id": 4728611120
+  },
+  {
     "link": "https://www.vinted.fr/items/4914114385-nieuwe-lego-papegaai-31136-bouwset",
-    "price": null,
+    "price": 21.7,
     "title": "Nieuwe Lego Papegaai 31136 Bouwset",
     "imgUrl": "https://images1.vinted.net/t/02_00496_2Qmv48seh2wUvY21XtrNfWAY/f800/1724172826.jpeg?s=b3d2a6cab274099abb0818e4ebcbcc8b3ab4d3b0",
     "publicationDate": 1724172826,
     "id": 4914114385
   },
   {
-    "link": "https://www.vinted.fr/items/4848687328-lego-31136-exotischer-papagei-3in1",
-    "price": null,
-    "title": "LEGO 31136 „Exotischer Papagei 3in1“",
-    "imgUrl": "https://images1.vinted.net/t/03_011fb_S9rW5z4siHqSULfAfKrqrfJ6/f800/1722839190.jpeg?s=f81439c5bcac96f84aa87470555df5a9c844e8ef",
-    "publicationDate": 1722839190,
-    "id": 4848687328
+    "link": "https://www.vinted.fr/items/5400110613-lego-papagaio",
+    "price": 15.4,
+    "title": "Lego papagaio",
+    "imgUrl": "https://images1.vinted.net/t/04_0149c_ECo35oZeUZwEW2w72YoCifqy/f800/1731865867.jpeg?s=6a28361a69a9e4a68bcf43163cf0127b2b4f502d",
+    "publicationDate": 1731865867,
+    "id": 5400110613
   },
   {
     "link": "https://www.vinted.fr/items/5326956885-lego-creator-3-in-1-31136-papagaio-exotico",
-    "price": null,
+    "price": 25.38,
     "title": "Lego Creator 3-in-1 31136 - Papagaio Exótico",
     "imgUrl": "https://images1.vinted.net/t/04_00ec4_yiQX9nHkfuCCjsgMChKU2LHV/f800/1730675803.jpeg?s=1a9f0586a497a9209f2e35a90c29a909f1e2dffa",
     "publicationDate": 1730675803,
     "id": 5326956885
   },
   {
+    "link": "https://www.vinted.fr/items/4699491400-lego-31136",
+    "price": 19.6,
+    "title": "Lego 31136",
+    "imgUrl": "https://images1.vinted.net/t/03_00ddb_UPgUJn1B1qZK9TXJWAWkppMQ/f800/1719642501.jpeg?s=f1e5af49bb2677c1ac7aa4ef198c048d1876869b",
+    "publicationDate": 1719642501,
+    "id": 4699491400
+  },
+  {
+    "link": "https://www.vinted.fr/items/4848687328-lego-31136-exotischer-papagei-3in1",
+    "price": 21.7,
+    "title": "LEGO 31136 „Exotischer Papagei 3in1“",
+    "imgUrl": "https://images1.vinted.net/t/03_011fb_S9rW5z4siHqSULfAfKrqrfJ6/f800/1722839190.jpeg?s=f81439c5bcac96f84aa87470555df5a9c844e8ef",
+    "publicationDate": 1722839190,
+    "id": 4848687328
+  },
+  {
     "link": "https://www.vinted.fr/items/5193443728-lego-31136",
-    "price": null,
+    "price": 24.85,
     "title": "Lego 31136",
     "imgUrl": "https://images1.vinted.net/t/03_01287_jr4QdUgUJJMvvfpW1M3DvHb1/f800/1728572008.jpeg?s=c85b449d3b6048f8b0cd2c48e09037660fbc9887",
     "publicationDate": 1728572008,
     "id": 5193443728
   },
   {
-    "link": "https://www.vinted.fr/items/5151690950-lego-3in1-ref-31136-new-in-box",
-    "price": null,
-    "title": "LEGO -  3IN1 (Ref 31136) - New in Box",
-    "imgUrl": "https://images1.vinted.net/t/02_01603_Q1Ty3iQLFicTDoqPf8aCmTwS/f800/1727960764.jpeg?s=305eeeffd1ed00be4ddb43f56d5e3b55a62326cb",
-    "publicationDate": 1727960764,
-    "id": 5151690950
-  },
-  {
     "link": "https://www.vinted.fr/items/4978153300-lego-creator-3-in-1-31136",
-    "price": null,
+    "price": 23.8,
     "title": "Lego creator 3 in 1 - 31136",
     "imgUrl": "https://images1.vinted.net/t/01_01f4b_RpiKX7RJhwbniVpVPV5tuM18/f800/1725297196.jpeg?s=79dc94377274125788ebf9d41e774fd5deceb9b7",
     "publicationDate": 1725297196,
     "id": 4978153300
   },
   {
+    "link": "https://www.vinted.fr/items/5151690950-lego-3in1-ref-31136-new-in-box",
+    "price": 21.7,
+    "title": "LEGO -  3IN1 (Ref 31136) - New in Box",
+    "imgUrl": "https://images1.vinted.net/t/02_01603_Q1Ty3iQLFicTDoqPf8aCmTwS/f800/1727960764.jpeg?s=305eeeffd1ed00be4ddb43f56d5e3b55a62326cb",
+    "publicationDate": 1727960764,
+    "id": 5151690950
+  },
+  {
     "link": "https://www.vinted.fr/items/5104499644-lego-creator-31136-3-in-1",
-    "price": null,
+    "price": 21.7,
     "title": "Lego Creator 31136 3 in 1",
     "imgUrl": "https://images1.vinted.net/t/03_007fb_xS4f6CVuiA9JpbNn5So6Nhyp/f800/1727258186.jpeg?s=db509c82001b75bf8840d35684e84a2321d15223",
     "publicationDate": 1727258186,
@@ -81,23 +113,39 @@
   },
   {
     "link": "https://www.vinted.fr/items/5332795370-lego-creator-31136",
-    "price": null,
+    "price": 37.45,
     "title": "Lego Creator 31136",
     "imgUrl": "https://images1.vinted.net/t/04_017a3_VGpE2LdVwiX7cRtswYDuVE8s/f800/1730801187.jpeg?s=a4fd5ac4a427e36b2e5bf25897839169c2416343",
     "publicationDate": 1730801187,
     "id": 5332795370
   },
   {
+    "link": "https://www.vinted.fr/items/5379840089-lego-31136",
+    "price": 24.85,
+    "title": "LEGO 31136",
+    "imgUrl": "https://images1.vinted.net/t/04_023c2_tW5kin7xRvG6rV6iYXHwqAep/f800/1731571370.jpeg?s=1014b824d2422fcf1961ba1433b1d35c4d088391",
+    "publicationDate": 1731571370,
+    "id": 5379840089
+  },
+  {
     "link": "https://www.vinted.fr/items/4967831245-lego-creator-3in1-31136-exotischer-papagei-neu-und-ovp",
-    "price": null,
+    "price": 23.8,
     "title": "LEGO Creator 3in1 31136 Exotischer Papagei, Neu und OVP",
     "imgUrl": "https://images1.vinted.net/t/01_00ad3_WWMa8s6qpiQ9t68D151WeKwM/f800/1725130207.jpeg?s=22f861f67ee79f02cd7f17f622317187d2e559c1",
     "publicationDate": 1725130207,
     "id": 4967831245
   },
   {
+    "link": "https://www.vinted.fr/items/5275947582-lego-31136-3-en-1",
+    "price": 21.7,
+    "title": "Lego 31136, 3 en 1",
+    "imgUrl": "https://images1.vinted.net/t/04_01bb9_n4FppiWvJgwS1qvHxNHnQ8QE/f800/1729866191.jpeg?s=d8763edeb71a2fd83153f26115799bf27eb0f364",
+    "publicationDate": 1729866191,
+    "id": 5275947582
+  },
+  {
     "link": "https://www.vinted.fr/items/4165109720-lego-31136",
-    "price": null,
+    "price": 26.95,
     "title": "Lego 31136",
     "imgUrl": "https://images1.vinted.net/t/03_00f6c_C7TUc8u4Xdy8ZctpyhtWqA5M/f800/1709240853.jpeg?s=13db8abc8f22d45a6dbb3aefc68bfd5023bd07f2",
     "publicationDate": 1709240853,
@@ -105,15 +153,23 @@
   },
   {
     "link": "https://www.vinted.fr/items/3319441610-lego-31136-creator-3-in-1",
-    "price": null,
+    "price": 26.95,
     "title": "Lego 31136 creator 3 in 1",
     "imgUrl": "https://images1.vinted.net/t/01_004ae_45Wc8M7PkDZage6bCxHrfm1f/f800/1691318400.jpeg?s=1a0dbb33dea2468e86c5570d86393d01841a88a7",
     "publicationDate": 1691318400,
     "id": 3319441610
   },
   {
+    "link": "https://www.vinted.fr/items/2792020510-lego-creator-31136",
+    "price": 37.45,
+    "title": "Lego creator 31136",
+    "imgUrl": "https://images1.vinted.net/t/02_02311_2C86p7hVhM4wi8hkhVHY9B6p/f800/1678889223.jpeg?s=a5ef6ea70a92e5ce206e08000e742bf5f417f9f6",
+    "publicationDate": 1678889223,
+    "id": 2792020510
+  },
+  {
     "link": "https://www.vinted.fr/items/2843959183-lego-papagaio-31136",
-    "price": null,
+    "price": 24.85,
     "title": "Lego papagaio 31136",
     "imgUrl": "https://images1.vinted.net/t/02_00830_uZxSVSvvQm6vD2yZjefStQa9/f800/1680092104.jpeg?s=c4393d697dd5c10d8ba0da7927e80029ad7e751a",
     "publicationDate": 1680092104,
@@ -121,7 +177,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4914191530-4-nieuwe-lego-bouwsets-31136-311140-42612-en-60392",
-    "price": null,
+    "price": 58.45,
     "title": "4 nieuwe lego bouwsets 31136, 311140, 42612 en 60392",
     "imgUrl": "https://images1.vinted.net/t/01_022a8_jK1GnLWg7i1McxP5Hzt3NzB7/f800/1724173611.jpeg?s=11ce01990cda3051bc77cdd123b42606abafb6f6",
     "publicationDate": 1724173611,
@@ -129,7 +185,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5380738089-lote-de-lego-creator-31136-31124-y-31145",
-    "price": null,
+    "price": 63.6,
     "title": "Lote de lego creator , 31136 , 31124 y 31145",
     "imgUrl": "https://images1.vinted.net/t/04_01309_viUE86LjKtNj383AvFrpSaKS/f800/1731582923.jpeg?s=55a56152f4132915f1e0e0e47f2cdf68b9d24533",
     "publicationDate": 1731582923,
@@ -137,7 +193,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/3266101138-lego-40504-a-minifigure-tribute-lego-31136-exotic-parrot",
-    "price": null,
+    "price": 215.95,
     "title": "Lego 40504 a Minifigure Tribute + Lego 31136 Exotic Parrot",
     "imgUrl": "https://images1.vinted.net/t/01_01d40_YUQAbZVFC5Tf1kJLfzckAqqr/f800/1690033025.jpeg?s=07c099f4ae773dbaaaa1a25396b2d47d20491487",
     "publicationDate": 1690033025,

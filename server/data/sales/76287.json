@@ -1,7 +1,7 @@
 [
   {
     "link": "https://www.vinted.fr/items/5393708859-lego-marvel-76287-iron-man-with-bike-and-the-hulk",
-    "price": null,
+    "price": 13.3,
     "title": "Lego Marvel 76287 Iron Man with Bike and The Hulk",
     "imgUrl": "https://images1.vinted.net/t/04_01b34_ZWmzyAUuVe1oVfNcbc5yXwoR/f800/1731787346.jpeg?s=1d4baa085d4ec57164fe008caceca1e278154114",
     "publicationDate": 1731787346,
@@ -9,7 +9,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5371993372-lego-76287-iron-man-with-bike-and-the-hulk",
-    "price": null,
+    "price": 14.34,
     "title": "LEGO 76287 - Iron Man with Bike and The Hulk",
     "imgUrl": "https://images1.vinted.net/t/04_0100f_xhffRwX2TDFSjpLJDL1MFPSc/f800/1731423740.jpeg?s=ed098baca1c38563768b76c4c29ed5631d306e1d",
     "publicationDate": 1731423740,
@@ -17,7 +17,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5332872208-lego-et-playmobil",
-    "price": null,
+    "price": 11.2,
     "title": "Lego et playmobil",
     "imgUrl": "https://images1.vinted.net/t/04_00218_dAr7DyGXz7xwDU5itayqMzWe/f800/1730802041.jpeg?s=b67aadddeffb7f40d2629476923000065bc77979",
     "publicationDate": 1730802041,
@@ -25,10 +25,26 @@
   },
   {
     "link": "https://www.vinted.fr/items/4962293412-lotto-lego-marvel-iron-man",
-    "price": null,
+    "price": 26.95,
     "title": "Lotto lego Marvel iron man",
     "imgUrl": "https://images1.vinted.net/t/02_0032b_XzCg5rdo2NbomWP2gbpCaEgJ/f800/1725032194.jpeg?s=dbdbc576cd9d6b3e8c113686997d532a4f62cc0f",
     "publicationDate": 1725032194,
     "id": 4962293412
+  },
+  {
+    "link": "https://www.vinted.fr/items/5137168403-lego-marvel",
+    "price": 17.5,
+    "title": "Lego marvel",
+    "imgUrl": "https://images1.vinted.net/t/03_00433_k6gmVhjhG3MYQEmcAakJv3g1/f800/1727717858.jpeg?s=c1ed61bd88ae9e0440b08eba7a02d053f65d7b9a",
+    "publicationDate": 1727717858,
+    "id": 5137168403
+  },
+  {
+    "link": "https://www.vinted.fr/items/5326119946-lego-10782-et-76287",
+    "price": 23.8,
+    "title": "Lego 10782 et 76287",
+    "imgUrl": "https://images1.vinted.net/t/04_0217c_sMsjfoSvNeedysdTs4KhJRvu/f800/1730663124.jpeg?s=aea2139ce77c0bd7b7fc29b1385129cd1a8484a7",
+    "publicationDate": 1730663124,
+    "id": 5326119946
   }
 ]

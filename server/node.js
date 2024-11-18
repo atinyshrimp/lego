@@ -13,7 +13,6 @@ const client = new MongoClient(MONGODB_URI, {
 		strict: true,
 		deprecationErrors: true,
 	},
-	useNewUrlParser: true,
 });
 
 async function insertDeals(db) {
@@ -65,7 +64,8 @@ async function run() {
 		// Access the database
 		const database = client.db(MONGODB_DB_NAME);
 
-		// await insertDeals(database);
+		// Add data to collections
+		await insertDeals(database);
 		await insertSales(database);
 
 		// Send a ping to confirm a successful connection

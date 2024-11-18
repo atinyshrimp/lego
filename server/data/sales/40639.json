@@ -1,15 +1,63 @@
 [
   {
     "link": "https://www.vinted.fr/items/5349961533-notice-de-construction-lego-ref-40639",
-    "price": null,
+    "price": 1.75,
     "title": "Notice de construction lego ref 40639",
     "imgUrl": "https://images1.vinted.net/t/04_01bcc_vfBQ8n5gjQTVSpDqqNmnsyvy/f800/1731099673.jpeg?s=001219a023e96d3bc62ccb5c41d91491ee5a0d7c",
     "publicationDate": 1731099673,
     "id": 5349961533
   },
   {
+    "link": "https://www.vinted.fr/items/5377761922-lego-40639-le-nid-d-oiseaux",
+    "price": 5.95,
+    "title": "Lego 40639 Le nid d oiseaux",
+    "imgUrl": "https://images1.vinted.net/t/04_01701_9GQ3E9p5JK6jQcNPr1isDH7s/f800/1731516421.jpeg?s=03bcfd1258fc170270f87fc4bebee645c83bd1d5",
+    "publicationDate": 1731516421,
+    "id": 5377761922
+  },
+  {
+    "link": "https://www.vinted.fr/items/5356799874-lego-40639-vogelnest",
+    "price": 5.95,
+    "title": "Lego 40639 Vogelnest",
+    "imgUrl": "https://images1.vinted.net/t/03_011a7_W7qrwQ2vMMJitbrbYZfydLPn/f800/1731234312.jpeg?s=de0c7f0669714eb5db859c2b28565c1dcf5f5358",
+    "publicationDate": 1731234312,
+    "id": 5356799874
+  },
+  {
+    "link": "https://www.vinted.fr/items/5367478036-lego-set-40639",
+    "price": 8.05,
+    "title": "Lego set 40639",
+    "imgUrl": "https://images1.vinted.net/t/03_025c9_CB6sycYgfoQww7NrVD2DYvjX/f800/1731345136.jpeg?s=1d85f11240da8b05ae377b93e76ad9c08af77de8",
+    "publicationDate": 1731345136,
+    "id": 5367478036
+  },
+  {
+    "link": "https://www.vinted.fr/items/4647443867-lego-40639-vogelnest",
+    "price": 5.95,
+    "title": "Lego 40639 Vogelnest",
+    "imgUrl": "https://images1.vinted.net/t/01_02459_S6ytJUVR6m2vKuftFsUDvnQs/f800/1718503236.jpeg?s=97c81036c7b1a4baa07cc4984acd4c16dfc2bd3a",
+    "publicationDate": 1718503236,
+    "id": 4647443867
+  },
+  {
+    "link": "https://www.vinted.fr/items/5083366052-lego-notice-reference-40639",
+    "price": 1.75,
+    "title": "Lego notice référence 40639",
+    "imgUrl": "https://images1.vinted.net/t/02_00c22_xH3d6DRcK2og9uscxJpj2VJF/f800/1726939290.jpeg?s=f0ca1139d6e6c7439be9e7cb9a8688836d8f9fb8",
+    "publicationDate": 1726939290,
+    "id": 5083366052
+  },
+  {
+    "link": "https://www.vinted.fr/items/5329426775-lego-40639-vogel-nest",
+    "price": 8.05,
+    "title": "Lego 40639 Vogel nest",
+    "imgUrl": "https://images1.vinted.net/t/04_00044_Fsg5rmQKDrwpSeXJfBPU33VJ/f800/1730730877.jpeg?s=b16bab8a4ebf65670cf9e144e3998327d7f09348",
+    "publicationDate": 1730730877,
+    "id": 5329426775
+  },
+  {
     "link": "https://www.vinted.fr/items/5375725091-lego-vogels-40639",
-    "price": null,
+    "price": 11.19,
     "title": "Lego vogels 40639",
     "imgUrl": "https://images1.vinted.net/t/04_01f67_4XfTEKhYi1S5vyY5soM7yNBL/f800/1731497180.jpeg?s=57487aec90d3319ed74343117f3ed8f5e30418ae",
     "publicationDate": 1731497180,
@@ -17,7 +65,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5091073575-lego-nid-doiseau",
-    "price": null,
+    "price": 13.3,
     "title": "Lego Nid d'oiseau",
     "imgUrl": "https://images1.vinted.net/t/03_0078e_atiD9PaUZ248jJcEoUpZn9YW/f800/1727028920.jpeg?s=761b4bb048ac83c1ea21f7ac4526479c36888988",
     "publicationDate": 1727028920,
@@ -25,7 +73,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4139508131-lego-40639-vogelnest-neu-ungeoffnet",
-    "price": null,
+    "price": 10.15,
     "title": "Lego 40639 Vogelnest Neu & Ungeöffnet",
     "imgUrl": "https://images1.vinted.net/t/02_0111c_jSuqKzFmHgdu4uT8wZgGxuaf/f800/1708767627.jpeg?s=ee77cfd6f5fd722391b95071ab9d25ba012c8de2",
     "publicationDate": 1708767627,
@@ -33,23 +81,55 @@
   },
   {
     "link": "https://www.vinted.fr/items/4342794760-lego-nido-di-uccellino-40639",
-    "price": null,
+    "price": 12.25,
     "title": "Lego nido di uccellino 40639",
     "imgUrl": "https://images1.vinted.net/t/02_011b7_CSNctLArKbdPTVhVmmkSYjkv/f800/1712737066.jpeg?s=8c1af77e3092742e9542699344aa57616e4d12ba",
     "publicationDate": 1712737066,
     "id": 4342794760
   },
   {
+    "link": "https://www.vinted.fr/items/5193006039-lego-40639",
+    "price": 15.4,
+    "title": "Lego 40639",
+    "imgUrl": "https://images1.vinted.net/t/03_01608_82qoEyXqy5b8ZPvPv37Am2iB/f800/1728567804.jpeg?s=366abdd2dee9588c1e4790b73acc2ee1f6c49fbc",
+    "publicationDate": 1728567804,
+    "id": 5193006039
+  },
+  {
+    "link": "https://www.vinted.fr/items/5390606298-lego-40639-nid-doiseau-birds-nest-neuf",
+    "price": 21.7,
+    "title": "Lego 40639 Nid d’oiseau / Bird’s Nest neuf",
+    "imgUrl": "https://images1.vinted.net/t/01_02409_YNEuddVV65XRBbet33QZmYgE/f800/1731759998.jpeg?s=fda3ffb59734a10a0d51aeb05b92e80fe052afe5",
+    "publicationDate": 1731759998,
+    "id": 5390606298
+  },
+  {
+    "link": "https://www.vinted.fr/items/5232941346-lego-vogelnest-40639",
+    "price": 9.63,
+    "title": "Lego vogelnest 40639",
+    "imgUrl": "https://images1.vinted.net/t/01_002b5_Kz1teESXfHTWWnvWB3ZMPPts/f800/1729175988.jpeg?s=036b36de707fd731d6e1fe6691ab1647459039e9",
+    "publicationDate": 1729175988,
+    "id": 5232941346
+  },
+  {
     "link": "https://www.vinted.fr/items/5148031894-lego-creator",
-    "price": null,
+    "price": 16.45,
     "title": "Lego créator",
     "imgUrl": "https://images1.vinted.net/t/03_02059_rMN7SgENG9FKpX5G1MC9jk1w/f800/1727890019.jpeg?s=e37cead74d32d3df9e44af847fecbb34a80dc7dc",
     "publicationDate": 1727890019,
     "id": 5148031894
   },
   {
+    "link": "https://www.vinted.fr/items/5154850504-speelgoed-vogels",
+    "price": 16.45,
+    "title": "Speelgoed vogels",
+    "imgUrl": "https://images1.vinted.net/t/03_006cb_GnEdN2PscYg1qAFWGnrP5ghC/f800/1728022829.jpeg?s=20931083359132873fd1cbcadc047f4bd23a328a",
+    "publicationDate": 1728022829,
+    "id": 5154850504
+  },
+  {
     "link": "https://www.vinted.fr/items/5270423708-lego-birds-nest-vogelnest-vogels-pasen-paaseieren-40639-compleet-met-doos",
-    "price": null,
+    "price": 16.45,
     "title": "Lego bird's nest vogelnest vogels pasen paaseieren 40639 compleet met doos",
     "imgUrl": "https://images1.vinted.net/t/04_01394_zVUBUrXP4xEV5NMW4XRFPRie/f800/1729771082.jpeg?s=0152f0143befc3fe1992605fe775fa0a741fd3b5",
     "publicationDate": 1729771082,
@@ -57,7 +137,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4287192184-lego-creator-40639-het-vogelnest-educatief-paasverrassing",
-    "price": null,
+    "price": 14.3,
     "title": "LEGO Creator 40639 Het vogelnest ,educatief  paasverrassing",
     "imgUrl": "https://images1.vinted.net/t/02_01c99_3G5M4oYiEDkMSydvUF2sPtVf/f800/1711706004.jpeg?s=740548e6cdc9663ee49e0cba9a8b0f0be3b1bef9",
     "publicationDate": 1711706004,
@@ -65,7 +145,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/3838761462-lego-40639-birds-nest",
-    "price": null,
+    "price": 16.45,
     "title": "Lego 40639 Bird’s Nest",
     "imgUrl": "https://images1.vinted.net/t/02_02523_JyVx7nZJ71VNyVAMzy4yHUqn/f800/1701598298.jpeg?s=faf7ebaad108a670d1ff17bac4b3355f62b0d739",
     "publicationDate": 1701598298,

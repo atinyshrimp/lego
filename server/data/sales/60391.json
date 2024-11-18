@@ -1,7 +1,15 @@
 [
   {
+    "link": "https://www.vinted.fr/items/4819898554-boite-vide-lego-60391",
+    "price": 3.85,
+    "title": "Boîte vide lego 60391",
+    "imgUrl": "https://images1.vinted.net/t/03_01856_E7rQpLqyNGaUrvtkEHWrEwy2/f800/1722183061.jpeg?s=d8352724fa4ed33e6b405f4591d6582abcc83e2a",
+    "publicationDate": 1722183061,
+    "id": 4819898554
+  },
+  {
     "link": "https://www.vinted.fr/items/4126339634-lego-baustellen-set-60391",
-    "price": null,
+    "price": 37.45,
     "title": "Lego Baustellen Set 60391",
     "imgUrl": "https://images1.vinted.net/t/03_012c5_kyB6Wr5eFVY5PwqxQvtSawX6/f800/1708453578.jpeg?s=c055c496c171c09f03c8c34ccc6af201c94742f8",
     "publicationDate": 1708453578,
@@ -9,7 +17,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/3941380896-lego-60391-les-camions-de-chantier-et-la-grue-a-boule-de-demolition",
-    "price": null,
+    "price": 42.69,
     "title": "Lego 60391 Les camions de chantier et la grue à boule de démolition ",
     "imgUrl": "https://images1.vinted.net/t/01_01056_oZvRLDTssuBpLeNiqiHnoiUq/f800/1704453193.jpeg?s=6e55b106c45af8e9479cbfd50979bf4cb7b48080",
     "publicationDate": 1704453193,
@@ -17,7 +25,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4837427256-lego-star-wars-2x-cockpit-80394-4-legs",
-    "price": null,
+    "price": 2.8,
     "title": "Lego Star Wars 2x cockpit 80394 + 4 Legs",
     "imgUrl": "https://images1.vinted.net/t/03_0097a_m3hKxFft5Q6cxRzMh4kffa8u/f800/1722596132.jpeg?s=66ff9fd5102176ba5aac3e44c2e8dc1c2ebd8afa",
     "publicationDate": 1722596132,
@@ -25,7 +33,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4037726834-lego-60391",
-    "price": null,
+    "price": 47.95,
     "title": "Lego 60391",
     "imgUrl": "https://images1.vinted.net/t/01_01abc_KnexfzAVkMrUod6SxVSCED5d/f800/1706533616.jpeg?s=9a44f25a09bec936c98cf6c53a8ce110d3de9444",
     "publicationDate": 1706533616,
@@ -33,10 +41,18 @@
   },
   {
     "link": "https://www.vinted.fr/items/4643405432-lego-tractopelle-et-son-camion-lego-reference-60391",
-    "price": null,
+    "price": 42.7,
     "title": "Lego tractopelle et son camion lego reference 60391",
     "imgUrl": "https://images1.vinted.net/t/02_01c73_bpcMWrzTZkT1W8eGqmgZB7Z9/f800/1718435359.jpeg?s=35ef56144988724276ec8ac673db9621f113b8d1",
     "publicationDate": 1718435359,
     "id": 4643405432
+  },
+  {
+    "link": "https://www.vinted.fr/items/4935518180-gros-lot-lego",
+    "price": 53.2,
+    "title": "Gros lot Lego",
+    "imgUrl": "https://images1.vinted.net/t/02_003a1_rWNqRkkRqjrvHE7JXUVQWNEj/f800/1724584641.jpeg?s=f5ba657876a838610258b3c00c64b580306ecabe",
+    "publicationDate": 1724584641,
+    "id": 4935518180
   }
 ]

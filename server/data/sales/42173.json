@@ -1,7 +1,7 @@
 [
   {
     "link": "https://www.vinted.fr/items/5295623729-lego-42173-koenigsegg-jesko-absolut",
-    "price": null,
+    "price": 44.75,
     "title": "Lego 42173 - Koenigsegg Jesko Absolut",
     "imgUrl": "https://images1.vinted.net/t/02_0143a_TxzHpkqw4kmc3DL9ydrJjPs4/f800/1730182644.jpeg?s=9a6456f534c00ae4c93c9bf806eefb79bef8c10c",
     "publicationDate": 1730182644,
@@ -9,7 +9,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5134749417-lego-technic-42173",
-    "price": null,
+    "price": 44.8,
     "title": "Lego technic 42173",
     "imgUrl": "https://images1.vinted.net/t/03_00b89_xKe8xvrDXHiwbSKDo8Gazt1P/f800/1727697717.jpeg?s=9e497b130ef3075d836231ac4abcb55f686fb565",
     "publicationDate": 1727697717,
@@ -17,7 +17,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5377466263-lego-technic-42173-koenigsegg-jesko",
-    "price": null,
+    "price": 53.2,
     "title": "LEGO Technic 42173 - Koenigsegg Jesko",
     "imgUrl": "https://images1.vinted.net/t/04_01bd1_csEaz3rqwCGPEh3dkmibmaTQ/f800/1731513485.jpeg?s=d75c84eda3b48ed81aa7499be8eee3f70e8b1016",
     "publicationDate": 1731513485,
@@ -25,7 +25,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5373614882-lego-technic-42173",
-    "price": null,
+    "price": 44.8,
     "title": "Lego technic 42173",
     "imgUrl": "https://images1.vinted.net/t/04_01693_pZSoSRweLLqsbkK8pUzidDKm/f800/1731440886.jpeg?s=212b6094402dc4b183fcafe6ce77c5e7363529f0",
     "publicationDate": 1731440886,
@@ -33,7 +33,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5347058682-lego-technic-koenigsegg-jesko-absolut",
-    "price": null,
+    "price": 44.8,
     "title": "Lego Technic Koenigsegg Jesko Absolut",
     "imgUrl": "https://images1.vinted.net/t/04_0213f_qXvH9XtCDDmdmN53QLeVAucN/f800/1731064186.jpeg?s=47e745e0594db71f25470e1e0f7f77b743ce2215",
     "publicationDate": 1731064186,
@@ -41,10 +41,42 @@
   },
   {
     "link": "https://www.vinted.fr/items/4859739129-lego-koenigsegg-jesko-absolut-42173",
-    "price": null,
+    "price": 53.2,
     "title": "Lego koenigsegg jesko absolut  42173",
     "imgUrl": "https://images1.vinted.net/t/03_00898_rH3FPHBAysUMFDftH13deWVs/f800/1723045200.jpeg?s=f4d6191f2bb978dc7b3189e4c08bd03aa2f3e5be",
     "publicationDate": 1723045200,
     "id": 4859739129
+  },
+  {
+    "link": "https://www.vinted.fr/items/5292953332-lego-icons-ayrton-senna-formule-1",
+    "price": 63.7,
+    "title": "Lego Icons Ayrton Senna Formule 1",
+    "imgUrl": "https://images1.vinted.net/t/04_01f82_ACjiuntKUAAZyt2HG8gj2Qns/f800/1730126704.jpeg?s=57181b478240f025cca455d8ca7251ce11795d21",
+    "publicationDate": 1730126704,
+    "id": 5292953332
+  },
+  {
+    "link": "https://www.vinted.fr/items/5305042586-lego-vespa-125",
+    "price": 84.7,
+    "title": "Lego Vespa 125",
+    "imgUrl": "https://images1.vinted.net/t/04_01ff6_KdwycHFqayY8YWa8ah8swZL3/f800/1730322356.jpeg?s=512a6d1e747fd58b0277f7ef098453ef25bae5a9",
+    "publicationDate": 1730322356,
+    "id": 5305042586
+  },
+  {
+    "link": "https://www.vinted.fr/items/5305087267-lego-technic-la-debardeuse-john-deere",
+    "price": 152.95,
+    "title": "Lego Technic La débardeuse John Deere",
+    "imgUrl": "https://images1.vinted.net/t/01_005a3_e4DsrmqtSogtnm25D5MtY88P/f800/1730323087.jpeg?s=993d37ea0109b0d6d67d097dab1384faceeec4a3",
+    "publicationDate": 1730323087,
+    "id": 5305087267
+  },
+  {
+    "link": "https://www.vinted.fr/items/3252279248-istruzioni-cataloghi-depliant-lego-anni-80-90",
+    "price": 189.7,
+    "title": "Istruzioni cataloghi depliant lego anni 80-90",
+    "imgUrl": "https://images1.vinted.net/t/02_00c56_1pRvpHavpxEeKKt6vcn1Cbec/f800/1697907059.jpeg?s=73c952f3d8b626fcffe19c3acd7df840ae7f99de",
+    "publicationDate": 1697907059,
+    "id": 3252279248
   }
 ]

@@ -1,7 +1,39 @@
 [
   {
+    "link": "https://www.vinted.fr/items/5386388461-taj-mahal-lego",
+    "price": 53.2,
+    "title": "Taj Mahal lego",
+    "imgUrl": "https://images1.vinted.net/t/04_01a32_zLmo1s7DpFU8u2c69QwbfLEF/f800/1731679195.jpeg?s=eaae0dc8a0943c36fbbe4dc6e96d2627473a2c90",
+    "publicationDate": 1731679195,
+    "id": 5386388461
+  },
+  {
+    "link": "https://www.vinted.fr/items/4261068552-lego-taj-mahal-21056",
+    "price": 100.45,
+    "title": "Lego taj mahal (21056)",
+    "imgUrl": "https://images1.vinted.net/t/03_005b7_fHXwq4fKp76TW4v9gj3BL9UH/f800/1711201247.jpeg?s=7441b97704409099cff1837a98f6dada84057c9e",
+    "publicationDate": 1711201247,
+    "id": 4261068552
+  },
+  {
+    "link": "https://www.vinted.fr/items/5366623224-lego-architecture-21056-taj-mahal",
+    "price": 105.7,
+    "title": "Lego architecture 21056 Taj Mahal",
+    "imgUrl": "https://images1.vinted.net/t/04_0083d_4xmUnF3Gfnk3Czmph5bDsKWS/f800/1731339050.jpeg?s=acf1b9475ca924b08e8a3f465e92b71e226bd2cb",
+    "publicationDate": 1731339050,
+    "id": 5366623224
+  },
+  {
+    "link": "https://www.vinted.fr/items/4710787139-lego-architecture-21056",
+    "price": 100.45,
+    "title": "Lego architecture 21056",
+    "imgUrl": "https://images1.vinted.net/t/03_00c20_wG1nyrY4rH6WW7oACaoUW9DB/f800/1719851791.jpeg?s=7e8f9c00c76229a5f57ba0c6faa047a82ad24b3a",
+    "publicationDate": 1719851791,
+    "id": 4710787139
+  },
+  {
     "link": "https://www.vinted.fr/items/5361099428-lego-21056-taj-mahal",
-    "price": null,
+    "price": 74.2,
     "title": "Lego 21056  Taj Mahal",
     "imgUrl": "https://images1.vinted.net/t/03_0172c_3ADTHmb3S5wyP4E7sododVsY/f800/1731261117.jpeg?s=1431d98297a474e6eea46f0202540062c0801786",
     "publicationDate": 1731261117,
@@ -9,31 +41,47 @@
   },
   {
     "link": "https://www.vinted.fr/items/5010283831-21006-lego-architecture-the-white-house-check-my-list",
-    "price": null,
+    "price": 53.2,
     "title": "21006 LEGO Architecture The White House - check my list!",
     "imgUrl": "https://images1.vinted.net/t/01_0015a_r5VwBGtcifirpVDRywvjqswH/f800/1731880509.jpeg?s=dd583b1b417c8a1c71c1b53a5ff328fe32f392a1",
     "publicationDate": 1731880509,
     "id": 5010283831
   },
   {
-    "link": "https://www.vinted.fr/items/4720789537-lego-21056-architecture-taj-mahal",
-    "price": null,
-    "title": "Lego 21056 Architecture Taj Mahal",
-    "imgUrl": "https://images1.vinted.net/t/03_00a76_L1b213mR3Lz5gRjUn8wzyVQJ/f800/1720787656.jpeg?s=5e97ce07fea768b595336ec2e1b2d25696afcdc7",
-    "publicationDate": 1720787656,
-    "id": 4720789537
+    "link": "https://www.vinted.fr/items/5369257397-lego-architecture-taj-mahal-21056",
+    "price": 111.95,
+    "title": "Lego Architecture Taj Mahal 21056",
+    "imgUrl": "https://images1.vinted.net/t/04_000a0_W7q1UtzKgTbSmcSpud62uwCR/f800/1731363148.jpeg?s=a275fe3db778bab0c15b86b464ee6efd327503af",
+    "publicationDate": 1731363148,
+    "id": 5369257397
+  },
+  {
+    "link": "https://www.vinted.fr/items/4449222196-lego-21056-architecture-taj-mahal",
+    "price": 100.45,
+    "title": "LEGO 21056 architecture Taj Mahal",
+    "imgUrl": "https://images1.vinted.net/t/02_00b24_XiH2joANNuWWB9LHgc3P8WVw/f800/1714680907.jpeg?s=a9e26ee85ada26a86bb4e461a13b2d4d090da647",
+    "publicationDate": 1714680907,
+    "id": 4449222196
   },
   {
     "link": "https://www.vinted.fr/items/5366505137-lego-architecture-rare-21056-taj-mahal",
-    "price": null,
+    "price": 147.7,
     "title": "Lego Architecture Rare 21056 - Taj Mahal",
     "imgUrl": "https://images1.vinted.net/t/04_00791_2SpBEJqp4T7kbFXHXawaf7QY/f800/1731338265.jpeg?s=810c05903992f28b8b21849992e4d3ddd0716e38",
     "publicationDate": 1731338265,
     "id": 5366505137
   },
   {
+    "link": "https://www.vinted.fr/items/4720789537-lego-21056-architecture-taj-mahal",
+    "price": 126.7,
+    "title": "Lego 21056 Architecture Taj Mahal",
+    "imgUrl": "https://images1.vinted.net/t/03_00a76_L1b213mR3Lz5gRjUn8wzyVQJ/f800/1720787656.jpeg?s=5e97ce07fea768b595336ec2e1b2d25696afcdc7",
+    "publicationDate": 1720787656,
+    "id": 4720789537
+  },
+  {
     "link": "https://www.vinted.fr/items/4747607163-lego-taj-mahal-21056-2022-pcs-nieuw",
-    "price": null,
+    "price": 131.95,
     "title": "Lego Taj Mahal  21056 / 2022 pcs - nieuw",
     "imgUrl": "https://images1.vinted.net/t/03_00fee_Ubox5pkHKhLnJW9v6oZK6nub/f800/1720613510.jpeg?s=23bdff124fbe6ca2884bc04fa005c450dcb9acdb",
     "publicationDate": 1720613510,
@@ -41,31 +89,47 @@
   },
   {
     "link": "https://www.vinted.fr/items/5176336685-lego-architecture-21003-seattle-space-needle",
-    "price": null,
+    "price": 63.7,
     "title": "Lego Architecture 21003 Seattle Space Needle",
     "imgUrl": "https://images1.vinted.net/t/02_00fcc_LGz9oJBHj9ATzUGHdQtjW6t7/f800/1731885434.jpeg?s=d9179034a48b7329b4b44c9ad165bac53c98d6d4",
     "publicationDate": 1731885434,
     "id": 5176336685
   },
   {
-    "link": "https://www.vinted.fr/items/5176215050-lego-architecture-21012-sydney-opera-house-architect-series",
-    "price": null,
-    "title": "Lego Architecture 21012 Sydney Opera House Architect Series",
-    "imgUrl": "https://images1.vinted.net/t/03_00d88_cVAnLbhp3YmvzMqRABJtsTtq/f800/1731885158.jpeg?s=607aa47425b1780283bcef0565a6f744cfac48c1",
-    "publicationDate": 1731885158,
-    "id": 5176215050
+    "link": "https://www.vinted.fr/items/4083039294-lego-21056-taj-mahal",
+    "price": 100.45,
+    "title": "Lego 21056 Taj Mahal",
+    "imgUrl": "https://images1.vinted.net/t/01_00301_Zc5fKKgdgM2uFUiBzC71NpYi/f800/1707562286.jpeg?s=21a9c48736d74cbf27be996b50928e994dfdb8ef",
+    "publicationDate": 1707562286,
+    "id": 4083039294
   },
   {
     "link": "https://www.vinted.fr/items/5176117026-lego-architecture-21005-fallingwater-architect-series",
-    "price": null,
+    "price": 336.7,
     "title": "Lego Architecture 21005 Fallingwater Architect series",
     "imgUrl": "https://images1.vinted.net/t/04_00a92_b6RR81duFVXSh2pNxhuDbBzP/f800/1731884889.jpeg?s=c2e5d647f9c65b8d9d50c4016e83bb92bc3b8810",
     "publicationDate": 1731884889,
     "id": 5176117026
   },
   {
+    "link": "https://www.vinted.fr/items/5176215050-lego-architecture-21012-sydney-opera-house-architect-series",
+    "price": 100.45,
+    "title": "Lego Architecture 21012 Sydney Opera House Architect Series",
+    "imgUrl": "https://images1.vinted.net/t/03_00d88_cVAnLbhp3YmvzMqRABJtsTtq/f800/1731885158.jpeg?s=607aa47425b1780283bcef0565a6f744cfac48c1",
+    "publicationDate": 1731885158,
+    "id": 5176215050
+  },
+  {
+    "link": "https://www.vinted.fr/items/5010297754-21009-lego-architecture-architect-series-farnsworth-house",
+    "price": 142.45,
+    "title": "21009 LEGO Architecture Architect Series Farnsworth House",
+    "imgUrl": "https://images1.vinted.net/t/03_00cf2_DoejyXaVLvynPRJsqHBFGzCu/f800/1731880814.jpeg?s=60584e36fcecf721df3835d286c9369b0fdec393",
+    "publicationDate": 1731880814,
+    "id": 5010297754
+  },
+  {
     "link": "https://www.vinted.fr/items/5017629098-21037-architecture-lego-house-new",
-    "price": null,
+    "price": 100.45,
     "title": "21037 Architecture LEGO House NEW!",
     "imgUrl": "https://images1.vinted.net/t/04_00e57_4PyTG8sXKb4YeL8Zs55XRkXj/f800/1731884524.jpeg?s=aa6be1b764efffa270b6e80f7ca6364f7b0da821",
     "publicationDate": 1731884524,
@@ -73,7 +137,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5154383239-lego-21010-architecture-architect-series-robie-house",
-    "price": null,
+    "price": 612,
     "title": "LEGO 21010 Architecture Architect Series Robie House",
     "imgUrl": "https://images1.vinted.net/t/04_008c0_SuyU8vr4Sj4PDmP3oTJ47Y7H/f800/1731881515.jpeg?s=88a964aa2925348e32fd2d19f9b214ad3c0f9a4f",
     "publicationDate": 1731881515,
@@ -81,7 +145,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5010423808-lego-21015-architecture-the-leaning-tower-of-pisa",
-    "price": null,
+    "price": 93.1,
     "title": "Lego 21015 Architecture The Leaning Tower of Pisa",
     "imgUrl": "https://images1.vinted.net/t/04_013fe_n9PrwuSpsbeSvNPz1WrTgyxh/f800/1731881835.jpeg?s=3cb5444082a2585bf91891a711b4c54ba772e89c",
     "publicationDate": 1731881835,
@@ -89,7 +153,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5010129129-lego-architecture-21000-2-willis-tower",
-    "price": null,
+    "price": 63.7,
     "title": "Lego Architecture 21000-2 Willis Tower",
     "imgUrl": "https://images1.vinted.net/t/02_00c0c_bVrToDybQ5rMadJpx6rP5g9t/f800/1731880234.jpeg?s=e4737996d83d15705ce112f972e25b0ad07b2cac",
     "publicationDate": 1731880234,
@@ -97,7 +161,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5026354493-21039-lego-architecture-skylines-shanghai-new",
-    "price": null,
+    "price": 131.95,
     "title": "21039 LEGO Architecture Skylines Shanghai NEW!",
     "imgUrl": "https://images1.vinted.net/t/04_004ee_cVzBgndJxUxJzGHBNvGSACq7/f800/1731867226.jpeg?s=4f54ed58bcfa7617dafe0011be441b8ae990e386",
     "publicationDate": 1731867226,
@@ -105,7 +169,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5147575909-lego-architecture-19710-21000-sears-tower-landmark-series-complete-100-2008",
-    "price": null,
+    "price": 68.95,
     "title": "Lego Architecture 19710 21000 Sears Tower Landmark series complete 100% (2008)",
     "imgUrl": "https://images1.vinted.net/t/04_02646_GbPqKch9vFKXg9ubgBYCQeWW/f800/1731879581.jpeg?s=833566a072feafa5756421c211d1a1153252adeb",
     "publicationDate": 1731879581,
@@ -113,7 +177,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5015771028-21017-lego-architecture-architect-series-imperial-hotel",
-    "price": null,
+    "price": 168.7,
     "title": "21017 LEGO Architecture Architect Series Imperial Hotel",
     "imgUrl": "https://images1.vinted.net/t/01_00fab_SwDkMvG1UBvxUBFAPzet4NfW/f800/1731882538.jpeg?s=8adb534a4589ffb53663bd700004d68a244308a2",
     "publicationDate": 1731882538,
@@ -121,7 +185,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5003191683-21027-lego-architecture-berlin-new-and-sealed",
-    "price": null,
+    "price": 236.95,
     "title": "21027 LEGO Architecture Berlin NEW and SEALED!",
     "imgUrl": "https://images1.vinted.net/t/04_016cf_GahkrocXbs2WM93kHJZM1uvV/f800/1731878393.jpeg?s=2a10632f16f1c4e48108ab82ff735b6036127aa0",
     "publicationDate": 1731878393,
@@ -129,7 +193,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5010106432-lego-21000-2-willis-tower",
-    "price": null,
+    "price": 116.2,
     "title": "Lego 21000-2 Willis Tower",
     "imgUrl": "https://images1.vinted.net/t/04_01013_rhLM8d28XRM5juwW3L83rjWk/f800/1731880005.jpeg?s=9d7bfab115f81e98f4412806bf645f5c5c4812c7",
     "publicationDate": 1731880005,
@@ -137,7 +201,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5010373284-21016-lego-architecture-sungnyemun-exclusive",
-    "price": null,
+    "price": 210.7,
     "title": "21016 LEGO Architecture Sungnyemun - Exclusive!",
     "imgUrl": "https://images1.vinted.net/t/04_00eb2_pHwLs2HEHZ4bUgp361DVXrM5/f800/1731881126.jpeg?s=c618c5f0ac52d7bdff5ba1add21b16c064de8494",
     "publicationDate": 1731881126,
@@ -145,7 +209,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5010005838-lego-19720-21001-architecture-john-hancock-center",
-    "price": null,
+    "price": 126.7,
     "title": "Lego 19720 21001 Architecture John Hancock Center",
     "imgUrl": "https://images1.vinted.net/t/04_0045d_aV597L4eSbMMLkC189SbUZsD/f800/1731879009.jpeg?s=c9fbaca08a7c7605f7505604b10d2586f0b8e582",
     "publicationDate": 1731879009,

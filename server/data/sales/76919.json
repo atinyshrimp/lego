@@ -1,47 +1,127 @@
 [
   {
     "link": "https://www.vinted.fr/items/5207822085-lego-76919",
-    "price": null,
+    "price": 21.7,
     "title": "Lego 76919",
     "imgUrl": "https://images1.vinted.net/t/02_00768_L8AYVmA7Dx5haj2pAe2m2Vb5/f800/1728814619.jpeg?s=8295722ab53831c01789f4efae73dbf574280f35",
     "publicationDate": 1728814619,
     "id": 5207822085
   },
   {
-    "link": "https://www.vinted.fr/items/5383979598-lego-76919-neuf",
-    "price": null,
-    "title": "Lego 76919 neuf",
-    "imgUrl": "https://images1.vinted.net/t/04_00ecf_WNNa6oHpUGyMNSGVeSQ6kTmn/f800/1731618738.jpeg?s=45c7cf698fc36225c5b75a7792044483a1919729",
-    "publicationDate": 1731618738,
-    "id": 5383979598
+    "link": "https://www.vinted.fr/items/5269804920-lego-speed-champion-f1-maclaren-76919",
+    "price": 8.05,
+    "title": "Lego speed champion F1 maclaren 76919",
+    "imgUrl": "https://images1.vinted.net/t/03_01d8c_7omKTsGzmDHCrkBjRFiNBybC/f800/1729764665.jpeg?s=c2f5adf91f0815b13bed5b071dd7a26903b62837",
+    "publicationDate": 1729764665,
+    "id": 5269804920
   },
   {
     "link": "https://www.vinted.fr/items/5403026129-lego-speed-champions-mclaren-f1",
-    "price": null,
+    "price": 22.75,
     "title": "Lego Speed Champions - McLaren F1",
     "imgUrl": "https://images1.vinted.net/t/04_0098a_3LnfvPwEVY4VJnDexR3LVGcW/f800/1731927206.jpeg?s=0d4ae00f399bc3b722165b14a5c200162dd4babf",
     "publicationDate": 1731927206,
     "id": 5403026129
   },
   {
+    "link": "https://www.vinted.fr/items/5403028009-lego-76919-mclaren-f1",
+    "price": 16.45,
+    "title": "Lego 76919 McLaren F1",
+    "imgUrl": "https://images1.vinted.net/t/04_02629_veVUc1rQE9qhGGF9Qa9cDWRo/f800/1731927224.jpeg?s=2d890c3e00a5968fecd55b94fb4810095f899740",
+    "publicationDate": 1731927224,
+    "id": 5403028009
+  },
+  {
+    "link": "https://www.vinted.fr/items/5392670394-support-pour-f1-mclaren-lego",
+    "price": 7,
+    "title": "Support pour F1 McLaren Lego",
+    "imgUrl": "https://images1.vinted.net/t/03_00abe_2qhJjcNSQSQYP2fhmZgt8UXG/f800/1731775889.jpeg?s=e0c33d00e6077dad50b447cf5a54b7ef5f535799",
+    "publicationDate": 1731775889,
+    "id": 5392670394
+  },
+  {
+    "link": "https://www.vinted.fr/items/5383979598-lego-76919-neuf",
+    "price": 22.75,
+    "title": "Lego 76919 neuf",
+    "imgUrl": "https://images1.vinted.net/t/04_00ecf_WNNa6oHpUGyMNSGVeSQ6kTmn/f800/1731618738.jpeg?s=45c7cf698fc36225c5b75a7792044483a1919729",
+    "publicationDate": 1731618738,
+    "id": 5383979598
+  },
+  {
+    "link": "https://www.vinted.fr/items/5371832656-voiture-de-la-boite-lego-speed-champions-76919-la-voiture-de-course-de-formule-1-mclaren-2023",
+    "price": 16.45,
+    "title": "Voiture de la boîte Lego Speed Champions 76919 - La voiture de course de Formule 1 McLaren 2023",
+    "imgUrl": "https://images1.vinted.net/t/04_014f1_H8hubtJCZLJJ5jysZLQWEchC/f800/1731422230.jpeg?s=58042a547400350b98dc42a76160bdb499113a44",
+    "publicationDate": 1731422230,
+    "id": 5371832656
+  },
+  {
+    "link": "https://www.vinted.fr/items/4601084635-boite-lego",
+    "price": 3.85,
+    "title": "Boîte Lego",
+    "imgUrl": "https://images1.vinted.net/t/03_02451_Ve3L23MRbVKFvZFVQesQJcJf/f800/1717577157.jpeg?s=4137aee45d98acea865d67ad70e084f45da7daf5",
+    "publicationDate": 1717577157,
+    "id": 4601084635
+  },
+  {
+    "link": "https://www.vinted.fr/items/5331234119-notice-lego-76919",
+    "price": 3.85,
+    "title": "Notice lego 76919",
+    "imgUrl": "https://images1.vinted.net/t/04_0167a_z6hr8cmvuGx3bKS6d1FAXP5N/f800/1730749684.jpeg?s=e2fb2470457e37657f8c6f1676416d6261ebbae3",
+    "publicationDate": 1730749684,
+    "id": 5331234119
+  },
+  {
     "link": "https://www.vinted.fr/items/5400250287-lego-76919-2023-mclaren-formula-1-car",
-    "price": null,
+    "price": 23.38,
     "title": "LEGO 76919 2023 McLaren Formula 1 Car",
     "imgUrl": "https://images1.vinted.net/t/02_01e5f_Y2QFgsrwgVWGkADfj8QMqFBc/f800/1731866841.jpeg?s=ce02abfe169557f261e1d9c1c57ab1f6a4945c88",
     "publicationDate": 1731866841,
     "id": 5400250287
   },
   {
+    "link": "https://www.vinted.fr/items/5404723590-lego-speed-champions-mclaren-f1-car-76919-neuf-scelle-prix-fixe",
+    "price": 23.8,
+    "title": "Lego Speed Champions McLaren F1 Car (76919) Neuf & Scellé ! Prix Fixe !",
+    "imgUrl": "https://images1.vinted.net/t/03_01c48_K3myqskoEVqyGPm5bocNA9yt/f800/1731942840.jpeg?s=86d78a9b49985a2c2f2e7e297bd492f62f257e5c",
+    "publicationDate": 1731942840,
+    "id": 5404723590
+  },
+  {
+    "link": "https://www.vinted.fr/items/5121239145-empty-box-instructions-lego-76919-mclaren-formula",
+    "price": 7.95,
+    "title": "Empty Box & Instructions - LEGO 76919 McLaren Formula",
+    "imgUrl": "https://images1.vinted.net/t/02_00756_jHuMNNkDdndhyteBUvfccc4K/f800/1727526912.jpeg?s=d6c33ebcc4f304aad51aa4a4fd5be4ff3ae3c4b5",
+    "publicationDate": 1727526912,
+    "id": 5121239145
+  },
+  {
+    "link": "https://www.vinted.fr/items/5383527874-76919-lego-speed-champions-2023-mclaren-formule-1",
+    "price": 23.59,
+    "title": "76919 LEGO Speed Champions 2023 McLaren Formule 1",
+    "imgUrl": "https://images1.vinted.net/t/04_0087d_1425mLoQGEYFnrNEtXwfndS2/f800/1731613060.jpeg?s=8df49caf5ca7b770acf9309e699cfeab580ce50b",
+    "publicationDate": 1731613060,
+    "id": 5383527874
+  },
+  {
     "link": "https://www.vinted.fr/items/4229180825-lego-stand-for-mclaren-f1-car-76919-lego-not-included",
-    "price": null,
+    "price": 5.95,
     "title": "Lego Stand for McLaren F1 car 76919 (LEGO not included)",
     "imgUrl": "https://images1.vinted.net/t/02_015f5_UqQca9Lt1eAVHpzymBWgQWa5/f800/1710587210.jpeg?s=1242306460a8c8a920c76e782f44f52807271d11",
     "publicationDate": 1710587210,
     "id": 4229180825
   },
   {
+    "link": "https://www.vinted.fr/items/5383690887-lego-76919-speed-champions",
+    "price": 21.7,
+    "title": "Lego 76919 Speed Champions",
+    "imgUrl": "https://images1.vinted.net/t/01_0266e_6vuNwxW6Esa7tUpzurZHzepF/f800/1731614989.jpeg?s=20965fe6a096e11473ffdb0e4da823edecb89067",
+    "publicationDate": 1731614989,
+    "id": 5383690887
+  },
+  {
     "link": "https://www.vinted.fr/items/5348421768-lego-76919-monoposto-mclaren-f1",
-    "price": null,
+    "price": 22.75,
     "title": "Lego 76919 Monoposto Mclaren F1",
     "imgUrl": "https://images1.vinted.net/t/04_0145a_v7YLFkpgGE2hvYy3bv6w5a5e/f800/1731078943.jpeg?s=20ab54195843ba2cffec8feff35e0355f57df951",
     "publicationDate": 1731078943,
@@ -49,15 +129,31 @@
   },
   {
     "link": "https://www.vinted.fr/items/5391411366-lego-76919",
-    "price": null,
+    "price": 24.85,
     "title": "Lego 76919",
     "imgUrl": "https://images1.vinted.net/t/03_01d72_tvy345UkM9eZbFeELs3y1bMH/f800/1731766068.jpeg?s=1f8705eb29a962d9af8b7e14252b9c17dace3e5d",
     "publicationDate": 1731766068,
     "id": 5391411366
   },
   {
+    "link": "https://www.vinted.fr/items/5074212340-custom-display-for-lego-76919-mclaren-f1-2023",
+    "price": 18.45,
+    "title": "Custom Display for LEGO 76919 McLaren F1 2023",
+    "imgUrl": "https://images1.vinted.net/t/01_018cd_BFsdx4ADoBR4tS7kckCTsSaK/f800/1728208461.jpeg?s=2f4cbd47f9401b0062057fd1db9cd6609af73a0d",
+    "publicationDate": 1728208461,
+    "id": 5074212340
+  },
+  {
+    "link": "https://www.vinted.fr/items/5339535868-lego-speed-champion-76919",
+    "price": 21.7,
+    "title": "Lego speed champion 76919",
+    "imgUrl": "https://images1.vinted.net/t/04_0223b_aQ1MuGTrQK7mZCVhm1pSSLvh/f800/1730910352.jpeg?s=ce5f0c07d9499c18a18c271a0dd3a2343ee35105",
+    "publicationDate": 1730910352,
+    "id": 5339535868
+  },
+  {
     "link": "https://www.vinted.fr/items/5059397189-lego-76919",
-    "price": null,
+    "price": 22.75,
     "title": "Lego 76919",
     "imgUrl": "https://images1.vinted.net/t/02_01460_Q3bDYD24EK6i4u4LogjMHA7T/f800/1726563889.jpeg?s=90505ab2214a0ced9d98e98ae3dd5e576e62a093",
     "publicationDate": 1726563889,
@@ -65,23 +161,47 @@
   },
   {
     "link": "https://www.vinted.fr/items/4982094871-lego-speed-champions-mclaren-2023-formula-1-car-76919-neuf-scelle",
-    "price": null,
+    "price": 26.95,
     "title": "Lego speed champions McLaren 2023 formula 1 car 76919 neuf scellé",
     "imgUrl": "https://images1.vinted.net/t/01_00c90_UT2uCzSDfxw8MJ9MEz2jaDfu/f800/1725375304.jpeg?s=882c292f67d462452bf35f8df6831cea459b5daa",
     "publicationDate": 1725375304,
     "id": 4982094871
   },
   {
+    "link": "https://www.vinted.fr/items/5239251677-lot-lego-speed-champions-formule-1-mclaren-2023-compose-de",
+    "price": 32.19,
+    "title": "Lot LEGO Speed Champions Formule 1 McLaren 2023 composé de",
+    "imgUrl": "https://images1.vinted.net/t/03_020a8_UWcTZejkGnJVHpjRi9SpiF7E/f800/1729280401.jpeg?s=81e32faa421c17067f8686654e64dfc35ceec166",
+    "publicationDate": 1729280401,
+    "id": 5239251677
+  },
+  {
+    "link": "https://www.vinted.fr/items/5395755766-lego-speed-champions-76919-2023-mclaren-formula-1-car",
+    "price": 24.85,
+    "title": "Lego Speed Champions 76919 2023 McLaren Formula 1 Car",
+    "imgUrl": "https://images1.vinted.net/t/03_0100c_MWticK18Djqn1YdyFhkJ4Kd3/f800/1731840777.jpeg?s=0d77959b9b73cbb42a0e340ce6ed00695170b3de",
+    "publicationDate": 1731840777,
+    "id": 5395755766
+  },
+  {
     "link": "https://www.vinted.fr/items/5354482031-lego-speed-champions-76919",
-    "price": null,
+    "price": 24.85,
     "title": "Lego speed champions 76919",
     "imgUrl": "https://images1.vinted.net/t/04_00783_5XCNkDEoZxfpgKC2JpiWW4Fi/f800/1731174825.jpeg?s=9b9bfc509089c24daa9b02f6f24cd59b9a45b082",
     "publicationDate": 1731174825,
     "id": 5354482031
   },
   {
+    "link": "https://www.vinted.fr/items/5041458229-lego-mclaren",
+    "price": 21.7,
+    "title": "Lego McLaren",
+    "imgUrl": "https://images1.vinted.net/t/01_01716_K9QG6AA8TLfDxQmj3jKBWJ16/f800/1726319469.jpeg?s=2e550c2bd7cb3ea355024af6a6ecfb281bfa64c5",
+    "publicationDate": 1726319469,
+    "id": 5041458229
+  },
+  {
     "link": "https://www.vinted.fr/items/5379819855-mclaren-f1-lando-norris-lego",
-    "price": null,
+    "price": 30.1,
     "title": "McLaren F1 Lando Norris lego",
     "imgUrl": "https://images1.vinted.net/t/04_013c5_eg5S7ZZ3vrwHzUu79WceUo9T/f800/1731570882.jpeg?s=ca842c1fcdec653031de28b9fefa6b2c3e07d883",
     "publicationDate": 1731570882,
@@ -89,15 +209,31 @@
   },
   {
     "link": "https://www.vinted.fr/items/5106657657-76919-lego-speed-champions-monoposto-da-corsa-mclaren-formula-1-2023",
-    "price": null,
+    "price": 25.9,
     "title": "76919 LEGO Speed Champions Monoposto da corsa McLaren Formula 1 2023",
     "imgUrl": "https://images1.vinted.net/t/03_013d4_bWVSjwAq3JqG8GPyqhBFTxQV/f800/1727277141.jpeg?s=fd570482016be948dbf62e5053bf0e1e9cdbcd3d",
     "publicationDate": 1727277141,
     "id": 5106657657
   },
   {
+    "link": "https://www.vinted.fr/items/5245970384-lego-76919-speed-mclaren",
+    "price": 21.7,
+    "title": "Lego 76919 Speed McLaren",
+    "imgUrl": "https://images1.vinted.net/t/03_006f0_8L96HhgCUQ27BxqZCQkiJMeG/f800/1729411903.jpeg?s=cc84fd0cfd1989490632aff32b079393c36a4878",
+    "publicationDate": 1729411903,
+    "id": 5245970384
+  },
+  {
+    "link": "https://www.vinted.fr/items/5359173382-lego-42165-76919",
+    "price": 47.95,
+    "title": "Lego 42165 + 76919",
+    "imgUrl": "https://images1.vinted.net/t/04_01922_dNMGyEP2MvAgdUUU4fiohZK3/f800/1731249171.jpeg?s=ab23c09f606b4b23ab18c7bcb613d8255cf0f3a5",
+    "publicationDate": 1731249171,
+    "id": 5359173382
+  },
+  {
     "link": "https://www.vinted.fr/items/5346177433-lego-speed-mclaren-76919-formula-1",
-    "price": null,
+    "price": 26.95,
     "title": "Lego speed McLaren 76919 fórmula 1",
     "imgUrl": "https://images1.vinted.net/t/03_01aaf_1dgyVZR7WDEN1jHPUPhuMaWJ/f800/1731051449.jpeg?s=4812a459cf828f4f47ba21d1799af71042f49028",
     "publicationDate": 1731051449,
@@ -105,7 +241,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5393166097-lego-speed-champion-mclaren-76919",
-    "price": null,
+    "price": 26.95,
     "title": "Lego Speed Champion McLaren 76919",
     "imgUrl": "https://images1.vinted.net/t/02_000dc_8BKiMhWJsTqDBxLxU8df156c/f800/1731780698.jpeg?s=ce85315b990fd19546790b5bf3764170ee7e3afe",
     "publicationDate": 1731780698,
@@ -113,7 +249,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4542406644-lego-speed-champions-76919-mclaren-formula-1",
-    "price": null,
+    "price": 27.74,
     "title": "LEGO Speed Champions 76919 - McLaren Formula 1",
     "imgUrl": "https://images1.vinted.net/t/02_0152a_VXCeHA4dGupnkNZY7gqSbVEh/f800/1716417291.jpeg?s=84057422158a4c53550bf0f80cadf61d1b517293",
     "publicationDate": 1716417291,
@@ -121,7 +257,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/5226118142-lego-76919-mclaren-formula-1",
-    "price": null,
+    "price": 30.1,
     "title": "Lego 76919 McLaren Formula 1",
     "imgUrl": "https://images1.vinted.net/t/03_020e9_ZVxfUDjc5zEGBYGDmtaYSeBj/f800/1729073487.jpeg?s=d911b110c30900fc565636c75159f40d5615096f",
     "publicationDate": 1729073487,
@@ -129,15 +265,23 @@
   },
   {
     "link": "https://www.vinted.fr/items/5369719493-lot-de-10-notices-lego",
-    "price": null,
+    "price": 13.3,
     "title": "LOT de 10 notices LEGO",
     "imgUrl": "https://images1.vinted.net/t/02_01fec_gQb2smHUwoqNkDKEwtHzi2WB/f800/1731607481.jpeg?s=8b912145e029f5269a32fe40b2f72442c2565705",
     "publicationDate": 1731607481,
     "id": 5369719493
   },
   {
+    "link": "https://www.vinted.fr/items/4943859018-mclaren-formule-1-speed-champions-lego-76919",
+    "price": 22.75,
+    "title": "McLaren Formule 1 speed champions lego 76919",
+    "imgUrl": "https://images1.vinted.net/t/02_002c3_HwAQUz8t1cNcnSLhWPPJ3s16/f800/1724957775.jpeg?s=a82a44fec6e40b8188758a8e93ae47c548bf4414",
+    "publicationDate": 1724957775,
+    "id": 4943859018
+  },
+  {
     "link": "https://www.vinted.fr/items/5007509407-lego-speed-champions-mclaren-f1-76919",
-    "price": null,
+    "price": 26.95,
     "title": "Lego Speed Champions McLaren F1 76919",
     "imgUrl": "https://images1.vinted.net/t/03_02263_gykYMWJ4Z2NW1TBexaemj7g3/f800/1725807786.jpeg?s=797ca8b121f6e9a1316cd0999cb4a1bea05f3286",
     "publicationDate": 1725807786,
@@ -145,47 +289,63 @@
   },
   {
     "link": "https://www.vinted.fr/items/5344319766-lego-speed-champions-coche-de-carreras-de-formula-1",
-    "price": null,
+    "price": 29.04,
     "title": "Lego Speed Champions Coche de Carreras de Fórmula 1",
     "imgUrl": "https://images1.vinted.net/t/04_01284_vvq5zGa4caXBGSA76C3tB5Bf/f800/1730997307.jpeg?s=195260a03a923dad0afe1e5289d0374e3630001f",
     "publicationDate": 1730997307,
     "id": 5344319766
   },
   {
-    "link": "https://www.vinted.fr/items/4776637796-lego-mclaren-f1-lando-norris-76919",
-    "price": null,
-    "title": "LEGO McLaren F1 Lando Norris 76919",
-    "imgUrl": "https://images1.vinted.net/t/01_02592_XgbouusHbx5ivP2HAqaNCikf/f800/1721225537.jpeg?s=f09c66ac7c122d979933f15948c96b2009097e4d",
-    "publicationDate": 1721225537,
-    "id": 4776637796
-  },
-  {
-    "link": "https://www.vinted.fr/items/5325480098-lego-speed-76919-voiture-de-course-de-formule-1-mclaren-2023",
-    "price": null,
-    "title": "LEGO Speed 76919 Voiture de Course de Formule 1 McLaren 2023",
-    "imgUrl": "https://images1.vinted.net/t/02_00f38_AoDDynTmGAQdPDNiG8VeXgCR/f800/1730657456.jpeg?s=e3c62b5ecbab17b5f9344db37e54dc32bc16d8c8",
-    "publicationDate": 1730657456,
-    "id": 5325480098
-  },
-  {
     "link": "https://www.vinted.fr/items/5344272239-lego-speed-champions-2023-mclaren-formula-1-car-76919",
-    "price": null,
+    "price": 79.45,
     "title": "Lego Speed Champions 2023 McLaren Formula 1 Car 76919",
     "imgUrl": "https://images1.vinted.net/t/04_01611_rUd8CkEirSfWKKk6T3MRJLC5/f800/1730996746.jpeg?s=ccf162d2b9b6515f2922e32483347b887289294b",
     "publicationDate": 1730996746,
     "id": 5344272239
   },
   {
+    "link": "https://www.vinted.fr/items/4776637796-lego-mclaren-f1-lando-norris-76919",
+    "price": 32.19,
+    "title": "LEGO McLaren F1 Lando Norris 76919",
+    "imgUrl": "https://images1.vinted.net/t/01_02592_XgbouusHbx5ivP2HAqaNCikf/f800/1721225537.jpeg?s=f09c66ac7c122d979933f15948c96b2009097e4d",
+    "publicationDate": 1721225537,
+    "id": 4776637796
+  },
+  {
+    "link": "https://www.vinted.fr/items/5402108879-lego-speed-champion-76919-76921",
+    "price": 42.7,
+    "title": "Lego Speed Champion 76919 - 76921",
+    "imgUrl": "https://images1.vinted.net/t/01_007c7_RfbKx1M5KGtKce5GmrUrAZ7H/f800/1731913330.jpeg?s=f1aeaaca989035722115f6eec98251ada3a6b825",
+    "publicationDate": 1731913330,
+    "id": 5402108879
+  },
+  {
+    "link": "https://www.vinted.fr/items/5325480098-lego-speed-76919-voiture-de-course-de-formule-1-mclaren-2023",
+    "price": 29.05,
+    "title": "LEGO Speed 76919 Voiture de Course de Formule 1 McLaren 2023",
+    "imgUrl": "https://images1.vinted.net/t/02_00f38_AoDDynTmGAQdPDNiG8VeXgCR/f800/1730657456.jpeg?s=e3c62b5ecbab17b5f9344db37e54dc32bc16d8c8",
+    "publicationDate": 1730657456,
+    "id": 5325480098
+  },
+  {
     "link": "https://www.vinted.fr/items/4186839246-lego-speed-champions-76919",
-    "price": null,
+    "price": 32.2,
     "title": "Lego Speed Champions 76919",
     "imgUrl": "https://images1.vinted.net/t/02_013ae_faYYL3YZ2apKCrYW7evWgYi2/f800/1709669584.jpeg?s=0b5caca700c52bd37651ef00cf5c21ae6bacf3ff",
     "publicationDate": 1709669584,
     "id": 4186839246
   },
   {
+    "link": "https://www.vinted.fr/items/5383543842-lego-speed-champions-76919-la-voiture-de-course-de-formule-1-mclaren-2023",
+    "price": 25.38,
+    "title": "LEGO Speed Champions 76919  -  La Voiture de Course de Formule 1 McLaren 2023",
+    "imgUrl": "https://images1.vinted.net/t/01_008a8_xNfDovGZKDA6ma9yWZeMxYAN/f800/1731613210.jpeg?s=24703db9afa8938cfd520d3335a596bb2bc932d9",
+    "publicationDate": 1731613210,
+    "id": 5383543842
+  },
+  {
     "link": "https://www.vinted.fr/items/5297169167-lote-lego-speed-champions",
-    "price": null,
+    "price": 158.2,
     "title": "Lote Lego Speed Champions",
     "imgUrl": "https://images1.vinted.net/t/04_01406_pZk4TfQUbsskVHjcaKQnUFWF/f800/1730203789.jpeg?s=46fa491c410ac594f182d69c2ef66379bb62048c",
     "publicationDate": 1730203789,
