@@ -1,23 +1,7 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5319723370-disney-cars-lego-duplo-10996-wie-neu",
-    "price": 16.45,
-    "title": "Disney Cars Lego Duplo 10996 wie neu",
-    "imgUrl": "https://images1.vinted.net/t/04_0065e_uNj5bELEUUzjshN5KSp1YMB6/f800/1730803787.jpeg?s=76c9e8e6dd814683aa406ad11a323fbe6d3f0c82",
-    "publicationDate": 1730803787,
-    "id": 5319723370
-  },
-  {
-    "link": "https://www.vinted.fr/items/5250712086-lego-10996-cars-en-boite-avec-notice",
-    "price": 21.7,
-    "title": "Lego 10996 cars En boîte avec notice",
-    "imgUrl": "https://images1.vinted.net/t/03_01b21_ebpWSbBNCZAmGnj1sLNTCpnc/f800/1729440861.jpeg?s=0e657b385c24a73cbd5447e4d3dc32f0c4be0b80",
-    "publicationDate": 1729440861,
-    "id": 5250712086
-  },
-  {
     "link": "https://www.vinted.fr/items/4238097700-lego-duplo-10996-novo-e-selado",
-    "price": 26.95,
+    "price": null,
     "title": "LEGO Duplo 10996 - Novo e Selado",
     "imgUrl": "https://images1.vinted.net/t/01_00a9c_bNhuCXEcv5Y22tLzp3wTRHxx/f800/1710706057.jpeg?s=f47b2f52cdf6c9845ab4db78e8e6180c32f1f3fd",
     "publicationDate": 1710706057,
@@ -25,34 +9,26 @@
   },
   {
     "link": "https://www.vinted.fr/items/3996418475-lego-duplo-lightning-mcqueen-and-maters-car-wash-fun-10996-new-and-sealed",
-    "price": 28,
+    "price": null,
     "title": "Lego Duplo Lightning McQueen and Mater's Car Wash Fun (10996) new and sealed",
     "imgUrl": "https://images1.vinted.net/t/03_00676_rZPFd3qe2MDwA6diFvbnnUkQ/f800/1705659250.jpeg?s=fb56048a7be3e3c8a0c2db12925cd1b71c41e963",
     "publicationDate": 1705659250,
     "id": 3996418475
   },
   {
+    "link": "https://www.vinted.fr/items/5378920840-lego-disney-duplo-10996-lighting-mcqueen-and-maters-car-wash-fun",
+    "price": null,
+    "title": "Lego Disney duplo 10996 lighting Mcqueen and mater's car wash fun",
+    "imgUrl": "https://images1.vinted.net/t/04_012ae_uBqni9PBWnhFz4AmdHpNWBBu/f800/1731529000.jpeg?s=af87b99c879aebf2e04f1808d6a2267e293d90e8",
+    "publicationDate": 1731529000,
+    "id": 5378920840
+  },
+  {
     "link": "https://www.vinted.fr/items/3875531248-lego-duplo-10996",
-    "price": 32.2,
+    "price": null,
     "title": "Lego duplo 10996",
     "imgUrl": "https://images1.vinted.net/t/01_00a05_J4CC63DVyyteFa8TsD8YKZZN/f800/1702392659.jpeg?s=713920b57f350204a6dbef449b6429d88de755e9",
     "publicationDate": 1702392659,
     "id": 3875531248
-  },
-  {
-    "link": "https://www.vinted.fr/items/5273109823-lego-disney-10996-lightning-mcqueen-maters-car-wash-fun",
-    "price": 28,
-    "title": "Lego - Disney - 10996 - Lightning McQueen & Mater's Car Wash Fun",
-    "imgUrl": "https://images1.vinted.net/t/02_00244_H7uTwozRgen2DM7LKrq56trA/f800/1729800470.jpeg?s=7b0ca494a75476d46b1af7ed9867c0e79f0a84cb",
-    "publicationDate": 1729800470,
-    "id": 5273109823
-  },
-  {
-    "link": "https://www.vinted.fr/items/5249408710-lego-duplo-box",
-    "price": 42.7,
-    "title": "Lego Duplo Box",
-    "imgUrl": "https://images1.vinted.net/t/03_00586_v9RRbcndSnKDjYpY53dzzYK1/f800/1729433750.jpeg?s=d3df23fb8e434579fd158276be530d6427e15728",
-    "publicationDate": 1729433750,
-    "id": 5249408710
   }
 ]

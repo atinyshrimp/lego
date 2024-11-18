@@ -1,71 +1,39 @@
 [
   {
-    "link": "https://www.vinted.fr/items/5275968932-lego-10309-neu-botanical-collection",
-    "price": 24.94,
-    "title": "Lego 10309 NEU Botanical Collection",
-    "imgUrl": "https://images1.vinted.net/t/01_012b8_nJHJ1hH7viEYfDZq2wMJZo68/f800/1729866406.jpeg?s=490e976c9253c275c7b3c7543c23f72fd668ccb4",
-    "publicationDate": 1729866406,
-    "id": 5275968932
-  },
-  {
-    "link": "https://www.vinted.fr/items/5280855064-lego-10309-piante-grasse-botanical",
-    "price": 32.2,
-    "title": "Lego 10309 piante grasse botanical",
-    "imgUrl": "https://images1.vinted.net/t/04_010c2_Sm9nrrpYXeaafUGqiKnmPxQX/f800/1729952189.jpeg?s=94d8e70ed9e6227b46ff22483af0ae88e76110af",
-    "publicationDate": 1729952189,
-    "id": 5280855064
-  },
-  {
-    "link": "https://www.vinted.fr/items/5354438144-lego-10309-neu-botanical-collection",
-    "price": 24.98,
-    "title": "Lego 10309 NEU Botanical Collection",
-    "imgUrl": "https://images1.vinted.net/t/04_0104a_pv6G1Tnisth19EGioPZ2121Y/f800/1731174364.jpeg?s=bc388c32be5a93173b4e230a3c70a58b423d8f65",
-    "publicationDate": 1731174364,
-    "id": 5354438144
-  },
-  {
     "link": "https://www.vinted.fr/items/5353428806-lego-10309-neuf",
-    "price": 51.1,
+    "price": null,
     "title": "Lego 10309 neuf",
     "imgUrl": "https://images1.vinted.net/t/01_01073_wK1ZvQYBFDV86kw29SDdPHXu/f800/1731165419.jpeg?s=03029a9174481e880e0ef5c6ae60cf9ba482c979",
     "publicationDate": 1731165419,
     "id": 5353428806
   },
   {
-    "link": "https://www.vinted.fr/items/4707072368-zwart-1x-vaas",
-    "price": 19.08,
-    "title": "Zwart 1x vaas.",
-    "imgUrl": "https://images1.vinted.net/t/02_01339_2C1bBEQWmzZ3w5hNHcwAzgKW/f800/1719772635.jpeg?s=ee14bfd3b219fede773f7cfa83ca83f57c26c0c0",
-    "publicationDate": 1719772635,
-    "id": 4707072368
-  },
-  {
     "link": "https://www.vinted.fr/items/5096452208-lego-10309-bottanical-collection-succulents",
-    "price": 52.15,
+    "price": null,
     "title": "Lego 10309 bottanical collection succulents",
     "imgUrl": "https://images1.vinted.net/t/01_00c47_cvqH3i1EiYTSKXv3gy1gfkBe/f800/1727111665.jpeg?s=e65bcb810ffe954d856b3d99ab94d153aef189ae",
     "publicationDate": 1727111665,
     "id": 5096452208
   },
   {
-    "link": "https://www.vinted.fr/items/5244132000-lego-10309-les-succulentes",
-    "price": 42.7,
-    "title": "Lego 10309 - Les Succulentes",
-    "imgUrl": "https://images1.vinted.net/t/02_000c6_T3F12Hb7E23Y5cX8PoFT7Q1F/f800/1729356672.jpeg?s=f82b6c4abacad825f0408c025ddf76c1d2a88de7",
-    "publicationDate": 1729356672,
-    "id": 5244132000
-  },
-  {
     "link": "https://www.vinted.fr/items/5128839652-lego-10309-creator-expert-piante-grasse",
-    "price": 53.1,
+    "price": null,
     "title": "Lego 10309 Creator Expert Piante Grasse",
     "imgUrl": "https://images1.vinted.net/t/02_00fe8_DBTA25CSGnytwkkLLEnf4uME/f800/1727618520.jpeg?s=4277269319549d58bfcfe3838cb611a6913b2921",
     "publicationDate": 1727618520,
     "id": 5128839652
   },
   {
+    "link": "https://www.vinted.fr/items/4707072368-zwart-1x-vaas",
+    "price": null,
+    "title": "Zwart 1x vaas.",
+    "imgUrl": "https://images1.vinted.net/t/02_01339_2C1bBEQWmzZ3w5hNHcwAzgKW/f800/1719772635.jpeg?s=ee14bfd3b219fede773f7cfa83ca83f57c26c0c0",
+    "publicationDate": 1719772635,
+    "id": 4707072368
+  },
+  {
     "link": "https://www.vinted.fr/items/5216203697-piante-grasse-lego",
-    "price": 42.7,
+    "price": null,
     "title": "Piante grasse - Lego",
     "imgUrl": "https://images1.vinted.net/t/02_01b0a_QHP3B8uqs7Eo51HgMFnw2ZgQ/f800/1728909628.jpeg?s=13dde936f48cabc35bd5a11030b104f59a425095",
     "publicationDate": 1728909628,
@@ -73,7 +41,7 @@
   },
   {
     "link": "https://www.vinted.fr/items/4085333680-lego-10309-piante-grasse",
-    "price": 68.95,
+    "price": null,
     "title": "Lego 10309 piante grasse ",
     "imgUrl": "https://images1.vinted.net/t/03_0224a_8r52zxaQDNPWgSe5CB6WEzRx/f800/1707586435.jpeg?s=9c119985dfeb5b6f931f46e248f62f600a4ffa3e",
     "publicationDate": 1707586435,

@@ -10,11 +10,12 @@
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
     "helmet": "^8.0.0",
-    "mongodb": "^6.9.0",
+    "mongodb": "^6.10.0",
     "node-fetch": "^2.7.0",
     "parse-domain": "^8.2.2",
     "puppeteer": "^23.6.1",
     "require-all": "^3.0.0",
+    "tqdm": "^2.0.3",
     "uuid": "^10.0.0"
   },
   "devDependencies": {
