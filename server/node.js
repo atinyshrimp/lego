@@ -75,7 +75,8 @@ async function run() {
         // await findMostCommentedDeals(database);
         // await findDealsSortedByPrice(database);
         // await findDealsSortedByDate(database);
-        await findSalesByLegoID(database, "71043");
+        // await findSalesByLegoID(database, "71043");
+        await findRecentSales(database);
 
         // Send a ping to confirm a successful connection
         await client.db("admin").command({ ping: 1 });
@@ -135,11 +136,34 @@ async function findDealsSortedByDate(db, ascending = false) {
 }
 
 async function findSalesByLegoID(db, legoId) {
-    const collection = db.collection(DEALS_COLLECTION);
+    const collection = db.collection(SALES_COLLECTION);
 
     const legoSales = await collection.find({ legoId: legoId }).toArray();
     console.log(legoSales);
     return legoSales;
+}
+
+async function findRecentSales(db, days = 21) {
+    const collection = db.collection(SALES_COLLECTION);
+
+    // Query to find sales that were scraped less than 3 weeks ago, assuming a "scrapedDate" field exists
+    const deltaDate = new Date();
+    console.log(`Created date: ${deltaDate}`);
+    deltaDate.setDate(deltaDate.getDate() - days); // Substract by the number of days
+
+    console.log(`Delayed date: ${deltaDate}`);
+
+    const deltaTimeUnix = Math.floor(deltaDate.getTime() * 1e-3);
+    console.log(
+        `Converted delayed date: ${deltaTimeUnix} (${typeof deltaTimeUnix})`
+    );
+
+    const recentSales = await collection
+        .find({ publicationDate: { $gte: deltaTimeUnix } })
+        .sort({ publicationDate: -1 })
+        .toArray();
+    console.log(recentSales);
+    return recentSales;
 }
 
 module.exports = {
@@ -148,4 +172,5 @@ module.exports = {
     findDealsSortedByPrice,
     findDealsSortedByDate,
     findSalesByLegoID,
+    findRecentSales,
 };
