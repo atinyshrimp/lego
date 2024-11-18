@@ -71,7 +71,8 @@ async function run() {
     // await insertDeals(database);
     // await insertSales(database);
 
-    await findBestDiscountDeals(database, 40);
+    // await findBestDiscountDeals(database, 40);
+    await findMostCommentedDeals(database);
 
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });
@@ -97,6 +98,18 @@ async function findBestDiscountDeals(db, minDiscount) {
   return bestDiscountDeals;
 }
 
+async function findMostCommentedDeals(db, minComments = 100) {
+  const collection = db.collection(DEALS_COLLECTION);
+
+  const mostCommentedDeals = await collection
+    .find({ comments: { $gte: minComments } })
+    .sort({ comments: -1 })
+    .toArray();
+  console.log(mostCommentedDeals);
+  return mostCommentedDeals;
+}
+
 module.exports = {
   findBestDiscountDeals,
+  findMostCommentedDeals,
 };
