@@ -56,9 +56,87 @@ process.on("SIGINT", async () => {
     process.exit(0);
 });
 
-/** Endpoints */
+/** ================== Endpoints ================== */
 app.get("/", (_, res) => {
     res.send({ ack: true });
+});
+
+/** Deals */
+// Search deals
+app.get("/deals/search", async (req, res) => {
+    try {
+        // Extract query parameters
+        const {
+            limit = 12, // Default to 12
+            legoId, // Lego set ID filter
+            price, // Price filter
+            date, // Date filter
+            filterBy, // Special filter
+        } = req.query;
+
+        // Initialize the query object
+        const filter = {};
+
+        // Add price filter if specified
+        if (price) {
+            if (price.includes("-")) {
+                const [minPrice, maxPrice] = price.split("-").map(Number); // e.g., "10-50"
+                filter.price = { $gte: minPrice, $lte: maxPrice };
+            } else {
+                filter.price = { $gte: Number(price) };
+            }
+        }
+
+        if (legoId) {
+            filter.legoId = legoId;
+        }
+
+        // Add date filter if specified
+        if (date) {
+            // Range of dates
+            if (date.includes(",")) {
+                const [startDate, endDate] = date
+                    .split(",")
+                    .map((d) => new Date(d).getTime() * 1e-3); // e.g., "2023-01-01,2023-12-31"
+                filter.publication = { $gte: startDate, $lte: endDate };
+            } else {
+                // If only one date is given
+                filter.publication = {
+                    $gte: new Date(date).getTime() * 1e-3,
+                };
+            }
+        }
+
+        // Handle special filters
+        if (filterBy) {
+            switch (filterBy) {
+                case "best-discount":
+                    filter.discount = { $exists: true, $gte: 0 }; // Assuming a "discount" field exists
+                    break;
+                case "most-commented":
+                    filter.comments = { $exists: true, $gte: 0 }; // Assuming a "commentsCount" field exists
+                    break;
+                default:
+                    console.warn(`Unknown filterBy value: ${filterBy}`);
+            }
+        }
+
+        // Fetch results with sorting and limiting
+        const deals = await deals_collection
+            .find(filter) // Apply the filter
+            .sort({ price: 1 }) // Sort by price in ascending order
+            .limit(Number(limit)) // Limit the number of results
+            .toArray();
+
+        res.status(200).json({
+            limit: Number(limit),
+            total: deals.length,
+            results: deals,
+        });
+    } catch (error) {
+        console.error("Error fetching the deals: ", error);
+        res.status(500).json({ error: "Internal server error" });
+    }
 });
 
 // Get deals by ID
@@ -72,6 +150,8 @@ app.get("/deals/:id", async (req, res) => {
         res.status(500).json({ error: "Internal server error" });
     }
 });
+
+/** Sales */
 
 app.listen(PORT);
 
