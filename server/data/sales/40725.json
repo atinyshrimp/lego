@@ -1,218 +1,254 @@
 [
   {
-    "legoId": "40725",
-    "link": "https://www.vinted.fr/items/5349975919-notice-construction-lego-ref-40725",
-    "price": 1.75,
-    "title": "Notice construction lego ref 40725",
-    "imgUrl": "https://images1.vinted.net/t/04_00c04_eP2ejuauqt5UsiRy8ukj3dj4/f800/1731099913.jpeg?s=6cd2a64b2e55c167626085cc8917214a54ca2aed",
-    "publicationDate": 1731099913,
-    "id": 5349975919
-  },
-  {
-    "legoId": "40725",
-    "link": "https://www.vinted.fr/items/4071533686-lego-ciliegio-40725",
-    "price": 12.78,
-    "title": "Lego ciliegio 40725",
-    "imgUrl": "https://images1.vinted.net/t/02_00359_GKrz3fmpuMm26GwYD9295NMC/f800/1707252854.jpeg?s=6dfd3b250b3da0084fae43357086cbaca5d9ed0e",
-    "publicationDate": 1707252854,
-    "id": 4071533686
-  },
-  {
-    "legoId": "40725",
-    "link": "https://www.vinted.fr/items/5388616919-lego-icons-40725-flor-de-cerejeira",
-    "price": 16.98,
-    "title": "LEGO Icons 40725 - Flor de cerejeira",
-    "imgUrl": "https://images1.vinted.net/t/01_01f1b_hghK9GnB5Z2StDGfNq8nfDJi/f800/1731708429.jpeg?s=f2e972a95291933b470e3e90a1d346d3963fee67",
-    "publicationDate": 1731708429,
-    "id": 5388616919
-  },
-  {
-    "legoId": "40725",
-    "link": "https://www.vinted.fr/items/5331152998-lego-40725-botanical-cherry-blossoms",
-    "price": 14.34,
-    "title": "Lego 40725 Botanical Cherry Blossoms",
-    "imgUrl": "https://images1.vinted.net/t/04_01588_VhbwCQPTC2ZpTM6nBThW22B3/f800/1730748787.jpeg?s=70c94b949a9a120d76035897d2adb314721d7e39",
-    "publicationDate": 1730748787,
-    "id": 5331152998
-  },
-  {
-    "legoId": "40725",
-    "link": "https://www.vinted.fr/items/5400404337-lego-40725",
-    "price": 11.2,
-    "title": "LEGO 40725",
-    "imgUrl": "https://images1.vinted.net/t/04_008c9_LL2KhFDyJUhZKTPfQAFt7qPe/f800/1731867983.jpeg?s=0e8d04b6902acb50cc7c3de52f61d2f7e7dd8763",
-    "publicationDate": 1731867983,
-    "id": 5400404337
-  },
-  {
-    "legoId": "40725",
-    "link": "https://www.vinted.fr/items/4924351662-lego-40725",
-    "price": 13.3,
-    "title": "Lego 40725",
-    "imgUrl": "https://images1.vinted.net/t/03_00daa_cpRmJbmV7XEvLxi644xQ18LG/f800/1724353849.jpeg?s=8eacd584f19b0818a64753d67c7c6a36a99b6e9c",
-    "publicationDate": 1724353849,
-    "id": 4924351662
-  },
-  {
+    "_id": "b63176e1-c1b3-56e7-94d8-2387ac56db4b",
     "legoId": "40725",
     "link": "https://www.vinted.fr/items/4208392476-lego-cherry-blossom-extra-onderdelen",
     "price": 3.33,
     "title": "Lego cherry blossom, extra onderdelen",
     "imgUrl": "https://images1.vinted.net/t/01_00f0d_Ucm9USvt9TWr1GoMZSVL7N96/f800/1710107046.jpeg?s=49e68a54f2aa312f280f93fdbc22bf3389a3f3e8",
-    "publicationDate": 1710107046,
-    "id": 4208392476
+    "publicationDate": 1710107046
   },
   {
+    "_id": "942307ba-e777-5a99-a5f3-ea4051a0204c",
+    "legoId": "40725",
+    "link": "https://www.vinted.fr/items/4924351662-lego-40725",
+    "price": 13.3,
+    "title": "Lego 40725",
+    "imgUrl": "https://images1.vinted.net/t/03_00daa_cpRmJbmV7XEvLxi644xQ18LG/f800/1724353849.jpeg?s=8eacd584f19b0818a64753d67c7c6a36a99b6e9c",
+    "publicationDate": 1724353849
+  },
+  {
+    "_id": "8da29984-ff88-531f-9cec-3c35e527afbd",
+    "legoId": "40725",
+    "link": "https://www.vinted.fr/items/5388616919-lego-icons-40725-flor-de-cerejeira",
+    "price": 16.98,
+    "title": "LEGO Icons 40725 - Flor de cerejeira",
+    "imgUrl": "https://images1.vinted.net/t/01_01f1b_hghK9GnB5Z2StDGfNq8nfDJi/f800/1731708429.jpeg?s=f2e972a95291933b470e3e90a1d346d3963fee67",
+    "publicationDate": 1731708429
+  },
+  {
+    "_id": "98ad6d3a-5b40-52f7-9b48-d18aac52e035",
+    "legoId": "40725",
+    "link": "https://www.vinted.fr/items/5349975919-notice-construction-lego-ref-40725",
+    "price": 1.75,
+    "title": "Notice construction lego ref 40725",
+    "imgUrl": "https://images1.vinted.net/t/04_00c04_eP2ejuauqt5UsiRy8ukj3dj4/f800/1731099913.jpeg?s=6cd2a64b2e55c167626085cc8917214a54ca2aed",
+    "publicationDate": 1731099913
+  },
+  {
+    "_id": "a2c475d2-b270-5c2f-a93d-f72b9aec2724",
+    "legoId": "40725",
+    "link": "https://www.vinted.fr/items/5412329733-lego-40725-les-fleurs-de-cerisiers",
+    "price": 16.45,
+    "title": "Lego 40725 - Les fleurs de cerisiers",
+    "imgUrl": "https://images1.vinted.net/t/01_00d55_sCXCZKbdRMMESHSEbxikwCmG/f800/1732082037.jpeg?s=def5caa6e8ee3b60c363874564eecaebf9455858",
+    "publicationDate": 1732082037
+  },
+  {
+    "_id": "70702021-dfc9-546e-9e2a-c6925711474c",
+    "legoId": "40725",
+    "link": "https://www.vinted.fr/items/4071533686-lego-ciliegio-40725",
+    "price": 12.78,
+    "title": "Lego ciliegio 40725",
+    "imgUrl": "https://images1.vinted.net/t/02_00359_GKrz3fmpuMm26GwYD9295NMC/f800/1707252854.jpeg?s=6dfd3b250b3da0084fae43357086cbaca5d9ed0e",
+    "publicationDate": 1707252854
+  },
+  {
+    "_id": "cb750108-73dd-5c57-979b-78978b40b858",
+    "legoId": "40725",
+    "link": "https://www.vinted.fr/items/5331152998-lego-40725-botanical-cherry-blossoms",
+    "price": 14.34,
+    "title": "Lego 40725 Botanical Cherry Blossoms",
+    "imgUrl": "https://images1.vinted.net/t/04_01588_VhbwCQPTC2ZpTM6nBThW22B3/f800/1730748787.jpeg?s=70c94b949a9a120d76035897d2adb314721d7e39",
+    "publicationDate": 1730748787
+  },
+  {
+    "_id": "d26d5fd5-88a8-54ec-87c6-f1378d620a6b",
+    "legoId": "40725",
+    "link": "https://www.vinted.fr/items/5421634081-lego-40725-et-40469",
+    "price": 21.7,
+    "title": "Lego 40725 et 40469",
+    "imgUrl": "https://images1.vinted.net/t/03_02532_HKwS9ZvvsbnXrqfTBtW7HGqS/f800/1732223336.jpeg?s=a9602254fcd1fc612fb54961294986384ce1443a",
+    "publicationDate": 1732223336
+  },
+  {
+    "_id": "712665a9-3eb3-55e4-8d02-a767e6e425c7",
     "legoId": "40725",
     "link": "https://www.vinted.fr/items/5395292104-lego-cherry-blossoms-40725",
-    "price": 13.83,
+    "price": 13.3,
     "title": "Lego Cherry Blossoms 40725",
     "imgUrl": "https://images1.vinted.net/t/04_00f6d_kfM3QdMQbm8o1LX92bpUPY3N/f800/1731837985.jpeg?s=413a58e0e6c3245702bcf49eef3c89a528ddaeab",
-    "publicationDate": 1731837985,
-    "id": 5395292104
+    "publicationDate": 1731837985
   },
   {
+    "_id": "d718be02-9615-503c-85b3-b05416c3d6e4",
     "legoId": "40725",
-    "link": "https://www.vinted.fr/items/5357161067-lego-40725-flor-de-cerezo",
-    "price": 15.4,
-    "title": "LEGO 40725. Flor de cerezo",
-    "imgUrl": "https://images1.vinted.net/t/04_01d87_GfeL4MF2ydFz9ghENoNtY1VV/f800/1731236739.jpeg?s=2451a60d1f74557d34eb6d740897c0093ac5ffa4",
-    "publicationDate": 1731236739,
-    "id": 5357161067
+    "link": "https://www.vinted.fr/items/5400404337-lego-40725",
+    "price": 11.2,
+    "title": "LEGO 40725",
+    "imgUrl": "https://images1.vinted.net/t/04_008c9_LL2KhFDyJUhZKTPfQAFt7qPe/f800/1731867983.jpeg?s=0e8d04b6902acb50cc7c3de52f61d2f7e7dd8763",
+    "publicationDate": 1731867983
   },
   {
+    "_id": "dbfddad3-293e-5679-981f-2d4a941e6291",
     "legoId": "40725",
     "link": "https://www.vinted.fr/items/5267200419-lego-fleurs-40725",
     "price": 19.6,
     "title": "Lego fleurs 40725",
     "imgUrl": "https://images1.vinted.net/t/01_01031_hAwyvmu6hR7vh8PjrAVQVS6A/f800/1729700895.jpeg?s=ff8f3dfe329adb09727867a0665b20f7bb3b1a6f",
-    "publicationDate": 1729700895,
-    "id": 5267200419
+    "publicationDate": 1729700895
   },
   {
+    "_id": "01f045f3-f89e-5141-8b4d-891295e01510",
     "legoId": "40725",
-    "link": "https://www.vinted.fr/items/5261751510-lego-40725",
-    "price": 16.45,
-    "title": "Lego 40725",
-    "imgUrl": "https://images1.vinted.net/t/03_00388_MJVy496mXd49wZoK2i2oAxQP/f800/1729611944.jpeg?s=bbe7dea150606dcd3bbefba641be20ee262c4265",
-    "publicationDate": 1729611944,
-    "id": 5261751510
+    "link": "https://www.vinted.fr/items/5357161067-lego-40725-flor-de-cerezo",
+    "price": 15.4,
+    "title": "LEGO 40725. Flor de cerezo",
+    "imgUrl": "https://images1.vinted.net/t/04_01d87_GfeL4MF2ydFz9ghENoNtY1VV/f800/1731236739.jpeg?s=2451a60d1f74557d34eb6d740897c0093ac5ffa4",
+    "publicationDate": 1731236739
   },
   {
+    "_id": "52a3b860-0e2f-5859-8e05-38753aa5adc5",
     "legoId": "40725",
-    "link": "https://www.vinted.fr/items/5134489037-lego-fleurs-de-cerisier-et-roses",
-    "price": 19.6,
-    "title": "Lego fleurs de cerisier et roses",
-    "imgUrl": "https://images1.vinted.net/t/01_0211e_tJecuGYSQqKDvvBvYJ373LtM/f800/1727695454.jpeg?s=c2d662783b926f2498012d3777b9542ff59825a8",
-    "publicationDate": 1727695454,
-    "id": 5134489037
+    "link": "https://www.vinted.fr/items/5415914289-lego-40725",
+    "price": 14.35,
+    "title": "LEGO 40725",
+    "imgUrl": "https://images1.vinted.net/t/04_001f4_sWPCiteesFGQevNgcWYcdVgc/f800/1732125360.jpeg?s=81f07b27e8fc0c8b97b319208d4771d5db694d7d",
+    "publicationDate": 1732125360
   },
   {
+    "_id": "392dfc6f-01ea-582b-a355-435a41764428",
     "legoId": "40725",
-    "link": "https://www.vinted.fr/items/5325408341-lego-40725-iconic-kersenbloesem-nieuw-ongeopende-verpakking",
-    "price": 16.45,
-    "title": "Lego 40725 Iconic Kersenbloesem nieuw ongeopende verpakking",
-    "imgUrl": "https://images1.vinted.net/t/01_00e93_gmR2G8sCeZoX5An6vkGWCLd9/f800/1730656891.jpeg?s=367c348aeadac85616ed81dc1756092c53848d1a",
-    "publicationDate": 1730656891,
-    "id": 5325408341
+    "link": "https://www.vinted.fr/items/5426989269-lego-flowers",
+    "price": 37.45,
+    "title": "Lego flowers",
+    "imgUrl": "https://images1.vinted.net/t/04_00c76_eobhPAWuhSS1W7hbtZ2Mo6HR/f800/1732354417.jpeg?s=8fa9d44296534f80c2848a786ccaabe4b018bb19",
+    "publicationDate": 1732354417
   },
   {
-    "legoId": "40725",
-    "link": "https://www.vinted.fr/items/3998598427-boite-lego-40725-les-branches-de-cerisiers-en-fleur-neuve",
-    "price": 23.8,
-    "title": "Boîte lego 40725.\nLes branches de cerisiers en fleur.\nNeuve.",
-    "imgUrl": "https://images1.vinted.net/t/02_0034b_aaBceAaZogptSFyPcZ8eKhHn/f800/1705690825.jpeg?s=ab00be1358c0ac29e43d59108abec2aed97e91a6",
-    "publicationDate": 1705690825,
-    "id": 3998598427
-  },
-  {
-    "legoId": "40725",
-    "link": "https://www.vinted.fr/items/5016254566-lego-40725-fiori-di-ciliegio",
-    "price": 24.85,
-    "title": "Lego 40725 fiori di ciliegio",
-    "imgUrl": "https://images1.vinted.net/t/03_024a5_2vhkSBMpZBLUSwwVV96DGdRq/f800/1725953983.jpeg?s=5b3063d34e824cc74782c7983b04b009746cc54d",
-    "publicationDate": 1725953983,
-    "id": 5016254566
-  },
-  {
+    "_id": "4fbdda95-dd7d-59a4-9b92-80159226751b",
     "legoId": "40725",
     "link": "https://www.vinted.fr/items/5237375898-lego-40725-extra-onderdelen",
     "price": 2.8,
     "title": "Lego 40725 extra onderdelen",
     "imgUrl": "https://images1.vinted.net/t/02_0168a_TFozNP24s5jzr2r28TEHiHVU/f800/1729258322.jpeg?s=d7b9e74d2de475fdc9137d11d7bfeb1c86f0db5d",
-    "publicationDate": 1729258322,
-    "id": 5237375898
+    "publicationDate": 1729258322
   },
   {
+    "_id": "dee46623-fb17-5e1d-bbce-41ddbcca9a8a",
+    "legoId": "40725",
+    "link": "https://www.vinted.fr/items/5325408341-lego-40725-iconic-kersenbloesem-nieuw-ongeopende-verpakking",
+    "price": 16.45,
+    "title": "Lego 40725 Iconic Kersenbloesem nieuw ongeopende verpakking",
+    "imgUrl": "https://images1.vinted.net/t/01_00e93_gmR2G8sCeZoX5An6vkGWCLd9/f800/1730656891.jpeg?s=367c348aeadac85616ed81dc1756092c53848d1a",
+    "publicationDate": 1730656891
+  },
+  {
+    "_id": "7cbd7df5-e883-56dc-96d5-6d21e261d41e",
+    "legoId": "40725",
+    "link": "https://www.vinted.fr/items/5261751510-lego-40725",
+    "price": 16.45,
+    "title": "Lego 40725",
+    "imgUrl": "https://images1.vinted.net/t/03_00388_MJVy496mXd49wZoK2i2oAxQP/f800/1729611944.jpeg?s=bbe7dea150606dcd3bbefba641be20ee262c4265",
+    "publicationDate": 1729611944
+  },
+  {
+    "_id": "977c2ad8-d565-5a67-900d-b5bc1ff0eee3",
+    "legoId": "40725",
+    "link": "https://www.vinted.fr/items/3998598427-boite-lego-40725-les-branches-de-cerisiers-en-fleur-neuve",
+    "price": 23.8,
+    "title": "Boîte lego 40725.\nLes branches de cerisiers en fleur.\nNeuve.",
+    "imgUrl": "https://images1.vinted.net/t/02_0034b_aaBceAaZogptSFyPcZ8eKhHn/f800/1705690825.jpeg?s=ab00be1358c0ac29e43d59108abec2aed97e91a6",
+    "publicationDate": 1705690825
+  },
+  {
+    "_id": "d7a7bfa4-0695-532f-b055-036f77427939",
+    "legoId": "40725",
+    "link": "https://www.vinted.fr/items/5134489037-lego-fleurs-de-cerisier-et-roses",
+    "price": 19.6,
+    "title": "Lego fleurs de cerisier et roses",
+    "imgUrl": "https://images1.vinted.net/t/01_0211e_tJecuGYSQqKDvvBvYJ373LtM/f800/1727695454.jpeg?s=c2d662783b926f2498012d3777b9542ff59825a8",
+    "publicationDate": 1727695454
+  },
+  {
+    "_id": "6313c66d-77e4-512f-8b81-43f90a0f6a31",
     "legoId": "40725",
     "link": "https://www.vinted.fr/items/5403492424-40725-flores-de-cerezo-lego-new",
     "price": 18.45,
     "title": "40725 Flores de Cerezo LEGO New",
     "imgUrl": "https://images1.vinted.net/t/04_01719_cEZpAf1WUqdWfff8nsjkTrxL/f800/1731931737.jpeg?s=80db4d43fa6c23be76c05451fbbf7574e4919dec",
-    "publicationDate": 1731931737,
-    "id": 5403492424
+    "publicationDate": 1731931737
   },
   {
+    "_id": "689c5005-c594-5ff4-a487-b3a83beeeddc",
     "legoId": "40725",
     "link": "https://www.vinted.fr/items/4552950524-lego-fiori-di-ciliegio-40725",
     "price": 24.85,
     "title": "LEGO Fiori di Ciliegio 40725 🌸🍒",
     "imgUrl": "https://images1.vinted.net/t/02_008b9_H9V35c1EoJhRXqCFqNuwSiQS/f800/1716827415.jpeg?s=784c260a465f5452b216691c33163de8cd792c5f",
-    "publicationDate": 1716827415,
-    "id": 4552950524
+    "publicationDate": 1716827415
   },
   {
+    "_id": "e6811460-5154-58f6-91c5-5fecd26365cc",
     "legoId": "40725",
     "link": "https://www.vinted.fr/items/4781203683-lego-40725-cerisier-cherry-blossoms-neuf",
     "price": 18.55,
     "title": "Lego 40725 cerisier cherry blossoms neuf",
     "imgUrl": "https://images1.vinted.net/t/02_00253_Ec7irnGGceU6CpQw4vquCCiH/f800/1721322197.jpeg?s=fbae6921e63f918d61322029f042ecdde95898a0",
-    "publicationDate": 1721322197,
-    "id": 4781203683
+    "publicationDate": 1721322197
   },
   {
+    "_id": "a4e218ea-a641-55ed-8409-96f109fca9a4",
     "legoId": "40725",
     "link": "https://www.vinted.fr/items/3990023197-lego-cherry-blossoms-set-40725",
     "price": 21.69,
     "title": "Lego Cherry Blossoms SET 40725",
     "imgUrl": "https://images1.vinted.net/t/02_01c62_zcYojL9779AHY61VM7APKKtr/f800/1705500479.jpeg?s=2f72cac33999d63d12317263292a2a16d045e23f",
-    "publicationDate": 1705500479,
-    "id": 3990023197
+    "publicationDate": 1705500479
   },
   {
+    "_id": "58dc3fc9-5e19-5f9e-92c6-eddb7c6a4994",
+    "legoId": "40725",
+    "link": "https://www.vinted.fr/items/5016254566-lego-40725-fiori-di-ciliegio",
+    "price": 24.85,
+    "title": "Lego 40725 fiori di ciliegio",
+    "imgUrl": "https://images1.vinted.net/t/03_024a5_2vhkSBMpZBLUSwwVV96DGdRq/f800/1725953983.jpeg?s=5b3063d34e824cc74782c7983b04b009746cc54d",
+    "publicationDate": 1725953983
+  },
+  {
+    "_id": "46013376-5af9-5fc9-8bf5-87b3492521ea",
+    "legoId": "40725",
+    "link": "https://www.vinted.fr/items/5409992224-lego-flower",
+    "price": 37.45,
+    "title": "Lego flower",
+    "imgUrl": "https://images1.vinted.net/t/04_023d1_bXgJ9FPskEvgbusKGbSpuSeu/f800/1732030486.jpeg?s=db4282e73732996638f029d78918dbc47e1795db",
+    "publicationDate": 1732030486
+  },
+  {
+    "_id": "a79e7af6-5755-5b11-8fd1-ad6b5fc0ef3d",
     "legoId": "40725",
     "link": "https://www.vinted.fr/items/4136923184-lego-40725-cherry-blossoms",
     "price": 19.6,
     "title": "Lego 40725 cherry blossoms",
     "imgUrl": "https://images1.vinted.net/t/01_0019d_DEiNhQi3DQUCncbqZhe8roL1/f800/1708696326.jpeg?s=6d6ddabc4d8db55ced9de2e7418fd91e77446e36",
-    "publicationDate": 1708696326,
-    "id": 4136923184
+    "publicationDate": 1708696326
   },
   {
+    "_id": "dcea83d5-af45-5e9d-bfcf-39461f565f9a",
     "legoId": "40725",
     "link": "https://www.vinted.fr/items/5210227223-3x-lego-cherry-blossom-40725-neu-ovp",
     "price": 30.1,
     "title": "3x Lego cherry blossom 40725 Neu & OVP",
     "imgUrl": "https://images1.vinted.net/t/03_026b2_S4kRy1nSrY13yY1rC6zYuCDn/f800/1728828327.jpeg?s=7dccea3e00124c244abf71e5f493173b9a7a731a",
-    "publicationDate": 1728828327,
-    "id": 5210227223
+    "publicationDate": 1728828327
   },
   {
-    "legoId": "40725",
-    "link": "https://www.vinted.fr/items/4842943710-lego-lote-de-flores",
-    "price": 61.5,
-    "title": "Lego lote de  flores",
-    "imgUrl": "https://images1.vinted.net/t/02_02040_Cfvw5fxMzbcCit1fWrt5KkRo/f800/1722706581.jpeg?s=9965275ffe081ac01cdecc2c043ad64699d3ea5b",
-    "publicationDate": 1722706581,
-    "id": 4842943710
-  },
-  {
+    "_id": "ac92b9c7-27fb-5293-9abe-1e63931f0e8b",
     "legoId": "40725",
     "link": "https://www.vinted.fr/items/4680954611-lot-4-boites-neuves-scellees-lego-botanical-fleurs-40460-40725-40747-40524",
     "price": 105.7,
     "title": "Lot 4 boites neuves scellées Lego Botanical fleurs 40460 40725 40747 40524",
     "imgUrl": "https://images1.vinted.net/t/03_0063b_ycva1HFkpnh7VMYUwLx3ve5a/f800/1719200744.jpeg?s=3469f64a2c17fab98b1af6016003f63af24200e8",
-    "publicationDate": 1719200744,
-    "id": 4680954611
+    "publicationDate": 1719200744
   }
 ]

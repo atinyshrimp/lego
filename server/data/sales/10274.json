@@ -1,1100 +1,1055 @@
 [
   {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5160082986-100-lego",
-    "price": 2.28,
-    "title": "100% lego",
-    "imgUrl": "https://images1.vinted.net/t/01_0069e_TKZcbK5oUekNM2ToWD6XDrsJ/f800/1728116117.jpeg?s=7e3d5eddbbc8f0b25e90bca5f5489f3a73a10e37",
-    "publicationDate": 1728116117,
-    "id": 5160082986
-  },
-  {
+    "_id": "29957f72-d869-51f5-a00c-42857cae5e6b",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/5201906302-istruzioni-lego-ecto-1-10274",
     "price": 11.2,
     "title": "Istruzioni Lego Ecto 1 10274",
     "imgUrl": "https://images1.vinted.net/t/02_024aa_C3HYaBWMy9eyLz2S9DhGRmmp/f800/1728730192.jpeg?s=600f0044e82cb5dcd9ee0bab540c4b8516c7178b",
-    "publicationDate": 1728730192,
-    "id": 5201906302
+    "publicationDate": 1728730192
   },
   {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4857671435-lego-ghostbusters-10274-supporto",
-    "price": 21.7,
-    "title": "LEGO Ghostbusters 10274 supporto",
-    "imgUrl": "https://images1.vinted.net/t/02_00ccd_oLimxv8aQ7h5PqMmAfnST5jt/f800/1723021402.jpeg?s=784675cb5eeb583e36b7ee404bd50a5dbe8391bf",
-    "publicationDate": 1723021402,
-    "id": 4857671435
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4886859356-supporto",
-    "price": 26.95,
-    "title": "Supporto",
-    "imgUrl": "https://images1.vinted.net/t/01_01556_nbofu8Uu7ChHr4TwHZ7M6E9e/f800/1723646552.jpeg?s=a4ec0b657bc73e364ea261c4cc111ac84217bc12",
-    "publicationDate": 1723646552,
-    "id": 4886859356
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5297766565-lego-icons-10274-ghostbusters",
-    "price": 20.65,
-    "title": "Lego Icons - 10274 - Ghostbusters",
-    "imgUrl": "https://images1.vinted.net/t/03_0235d_vgivn9XA1XxFWEiEdDodckLe/f800/1730209394.jpeg?s=f591d564f060a5532142b1ff71e30069c911f9ec",
-    "publicationDate": 1730209394,
-    "id": 5297766565
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3543621207-lego-10274-aufbauanleitung-ecto-1",
-    "price": 10.15,
-    "title": "Lego 10274 Aufbauanleitung ECTO-1",
-    "imgUrl": "https://images1.vinted.net/t/03_0085b_5pTHKeK6qcWXegtGWpXBnEjw/f800/1696085068.jpeg?s=0ee04f75a95f68c907b9573f9639239ee2642b27",
-    "publicationDate": 1696085068,
-    "id": 3543621207
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4419153575-voiture-lego-ghostbusters",
-    "price": 47.95,
-    "title": "Voiture lego ghostbusters",
-    "imgUrl": "https://images1.vinted.net/t/03_018ee_dZv4V2qotLH5R2Wdi5p6LSfG/f800/1714131463.jpeg?s=0ad66f669c43bc80550fcda84a11e258e3b6d678",
-    "publicationDate": 1714131463,
-    "id": 4419153575
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5349550283-lego-10274-ghostbusters-ecto-1",
-    "price": 179.2,
-    "title": "Lego 10274 Ghostbusters ecto-1",
-    "imgUrl": "https://images1.vinted.net/t/04_019d8_hpD5yPAhTthpiQsfFoydCfTL/f800/1731093393.jpeg?s=3a4e86716d36c2dad721708801c4922d2480fc67",
-    "publicationDate": 1731093393,
-    "id": 5349550283
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5381283670-lote-lego-cazafantasmas",
-    "price": 53.2,
-    "title": "Lote lego cazafantasmas",
-    "imgUrl": "https://images1.vinted.net/t/03_01ec2_B3a8vujW5Gfe9J9QdrmBBJVQ/f800/1731588662.jpeg?s=b4ccfca0d928e25cc396fdc31f502762d7413917",
-    "publicationDate": 1731588662,
-    "id": 5381283670
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/1181038464-lego-toiture-voiture",
-    "price": 2.28,
-    "title": "Lego toiture voiture",
-    "imgUrl": "https://images1.vinted.net/t/03_02047_pwro3PMUtB92Cpvvq8mJg5pW/f800/1624299743.jpeg?s=ecc8309a306482bc5ac91a8bcf1fd1992f38a5d5",
-    "publicationDate": 1624299743,
-    "id": 1181038464
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5263436801-lego-ecto-1-set-10274",
-    "price": 125.65,
-    "title": "Lego Ecto-1 Set 10274",
-    "imgUrl": "https://images1.vinted.net/t/04_01090_r8hvsTGmJtJSR1t2V3BKNBBE/f800/1729631942.jpeg?s=23e8314f574ab728068e57b39a087d687ba3481a",
-    "publicationDate": 1729631942,
-    "id": 5263436801
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5404863820-lego-ecto-1-ghostbusters-10274",
-    "price": 137.2,
-    "title": "Lego ecto 1 Ghostbusters 10274",
-    "imgUrl": "https://images1.vinted.net/t/01_00964_z1evSje8pq9pycRSo9g9qcVd/f800/1731944213.jpeg?s=13a46aeeb5ec2965346369c05a8d52bb3cb247f0",
-    "publicationDate": 1731944213,
-    "id": 5404863820
-  },
-  {
+    "_id": "e8bd6eef-9fc9-5282-a205-d68b49d723be",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/5330905632-lego-ghostbusters-10274",
     "price": 184.45,
     "title": "LEGO Ghostbusters 10274",
     "imgUrl": "https://images1.vinted.net/t/04_00369_vaj46AR6JjKo2ZG8iFHwMF39/f800/1730746026.jpeg?s=4077d2ccbdea622e81ac825f9b6aef4ca02a9c2f",
-    "publicationDate": 1730746026,
-    "id": 5330905632
+    "publicationDate": 1730746026
   },
   {
+    "_id": "d1e6f16a-2514-5fee-924e-864cc0b086da",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4814392652-support-lego-pour-ghostbusters-ecto-1-10274",
-    "price": 15.4,
-    "title": "Support lego pour ghostbusters ECTO-1 10274",
-    "imgUrl": "https://images1.vinted.net/t/01_019f9_isWWwXqhWejCyzE2JBPFgi3q/f800/1723107454.jpeg?s=d486920e47f6d1f2a0591a6eba615c9f5c50d6de",
-    "publicationDate": 1723107454,
-    "id": 4814392652
+    "link": "https://www.vinted.fr/items/1181038464-lego-toiture-voiture",
+    "price": 2.28,
+    "title": "Lego toiture voiture",
+    "imgUrl": "https://images1.vinted.net/t/03_02047_pwro3PMUtB92Cpvvq8mJg5pW/f800/1624299743.jpeg?s=ecc8309a306482bc5ac91a8bcf1fd1992f38a5d5",
+    "publicationDate": 1624299743
   },
   {
+    "_id": "b9fd2030-3701-5fbe-b1b9-b1c73c4d4100",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5334954148-lego-neuf-10274",
-    "price": 189.7,
-    "title": "Lego neuf 10274",
-    "imgUrl": "https://images1.vinted.net/t/04_024e6_weeZstPPrRXjRKRAUrE4rtqN/f800/1730823814.jpeg?s=8e332cac615bcea60dd657a616f82432b1a52059",
-    "publicationDate": 1730823814,
-    "id": 5334954148
+    "link": "https://www.vinted.fr/items/3543621207-lego-10274-aufbauanleitung-ecto-1",
+    "price": 10.15,
+    "title": "Lego 10274 Aufbauanleitung ECTO-1",
+    "imgUrl": "https://images1.vinted.net/t/03_0085b_5pTHKeK6qcWXegtGWpXBnEjw/f800/1696085068.jpeg?s=0ee04f75a95f68c907b9573f9639239ee2642b27",
+    "publicationDate": 1696085068
   },
   {
+    "_id": "c2374159-6915-5f37-8d0a-206810ab1ab7",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4711776820-lego-10274",
-    "price": 152.95,
-    "title": "Lego 10274",
-    "imgUrl": "https://images1.vinted.net/t/01_002f2_yyA9B1Mtp2enj6tdqyrWiDGZ/f800/1719863153.jpeg?s=acbda7c5eda5c4373312b90ac6aeb77a833dea0f",
-    "publicationDate": 1719863153,
-    "id": 4711776820
+    "link": "https://www.vinted.fr/items/4857671435-lego-ghostbusters-10274-supporto",
+    "price": 21.7,
+    "title": "LEGO Ghostbusters 10274 supporto",
+    "imgUrl": "https://images1.vinted.net/t/02_00ccd_oLimxv8aQ7h5PqMmAfnST5jt/f800/1723021402.jpeg?s=784675cb5eeb583e36b7ee404bd50a5dbe8391bf",
+    "publicationDate": 1723021402
   },
   {
+    "_id": "72fb34a2-7b9a-569a-9faa-02c229991377",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5367921123-lego-10274",
-    "price": 210.7,
-    "title": "Lego 10274",
-    "imgUrl": "https://images1.vinted.net/t/01_002a7_y7uqooSCTAjvoByzcUufBFqm/f800/1731348696.jpeg?s=adf58d921a9e7bd4795ea16b746837ab877a57d4",
-    "publicationDate": 1731348696,
-    "id": 5367921123
+    "link": "https://www.vinted.fr/items/4886859356-supporto",
+    "price": 26.95,
+    "title": "Supporto",
+    "imgUrl": "https://images1.vinted.net/t/01_01556_nbofu8Uu7ChHr4TwHZ7M6E9e/f800/1723646552.jpeg?s=a4ec0b657bc73e364ea261c4cc111ac84217bc12",
+    "publicationDate": 1723646552
   },
   {
+    "_id": "c665624c-2f0e-599e-baab-366f1130982a",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5373748795-lego-10274-ghostbusters",
-    "price": 210.7,
-    "title": "Lego 10274 ghostbusters",
-    "imgUrl": "https://images1.vinted.net/t/03_01f7f_WXaN9VqtU9bwRZu2yi6BHEob/f800/1731442348.jpeg?s=2035a183cbb0c16809cd7e02ffeb69b8171fc6b8",
-    "publicationDate": 1731442348,
-    "id": 5373748795
+    "link": "https://www.vinted.fr/items/4419153575-voiture-lego-ghostbusters",
+    "price": 47.95,
+    "title": "Voiture lego ghostbusters",
+    "imgUrl": "https://images1.vinted.net/t/03_018ee_dZv4V2qotLH5R2Wdi5p6LSfG/f800/1714131463.jpeg?s=0ad66f669c43bc80550fcda84a11e258e3b6d678",
+    "publicationDate": 1714131463
   },
   {
+    "_id": "87edf5f8-3de9-5844-8efc-992633276ca0",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5395399949-lego-creator-10274-ecto-1-neuf-scelle",
-    "price": 210.7,
-    "title": "LEGO Creator 10274, ECTO-1. Neuf scellé.",
-    "imgUrl": "https://images1.vinted.net/t/02_013f2_RX2eQMFDSmZWHNaFnQxRdQ8Z/f800/1731838492.jpeg?s=28d78dcba874fe877ad4fa70e459686b04c48709",
-    "publicationDate": 1731838492,
-    "id": 5395399949
+    "link": "https://www.vinted.fr/items/5437585191-lego-neuf-10274-ghostbusters",
+    "price": 184.45,
+    "title": "Lego neuf 10274 ghostbusters",
+    "imgUrl": "https://images1.vinted.net/t/04_01f5a_KdjCQe21r8r3ALAUPNpjErcd/f800/r3/1732475157.jpeg?s=348960d785a6f717d05827a8177101d144ac1a7a",
+    "publicationDate": 1732475157
   },
   {
+    "_id": "de0a0ef9-c8ff-546c-be3c-6c223947ff8a",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/5388589774-lego-10274-nuovo-ghostbusters-ecto-one",
-    "price": 194.95,
+    "price": 189.7,
     "title": "Lego 10274 nuovo ghostbusters ecto One",
     "imgUrl": "https://images1.vinted.net/t/04_01f6a_Cob776RTMV69z3iVTXTZjBS9/f800/1731707803.jpeg?s=5934e5bc6c55190d0c5a8fdaf530f30f674d3676",
-    "publicationDate": 1731707803,
-    "id": 5388589774
+    "publicationDate": 1731707803
   },
   {
+    "_id": "fe43ca8f-459e-5c2c-a1f1-1cceedc035cd",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4215212488-lego-10274",
-    "price": 147.7,
-    "title": "Lego 10274",
-    "imgUrl": "https://images1.vinted.net/t/03_01369_7xAcfyJPpga4d79ezFY1joz6/f800/1710260615.jpeg?s=09cab7d212f3a4ff509b8494e1adbbd5b2fd84b1",
-    "publicationDate": 1710260615,
-    "id": 4215212488
+    "link": "https://www.vinted.fr/items/4814392652-support-lego-pour-ghostbusters-ecto-1-10274",
+    "price": 17.5,
+    "title": "Support lego pour ghostbusters ECTO-1 10274",
+    "imgUrl": "https://images1.vinted.net/t/01_019f9_isWWwXqhWejCyzE2JBPFgi3q/f800/1723107454.jpeg?s=d486920e47f6d1f2a0591a6eba615c9f5c50d6de",
+    "publicationDate": 1723107454
   },
   {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5348143234-lego-10274-ghostbusters",
-    "price": 184.45,
-    "title": "Lego 10274 ghostbusters",
-    "imgUrl": "https://images1.vinted.net/t/01_02653_ux7JGXDBki5ZS1mBB7RvsU2B/f800/1731076001.jpeg?s=c8900dc947460f3c62526415b86400a4212663d1",
-    "publicationDate": 1731076001,
-    "id": 5348143234
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5360614252-lego-10274-ecto-1-neuf",
-    "price": 205.45,
-    "title": "Lego 10274 ecto 1 neuf",
-    "imgUrl": "https://images1.vinted.net/t/04_01c66_myCdgj25xfdELjT1ZeKtA3bJ/f800/1731257755.jpeg?s=a091563bde334af6dd7af15ae052a37b74f61484",
-    "publicationDate": 1731257755,
-    "id": 5360614252
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5359229480-lego-10274-ecto-1-sos-fantomes",
-    "price": 210.7,
-    "title": "Lego 10274 ECTO-1 SOS fantômes",
-    "imgUrl": "https://images1.vinted.net/t/03_0236a_1pbqeTepGgDiZ8UvcskRjWtV/f800/1731249491.jpeg?s=63f6b07e90974f4b12103388ee58e5dc754ea2c5",
-    "publicationDate": 1731249491,
-    "id": 5359229480
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5395065632-lego-10274-ecto-1-sos-fantomes-neuf-scelle",
-    "price": 200.2,
-    "title": "Lego 10274 – ECTO-1 SOS Fantômes / Neuf - scellé",
-    "imgUrl": "https://images1.vinted.net/t/03_02416_puLiCRs4KpRQPcXHEWNYLJYH/f800/1731835937.jpeg?s=2cb5d6fa6566c660220d2784e61b54ee87f2a35d",
-    "publicationDate": 1731835937,
-    "id": 5395065632
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5401265609-lego-ghostbusters-10274-novo",
-    "price": 179.2,
-    "title": "Lego Ghostbusters 10274 Novo",
-    "imgUrl": "https://images1.vinted.net/t/03_00bcf_ibisiRNXiZiQBcXJFnfmcMWt/f800/1731875269.jpeg?s=a98d9b22896760ca5d2f52612ca979f261994c49",
-    "publicationDate": 1731875269,
-    "id": 5401265609
-  },
-  {
+    "_id": "89382307-1687-5983-bb5e-6f31bccb627b",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/4668373356-support-pour-lego",
-    "price": 21.7,
+    "price": 25.9,
     "title": "Support pour lego",
     "imgUrl": "https://images1.vinted.net/t/02_01ff2_Re2FmKpfjXhg6fqXysWGP5bd/f800/1722354424.jpeg?s=ee1e41c24a789b32314c656a7902583b963da677",
-    "publicationDate": 1722354424,
-    "id": 4668373356
+    "publicationDate": 1722354424
   },
   {
+    "_id": "b2800ae1-e8e8-53e3-a66b-5e9eac7d11fb",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4811707186-lego-ghostbuster-ecto-1-10274",
-    "price": 137.2,
-    "title": "Lego Ghostbuster ecto 1 10274",
-    "imgUrl": "https://images1.vinted.net/t/03_018d9_aVDRkAUYNtEzn36tihMUzFdn/f800/1722001900.jpeg?s=6acd19e0c907290e35507b6e8591f1a3fe835339",
-    "publicationDate": 1722001900,
-    "id": 4811707186
+    "link": "https://www.vinted.fr/items/5263436801-lego-ecto-1-set-10274",
+    "price": 125.65,
+    "title": "Lego Ecto-1 Set 10274",
+    "imgUrl": "https://images1.vinted.net/t/04_01090_r8hvsTGmJtJSR1t2V3BKNBBE/f800/1729631942.jpeg?s=23e8314f574ab728068e57b39a087d687ba3481a",
+    "publicationDate": 1729631942
   },
   {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5315212981-lego-10274-ghostbusters",
-    "price": 200.2,
-    "title": "Lego 10274 Ghostbusters",
-    "imgUrl": "https://images1.vinted.net/t/04_01bd4_ywMrr6izwjTgb4p5n2CX9vG6/f800/1730541636.jpeg?s=47e2dacc79ec3c2db5321bd106afeb10d2e73455",
-    "publicationDate": 1730541636,
-    "id": 5315212981
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5319328077-lego-10274-ghostbusters-ecto-1-new-sealed-box",
-    "price": 190.75,
-    "title": "LEGO 10274 Ghostbusters Ecto-1, new, sealed box",
-    "imgUrl": "https://images1.vinted.net/t/01_00858_yHT6p9DWaQmtLnBuZtDDjSVc/f800/1730578533.jpeg?s=a7821717b31984587471081380efec3c8d1ef3a9",
-    "publicationDate": 1730578533,
-    "id": 5319328077
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5327054450-lego-ghostbusters-ecto-1-10274-2532-pieces",
-    "price": 210.7,
-    "title": "Lego Ghostbusters Ecto-1 10274 2532 Pieces",
-    "imgUrl": "https://images1.vinted.net/t/04_004ad_89uSC4rAH2YKBebfB784fZ8j/f800/1730690396.jpeg?s=69932b74eba50720351852a733ac192b18b5933e",
-    "publicationDate": 1730690396,
-    "id": 5327054450
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5331135573-lego-10274-ghostbusters-ecto-1-comme-neuf",
-    "price": 173.95,
-    "title": "LEGO 10274 - Ghostbusters ECTO 1 - Comme neuf",
-    "imgUrl": "https://images1.vinted.net/t/04_02184_TnBZdKcbo81dAKeCh3zVAeuU/f800/1730748597.jpeg?s=349cb5f6d4eaf75aba19c78107cf0ddc04d6816e",
-    "publicationDate": 1730748597,
-    "id": 5331135573
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5382253027-lego-super-mario-nintendo-ref-71374-scelle",
-    "price": 226.45,
-    "title": "Lego Super Mario Nintendo réf 71374 - Scellé",
-    "imgUrl": "https://images1.vinted.net/t/04_00188_r1JcdKTNYYyLEnQ3yJfHYiD5/f800/1731598303.jpeg?s=439acc9b1f64cb12a77e296deb3d3948a7ba9546",
-    "publicationDate": 1731598303,
-    "id": 5382253027
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2761208311-lot-x2-brique-2x2-avec-goupille-et-trou-dessieu-jaune-6232-piece-detachee-lego-b35",
-    "price": 1.96,
-    "title": "lot x2 Brique 2x2 avec goupille et trou d'essieu jaune 6232 pièce détachée Lego #B35",
-    "imgUrl": "https://images1.vinted.net/t/01_02000_oi6bNwn2z6PCoEq1yyQpHuBj/f800/1678140031.jpeg?s=3fc1a6e3f69c1d63c7dca73b7462537f9dca00a1",
-    "publicationDate": 1678140031,
-    "id": 2761208311
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4952643090-ecto-1-sos-fantomes-10274",
-    "price": 158.2,
-    "title": "Ecto-1 SOS Fantomes 10274",
-    "imgUrl": "https://images1.vinted.net/t/01_0081f_vJpoD5oQj2Ad9K4W1nU9Ah5T/f800/1724855020.jpeg?s=8f971a0219776ef6270997d62f03517511fef097",
-    "publicationDate": 1724855020,
-    "id": 4952643090
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2761153234-lot-x2-support-gris-bleute-clair-3x2x1-13-6093054-piece-detachee-lego-b35",
-    "price": 2.59,
-    "title": "Lot x2 Support gris bleuté clair 3x2x1 1/3 6093054 pièce détachée Lego #B35",
-    "imgUrl": "https://images1.vinted.net/t/02_021bb_uaT4yqTbhzdqK7z5gfLN8DLt/f800/1678138496.jpeg?s=e325abfb1359414b79a42ce5a58449fdbf0564ea",
-    "publicationDate": 1678138496,
-    "id": 2761153234
-  },
-  {
+    "_id": "59c1b5ba-66cd-52c4-8deb-08424819071b",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/4522160172-lego-ghostbusters-10274-l",
     "price": 179.2,
     "title": "Lego Ghostbusters 10274 l",
     "imgUrl": "https://images1.vinted.net/t/01_000e4_TN2kBRZL16P9jRSMTLcttLTS/f800/1716071295.jpeg?s=7d6b941e53628ad08ee09cf5b96638b82d629b2d",
-    "publicationDate": 1716071295,
-    "id": 4522160172
+    "publicationDate": 1716071295
   },
   {
+    "_id": "577c1cae-cab5-5269-932d-060338d98ff0",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5348143234-lego-10274-ghostbusters",
+    "price": 184.45,
+    "title": "Lego 10274 ghostbusters",
+    "imgUrl": "https://images1.vinted.net/t/01_02653_ux7JGXDBki5ZS1mBB7RvsU2B/f800/1731076001.jpeg?s=c8900dc947460f3c62526415b86400a4212663d1",
+    "publicationDate": 1731076001
+  },
+  {
+    "_id": "927c5406-94d4-50af-a757-0cd8bbc6d226",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5426585265-lego-sos-fantome-ecto-1-10274",
+    "price": 147.7,
+    "title": "Lego sos fantôme ecto 1 - 10274",
+    "imgUrl": "https://images1.vinted.net/t/04_00109_amKjpAZYGcM3KeRosGTD1w8e/f800/1732347230.jpeg?s=db29c4ba08bec774fa51fa3de609ac303808a950",
+    "publicationDate": 1732347230
+  },
+  {
+    "_id": "f8eb7fce-4236-562e-a64d-a5fbff3a2f17",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4711776820-lego-10274",
+    "price": 152.95,
+    "title": "Lego 10274",
+    "imgUrl": "https://images1.vinted.net/t/01_002f2_yyA9B1Mtp2enj6tdqyrWiDGZ/f800/1719863153.jpeg?s=acbda7c5eda5c4373312b90ac6aeb77a833dea0f",
+    "publicationDate": 1719863153
+  },
+  {
+    "_id": "94a317d9-f8e8-5c35-aedb-429c0975e6e9",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5416090079-lego-creator-10274-ghost-busters",
+    "price": 168.7,
+    "title": "LEGO Creator 10274 Ghost Busters",
+    "imgUrl": "https://images1.vinted.net/t/01_01a32_CcR2L3PKGT9XxwQaQYNMR7Gk/f800/1732127267.jpeg?s=3ea232bbe512e26ae1aaa643e8a31e178db5a754",
+    "publicationDate": 1732127267
+  },
+  {
+    "_id": "433bdcb1-8950-5196-9e26-e2fc38b5882a",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5334954148-lego-neuf-10274",
+    "price": 189.7,
+    "title": "Lego neuf 10274",
+    "imgUrl": "https://images1.vinted.net/t/04_024e6_weeZstPPrRXjRKRAUrE4rtqN/f800/1730823814.jpeg?s=8e332cac615bcea60dd657a616f82432b1a52059",
+    "publicationDate": 1730823814
+  },
+  {
+    "_id": "e1c4e70e-2cea-5347-b00e-e71ea1c5a074",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/2761153234-lot-x2-support-gris-bleute-clair-3x2x1-13-6093054-piece-detachee-lego-b35",
+    "price": 2.59,
+    "title": "Lot x2 Support gris bleuté clair 3x2x1 1/3 6093054 pièce détachée Lego #B35",
+    "imgUrl": "https://images1.vinted.net/t/02_021bb_uaT4yqTbhzdqK7z5gfLN8DLt/f800/1678138496.jpeg?s=e325abfb1359414b79a42ce5a58449fdbf0564ea",
+    "publicationDate": 1678138496
+  },
+  {
+    "_id": "62176ee2-0e8d-5fde-a669-61aaf2f9d94d",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/2046638349-lot-x2-brique-modifie-2x4-avec-epingles-6249-gris-bleute-fonce-piece-detachee-lego-a14",
     "price": 2.28,
     "title": "lot x2 Brique modifié 2x4 avec épingles 6249 gris bleuté foncé pièce détachée Lego #A14",
     "imgUrl": "https://images1.vinted.net/t/02_018d5_WnLgoXcFPEwDQVAaJHniYc8A/f800/1658305441.jpeg?s=f35bf6537d7e7af512e3258b94b880b1337fd718",
-    "publicationDate": 1658305441,
-    "id": 2046638349
+    "publicationDate": 1658305441
   },
   {
+    "_id": "5348ba64-cf40-5ceb-83bf-4f47af3b7563",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5363081065-lego-ghosbusters-nuova",
-    "price": 189.7,
-    "title": "Lego ghosbusters nuova",
-    "imgUrl": "https://images1.vinted.net/t/04_00cb9_o5LXRqWo4nXat6SYhf5PPeHC/f800/1731310875.jpeg?s=74470f0fa2369c5dee21157ec348298420de8ae9",
-    "publicationDate": 1731310875,
-    "id": 5363081065
+    "link": "https://www.vinted.fr/items/4811707186-lego-ghostbuster-ecto-1-10274",
+    "price": 137.2,
+    "title": "Lego Ghostbuster ecto 1 10274",
+    "imgUrl": "https://images1.vinted.net/t/03_018d9_aVDRkAUYNtEzn36tihMUzFdn/f800/1722001900.jpeg?s=6acd19e0c907290e35507b6e8591f1a3fe835339",
+    "publicationDate": 1722001900
   },
   {
+    "_id": "942af3fd-ab32-50b1-8fb7-09b7463196e6",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5319914200-lego-ecto-1-10274",
-    "price": 189.7,
-    "title": "Lego ecto-1  10274",
-    "imgUrl": "https://images1.vinted.net/t/03_00652_DLU9XKiv5cJ7ACLLNnii95fH/f800/1730593128.jpeg?s=8c054e749e0b94a18041a9cd7f16ac3292f08729",
-    "publicationDate": 1730593128,
-    "id": 5319914200
+    "link": "https://www.vinted.fr/items/2761208311-lot-x2-brique-2x2-avec-goupille-et-trou-dessieu-jaune-6232-piece-detachee-lego-b35",
+    "price": 1.96,
+    "title": "lot x2 Brique 2x2 avec goupille et trou d'essieu jaune 6232 pièce détachée Lego #B35",
+    "imgUrl": "https://images1.vinted.net/t/01_02000_oi6bNwn2z6PCoEq1yyQpHuBj/f800/1678140031.jpeg?s=3fc1a6e3f69c1d63c7dca73b7462537f9dca00a1",
+    "publicationDate": 1678140031
   },
   {
+    "_id": "d27c4261-f211-5c9f-8e1d-6d582984855e",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5360362348-lego-ghostbusters-10274-21108",
-    "price": 294.7,
-    "title": "Lego Ghostbusters 10274 - 21108",
-    "imgUrl": "https://images1.vinted.net/t/04_01bd5_PnxBNB51Y5itc22f2Pc9SYgC/f800/1731256135.jpeg?s=b29747ff66cfcc01258ade91a4c101b0da94f929",
-    "publicationDate": 1731256135,
-    "id": 5360362348
+    "link": "https://www.vinted.fr/items/4952643090-ecto-1-sos-fantomes-10274",
+    "price": 158.2,
+    "title": "Ecto-1 SOS Fantomes 10274",
+    "imgUrl": "https://images1.vinted.net/t/01_0081f_vJpoD5oQj2Ad9K4W1nU9Ah5T/f800/1724855020.jpeg?s=8f971a0219776ef6270997d62f03517511fef097",
+    "publicationDate": 1724855020
   },
   {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2761146003-lot-x2-pente-blanche-45-2x2-303901-piece-detachee-lego-b35",
-    "price": 1.75,
-    "title": "Lot x2 Pente blanche 45 2x2 303901 pièce détachée Lego #B35",
-    "imgUrl": "https://images1.vinted.net/t/01_01923_L6wg5jgSvFJqy3DBJqm7rcyP/f800/1678138320.jpeg?s=9ef519a3df03ccff2146425061b0a85009079419",
-    "publicationDate": 1678138320,
-    "id": 2761146003
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4941989927-lego-macchina-ghostbusters-10274",
-    "price": 189.7,
-    "title": "Lego macchina ghostbusters 10274",
-    "imgUrl": "https://images1.vinted.net/t/01_00f2f_5VjsBunuNHKoKL18vaTkD713/f800/1724678191.jpeg?s=e7f06e0ecbf4868ed99699e346a2a17ad3d5a18e",
-    "publicationDate": 1724678191,
-    "id": 4941989927
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4958822424-lego-cod-10274-ghostbusters",
-    "price": 263.2,
-    "title": "Lego cod 10274 Ghostbusters",
-    "imgUrl": "https://images1.vinted.net/t/02_006ab_wm2J3oN2wFhyyn49K1LeqsG8/f800/1724957645.jpeg?s=86dea7ec029865f4bb246cbee13715b38613abf9",
-    "publicationDate": 1724957645,
-    "id": 4958822424
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4425896037-10274-lego-sos-fantomes-ecto-1",
-    "price": 200.19,
-    "title": "10274 LEGO Sos Fantômes Ecto-1",
-    "imgUrl": "https://images1.vinted.net/t/01_0211c_oHEQ9hWZVeZqgEh9CGuvcd3e/f800/1714247821.jpeg?s=79960687eebe07b39bca41ffec18bd1482f6d012",
-    "publicationDate": 1714247821,
-    "id": 4425896037
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4772253829-lego-10274-ecto-1-sos-fantomes",
-    "price": 189.7,
-    "title": "lego 10274 ecto-1 sos fantomes",
-    "imgUrl": "https://images1.vinted.net/t/03_0087f_6pEkdMuEC4B3x4F1tK8z1rNP/f800/1721136257.jpeg?s=bdac3d170f814ed8182a277b5509fcd491f53186",
-    "publicationDate": 1721136257,
-    "id": 4772253829
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4469895827-lego-ecto-1-sos-fantomes",
-    "price": 147.7,
-    "title": "Lego ECTO-1 SOS Fantômes",
-    "imgUrl": "https://images1.vinted.net/t/02_01a73_FLN89Hdm26Ft5hiKYaMztdhD/f800/1715072021.jpeg?s=555c54ec759bac4773fe88cb8ed5bb557d582617",
-    "publicationDate": 1715072021,
-    "id": 4469895827
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5261654302-lego-10274-ecto-1-afterlife",
-    "price": 194.95,
-    "title": "LEGO 10274 -Ecto 1 AfterLife",
-    "imgUrl": "https://images1.vinted.net/t/03_01dfa_XWmcTko7sX7dauBsSYfG6CgU/f800/1729611067.jpeg?s=1fe686d2582653b6b795779f832beabf2f52a077",
-    "publicationDate": 1729611067,
-    "id": 5261654302
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4832954701-lego-ghostbusters-ecto-1-sos-fantomes-cadillac-miller-meteor-ref-10274-neuf",
-    "price": 210.7,
-    "title": "Lego Ghostbusters - ECTO-1 SOS Fantômes Cadillac Miller-Meteor réf. 10274 Neuf",
-    "imgUrl": "https://images1.vinted.net/t/01_0098b_DfLb1tmxRd9KnSXV49WsZYgT/f800/1722497660.jpeg?s=e353c731a9728fe6f8674acc3b25069fb9a727c8",
-    "publicationDate": 1722497660,
-    "id": 4832954701
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3443976302-lego-10274-ghostbusters-ecto-1",
-    "price": 200.2,
-    "title": "Lego 10274 Ghostbusters Ecto-1",
-    "imgUrl": "https://images1.vinted.net/t/03_023e8_SxjXpQna96Q4ZvjBajKcn6SM/f800/1694038412.jpeg?s=9d1b0423748cdff8012ed1e405a953c4b4bef6f6",
-    "publicationDate": 1694038412,
-    "id": 3443976302
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5326645009-lego-ghostbuster-ecto1-10274",
-    "price": 210.7,
-    "title": "Lego - ghostbuster - ecto1 - #10274",
-    "imgUrl": "https://images1.vinted.net/t/02_01086_n9vH5AJLgFNLPjtva5qBJnEF/f800/1730668783.jpeg?s=4da79fe4679c24bc384f20ca7502a94019f8f9f8",
-    "publicationDate": 1730668783,
-    "id": 5326645009
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4614644793-lego-ecto-1-sos-fantomes",
-    "price": 191.8,
-    "title": "Lego - ECTO-1 SOS Fantômes",
-    "imgUrl": "https://images1.vinted.net/t/01_007e8_eadLw5i6eA4ztpJAtBEShaiH/f800/1717856913.jpeg?s=3936ec4b372de4f9e62866b1d8d0f7c527c99a24",
-    "publicationDate": 1717856913,
-    "id": 4614644793
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5361044622-lego-ghostbusters-10274",
-    "price": 168.7,
-    "title": "Lego Ghostbusters 10274",
-    "imgUrl": "https://images1.vinted.net/t/02_00741_SiDdR9FZUoZRsJrP1wpCNnVr/f800/1731260719.jpeg?s=8058ea9069f79a8531d8ed1623c61293de17e1ff",
-    "publicationDate": 1731260719,
-    "id": 5361044622
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5071566749-lego-10274-ecto-1-de-los-cazafantasmas",
-    "price": 199.15,
-    "title": "Lego 10274 / ECTO-1 de los Cazafantasmas",
-    "imgUrl": "https://images1.vinted.net/t/02_00c52_Bgzrt9f6pinjyYZLWmcN6ALX/f800/1726856383.jpeg?s=2ff7b3275c491cd62488bf231eec60d5aeefed05",
-    "publicationDate": 1726856383,
-    "id": 5071566749
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3724784913-lego-ghostbusters-ref-10274",
-    "price": 179.2,
-    "title": "Lego ghostbusters réf 10274",
-    "imgUrl": "https://images1.vinted.net/t/02_014a1_geHwpx5UPBm4VUbfuvAMbRXA/f800/1699347618.jpeg?s=2ec9df6313d5dc7a857a4f9ab33a240538927e15",
-    "publicationDate": 1699347618,
-    "id": 3724784913
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5011950543-lego-ghostbusters-ecto-1-10274",
-    "price": 157.15,
-    "title": "Lego Ghostbusters Ecto 1 - 10274",
-    "imgUrl": "https://images1.vinted.net/t/03_014fa_2GrDHQkVfCnHq8QZzgtrjomL/f800/1725892456.jpeg?s=81d0822fed7bc41b96841c9339cb14ce3634c594",
-    "publicationDate": 1725892456,
-    "id": 5011950543
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4478484889-lego-10274-gostbuster",
-    "price": 209.65,
-    "title": "Lego 10274 Gostbuster",
-    "imgUrl": "https://images1.vinted.net/t/03_01cb1_XtrM1wZ82RKsGkp2K2bKccL7/f800/1715238113.jpeg?s=a4aff2f351f5a84a71c621ae40622e7908f6a355",
-    "publicationDate": 1715238113,
-    "id": 4478484889
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5206256020-lego-ghostbusters-10274",
-    "price": 189.7,
-    "title": "LEGO, Ghostbusters 10274",
-    "imgUrl": "https://images1.vinted.net/t/02_0063d_WJnGsqGK7QDUjcsFw2cZfKsk/f800/1728773131.jpeg?s=5dd989ac51647f501286bb4a5a73aa57810bfebc",
-    "publicationDate": 1728773131,
-    "id": 5206256020
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4549760962-lego-10274-neuf",
-    "price": 189.7,
-    "title": "Lego 10274 Neuf",
-    "imgUrl": "https://images1.vinted.net/t/01_01914_ZgYebm1Gz8YYFxXKHi1xfjLE/f800/1716577627.jpeg?s=96f49adc7acf6ec3f9424aa7332112803b9a3b99",
-    "publicationDate": 1716577627,
-    "id": 4549760962
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/1706949385-lego-ecto-1-10274",
-    "price": 142.45,
-    "title": "Lego Ecto 1 10274",
-    "imgUrl": "https://images1.vinted.net/t/03_01ed8_DMaXPXLPiiRH7YA2vrYZXLvc/f800/1647773473.jpeg?s=34a3d23d8aa4fc1f27ca0b77c95769bf572a1226",
-    "publicationDate": 1647773473,
-    "id": 1706949385
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5190426405-lego-ecto-1-set-10274",
-    "price": 194.95,
-    "title": "Lego Ecto-1 set 10274",
-    "imgUrl": "https://images1.vinted.net/t/02_01d4d_ptchK2sEiDBztrMQCYnk7SPe/f800/1728510796.jpeg?s=aa60e9ae105f8719415590c9f0a2fa6820767799",
-    "publicationDate": 1728510796,
-    "id": 5190426405
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5090335852-lego-ecto-1",
-    "price": 189.7,
-    "title": "Lego Ecto 1",
-    "imgUrl": "https://images1.vinted.net/t/03_01cc3_2bzt7mYYfTGyrXwaafd56pmG/f800/1727023726.jpeg?s=c379eb51695b3be89eff3a54d427119bb808cf92",
-    "publicationDate": 1727023726,
-    "id": 5090335852
-  },
-  {
+    "_id": "649561e2-599e-5492-90d6-e5f472d2112b",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/2761192904-piece-technic-rotor-noir-1x5-4114689-piece-detachee-lego-b35",
     "price": 1.75,
     "title": "Pièce Technic Rotor noir 1x5 4114689 pièce détachée Lego #B35",
     "imgUrl": "https://images1.vinted.net/t/03_00788_zEtb7qYrRtvp2tpS12t1TfPr/f800/1678139562.jpeg?s=5da12a563129f8cc109fcf430a60b5cf58ebfb42",
-    "publicationDate": 1678139562,
-    "id": 2761192904
+    "publicationDate": 1678139562
   },
   {
+    "_id": "c1b67068-927c-51dc-ac95-e24a39decd5e",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/1870147034-lego-ghostbuster-10274-sigillato-misb",
-    "price": 231.7,
-    "title": "Lego ghostbuster 10274 sigillato misb",
-    "imgUrl": "https://images1.vinted.net/t/03_0072a_xUFxFbCHLZ6qN7rBSVUcXDfs/f800/1652869923.jpeg?s=37502c42fff773f343ae7ad9f6b843deb419e55a",
-    "publicationDate": 1652869923,
-    "id": 1870147034
+    "link": "https://www.vinted.fr/items/4215212488-lego-10274",
+    "price": 147.7,
+    "title": "Lego 10274",
+    "imgUrl": "https://images1.vinted.net/t/03_01369_7xAcfyJPpga4d79ezFY1joz6/f800/1710260615.jpeg?s=09cab7d212f3a4ff509b8494e1adbbd5b2fd84b1",
+    "publicationDate": 1710260615
   },
   {
+    "_id": "f5e6cc70-c871-52bc-8490-7f82de0f981f",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4684546816-lego-10274-ghostbusters-ecto-1",
-    "price": 231.7,
-    "title": "LEGO 10274 Ghostbusters ECTO-1",
-    "imgUrl": "https://images1.vinted.net/t/02_01197_kVqFhFArwS6VJQBiXraAAiuF/f800/1719259478.jpeg?s=444ea16fa8327aee4be4d03cc7e298846770a30a",
-    "publicationDate": 1719259478,
-    "id": 4684546816
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4515946940-lego-10274-ecto-1-ghostbuster",
+    "link": "https://www.vinted.fr/items/5319914200-lego-ecto-1-10274",
     "price": 189.7,
-    "title": "Lego 10274 Ecto-1 Ghostbuster",
-    "imgUrl": "https://images1.vinted.net/t/02_01248_PC5CvCvVgf92vbxEnue2DVJN/f800/1715955764.jpeg?s=9b0016ef90463ccfd415b443b99cdddbf59611a3",
-    "publicationDate": 1715955764,
-    "id": 4515946940
+    "title": "Lego ecto-1  10274",
+    "imgUrl": "https://images1.vinted.net/t/03_00652_DLU9XKiv5cJ7ACLLNnii95fH/f800/1730593128.jpeg?s=8c054e749e0b94a18041a9cd7f16ac3292f08729",
+    "publicationDate": 1730593128
   },
   {
+    "_id": "25155818-acff-5175-aba3-1f8bae23103e",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4451882625-ecto-1-sos-fantomes-10274",
-    "price": 158.2,
-    "title": "ECTO-1 SOS Fantômes 10274",
-    "imgUrl": "https://images1.vinted.net/t/01_01c03_tvYGZqkFvTovQXLpKxo7TWeD/f800/1714747969.jpeg?s=d9cc7724083d999606810d880623156b4a7d4e78",
-    "publicationDate": 1714747969,
-    "id": 4451882625
+    "link": "https://www.vinted.fr/items/5382253027-lego-super-mario-nintendo-ref-71374-scelle",
+    "price": 221.2,
+    "title": "Lego Super Mario Nintendo réf 71374 - Scellé",
+    "imgUrl": "https://images1.vinted.net/t/04_00188_r1JcdKTNYYyLEnQ3yJfHYiD5/f800/1731598303.jpeg?s=439acc9b1f64cb12a77e296deb3d3948a7ba9546",
+    "publicationDate": 1731598303
   },
   {
+    "_id": "b6db450e-f4ff-54a9-9a55-6a54509da442",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4500705671-lego-ghostbusters-10274",
-    "price": 192.85,
-    "title": "Lego ghostbusters 10274",
-    "imgUrl": "https://images1.vinted.net/t/01_01297_nEvwV3rcUqid7Pai9mnat5pX/f800/1715668292.jpeg?s=506ba03436eb6bbc9ed968c54d8e74335c665ff6",
-    "publicationDate": 1715668292,
-    "id": 4500705671
+    "link": "https://www.vinted.fr/items/2761146003-lot-x2-pente-blanche-45-2x2-303901-piece-detachee-lego-b35",
+    "price": 1.75,
+    "title": "Lot x2 Pente blanche 45 2x2 303901 pièce détachée Lego #B35",
+    "imgUrl": "https://images1.vinted.net/t/01_01923_L6wg5jgSvFJqy3DBJqm7rcyP/f800/1678138320.jpeg?s=9ef519a3df03ccff2146425061b0a85009079419",
+    "publicationDate": 1678138320
   },
   {
+    "_id": "d1da8c12-0438-597b-bb7b-0bd811846362",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5319328077-lego-10274-ghostbusters-ecto-1-new-sealed-box",
+    "price": 190.75,
+    "title": "LEGO 10274 Ghostbusters Ecto-1, new, sealed box",
+    "imgUrl": "https://images1.vinted.net/t/01_00858_yHT6p9DWaQmtLnBuZtDDjSVc/f800/1730578533.jpeg?s=a7821717b31984587471081380efec3c8d1ef3a9",
+    "publicationDate": 1730578533
+  },
+  {
+    "_id": "4bce7878-3c5f-517f-a710-92709a02866f",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5315212981-lego-10274-ghostbusters",
+    "price": 200.2,
+    "title": "Lego 10274 Ghostbusters",
+    "imgUrl": "https://images1.vinted.net/t/04_01bd4_ywMrr6izwjTgb4p5n2CX9vG6/f800/1730541636.jpeg?s=47e2dacc79ec3c2db5321bd106afeb10d2e73455",
+    "publicationDate": 1730541636
+  },
+  {
+    "_id": "43ef156e-1047-5e92-9825-dea5481755e1",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5206256020-lego-ghostbusters-10274",
+    "price": 189.7,
+    "title": "LEGO, Ghostbusters 10274",
+    "imgUrl": "https://images1.vinted.net/t/02_0063d_WJnGsqGK7QDUjcsFw2cZfKsk/f800/1728773131.jpeg?s=5dd989ac51647f501286bb4a5a73aa57810bfebc",
+    "publicationDate": 1728773131
+  },
+  {
+    "_id": "eaa89edc-01e3-5f1b-9cfc-fa9fd8698f89",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/4565711178-lego-10274-icons-ecto-1-cazafantasmas",
     "price": 188.65,
     "title": "Lego 10274 Icons ECTO-1 Cazafantasmas",
     "imgUrl": "https://images1.vinted.net/t/02_020ee_8EutecQSPRFng96kdcXxBGEz/f800/1716894330.jpeg?s=b754b6d69579968c06272917e62c2070ff0b2ef0",
-    "publicationDate": 1716894330,
-    "id": 4565711178
+    "publicationDate": 1716894330
   },
   {
+    "_id": "a3a8a7bf-58d4-54cc-8496-1e88e8f7aa6e",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3526779526-moc-cadillac-cabriolet",
-    "price": 205.45,
-    "title": "MOC cadillac cabriolet",
-    "imgUrl": "https://images1.vinted.net/t/01_00b57_cqLqaNwM4Nfchw2zrkTE8hLf/f800/1700895128.jpeg?s=c7c8ca16642b3b1901d514ffb6dadbba2d20c9a3",
-    "publicationDate": 1700895128,
-    "id": 3526779526
+    "link": "https://www.vinted.fr/items/4451882625-ecto-1-sos-fantomes-10274",
+    "price": 158.2,
+    "title": "ECTO-1 SOS Fantômes 10274",
+    "imgUrl": "https://images1.vinted.net/t/01_01c03_tvYGZqkFvTovQXLpKxo7TWeD/f800/1714747969.jpeg?s=d9cc7724083d999606810d880623156b4a7d4e78",
+    "publicationDate": 1714747969
   },
   {
+    "_id": "ea6a8975-920b-5606-af00-c861eb16463f",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4960436412-lego-10274-ecto-1-ghostbusters",
+    "link": "https://www.vinted.fr/items/5363081065-lego-ghosbusters-nuova",
     "price": 189.7,
-    "title": "Lego 10274 Ecto 1 Ghostbusters",
-    "imgUrl": "https://images1.vinted.net/t/02_00c57_Sx4a4afvLNaR3EWzMM5ZXSD9/f800/1725012205.jpeg?s=5b58144cd4ccf3a1973d84aaaaff163540d0042b",
-    "publicationDate": 1725012205,
-    "id": 4960436412
+    "title": "Lego ghosbusters nuova",
+    "imgUrl": "https://images1.vinted.net/t/04_00cb9_o5LXRqWo4nXat6SYhf5PPeHC/f800/1731310875.jpeg?s=74470f0fa2369c5dee21157ec348298420de8ae9",
+    "publicationDate": 1731310875
   },
   {
+    "_id": "57873ad4-0429-5698-98e2-7bf60f369d39",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4991779040-lego-misb-10274",
-    "price": 231.7,
-    "title": "Lego MISB 10274",
-    "imgUrl": "https://images1.vinted.net/t/02_017f4_D2We7a2ba5zTZjq3WPo7Xywh/f800/1725549218.jpeg?s=1c75b989a2fea451cfeb16c9a931542ffa6dfc06",
-    "publicationDate": 1725549218,
-    "id": 4991779040
+    "link": "https://www.vinted.fr/items/4425896037-10274-lego-sos-fantomes-ecto-1",
+    "price": 200.19,
+    "title": "10274 LEGO Sos Fantômes Ecto-1",
+    "imgUrl": "https://images1.vinted.net/t/01_0211c_oHEQ9hWZVeZqgEh9CGuvcd3e/f800/1714247821.jpeg?s=79960687eebe07b39bca41ffec18bd1482f6d012",
+    "publicationDate": 1714247821
   },
   {
+    "_id": "a065633e-8047-5026-bd9b-86c9a3f37201",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4965078961-lego-ghostbusters-ecto-1-10274",
-    "price": 210.7,
-    "title": "Lego Ghostbusters ECTO-1 10274",
-    "imgUrl": "https://images1.vinted.net/t/03_00320_u4vanmfSGC6Ro9e5ZhkpqEQG/f800/1725101340.jpeg?s=acfa6ccf8e6e7f852a342d5f8bb520f4547b8c95",
-    "publicationDate": 1725101340,
-    "id": 4965078961
+    "link": "https://www.vinted.fr/items/4958822424-lego-cod-10274-ghostbusters",
+    "price": 263.2,
+    "title": "Lego cod 10274 Ghostbusters",
+    "imgUrl": "https://images1.vinted.net/t/02_006ab_wm2J3oN2wFhyyn49K1LeqsG8/f800/1724957645.jpeg?s=86dea7ec029865f4bb246cbee13715b38613abf9",
+    "publicationDate": 1724957645
   },
   {
+    "_id": "b96af458-6979-5df1-b626-5308f4489c8f",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4288678709-lego-10274-ghostbusters",
-    "price": 200.2,
-    "title": "Lego 10274 Ghostbusters",
-    "imgUrl": "https://images1.vinted.net/t/03_01dcf_yftkymdwrKef4wFKhTfNtJtW/f800/1711723127.jpeg?s=be9376ce0b68b0877d11352396c75a90360f8702",
-    "publicationDate": 1711723127,
-    "id": 4288678709
+    "link": "https://www.vinted.fr/items/5331135573-lego-10274-ghostbusters-ecto-1-comme-neuf",
+    "price": 173.95,
+    "title": "LEGO 10274 - Ghostbusters ECTO 1 - Comme neuf",
+    "imgUrl": "https://images1.vinted.net/t/04_02184_TnBZdKcbo81dAKeCh3zVAeuU/f800/1730748597.jpeg?s=349cb5f6d4eaf75aba19c78107cf0ddc04d6816e",
+    "publicationDate": 1730748597
   },
   {
+    "_id": "18a4ada1-d9bd-5730-bf69-b27a8c7032b8",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/5143802706-lego-ghostbuster-10274",
     "price": 194.85,
     "title": "Lego ghostbuster 10274",
     "imgUrl": "https://images1.vinted.net/t/03_01167_sEtg1mN1QuPLk88nWxMF5Hb7/f800/1727820578.jpeg?s=33197bccdd6e6cfdc105d8a809be115b74d6f0a4",
-    "publicationDate": 1727820578,
-    "id": 5143802706
+    "publicationDate": 1727820578
   },
   {
+    "_id": "ac6c1ce9-8ce6-5907-bdf7-af567aac402c",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3856358440-lego-icons-ghostbusters-10274",
+    "link": "https://www.vinted.fr/items/4469895827-lego-ecto-1-sos-fantomes",
+    "price": 147.7,
+    "title": "Lego ECTO-1 SOS Fantômes",
+    "imgUrl": "https://images1.vinted.net/t/02_01a73_FLN89Hdm26Ft5hiKYaMztdhD/f800/1715072021.jpeg?s=555c54ec759bac4773fe88cb8ed5bb557d582617",
+    "publicationDate": 1715072021
+  },
+  {
+    "_id": "41d40bc3-cbd1-56ac-bef2-43a37b8e2c36",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5190426405-lego-ecto-1-set-10274",
+    "price": 194.95,
+    "title": "Lego Ecto-1 set 10274",
+    "imgUrl": "https://images1.vinted.net/t/02_01d4d_ptchK2sEiDBztrMQCYnk7SPe/f800/1728510796.jpeg?s=aa60e9ae105f8719415590c9f0a2fa6820767799",
+    "publicationDate": 1728510796
+  },
+  {
+    "_id": "ef497841-b2f7-5c1e-941b-11a4047c0487",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5090335852-lego-ecto-1",
+    "price": 189.7,
+    "title": "Lego Ecto 1",
+    "imgUrl": "https://images1.vinted.net/t/03_01cc3_2bzt7mYYfTGyrXwaafd56pmG/f800/1727023726.jpeg?s=c379eb51695b3be89eff3a54d427119bb808cf92",
+    "publicationDate": 1727023726
+  },
+  {
+    "_id": "b8a62e3f-62db-580e-8412-3b6f0ed2a909",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5395065632-lego-10274-ecto-1-sos-fantomes-neuf-scelle",
     "price": 200.2,
-    "title": "LEGO Icons Ghostbusters 10274",
-    "imgUrl": "https://images1.vinted.net/t/03_005dc_6M5pNcPDQxvU5uFhGbe7dfS2/f800/1701968061.jpeg?s=2d81ea8e71391609698a007fa8212a4015790e07",
-    "publicationDate": 1701968061,
-    "id": 3856358440
+    "title": "Lego 10274 – ECTO-1 SOS Fantômes / Neuf - scellé",
+    "imgUrl": "https://images1.vinted.net/t/03_02416_puLiCRs4KpRQPcXHEWNYLJYH/f800/1731835937.jpeg?s=2cb5d6fa6566c660220d2784e61b54ee87f2a35d",
+    "publicationDate": 1731835937
   },
   {
+    "_id": "ac3a3e70-48f0-5bda-b053-c8796df31772",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4313538404-lego-ghostbusters-ecto-1-10274",
-    "price": 184.45,
-    "title": "Lego Ghostbusters ecto 1    10274",
-    "imgUrl": "https://images1.vinted.net/t/03_011e2_NSH6LRk1Egw2V6MvTe5EGB71/f800/1712207638.jpeg?s=dde305012a671206ed36143822c70b0e7861966a",
-    "publicationDate": 1712207638,
-    "id": 4313538404
+    "link": "https://www.vinted.fr/items/3724784913-lego-ghostbusters-ref-10274",
+    "price": 179.2,
+    "title": "Lego ghostbusters réf 10274",
+    "imgUrl": "https://images1.vinted.net/t/02_014a1_geHwpx5UPBm4VUbfuvAMbRXA/f800/1699347618.jpeg?s=2ec9df6313d5dc7a857a4f9ab33a240538927e15",
+    "publicationDate": 1699347618
   },
   {
+    "_id": "9e330cb3-db96-52d5-abf1-1020ac1402d1",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4447611102-lego-10274-ecto-1-lego-brickheadz-41622",
-    "price": 263.2,
-    "title": "LEGO 10274 - Ecto 1 + LEGO Brickheadz 41622",
-    "imgUrl": "https://images1.vinted.net/t/02_01295_sMcmD75RooFXfFLsAXFA4LmE/f800/1714660613.jpeg?s=87deed2de8f6c7b636b5a4f2b97ffed457bb7dc4",
-    "publicationDate": 1714660613,
-    "id": 4447611102
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5177978332-lego-10274-ecto-1-ghostbusters-ecto1",
-    "price": 209.65,
-    "title": "Lego 10274 ecto 1 Ghostbusters ecto1",
-    "imgUrl": "https://images1.vinted.net/t/01_01e15_haVFkta2mzc39SHyRge3SA66/f800/1728320865.jpeg?s=d4d714a54f75f0ac1f4cbe179f5ae4d0b5ae4edb",
-    "publicationDate": 1728320865,
-    "id": 5177978332
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5031442222-lego-10274-ghostbusters-ecto-1-nieuw-ongeopende-set",
-    "price": 200.2,
-    "title": "Lego 10274 - Ghostbusters Ecto-1 - Nieuw - Ongeopende set",
-    "imgUrl": "https://images1.vinted.net/t/03_01be5_XcxhHAHUwcvJY5dt2XAQrLTC/f800/1726154955.jpeg?s=b3802e74f0d580a770ede1b10fc1eb9cc293169c",
-    "publicationDate": 1726154955,
-    "id": 5031442222
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5140855965-lego-10274-ghostbuster-ecto-1-precintado",
-    "price": 262.15,
-    "title": "LEGO 10274 ghostbuster ecto-1 Precintado",
-    "imgUrl": "https://images1.vinted.net/t/03_022db_kQKw4LLrExbkuAp4NEC6BgtE/f800/1727788517.jpeg?s=80ebe139acbc25c2acf81d0fba15b03afc56befc",
-    "publicationDate": 1727788517,
-    "id": 5140855965
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4304686481-lego-ghostbusters-10274",
+    "link": "https://www.vinted.fr/items/5373748795-lego-10274-ghostbusters",
     "price": 210.7,
-    "title": "Lego ghostbusters 10274",
-    "imgUrl": "https://images1.vinted.net/t/03_01892_f1RzMmdxtGkLy1TSYvmEL4it/f800/1712049316.jpeg?s=560b2f96c374db22b6f0801a69ec93e084025a71",
-    "publicationDate": 1712049316,
-    "id": 4304686481
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4546442410-set-lego-10274-ecto-1-ghostbusters",
-    "price": 210.7,
-    "title": "Set lego 10274 ecto-1 Ghostbusters",
-    "imgUrl": "https://images1.vinted.net/t/03_01343_owLz4je1Gw4qsBvELsxdXJPD/f800/1716500246.jpeg?s=221319c7d2cd0bc6527cc4e9a1d68c98dd8e3ae0",
-    "publicationDate": 1716500246,
-    "id": 4546442410
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4555227137-lego-ecto-1-21108-e-10274",
-    "price": 420.7,
-    "title": "Lego ECTO-1  21108 e 10274",
-    "imgUrl": "https://images1.vinted.net/t/03_022da_hjbdtx1DFP6JUuz67pFni5UV/f800/1716716333.jpeg?s=9658a23dfdca76a2f7b370c1772f99e9f6a8743d",
-    "publicationDate": 1716716333,
-    "id": 4555227137
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4554602181-lego-ghostbusters-10274",
-    "price": 168.7,
-    "title": "Lego Ghostbusters 10274",
-    "imgUrl": "https://images1.vinted.net/t/01_00b73_DQqRWCuR5GFmPRirhC4qas9F/f800/1716707038.jpeg?s=1d8645acbc65d63fc1c569e2d47423bbc759171d",
-    "publicationDate": 1716707038,
-    "id": 4554602181
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3839439635-lego-10274-ghostbusters-ecto-1",
-    "price": 199.68,
-    "title": "Lego 10274 Ghostbusters Ecto-1",
-    "imgUrl": "https://images1.vinted.net/t/02_01b93_fGHpM6QisQGxanTXcqTCjNQe/f800/1701604680.jpeg?s=a6122f56c7785ffafe766150d983ce75b3942fa8",
-    "publicationDate": 1701604680,
-    "id": 3839439635
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2472215058-lego-10274-ecto-1-sos-fantomes-neuf-scelle",
-    "price": 210.7,
-    "title": "Lego 10274 - ECTO-1 SOS Fantômes - Neuf & scellé",
-    "imgUrl": "https://images1.vinted.net/t/02_00e99_f3RnCPzNH38d57JR5yGPmeZk/f800/1669846221.jpeg?s=2fa2ca710d27cea8c4b23ca80943a651427f8a5c",
-    "publicationDate": 1669846221,
-    "id": 2472215058
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4287577614-ecto-1-ghostbusters-lego-icons-10274",
-    "price": 305.2,
-    "title": "ECTO-1 Ghostbusters LEGO Icons 10274",
-    "imgUrl": "https://images1.vinted.net/t/03_00e42_N6uLjNyvrRQZzLQQ9BcsVep5/f800/1711710687.jpeg?s=b6b8a91c938c17059a1b6e1b08529aa11224235c",
-    "publicationDate": 1711710687,
-    "id": 4287577614
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3287210123-lego-10274-ecto-1",
-    "price": 210.7,
-    "title": "Lego 10274 - ECTO-1",
-    "imgUrl": "https://images1.vinted.net/t/02_01f4e_6J7cVKNVxJSpGhuLgyY8G5VE/f800/1690554274.jpeg?s=4fca45a935930a254f15e7ac4a4ca0d738ba26ed",
-    "publicationDate": 1690554274,
-    "id": 3287210123
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5104701714-lego-10274-ecto-1",
-    "price": 205.45,
-    "title": "Lego 10274 ECTO-1",
-    "imgUrl": "https://images1.vinted.net/t/01_00703_rPaKQU8zJeTTRVBcA1qGbNu5/f800/1727260117.jpeg?s=884c737137039efec84acbb5dfa4db14314e5b07",
-    "publicationDate": 1727260117,
-    "id": 5104701714
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4346801426-lego-ghostbusters-ecto-1-10274",
-    "price": 210.7,
-    "title": "Lego Ghostbusters Ecto-1 10274",
-    "imgUrl": "https://images1.vinted.net/t/03_0085d_nokQXRwEwvoQJ2XXaLk6aUm5/f800/1712783421.jpeg?s=24608e83f4780a179114f7ca110f8d294cb0b3d0",
-    "publicationDate": 1712783421,
-    "id": 4346801426
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2444713487-lego-ghostbusters-ecto-1-10274",
-    "price": 273.7,
-    "title": "Lego Ghostbusters ecto-1 10274",
-    "imgUrl": "https://images1.vinted.net/t/01_0227a_nza3MJANgLYebzBS55BeNepp/f800/1669118888.jpeg?s=6d57d43ed8d1d0be0f3e5f4d7fa4918251b30bba",
-    "publicationDate": 1669118888,
-    "id": 2444713487
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/5110642842-lego-creator-expert-ghostbusters-ecto-1-10274",
-    "price": 168.7,
-    "title": "LEGO Creator Expert Ghostbusters ECTO-1 - 10274",
-    "imgUrl": "https://images1.vinted.net/t/01_0201d_EdzSYzTq5CDEAnar9bBHeCFR/f800/1727351548.jpeg?s=3c6b39d7dfaba6b7ab809d600866cd43ec5a21fb",
-    "publicationDate": 1727351548,
-    "id": 5110642842
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/1796006652-lego-ideas-10274",
-    "price": 221.2,
-    "title": "LEGO Ideas 10274",
-    "imgUrl": "https://images1.vinted.net/t/01_00546_uPXsmbvhDDd1egLQF7tMFZ3G/f800/1651196294.jpeg?s=4882430d10e53b5f11e306092fe0a10cfb3f018d",
-    "publicationDate": 1651196294,
-    "id": 1796006652
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3752495438-lego-ghostbusters",
-    "price": 210.7,
-    "title": "Lego ghostbusters ",
-    "imgUrl": "https://images1.vinted.net/t/01_01f57_3y9EXeCpsaDUCfLjJfZdy4rc/f800/1699826736.jpeg?s=c1b53a4c1ab9eb8857e945dcb3a72342fbee28fb",
-    "publicationDate": 1699826736,
-    "id": 3752495438
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4359772601-lego-10274-ecto-1-nuovo",
-    "price": 210.7,
-    "title": "Lego 10274 ecto 1 nuovo",
-    "imgUrl": "https://images1.vinted.net/t/01_019f0_wJcEWsTm1typATBwC1rJ8qYt/f800/1713074564.jpeg?s=ded09f9065664391f7fc6b8601a50e2e55643ce2",
-    "publicationDate": 1713074564,
-    "id": 4359772601
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3978732322-ecto-1-ghostbusters-lego-10274",
-    "price": 252.7,
-    "title": "Ecto-1 Ghostbusters Lego 10274",
-    "imgUrl": "https://images1.vinted.net/t/03_024a0_uj7kbYKWwp6jvuRHperB4PKw/f800/1705249272.jpeg?s=3766db1419165ddb35bc3f61756e0653d7e664ed",
-    "publicationDate": 1705249272,
-    "id": 3978732322
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2507316519-lego-10274-ghostbusters",
-    "price": 209.65,
-    "title": "Lego 10274 Ghostbusters ",
-    "imgUrl": "https://images1.vinted.net/t/03_022da_6UC4YZ5ZXigAzjXf8VpQYtJ7/f800/1670883895.jpeg?s=1c1014c168f71134b3591e347aa43258e289782a",
-    "publicationDate": 1670883895,
-    "id": 2507316519
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4337060624-ecto1",
-    "price": 200.2,
-    "title": "Ecto1",
-    "imgUrl": "https://images1.vinted.net/t/02_025a9_N78ucZJjcqARGjgx8VW788jn/f800/1712605741.jpeg?s=90de0733e936158c76c6262462302b29211a43a3",
-    "publicationDate": 1712605741,
-    "id": 4337060624
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3834051181-lego-icons-10274-ecto-i-cazafantasmas",
-    "price": 209.65,
-    "title": "Lego Icons 10274 Ecto I Cazafantasmas",
-    "imgUrl": "https://images1.vinted.net/t/01_00bc6_hcVoy2fwZZPMi87nNpcYz6v4/f800/1701466262.jpeg?s=31fae7302c8cb1dcdac657dc9b4d052ef439a105",
-    "publicationDate": 1701466262,
-    "id": 3834051181
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3306560448-lego-10274-ghostbusters-ecto-1-nuovissima-sigillata",
-    "price": 221.2,
-    "title": "Lego 10274 ghostbusters ecto-1 nuovissima sigillata ",
-    "imgUrl": "https://images1.vinted.net/t/03_01abc_CgPFbTidwu1Fg3Kufz9nXPN1/f800/1690995179.jpeg?s=be4cdab561248e897eaf87995d3f75226108119b",
-    "publicationDate": 1690995179,
-    "id": 3306560448
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2477171766-lego-10274-ghostbusters",
-    "price": 184.45,
     "title": "Lego 10274 ghostbusters",
-    "imgUrl": "https://images1.vinted.net/t/03_008c7_sogFehJZfy7CRpvciS6DJuvR/f800/1670009417.jpeg?s=3fc94fa635e8cdb113aec5ba455705ac37a48463",
-    "publicationDate": 1670009417,
-    "id": 2477171766
+    "imgUrl": "https://images1.vinted.net/t/03_01f7f_WXaN9VqtU9bwRZu2yi6BHEob/f800/1731442348.jpeg?s=2035a183cbb0c16809cd7e02ffeb69b8171fc6b8",
+    "publicationDate": 1731442348
   },
   {
+    "_id": "a48a95df-77f3-5747-8c2e-4ebb9f799dc4",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5395399949-lego-creator-10274-ecto-1-neuf-scelle",
+    "price": 210.7,
+    "title": "LEGO Creator 10274, ECTO-1. Neuf scellé.",
+    "imgUrl": "https://images1.vinted.net/t/02_013f2_RX2eQMFDSmZWHNaFnQxRdQ8Z/f800/1731838492.jpeg?s=28d78dcba874fe877ad4fa70e459686b04c48709",
+    "publicationDate": 1731838492
+  },
+  {
+    "_id": "a0d9bc49-3a20-51b7-8943-f1d9630e421c",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5071566749-lego-10274-ecto-1-de-los-cazafantasmas",
+    "price": 199.15,
+    "title": "Lego 10274 / ECTO-1 de los Cazafantasmas",
+    "imgUrl": "https://images1.vinted.net/t/02_00c52_Bgzrt9f6pinjyYZLWmcN6ALX/f800/1726856383.jpeg?s=2ff7b3275c491cd62488bf231eec60d5aeefed05",
+    "publicationDate": 1726856383
+  },
+  {
+    "_id": "99fab2bb-4d7c-5781-a216-5b61eb229dbd",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4549760962-lego-10274-neuf",
+    "price": 189.7,
+    "title": "Lego 10274 Neuf",
+    "imgUrl": "https://images1.vinted.net/t/01_01914_ZgYebm1Gz8YYFxXKHi1xfjLE/f800/1716577627.jpeg?s=96f49adc7acf6ec3f9424aa7332112803b9a3b99",
+    "publicationDate": 1716577627
+  },
+  {
+    "_id": "54e5320b-cbc7-54ce-a0d1-a3363ee164e6",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4772253829-lego-10274-ecto-1-sos-fantomes",
+    "price": 189.7,
+    "title": "lego 10274 ecto-1 sos fantomes",
+    "imgUrl": "https://images1.vinted.net/t/03_0087f_6pEkdMuEC4B3x4F1tK8z1rNP/f800/1721136257.jpeg?s=bdac3d170f814ed8182a277b5509fcd491f53186",
+    "publicationDate": 1721136257
+  },
+  {
+    "_id": "128802a3-4825-50bc-8cf3-ec7728e85ae0",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5011950543-lego-ghostbusters-ecto-1-10274",
+    "price": 157.15,
+    "title": "Lego Ghostbusters Ecto 1 - 10274",
+    "imgUrl": "https://images1.vinted.net/t/03_014fa_2GrDHQkVfCnHq8QZzgtrjomL/f800/1725892456.jpeg?s=81d0822fed7bc41b96841c9339cb14ce3634c594",
+    "publicationDate": 1725892456
+  },
+  {
+    "_id": "1d67bc53-5186-510d-bfe0-ce6db5f37fda",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/1706949385-lego-ecto-1-10274",
+    "price": 142.45,
+    "title": "Lego Ecto 1 10274",
+    "imgUrl": "https://images1.vinted.net/t/03_01ed8_DMaXPXLPiiRH7YA2vrYZXLvc/f800/1647773473.jpeg?s=34a3d23d8aa4fc1f27ca0b77c95769bf572a1226",
+    "publicationDate": 1647773473
+  },
+  {
+    "_id": "7e3b567c-d958-57f2-9c1b-df99192ef8cf",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/5037130362-lego-ghostbusters-10274",
     "price": 200.2,
     "title": "Lego Ghostbusters 10274",
     "imgUrl": "https://images1.vinted.net/t/03_01a05_xuYJSRrLYLRs2F9GnRhSYq8z/f800/1726244821.jpeg?s=9e8a2ec51f9b3c7a18a1256c16034fe4f0f2295f",
-    "publicationDate": 1726244821,
-    "id": 5037130362
+    "publicationDate": 1726244821
   },
   {
+    "_id": "571de2d0-9af8-5fc4-8cc2-d5931ae362ee",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2698955819-lego-10274-ghostbusters-ecto-1-misb",
-    "price": 220.15,
-    "title": "Lego 10274 ghostbusters ECTO-1 misb",
-    "imgUrl": "https://images1.vinted.net/t/02_01b02_2doaxhQt2vVRaDh27CaS8g2E/f800/1676624803.jpeg?s=b64ddc6454a1dd938d01c46fa1caac23db73aa7b",
-    "publicationDate": 1676624803,
-    "id": 2698955819
+    "link": "https://www.vinted.fr/items/4614644793-lego-ecto-1-sos-fantomes",
+    "price": 191.8,
+    "title": "Lego - ECTO-1 SOS Fantômes",
+    "imgUrl": "https://images1.vinted.net/t/01_007e8_eadLw5i6eA4ztpJAtBEShaiH/f800/1717856913.jpeg?s=3936ec4b372de4f9e62866b1d8d0f7c527c99a24",
+    "publicationDate": 1717856913
   },
   {
+    "_id": "00300744-c166-5baa-bc8a-cbe21426adc9",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2473959092-lego-10274-ghostbusters-ecto1",
+    "link": "https://www.vinted.fr/items/5367921123-lego-10274",
     "price": 210.7,
-    "title": "Lego 10274 Ghostbusters ecto1",
-    "imgUrl": "https://images1.vinted.net/t/01_00a6c_sqZPY357JqLJCSGjmzhdoyFz/f800/1669911084.jpeg?s=1ec46964a2cfbdde5618d598fc367b7ef47a02ef",
-    "publicationDate": 1669911084,
-    "id": 2473959092
+    "title": "Lego 10274",
+    "imgUrl": "https://images1.vinted.net/t/01_002a7_y7uqooSCTAjvoByzcUufBFqm/f800/1731348696.jpeg?s=adf58d921a9e7bd4795ea16b746837ab877a57d4",
+    "publicationDate": 1731348696
   },
   {
+    "_id": "36310fe4-0e20-555f-a7ea-ef32bd70b129",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2703046087-lego-10274-ghostbusters-ecto-1-misb",
-    "price": 210.7,
-    "title": "Lego 10274 Ghostbusters Ecto-1 MISB",
-    "imgUrl": "https://images1.vinted.net/t/02_020c6_WXPFG3H86KYY8Y4zctNEcMRv/f800/1676727835.jpeg?s=2f78b2ff0d0eed1c80bda02ad2d7bfe659b06974",
-    "publicationDate": 1676727835,
-    "id": 2703046087
+    "link": "https://www.vinted.fr/items/5360614252-lego-10274-ecto-1-neuf",
+    "price": 205.45,
+    "title": "Lego 10274 ecto 1 neuf",
+    "imgUrl": "https://images1.vinted.net/t/04_01c66_myCdgj25xfdELjT1ZeKtA3bJ/f800/1731257755.jpeg?s=a091563bde334af6dd7af15ae052a37b74f61484",
+    "publicationDate": 1731257755
   },
   {
+    "_id": "147ecac8-1a7c-51a9-84fa-103e866d3ad3",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3570947169-lego-ghostbusters-ecto-1-10274-prossimamente-va-fuori-produzione",
-    "price": 224.35,
-    "title": "lego - ghostbusters - ecto-1 - 10274 prossimamente va fuori produzione.!",
-    "imgUrl": "https://images1.vinted.net/t/02_0101e_BvhruDDdVBzHYirBnKj4pR22/f800/1696606170.jpeg?s=e7ec9b0a7799614605353639f3a7d5712a105b74",
-    "publicationDate": 1696606170,
-    "id": 3570947169
+    "link": "https://www.vinted.fr/items/4991779040-lego-misb-10274",
+    "price": 231.7,
+    "title": "Lego MISB 10274",
+    "imgUrl": "https://images1.vinted.net/t/02_017f4_D2We7a2ba5zTZjq3WPo7Xywh/f800/1725549218.jpeg?s=1c75b989a2fea451cfeb16c9a931542ffa6dfc06",
+    "publicationDate": 1725549218
   },
   {
+    "_id": "009781cf-cd15-5cfb-a05e-ce02be4d3c1c",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2062560647-lego-10274-ghostbusters-ecto-1",
+    "link": "https://www.vinted.fr/items/4313538404-lego-ghostbusters-ecto-1-10274",
+    "price": 184.45,
+    "title": "Lego Ghostbusters ecto 1    10274",
+    "imgUrl": "https://images1.vinted.net/t/03_011e2_NSH6LRk1Egw2V6MvTe5EGB71/f800/1712207638.jpeg?s=dde305012a671206ed36143822c70b0e7861966a",
+    "publicationDate": 1712207638
+  },
+  {
+    "_id": "eb64cd54-ff86-545a-bb6b-11c894c318e8",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5275135006-lego-ghostbusters-ecto-1-steindrucker",
+    "price": 142.45,
+    "title": "LEGO Ghostbusters Ecto-1 /Steindrucker",
+    "imgUrl": "https://images1.vinted.net/t/02_00f95_RboxT2YtCpXQUvPt9mPx6bNq/f800/1729858058.jpeg?s=d7419c31649ab2727d643e5bc2e943b94985023e",
+    "publicationDate": 1729858058
+  },
+  {
+    "_id": "0fd62f1e-823c-5182-b10a-78a0b270bd0c",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4941989927-lego-macchina-ghostbusters-10274",
+    "price": 189.7,
+    "title": "Lego macchina ghostbusters 10274",
+    "imgUrl": "https://images1.vinted.net/t/01_00f2f_5VjsBunuNHKoKL18vaTkD713/f800/1724678191.jpeg?s=e7f06e0ecbf4868ed99699e346a2a17ad3d5a18e",
+    "publicationDate": 1724678191
+  },
+  {
+    "_id": "b3d9159f-79eb-5187-8303-7fda52681b51",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4554602181-lego-ghostbusters-10274",
+    "price": 168.7,
+    "title": "Lego Ghostbusters 10274",
+    "imgUrl": "https://images1.vinted.net/t/01_00b73_DQqRWCuR5GFmPRirhC4qas9F/f800/1716707038.jpeg?s=1d8645acbc65d63fc1c569e2d47423bbc759171d",
+    "publicationDate": 1716707038
+  },
+  {
+    "_id": "fcd4073e-6b22-58c3-b064-d70de099c2a5",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4500705671-lego-ghostbusters-10274",
+    "price": 192.85,
+    "title": "Lego ghostbusters 10274",
+    "imgUrl": "https://images1.vinted.net/t/01_01297_nEvwV3rcUqid7Pai9mnat5pX/f800/1715668292.jpeg?s=506ba03436eb6bbc9ed968c54d8e74335c665ff6",
+    "publicationDate": 1715668292
+  },
+  {
+    "_id": "1e9e0578-314f-5c6e-9857-e1a3142d9c21",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/1870147034-lego-ghostbuster-10274-sigillato-misb",
+    "price": 231.7,
+    "title": "Lego ghostbuster 10274 sigillato misb",
+    "imgUrl": "https://images1.vinted.net/t/03_0072a_xUFxFbCHLZ6qN7rBSVUcXDfs/f800/1652869923.jpeg?s=37502c42fff773f343ae7ad9f6b843deb419e55a",
+    "publicationDate": 1652869923
+  },
+  {
+    "_id": "6c308f5e-423e-5e67-85aa-52fe250f42ba",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5031442222-lego-10274-ghostbusters-ecto-1-nieuw-ongeopende-set",
     "price": 200.2,
-    "title": "LEGO 10274 Ghostbusters ECTO-1",
-    "imgUrl": "https://images1.vinted.net/t/03_007d8_rvdCd4dHnVwRRAFKffhE5r7C/f800/1658913707.jpeg?s=408db3b96f4459ecef634a9b2644a4b3c1eb1ca6",
-    "publicationDate": 1658913707,
-    "id": 2062560647
+    "title": "Lego 10274 - Ghostbusters Ecto-1 - Nieuw - Ongeopende set",
+    "imgUrl": "https://images1.vinted.net/t/03_01be5_XcxhHAHUwcvJY5dt2XAQrLTC/f800/1726154955.jpeg?s=b3802e74f0d580a770ede1b10fc1eb9cc293169c",
+    "publicationDate": 1726154955
   },
   {
+    "_id": "16b89ac0-73c5-594f-b85f-8e10a483ec3c",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3900347273-lego-novo-ghostbusters-ecto-10274",
-    "price": 219.1,
-    "title": "Lego Novo Ghostbusters ECTO 10274",
-    "imgUrl": "https://images1.vinted.net/t/01_00ebf_NaFavSvzCqpfHq9ikspA6wTK/f800/1703150870.jpeg?s=ff83c45407fd8ddef95c0cc34b22bf8a390d8435",
-    "publicationDate": 1703150870,
-    "id": 3900347273
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2277244896-lego-10274-ghostbusters-ecto-1",
-    "price": 210.69,
-    "title": "Lego 10274 Ghostbusters Ecto 1",
-    "imgUrl": "https://images1.vinted.net/t/02_01720_t5v9E1XkdHpjNeEh8YNT6Y2w/f800/1664957994.jpeg?s=58e4a8a689b0a2342ec137c6722a707f73eee0a0",
-    "publicationDate": 1664957994,
-    "id": 2277244896
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2762789356-lego-10274-ghostbusters-ecto-1",
+    "link": "https://www.vinted.fr/items/4832954701-lego-ghostbusters-ecto-1-sos-fantomes-cadillac-miller-meteor-ref-10274-neuf",
     "price": 210.7,
-    "title": "LEGO 10274 - Ghostbusters Ecto-1",
-    "imgUrl": "https://images1.vinted.net/t/01_006df_DEPRByP7dknn8uak3TXfXQQS/f800/1678196844.jpeg?s=b319dad988dd6f35472594151ea98e8b08977d3e",
-    "publicationDate": 1678196844,
-    "id": 2762789356
+    "title": "Lego Ghostbusters - ECTO-1 SOS Fantômes Cadillac Miller-Meteor réf. 10274 Neuf",
+    "imgUrl": "https://images1.vinted.net/t/01_0098b_DfLb1tmxRd9KnSXV49WsZYgT/f800/1722497660.jpeg?s=e353c731a9728fe6f8674acc3b25069fb9a727c8",
+    "publicationDate": 1722497660
   },
   {
+    "_id": "a4f6b2f3-1443-590f-bc4e-9219ce39d767",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5261654302-lego-10274-ecto-1-afterlife",
+    "price": 194.95,
+    "title": "LEGO 10274 -Ecto 1 AfterLife",
+    "imgUrl": "https://images1.vinted.net/t/03_01dfa_XWmcTko7sX7dauBsSYfG6CgU/f800/1729611067.jpeg?s=1fe686d2582653b6b795779f832beabf2f52a077",
+    "publicationDate": 1729611067
+  },
+  {
+    "_id": "59368799-d873-5b04-86fb-b5d32ae579ef",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4346801426-lego-ghostbusters-ecto-1-10274",
+    "price": 210.7,
+    "title": "Lego Ghostbusters Ecto-1 10274",
+    "imgUrl": "https://images1.vinted.net/t/03_0085d_nokQXRwEwvoQJ2XXaLk6aUm5/f800/1712783421.jpeg?s=24608e83f4780a179114f7ca110f8d294cb0b3d0",
+    "publicationDate": 1712783421
+  },
+  {
+    "_id": "41c7843d-9d0d-51cd-949f-978a2976c971",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/2917112943-lego-10274-ghostbusters-ecto-1-misb",
     "price": 210.7,
     "title": "Lego 10274 Ghostbusters ECTO 1 Misb",
     "imgUrl": "https://images1.vinted.net/t/03_006fd_rsP3wtvwoz9CH3GsJmvRgBH7/f800/1681792635.jpeg?s=c6b923f7aa69e75a89679ac5a9deeae17f316c41",
-    "publicationDate": 1681792635,
-    "id": 2917112943
+    "publicationDate": 1681792635
   },
   {
+    "_id": "969b909f-4f72-5b17-b2c3-994a268f5716",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4965078961-lego-ghostbusters-ecto-1-10274",
+    "price": 210.7,
+    "title": "Lego Ghostbusters ECTO-1 10274",
+    "imgUrl": "https://images1.vinted.net/t/03_00320_u4vanmfSGC6Ro9e5ZhkpqEQG/f800/1725101340.jpeg?s=acfa6ccf8e6e7f852a342d5f8bb520f4547b8c95",
+    "publicationDate": 1725101340
+  },
+  {
+    "_id": "c11d7743-ea5b-597b-82fe-b991f5fa59eb",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5359229480-lego-10274-ecto-1-sos-fantomes",
+    "price": 210.7,
+    "title": "Lego 10274 ECTO-1 SOS fantômes",
+    "imgUrl": "https://images1.vinted.net/t/03_0236a_1pbqeTepGgDiZ8UvcskRjWtV/f800/1731249491.jpeg?s=63f6b07e90974f4b12103388ee58e5dc754ea2c5",
+    "publicationDate": 1731249491
+  },
+  {
+    "_id": "ac7c9bab-1649-5410-90eb-5d1585cbc8a7",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4478484889-lego-10274-gostbuster",
+    "price": 209.65,
+    "title": "Lego 10274 Gostbuster",
+    "imgUrl": "https://images1.vinted.net/t/03_01cb1_XtrM1wZ82RKsGkp2K2bKccL7/f800/1715238113.jpeg?s=a4aff2f351f5a84a71c621ae40622e7908f6a355",
+    "publicationDate": 1715238113
+  },
+  {
+    "_id": "e52b3283-2cb8-556b-b60d-494f564bb140",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5177978332-lego-10274-ecto-1-ghostbusters-ecto1",
+    "price": 209.65,
+    "title": "Lego 10274 ecto 1 Ghostbusters ecto1",
+    "imgUrl": "https://images1.vinted.net/t/01_01e15_haVFkta2mzc39SHyRge3SA66/f800/1728320865.jpeg?s=d4d714a54f75f0ac1f4cbe179f5ae4d0b5ae4edb",
+    "publicationDate": 1728320865
+  },
+  {
+    "_id": "6bb37826-b4b1-5102-870b-fdf0d1a448f8",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/3839439635-lego-10274-ghostbusters-ecto-1",
+    "price": 199.68,
+    "title": "Lego 10274 Ghostbusters Ecto-1",
+    "imgUrl": "https://images1.vinted.net/t/02_01b93_fGHpM6QisQGxanTXcqTCjNQe/f800/1701604680.jpeg?s=a6122f56c7785ffafe766150d983ce75b3942fa8",
+    "publicationDate": 1701604680
+  },
+  {
+    "_id": "deca32a9-f910-59b2-94f3-795ed89b8077",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4304686481-lego-ghostbusters-10274",
+    "price": 210.7,
+    "title": "Lego ghostbusters 10274",
+    "imgUrl": "https://images1.vinted.net/t/03_01892_f1RzMmdxtGkLy1TSYvmEL4it/f800/1712049316.jpeg?s=560b2f96c374db22b6f0801a69ec93e084025a71",
+    "publicationDate": 1712049316
+  },
+  {
+    "_id": "1c860272-38ed-5e5d-9dac-21c5c754abb2",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4288678709-lego-10274-ghostbusters",
+    "price": 200.2,
+    "title": "Lego 10274 Ghostbusters",
+    "imgUrl": "https://images1.vinted.net/t/03_01dcf_yftkymdwrKef4wFKhTfNtJtW/f800/1711723127.jpeg?s=be9376ce0b68b0877d11352396c75a90360f8702",
+    "publicationDate": 1711723127
+  },
+  {
+    "_id": "ad1f45a0-d565-5f8e-9165-4a9d6ba9fdfa",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4287577614-ecto-1-ghostbusters-lego-icons-10274",
+    "price": 305.2,
+    "title": "ECTO-1 Ghostbusters LEGO Icons 10274",
+    "imgUrl": "https://images1.vinted.net/t/03_00e42_N6uLjNyvrRQZzLQQ9BcsVep5/f800/1711710687.jpeg?s=b6b8a91c938c17059a1b6e1b08529aa11224235c",
+    "publicationDate": 1711710687
+  },
+  {
+    "_id": "56bad7b2-738d-5b15-8104-404c7b90c512",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5326645009-lego-ghostbuster-ecto1-10274",
+    "price": 210.7,
+    "title": "Lego - ghostbuster - ecto1 - #10274",
+    "imgUrl": "https://images1.vinted.net/t/02_01086_n9vH5AJLgFNLPjtva5qBJnEF/f800/1730668783.jpeg?s=4da79fe4679c24bc384f20ca7502a94019f8f9f8",
+    "publicationDate": 1730668783
+  },
+  {
+    "_id": "7d9cee07-b6b4-54ac-9850-6ac03c22527e",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4555227137-lego-ecto-1-21108-e-10274",
+    "price": 420.7,
+    "title": "Lego ECTO-1  21108 e 10274",
+    "imgUrl": "https://images1.vinted.net/t/03_022da_hjbdtx1DFP6JUuz67pFni5UV/f800/1716716333.jpeg?s=9658a23dfdca76a2f7b370c1772f99e9f6a8743d",
+    "publicationDate": 1716716333
+  },
+  {
+    "_id": "25ee501c-9a01-5336-b93a-fea2668a9ce9",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5104701714-lego-10274-ecto-1",
+    "price": 205.45,
+    "title": "Lego 10274 ECTO-1",
+    "imgUrl": "https://images1.vinted.net/t/01_00703_rPaKQU8zJeTTRVBcA1qGbNu5/f800/1727260117.jpeg?s=884c737137039efec84acbb5dfa4db14314e5b07",
+    "publicationDate": 1727260117
+  },
+  {
+    "_id": "e8ca64ee-89b4-5887-a297-76fbe38ec830",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4684546816-lego-10274-ghostbusters-ecto-1",
+    "price": 231.7,
+    "title": "LEGO 10274 Ghostbusters ECTO-1",
+    "imgUrl": "https://images1.vinted.net/t/02_01197_kVqFhFArwS6VJQBiXraAAiuF/f800/1719259478.jpeg?s=444ea16fa8327aee4be4d03cc7e298846770a30a",
+    "publicationDate": 1719259478
+  },
+  {
+    "_id": "df8442f8-875d-5b54-b3aa-19410d692cc5",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5360362348-lego-ghostbusters-10274-21108",
+    "price": 294.7,
+    "title": "Lego Ghostbusters 10274 - 21108",
+    "imgUrl": "https://images1.vinted.net/t/04_01bd5_PnxBNB51Y5itc22f2Pc9SYgC/f800/1731256135.jpeg?s=b29747ff66cfcc01258ade91a4c101b0da94f929",
+    "publicationDate": 1731256135
+  },
+  {
+    "_id": "ef8100e3-abec-502d-8bec-49ba25f00197",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/3526779526-moc-cadillac-cabriolet",
+    "price": 205.45,
+    "title": "MOC cadillac cabriolet",
+    "imgUrl": "https://images1.vinted.net/t/01_00b57_cqLqaNwM4Nfchw2zrkTE8hLf/f800/1700895128.jpeg?s=c7c8ca16642b3b1901d514ffb6dadbba2d20c9a3",
+    "publicationDate": 1700895128
+  },
+  {
+    "_id": "f59674d9-4381-52fd-9b32-5ccded0c85e7",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5110642842-lego-creator-expert-ghostbusters-ecto-1-10274",
+    "price": 168.7,
+    "title": "LEGO Creator Expert Ghostbusters ECTO-1 - 10274",
+    "imgUrl": "https://images1.vinted.net/t/01_0201d_EdzSYzTq5CDEAnar9bBHeCFR/f800/1727351548.jpeg?s=3c6b39d7dfaba6b7ab809d600866cd43ec5a21fb",
+    "publicationDate": 1727351548
+  },
+  {
+    "_id": "fc99a9f7-8c46-5bc1-8b92-534627002bac",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5327054450-lego-ghostbusters-ecto-1-10274-2532-pieces",
+    "price": 210.7,
+    "title": "Lego Ghostbusters Ecto-1 10274 2532 Pieces",
+    "imgUrl": "https://images1.vinted.net/t/04_004ad_89uSC4rAH2YKBebfB784fZ8j/f800/1730690396.jpeg?s=69932b74eba50720351852a733ac192b18b5933e",
+    "publicationDate": 1730690396
+  },
+  {
+    "_id": "7688899e-11ab-5442-90b6-c4be8865e4ae",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4546442410-set-lego-10274-ecto-1-ghostbusters",
+    "price": 210.7,
+    "title": "Set lego 10274 ecto-1 Ghostbusters",
+    "imgUrl": "https://images1.vinted.net/t/03_01343_owLz4je1Gw4qsBvELsxdXJPD/f800/1716500246.jpeg?s=221319c7d2cd0bc6527cc4e9a1d68c98dd8e3ae0",
+    "publicationDate": 1716500246
+  },
+  {
+    "_id": "2b87e16e-1df4-5f60-beca-b06dda58d2be",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/2251161337-lego-ghostbusters-10274",
     "price": 221.2,
     "title": "Lego Ghostbusters 10274",
     "imgUrl": "https://images1.vinted.net/t/01_0039b_qeTAAtD1e4d91b1hzs1TAgwU/f800/1664362812.jpeg?s=0cfc5a89c8b3d59cbc783c64f179e5c72a71ee12",
-    "publicationDate": 1664362812,
-    "id": 2251161337
+    "publicationDate": 1664362812
   },
   {
+    "_id": "9f9dfc96-5c19-5360-8954-23658fce5622",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3910355921-lego-10274-ecto-1-ghostbusters",
-    "price": 242.2,
-    "title": "Lego 10274 ECTO-1 Ghostbusters",
-    "imgUrl": "https://images1.vinted.net/t/02_013db_rECGB9dZPQBxfJhn8HHy5XBv/f800/1703631551.jpeg?s=d54cfaa0b7ffe4608508d1e09e96e84401772c1f",
-    "publicationDate": 1703631551,
-    "id": 3910355921
+    "link": "https://www.vinted.fr/items/4337060624-ecto1",
+    "price": 200.2,
+    "title": "Ecto1",
+    "imgUrl": "https://images1.vinted.net/t/02_025a9_N78ucZJjcqARGjgx8VW788jn/f800/1712605741.jpeg?s=90de0733e936158c76c6262462302b29211a43a3",
+    "publicationDate": 1712605741
   },
   {
+    "_id": "1ee82885-4838-5fea-8d4d-ec41470578db",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2084357237-ecco-1-ghostbuster-lego-10274",
-    "price": 226.45,
-    "title": "Ecco-1 ghostbuster Lego 10274",
-    "imgUrl": "https://images1.vinted.net/t/01_00242_o6KKYWafaiLwrtpR5YwGg6Bt/f800/1659721651.jpeg?s=27a641c4fe83e9669a2648431a4fdac5e7b8d6cd",
-    "publicationDate": 1659721651,
-    "id": 2084357237
+    "link": "https://www.vinted.fr/items/3856358440-lego-icons-ghostbusters-10274",
+    "price": 200.2,
+    "title": "LEGO Icons Ghostbusters 10274",
+    "imgUrl": "https://images1.vinted.net/t/03_005dc_6M5pNcPDQxvU5uFhGbe7dfS2/f800/1701968061.jpeg?s=2d81ea8e71391609698a007fa8212a4015790e07",
+    "publicationDate": 1701968061
   },
   {
+    "_id": "cdf918a2-eaab-5947-9fa9-7a21f8b0b429",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3368342924-lego-ghostbuster-10274-18",
-    "price": 242.2,
-    "title": "Lego Ghostbuster 10274 18+",
-    "imgUrl": "https://images1.vinted.net/t/03_01419_aV47adFqUspwVoH7dpsuJNZa/f800/1692462526.jpeg?s=ed37941b51c4d10749d56885a83352877b827a9d",
-    "publicationDate": 1692462526,
-    "id": 3368342924
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/4817360279-lego-10274-ghostbusters-ecto-1-nuovo-misb",
-    "price": 210.69,
-    "title": "Lego 10274 Ghostbusters Ecto-1 - Nuovo - Misb",
-    "imgUrl": "https://images1.vinted.net/t/01_00fb8_uBfz9HnYYmbZjHM2wqTH4K1Q/f800/1722153907.jpeg?s=ae910ff94d03e17a6f4b827e224da35091c4a4cc",
-    "publicationDate": 1722153907,
-    "id": 4817360279
-  },
-  {
-    "legoId": "10274",
-    "link": "https://www.vinted.fr/items/2640491457-lego-10274-ghostbusters-ecto-1",
+    "link": "https://www.vinted.fr/items/2762789356-lego-10274-ghostbusters-ecto-1",
     "price": 210.7,
-    "title": "Lego 10274 Ghostbusters ECTO-1",
-    "imgUrl": "https://images1.vinted.net/t/02_01795_tn33LPSxou84YGWR1JLo639r/f800/1675059879.jpeg?s=f2d8720fb76ad86200be19515a22b0566a32eeb5",
-    "publicationDate": 1675059879,
-    "id": 2640491457
+    "title": "LEGO 10274 - Ghostbusters Ecto-1",
+    "imgUrl": "https://images1.vinted.net/t/01_006df_DEPRByP7dknn8uak3TXfXQQS/f800/1678196844.jpeg?s=b319dad988dd6f35472594151ea98e8b08977d3e",
+    "publicationDate": 1678196844
   },
   {
+    "_id": "a123ae03-fce1-5f5d-8f8a-c1755742ec1e",
     "legoId": "10274",
-    "link": "https://www.vinted.fr/items/3428705562-lego-ecto-1-e-nintendo",
-    "price": 315.7,
-    "title": "Lego ecto 1 e Nintendo ",
-    "imgUrl": "https://images1.vinted.net/t/03_01e60_9BMXhYqhbukYoT6hczTvLHGJ/f800/1693738434.jpeg?s=c48a641af46b379060a462871bc44ed7cc1ee894",
-    "publicationDate": 1693738434,
-    "id": 3428705562
+    "link": "https://www.vinted.fr/items/2472215058-lego-10274-ecto-1-sos-fantomes-neuf-scelle",
+    "price": 210.7,
+    "title": "Lego 10274 - ECTO-1 SOS Fantômes - Neuf & scellé",
+    "imgUrl": "https://images1.vinted.net/t/02_00e99_f3RnCPzNH38d57JR5yGPmeZk/f800/1669846221.jpeg?s=2fa2ca710d27cea8c4b23ca80943a651427f8a5c",
+    "publicationDate": 1669846221
   },
   {
+    "_id": "f3e696ce-8394-545f-8c3f-9339efce50c3",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4960436412-lego-10274-ecto-1-ghostbusters",
+    "price": 189.7,
+    "title": "Lego 10274 Ecto 1 Ghostbusters",
+    "imgUrl": "https://images1.vinted.net/t/02_00c57_Sx4a4afvLNaR3EWzMM5ZXSD9/f800/1725012205.jpeg?s=5b58144cd4ccf3a1973d84aaaaff163540d0042b",
+    "publicationDate": 1725012205
+  },
+  {
+    "_id": "53fe4383-c2a9-5db4-8921-c30f8d28ada2",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/2945575585-lego-creator-expert-10274-ecto-1-ghostbusters",
     "price": 210.7,
     "title": "LEGO Creator Expert 10274 Ecto-1 Ghostbusters",
     "imgUrl": "https://images1.vinted.net/t/03_01631_rtVYX7Qf7eszuZifjQabDRFR/f800/1682434559.jpeg?s=f36b656c996dad30e33a9174ecf1a32bfb56ff39",
-    "publicationDate": 1682434559,
-    "id": 2945575585
+    "publicationDate": 1682434559
   },
   {
+    "_id": "477f6a06-d864-5038-bb10-9e61d2763c10",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4447611102-lego-10274-ecto-1-lego-brickheadz-41622",
+    "price": 263.2,
+    "title": "LEGO 10274 - Ecto 1 + LEGO Brickheadz 41622",
+    "imgUrl": "https://images1.vinted.net/t/02_01295_sMcmD75RooFXfFLsAXFA4LmE/f800/1714660613.jpeg?s=87deed2de8f6c7b636b5a4f2b97ffed457bb7dc4",
+    "publicationDate": 1714660613
+  },
+  {
+    "_id": "d601ac87-c4c7-5b78-9ff0-07b11e100d3b",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/3900347273-lego-novo-ghostbusters-ecto-10274",
+    "price": 219.1,
+    "title": "Lego Novo Ghostbusters ECTO 10274",
+    "imgUrl": "https://images1.vinted.net/t/01_00ebf_NaFavSvzCqpfHq9ikspA6wTK/f800/1703150870.jpeg?s=ff83c45407fd8ddef95c0cc34b22bf8a390d8435",
+    "publicationDate": 1703150870
+  },
+  {
+    "_id": "5cf1958b-5520-5b53-aa5a-3f035650286b",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/2507316519-lego-10274-ghostbusters",
+    "price": 209.65,
+    "title": "Lego 10274 Ghostbusters ",
+    "imgUrl": "https://images1.vinted.net/t/03_022da_6UC4YZ5ZXigAzjXf8VpQYtJ7/f800/1670883895.jpeg?s=1c1014c168f71134b3591e347aa43258e289782a",
+    "publicationDate": 1670883895
+  },
+  {
+    "_id": "9ff97d41-7434-5399-90a5-4ae83213a024",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/2062560647-lego-10274-ghostbusters-ecto-1",
+    "price": 200.2,
+    "title": "LEGO 10274 Ghostbusters ECTO-1",
+    "imgUrl": "https://images1.vinted.net/t/03_007d8_rvdCd4dHnVwRRAFKffhE5r7C/f800/1658913707.jpeg?s=408db3b96f4459ecef634a9b2644a4b3c1eb1ca6",
+    "publicationDate": 1658913707
+  },
+  {
+    "_id": "2b151b64-d2a0-5bd8-9851-e8545ee27aa9",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/3368342924-lego-ghostbuster-10274-18",
+    "price": 242.2,
+    "title": "Lego Ghostbuster 10274 18+",
+    "imgUrl": "https://images1.vinted.net/t/03_01419_aV47adFqUspwVoH7dpsuJNZa/f800/1692462526.jpeg?s=ed37941b51c4d10749d56885a83352877b827a9d",
+    "publicationDate": 1692462526
+  },
+  {
+    "_id": "dd17ad12-5beb-5bb4-a323-f1518950630a",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/3306560448-lego-10274-ghostbusters-ecto-1-nuovissima-sigillata",
+    "price": 221.2,
+    "title": "Lego 10274 ghostbusters ecto-1 nuovissima sigillata ",
+    "imgUrl": "https://images1.vinted.net/t/03_01abc_CgPFbTidwu1Fg3Kufz9nXPN1/f800/1690995179.jpeg?s=be4cdab561248e897eaf87995d3f75226108119b",
+    "publicationDate": 1690995179
+  },
+  {
+    "_id": "dd17ad12-5beb-5bb4-a323-f1518950630a",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/3306560448-lego-10274-ghostbusters-ecto-1-nuovissima-sigillata",
+    "price": 221.2,
+    "title": "Lego 10274 ghostbusters ecto-1 nuovissima sigillata ",
+    "imgUrl": "https://images1.vinted.net/t/03_01abc_CgPFbTidwu1Fg3Kufz9nXPN1/f800/1690995179.jpeg?s=be4cdab561248e897eaf87995d3f75226108119b",
+    "publicationDate": 1690995179
+  },
+  {
+    "_id": "ff9145d5-f1bc-58aa-a9ff-140699074eda",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/2473959092-lego-10274-ghostbusters-ecto1",
+    "price": 210.7,
+    "title": "Lego 10274 Ghostbusters ecto1",
+    "imgUrl": "https://images1.vinted.net/t/01_00a6c_sqZPY357JqLJCSGjmzhdoyFz/f800/1669911084.jpeg?s=1ec46964a2cfbdde5618d598fc367b7ef47a02ef",
+    "publicationDate": 1669911084
+  },
+  {
+    "_id": "dfef76d0-ccd5-5ced-883e-790efd7e260a",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4359772601-lego-10274-ecto-1-nuovo",
+    "price": 210.7,
+    "title": "Lego 10274 ecto 1 nuovo",
+    "imgUrl": "https://images1.vinted.net/t/01_019f0_wJcEWsTm1typATBwC1rJ8qYt/f800/1713074564.jpeg?s=ded09f9065664391f7fc6b8601a50e2e55643ce2",
+    "publicationDate": 1713074564
+  },
+  {
+    "_id": "15656b4c-15a1-58c1-ac0f-e9bccf490fcb",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/1796006652-lego-ideas-10274",
+    "price": 221.2,
+    "title": "LEGO Ideas 10274",
+    "imgUrl": "https://images1.vinted.net/t/01_00546_uPXsmbvhDDd1egLQF7tMFZ3G/f800/1651196294.jpeg?s=4882430d10e53b5f11e306092fe0a10cfb3f018d",
+    "publicationDate": 1651196294
+  },
+  {
+    "_id": "1998de96-a429-54a1-9a68-49a40963dead",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/5140855965-lego-10274-ghostbuster-ecto-1-precintado",
+    "price": 262.15,
+    "title": "LEGO 10274 ghostbuster ecto-1 Precintado",
+    "imgUrl": "https://images1.vinted.net/t/03_022db_kQKw4LLrExbkuAp4NEC6BgtE/f800/1727788517.jpeg?s=80ebe139acbc25c2acf81d0fba15b03afc56befc",
+    "publicationDate": 1727788517
+  },
+  {
+    "_id": "d025d454-a6ab-54eb-ab44-f626fd2e3fd9",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/2444713487-lego-ghostbusters-ecto-1-10274",
+    "price": 273.7,
+    "title": "Lego Ghostbusters ecto-1 10274",
+    "imgUrl": "https://images1.vinted.net/t/01_0227a_nza3MJANgLYebzBS55BeNepp/f800/1669118888.jpeg?s=6d57d43ed8d1d0be0f3e5f4d7fa4918251b30bba",
+    "publicationDate": 1669118888
+  },
+  {
+    "_id": "a1f53519-0f49-5442-9f2e-f8ac43987bcc",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/2698955819-lego-10274-ghostbusters-ecto-1-misb",
+    "price": 220.15,
+    "title": "Lego 10274 ghostbusters ECTO-1 misb",
+    "imgUrl": "https://images1.vinted.net/t/02_01b02_2doaxhQt2vVRaDh27CaS8g2E/f800/1676624803.jpeg?s=b64ddc6454a1dd938d01c46fa1caac23db73aa7b",
+    "publicationDate": 1676624803
+  },
+  {
+    "_id": "d57de435-baec-51f9-9914-b4004b368e29",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/3287210123-lego-10274-ecto-1",
+    "price": 210.7,
+    "title": "Lego 10274 - ECTO-1",
+    "imgUrl": "https://images1.vinted.net/t/02_01f4e_6J7cVKNVxJSpGhuLgyY8G5VE/f800/1690554274.jpeg?s=4fca45a935930a254f15e7ac4a4ca0d738ba26ed",
+    "publicationDate": 1690554274
+  },
+  {
+    "_id": "abc7273f-f642-52cc-a479-c58ab57ff932",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/3978732322-ecto-1-ghostbusters-lego-10274",
+    "price": 252.7,
+    "title": "Ecto-1 Ghostbusters Lego 10274",
+    "imgUrl": "https://images1.vinted.net/t/03_024a0_uj7kbYKWwp6jvuRHperB4PKw/f800/1705249272.jpeg?s=3766db1419165ddb35bc3f61756e0653d7e664ed",
+    "publicationDate": 1705249272
+  },
+  {
+    "_id": "70f8cfdd-4aee-5a32-ba91-a4aa877677c3",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/3570947169-lego-ghostbusters-ecto-1-10274-prossimamente-va-fuori-produzione",
+    "price": 224.35,
+    "title": "lego - ghostbusters - ecto-1 - 10274 prossimamente va fuori produzione.!",
+    "imgUrl": "https://images1.vinted.net/t/02_0101e_BvhruDDdVBzHYirBnKj4pR22/f800/1696606170.jpeg?s=e7ec9b0a7799614605353639f3a7d5712a105b74",
+    "publicationDate": 1696606170
+  },
+  {
+    "_id": "913f67be-33cc-53d6-ace8-516ead5c650b",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/3752495438-lego-ghostbusters",
+    "price": 210.7,
+    "title": "Lego ghostbusters ",
+    "imgUrl": "https://images1.vinted.net/t/01_01f57_3y9EXeCpsaDUCfLjJfZdy4rc/f800/1699826736.jpeg?s=c1b53a4c1ab9eb8857e945dcb3a72342fbee28fb",
+    "publicationDate": 1699826736
+  },
+  {
+    "_id": "08b05531-c19c-5a22-940f-4d39f0117d02",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/2703046087-lego-10274-ghostbusters-ecto-1-misb",
+    "price": 210.7,
+    "title": "Lego 10274 Ghostbusters Ecto-1 MISB",
+    "imgUrl": "https://images1.vinted.net/t/02_020c6_WXPFG3H86KYY8Y4zctNEcMRv/f800/1676727835.jpeg?s=2f78b2ff0d0eed1c80bda02ad2d7bfe659b06974",
+    "publicationDate": 1676727835
+  },
+  {
+    "_id": "d40aa270-d5b2-59e2-9693-d198c42ca99d",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/3428705562-lego-ecto-1-e-nintendo",
+    "price": 315.7,
+    "title": "Lego ecto 1 e Nintendo ",
+    "imgUrl": "https://images1.vinted.net/t/03_01e60_9BMXhYqhbukYoT6hczTvLHGJ/f800/1693738434.jpeg?s=c48a641af46b379060a462871bc44ed7cc1ee894",
+    "publicationDate": 1693738434
+  },
+  {
+    "_id": "6ad28f92-8f56-5b94-b7b0-eec9b168c7c0",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/3910355921-lego-10274-ecto-1-ghostbusters",
+    "price": 242.2,
+    "title": "Lego 10274 ECTO-1 Ghostbusters",
+    "imgUrl": "https://images1.vinted.net/t/02_013db_rECGB9dZPQBxfJhn8HHy5XBv/f800/1703631551.jpeg?s=d54cfaa0b7ffe4608508d1e09e96e84401772c1f",
+    "publicationDate": 1703631551
+  },
+  {
+    "_id": "46c49bf0-56af-55c7-be69-6557907e869f",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/4817360279-lego-10274-ghostbusters-ecto-1-nuovo-misb",
+    "price": 210.69,
+    "title": "Lego 10274 Ghostbusters Ecto-1 - Nuovo - Misb",
+    "imgUrl": "https://images1.vinted.net/t/01_00fb8_uBfz9HnYYmbZjHM2wqTH4K1Q/f800/1722153907.jpeg?s=ae910ff94d03e17a6f4b827e224da35091c4a4cc",
+    "publicationDate": 1722153907
+  },
+  {
+    "_id": "7b2ef90a-1e20-5df8-9e4f-e0c676132ade",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/2477171766-lego-10274-ghostbusters",
+    "price": 184.45,
+    "title": "Lego 10274 ghostbusters",
+    "imgUrl": "https://images1.vinted.net/t/03_008c7_sogFehJZfy7CRpvciS6DJuvR/f800/1670009417.jpeg?s=3fc94fa635e8cdb113aec5ba455705ac37a48463",
+    "publicationDate": 1670009417
+  },
+  {
+    "_id": "deeb8e83-9bf4-5701-83d5-992d78b9f60e",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/2640491457-lego-10274-ghostbusters-ecto-1",
+    "price": 210.7,
+    "title": "Lego 10274 Ghostbusters ECTO-1",
+    "imgUrl": "https://images1.vinted.net/t/02_01795_tn33LPSxou84YGWR1JLo639r/f800/1675059879.jpeg?s=f2d8720fb76ad86200be19515a22b0566a32eeb5",
+    "publicationDate": 1675059879
+  },
+  {
+    "_id": "da0199a1-6a04-5050-a8fe-1368b0c866ee",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/2084357237-ecco-1-ghostbuster-lego-10274",
+    "price": 226.45,
+    "title": "Ecco-1 ghostbuster Lego 10274",
+    "imgUrl": "https://images1.vinted.net/t/01_00242_o6KKYWafaiLwrtpR5YwGg6Bt/f800/1659721651.jpeg?s=27a641c4fe83e9669a2648431a4fdac5e7b8d6cd",
+    "publicationDate": 1659721651
+  },
+  {
+    "_id": "2a9a9f5b-85d3-5c22-aaeb-ee036cdd4160",
+    "legoId": "10274",
+    "link": "https://www.vinted.fr/items/2277244896-lego-10274-ghostbusters-ecto-1",
+    "price": 210.69,
+    "title": "Lego 10274 Ghostbusters Ecto 1",
+    "imgUrl": "https://images1.vinted.net/t/02_01720_t5v9E1XkdHpjNeEh8YNT6Y2w/f800/1664957994.jpeg?s=58e4a8a689b0a2342ec137c6722a707f73eee0a0",
+    "publicationDate": 1664957994
+  },
+  {
+    "_id": "c1ad7014-432b-5d87-b247-e456a5cfe924",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/1778055972-lego-ecto-1-cazafantasmas",
     "price": 305.2,
     "title": "Lego Ecto-1 Cazafantasmas",
     "imgUrl": "https://images1.vinted.net/t/03_0133b_Xw2WACfqFDAt4ouzoU8hJXFh/f800/1650545871.jpeg?s=a6a317be8c32e5df0bde58d7924e78e4841c9139",
-    "publicationDate": 1650545871,
-    "id": 1778055972
+    "publicationDate": 1650545871
   },
   {
+    "_id": "328697c3-0581-5aca-984a-f9004ed68441",
     "legoId": "10274",
     "link": "https://www.vinted.fr/items/790708272-lego-10274-ghostbusters-ecto1-mit-poster-inkl-versand",
     "price": 268.45,
     "title": "Lego 10274 Ghostbusters Ecto1 mit Poster inkl. Versand ",
     "imgUrl": "https://images1.vinted.net/t/02_02151_WsqbXirwNm4PnamgNguZHXPV/f800/1607537604.jpeg?s=d8aa12cbefbbd029ebbf9806cb5be4c35aa3ad68",
-    "publicationDate": 1607537604,
-    "id": 790708272
+    "publicationDate": 1607537604
   }
 ]

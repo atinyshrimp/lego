@@ -1,173 +1,191 @@
 [
   {
+    "_id": "aede4ced-762b-516e-9f44-c58096db2001",
+    "legoId": "10306",
+    "link": "https://www.vinted.fr/items/5415726714-livret-dinstruction-lego-atari-10306",
+    "price": 5.95,
+    "title": "Livret d'instruction Lego Atari 10306",
+    "imgUrl": "https://images1.vinted.net/t/04_00fbe_ASwD62yYe5g1DsWL4mgQM6Ad/f800/1732123388.jpeg?s=86517bd46acb50bc3416d99cf8f2360e5b4dbadf",
+    "publicationDate": 1732123388
+  },
+  {
+    "_id": "6f4dbae1-fc86-54d1-ab44-936c082f14ee",
     "legoId": "10306",
     "link": "https://www.vinted.fr/items/5294415578-lego-figurine-atari-provenant-du-set-10306-lego-atari-2600",
     "price": 32.2,
     "title": "Lego. Figurine Atari. Provenant du set 10306. Lego Atari 2600.",
     "imgUrl": "https://images1.vinted.net/t/03_0049e_rSwN1daR6goFoZUJsFb1Z7nd/f800/1730140613.jpeg?s=99b14e882fe4e198a870f8c80705469768393daa",
-    "publicationDate": 1730140613,
-    "id": 5294415578
+    "publicationDate": 1730140613
   },
   {
+    "_id": "0ff1f422-8b52-5d21-afaa-0c93a2291b28",
     "legoId": "10306",
-    "link": "https://www.vinted.fr/items/5315430320-lego-10306-atari",
-    "price": 210.7,
-    "title": "Lego 10306 atari",
-    "imgUrl": "https://images1.vinted.net/t/01_01764_VkxeT2eC1ypdHQNSronscejq/f800/1730543593.jpeg?s=c428afec95c1259f1851230ae4a7ddd1597136d2",
-    "publicationDate": 1730543593,
-    "id": 5315430320
+    "link": "https://www.vinted.fr/items/5385866423-lego-10306",
+    "price": 200.2,
+    "title": "Lego 10306",
+    "imgUrl": "https://images1.vinted.net/t/04_014c6_5a1HdSCJt5uzdHbKSc1UqdeT/f800/1731995373.jpeg?s=cc3f7661750c5f02a9bb5e206729df1310c2f329",
+    "publicationDate": 1731995373
   },
   {
-    "legoId": "10306",
-    "link": "https://www.vinted.fr/items/5322621109-lego-icons-10306",
-    "price": 194.95,
-    "title": "LEGO Icons 10306",
-    "imgUrl": "https://images1.vinted.net/t/04_00542_8EUgZAygpJJcJdDozHeJCqYk/f800/1730639934.jpeg?s=364f2c01d8b688743ff54d254f2aa18bc95c2568",
-    "publicationDate": 1730639934,
-    "id": 5322621109
-  },
-  {
-    "legoId": "10306",
-    "link": "https://www.vinted.fr/items/5364366334-lego-10306-atari-2600",
-    "price": 210.7,
-    "title": "Lego 10306 : Atari 2600",
-    "imgUrl": "https://images1.vinted.net/t/04_0242a_XURPcKvgDcQdjh3BPga4sVBq/f800/1731323918.jpeg?s=a2a92587f22848cb1ce96bdc0f21afe7ecc9ef90",
-    "publicationDate": 1731323918,
-    "id": 5364366334
-  },
-  {
+    "_id": "5d6da18f-c443-53fd-ad70-0cb2720e642d",
     "legoId": "10306",
     "link": "https://www.vinted.fr/items/3654430956-lego-icons-10306-atari-2600",
     "price": 179.2,
     "title": "Lego icons 10306 ATARI 2600",
     "imgUrl": "https://images1.vinted.net/t/03_01c85_NXiBd1z79PKyPftvBEMbtHsb/f800/1698075765.jpeg?s=fa43b7174bdbb712efc1b67c71aae6c24c41c18e",
-    "publicationDate": 1698075765,
-    "id": 3654430956
+    "publicationDate": 1698075765
   },
   {
+    "_id": "cb603423-e1d9-5c70-9562-0085c890af57",
+    "legoId": "10306",
+    "link": "https://www.vinted.fr/items/5322621109-lego-icons-10306",
+    "price": 194.95,
+    "title": "LEGO Icons 10306",
+    "imgUrl": "https://images1.vinted.net/t/04_00542_8EUgZAygpJJcJdDozHeJCqYk/f800/1730639934.jpeg?s=364f2c01d8b688743ff54d254f2aa18bc95c2568",
+    "publicationDate": 1730639934
+  },
+  {
+    "_id": "9e8c9cad-6db0-5b04-abc1-7bc0ae7a3ad9",
+    "legoId": "10306",
+    "link": "https://www.vinted.fr/items/5435911521-lego-10306-atari-2600",
+    "price": 210.7,
+    "title": "Lego 10306 Atari 2600",
+    "imgUrl": "https://images1.vinted.net/t/04_00754_qXiLjYntwLfBjirDV9jk45jQ/f800/1732463246.jpeg?s=4d1fb35b15645a2a0dde01bbeaa1155b3f4ca5f8",
+    "publicationDate": 1732463246
+  },
+  {
+    "_id": "65e72108-08c1-52f9-8999-8d99f1f7337b",
+    "legoId": "10306",
+    "link": "https://www.vinted.fr/items/5315430320-lego-10306-atari",
+    "price": 210.7,
+    "title": "Lego 10306 atari",
+    "imgUrl": "https://images1.vinted.net/t/01_01764_VkxeT2eC1ypdHQNSronscejq/f800/1730543593.jpeg?s=c428afec95c1259f1851230ae4a7ddd1597136d2",
+    "publicationDate": 1730543593
+  },
+  {
+    "_id": "8290575e-e6ec-5b37-9593-416e79788368",
     "legoId": "10306",
     "link": "https://www.vinted.fr/items/5147271083-lego-10306-nuovo",
     "price": 184.45,
     "title": "Lego 10306 nuovo",
     "imgUrl": "https://images1.vinted.net/t/02_00eb6_JnyUKWHKxb6XifpPD7rqGts7/f800/1727883206.jpeg?s=ddc026ad98824dd76de48adad3e0657312a459ef",
-    "publicationDate": 1727883206,
-    "id": 5147271083
+    "publicationDate": 1727883206
   },
   {
+    "_id": "52d7647e-5823-5508-9b80-658f248dd4a0",
     "legoId": "10306",
-    "link": "https://www.vinted.fr/items/5375713878-sets-lego-scelles",
-    "price": 315.7,
-    "title": "Sets Lego scellés",
-    "imgUrl": "https://images1.vinted.net/t/04_01e1d_dN6NDKD7zkHGF9xSY6QWBSgc/f800/1731497065.jpeg?s=8740fab934e123f77c5b238f429ce0156eb2e889",
-    "publicationDate": 1731497065,
-    "id": 5375713878
+    "link": "https://www.vinted.fr/items/5372066085-neuf-lego-icons-10306-atari-2600",
+    "price": 252.7,
+    "title": "Neuf LEGO Icons 10306 Atari 2600",
+    "imgUrl": "https://images1.vinted.net/t/04_014cc_9Qaez9WWy46vG3DTMCA6Sbbt/f800/1731424459.jpeg?s=cd2cca478d863121d8f8512c4e5822161b2978db",
+    "publicationDate": 1731424459
   },
   {
+    "_id": "cc7cf2eb-317b-527a-bb3d-49361607c0f9",
     "legoId": "10306",
-    "link": "https://www.vinted.fr/items/5367569395-set-lego-console-atari",
-    "price": 289.45,
-    "title": "Set Lego console Atari",
-    "imgUrl": "https://images1.vinted.net/t/03_010b8_a6zRaDRrSph5GCVcEFCsCEH9/f800/1731345842.jpeg?s=cdade9f9520437ba17c368269ff8200e2cfc76c3",
-    "publicationDate": 1731345842,
-    "id": 5367569395
+    "link": "https://www.vinted.fr/items/5364366334-lego-10306-atari-2600",
+    "price": 210.7,
+    "title": "Lego 10306 : Atari 2600",
+    "imgUrl": "https://images1.vinted.net/t/04_0242a_XURPcKvgDcQdjh3BPga4sVBq/f800/1731323918.jpeg?s=a2a92587f22848cb1ce96bdc0f21afe7ecc9ef90",
+    "publicationDate": 1731323918
   },
   {
+    "_id": "31452a08-d390-5d8f-8f07-17080ea5893b",
     "legoId": "10306",
     "link": "https://www.vinted.fr/items/3702166172-lego-icons-10306-atari-2600",
     "price": 189.7,
     "title": "LEGO Icons 10306 - Atari 2600",
     "imgUrl": "https://images1.vinted.net/t/02_0263f_dCX9uh3QwaTdH43afpkBtx3o/f800/1698949770.jpeg?s=9c9a4c1fa5debfea27b1ddf93c73a745a60af7b2",
-    "publicationDate": 1698949770,
-    "id": 3702166172
+    "publicationDate": 1698949770
   },
   {
-    "legoId": "10306",
-    "link": "https://www.vinted.fr/items/3262669270-lego-10306-atari-2600",
-    "price": 210.7,
-    "title": "Lego 10306 Atari 2600",
-    "imgUrl": "https://images1.vinted.net/t/02_01eb2_miT1WDRzmSKWrv5dCsfmDDzs/f800/1689939006.jpeg?s=bff168ae1b9771b7f7ca4ea16a87cfa6d09f7ba2",
-    "publicationDate": 1689939006,
-    "id": 3262669270
-  },
-  {
-    "legoId": "10306",
-    "link": "https://www.vinted.fr/items/4749816488-lego-10306-neuf-atari-video-computer-system",
-    "price": 200.2,
-    "title": "Lego 10306 neuf Atari Video computer system",
-    "imgUrl": "https://images1.vinted.net/t/01_023f9_FBaTvyBM8cavKYstfkD2Sr55/f800/1720640480.jpeg?s=e217d82730c2e942f9198a2a245b2c2a05c7663a",
-    "publicationDate": 1720640480,
-    "id": 4749816488
-  },
-  {
-    "legoId": "10306",
-    "link": "https://www.vinted.fr/items/4644217837-lego-10306-atari",
-    "price": 200.2,
-    "title": "Lego 10306 Atari",
-    "imgUrl": "https://images1.vinted.net/t/03_0004f_KDWiCzLwMAkj6KafGChsmqqm/f800/1718447597.jpeg?s=24e2e13fa93c4b86dc5afa7307edceb91bcc1718",
-    "publicationDate": 1718447597,
-    "id": 4644217837
-  },
-  {
-    "legoId": "10306",
-    "link": "https://www.vinted.fr/items/4710675692-lego-icons-10306-atari-2600-video-computer-system-misb",
-    "price": 179.2,
-    "title": "Lego Icons 10306 Atari 2600 Video Computer System MISB",
-    "imgUrl": "https://images1.vinted.net/t/01_00ca4_LndJn3qp9JYad35tysBQvWt6/f800/1719850583.jpeg?s=e4318d1f0860b94f3ed04342787f34253328f2fd",
-    "publicationDate": 1719850583,
-    "id": 4710675692
-  },
-  {
-    "legoId": "10306",
-    "link": "https://www.vinted.fr/items/4605575009-lego-atari-10306-neu",
-    "price": 231.7,
-    "title": "Lego Atari 10306 neu!",
-    "imgUrl": "https://images1.vinted.net/t/02_00825_ihqKJEcf6uFMYciDwwoacwfi/f800/1717666421.jpeg?s=c7eaa126fd30f98ee6daa119bcf08c24845199f0",
-    "publicationDate": 1717666421,
-    "id": 4605575009
-  },
-  {
-    "legoId": "10306",
-    "link": "https://www.vinted.fr/items/4662544288-lego-10306-atari-video-computer-system",
-    "price": 202.3,
-    "title": "Lego 10306 Atari video computer system",
-    "imgUrl": "https://images1.vinted.net/t/02_00475_uQjga2CbcZo2XXZ3PvyALQki/f800/1718801424.jpeg?s=9f1385f4602ef22545852d3088264fd5c4ae3cdf",
-    "publicationDate": 1718801424,
-    "id": 4662544288
-  },
-  {
+    "_id": "c5315b1c-0648-5fa1-9b3f-c57c428ecf78",
     "legoId": "10306",
     "link": "https://www.vinted.fr/items/4785513058-lego-10306",
     "price": 210.7,
     "title": "Lego 10306",
     "imgUrl": "https://images1.vinted.net/t/02_00cba_FDXMaQPo4boQQDgcKHLn4yWz/f800/1721461030.jpeg?s=248b670dd5208f07f783ed88b0cd394334888b46",
-    "publicationDate": 1721461030,
-    "id": 4785513058
+    "publicationDate": 1721461030
   },
   {
+    "_id": "b0d36529-043a-55e3-a05a-c2e3921e5a71",
+    "legoId": "10306",
+    "link": "https://www.vinted.fr/items/4662544288-lego-10306-atari-video-computer-system",
+    "price": 202.3,
+    "title": "Lego 10306 Atari video computer system",
+    "imgUrl": "https://images1.vinted.net/t/02_00475_uQjga2CbcZo2XXZ3PvyALQki/f800/1718801424.jpeg?s=9f1385f4602ef22545852d3088264fd5c4ae3cdf",
+    "publicationDate": 1718801424
+  },
+  {
+    "_id": "1433ba97-7d10-5287-be16-95233abb3fdc",
+    "legoId": "10306",
+    "link": "https://www.vinted.fr/items/4644217837-lego-10306-atari",
+    "price": 200.2,
+    "title": "Lego 10306 Atari",
+    "imgUrl": "https://images1.vinted.net/t/03_0004f_KDWiCzLwMAkj6KafGChsmqqm/f800/1718447597.jpeg?s=24e2e13fa93c4b86dc5afa7307edceb91bcc1718",
+    "publicationDate": 1718447597
+  },
+  {
+    "_id": "7e653b58-0a00-5816-ba8d-2334c19d26df",
+    "legoId": "10306",
+    "link": "https://www.vinted.fr/items/5367569395-set-lego-console-atari",
+    "price": 273.7,
+    "title": "Set Lego console Atari",
+    "imgUrl": "https://images1.vinted.net/t/03_010b8_a6zRaDRrSph5GCVcEFCsCEH9/f800/1731345842.jpeg?s=cdade9f9520437ba17c368269ff8200e2cfc76c3",
+    "publicationDate": 1731345842
+  },
+  {
+    "_id": "4ba97deb-dc84-53af-9448-0010ef678db2",
     "legoId": "10306",
     "link": "https://www.vinted.fr/items/2526006672-lego-icons-adult-10306-atari",
     "price": 247.45,
     "title": "Lego Icons (adult) 10306 Atari",
     "imgUrl": "https://images1.vinted.net/t/01_0076f_gwASXXwo1yxgkYjqC6wS3Qx5/f800/1671555198.jpeg?s=a380c130cb6bdc58ad2746aa406608235186f138",
-    "publicationDate": 1671555198,
-    "id": 2526006672
+    "publicationDate": 1671555198
   },
   {
+    "_id": "03df0721-2705-5aa5-b569-d8743dde99cc",
+    "legoId": "10306",
+    "link": "https://www.vinted.fr/items/4605575009-lego-atari-10306-neu",
+    "price": 231.7,
+    "title": "Lego Atari 10306 neu!",
+    "imgUrl": "https://images1.vinted.net/t/02_00825_ihqKJEcf6uFMYciDwwoacwfi/f800/1717666421.jpeg?s=c7eaa126fd30f98ee6daa119bcf08c24845199f0",
+    "publicationDate": 1717666421
+  },
+  {
+    "_id": "584e3cce-6eed-57d7-b71c-344019777cef",
     "legoId": "10306",
     "link": "https://www.vinted.fr/items/4580753708-lego-atarir-2600-10306-legor-icons-sigillato",
     "price": 268.44,
     "title": "Lego Atari® 2600 10306 | LEGO® Icons sigillato",
     "imgUrl": "https://images1.vinted.net/t/03_020b0_Qv6MRQctZ4cVRvfas9SKfupb/f800/1717175491.jpeg?s=2a72650925c37af8baaad303341a808397079df7",
-    "publicationDate": 1717175491,
-    "id": 4580753708
+    "publicationDate": 1717175491
   },
   {
+    "_id": "52d05feb-6d40-5f7b-8b38-9681fa1466f9",
+    "legoId": "10306",
+    "link": "https://www.vinted.fr/items/3262669270-lego-10306-atari-2600",
+    "price": 210.7,
+    "title": "Lego 10306 Atari 2600",
+    "imgUrl": "https://images1.vinted.net/t/02_01eb2_miT1WDRzmSKWrv5dCsfmDDzs/f800/1689939006.jpeg?s=bff168ae1b9771b7f7ca4ea16a87cfa6d09f7ba2",
+    "publicationDate": 1689939006
+  },
+  {
+    "_id": "408d05d8-0b61-5f9d-9fb7-4715704c1ae2",
+    "legoId": "10306",
+    "link": "https://www.vinted.fr/items/5375713878-sets-lego-scelles",
+    "price": 315.7,
+    "title": "Sets Lego scellés",
+    "imgUrl": "https://images1.vinted.net/t/04_01e1d_dN6NDKD7zkHGF9xSY6QWBSgc/f800/1731497065.jpeg?s=8740fab934e123f77c5b238f429ce0156eb2e889",
+    "publicationDate": 1731497065
+  },
+  {
+    "_id": "2d9a010b-a4be-548e-acda-6e8f0ecf0d38",
     "legoId": "10306",
     "link": "https://www.vinted.fr/items/4622836167-lego-atari-10306",
     "price": 210.7,
     "title": "Lego Atari 10306",
     "imgUrl": "https://images1.vinted.net/t/01_00f4b_6AMrDQKW41hJiuXpG4E4A6gE/f800/1718013580.jpeg?s=a50f52a96ea75ee0454dfcfc13439cff020d60b5",
-    "publicationDate": 1718013580,
-    "id": 4622836167
+    "publicationDate": 1718013580
   }
 ]

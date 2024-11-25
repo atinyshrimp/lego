@@ -1,227 +1,200 @@
 [
   {
+    "_id": "94fdc2e6-ffcd-5408-9988-16f16384448b",
     "legoId": "60316",
-    "link": "https://www.vinted.fr/items/5398045470-lego-city-incomplet-reference-60316",
-    "price": 26.95,
-    "title": "Lego City Incomplet - Référence 60316",
-    "imgUrl": "https://images1.vinted.net/t/04_01b99_z78MCcsMbopmmi5EcGXWmTFv/f800/1731853937.jpeg?s=6ea63f2df381e96a0e9e87b4ac2885fa172075ed",
-    "publicationDate": 1731853937,
-    "id": 5398045470
+    "link": "https://www.vinted.fr/items/5432232865-lego-city",
+    "price": 49,
+    "title": "Légo City",
+    "imgUrl": "https://images1.vinted.net/t/04_02594_zfC1iS6rrP7R5dfpu9QNPGRT/f800/1732439034.jpeg?s=d166ba4e170c8c92289e0b73435f825d5c744674",
+    "publicationDate": 1732439034
   },
   {
+    "_id": "0ad5cbf0-d9ee-58fc-b4f6-c7d73a3527b7",
     "legoId": "60316",
-    "link": "https://www.vinted.fr/items/5400380196-lego-commissariat-de-police",
+    "link": "https://www.vinted.fr/items/5435822179-neue-lego-60316-polizeistation-ovp",
     "price": 47.95,
-    "title": "Lego commissariat de police",
-    "imgUrl": "https://images1.vinted.net/t/03_005aa_z5ZmYR4vfdfctVaa8hFBarwm/f800/1731867798.jpeg?s=1f13b0638c6eace7475421e6ff00b996f015624f",
-    "publicationDate": 1731867798,
-    "id": 5400380196
+    "title": "Neue Lego 60316 Polizeistation  OVP",
+    "imgUrl": "https://images1.vinted.net/t/04_00338_nZYZkT97kSK5ANBicKrYXyDK/f800/1732462714.jpeg?s=616894b97d49da3690bdad8da42f87e5d1ca6fc2",
+    "publicationDate": 1732462714
   },
   {
-    "legoId": "60316",
-    "link": "https://www.vinted.fr/items/5361392950-lego-city-60316-le-commissariat-de-police",
-    "price": 47.95,
-    "title": "Lego City 60316 - Le Commissariat de Police",
-    "imgUrl": "https://images1.vinted.net/t/02_0125c_mfHg9KpBSKQmn7H1QNyNHpZp/f800/1731263369.jpeg?s=9f57b8dae366a73a60bae231e9ce2f17710948d9",
-    "publicationDate": 1731263369,
-    "id": 5361392950
-  },
-  {
-    "legoId": "60316",
-    "link": "https://www.vinted.fr/items/3560404207-lego-city-lot-police-60308-60316-60242-60241-pompier",
-    "price": 17.5,
-    "title": "Lego city lot police 60308 60316 60242 60241 pompier",
-    "imgUrl": "https://images1.vinted.net/t/01_0177e_wiNwtNf7QSWkdHudcvPB2JYM/f800/1696407200.jpeg?s=190c50240562aa3c44e673ea3b8e0520b88e4aa9",
-    "publicationDate": 1696407200,
-    "id": 3560404207
-  },
-  {
-    "legoId": "60316",
-    "link": "https://www.vinted.fr/items/5384742442-lego-city-60316-le-commissariat-de-police-neuf-scelle",
-    "price": 53.2,
-    "title": "Lego City 60316 Le Commissariat De Police Neuf Scellé",
-    "imgUrl": "https://images1.vinted.net/t/03_01871_6dMn9G5TDPV1AnZXzvL9gbmo/f800/1731660468.jpeg?s=862e4622ac47c426faa16f24aa7f2ec9503b1da5",
-    "publicationDate": 1731660468,
-    "id": 5384742442
-  },
-  {
-    "legoId": "60316",
-    "link": "https://www.vinted.fr/items/5384660020-lego-city-60316-le-commissariat-de-police",
-    "price": 50.04,
-    "title": "Lego city 60316 Le commissariat de police",
-    "imgUrl": "https://images1.vinted.net/t/02_009c0_3rr7364B5sRDwLFoT7aX1cNC/f800/1731658993.jpeg?s=e8b765514d0ba064db4cf070b9fa139c56655006",
-    "publicationDate": 1731658993,
-    "id": 5384660020
-  },
-  {
+    "_id": "4b673345-f09e-59ac-9385-7e50be0ad2de",
     "legoId": "60316",
     "link": "https://www.vinted.fr/items/5255051698-lego-city-60316",
     "price": 53.2,
     "title": "Lego City 60316",
     "imgUrl": "https://images1.vinted.net/t/04_01378_mm9ZfCQXidKVxSvTqb4BpXSc/f800/1731668652.jpeg?s=66b9a0e668fa1b2931c29896e3613877a543ae1e",
-    "publicationDate": 1731668652,
-    "id": 5255051698
+    "publicationDate": 1731668652
   },
   {
+    "_id": "5c1148f7-54dd-5c1b-9fa7-f30b55d961ed",
     "legoId": "60316",
     "link": "https://www.vinted.fr/items/5337670958-lego-policia-60316",
     "price": 42.7,
     "title": "Lego policía 60316",
     "imgUrl": "https://images1.vinted.net/t/03_00d60_ncUBQFWEMJNNyEatVZf2mDJK/f800/1730892821.jpeg?s=5e92f8a4b757d383567e5295eff0492242ec8e95",
-    "publicationDate": 1730892821,
-    "id": 5337670958
+    "publicationDate": 1730892821
   },
   {
+    "_id": "39811008-70c6-577d-a4e1-79c8c5670e18",
     "legoId": "60316",
-    "link": "https://www.vinted.fr/items/5391371520-lego-city-60316-politiebureau",
-    "price": 50.58,
-    "title": "Lego City 60316 Politiebureau",
-    "imgUrl": "https://images1.vinted.net/t/04_00f96_ir293ycTA5XWX9gbHvaXB6Re/f800/1731765782.jpeg?s=e83c3a8ad16283e9d29de3a74a24d48c6d704414",
-    "publicationDate": 1731765782,
-    "id": 5391371520
+    "link": "https://www.vinted.fr/items/3560404207-lego-city-lot-police-60308-60316-60242-60241-pompier",
+    "price": 17.5,
+    "title": "Lego city lot police 60308 60316 60242 60241 pompier",
+    "imgUrl": "https://images1.vinted.net/t/01_0177e_wiNwtNf7QSWkdHudcvPB2JYM/f800/1696407200.jpeg?s=190c50240562aa3c44e673ea3b8e0520b88e4aa9",
+    "publicationDate": 1696407200
   },
   {
+    "_id": "86ffd3ac-e0ab-5553-b6c2-983dcdb8600c",
     "legoId": "60316",
-    "link": "https://www.vinted.fr/items/5357141342-lego-city-60316-police",
-    "price": 51.09,
-    "title": "Lego City 60316 Police",
-    "imgUrl": "https://images1.vinted.net/t/04_025cc_wHsSXJrq6fo34Fxv1NX5JcpR/f800/1731236610.jpeg?s=ff67d12533d785286e303bf322667a028eedb6ea",
-    "publicationDate": 1731236610,
-    "id": 5357141342
-  },
-  {
-    "legoId": "60316",
-    "link": "https://www.vinted.fr/items/5326658607-lego-city-polizeistation-60316",
+    "link": "https://www.vinted.fr/items/5437941704-lego-60316-polizei",
     "price": 53.2,
-    "title": "Lego City Polizeistation 60316",
-    "imgUrl": "https://images1.vinted.net/t/04_01580_4kp3WSNo6pgd1nG2XXUBVbjZ/f800/1730668970.jpeg?s=71b809b843a2be574044ee822d11fff0e8b11dfc",
-    "publicationDate": 1730668970,
-    "id": 5326658607
+    "title": "Lego 60316 Polizei",
+    "imgUrl": "https://images1.vinted.net/t/01_01ae9_cDDtgNGqPAwRBeUV3oYdEArj/f800/1732478373.jpeg?s=71cfaf36df07dbc4a7a6afbd7f9ba9fe416696ad",
+    "publicationDate": 1732478373
   },
   {
+    "_id": "29ff74e3-799e-55a0-b4a0-034b1f88dce3",
     "legoId": "60316",
     "link": "https://www.vinted.fr/items/4079525304-lego-city-chef-de-police-wheeler-cty1124-tbe",
     "price": 4.9,
     "title": "Lego city chef de police wheeler CTY1124 tbe.",
     "imgUrl": "https://images1.vinted.net/t/01_01b68_Mw2dvvfAnhAyFNjR5ZtDqDDp/f800/1707472947.jpeg?s=8c607ffa818a7d70d38a63d0a07199671d99627e",
-    "publicationDate": 1707472947,
-    "id": 4079525304
+    "publicationDate": 1707472947
   },
   {
-    "legoId": "60316",
-    "link": "https://www.vinted.fr/items/4939585118-60316-lego-city-police-stazione-di-polizia",
-    "price": 52.15,
-    "title": "60316 Lego City Police Stazione di Polizia",
-    "imgUrl": "https://images1.vinted.net/t/02_00c0e_89KGN6J4u2dfvNwG8jzZ5rA7/f800/1724622337.jpeg?s=36f0fe40c787b6dd8c419839bf45d95139e38e17",
-    "publicationDate": 1724622337,
-    "id": 4939585118
-  },
-  {
-    "legoId": "60316",
-    "link": "https://www.vinted.fr/items/4168259007-lego-polizeistation-60316",
-    "price": 42.7,
-    "title": "Lego Polizeistation 60316",
-    "imgUrl": "https://images1.vinted.net/t/02_024ce_3zzhetjvKUGSjtCogf77vivG/f800/1709317023.jpeg?s=c4b5740f80142edbe1c0eb3a982ff6ecd92f7677",
-    "publicationDate": 1709317023,
-    "id": 4168259007
-  },
-  {
+    "_id": "7976c87c-f925-5d8b-97af-927f23ff061a",
     "legoId": "60316",
     "link": "https://www.vinted.fr/items/5362626734-comisaria-de-policia-lego-60316",
     "price": 53.2,
     "title": "Comisaria de policía Lego 60316",
     "imgUrl": "https://images1.vinted.net/t/01_00727_JUwxQMu2bhNnY239jpAXwspE/f800/1731275947.jpeg?s=3920e508e53ef7b90849efea670a462f7728c27c",
-    "publicationDate": 1731275947,
-    "id": 5362626734
+    "publicationDate": 1731275947
   },
   {
+    "_id": "01def649-ff99-5bb6-839e-191cdcfe43d4",
+    "legoId": "60316",
+    "link": "https://www.vinted.fr/items/5436628512-lego-polizeistation-60316",
+    "price": 47.95,
+    "title": "Lego Polizeistation 60316",
+    "imgUrl": "https://images1.vinted.net/t/03_024c8_1m9FNUYc4nBQ68ayeCCF77dd/f800/1732467832.jpeg?s=cc4ca48bbbe89b5ae3561007044611957224d9f8",
+    "publicationDate": 1732467832
+  },
+  {
+    "_id": "2f3ae6d0-dc99-509d-b674-59cb8313b918",
     "legoId": "60316",
     "link": "https://www.vinted.fr/items/5188974459-lego-city-60316-le-commissariat-de-police",
     "price": 47.95,
     "title": "LEGO City 60316 - Le commissariat de police",
     "imgUrl": "https://images1.vinted.net/t/03_00e31_ZXQA7fUYxfoLxmD2ejdqkJZg/f800/1728492441.jpeg?s=b25dbf1a886bc309e2ab77cfa39d7dbdb23c8d0a",
-    "publicationDate": 1728492441,
-    "id": 5188974459
+    "publicationDate": 1728492441
   },
   {
+    "_id": "236e3abd-d467-5532-894e-6dcc1ebc9342",
     "legoId": "60316",
-    "link": "https://www.vinted.fr/items/3760249322-lego-city-60316",
-    "price": 46.9,
-    "title": "LEGO City 60316",
-    "imgUrl": "https://images1.vinted.net/t/03_015d1_cummbMj127FbixSLL1tZYQJ5/f800/1699983855.jpeg?s=64a4cd9951fa203cbf09658ced4181ffcde5b89a",
-    "publicationDate": 1699983855,
-    "id": 3760249322
+    "link": "https://www.vinted.fr/items/5424905492-lego-city-60316",
+    "price": 47.95,
+    "title": "Lego City 60316",
+    "imgUrl": "https://images1.vinted.net/t/04_0170b_jp7jqo8h8yhBUjznoLz1q3oL/f800/1732293931.jpeg?s=868bd7db10b09440a645112dbfc7e81c6f92a1f1",
+    "publicationDate": 1732293931
   },
   {
+    "_id": "a19974da-86aa-5cc0-968f-0527dec7177d",
     "legoId": "60316",
     "link": "https://www.vinted.fr/items/3372284562-lego-city-police",
     "price": 47.95,
     "title": "Lego City - Police",
     "imgUrl": "https://images1.vinted.net/t/03_00b94_y7xP9LPFMwm2qzcPBjLPeYf5/f800/1692552351.jpeg?s=b5874aeea9d528c4b151d6ccd3a76f0304a927e2",
-    "publicationDate": 1692552351,
-    "id": 3372284562
+    "publicationDate": 1692552351
   },
   {
+    "_id": "e4f18a35-8f92-545e-963a-3b6a5d7c9423",
     "legoId": "60316",
-    "link": "https://www.vinted.fr/items/5108779734-legor-city-60316-stazione-di-polizia",
-    "price": 53.2,
-    "title": "LEGO® City 60316 Stazione di Polizia",
-    "imgUrl": "https://images1.vinted.net/t/01_01bc4_6FNniqWkMHjqjwUDQQEUQwY8/f800/1727302656.jpeg?s=83fe7fa27babc06073c44a7a55f92ba3c9d7942c",
-    "publicationDate": 1727302656,
-    "id": 5108779734
+    "link": "https://www.vinted.fr/items/5391371520-lego-city-60316-politiebureau",
+    "price": 49,
+    "title": "Lego City 60316 Politiebureau",
+    "imgUrl": "https://images1.vinted.net/t/04_00f96_ir293ycTA5XWX9gbHvaXB6Re/f800/1731765782.jpeg?s=e83c3a8ad16283e9d29de3a74a24d48c6d704414",
+    "publicationDate": 1731765782
   },
   {
+    "_id": "5ea930ab-df77-5d54-b7e8-a2cfb4667bc6",
+    "legoId": "60316",
+    "link": "https://www.vinted.fr/items/3760249322-lego-city-60316",
+    "price": 46.9,
+    "title": "LEGO City 60316",
+    "imgUrl": "https://images1.vinted.net/t/03_015d1_cummbMj127FbixSLL1tZYQJ5/f800/1699983855.jpeg?s=64a4cd9951fa203cbf09658ced4181ffcde5b89a",
+    "publicationDate": 1699983855
+  },
+  {
+    "_id": "6a461bae-c9c4-572e-ac63-3b5a94bbbe1d",
+    "legoId": "60316",
+    "link": "https://www.vinted.fr/items/4939585118-60316-lego-city-police-stazione-di-polizia",
+    "price": 52.15,
+    "title": "60316 Lego City Police Stazione di Polizia",
+    "imgUrl": "https://images1.vinted.net/t/02_00c0e_89KGN6J4u2dfvNwG8jzZ5rA7/f800/1724622337.jpeg?s=36f0fe40c787b6dd8c419839bf45d95139e38e17",
+    "publicationDate": 1724622337
+  },
+  {
+    "_id": "6eaf6494-4275-5aa4-8636-74292876ec05",
     "legoId": "60316",
     "link": "https://www.vinted.fr/items/4678379489-lego-city-polizeistation",
     "price": 53.2,
     "title": "Lego city Polizeistation",
     "imgUrl": "https://images1.vinted.net/t/02_01136_e9tD3sjKSWGZS2Ece2m2nAQd/f800/1719151457.jpeg?s=94225acf7618332ab3cc493ee7d3607c53bf5abc",
-    "publicationDate": 1719151457,
-    "id": 4678379489
+    "publicationDate": 1719151457
   },
   {
-    "legoId": "60316",
-    "link": "https://www.vinted.fr/items/2475315180-nieuw-60316-lego-city-politiebureau-vaste-prijs",
-    "price": 58.45,
-    "title": "Nieuw 60316 Lego City Politiebureau - vaste prijs",
-    "imgUrl": "https://images1.vinted.net/t/01_013b4_Q96tsnAZpSRhFxqdagsXLVhj/f800/1669971323.jpeg?s=cb6059eaa1cc8c1a3f9a7c33224b8b26551d4772",
-    "publicationDate": 1669971323,
-    "id": 2475315180
-  },
-  {
+    "_id": "a5e6675d-bee6-5120-8514-220def7486f1",
     "legoId": "60316",
     "link": "https://www.vinted.fr/items/2371153055-lego-city-police-station-60316",
     "price": 70.35,
     "title": "LEGO City Police Station (60316)",
     "imgUrl": "https://images1.vinted.net/t/01_01125_LYZ6XiZiB5Z3DyHJkTRy3BS9/f800/1667314866.jpeg?s=aa99c167c3886aa23b6939315b286053a93e7bc4",
-    "publicationDate": 1667314866,
-    "id": 2371153055
+    "publicationDate": 1667314866
   },
   {
+    "_id": "1d17e46a-ade7-5a80-b7f1-d64850a396c4",
     "legoId": "60316",
-    "link": "https://www.vinted.fr/items/3416052787-lego-city-60316-politiekantoor",
-    "price": 63.7,
-    "title": "Lego City 60316 Politiekantoor",
-    "imgUrl": "https://images1.vinted.net/t/01_01c7c_1hV7YciVuPFQbvytk7nGb4fU/f800/1693482354.jpeg?s=e570dd182a231f1b32ed1d4895c69c797623658c",
-    "publicationDate": 1693482354,
-    "id": 3416052787
+    "link": "https://www.vinted.fr/items/2475315180-nieuw-60316-lego-city-politiebureau-vaste-prijs",
+    "price": 58.45,
+    "title": "Nieuw 60316 Lego City Politiebureau - vaste prijs",
+    "imgUrl": "https://images1.vinted.net/t/01_013b4_Q96tsnAZpSRhFxqdagsXLVhj/f800/1669971323.jpeg?s=cb6059eaa1cc8c1a3f9a7c33224b8b26551d4772",
+    "publicationDate": 1669971323
   },
   {
-    "legoId": "60316",
-    "link": "https://www.vinted.fr/items/4875625647-lego-city",
-    "price": 284.2,
-    "title": "Lego city",
-    "imgUrl": "https://images1.vinted.net/t/01_01a57_hrDyYGhA3RDAFsQxgHEoDeac/f800/1723395461.jpeg?s=a367ab67792b57dac6070c0e3ecea48bd78c59af",
-    "publicationDate": 1723395461,
-    "id": 4875625647
-  },
-  {
+    "_id": "388682bf-b653-5dd8-b26c-6d24ffd79c7e",
     "legoId": "60316",
     "link": "https://www.vinted.fr/items/3882692339-lego-city-60316-nuovo-sigillato",
     "price": 63.7,
     "title": "Lego City 60316 nuovo sigillato ",
     "imgUrl": "https://images1.vinted.net/t/03_0016f_fagrkxDRkxUVZosxdMXWRBLw/f800/1702575134.jpeg?s=58a2cdcb52c2c38b372e11e713d2c0734231cca4",
-    "publicationDate": 1702575134,
-    "id": 3882692339
+    "publicationDate": 1702575134
+  },
+  {
+    "_id": "bc93a6f5-4b9f-53cc-961e-519245d1f56c",
+    "legoId": "60316",
+    "link": "https://www.vinted.fr/items/3416052787-lego-city-60316-politiekantoor",
+    "price": 63.7,
+    "title": "Lego City 60316 Politiekantoor",
+    "imgUrl": "https://images1.vinted.net/t/01_01c7c_1hV7YciVuPFQbvytk7nGb4fU/f800/1693482354.jpeg?s=e570dd182a231f1b32ed1d4895c69c797623658c",
+    "publicationDate": 1693482354
+  },
+  {
+    "_id": "b1f0fa02-1838-54d1-91a6-207e751fc447",
+    "legoId": "60316",
+    "link": "https://www.vinted.fr/items/5108779734-legor-city-60316-stazione-di-polizia",
+    "price": 53.2,
+    "title": "LEGO® City 60316 Stazione di Polizia",
+    "imgUrl": "https://images1.vinted.net/t/01_01bc4_6FNniqWkMHjqjwUDQQEUQwY8/f800/1727302656.jpeg?s=83fe7fa27babc06073c44a7a55f92ba3c9d7942c",
+    "publicationDate": 1727302656
+  },
+  {
+    "_id": "cd8437ce-877f-532f-81b6-3d58959de6d0",
+    "legoId": "60316",
+    "link": "https://www.vinted.fr/items/4875625647-lego-city",
+    "price": 263.2,
+    "title": "Lego city",
+    "imgUrl": "https://images1.vinted.net/t/01_01a57_hrDyYGhA3RDAFsQxgHEoDeac/f800/1723395461.jpeg?s=a367ab67792b57dac6070c0e3ecea48bd78c59af",
+    "publicationDate": 1723395461
   }
 ]

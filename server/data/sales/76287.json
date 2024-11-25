@@ -1,56 +1,47 @@
 [
   {
-    "legoId": "76287",
-    "link": "https://www.vinted.fr/items/5393708859-lego-marvel-76287-iron-man-with-bike-and-the-hulk",
-    "price": 13.3,
-    "title": "Lego Marvel 76287 Iron Man with Bike and The Hulk",
-    "imgUrl": "https://images1.vinted.net/t/04_01b34_ZWmzyAUuVe1oVfNcbc5yXwoR/f800/1731787346.jpeg?s=1d4baa085d4ec57164fe008caceca1e278154114",
-    "publicationDate": 1731787346,
-    "id": 5393708859
-  },
-  {
+    "_id": "c898c1a6-1301-539d-997a-4e38b26e5c01",
     "legoId": "76287",
     "link": "https://www.vinted.fr/items/5371993372-lego-76287-iron-man-with-bike-and-the-hulk",
     "price": 14.34,
     "title": "LEGO 76287 - Iron Man with Bike and The Hulk",
     "imgUrl": "https://images1.vinted.net/t/04_0100f_xhffRwX2TDFSjpLJDL1MFPSc/f800/1731423740.jpeg?s=ed098baca1c38563768b76c4c29ed5631d306e1d",
-    "publicationDate": 1731423740,
-    "id": 5371993372
+    "publicationDate": 1731423740
   },
   {
+    "_id": "4cd3e40d-f9fd-5a03-817f-1a412a3eb4d0",
     "legoId": "76287",
-    "link": "https://www.vinted.fr/items/5332872208-lego-et-playmobil",
-    "price": 11.2,
-    "title": "Lego et playmobil",
-    "imgUrl": "https://images1.vinted.net/t/04_00218_dAr7DyGXz7xwDU5itayqMzWe/f800/1730802041.jpeg?s=b67aadddeffb7f40d2629476923000065bc77979",
-    "publicationDate": 1730802041,
-    "id": 5332872208
+    "link": "https://www.vinted.fr/items/5425675143-lego-marvel-76287-iron-man-bike",
+    "price": 16.45,
+    "title": "Lego Marvel 76287 Iron man bike",
+    "imgUrl": "https://images1.vinted.net/t/04_017a5_kdjKEKKRJsC32jTDK4eAFbGr/f800/1732304048.jpeg?s=2844364b800ca0bf3df40860bb8a66141e3fd949",
+    "publicationDate": 1732304048
   },
   {
-    "legoId": "76287",
-    "link": "https://www.vinted.fr/items/4962293412-lotto-lego-marvel-iron-man",
-    "price": 26.95,
-    "title": "Lotto lego Marvel iron man",
-    "imgUrl": "https://images1.vinted.net/t/02_0032b_XzCg5rdo2NbomWP2gbpCaEgJ/f800/1725032194.jpeg?s=dbdbc576cd9d6b3e8c113686997d532a4f62cc0f",
-    "publicationDate": 1725032194,
-    "id": 4962293412
-  },
-  {
+    "_id": "4a3596bb-f0c4-531f-bddf-583e27fe4153",
     "legoId": "76287",
     "link": "https://www.vinted.fr/items/5137168403-lego-marvel",
     "price": 17.5,
     "title": "Lego marvel",
     "imgUrl": "https://images1.vinted.net/t/03_00433_k6gmVhjhG3MYQEmcAakJv3g1/f800/1727717858.jpeg?s=c1ed61bd88ae9e0440b08eba7a02d053f65d7b9a",
-    "publicationDate": 1727717858,
-    "id": 5137168403
+    "publicationDate": 1727717858
   },
   {
+    "_id": "ae2b63b4-3029-56b3-99dc-7d0b40010b6b",
     "legoId": "76287",
-    "link": "https://www.vinted.fr/items/5326119946-lego-10782-et-76287",
-    "price": 23.8,
-    "title": "Lego 10782 et 76287",
-    "imgUrl": "https://images1.vinted.net/t/04_0217c_sMsjfoSvNeedysdTs4KhJRvu/f800/1730663124.jpeg?s=aea2139ce77c0bd7b7fc29b1385129cd1a8484a7",
-    "publicationDate": 1730663124,
-    "id": 5326119946
+    "link": "https://www.vinted.fr/items/5440009522-lego-et-playmobil",
+    "price": 105.7,
+    "title": "Lego et playmobil",
+    "imgUrl": "https://images1.vinted.net/t/02_015d2_5bdrWsLVvRHiQG22vEWoEt4t/f800/1732534437.jpeg?s=7f0291de3dfb050056c381dcecafa110bec4cfcb",
+    "publicationDate": 1732534437
+  },
+  {
+    "_id": "bfea7f00-7fa3-58d2-8cb1-f82e15b74d8d",
+    "legoId": "76287",
+    "link": "https://www.vinted.fr/items/5332872208-lego-et-playmobil",
+    "price": 105.7,
+    "title": "Lego et playmobil",
+    "imgUrl": "https://images1.vinted.net/t/04_00218_dAr7DyGXz7xwDU5itayqMzWe/f800/1730802041.jpeg?s=b67aadddeffb7f40d2629476923000065bc77979",
+    "publicationDate": 1730802041
   }
 ]

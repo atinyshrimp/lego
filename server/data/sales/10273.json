@@ -1,587 +1,614 @@
 [
   {
+    "_id": "fd58bc45-9762-5ef7-9781-1792f22d708c",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5377510971-spookhuis-10273",
-    "price": 194.95,
-    "title": "Spookhuis (10273)",
-    "imgUrl": "https://images1.vinted.net/t/04_0242d_PV1vqajrgQWA6B7D42NuzAsQ/f800/1731513920.jpeg?s=7af3341796b3ff41744e0ac73ab60375e0636f40",
-    "publicationDate": 1731513920,
-    "id": 5377510971
+    "link": "https://www.vinted.fr/items/5426193871-neuf-scelle-lego-10273-maison-hantee",
+    "price": 220.15,
+    "title": "Neuf Scellé Lego 10273 Maison Hantée",
+    "imgUrl": "https://images1.vinted.net/t/03_009d9_WuZuisGnAWkuQRUNPe2pXyWT/f800/1732312534.jpeg?s=8661e5c226d720d96bfe7b4b98d0ac72a62d39d3",
+    "publicationDate": 1732312534
   },
   {
+    "_id": "d493a545-11c5-5192-a021-e684c6072b6e",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/4377390158-lego-minifigures-fantasma-del-set-10273-la-casa-stregata",
     "price": 9,
     "title": "Lego minifigures  - fantasma del set 10273 la casa stregata",
     "imgUrl": "https://images1.vinted.net/t/01_008a1_sUQHjMJLLiJ8fe1efyfNPahL/f800/1713359231.jpeg?s=107c84792685324ff7d8aaef55ac45ec20fc65ac",
-    "publicationDate": 1713359231,
-    "id": 4377390158
+    "publicationDate": 1713359231
   },
   {
+    "_id": "25c759fc-572d-56d9-ad22-322fbbdaafb3",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/3971196380-lego-creator-expert-le-majordome-de-la-maison-hantee",
     "price": 5.95,
     "title": "LEGO Creator Expert - Le Majordome de la Maison Hantée",
     "imgUrl": "https://images1.vinted.net/t/01_003df_X4aoMHSqyjFahn6js729hnrj/f800/1705114306.jpeg?s=c10ac91502d4ce56820910c67da562e51ba68af8",
-    "publicationDate": 1705114306,
-    "id": 3971196380
+    "publicationDate": 1705114306
   },
   {
+    "_id": "18992995-f27e-5e8f-a24a-58ddd19d2ad2",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5387703717-lego-10273",
+    "link": "https://www.vinted.fr/items/5425734182-lego-10273",
     "price": 147.7,
     "title": "Lego 10273",
-    "imgUrl": "https://images1.vinted.net/t/04_00cb8_V2c8fPzR5ZD4CVye1vLdbB8x/f800/1731694213.jpeg?s=e7c75299a14fb2df8c15347221b60038cac3d006",
-    "publicationDate": 1731694213,
-    "id": 5387703717
+    "imgUrl": "https://images1.vinted.net/t/01_01448_TpRwMtMoFBUU54zYmn9FyUwH/f800/1732304906.jpeg?s=cb7653a121d63804ea62367e873cd0d6b14651c2",
+    "publicationDate": 1732304906
   },
   {
+    "_id": "887804bf-e57a-5ac1-92f8-26de72fd0d03",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5400957706-lego-10273",
-    "price": 263.2,
-    "title": "Lego 10273",
-    "imgUrl": "https://images1.vinted.net/t/04_019b8_823jF6WjYJmNQQ4GrH51CAvZ/f800/1731872539.jpeg?s=6aba1c791420fb5da02e5575157561f5b6ef25f1",
-    "publicationDate": 1731872539,
-    "id": 5400957706
+    "link": "https://www.vinted.fr/items/5426833664-lego-10273-spookhuis-haunted-mansion",
+    "price": 189.7,
+    "title": "Lego 10273  spookhuis Haunted mansion",
+    "imgUrl": "https://images1.vinted.net/t/03_00140_WG5cJNdJMG2MfFUauJg6eC6x/f800/1732352409.jpeg?s=edba32ea144535cddb6d1a7ddd4553650c859f34",
+    "publicationDate": 1732352409
   },
   {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5315420616-lego-10273-haunted-house",
-    "price": 252.7,
-    "title": "Lego 10273 haunted house",
-    "imgUrl": "https://images1.vinted.net/t/01_003c2_NRG8NbaX2phEMcYWU3LgxFAf/f800/1730543509.jpeg?s=0df5af6ec60c0c109f9fdd3ad620dcda61c0a78b",
-    "publicationDate": 1730543509,
-    "id": 5315420616
-  },
-  {
+    "_id": "474c3c91-8c5b-58d2-94ff-7ac8aff76d5d",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/5376444625-haunted-house-10273",
     "price": 187.6,
     "title": "Haunted house 10273",
     "imgUrl": "https://images1.vinted.net/t/04_01b2f_aejrzsV87iKKZoo7QMBS7iWJ/f800/1731504187.jpeg?s=e2baaa9e52cdc491f4fdcbdfe206463d0ee2afdd",
-    "publicationDate": 1731504187,
-    "id": 5376444625
+    "publicationDate": 1731504187
   },
   {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5383816380-lego-icons-10273-haunted-house-sigillato",
-    "price": 263.19,
-    "title": "Lego Icons 10273 Haunted House Sigillato 🆕",
-    "imgUrl": "https://images1.vinted.net/t/04_001af_kwEfvmCcQcP3J76Qqy6o6CqN/f800/1731616532.jpeg?s=a51fed59d3e7e5659b8adece2f63ea539b54a35b",
-    "publicationDate": 1731616532,
-    "id": 5383816380
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4587171642-lego-haunted-house-10273",
-    "price": 188.65,
-    "title": "Lego haunted house 10273",
-    "imgUrl": "https://images1.vinted.net/t/02_01986_ntFZdftF1VaVo3r9a7otUyaC/f800/1717322731.jpeg?s=660157580562468929c1eb5035c74fdcc14ba994",
-    "publicationDate": 1717322731,
-    "id": 4587171642
-  },
-  {
+    "_id": "d645d957-fc67-5cf8-9123-c6c4abe3b814",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/5395550865-lego-10273-maison-hantee-de-la-fete-foraine",
     "price": 168.7,
     "title": "Lego 10273 maison hantée de la fête foraine",
     "imgUrl": "https://images1.vinted.net/t/04_01395_sYvY1g8tTvAgFA1RYUJJ4M9M/f800/1731839496.jpeg?s=5c31a32aa51ac2fa82ebedefde3bbc9302b967f0",
-    "publicationDate": 1731839496,
-    "id": 5395550865
+    "publicationDate": 1731839496
   },
   {
+    "_id": "e5428139-1c7f-5afd-9fe6-b773379f377a",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/5413933813-lego-10273-haunted-house-new",
+    "price": 247.45,
+    "title": "Lego 10273 Haunted House New",
+    "imgUrl": "https://images1.vinted.net/t/04_00fbd_Ug9xFcbY3KyKtcP91xje1wji/f800/1732106464.jpeg?s=12cc15e3519cad5aac65ebb633d515d3d3983e34",
+    "publicationDate": 1732106464
+  },
+  {
+    "_id": "cdb2009d-133d-5f58-9510-1d57ba699d50",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/4587171642-lego-haunted-house-10273",
+    "price": 188.65,
+    "title": "Lego haunted house 10273",
+    "imgUrl": "https://images1.vinted.net/t/02_01986_ntFZdftF1VaVo3r9a7otUyaC/f800/1717322731.jpeg?s=660157580562468929c1eb5035c74fdcc14ba994",
+    "publicationDate": 1717322731
+  },
+  {
+    "_id": "16074b28-615b-5083-a798-958cc5247cb0",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/5175572313-lego-10273-maison-hantee-haunted-house-neuf-scellee",
     "price": 263.2,
     "title": "Lego 10273 Maison hantée Haunted house - Neuf scellée",
     "imgUrl": "https://images1.vinted.net/t/03_026e7_QfondsU27d1kHJYb2hZrJVQU/f800/1728300743.jpeg?s=ac8e7b6146fd15bffbe874280eb3b75a1d41c402",
-    "publicationDate": 1728300743,
-    "id": 5175572313
+    "publicationDate": 1728300743
   },
   {
+    "_id": "a3163bda-d87b-5c9e-a217-9ad770b76561",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5389597587-lego-10273-hounted-house",
+    "link": "https://www.vinted.fr/items/5438593065-lego-10273-nuovo",
     "price": 273.7,
-    "title": "Lego 10273 Hounted House",
-    "imgUrl": "https://images1.vinted.net/t/01_003a9_tqb27k6RaYZGVsLVciLntrjh/f800/1731751602.jpeg?s=e77fa58ae8525a1ed1552614d42c73696628983e",
-    "publicationDate": 1731751602,
-    "id": 5389597587
+    "title": "Lego 10273 Nuovo",
+    "imgUrl": "https://images1.vinted.net/t/04_01023_qHAQB6sV6bjL1hBgibAhw3P7/f800/1732486259.jpeg?s=e2cfa7c463da8857321d97d43d75eb113d7261ac",
+    "publicationDate": 1732486259
   },
   {
+    "_id": "0f2ace2c-49ad-5ef9-a9e6-7786d636c5d0",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5400804020-lego-10273-haunted-house-nuovo",
-    "price": 272.65,
-    "title": "Lego 10273 Haunted House - nuovo",
-    "imgUrl": "https://images1.vinted.net/t/02_02250_rpMHNSuAH6iuCWsB9AMRfrRh/f800/1731871231.jpeg?s=65a7bf42fccf63f9326cad5f63dcb1f9d7a0453e",
-    "publicationDate": 1731871231,
-    "id": 5400804020
+    "link": "https://www.vinted.fr/items/5411800212-lego-10273-the-haunted-house",
+    "price": 263.2,
+    "title": "Lego 10273 The Haunted House",
+    "imgUrl": "https://images1.vinted.net/t/04_024f0_i28jKHpp1kHGaMEW6tpFHFGs/f800/1732050142.jpeg?s=d0f6c92466bd58c37b04417d73467d708bbd8ac8",
+    "publicationDate": 1732050142
   },
   {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5138780154-lego-10273-hounted-house-misb",
-    "price": 242.2,
-    "title": "LEGO 10273 Hounted House. MISB",
-    "imgUrl": "https://images1.vinted.net/t/02_013a9_XPKaBJ4v1abQ2SrHRR59qH1N/f800/1727767364.jpeg?s=ad550632d2d097a1b521c0f8a0ad0b769b887750",
-    "publicationDate": 1727767364,
-    "id": 5138780154
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5070735162-lego-ideas",
-    "price": 289.45,
-    "title": "Lego Ideas",
-    "imgUrl": "https://images1.vinted.net/t/03_01042_HM937PjRKAyu6LCNRVM98E7f/f800/1726743203.jpeg?s=21dc3525a7521dd8b02bafd539544512cc6a70ef",
-    "publicationDate": 1726743203,
-    "id": 5070735162
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5070419215-lego-scelle-10273",
-    "price": 257.95,
-    "title": "Lego scellé 10273",
-    "imgUrl": "https://images1.vinted.net/t/01_025d2_332J6e7L1yN5yfEhX83ztqz9/f800/1726739838.jpeg?s=da2d81636dec08e215ab2fd75edc58320d8171f4",
-    "publicationDate": 1726739838,
-    "id": 5070419215
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4971562076-lego-10273-haunted-house",
-    "price": 210.7,
-    "title": "Lego 10273 haunted house",
-    "imgUrl": "https://images1.vinted.net/t/01_000aa_5aKfzGTTWjXDCXnYimhdimmg/f800/1725199820.jpeg?s=1bf2c71c79d7e832eec13400f27d4c2ba2cf048d",
-    "publicationDate": 1725199820,
-    "id": 4971562076
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5315942735-lego-10273",
-    "price": 262.15,
-    "title": "Lego 10273",
-    "imgUrl": "https://images1.vinted.net/t/04_00e9d_WRaG1P8pqUKqRcnVXn88jxHC/f800/1730547825.jpeg?s=ec223d602e8ded643d67fcd499a799f0d6d27c20",
-    "publicationDate": 1730547825,
-    "id": 5315942735
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5198370047-lego-haunted-house-10273-nuovo",
-    "price": 273.7,
-    "title": "Lego - Haunted House - 10273 nuovo",
-    "imgUrl": "https://images1.vinted.net/t/03_01ab0_5j8TWXdcjH8pHMJ6m3uP6Jv6/f800/1728658093.jpeg?s=5a32e3b5289ca34780cafb0cfd3f166f9d9da900",
-    "publicationDate": 1728658093,
-    "id": 5198370047
-  },
-  {
+    "_id": "6760b48f-b13a-50e2-90de-818a033580bd",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/5219141796-lego-la-maison-hantee-de-la-fete-foraine",
     "price": 210.7,
     "title": "Lego La maison hantée de la fête foraine",
     "imgUrl": "https://images1.vinted.net/t/02_024d4_wCYM3C7uaUTwAVP4aJj3sDXh/f800/1728936181.jpeg?s=24adf7610d67f5c074950fde7f721afd2bd59271",
-    "publicationDate": 1728936181,
-    "id": 5219141796
+    "publicationDate": 1728936181
   },
   {
+    "_id": "b6398db8-c559-5a25-aac6-1b97428e6f49",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5180334442-lego-10273-hainted-house",
+    "link": "https://www.vinted.fr/items/5413697253-lego-haunted-house-10273",
     "price": 236.95,
-    "title": "Lego 10273 hainted house",
-    "imgUrl": "https://images1.vinted.net/t/02_02635_zbctejspuEC9zCtkjxEv24dT/f800/1728378025.jpeg?s=5e60793375411b9ea123c3fac9f5960d1045f9ae",
-    "publicationDate": 1728378025,
-    "id": 5180334442
+    "title": "Lego Haunted House 10273",
+    "imgUrl": "https://images1.vinted.net/t/04_0180d_HS9yquFLp8tCipQsi9ooaJTA/f800/1732104104.jpeg?s=2e12c6cd271af36d44639d8649707aef75486b3b",
+    "publicationDate": 1732104104
   },
   {
+    "_id": "db1b101b-6c91-5ad1-950f-a458ccf8c1f8",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/5315420616-lego-10273-haunted-house",
+    "price": 252.7,
+    "title": "Lego 10273 haunted house",
+    "imgUrl": "https://images1.vinted.net/t/01_003c2_NRG8NbaX2phEMcYWU3LgxFAf/f800/1730543509.jpeg?s=0df5af6ec60c0c109f9fdd3ad620dcda61c0a78b",
+    "publicationDate": 1730543509
+  },
+  {
+    "_id": "ea4433c3-4d3e-5644-8bd3-56d480e145b7",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/5070419215-lego-scelle-10273",
+    "price": 257.95,
+    "title": "Lego scellé 10273",
+    "imgUrl": "https://images1.vinted.net/t/01_025d2_332J6e7L1yN5yfEhX83ztqz9/f800/1726739838.jpeg?s=da2d81636dec08e215ab2fd75edc58320d8171f4",
+    "publicationDate": 1726739838
+  },
+  {
+    "_id": "785089eb-163b-596d-87b2-1139b4a535ea",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/5400804020-lego-10273-haunted-house-nuovo",
+    "price": 272.65,
+    "title": "Lego 10273 Haunted House - nuovo",
+    "imgUrl": "https://images1.vinted.net/t/02_02250_rpMHNSuAH6iuCWsB9AMRfrRh/f800/1731871231.jpeg?s=65a7bf42fccf63f9326cad5f63dcb1f9d7a0453e",
+    "publicationDate": 1731871231
+  },
+  {
+    "_id": "31fcadba-5599-54e2-a00b-72912830d8eb",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/5070735162-lego-ideas",
+    "price": 289.45,
+    "title": "Lego Ideas",
+    "imgUrl": "https://images1.vinted.net/t/03_01042_HM937PjRKAyu6LCNRVM98E7f/f800/1726743203.jpeg?s=21dc3525a7521dd8b02bafd539544512cc6a70ef",
+    "publicationDate": 1726743203
+  },
+  {
+    "_id": "c7d1f456-3919-568e-aa3d-bb8096eba67b",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/4198325604-lego-10273",
     "price": 221.2,
     "title": "Lego 10273",
     "imgUrl": "https://images1.vinted.net/t/02_005f3_RFUw3HwW3XujYRwaFSnnm7fz/f800/1709932120.jpeg?s=b7d439fc117989e1ea0fd882af8a9266bbff7b54",
-    "publicationDate": 1709932120,
-    "id": 4198325604
+    "publicationDate": 1709932120
   },
   {
+    "_id": "f5def1b5-a5e9-5142-ad57-b8ce3f4a27e5",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5199643670-lego-10273-haunted-house-geisterhaus-halloween",
-    "price": 189.7,
-    "title": "Lego 10273 Haunted House Geisterhaus Halloween",
-    "imgUrl": "https://images1.vinted.net/t/01_00668_x77PGXJwuUqnREcjAK5kbski/f800/1728672523.jpeg?s=8ec8bd8b0ca2f9e58210341f61d783ff064bb9f3",
-    "publicationDate": 1728672523,
-    "id": 5199643670
+    "link": "https://www.vinted.fr/items/5198370047-lego-haunted-house-10273-nuovo",
+    "price": 273.7,
+    "title": "Lego - Haunted House - 10273 nuovo",
+    "imgUrl": "https://images1.vinted.net/t/03_01ab0_5j8TWXdcjH8pHMJ6m3uP6Jv6/f800/1728658093.jpeg?s=5a32e3b5289ca34780cafb0cfd3f166f9d9da900",
+    "publicationDate": 1728658093
   },
   {
+    "_id": "29b2938c-67df-577e-b7d7-301bc9fe6659",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4970591860-lego-10273-spookhuis-nieuw-in-gesloten-doos",
-    "price": 247.45,
-    "title": "Lego 10273 spookhuis nieuw in gesloten doos",
-    "imgUrl": "https://images1.vinted.net/t/02_01505_rUGbrKM67vL3vRrSRXnGLDi1/f800/1725193054.jpeg?s=c24fbe5d380dd9497802b12fea272d347eb76a17",
-    "publicationDate": 1725193054,
-    "id": 4970591860
+    "link": "https://www.vinted.fr/items/5138780154-lego-10273-hounted-house-misb",
+    "price": 242.2,
+    "title": "LEGO 10273 Hounted House. MISB",
+    "imgUrl": "https://images1.vinted.net/t/02_013a9_XPKaBJ4v1abQ2SrHRR59qH1N/f800/1727767364.jpeg?s=ad550632d2d097a1b521c0f8a0ad0b769b887750",
+    "publicationDate": 1727767364
   },
   {
+    "_id": "c9e468ac-91e8-50d0-b117-d1f4a094540b",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5249660979-lego-creator-10273-maison-hantee-haunted-house-neuf-scellee",
-    "price": 315.7,
-    "title": "Lego Creator 10273 Maison hantée Haunted house - Neuf scellée",
-    "imgUrl": "https://images1.vinted.net/t/02_022c2_vLYLFBL726bWPAdpzWfCpAtd/f800/1729435104.jpeg?s=72b1469210e1bd37406d31ad19fecb27d248d555",
-    "publicationDate": 1729435104,
-    "id": 5249660979
+    "link": "https://www.vinted.fr/items/5315942735-lego-10273",
+    "price": 241.15,
+    "title": "Lego 10273",
+    "imgUrl": "https://images1.vinted.net/t/04_00e9d_WRaG1P8pqUKqRcnVXn88jxHC/f800/1730547825.jpeg?s=ec223d602e8ded643d67fcd499a799f0d6d27c20",
+    "publicationDate": 1730547825
   },
   {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5229787296-set-lego-10273-haunted-house",
-    "price": 305.2,
-    "title": "Set LEGO 10273 - Haunted House",
-    "imgUrl": "https://images1.vinted.net/t/02_0088a_rqWvmRSKiRVgTp43mLStj4QE/f800/1729109575.jpeg?s=7c9c11dd3a0a96699d1407253b42df94b3cfb0c9",
-    "publicationDate": 1729109575,
-    "id": 5229787296
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5209052524-lego-10273-haunted-house",
-    "price": 314.65,
-    "title": "Lego 10273 Haunted House",
-    "imgUrl": "https://images1.vinted.net/t/02_021e3_XbUHcxZXGVyxCmgracNQFihV/f800/1728822004.jpeg?s=f904c5b7c5531edc77650907931a88fa6f7c0b97",
-    "publicationDate": 1728822004,
-    "id": 5209052524
-  },
-  {
+    "_id": "945cc47f-08c8-5a2d-a237-a3a673c8f0c0",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/3827541300-lego-creator-expert-10273-haunted-house",
     "price": 241.15,
     "title": "Lego Creator expert 10273 Haunted House",
     "imgUrl": "https://images1.vinted.net/t/01_00cf9_vKff7swTuacxoZdDqwoMtwH9/f800/1701330959.jpeg?s=b7d859ae7afb357b11c41144d0ef7c746d98260d",
-    "publicationDate": 1701330959,
-    "id": 3827541300
+    "publicationDate": 1701330959
   },
   {
+    "_id": "ed1e7499-d3e3-5bb7-b9a3-65590e8cd1bb",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5080822699-lego-10273-haunted-house-fairground-collection-nieuw-in-doos",
-    "price": 268.45,
-    "title": "Lego 10273 Haunted House Fairground collection, nieuw in doos",
-    "imgUrl": "https://images1.vinted.net/t/03_025d0_Ah7ytnYZGSh2arSoxibjTXJ2/f800/1726918867.jpeg?s=7121aeaf2dd18e8566d197844043f92f72fc55ea",
-    "publicationDate": 1726918867,
-    "id": 5080822699
+    "link": "https://www.vinted.fr/items/4970591860-lego-10273-spookhuis-nieuw-in-gesloten-doos",
+    "price": 247.45,
+    "title": "Lego 10273 spookhuis nieuw in gesloten doos",
+    "imgUrl": "https://images1.vinted.net/t/02_01505_rUGbrKM67vL3vRrSRXnGLDi1/f800/1725193054.jpeg?s=c24fbe5d380dd9497802b12fea272d347eb76a17",
+    "publicationDate": 1725193054
   },
   {
+    "_id": "871bd0eb-2e1a-571a-bb71-f53c5f824834",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5184700434-set-10273-hanted-house-lego",
-    "price": 263.2,
-    "title": "Set 10273 Hanted House lego",
-    "imgUrl": "https://images1.vinted.net/t/01_0049f_THjnm79Tbrs1W4ixxx7ZuRCh/f800/1728420307.jpeg?s=4b38d8e4109ec30e1999943e6aae2b0dc2138ad8",
-    "publicationDate": 1728420307,
-    "id": 5184700434
+    "link": "https://www.vinted.fr/items/5199643670-lego-10273-haunted-house-geisterhaus-halloween",
+    "price": 189.7,
+    "title": "Lego 10273 Haunted House Geisterhaus Halloween",
+    "imgUrl": "https://images1.vinted.net/t/01_00668_x77PGXJwuUqnREcjAK5kbski/f800/1728672523.jpeg?s=8ec8bd8b0ca2f9e58210341f61d783ff064bb9f3",
+    "publicationDate": 1728672523
   },
   {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5096452022-lego-10273-haunted-house-casa-stregata-expert-f",
-    "price": 315.7,
-    "title": "LEGO 10273 haunted house casa stregata Expert *F",
-    "imgUrl": "https://images1.vinted.net/t/03_024c3_W3YFmZGW3Fo8FZJEYnWCgfCm/f800/1727111663.jpeg?s=a926e66855e343e1492b265d72a17409a9f8cf73",
-    "publicationDate": 1727111663,
-    "id": 5096452022
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4291688144-lego-haunted-house-geisterhaus-auf-dem-jahrmarkt-10273",
-    "price": 194.95,
-    "title": "LEGO Haunted House „Geisterhaus auf dem Jahrmarkt“ (10273)",
-    "imgUrl": "https://images1.vinted.net/t/01_02485_1y5Yozprvpv2hj8mXGh9YzjS/f800/1711798281.jpeg?s=33abdda96bb935d7a2d95543e147da4d8bcc8d15",
-    "publicationDate": 1711798281,
-    "id": 4291688144
-  },
-  {
+    "_id": "9e991247-bdbf-5fdd-b562-521c4413c11d",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/5192412020-lego-10273-haunted-house",
     "price": 210.7,
     "title": "Lego 10273 Haunted House",
     "imgUrl": "https://images1.vinted.net/t/03_02028_a5DR7JorXDyn2LSfbUf8AVzG/f800/1728562227.jpeg?s=b1fbef613ea43a4b51cf53aabf6a32ac087beed2",
-    "publicationDate": 1728562227,
-    "id": 5192412020
+    "publicationDate": 1728562227
   },
   {
+    "_id": "aff92946-8001-51c2-b852-a8b3e6ca1745",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4985055001-lego-hounted-house-misb-10273",
-    "price": 294.7,
-    "title": "Lego hounted house misb 10273",
-    "imgUrl": "https://images1.vinted.net/t/02_0154a_dY8g269Z1KVkkyos2gxYmBcz/f800/1725611219.jpeg?s=57e782b307554789ee5be59009b3da39df7c7cf2",
-    "publicationDate": 1725611219,
-    "id": 4985055001
+    "link": "https://www.vinted.fr/items/5400957706-lego-10273",
+    "price": 263.2,
+    "title": "Lego 10273",
+    "imgUrl": "https://images1.vinted.net/t/04_019b8_823jF6WjYJmNQQ4GrH51CAvZ/f800/1731872539.jpeg?s=6aba1c791420fb5da02e5575157561f5b6ef25f1",
+    "publicationDate": 1731872539
   },
   {
+    "_id": "c0c75dbf-4212-5812-9984-7c2e208648d0",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/5209052524-lego-10273-haunted-house",
+    "price": 314.65,
+    "title": "Lego 10273 Haunted House",
+    "imgUrl": "https://images1.vinted.net/t/02_021e3_XbUHcxZXGVyxCmgracNQFihV/f800/1728822004.jpeg?s=f904c5b7c5531edc77650907931a88fa6f7c0b97",
+    "publicationDate": 1728822004
+  },
+  {
+    "_id": "542976c9-3dac-53bd-af91-34e9c9d5932a",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/5383816380-lego-icons-10273-haunted-house-sigillato",
+    "price": 263.19,
+    "title": "Lego Icons 10273 Haunted House Sigillato 🆕",
+    "imgUrl": "https://images1.vinted.net/t/04_001af_kwEfvmCcQcP3J76Qqy6o6CqN/f800/1731616532.jpeg?s=a51fed59d3e7e5659b8adece2f63ea539b54a35b",
+    "publicationDate": 1731616532
+  },
+  {
+    "_id": "0ef2aea0-7be9-5caa-b0e8-4fcd2ac9e854",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/5096452022-lego-10273-haunted-house-casa-stregata-expert-f",
+    "price": 315.7,
+    "title": "LEGO 10273 haunted house casa stregata Expert *F",
+    "imgUrl": "https://images1.vinted.net/t/03_024c3_W3YFmZGW3Fo8FZJEYnWCgfCm/f800/1727111663.jpeg?s=a926e66855e343e1492b265d72a17409a9f8cf73",
+    "publicationDate": 1727111663
+  },
+  {
+    "_id": "16ac6a37-ce4a-521a-b0cb-75ea324a6780",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/5389597587-lego-10273-hounted-house",
+    "price": 273.7,
+    "title": "Lego 10273 Hounted House",
+    "imgUrl": "https://images1.vinted.net/t/01_003a9_tqb27k6RaYZGVsLVciLntrjh/f800/1731751602.jpeg?s=e77fa58ae8525a1ed1552614d42c73696628983e",
+    "publicationDate": 1731751602
+  },
+  {
+    "_id": "c1b761c9-0a42-549f-9814-c28b21259fc8",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/4772542928-lego-icons-10273-haunted-house",
     "price": 294.7,
     "title": "Lego Icons 10273 Haunted house",
     "imgUrl": "https://images1.vinted.net/t/02_010ef_MmGvto6ww4TooAdv18N8aYwx/f800/1721139509.jpeg?s=a87db704a9ffff07aee942d86ba9f0acdc581406",
-    "publicationDate": 1721139509,
-    "id": 4772542928
+    "publicationDate": 1721139509
   },
   {
+    "_id": "1e008220-d7ae-53d9-8c54-e1fae1ded2f4",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/2710746504-lego-10273-hounted-house-casa-stregata-nuovo",
-    "price": 299.95,
-    "title": "lego 10273 hounted house (casa stregata) nuovo",
-    "imgUrl": "https://images1.vinted.net/t/01_026ff_3dMLypHUj24m1oFBW7eHiHpE/f800/1676901347.jpeg?s=75f5f8cf21eea38a1c355c2b1c7d8c5ab75a25ae",
-    "publicationDate": 1676901347,
-    "id": 2710746504
+    "link": "https://www.vinted.fr/items/5184700434-set-10273-hanted-house-lego",
+    "price": 263.2,
+    "title": "Set 10273 Hanted House lego",
+    "imgUrl": "https://images1.vinted.net/t/01_0049f_THjnm79Tbrs1W4ixxx7ZuRCh/f800/1728420307.jpeg?s=4b38d8e4109ec30e1999943e6aae2b0dc2138ad8",
+    "publicationDate": 1728420307
   },
   {
+    "_id": "d7f62d15-f000-5893-93e6-52fa65d15fcf",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/3804543236-lego-creator-expert-10273-la-maison-hantee-de-la-fete-foraine",
-    "price": 315.7,
-    "title": "Lego creator expert 10273 La maison hantée de la fête foraine",
-    "imgUrl": "https://images1.vinted.net/t/01_0254b_33fh5hMFpuH2xjE1zYyVFWp2/f800/1700856754.jpeg?s=524d42f94c55338fde8d94d5fc52b31fce0a65e3",
-    "publicationDate": 1700856754,
-    "id": 3804543236
+    "link": "https://www.vinted.fr/items/4971562076-lego-10273-haunted-house",
+    "price": 210.7,
+    "title": "Lego 10273 haunted house",
+    "imgUrl": "https://images1.vinted.net/t/01_000aa_5aKfzGTTWjXDCXnYimhdimmg/f800/1725199820.jpeg?s=1bf2c71c79d7e832eec13400f27d4c2ba2cf048d",
+    "publicationDate": 1725199820
   },
   {
+    "_id": "de436d89-2c91-5a63-855a-1a9c8b21d8b5",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4819667683-lego-10273-haunted-house",
-    "price": 284.2,
-    "title": "Lego 10273 Haunted House",
-    "imgUrl": "https://images1.vinted.net/t/02_0083e_K9EcydWSj2Uj8EBpxMhLuYYx/f800/1722180661.jpeg?s=7a43572796170559e2f1a72ec66d42553bdc4f0c",
-    "publicationDate": 1722180661,
-    "id": 4819667683
+    "link": "https://www.vinted.fr/items/5180334442-lego-10273-hainted-house",
+    "price": 236.95,
+    "title": "Lego 10273 hainted house",
+    "imgUrl": "https://images1.vinted.net/t/02_02635_zbctejspuEC9zCtkjxEv24dT/f800/1728378025.jpeg?s=5e60793375411b9ea123c3fac9f5960d1045f9ae",
+    "publicationDate": 1728378025
   },
   {
+    "_id": "32b38252-f688-5a8a-99c3-43f919ae5602",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5194990636-lego-haunted-house-casa-stregata-10273",
-    "price": 315.7,
-    "title": "LEGO Haunted House Casa stregata 10273",
-    "imgUrl": "https://images1.vinted.net/t/02_01510_61nGyvwop7Gnab9W1jD6eJBS/f800/1728588503.jpeg?s=3a96da0d51566fc233d629c5d54f76e79ac79793",
-    "publicationDate": 1728588503,
-    "id": 5194990636
+    "link": "https://www.vinted.fr/items/4291688144-lego-haunted-house-geisterhaus-auf-dem-jahrmarkt-10273",
+    "price": 194.95,
+    "title": "LEGO Haunted House „Geisterhaus auf dem Jahrmarkt“ (10273)",
+    "imgUrl": "https://images1.vinted.net/t/01_02485_1y5Yozprvpv2hj8mXGh9YzjS/f800/1711798281.jpeg?s=33abdda96bb935d7a2d95543e147da4d8bcc8d15",
+    "publicationDate": 1711798281
   },
   {
+    "_id": "d89091b4-7469-5318-8683-129c0ff8f27d",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4257109993-lego-creator-10273-haunted-house",
-    "price": 284.2,
-    "title": "LEGO Creator 10273 : Haunted House ",
-    "imgUrl": "https://images1.vinted.net/t/01_01aeb_eH5nTRd5jLstxM2fVU8FUaYx/f800/1711118118.jpeg?s=5dd8e845671a6c40fc930001187f1aa88a84edba",
-    "publicationDate": 1711118118,
-    "id": 4257109993
+    "link": "https://www.vinted.fr/items/5229787296-set-lego-10273-haunted-house",
+    "price": 305.2,
+    "title": "Set LEGO 10273 - Haunted House",
+    "imgUrl": "https://images1.vinted.net/t/02_0088a_rqWvmRSKiRVgTp43mLStj4QE/f800/1729109575.jpeg?s=7c9c11dd3a0a96699d1407253b42df94b3cfb0c9",
+    "publicationDate": 1729109575
   },
   {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4880120923-lego-10273-casa-encantada-de-la-feria-haunted-house",
-    "price": 524.65,
-    "title": "LEGO 10273 Casa Encantada de la Feria - Haunted House",
-    "imgUrl": "https://images1.vinted.net/t/02_020ac_i9TifebZ7va3W9WP6K9bnaNh/f800/1723490259.jpeg?s=90feb25c40b574c83d6d0f35a93ff5937a88d368",
-    "publicationDate": 1723490259,
-    "id": 4880120923
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/5322602584-casa-stregata-lego-haunted-house-fuori-produzione-misb",
-    "price": 315.7,
-    "title": "Casa stregata lego - Haunted House - fuori produzione MISB",
-    "imgUrl": "https://images1.vinted.net/t/03_0083c_v7xe9y6U2saxHbBnX8JhmyGr/f800/1730639822.jpeg?s=9f9dfee8817a05f7bbf413e2262d58011444fca9",
-    "publicationDate": 1730639822,
-    "id": 5322602584
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4756026130-lego-10273-la-maison-hantee-de-la-fete-foraine",
-    "price": 315.7,
-    "title": "Lego - 10273 - La maison hantée de la fête foraine",
-    "imgUrl": "https://images1.vinted.net/t/02_0147b_wvhradPJehWJDRkjaYCK9MXm/f800/1720791221.jpeg?s=0687de73014747226aa0913cb53eda38c7cbef7b",
-    "publicationDate": 1720791221,
-    "id": 4756026130
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4541212246-lego-icons-10273-haunted-house",
-    "price": 315.69,
-    "title": "Lego Icons 10273 Haunted House",
-    "imgUrl": "https://images1.vinted.net/t/03_003b4_pugGVviRYeamnZxzSBEDf7Qd/f800/1716398762.jpeg?s=74cea994e1223fff11b944b9a59ffe0e92a3ebeb",
-    "publicationDate": 1716398762,
-    "id": 4541212246
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/3804864829-lego-10273-creator-spookhuis",
-    "price": 272.65,
-    "title": "Lego 10273 - Creator - spookhuis",
-    "imgUrl": "https://images1.vinted.net/t/02_00674_Pwn9puQsgVG3igtffKW9nVU4/f800/1700863188.jpeg?s=56fcc26d0ce5ab0ac0c0e1a91c6325b3f904eb14",
-    "publicationDate": 1700863188,
-    "id": 3804864829
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4883404081-lego-set-haunted-house-cod-10273",
-    "price": 231.7,
-    "title": "Lego Set Haunted House (cod 10273)",
-    "imgUrl": "https://images1.vinted.net/t/02_00201_2NbgQzeKAyTm4TdMQ2cV5xvC/f800/1723566825.jpeg?s=1e357e50b2bd2b4ff9a9139a44166265986c915e",
-    "publicationDate": 1723566825,
-    "id": 4883404081
-  },
-  {
+    "_id": "3b264fcc-7e0c-5509-864e-8888fb944caf",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/5078181171-lego-10273-nuovo",
     "price": 257.95,
     "title": "Lego 10273 nuovo",
     "imgUrl": "https://images1.vinted.net/t/02_00a31_MdsXJz8KFwRQTMefobM14XKu/f800/1726857163.jpeg?s=1d3a3e5505052db4ee41ce0a491c2bccfc60b613",
-    "publicationDate": 1726857163,
-    "id": 5078181171
+    "publicationDate": 1726857163
   },
   {
+    "_id": "38f0bc00-2cc2-5195-bed7-286dc9b3148b",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/3427081150-lego-la-maison-hantee-de-la-fete-foraine-10273",
-    "price": 263.2,
-    "title": "Lego La maison hantée de la fête foraine 10273",
-    "imgUrl": "https://images1.vinted.net/t/01_008cb_fMqwd8xuq29R1qEbYZ5TuTSH/f800/1693685899.jpeg?s=d96bb596e26b902caa5a42621eef62cb201f3c6f",
-    "publicationDate": 1693685899,
-    "id": 3427081150
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/3984983646-lego-10273-maison-hantee-fete-foraine",
+    "link": "https://www.vinted.fr/items/5249660979-lego-creator-10273-maison-hantee-haunted-house-neuf-scellee",
     "price": 315.7,
-    "title": "Lego 10273 maison hantée fête foraine",
-    "imgUrl": "https://images1.vinted.net/t/01_003c7_5gRdW1wTDkyyZxZ58hFyWuwb/f800/1705397091.jpeg?s=b38c6a04959e90afea94d92c931c7d0129d47b06",
-    "publicationDate": 1705397091,
-    "id": 3984983646
+    "title": "Lego Creator 10273 Maison hantée Haunted house - Neuf scellée",
+    "imgUrl": "https://images1.vinted.net/t/02_022c2_vLYLFBL726bWPAdpzWfCpAtd/f800/1729435104.jpeg?s=72b1469210e1bd37406d31ad19fecb27d248d555",
+    "publicationDate": 1729435104
   },
   {
+    "_id": "6b40aa6e-6f53-57cf-923f-849816dfd77a",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4026978579-hanted-house-lego-10273",
-    "price": 294.7,
-    "title": "Hanted House Lego 10273",
-    "imgUrl": "https://images1.vinted.net/t/01_01ea0_Fw2jMyivLs3uHVTWina12Tzv/f800/1706310458.jpeg?s=e33ba86ece62c2e6dbdfc9ce3f545785bf555cec",
-    "publicationDate": 1706310458,
-    "id": 4026978579
+    "link": "https://www.vinted.fr/items/5080822699-lego-10273-haunted-house-fairground-collection-nieuw-in-doos",
+    "price": 268.45,
+    "title": "Lego 10273 Haunted House Fairground collection, nieuw in doos",
+    "imgUrl": "https://images1.vinted.net/t/03_025d0_Ah7ytnYZGSh2arSoxibjTXJ2/f800/1726918867.jpeg?s=7121aeaf2dd18e8566d197844043f92f72fc55ea",
+    "publicationDate": 1726918867
   },
   {
+    "_id": "d3100881-3136-5712-af63-89650c2da891",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4616339911-lego-10273-casa-stregata",
-    "price": 299.95,
-    "title": "Lego 10273 Casa Stregata",
-    "imgUrl": "https://images1.vinted.net/t/03_00d4d_AdVqCBYSbUU5GiaMpaXNgDaL/f800/1717879987.jpeg?s=920b8bcb2e1d15e0f7a3cfc7a9a26617d03da959",
-    "publicationDate": 1717879987,
-    "id": 4616339911
+    "link": "https://www.vinted.fr/items/4756026130-lego-10273-la-maison-hantee-de-la-fete-foraine",
+    "price": 315.7,
+    "title": "Lego - 10273 - La maison hantée de la fête foraine",
+    "imgUrl": "https://images1.vinted.net/t/02_0147b_wvhradPJehWJDRkjaYCK9MXm/f800/1720791221.jpeg?s=0687de73014747226aa0913cb53eda38c7cbef7b",
+    "publicationDate": 1720791221
   },
   {
+    "_id": "296e662f-9427-5e79-ac53-2a390b49c448",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4123340389-la-maison-hantee-de-la-fete-foraine-10273",
-    "price": 278.95,
-    "title": "La maison hantée de la fête foraine 10273",
-    "imgUrl": "https://images1.vinted.net/t/02_00491_egzUtw7YZNjLmNrM5xWPzb6G/f800/1708391674.jpeg?s=8cfa214b64101e67da35ca104961bb24ba8139c8",
-    "publicationDate": 1708391674,
-    "id": 4123340389
+    "link": "https://www.vinted.fr/items/4880120923-lego-10273-casa-encantada-de-la-feria-haunted-house",
+    "price": 524.65,
+    "title": "LEGO 10273 Casa Encantada de la Feria - Haunted House",
+    "imgUrl": "https://images1.vinted.net/t/02_020ac_i9TifebZ7va3W9WP6K9bnaNh/f800/1723490259.jpeg?s=90feb25c40b574c83d6d0f35a93ff5937a88d368",
+    "publicationDate": 1723490259
   },
   {
+    "_id": "7844b3eb-e9fb-5d13-a699-806be17f7d8a",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/2236376783-set-lego-10273casa-stregata",
-    "price": 263.2,
-    "title": "Set lego 10273\"Casa stregata \"",
-    "imgUrl": "https://images1.vinted.net/t/02_00bd1_5be8PqcfMJAorcGaAHyAnANk/f800/1664040419.jpeg?s=74ad258b394c5a2531d832336857e38a276716f6",
-    "publicationDate": 1664040419,
-    "id": 2236376783
+    "link": "https://www.vinted.fr/items/3804543236-lego-creator-expert-10273-la-maison-hantee-de-la-fete-foraine",
+    "price": 315.7,
+    "title": "Lego creator expert 10273 La maison hantée de la fête foraine",
+    "imgUrl": "https://images1.vinted.net/t/01_0254b_33fh5hMFpuH2xjE1zYyVFWp2/f800/1700856754.jpeg?s=524d42f94c55338fde8d94d5fc52b31fce0a65e3",
+    "publicationDate": 1700856754
   },
   {
+    "_id": "6dee9654-acbd-5ead-a47d-4880c82770d5",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/2800046041-lego-10273-haunted-house",
-    "price": 284.2,
-    "title": "Lego 10273 Haunted House",
-    "imgUrl": "https://images1.vinted.net/t/03_01f27_WQeVPjULDJx9W93VCzF4kEQ6/f800/1679087635.jpeg?s=d4a545cf88dcb4ae825ac5ade18f5ceda3d96e73",
-    "publicationDate": 1679087635,
-    "id": 2800046041
+    "link": "https://www.vinted.fr/items/5194990636-lego-haunted-house-casa-stregata-10273",
+    "price": 315.7,
+    "title": "LEGO Haunted House Casa stregata 10273",
+    "imgUrl": "https://images1.vinted.net/t/02_01510_61nGyvwop7Gnab9W1jD6eJBS/f800/1728588503.jpeg?s=3a96da0d51566fc233d629c5d54f76e79ac79793",
+    "publicationDate": 1728588503
   },
   {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4885418285-lego-technic-42054",
-    "price": 399.7,
-    "title": "Lego Technic 42054",
-    "imgUrl": "https://images1.vinted.net/t/01_00e67_AT9E87revqx76zdo2BEVDhqL/f800/1723629377.jpeg?s=75e9262d381f826b94cd61c8fc00e4a7b2f6bc5b",
-    "publicationDate": 1723629377,
-    "id": 4885418285
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/3914161061-lego-10273-haunted-house",
-    "price": 294.7,
-    "title": "Lego 10273 Haunted House",
-    "imgUrl": "https://images1.vinted.net/t/03_00dad_FQNiyr6tdd3sUKiMtnieHZUG/f800/1703760991.jpeg?s=57391a0c2ef6e7ca2ca9bbd22a8d5c1ecd8b2201",
-    "publicationDate": 1703760991,
-    "id": 3914161061
-  },
-  {
+    "_id": "262f782e-78e1-593d-a067-162d48378828",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/4801746996-lego-10273-haunted-house",
     "price": 273.7,
     "title": "Lego 10273 Haunted House",
     "imgUrl": "https://images1.vinted.net/t/03_003aa_hsknfaRjsM4LRRJyqrxB2LPE/f800/1721769991.jpeg?s=1029f9c6ebf431e94a10516e77a96a81eb908cde",
-    "publicationDate": 1721769991,
-    "id": 4801746996
+    "publicationDate": 1721769991
   },
   {
+    "_id": "58977965-2e22-5ff6-950c-141d74e24717",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/2728286294-lego-10273-haunted-house-nuovo-sigillato",
-    "price": 346.15,
-    "title": "Lego 10273 - Haunted House - Nuovo - Sigillato",
-    "imgUrl": "https://images1.vinted.net/t/03_015da_xqtN7KxgRuDAR6fyqWRMM4ss/f800/1677756806.jpeg?s=08b51cd8c41b9ba75febc6854c22b1578e32f1fc",
-    "publicationDate": 1677756806,
-    "id": 2728286294
+    "link": "https://www.vinted.fr/items/4985055001-lego-hounted-house-misb-10273",
+    "price": 294.7,
+    "title": "Lego hounted house misb 10273",
+    "imgUrl": "https://images1.vinted.net/t/02_0154a_dY8g269Z1KVkkyos2gxYmBcz/f800/1725611219.jpeg?s=57e782b307554789ee5be59009b3da39df7c7cf2",
+    "publicationDate": 1725611219
   },
   {
+    "_id": "d6425d27-0f4b-56a9-a83b-f4b64859bdf8",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4703681460-lego-10273-haunted-house-casa-stregata-nuovo",
-    "price": 357.7,
-    "title": "Lego 10273 haunted house casa stregata  nuovo",
-    "imgUrl": "https://images1.vinted.net/t/03_005f1_HjAXyZsRw1XRvBfjqCirDVJJ/f800/1719739754.jpeg?s=6c23c738c939ee5360c3973d3cbc3478b6ba9003",
-    "publicationDate": 1719739754,
-    "id": 4703681460
+    "link": "https://www.vinted.fr/items/4257109993-lego-creator-10273-haunted-house",
+    "price": 284.2,
+    "title": "LEGO Creator 10273 : Haunted House ",
+    "imgUrl": "https://images1.vinted.net/t/01_01aeb_eH5nTRd5jLstxM2fVU8FUaYx/f800/1711118118.jpeg?s=5dd8e845671a6c40fc930001187f1aa88a84edba",
+    "publicationDate": 1711118118
   },
   {
+    "_id": "c56f2b0d-49bc-5c05-b6c5-0d24134ee851",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/3804864829-lego-10273-creator-spookhuis",
+    "price": 272.65,
+    "title": "Lego 10273 - Creator - spookhuis",
+    "imgUrl": "https://images1.vinted.net/t/02_00674_Pwn9puQsgVG3igtffKW9nVU4/f800/1700863188.jpeg?s=56fcc26d0ce5ab0ac0c0e1a91c6325b3f904eb14",
+    "publicationDate": 1700863188
+  },
+  {
+    "_id": "c0eaacb7-eee2-5674-8835-a611c779967f",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/4819667683-lego-10273-haunted-house",
+    "price": 284.2,
+    "title": "Lego 10273 Haunted House",
+    "imgUrl": "https://images1.vinted.net/t/02_0083e_K9EcydWSj2Uj8EBpxMhLuYYx/f800/1722180661.jpeg?s=7a43572796170559e2f1a72ec66d42553bdc4f0c",
+    "publicationDate": 1722180661
+  },
+  {
+    "_id": "89c24534-2c63-5c8c-aa5e-71ffcf5de359",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/4381052882-lego-haunted-house-10273",
     "price": 305.2,
     "title": "Lego Haunted House  10273",
     "imgUrl": "https://images1.vinted.net/t/01_02145_YoM6F1CKTzWPYzbatsUbUWns/f800/1713435489.jpeg?s=bbe68f0c026991e3261601a4e47d2c8c59818e87",
-    "publicationDate": 1713435489,
-    "id": 4381052882
+    "publicationDate": 1713435489
   },
   {
+    "_id": "f2732519-4d56-52ee-b7c5-66a61d920df7",
     "legoId": "10273",
-    "link": "https://www.vinted.fr/items/4022506382-lego-10273-haunted-house",
-    "price": 368.2,
-    "title": "Lego 10273 Haunted House",
-    "imgUrl": "https://images1.vinted.net/t/02_00b9a_umtV1p8z24kbhiaYsE5YrNA2/f800/1706201963.jpeg?s=649cdec304451adb19494d4db989797fd1566dfd",
-    "publicationDate": 1706201963,
-    "id": 4022506382
+    "link": "https://www.vinted.fr/items/4123340389-la-maison-hantee-de-la-fete-foraine-10273",
+    "price": 278.95,
+    "title": "La maison hantée de la fête foraine 10273",
+    "imgUrl": "https://images1.vinted.net/t/02_00491_egzUtw7YZNjLmNrM5xWPzb6G/f800/1708391674.jpeg?s=8cfa214b64101e67da35ca104961bb24ba8139c8",
+    "publicationDate": 1708391674
   },
   {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/3971105628-lego-10273",
-    "price": 425.95,
-    "title": "Lego 10273",
-    "imgUrl": "https://images1.vinted.net/t/03_01715_vBtpFZZrX4ZFqYVfFdcgH4yY/f800/1705100415.jpeg?s=f0a2cae4b9070a9e5e15cab09e993f6716176a23",
-    "publicationDate": 1705100415,
-    "id": 3971105628
-  },
-  {
-    "legoId": "10273",
-    "link": "https://www.vinted.fr/items/3919263366-lego-10273-haunted-house-nuovo",
-    "price": 368.2,
-    "title": "Lego 10273 Haunted House nuovo",
-    "imgUrl": "https://images1.vinted.net/t/01_00b97_tFcsKdeBnUJiL4Mz5GThJo7Q/f800/1703869530.jpeg?s=6c16a4f1cf8b576e53eb8c36b2dc0b7b690e13f5",
-    "publicationDate": 1703869530,
-    "id": 3919263366
-  },
-  {
+    "_id": "a97d55eb-8a8b-55d8-a19b-ce705f239e8a",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/4031999830-lego-10273-la-maison-hantee-de-la-fete-foraine",
     "price": 357.7,
     "title": "Lego 10273 : La maison hantée de la fête foraine\n\n",
     "imgUrl": "https://images1.vinted.net/t/01_00908_FJuCy65rKwgHPqWdNrSUtzVn/f800/1706439008.jpeg?s=2e7be83849aaa0c9d2e50aa17185398548b15bfa",
-    "publicationDate": 1706439008,
-    "id": 4031999830
+    "publicationDate": 1706439008
   },
   {
+    "_id": "755f2b02-7b0f-5ba8-b553-e1cff3494046",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/4703681460-lego-10273-haunted-house-casa-stregata-nuovo",
+    "price": 357.7,
+    "title": "Lego 10273 haunted house casa stregata  nuovo",
+    "imgUrl": "https://images1.vinted.net/t/03_005f1_HjAXyZsRw1XRvBfjqCirDVJJ/f800/1719739754.jpeg?s=6c23c738c939ee5360c3973d3cbc3478b6ba9003",
+    "publicationDate": 1719739754
+  },
+  {
+    "_id": "580fff56-63d0-5030-8b90-5d2b470600a1",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/4885418285-lego-technic-42054",
+    "price": 399.7,
+    "title": "Lego Technic 42054",
+    "imgUrl": "https://images1.vinted.net/t/01_00e67_AT9E87revqx76zdo2BEVDhqL/f800/1723629377.jpeg?s=75e9262d381f826b94cd61c8fc00e4a7b2f6bc5b",
+    "publicationDate": 1723629377
+  },
+  {
+    "_id": "6c4079a1-305a-5b95-8b0b-355ffadee155",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/4026978579-hanted-house-lego-10273",
+    "price": 294.7,
+    "title": "Hanted House Lego 10273",
+    "imgUrl": "https://images1.vinted.net/t/01_01ea0_Fw2jMyivLs3uHVTWina12Tzv/f800/1706310458.jpeg?s=e33ba86ece62c2e6dbdfc9ce3f545785bf555cec",
+    "publicationDate": 1706310458
+  },
+  {
+    "_id": "b8f0ec41-95ec-5870-8fa7-02f790ab58bb",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/2710746504-lego-10273-hounted-house-casa-stregata-nuovo",
+    "price": 299.95,
+    "title": "lego 10273 hounted house (casa stregata) nuovo",
+    "imgUrl": "https://images1.vinted.net/t/01_026ff_3dMLypHUj24m1oFBW7eHiHpE/f800/1676901347.jpeg?s=75f5f8cf21eea38a1c355c2b1c7d8c5ab75a25ae",
+    "publicationDate": 1676901347
+  },
+  {
+    "_id": "29b4b60a-105e-5a35-acda-6d57dd339518",
     "legoId": "10273",
     "link": "https://www.vinted.fr/items/4844532307-lego-10273-hounted-house-casa-infestata-nuovo-misb-fuori-produzione-out-of-stock",
     "price": 314.65,
     "title": "LEGO 10273 Hounted House Casa Infestata nuovo misb fuori produzione out of stock",
     "imgUrl": "https://images1.vinted.net/t/02_01163_Nrh1bB9u9huxf8M2Ex1gieuL/f800/1722764943.jpeg?s=e850dedc48d5d41a87b4db4700f4165289439d84",
-    "publicationDate": 1722764943,
-    "id": 4844532307
+    "publicationDate": 1722764943
+  },
+  {
+    "_id": "9fc35883-2d05-55ce-987e-64978ce546b5",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/3984983646-lego-10273-maison-hantee-fete-foraine",
+    "price": 315.7,
+    "title": "Lego 10273 maison hantée fête foraine",
+    "imgUrl": "https://images1.vinted.net/t/01_003c7_5gRdW1wTDkyyZxZ58hFyWuwb/f800/1705397091.jpeg?s=b38c6a04959e90afea94d92c931c7d0129d47b06",
+    "publicationDate": 1705397091
+  },
+  {
+    "_id": "c7939a80-1ad2-5337-ad39-ff7f73426c6b",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/4616339911-lego-10273-casa-stregata",
+    "price": 299.95,
+    "title": "Lego 10273 Casa Stregata",
+    "imgUrl": "https://images1.vinted.net/t/03_00d4d_AdVqCBYSbUU5GiaMpaXNgDaL/f800/1717879987.jpeg?s=920b8bcb2e1d15e0f7a3cfc7a9a26617d03da959",
+    "publicationDate": 1717879987
+  },
+  {
+    "_id": "a25a75cb-f2a2-536f-9427-8479dda861cf",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/5322602584-casa-stregata-lego-haunted-house-fuori-produzione-misb",
+    "price": 315.7,
+    "title": "Casa stregata lego - Haunted House - fuori produzione MISB",
+    "imgUrl": "https://images1.vinted.net/t/03_0083c_v7xe9y6U2saxHbBnX8JhmyGr/f800/1730639822.jpeg?s=9f9dfee8817a05f7bbf413e2262d58011444fca9",
+    "publicationDate": 1730639822
+  },
+  {
+    "_id": "105072c8-666a-51be-a657-9a8fde27e5ae",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/2728286294-lego-10273-haunted-house-nuovo-sigillato",
+    "price": 346.15,
+    "title": "Lego 10273 - Haunted House - Nuovo - Sigillato",
+    "imgUrl": "https://images1.vinted.net/t/03_015da_xqtN7KxgRuDAR6fyqWRMM4ss/f800/1677756806.jpeg?s=08b51cd8c41b9ba75febc6854c22b1578e32f1fc",
+    "publicationDate": 1677756806
+  },
+  {
+    "_id": "1de627d9-7d5b-5f38-a576-e803f0d3899c",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/2800046041-lego-10273-haunted-house",
+    "price": 284.2,
+    "title": "Lego 10273 Haunted House",
+    "imgUrl": "https://images1.vinted.net/t/03_01f27_WQeVPjULDJx9W93VCzF4kEQ6/f800/1679087635.jpeg?s=d4a545cf88dcb4ae825ac5ade18f5ceda3d96e73",
+    "publicationDate": 1679087635
+  },
+  {
+    "_id": "05d0aa43-e52b-57ff-8863-6465db256f16",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/3914161061-lego-10273-haunted-house",
+    "price": 294.7,
+    "title": "Lego 10273 Haunted House",
+    "imgUrl": "https://images1.vinted.net/t/03_00dad_FQNiyr6tdd3sUKiMtnieHZUG/f800/1703760991.jpeg?s=57391a0c2ef6e7ca2ca9bbd22a8d5c1ecd8b2201",
+    "publicationDate": 1703760991
+  },
+  {
+    "_id": "bb7d97f7-480f-5ea7-b895-82897175e38b",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/2236376783-set-lego-10273casa-stregata",
+    "price": 263.2,
+    "title": "Set lego 10273\"Casa stregata \"",
+    "imgUrl": "https://images1.vinted.net/t/02_00bd1_5be8PqcfMJAorcGaAHyAnANk/f800/1664040419.jpeg?s=74ad258b394c5a2531d832336857e38a276716f6",
+    "publicationDate": 1664040419
+  },
+  {
+    "_id": "6565de22-620a-5aa4-86f0-a3a079b2d97c",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/3971105628-lego-10273",
+    "price": 425.95,
+    "title": "Lego 10273",
+    "imgUrl": "https://images1.vinted.net/t/03_01715_vBtpFZZrX4ZFqYVfFdcgH4yY/f800/1705100415.jpeg?s=f0a2cae4b9070a9e5e15cab09e993f6716176a23",
+    "publicationDate": 1705100415
+  },
+  {
+    "_id": "1174ced5-5c45-52ee-8b1c-92a480d6d782",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/4022506382-lego-10273-haunted-house",
+    "price": 368.2,
+    "title": "Lego 10273 Haunted House",
+    "imgUrl": "https://images1.vinted.net/t/02_00b9a_umtV1p8z24kbhiaYsE5YrNA2/f800/1706201963.jpeg?s=649cdec304451adb19494d4db989797fd1566dfd",
+    "publicationDate": 1706201963
+  },
+  {
+    "_id": "9e5589c1-2fa1-536b-a68b-adb07fdab1ff",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/3427081150-lego-la-maison-hantee-de-la-fete-foraine-10273",
+    "price": 263.2,
+    "title": "Lego La maison hantée de la fête foraine 10273",
+    "imgUrl": "https://images1.vinted.net/t/01_008cb_fMqwd8xuq29R1qEbYZ5TuTSH/f800/1693685899.jpeg?s=d96bb596e26b902caa5a42621eef62cb201f3c6f",
+    "publicationDate": 1693685899
+  },
+  {
+    "_id": "aaa123d0-e631-5280-8f19-9939fd5b84c6",
+    "legoId": "10273",
+    "link": "https://www.vinted.fr/items/3919263366-lego-10273-haunted-house-nuovo",
+    "price": 368.2,
+    "title": "Lego 10273 Haunted House nuovo",
+    "imgUrl": "https://images1.vinted.net/t/01_00b97_tFcsKdeBnUJiL4Mz5GThJo7Q/f800/1703869530.jpeg?s=6c16a4f1cf8b576e53eb8c36b2dc0b7b690e13f5",
+    "publicationDate": 1703869530
   }
 ]

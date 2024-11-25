@@ -1,110 +1,119 @@
 [
   {
+    "_id": "70955e20-13ae-5eae-9707-a4ec0155c370",
     "legoId": "11023",
     "link": "https://www.vinted.fr/items/5333826710-lot-de-3-plaques-vertes-lego-11023",
     "price": 22.75,
     "title": "Lot de 3 plaques vertes lego 11023",
     "imgUrl": "https://images1.vinted.net/t/03_01e11_paf1P3kWNqppTzRm5GKpFZky/f800/1730812168.jpeg?s=a1f66c48372f9df2980c1d20a1435422598f1f72",
-    "publicationDate": 1730812168,
-    "id": 5333826710
+    "publicationDate": 1730812168
   },
   {
+    "_id": "848770eb-3a75-566f-891a-2f432bf14f51",
     "legoId": "11023",
     "link": "https://www.vinted.fr/items/5366382147-3-baseplate-lego-11023",
     "price": 16.45,
     "title": "3 baseplate lego 11023",
     "imgUrl": "https://images1.vinted.net/t/04_0107b_k5CRQpxwuqTfjRavCCKmGpnb/f800/1731337449.jpeg?s=fdbf1b8b98ff00f3d8ebbedd07db0be6e412ed72",
-    "publicationDate": 1731337449,
-    "id": 5366382147
+    "publicationDate": 1731337449
   },
   {
-    "legoId": "11023",
-    "link": "https://www.vinted.fr/items/5295234335-lego-classic-11023-la-plaque-de-construction-verte",
-    "price": 5.95,
-    "title": "Lego classic 11023 - La plaque de construction verte",
-    "imgUrl": "https://images1.vinted.net/t/03_0174f_AaxrZ8uE6v8srmNCEsmbhjC1/f800/1730150802.jpeg?s=97c5146f138cefc3c17e52f0c7a5767d93b13399",
-    "publicationDate": 1730150802,
-    "id": 5295234335
-  },
-  {
+    "_id": "bf64ef1d-4144-5cab-893c-70bf2949dc66",
     "legoId": "11023",
     "link": "https://www.vinted.fr/items/5244197755-2-lego-bauplatten",
     "price": 13.3,
     "title": "2 Lego Bauplatten",
     "imgUrl": "https://images1.vinted.net/t/01_00568_2RGdGatBX8f1StZDuL9pvkcV/f800/1729357293.jpeg?s=61280b7dfd6e4e69b3432c6e86ad832daf3598ce",
-    "publicationDate": 1729357293,
-    "id": 5244197755
+    "publicationDate": 1729357293
   },
   {
+    "_id": "06fff512-2992-5d37-92df-c4b63b44fe82",
+    "legoId": "11023",
+    "link": "https://www.vinted.fr/items/5419551259-lego-set-de-9-plaques-de-construction-11023-11024-11025-vintage",
+    "price": 32.2,
+    "title": "Lego set de 9 plaques de construction (11023 - 11024 - 11025 - vintage)",
+    "imgUrl": "https://images1.vinted.net/t/04_020d6_t2pJN6VBUHc85cm8zq9ZtDn9/f800/1732199162.jpeg?s=7ba597958d328f60977181ffb0a3c30ea6ddc2b6",
+    "publicationDate": 1732199162
+  },
+  {
+    "_id": "381dad01-4911-58fc-a9cb-3802196930fb",
     "legoId": "11023",
     "link": "https://www.vinted.fr/items/4968043259-lot-de-5-plaques-lego-vertes-11023",
     "price": 42.7,
     "title": "Lot de 5 plaques Lego vertes 11023",
     "imgUrl": "https://images1.vinted.net/t/02_01f8b_nj7nrv5R4ct8sn2qcZyudsHK/f800/1725133910.jpeg?s=63b6a642d459e77cf24eb20ad8b62be0a253b63a",
-    "publicationDate": 1725133910,
-    "id": 4968043259
+    "publicationDate": 1725133910
   },
   {
-    "legoId": "11023",
-    "link": "https://www.vinted.fr/items/4506276366-lego-66745",
-    "price": 24.33,
-    "title": "Lego 66745",
-    "imgUrl": "https://images1.vinted.net/t/02_02519_p8mu6rbsr7JeSE7P6ptt8XL5/f800/1715770758.jpeg?s=f7f1371acc441449715e38f0457d29d7da264f36",
-    "publicationDate": 1715770758,
-    "id": 4506276366
-  },
-  {
+    "_id": "69e92a15-8dc7-594d-b2f9-c172f91df1b7",
     "legoId": "11023",
     "link": "https://www.vinted.fr/items/3793461437-lego-sealed-bundel-2in1-66745-11027-11023",
     "price": 22.75,
     "title": "Lego sealed bundel 2in1 66745 (11027 + 11023)",
     "imgUrl": "https://images1.vinted.net/t/01_01711_4Jn3zkiyr9BUFzdLjKBYzNYo/f800/1700641290.jpeg?s=4f0fee2db167be27701b7ee3755d71b6f9b4815b",
-    "publicationDate": 1700641290,
-    "id": 3793461437
+    "publicationDate": 1700641290
   },
   {
+    "_id": "86cbf7b1-6cea-5882-a91b-637f57b99aa3",
     "legoId": "11023",
-    "link": "https://www.vinted.fr/items/3443451259-base-verde-lego-classic-11023",
-    "price": 42.7,
-    "title": "Base verde lego Classic 11023",
-    "imgUrl": "https://images1.vinted.net/t/03_02603_Z32eK4hrraYtY4UXXZdEmyyf/f800/1694071900.jpeg?s=5dfdaa7b829181b403213ac98df5327ad03e6b3e",
-    "publicationDate": 1694071900,
-    "id": 3443451259
+    "link": "https://www.vinted.fr/items/4506276366-lego-66745",
+    "price": 24.33,
+    "title": "Lego 66745",
+    "imgUrl": "https://images1.vinted.net/t/02_02519_p8mu6rbsr7JeSE7P6ptt8XL5/f800/1715770758.jpeg?s=f7f1371acc441449715e38f0457d29d7da264f36",
+    "publicationDate": 1715770758
   },
   {
+    "_id": "16796977-2279-5346-81e0-ef84782347c0",
     "legoId": "11023",
-    "link": "https://www.vinted.fr/items/2515703892-lego-11023-building-plate-eine-quadratische-grundplatte-als-basis-fur-gebaude-und-andere-lego-sets",
-    "price": 22.74,
-    "title": "LEGO 11023 Building Plate, eine quadratische Grundplatte als Basis für Gebäude und andere LEGO Sets",
-    "imgUrl": "https://images1.vinted.net/t/01_00050_Us4HP4XLP8ik7GWf53vhGiKj/f800/1671160323.jpeg?s=41c8946152ad77cec422caab9e57ca142a7c26f5",
-    "publicationDate": 1671160323,
-    "id": 2515703892
+    "link": "https://www.vinted.fr/items/5392817816-black-friday-10eu-lego-75953-harry-potter-le-saule-cogneur-du-chateau-de-poudlard",
+    "price": 63.7,
+    "title": "..Black Friday -10€.. LEGO 75953 Harry Potter Le Saule Cogneur'\" du château de Poudlard",
+    "imgUrl": "https://images1.vinted.net/t/03_0042e_Mdy1ZBK26QcsGPyYPWYQo3Bm/f800/1731777228.jpeg?s=dd7319d4ddf83195258f4cb87df3c1231d24140d",
+    "publicationDate": 1731777228
   },
   {
+    "_id": "7af87913-bc49-571e-b9b4-fa72a60cf359",
+    "legoId": "11023",
+    "link": "https://www.vinted.fr/items/5436986881-lot-de-5-plaques-11024-et-1-plaque-11023",
+    "price": 63.7,
+    "title": "Lot de 5 plaques 11024 et 1 plaque 11023",
+    "imgUrl": "https://images1.vinted.net/t/04_009f6_rZ26Ni2bua1QgcdBY4dnf9ee/f800/1732470337.jpeg?s=9934c0424a6bd7601b6fe6a18721ceddbc9c975f",
+    "publicationDate": 1732470337
+  },
+  {
+    "_id": "e0e71386-1014-5c29-b8bc-12d37e34945f",
     "legoId": "11023",
     "link": "https://www.vinted.fr/items/2513480041-lego-11023-square-base-plate-with-32-x-32-knobs-as-a-base-for-constructions-and-for-other-lego-sets",
     "price": 22.74,
     "title": "LEGO 11023  Square Base Plate with 32 x 32 Knobs as a Base for Constructions and for Other Lego Sets",
     "imgUrl": "https://images1.vinted.net/t/02_00632_t63o7E2GHzkJwUB52ZJwPRur/f800/1671088551.jpeg?s=2d0e0a7089f36be5a0b65f0e9a51177735b57808",
-    "publicationDate": 1671088551,
-    "id": 2513480041
+    "publicationDate": 1671088551
   },
   {
+    "_id": "67af7347-d22c-58b8-af01-bfc30ce27391",
     "legoId": "11023",
-    "link": "https://www.vinted.fr/items/5392817816-lego-75953-harry-potter-le-saule-cogneur-du-chateau-de-poudlard",
-    "price": 74.2,
-    "title": "LEGO 75953 Harry Potter Le Saule Cogneur'\" du château de Poudlard",
-    "imgUrl": "https://images1.vinted.net/t/03_0042e_Mdy1ZBK26QcsGPyYPWYQo3Bm/f800/1731777228.jpeg?s=dd7319d4ddf83195258f4cb87df3c1231d24140d",
-    "publicationDate": 1731777228,
-    "id": 5392817816
+    "link": "https://www.vinted.fr/items/2515703892-lego-11023-building-plate-eine-quadratische-grundplatte-als-basis-fur-gebaude-und-andere-lego-sets",
+    "price": 22.74,
+    "title": "LEGO 11023 Building Plate, eine quadratische Grundplatte als Basis für Gebäude und andere LEGO Sets",
+    "imgUrl": "https://images1.vinted.net/t/01_00050_Us4HP4XLP8ik7GWf53vhGiKj/f800/1671160323.jpeg?s=41c8946152ad77cec422caab9e57ca142a7c26f5",
+    "publicationDate": 1671160323
   },
   {
+    "_id": "01ae3111-00ce-5805-9367-1a2eddf27d85",
     "legoId": "11023",
-    "link": "https://www.vinted.fr/items/5392672504-lego-75954-harry-potter-la-grande-salle-du-chateau-de-poudlard",
-    "price": 116.2,
-    "title": "LEGO 75954 Harry Potter La Grande Salle du château de Poudlard",
-    "imgUrl": "https://images1.vinted.net/t/03_0074e_BmtdRPYu4eSe6JoiP2CCJTNe/f800/1731775883.jpeg?s=4e306fe33eb7afaff84023f7e5be143ee40f80ae",
-    "publicationDate": 1731775883,
-    "id": 5392672504
+    "link": "https://www.vinted.fr/items/3443451259-base-verde-lego-classic-11023",
+    "price": 42.7,
+    "title": "Base verde lego Classic 11023",
+    "imgUrl": "https://images1.vinted.net/t/03_02603_Z32eK4hrraYtY4UXXZdEmyyf/f800/1694071900.jpeg?s=5dfdaa7b829181b403213ac98df5327ad03e6b3e",
+    "publicationDate": 1694071900
+  },
+  {
+    "_id": "42268a52-4423-573f-9fc5-41ce610f1423",
+    "legoId": "11023",
+    "link": "https://www.vinted.fr/items/4304982574-lego-creator-lanimalerie-et-le-cafe",
+    "price": 84.7,
+    "title": "Lego creator L’animalerie et le café",
+    "imgUrl": "https://images1.vinted.net/t/03_018e5_pc2kMnc8p25tPcFfMeJT2fCK/f800/1712092456.jpeg?s=5967e745e1a0f432706a5317ce381315550aa678",
+    "publicationDate": 1712092456
   }
 ]

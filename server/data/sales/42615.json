@@ -1,29 +1,29 @@
 [
   {
-    "legoId": "42615",
-    "link": "https://www.vinted.fr/items/5372895427-lego-friends-42615-la-journee-dadoption-des-animaux-neuf",
-    "price": 35.35,
-    "title": "Lego Friends 42615 la journée d’adoption des animaux neuf !",
-    "imgUrl": "https://images1.vinted.net/t/03_02084_Mn3K7Dmy7skj5PQJYjmNj4GC/f800/1731433076.jpeg?s=6363bbb3abbcbb2c6bf168c9e26081c8b4b60b44",
-    "publicationDate": 1731433076,
-    "id": 5372895427
-  },
-  {
+    "_id": "c2456fff-9e9d-58c7-9e97-9887f314171b",
     "legoId": "42615",
     "link": "https://www.vinted.fr/items/1772418950-lego-hardy-potter-kgniht-bus",
     "price": 16.45,
     "title": "Lego Hardy Potter kgniht bus ",
     "imgUrl": "https://images1.vinted.net/t/03_000e8_ecFBqnFARj6pwVTquBp8wxN3/f800/1650318165.jpeg?s=0657c00743629dce50c274ea343ed7827bf5d32a",
-    "publicationDate": 1650318165,
-    "id": 1772418950
+    "publicationDate": 1650318165
   },
   {
+    "_id": "f96f0a9e-c452-59c9-aa4b-56a4e752fcf0",
+    "legoId": "42615",
+    "link": "https://www.vinted.fr/items/5372895427-lego-friends-42615-la-journee-dadoption-des-animaux-neuf",
+    "price": 35.35,
+    "title": "Lego Friends 42615 la journée d’adoption des animaux neuf !",
+    "imgUrl": "https://images1.vinted.net/t/03_02084_Mn3K7Dmy7skj5PQJYjmNj4GC/f800/1731433076.jpeg?s=6363bbb3abbcbb2c6bf168c9e26081c8b4b60b44",
+    "publicationDate": 1731433076
+  },
+  {
+    "_id": "9a6001e1-58d2-5a3d-a3f0-4f5a63508f74",
     "legoId": "42615",
     "link": "https://www.vinted.fr/items/1749903335-lego-freinds",
     "price": 32.2,
     "title": "Lego freinds ",
     "imgUrl": "https://images1.vinted.net/t/03_01a88_H4a4gtAjh6a5Pjmt2awXPBQ6/f800/1649424109.jpeg?s=ecfa53fb3be74ef35940b6e5ee74a16a65422668",
-    "publicationDate": 1649424109,
-    "id": 1749903335
+    "publicationDate": 1649424109
   }
 ]

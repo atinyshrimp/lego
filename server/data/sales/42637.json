@@ -1,56 +1,29 @@
 [
   {
-    "legoId": "42637",
-    "link": "https://www.vinted.fr/items/5374671918-lego-friends-adventkalender-2024",
-    "price": 17.5,
-    "title": "LEGO Friends - Adventkalender 2024",
-    "imgUrl": "https://images1.vinted.net/t/04_01065_tTXi134oxoEnydYAyQWZSH5Q/f800/1731483961.jpeg?s=e7ef0d883bc85dd5c788410f8315444d155d0234",
-    "publicationDate": 1731483961,
-    "id": 5374671918
-  },
-  {
-    "legoId": "42637",
-    "link": "https://www.vinted.fr/items/5393804502-calendrier-de-l-avent-lego-friend-neuf-42637",
-    "price": 23.8,
-    "title": "Calendrier de l avent lego friend neuf 42637",
-    "imgUrl": "https://images1.vinted.net/t/03_0267b_mxHZaE74eu6QSRQcmht1tgmX/f800/1731788638.jpeg?s=619030ad1164e5f5f20bddeee1dd3dff6280b464",
-    "publicationDate": 1731788638,
-    "id": 5393804502
-  },
-  {
+    "_id": "f92c305c-3b7d-5995-8baf-3b4be61ace6e",
     "legoId": "42637",
     "link": "https://www.vinted.fr/items/5319108628-calendrier-de-lavant-lego-friends-42637-neuf",
     "price": 21.7,
     "title": "Calendrier de l'avant LEGO Friends 42637 Neuf",
     "imgUrl": "https://images1.vinted.net/t/04_01fde_dWw3PtPkAd5APAdJQBJfyEXx/f800/1730575426.jpeg?s=5e4d5217cf3bae171d20165e75fd7e9949b94d00",
-    "publicationDate": 1730575426,
-    "id": 5319108628
+    "publicationDate": 1730575426
   },
   {
+    "_id": "28bdf4c6-c682-5404-b536-78d09858d081",
     "legoId": "42637",
     "link": "https://www.vinted.fr/items/5315233936-lego-friends-42637-adventkalender-2024-6",
-    "price": 24.85,
+    "price": 23.8,
     "title": "LEGO Friends (42637) 🧱 adventkalender 2024 +6",
     "imgUrl": "https://images1.vinted.net/t/02_00cbf_a5MRfNL2S1HmGn9YDfdq2ySW/f800/1730541837.jpeg?s=8e3dc89a4876d8cb0b3ae7167ef36d596c4c051b",
-    "publicationDate": 1730541837,
-    "id": 5315233936
+    "publicationDate": 1730541837
   },
   {
+    "_id": "e212d335-880e-518d-abc2-db585e80b564",
     "legoId": "42637",
     "link": "https://www.vinted.fr/items/5183116879-lego-42637-friends-adventskalender-2024",
-    "price": 21.65,
+    "price": 20.65,
     "title": "Lego 42637 Friends Adventskalender 2024",
     "imgUrl": "https://images1.vinted.net/t/03_013a8_QqmegXMM8KgBZVbNqDiq9aSY/f800/1731841182.jpeg?s=fca72e215ecaa8c0aeb3da9b0958cf048830de50",
-    "publicationDate": 1731841182,
-    "id": 5183116879
-  },
-  {
-    "legoId": "42637",
-    "link": "https://www.vinted.fr/items/5377797038-lego-friends-42637-adventskalender-2024",
-    "price": 26.95,
-    "title": "LEGO Friends 42637 Adventskalender 2024",
-    "imgUrl": "https://images1.vinted.net/t/03_020fb_8Nwm8BXmioqTxoeV6gQ5AH81/f800/1731516779.jpeg?s=9cc8a9cb01cd3683be7780a2378c276cbbc21cab",
-    "publicationDate": 1731516779,
-    "id": 5377797038
+    "publicationDate": 1731841182
   }
 ]

@@ -1,47 +1,56 @@
 [
   {
+    "_id": "f7b293bf-a51e-59c5-ad84-47c47b912dce",
     "legoId": "10793",
     "link": "https://www.vinted.fr/items/4598957629-lego-10793-nuovo-sigillato",
     "price": 16.45,
     "title": "LEGO 10793 nuovo sigillato",
     "imgUrl": "https://images1.vinted.net/t/01_026bc_tQq6pbnVXTapqKqTb8FMRPoe/f800/r3/1717924130.jpeg?s=a1e8ad0f426924aa4b67d3a61981d583b8ad24c0",
-    "publicationDate": 1717924130,
-    "id": 4598957629
+    "publicationDate": 1717924130
   },
   {
+    "_id": "7bd78009-1cde-570d-adf7-17ac14263452",
+    "legoId": "10793",
+    "link": "https://www.vinted.fr/items/5439482089-lego-10793-spiderman",
+    "price": 11.2,
+    "title": "Lego 10793 spiderman",
+    "imgUrl": "https://images1.vinted.net/t/02_0010f_GEUawF1533UuhU7fUxjwVT75/f800/1732528758.jpeg?s=fb48f7138185278025dc6faa5ca6b19be5c943b4",
+    "publicationDate": 1732528758
+  },
+  {
+    "_id": "6a941c54-170a-5671-b19b-575d6239ecf2",
     "legoId": "10793",
     "link": "https://www.vinted.fr/items/5277388511-lego-marvel-bouffon-vert-green-goblin-sh0957-10793",
     "price": 5.95,
     "title": "Lego marvel bouffon vert Green goblin sh0957 10793",
     "imgUrl": "https://images1.vinted.net/t/03_01e5e_Jpw7YUrBj8sz6gaxx1sFi5c6/f800/1729884034.jpeg?s=fdf40b982012e0feccf26b8905ea0a0eac037228",
-    "publicationDate": 1729884034,
-    "id": 5277388511
+    "publicationDate": 1729884034
   },
   {
+    "_id": "4548570b-f8a9-5590-9ee3-20a27d1181db",
     "legoId": "10793",
-    "link": "https://www.vinted.fr/items/4281730130-lego-marvel-10793-spidey-vs-duende-verde",
+    "link": "https://www.vinted.fr/items/5416138833-lego-marvel-10793-spidey-vs-duende-verde",
     "price": 21.7,
     "title": "Lego Marvel 10793 Spidey vs. Duende Verde",
-    "imgUrl": "https://images1.vinted.net/t/03_016be_JekX83u1nHCdxep36b2J63j8/f800/1711562801.jpeg?s=52e5775020111d8b4eb468cb7b160af8ffe919ec",
-    "publicationDate": 1711562801,
-    "id": 4281730130
+    "imgUrl": "https://images1.vinted.net/t/04_0208c_fNuDQSENmqw4k4PooyLLt8sz/f800/1732127814.jpeg?s=88d4d909d0276a13b3d9f265d2ed75e4580d5cf5",
+    "publicationDate": 1732127814
   },
   {
+    "_id": "fbd41a4f-a6be-5a4b-8def-7436495313fc",
     "legoId": "10793",
     "link": "https://www.vinted.fr/items/4129313181-lego-10793-spedey-vs-green-goblin",
     "price": 21.7,
     "title": "Lego 10793 spedey vs green goblin ",
     "imgUrl": "https://images1.vinted.net/t/02_02043_JXTXJKuTkzR8L3kvYRCudK4p/f800/1708526854.jpeg?s=a1a46ce9956733d357d8db5bfebb67f03c9f7735",
-    "publicationDate": 1708526854,
-    "id": 4129313181
+    "publicationDate": 1708526854
   },
   {
+    "_id": "ad10d6f1-a52a-5367-bbc7-a0b916d7a6ea",
     "legoId": "10793",
     "link": "https://www.vinted.fr/items/4837427256-lego-star-wars-2x-cockpit-80394-4-legs",
     "price": 2.8,
     "title": "Lego Star Wars 2x cockpit 80394 + 4 Legs",
     "imgUrl": "https://images1.vinted.net/t/03_0097a_m3hKxFft5Q6cxRzMh4kffa8u/f800/1722596132.jpeg?s=66ff9fd5102176ba5aac3e44c2e8dc1c2ebd8afa",
-    "publicationDate": 1722596132,
-    "id": 4837427256
+    "publicationDate": 1722596132
   }
 ]

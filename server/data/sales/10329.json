@@ -1,308 +1,281 @@
 [
   {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5360632587-lego-10329-only-box",
-    "price": 5.95,
-    "title": "Lego 10329 only BOX",
-    "imgUrl": "https://images1.vinted.net/t/04_014ca_oSRYy7AbdsoEaT3P6JUvXvxj/f800/1731257877.jpeg?s=8675397db3e3ceb0d8313089a5baac01310ba9a3",
-    "publicationDate": 1731257877,
-    "id": 5360632587
-  },
-  {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/4943103848-lego-10329-only-box",
-    "price": 5.95,
-    "title": "Lego 10329 - ONLY Box",
-    "imgUrl": "https://images1.vinted.net/t/01_026da_qwB6oprSAkTnj9svm22tXna4/f800/1724687245.jpeg?s=0450bc2a98c4f5b760c781d0db133a5a0c9bd16c",
-    "publicationDate": 1724687245,
-    "id": 4943103848
-  },
-  {
+    "_id": "86d59d1a-4d35-5dda-9ca3-4db17c436cc0",
     "legoId": "10329",
     "link": "https://www.vinted.fr/items/4401620764-lego-10329-solo-scatola",
     "price": 8.05,
     "title": "Lego 10329 ( solo scatola )",
     "imgUrl": "https://images1.vinted.net/t/01_0250c_nhr4WyCMKdyU9XnPbVeyqY3A/f800/1713787777.jpeg?s=978a955f405866702dbc02ffe91cd15c807d7ba9",
-    "publicationDate": 1713787777,
-    "id": 4401620764
+    "publicationDate": 1713787777
   },
   {
+    "_id": "5cd3dd32-4323-57af-8c09-bf9514919990",
     "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5379995523-lego-icons-10329-mini-pflanzen",
-    "price": 34.3,
-    "title": "LEGO Icons 10329 Mini Pflanzen",
-    "imgUrl": "https://images1.vinted.net/t/01_00ead_njvXpPMj3iu5WFS8wHtXMSWG/f800/1731574287.jpeg?s=214d56df2b561548461b10d24c5bd31ac0da27bc",
-    "publicationDate": 1731574287,
-    "id": 5379995523
-  },
-  {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5385109699-lego-icons-les-plantes-miniatures",
-    "price": 26.95,
-    "title": "Lego Icons Les plantes miniatures",
-    "imgUrl": "https://images1.vinted.net/t/04_002f4_yuot7Kas1VfiMCB1hHR3C4fM/f800/1731665339.jpeg?s=3b1cc621fb18f321c11947d0772d13798a149636",
-    "publicationDate": 1731665339,
-    "id": 5385109699
-  },
-  {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5380064735-lego-10329",
-    "price": 34.3,
-    "title": "Lego 10329",
-    "imgUrl": "https://images1.vinted.net/t/04_016aa_4m3RxLwYb7811RgTGdt3V4D7/f800/1731575320.jpeg?s=a4db165b16197bebca32309b325913053cee24c9",
-    "publicationDate": 1731575320,
-    "id": 5380064735
-  },
-  {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5389296102-lego-icons-10329",
+    "link": "https://www.vinted.fr/items/5439537058-lego-icons-10329",
     "price": 38.5,
     "title": "Lego icons 10329",
-    "imgUrl": "https://images1.vinted.net/t/03_0169d_ocBaaCQfweyB4DmiqVsRMwNT/f800/1731748365.jpeg?s=885e8a1ec8091bc2e52837e9d8c05e42881e0bd2",
-    "publicationDate": 1731748365,
-    "id": 5389296102
+    "imgUrl": "https://images1.vinted.net/t/03_00dea_uZoZMgFUrctoCxDRsCwhYbhs/f800/1732529380.jpeg?s=cf376ed2722a92bfb6f9b1da7cd0157e27c0e5cb",
+    "publicationDate": 1732529380
   },
   {
+    "_id": "ee97c30a-4f18-5c88-9e0f-e75fd8f05c6a",
     "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5405152895-lego-10329",
-    "price": 38.45,
+    "link": "https://www.vinted.fr/items/4943103848-lego-10329-only-box",
+    "price": 5.95,
+    "title": "Lego 10329 - ONLY Box",
+    "imgUrl": "https://images1.vinted.net/t/01_026da_qwB6oprSAkTnj9svm22tXna4/f800/1724687245.jpeg?s=0450bc2a98c4f5b760c781d0db133a5a0c9bd16c",
+    "publicationDate": 1724687245
+  },
+  {
+    "_id": "ad2d6412-cb55-5dc8-85e4-bbeb2f252cf9",
+    "legoId": "10329",
+    "link": "https://www.vinted.fr/items/5360632587-lego-10329-only-box",
+    "price": 5.95,
+    "title": "Lego 10329 only BOX",
+    "imgUrl": "https://images1.vinted.net/t/04_014ca_oSRYy7AbdsoEaT3P6JUvXvxj/f800/1731257877.jpeg?s=8675397db3e3ceb0d8313089a5baac01310ba9a3",
+    "publicationDate": 1731257877
+  },
+  {
+    "_id": "2d63a374-36c7-52ce-942a-f0f90b11ffd6",
+    "legoId": "10329",
+    "link": "https://www.vinted.fr/items/5424724507-lego-10329",
+    "price": 42.7,
     "title": "Lego 10329",
-    "imgUrl": "https://images1.vinted.net/t/02_01166_hzXPfSyrcrpv7tpCJGWpqy4Y/f800/1731947095.jpeg?s=afca75102255ffe364064ef821aecddbe76d43ad",
-    "publicationDate": 1731947095,
-    "id": 5405152895
+    "imgUrl": "https://images1.vinted.net/t/03_014ee_LtXUBixP1qqj4fzrknEYseuw/f800/1732291791.jpeg?s=49039bf587634957c260e1b22adc86f0551154cc",
+    "publicationDate": 1732291791
   },
   {
+    "_id": "493631df-f02b-5fc0-8634-87eeaf1a6273",
     "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5300733652-lego-set-10329",
-    "price": 37.45,
-    "title": "Lego Set 10329",
-    "imgUrl": "https://images1.vinted.net/t/04_024ed_wXaazbu5PBD3pVHAspT91vVU/f800/1730270682.jpeg?s=868908d9233997142a0126842c4277d7119fda0c",
-    "publicationDate": 1730270682,
-    "id": 5300733652
+    "link": "https://www.vinted.fr/items/5424324815-boite-lego-fleurs-10329-plantes-miniatures-tiny-plants",
+    "price": 47.95,
+    "title": "Boîte Lego fleurs 10329 plantes miniatures Tiny plants",
+    "imgUrl": "https://images1.vinted.net/t/04_00ca6_2cUF4aSvzGicXYzBCjBUoDw9/f800/1732287287.jpeg?s=0510bc4591f2ba1e63ef61d5a03b620edaf327b7",
+    "publicationDate": 1732287287
   },
   {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5388897116-lego-10329",
-    "price": 34.3,
-    "title": "Lego  10329",
-    "imgUrl": "https://images1.vinted.net/t/03_01970_Na1nxTkja42S1KfkcTFcCJZT/f800/1731738267.jpeg?s=96f422632dab954a5cf81756f88b0fcf50c79917",
-    "publicationDate": 1731738267,
-    "id": 5388897116
-  },
-  {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5405101028-lego-icons-10329-tiny-plants-botanical-collection",
-    "price": 32.15,
-    "title": "Lego ICONS 10329: Tiny Plants Botanical Collection.",
-    "imgUrl": "https://images1.vinted.net/t/02_00c11_NDS2TXYAeYJDR8fTwVquQJ91/f800/1731946584.jpeg?s=0b797f58e0e96d90099d1a50a17a92154b362b5b",
-    "publicationDate": 1731946584,
-    "id": 5405101028
-  },
-  {
+    "_id": "1de51f88-f5d3-5d68-b6f5-5c77bdd5bcfc",
     "legoId": "10329",
     "link": "https://www.vinted.fr/items/5337099548-lego-pot-de-fleurs-10329-neuf-sceller",
     "price": 46.9,
     "title": "Lego pot de fleurs 10329 neuf sceller",
     "imgUrl": "https://images1.vinted.net/t/03_00efd_k8hrGrQrR1436KXUWX2dvucj/f800/1730882282.jpeg?s=ef549a1fd1ad774e9e98127d7ca3644deed39738",
-    "publicationDate": 1730882282,
-    "id": 5337099548
+    "publicationDate": 1730882282
   },
   {
+    "_id": "fbda6e42-7bc3-5d64-960d-7b6e13a4661b",
+    "legoId": "10329",
+    "link": "https://www.vinted.fr/items/5406713384-lego-10329-plantas-diminutas-nuevo",
+    "price": 41.6,
+    "title": "Lego 10329 Plantas diminutas NUEVO",
+    "imgUrl": "https://images1.vinted.net/t/04_00175_Pds9NwSvoNETnW8U9LBNU99Q/f800/1731962731.jpeg?s=b63a6e88d1794767d840bf376a1ca4b92b638382",
+    "publicationDate": 1731962731
+  },
+  {
+    "_id": "3d644ae1-b10e-5a5c-9cbc-9343b69cb2ca",
     "legoId": "10329",
     "link": "https://www.vinted.fr/items/5327613784-scatole-lego-vuote",
     "price": 11.2,
     "title": "Scatole LEGO vuote",
     "imgUrl": "https://images1.vinted.net/t/04_0091e_tBwQBv6EHEXDKtWP7bP5um5Q/f800/1730712989.jpeg?s=24a5b89c8119c70b08bb640bc4e10ce3941f0b3c",
-    "publicationDate": 1730712989,
-    "id": 5327613784
+    "publicationDate": 1730712989
   },
   {
+    "_id": "c47d7ffe-5fe0-529f-915e-09399f574d79",
     "legoId": "10329",
-    "link": "https://www.vinted.fr/items/4979007938-lego-10329-miniplantjes-miniplantjes-bouwset-voor-volwassenen",
+    "link": "https://www.vinted.fr/items/5379995523-lego-icons-10329-mini-pflanzen",
+    "price": 34.3,
+    "title": "LEGO Icons 10329 Mini Pflanzen",
+    "imgUrl": "https://images1.vinted.net/t/01_00ead_njvXpPMj3iu5WFS8wHtXMSWG/f800/1731574287.jpeg?s=214d56df2b561548461b10d24c5bd31ac0da27bc",
+    "publicationDate": 1731574287
+  },
+  {
+    "_id": "395eaa11-c4fc-5f78-800f-02c2e6cefcb8",
+    "legoId": "10329",
+    "link": "https://www.vinted.fr/items/5421612363-lego-10329-plantes-miniatures-neuf-et-scelle",
+    "price": 45.85,
+    "title": "Lego 10329 Plantes Miniatures NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/04_014c5_s17pmjEsQa473AcF1jKemDE4/f800/1732223019.jpeg?s=a576acc8e971d4faa516db78955d6028fcbf234d",
+    "publicationDate": 1732223019
+  },
+  {
+    "_id": "bab46d8e-89be-50d2-aba0-d242963e7d37",
+    "legoId": "10329",
+    "link": "https://www.vinted.fr/items/5431734952-lego-10329-plantas-em-miniatura",
     "price": 47.95,
-    "title": "LEGO 10329 - Miniplantjes. Miniplantjes bouwset voor volwassenen.",
-    "imgUrl": "https://images1.vinted.net/t/03_009b8_PJrMxt18mmTkX8vVuSPugjHG/f800/1725307491.jpeg?s=a8b9766f8e53f56d14df3dc68d3ba23d365a8316",
-    "publicationDate": 1725307491,
-    "id": 4979007938
+    "title": "LEGO 10329 Plantas em Miniatura",
+    "imgUrl": "https://images1.vinted.net/t/02_00021_gAi1bhuxo1d9yVJ1oQL6cnyK/f800/1732404875.jpeg?s=60b6d25713a09caccbaa007018eccc951636d7b1",
+    "publicationDate": 1732404875
   },
   {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5386685065-10329-plantas-diminutas-lego-new",
-    "price": 42.6,
-    "title": "10329 Plantas diminutas LEGO New",
-    "imgUrl": "https://images1.vinted.net/t/04_00670_sTx9orB4xP9JRJaUAQyFfKQC/f800/1731682189.jpeg?s=36d1fb4442507eb67f4d62fd92bc194a9bd754af",
-    "publicationDate": 1731682189,
-    "id": 5386685065
-  },
-  {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5379921576-lego-set-10329",
-    "price": 37.45,
-    "title": "Lego Set 10329",
-    "imgUrl": "https://images1.vinted.net/t/04_00ab7_LkHmEn38Y8nKUVXFC4va4DHf/f800/1731573043.jpeg?s=56ad427ca3eec85e2989e2ad5b374dee165f765b",
-    "publicationDate": 1731573043,
-    "id": 5379921576
-  },
-  {
+    "_id": "52cc02b7-50c4-504e-bcc3-332c5769bd37",
     "legoId": "10329",
     "link": "https://www.vinted.fr/items/5360389647-lego-piantine-10329",
     "price": 58.45,
     "title": "Lego piantine 10329",
     "imgUrl": "https://images1.vinted.net/t/04_008d8_Qk2zHZDdKqsomrw4ncMvPbPf/f800/1731256307.jpeg?s=dfdcfe14749ca2a9953851664c2817c0252fc51a",
-    "publicationDate": 1731256307,
-    "id": 5360389647
+    "publicationDate": 1731256307
   },
   {
+    "_id": "fbf652d1-b59d-568d-ab7a-e939e76ec11a",
     "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5340240005-lego-10329-tiny-plants",
-    "price": 47.95,
-    "title": "Lego 10329 Tiny Plants",
-    "imgUrl": "https://images1.vinted.net/t/04_014fd_m4hVa2vbzoHcFc9FvcGE89Ku/f800/1730918192.jpeg?s=64c208affae0cc72ec7c952f2c023bf65826e721",
-    "publicationDate": 1730918192,
-    "id": 5340240005
+    "link": "https://www.vinted.fr/items/5424955382-lego-botanical",
+    "price": 79.45,
+    "title": "Lego botanical",
+    "imgUrl": "https://images1.vinted.net/t/04_01096_35tZ78B75ednm1SsYD3qSEVi/f800/1732294529.jpeg?s=2defce8baaac3a837077b716736911a5e0544f2a",
+    "publicationDate": 1732294529
   },
   {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5180886450-lego-10329-tiny-plants-mini-pflanzen",
-    "price": 47.95,
-    "title": "Lego 10329 Tiny Plants - Mini Pflanzen",
-    "imgUrl": "https://images1.vinted.net/t/01_01e83_nDbN5MYAAZMWoXEzwQzyKtiY/f800/1728383416.jpeg?s=e8d7132ad58fd895188452f5e000eb776902766f",
-    "publicationDate": 1728383416,
-    "id": 5180886450
-  },
-  {
+    "_id": "c00300cd-4da7-5712-9c13-fb66c7ef84a4",
     "legoId": "10329",
     "link": "https://www.vinted.fr/items/5279255603-lot-lego-centre-de-table-pot-de-fleurs-10329-10314-neuf-sceller",
     "price": 88.9,
     "title": "Lot lego centre de table pot de fleurs 10329 10314 neuf sceller",
     "imgUrl": "https://images1.vinted.net/t/03_0033c_UYBgEoBAWPvmRkDtqurpGdDQ/f800/1729939247.jpeg?s=7472791721352080b1d1489fb3f31dedc48b1310",
-    "publicationDate": 1729939247,
-    "id": 5279255603
+    "publicationDate": 1729939247
   },
   {
+    "_id": "bc89baf8-31a5-5614-9430-f4d421d89767",
     "legoId": "10329",
     "link": "https://www.vinted.fr/items/4651379139-lego-plantas-diminutas-10329",
     "price": 44.8,
     "title": "Lego plantas diminutas 10329",
     "imgUrl": "https://images1.vinted.net/t/02_02434_xPTQXuGC5qq1CvJnCsBUotAw/f800/1718560378.jpeg?s=bfefa5077c3ca14afe7c46aef593405e3a8c94ce",
-    "publicationDate": 1718560378,
-    "id": 4651379139
+    "publicationDate": 1718560378
   },
   {
+    "_id": "e949a375-adfa-5660-b4d9-54b6b457a635",
     "legoId": "10329",
-    "link": "https://www.vinted.fr/items/4186418650-lego-icons-10329-plantes-miniatures-neuf-et-scelle",
-    "price": 45.85,
-    "title": "Lego Icons 10329 Plantes Miniatures NEUF et scellé",
-    "imgUrl": "https://images1.vinted.net/t/01_00e3f_ng4krxLhZiDArxS7ys3f7jmT/f800/1709663423.jpeg?s=c2996bcc8e96796457059ebf5b4659fb96401df7",
-    "publicationDate": 1709663423,
-    "id": 4186418650
+    "link": "https://www.vinted.fr/items/4979007938-lego-10329-miniplantjes-miniplantjes-bouwset-voor-volwassenen",
+    "price": 47.95,
+    "title": "LEGO 10329 - Miniplantjes. Miniplantjes bouwset voor volwassenen.",
+    "imgUrl": "https://images1.vinted.net/t/03_009b8_PJrMxt18mmTkX8vVuSPugjHG/f800/1725307491.jpeg?s=a8b9766f8e53f56d14df3dc68d3ba23d365a8316",
+    "publicationDate": 1725307491
   },
   {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5230668689-lego-set-10329",
-    "price": 42.7,
-    "title": "Lego Set 10329",
-    "imgUrl": "https://images1.vinted.net/t/01_00a7c_tahH4BYBUx9sKyk9QdJAgNKK/f800/1729152130.jpeg?s=616a55aba65166f440732b4652d84b466f21b85b",
-    "publicationDate": 1729152130,
-    "id": 5230668689
-  },
-  {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/4461561618-lego-icons-botanical-collection-10329-les-plantes-miniatures",
-    "price": 53.2,
-    "title": "Lego icons Botanical collection 10329 les plantes miniatures",
-    "imgUrl": "https://images1.vinted.net/t/02_02212_SANhzmM6RW99mgxKJwQDmCv6/f800/1714920383.jpeg?s=ab8cc386a455a6e6580f193d2e60f2c526b64109",
-    "publicationDate": 1714920383,
-    "id": 4461561618
-  },
-  {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5158536700-lego-10329-miniplantjes-the-botanical-collection",
-    "price": 46.9,
-    "title": "LEGO 10329 Miniplantjes | The Botanical Collection",
-    "imgUrl": "https://images1.vinted.net/t/03_019ef_YiYcBpJje4dhPiQoEvGC8wUp/f800/1728063768.jpeg?s=8286fed9d64596e9c215a279338b5e90f8f4cd43",
-    "publicationDate": 1728063768,
-    "id": 5158536700
-  },
-  {
+    "_id": "f5c97448-f080-5b81-825f-b9b503acf2c4",
     "legoId": "10329",
     "link": "https://www.vinted.fr/items/4230718664-lego-icons-10329-plantas-em-miniatura",
     "price": 49.53,
     "title": "Lego Icons 10329 - Plantas em miniatura",
     "imgUrl": "https://images1.vinted.net/t/01_024c0_kUSbPuLMwyzxJaWyWxUqQDks/f800/1710602249.jpeg?s=cba5dd2f46cb7d7c6104fef9469504a13950e72b",
-    "publicationDate": 1710602249,
-    "id": 4230718664
+    "publicationDate": 1710602249
   },
   {
+    "_id": "ea58cbfa-63a7-5581-ac52-80ff20189310",
     "legoId": "10329",
-    "link": "https://www.vinted.fr/items/4489915814-lot-lego-bonzai-plantes-10329-10281-neuf-sceller",
-    "price": 105.7,
-    "title": "Lot lego Bonzai - plantes 10329 10281 neuf sceller",
-    "imgUrl": "https://images1.vinted.net/t/01_00d08_JvqkykZRr6sfjFZzikoKaRbA/f800/1715452724.jpeg?s=4b42b2801d0e73653e4448285c8994a866baff6f",
-    "publicationDate": 1715452724,
-    "id": 4489915814
+    "link": "https://www.vinted.fr/items/4461561618-lego-icons-botanical-collection-10329-les-plantes-miniatures",
+    "price": 53.2,
+    "title": "Lego icons Botanical collection 10329 les plantes miniatures",
+    "imgUrl": "https://images1.vinted.net/t/02_02212_SANhzmM6RW99mgxKJwQDmCv6/f800/1714920383.jpeg?s=ab8cc386a455a6e6580f193d2e60f2c526b64109",
+    "publicationDate": 1714920383
   },
   {
+    "_id": "9f04bca0-9d67-59c4-89fc-1c850768b46c",
     "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5263300180-lego-10329-botanical-collection-tiny-plants",
-    "price": 47.95,
-    "title": "Lego 10329 botanical collection tiny plants",
-    "imgUrl": "https://images1.vinted.net/t/04_001f3_JeTFRdDjRhigwtVV1cVVTXeB/f800/1729629144.jpeg?s=e2a81871f83ecdfc4c7ae6535ce57aa19d6dd5db",
-    "publicationDate": 1729629144,
-    "id": 5263300180
+    "link": "https://www.vinted.fr/items/4186418650-lego-icons-10329-plantes-miniatures-neuf-et-scelle",
+    "price": 44.8,
+    "title": "Lego Icons 10329 Plantes Miniatures NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/01_00e3f_ng4krxLhZiDArxS7ys3f7jmT/f800/1709663423.jpeg?s=c2996bcc8e96796457059ebf5b4659fb96401df7",
+    "publicationDate": 1709663423
   },
   {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/5009919561-lego-10329",
-    "price": 50.58,
-    "title": "Lego 10329",
-    "imgUrl": "https://images1.vinted.net/t/01_01a47_3cFWUJULpGzjm7ZEQYKzAVv9/f800/1725824677.jpeg?s=38e5ef9a657abc84dc32d13ebdddb562f808caf1",
-    "publicationDate": 1725824677,
-    "id": 5009919561
-  },
-  {
+    "_id": "92432892-f6cc-5a08-a216-a94b3a3d43ea",
     "legoId": "10329",
     "link": "https://www.vinted.fr/items/4576023848-lego-centre-de-table-et-plantes-miniatures-10314-10329-neufs-et-scelles",
     "price": 87.85,
     "title": "Lego Centre de table et Plantes Miniatures 10314 10329 NEUFS et scellés",
     "imgUrl": "https://images1.vinted.net/t/02_0159b_VrzKqS7pjFcrE29obuwWsMy9/f800/1717089903.jpeg?s=2779042f6d81631361ebbf8ba217e43a6affaa65",
-    "publicationDate": 1717089903,
-    "id": 4576023848
+    "publicationDate": 1717089903
   },
   {
+    "_id": "c645984c-89c4-5058-96ea-5bfe2f521441",
+    "legoId": "10329",
+    "link": "https://www.vinted.fr/items/5180886450-lego-10329-tiny-plants-mini-pflanzen",
+    "price": 47.95,
+    "title": "Lego 10329 Tiny Plants - Mini Pflanzen",
+    "imgUrl": "https://images1.vinted.net/t/01_01e83_nDbN5MYAAZMWoXEzwQzyKtiY/f800/1728383416.jpeg?s=e8d7132ad58fd895188452f5e000eb776902766f",
+    "publicationDate": 1728383416
+  },
+  {
+    "_id": "f1a611c0-8d3d-57c5-929a-f378da33fcd1",
+    "legoId": "10329",
+    "link": "https://www.vinted.fr/items/5428983131-lego-botanical-collection",
+    "price": 105.7,
+    "title": "Lego botanical collection",
+    "imgUrl": "https://images1.vinted.net/t/04_006b0_s4WZc5HAXHvgtZvfpZiHXgyV/f800/1732371754.jpeg?s=0bad603a34af1107751cfdb9aabe48e3b4ba0396",
+    "publicationDate": 1732371754
+  },
+  {
+    "_id": "e67086dc-1232-5c82-af67-aa2a8a0e00ab",
+    "legoId": "10329",
+    "link": "https://www.vinted.fr/items/5230668689-lego-set-10329",
+    "price": 42.7,
+    "title": "Lego Set 10329",
+    "imgUrl": "https://images1.vinted.net/t/01_00a7c_tahH4BYBUx9sKyk9QdJAgNKK/f800/1729152130.jpeg?s=616a55aba65166f440732b4652d84b466f21b85b",
+    "publicationDate": 1729152130
+  },
+  {
+    "_id": "e4ecdea0-f310-5cbe-8af4-0eb1db35c6e0",
+    "legoId": "10329",
+    "link": "https://www.vinted.fr/items/5009919561-lego-10329",
+    "price": 50.58,
+    "title": "Lego 10329",
+    "imgUrl": "https://images1.vinted.net/t/01_01a47_3cFWUJULpGzjm7ZEQYKzAVv9/f800/1725824677.jpeg?s=38e5ef9a657abc84dc32d13ebdddb562f808caf1",
+    "publicationDate": 1725824677
+  },
+  {
+    "_id": "e355c0b3-51f3-5af3-9aa9-35f1f1a01879",
+    "legoId": "10329",
+    "link": "https://www.vinted.fr/items/4489915814-lot-lego-bonzai-plantes-10329-10281-neuf-sceller",
+    "price": 105.7,
+    "title": "Lot lego Bonzai - plantes 10329 10281 neuf sceller",
+    "imgUrl": "https://images1.vinted.net/t/01_00d08_JvqkykZRr6sfjFZzikoKaRbA/f800/1715452724.jpeg?s=4b42b2801d0e73653e4448285c8994a866baff6f",
+    "publicationDate": 1715452724
+  },
+  {
+    "_id": "7883d024-1c28-5fb5-ab62-ce5d14763149",
+    "legoId": "10329",
+    "link": "https://www.vinted.fr/items/5439394028-10329-plantas-diminutas-lego-new",
+    "price": 46.8,
+    "title": "10329 Plantas diminutas LEGO New",
+    "imgUrl": "https://images1.vinted.net/t/04_0117d_7XctL8uiqE5UHgu95ZrBNMp2/f800/1732527708.jpeg?s=cbecdd8d65f05ab2511a0cc2a26db35e01d37c15",
+    "publicationDate": 1732527708
+  },
+  {
+    "_id": "dc0cae93-2eaa-5ab9-aacd-584369acd4be",
     "legoId": "10329",
     "link": "https://www.vinted.fr/items/5326922617-lot-lego-orchidee-centre-de-table-pots-10311-10329-10314-neuf",
     "price": 131.95,
     "title": "Lot lego orchidée centre de table pots 10311 10329 10314 neuf",
     "imgUrl": "https://images1.vinted.net/t/02_01cc5_iW1k3fSnJu2qFb9GZr8orWct/f800/1730674385.jpeg?s=e30590827b570b2e293436debb9330d7d8a6ac60",
-    "publicationDate": 1730674385,
-    "id": 5326922617
+    "publicationDate": 1730674385
   },
   {
-    "legoId": "10329",
-    "link": "https://www.vinted.fr/items/4873302042-lego-botanical-collection-10280-10281-10311-10313-10328-10329",
-    "price": 268.45,
-    "title": "Lego Botanical Collection 10280 10281 10311 10313 10328 10329",
-    "imgUrl": "https://images1.vinted.net/t/02_00ccd_TXM3rHadzWEYxnWUZFVh7i49/f800/1723369140.jpeg?s=5d29990469eec6af537ea9785a4cbc8b423b6e7f",
-    "publicationDate": 1723369140,
-    "id": 4873302042
-  },
-  {
+    "_id": "39530f23-aa17-5d2f-b537-cb229cee5dd7",
     "legoId": "10329",
     "link": "https://www.vinted.fr/items/4139826907-lot-lego-10281-10313-10314-10329-neuf-sceller",
     "price": 210.7,
     "title": "Lot lego 10281 - 10313 - 10314 - 10329 neuf sceller ",
     "imgUrl": "https://images1.vinted.net/t/03_00245_D52LaQ4xzeT57wYFAum2i5nt/f800/1708771366.jpeg?s=ba8d323df049d9e5afbbbb141f356459b73c8fd5",
-    "publicationDate": 1708771366,
-    "id": 4139826907
+    "publicationDate": 1708771366
   },
   {
+    "_id": "aad70c88-7e52-5231-8a23-889b0800b0bd",
+    "legoId": "10329",
+    "link": "https://www.vinted.fr/items/4873302042-lego-botanical-collection-10280-10281-10311-10313-10328-10329",
+    "price": 268.45,
+    "title": "Lego Botanical Collection 10280 10281 10311 10313 10328 10329",
+    "imgUrl": "https://images1.vinted.net/t/02_00ccd_TXM3rHadzWEYxnWUZFVh7i49/f800/1723369140.jpeg?s=5d29990469eec6af537ea9785a4cbc8b423b6e7f",
+    "publicationDate": 1723369140
+  },
+  {
+    "_id": "12cfc781-72be-57fd-87cc-e71fa640ba79",
     "legoId": "10329",
     "link": "https://www.vinted.fr/items/4489905762-lot-lego-plantes-10313-10281-10329-10328-neuf",
     "price": 231.7,
     "title": "Lot Lego Plantes 10313 10281 10329 10328 neuf",
     "imgUrl": "https://images1.vinted.net/t/01_00a32_trJK7dkFxZrxMR6QyrAeE7ZP/f800/1715452565.jpeg?s=a1430cbc6270c1618e61d45099b518db532e68ec",
-    "publicationDate": 1715452565,
-    "id": 4489905762
+    "publicationDate": 1715452565
   }
 ]

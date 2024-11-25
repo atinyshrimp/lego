@@ -1,443 +1,497 @@
 [
   {
+    "_id": "46b862e8-a8b9-59f9-a3d9-11eb7b6630e9",
     "legoId": "75364",
     "link": "https://www.vinted.fr/items/5334144037-boite-lego-star-wars-vide",
     "price": 1.75,
     "title": "Boite Lego star Wars VIDE",
     "imgUrl": "https://images1.vinted.net/t/02_00750_Yo2aJx7i4gxs3NKTqYHNqy5V/f800/1730839327.jpeg?s=79db0cb1366f7a29bae0462bc23dd8f3c22ebba6",
-    "publicationDate": 1730839327,
-    "id": 5334144037
+    "publicationDate": 1730839327
   },
   {
+    "_id": "cb45f008-2dc7-56af-8e89-7a8b01688d03",
     "legoId": "75364",
-    "link": "https://www.vinted.fr/items/5295108584-lego-stars-wars-set-75364",
-    "price": 25.89,
-    "title": "Lego Stars Wars Set 75364",
-    "imgUrl": "https://images1.vinted.net/t/04_018cb_GHAep5hc6HdWt6nTMAtiJbPD/f800/1730148910.jpeg?s=9be364092d1ad874e65e2ebbb4053a54d06ad7aa",
-    "publicationDate": 1730148910,
-    "id": 5295108584
+    "link": "https://www.vinted.fr/items/5409961196-notice-lego-star-wars-de-75364",
+    "price": 2.8,
+    "title": "Notice Lego star Wars de 75364",
+    "imgUrl": "https://images1.vinted.net/t/02_00024_gXnPee2VDmXPaZMgxGTicF5j/f800/1732030167.jpeg?s=510fb0d4d5295fdf479c98ba11378d0e977dc3a7",
+    "publicationDate": 1732030167
   },
   {
+    "_id": "40746fb8-f924-5b1b-b958-d0467c326612",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/5417647239-lego-star-wars-75364-sans-figurine-e-wing-contre-le-chasseur-de-shin-hati",
+    "price": 47.95,
+    "title": "Lego star wars 75364 (sans figurine) E-Wing contre le chasseur de Shin Hati",
+    "imgUrl": "https://images1.vinted.net/t/04_01450_s3aiTTp8miYcBz65MSjTKFAH/f800/1732177781.jpeg?s=0ba43e71ffad24ca58bcf342552b40f676d2d0ec",
+    "publicationDate": 1732177781
+  },
+  {
+    "_id": "5ce45b05-32e0-57a0-9b76-7823d00c07a0",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/5419535665-lego-star-wars-75364",
+    "price": 68.95,
+    "title": "Lego star Wars 75364",
+    "imgUrl": "https://images1.vinted.net/t/02_0150e_DGfFF6UrNY4S3JAVjhBn4aUy/f800/1732199010.jpeg?s=3d220559afa33885791639d664e7af387e70a3d6",
+    "publicationDate": 1732199010
+  },
+  {
+    "_id": "3e8c802d-2c19-575d-bdf7-2326e5a058a9",
     "legoId": "75364",
     "link": "https://www.vinted.fr/items/4883796436-lego-star-wars-75364-ala-e-vs-caza-shin-tai",
     "price": 58.45,
     "title": "Lego Star Wars 75364 Ala E vs Caza Shin Tai",
     "imgUrl": "https://images1.vinted.net/t/02_02175_4aiRNG9UrYmqDozwTXU1i9Rv/f800/1723571928.jpeg?s=30cc8c709dd5c02ec1a5d56ac4d388669d999331",
-    "publicationDate": 1723571928,
-    "id": 4883796436
+    "publicationDate": 1723571928
   },
   {
+    "_id": "e885a9aa-f284-5ec4-843a-1ac1e04f1712",
     "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4813500324-lego-75364-star-wars-new-republic-e-wing-vs-shin-hatis-starfighter",
-    "price": 51.63,
-    "title": "Lego 75364 Star Wars New Republic E-Wing vs. Shin Hatis Starfighter",
-    "imgUrl": "https://images1.vinted.net/t/02_00ec4_959B33PK3rCUHEordFzNSGpz/f800/1722060843.jpeg?s=b64cc306428723362df12a671a07d287a53eb491",
-    "publicationDate": 1722060843,
-    "id": 4813500324
+    "link": "https://www.vinted.fr/items/5417147313-lego-star-wars-75364-le-wing-de-la-nouvelle-republique-contre-le-chasseur-de-shin-hati-neuf",
+    "price": 73.15,
+    "title": "Lego Star Wars 75364 L’E-wing de la Nouvelle République contre le chasseur de Shin Hati NEUF",
+    "imgUrl": "https://images1.vinted.net/t/01_01212_9tZpNAoYAK9mEFj1F9WmRHdX/f800/1732140733.jpeg?s=823dbe53cf549d097f3a0d2aa6f8943346efa3f9",
+    "publicationDate": 1732140733
   },
   {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4775889243-lego-star-wars-75364-baylan-skoll-sw1293",
-    "price": 25.9,
-    "title": "Lego Star Wars 75364 Baylan Skoll Sw1293",
-    "imgUrl": "https://images1.vinted.net/t/02_01cb5_nMUnEgqZXPkr6kXanjfjb295/f800/1721216090.jpeg?s=9da660a59115567adc9ec2acd2075e1af8a80a33",
-    "publicationDate": 1721216090,
-    "id": 4775889243
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4673265350-lego-75364-novo-selado",
-    "price": 74.2,
-    "title": "Lego 75364 novo selado",
-    "imgUrl": "https://images1.vinted.net/t/02_00a61_qi8XnYdSXHcVQSRHtrXyiimG/f800/1719054610.jpeg?s=64b008e44d1f0f31470c3cb318226913285afc02",
-    "publicationDate": 1719054610,
-    "id": 4673265350
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/5295112245-lego-stars-wars-set-75364",
-    "price": 26.94,
-    "title": "Lego Stars Wars Set 75364",
-    "imgUrl": "https://images1.vinted.net/t/01_010d6_tBZkW68vDNFbzjn91W5HB6Pc/f800/1730148962.jpeg?s=4832b759896f9b9ea1650f0408ae0286eeca3326",
-    "publicationDate": 1730148962,
-    "id": 5295112245
-  },
-  {
+    "_id": "3462e8e9-a4a4-55d8-be57-774249aad470",
     "legoId": "75364",
     "link": "https://www.vinted.fr/items/5401376718-lego-75364-star-wars-nuevo",
     "price": 78.93,
     "title": "Lego 75364 Star Wars NUEVO",
     "imgUrl": "https://images1.vinted.net/t/02_026ea_p8x6SFkxwFtE8adm1raaxLiF/f800/1731876342.jpeg?s=ff8f4740c31813d219195418208f2b3ce50aff5f",
-    "publicationDate": 1731876342,
-    "id": 5401376718
+    "publicationDate": 1731876342
   },
   {
+    "_id": "2fa52311-88f4-5e2d-a9d6-43f14f0564b0",
     "legoId": "75364",
-    "link": "https://www.vinted.fr/items/5378779221-lego-star-wars-75364",
-    "price": 76.3,
-    "title": "Lego Star Wars 75364",
-    "imgUrl": "https://images1.vinted.net/t/04_01999_WMeihvnPiQHduzGvJ3XxG8r6/f800/1731527413.jpeg?s=e1d88e8701a8c1d7f7f4c7e011fa715f4c89b2aa",
-    "publicationDate": 1731527413,
-    "id": 5378779221
+    "link": "https://www.vinted.fr/items/5295108584-lego-stars-wars-set-75364",
+    "price": 25.89,
+    "title": "Lego Stars Wars Set 75364",
+    "imgUrl": "https://images1.vinted.net/t/04_018cb_GHAep5hc6HdWt6nTMAtiJbPD/f800/1730148910.jpeg?s=9be364092d1ad874e65e2ebbb4053a54d06ad7aa",
+    "publicationDate": 1730148910
   },
   {
+    "_id": "d697f6df-885b-5b2a-acb9-fe6254ea5f60",
     "legoId": "75364",
-    "link": "https://www.vinted.fr/items/5401461920-lego-star-wars-75364-new-republic-e-wing-vs-shin-hatis-starfighter",
+    "link": "https://www.vinted.fr/items/4813500324-lego-75364-star-wars-new-republic-e-wing-vs-shin-hatis-starfighter",
+    "price": 51.63,
+    "title": "Lego 75364 Star Wars New Republic E-Wing vs. Shin Hatis Starfighter",
+    "imgUrl": "https://images1.vinted.net/t/02_00ec4_959B33PK3rCUHEordFzNSGpz/f800/1722060843.jpeg?s=b64cc306428723362df12a671a07d287a53eb491",
+    "publicationDate": 1722060843
+  },
+  {
+    "_id": "adf386b2-3403-5a59-8835-3d2dc5f83962",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/5437185993-lego-star-wars",
+    "price": 74.2,
+    "title": "Lego Star Wars",
+    "imgUrl": "https://images1.vinted.net/t/04_011de_JhvKRYizZfmqStcM74nhpdj5/f800/1732471831.jpeg?s=8cbca5d29892a4624881340badf7fb5fe289632c",
+    "publicationDate": 1732471831
+  },
+  {
+    "_id": "77b4e0ff-db06-5f63-8fdd-fcb4f0e3f77c",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/5295112245-lego-stars-wars-set-75364",
+    "price": 26.94,
+    "title": "Lego Stars Wars Set 75364",
+    "imgUrl": "https://images1.vinted.net/t/01_010d6_tBZkW68vDNFbzjn91W5HB6Pc/f800/1730148962.jpeg?s=4832b759896f9b9ea1650f0408ae0286eeca3326",
+    "publicationDate": 1730148962
+  },
+  {
+    "_id": "266b6f1f-33e6-54ce-ad8a-2826b2091cd7",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/5418774812-lego-star-wars-75364",
     "price": 74.19,
-    "title": "LEGO Star Wars 75364 New Republic E-Wing vs. Shin Hati's Starfighter",
-    "imgUrl": "https://images1.vinted.net/t/04_026b2_a5piqzuCxqPip9zqd26wHfjZ/f800/1731877227.jpeg?s=3491f9e86450cc825fb460498a5d107e6f285630",
-    "publicationDate": 1731877227,
-    "id": 5401461920
+    "title": "Lego Star Wars 75364",
+    "imgUrl": "https://images1.vinted.net/t/03_004ba_bm7GWemkof7xGfAXcR9GGNBX/f800/1732191411.jpeg?s=f2720a490a3440edc9535b0c7b8ef82198d617b1",
+    "publicationDate": 1732191411
   },
   {
+    "_id": "6e2f95ea-2685-56de-83b8-c6a79ef5574f",
     "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4928353916-lego-star-wars-nave-del-set-75364",
-    "price": 29.05,
-    "title": "Lego Star Wars. Nave del set 75364",
-    "imgUrl": "https://images1.vinted.net/t/03_023cf_97drh3ie4zkP9zpJf9TzSsNw/f800/1724433746.jpeg?s=c63a4aee11e92f0b858e98c5cc3731f767948667",
-    "publicationDate": 1724433746,
-    "id": 4928353916
+    "link": "https://www.vinted.fr/items/4775889243-lego-star-wars-75364-baylan-skoll-sw1293",
+    "price": 25.9,
+    "title": "Lego Star Wars 75364 Baylan Skoll Sw1293",
+    "imgUrl": "https://images1.vinted.net/t/02_01cb5_nMUnEgqZXPkr6kXanjfjb295/f800/1721216090.jpeg?s=9da660a59115567adc9ec2acd2075e1af8a80a33",
+    "publicationDate": 1721216090
   },
   {
+    "_id": "2b995ae6-078f-56d6-b684-e1fbfeefebec",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/4673265350-lego-75364-novo-selado",
+    "price": 74.2,
+    "title": "Lego 75364 novo selado",
+    "imgUrl": "https://images1.vinted.net/t/02_00a61_qi8XnYdSXHcVQSRHtrXyiimG/f800/1719054610.jpeg?s=64b008e44d1f0f31470c3cb318226913285afc02",
+    "publicationDate": 1719054610
+  },
+  {
+    "_id": "c23dde29-269f-5a80-88c7-12f12ebf5eef",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/4422814204-lego-scelle-75364",
+    "price": 79.45,
+    "title": "Lego scellé 75364",
+    "imgUrl": "https://images1.vinted.net/t/03_0241a_WizJLUYfA9kMdqdVg54jFQ5F/f800/1714213489.jpeg?s=de60b432cb51bf4bcad2b40321a81eb97e85e97c",
+    "publicationDate": 1714213489
+  },
+  {
+    "_id": "59610269-b4e9-5be4-b1df-e5e803f36fca",
     "legoId": "75364",
     "link": "https://www.vinted.fr/items/5361309236-lego-star-wars",
     "price": 79.45,
     "title": "Lego Star Wars",
     "imgUrl": "https://images1.vinted.net/t/04_0010e_3bnjHwxmgk15vsry6pPn3GFG/f800/1731262702.jpeg?s=98d6cf8be2991c976580deecd727fbfcd7676006",
-    "publicationDate": 1731262702,
-    "id": 5361309236
+    "publicationDate": 1731262702
   },
   {
+    "_id": "411a3dc4-a87d-5d39-9ead-a1d48515d9cc",
     "legoId": "75364",
     "link": "https://www.vinted.fr/items/5284359250-lego-75364-star-wars-neu",
     "price": 77.35,
     "title": "Lego 75364 Star Wars Neu !!",
     "imgUrl": "https://images1.vinted.net/t/04_014e0_5mTdBrAqu55UjFRcVDeU5gLd/f800/1730023431.jpeg?s=46992e8d1ca45659ef902f9eb228ec445ad7d92e",
-    "publicationDate": 1730023431,
-    "id": 5284359250
+    "publicationDate": 1730023431
   },
   {
+    "_id": "433e678f-d02c-5c11-95a6-4c82244bd1cb",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/5431824337-set-lego-star-wars-75364-le-wing-de-la-nouvelle-republique-contre-le-chasseur-de-shin-neuf",
+    "price": 104.65,
+    "title": "Set Lego Star Wars 75364 , l’E-wing de la nouvelle république contre le chasseur de shin , NEUF",
+    "imgUrl": "https://images1.vinted.net/t/03_00eaf_ABSDMA9WY2w7p1MpuYTpiZL9/f800/1732412798.jpeg?s=191ea27b626047a9090e751a11f233fdcb8b44ab",
+    "publicationDate": 1732412798
+  },
+  {
+    "_id": "a353d12d-1066-5be8-a9d9-e32bb796b153",
     "legoId": "75364",
     "link": "https://www.vinted.fr/items/5155085826-75364-lego-star-wars",
     "price": 53.2,
     "title": "75364 - Lego Star wars",
     "imgUrl": "https://images1.vinted.net/t/03_00db6_YsXt4DMnNFbkji37kdvdckEi/f800/1728028084.jpeg?s=06f2b39bd8f02fe176eb8bbcea962503987b0a20",
-    "publicationDate": 1728028084,
-    "id": 5155085826
+    "publicationDate": 1728028084
   },
   {
+    "_id": "436b786a-76f7-51d1-a06a-179052f6eb09",
     "legoId": "75364",
-    "link": "https://www.vinted.fr/items/5372893071-lego-75364-star-wars",
-    "price": 89.95,
-    "title": "Lego 75364, Star Wars",
-    "imgUrl": "https://images1.vinted.net/t/02_00080_korqn7h5MfebmFFhpg1u3CVt/f800/1731433051.jpeg?s=fd90e43bcca85d2c020c80f51a7e7856fd54e362",
-    "publicationDate": 1731433051,
-    "id": 5372893071
+    "link": "https://www.vinted.fr/items/4928353916-lego-star-wars-nave-del-set-75364",
+    "price": 29.05,
+    "title": "Lego Star Wars. Nave del set 75364",
+    "imgUrl": "https://images1.vinted.net/t/03_023cf_97drh3ie4zkP9zpJf9TzSsNw/f800/1724433746.jpeg?s=c63a4aee11e92f0b858e98c5cc3731f767948667",
+    "publicationDate": 1724433746
   },
   {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/5326981058-lego-star-wars-75364-le-wing-de-la-nouvelle-republique-contre-le-chasseur-de-shin-hati",
-    "price": 77.35,
-    "title": "Lego Star Wars 75364 - L’E-wing de la Nouvelle République contre le chasseur de Shin Hati",
-    "imgUrl": "https://images1.vinted.net/t/04_0012a_PniXECGkdGmPytKebXYBVrYX/f800/1730677138.jpeg?s=954b67239bd2964186be2444b3a837583da18d28",
-    "publicationDate": 1730677138,
-    "id": 5326981058
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/5204971880-lego-star-wars-75364-new",
-    "price": 79.45,
-    "title": "Lego star wars 75364 new!",
-    "imgUrl": "https://images1.vinted.net/t/01_00b2b_BPkZu55Xc7E9TnjogdXV4JBB/f800/1728752631.jpeg?s=25d4e500649310d2f5f3e2cba94b8d1d627d21b7",
-    "publicationDate": 1728752631,
-    "id": 5204971880
-  },
-  {
+    "_id": "10b5ebd3-6ac7-586b-99db-a3d7072546ae",
     "legoId": "75364",
     "link": "https://www.vinted.fr/items/4634515952-lego-star-wars-75364",
     "price": 79.45,
     "title": "Lego star wars 75364",
     "imgUrl": "https://images1.vinted.net/t/03_004d2_LtzWXzicBioebhXdYscibDgM/f800/1718214780.jpeg?s=486639edec47b052701c112567bf389879a4d855",
-    "publicationDate": 1718214780,
-    "id": 4634515952
+    "publicationDate": 1718214780
   },
   {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/5393351811-lego-star-wars-ref-75364",
-    "price": 89.95,
-    "title": "Lego Star wars ref 75364",
-    "imgUrl": "https://images1.vinted.net/t/03_02080_6krpCJ9d9ZSHBA9ijKn4bVsv/f800/1731782804.jpeg?s=43ae10b9ed4e59d13e504b8f5903619c619cdbe2",
-    "publicationDate": 1731782804,
-    "id": 5393351811
-  },
-  {
+    "_id": "9b0327c5-8c83-5860-b4fa-c35c2ff95a44",
     "legoId": "75364",
     "link": "https://www.vinted.fr/items/5106526293-lego-star-wars-75364",
     "price": 84.7,
     "title": "Lego star wars 75364",
     "imgUrl": "https://images1.vinted.net/t/01_0109f_XEnYHccqGNcd63e6rar7Ubvq/f800/1727276059.jpeg?s=ecd6e622e6efe6d325ade79babb8903cebee5cb8",
-    "publicationDate": 1727276059,
-    "id": 5106526293
+    "publicationDate": 1727276059
   },
   {
+    "_id": "e07e1deb-0d73-5359-a708-48163d5b2c92",
     "legoId": "75364",
-    "link": "https://www.vinted.fr/items/3877499691-lego-star-wars-75364",
-    "price": 84.7,
-    "title": "Lego star wars 75364",
-    "imgUrl": "https://images1.vinted.net/t/03_01cb1_kr7XBHvKuiArZKhhiMYFsoYn/f800/1702456240.jpeg?s=078e36a30748c0d11b8de0cb260796eeea117d2b",
-    "publicationDate": 1702456240,
-    "id": 3877499691
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4766774326-lego-star-wars-75364",
-    "price": 84.7,
-    "title": "Lego Star Wars 75364",
-    "imgUrl": "https://images1.vinted.net/t/01_00c95_iuk6tPgqU22r39VC7hxgUSYM/f800/1721032885.jpeg?s=79a80af51f6925e7a16fadfbccf0412557fbf6e3",
-    "publicationDate": 1721032885,
-    "id": 4766774326
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4461203497-set-lego-75364-ahsoka-ala-e-vs-caza-estelar",
-    "price": 78.4,
-    "title": "Set Lego 75364 Ahsoka Ala-E vs Caza estelar",
-    "imgUrl": "https://images1.vinted.net/t/01_0200a_w1sEt9zRYR35pYvHvBV6f1Sg/f800/1714917762.jpeg?s=981c4d126dc7a048c6aaa60355a5701829a11a01",
-    "publicationDate": 1714917762,
-    "id": 4461203497
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4027050285-lego-star-wars-75364",
-    "price": 78.4,
-    "title": "Lego star wars 75364",
-    "imgUrl": "https://images1.vinted.net/t/02_0193b_Bi9dHpZe85zFMNAdRcaJUyPg/f800/1706319557.jpeg?s=d98c3ca0ad800248ceeb7359046ee29198375bad",
-    "publicationDate": 1706319557,
-    "id": 4027050285
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4469558637-lego-star-wars-75364-e-wing-vs-shin-hati-starfighter-nuevo-a-estrenar",
-    "price": 91,
-    "title": "Lego Star Wars 75364 E-Wing VS Shin Hati Starfighter. Nuevo, a estrenar",
-    "imgUrl": "https://images1.vinted.net/t/03_009a9_Hiq746oJBqfzG11xUCXoAzJo/f800/1715066103.jpeg?s=fe45c807d175cd9b3389df3fc3a9d269e6a3bfbf",
-    "publicationDate": 1715066103,
-    "id": 4469558637
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/5176246273-lego-star-wars-75364-new-republic-e-wing-vs-shin-hatis",
-    "price": 95.2,
-    "title": "lego star wars 75364 New Republic E-wing vs. Shin Hati's",
-    "imgUrl": "https://images1.vinted.net/t/03_01059_VVwAot67yRs9kYBUc9kpK5yw/f800/1728306407.jpeg?s=3b3a5c92b2965f7a47eadbeb2fabda50c27d1597",
-    "publicationDate": 1728306407,
-    "id": 5176246273
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4824827565-lego-75364",
-    "price": 89.95,
-    "title": "Lego 75364",
-    "imgUrl": "https://images1.vinted.net/t/01_0008a_D6qsVebrtZZShjjpGDLYLUcL/f800/1722282078.jpeg?s=15a42e03e5ad8ade1bb7dffe2895198981385768",
-    "publicationDate": 1722282078,
-    "id": 4824827565
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4799165312-lego-star-wars-75364",
-    "price": 105.7,
-    "title": "Lego star wars 75364",
-    "imgUrl": "https://images1.vinted.net/t/01_006b4_WLW4Ue2t4yjDGoWkm3QSHw6W/f800/1721736453.jpeg?s=70629edfac5fcb26f7648590398d1f114d9db77c",
-    "publicationDate": 1721736453,
-    "id": 4799165312
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/3620719357-lego-star-wars-le-wing-de-la-nouvelle-republique-contre-le-chasseur-de-shin-hati",
-    "price": 96.25,
-    "title": "LEGO Star Wars - L’E-wing de la Nouvelle République contre le chasseur de Shin Hati",
-    "imgUrl": "https://images1.vinted.net/t/03_01983_zBLehusqTsqwjnrUzUw8vnkn/f800/1697489854.jpeg?s=41e3e11661caf4047dba4f2c62da8a99d936de64",
-    "publicationDate": 1697489854,
-    "id": 3620719357
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/3965102743-lego-75364",
-    "price": 84.7,
-    "title": "Lego 75364 ",
-    "imgUrl": "https://images1.vinted.net/t/01_01e8d_GZy8ypBke8VJcFUfGuRs1riv/f800/1704968060.jpeg?s=ca9b52edf1739382a086f4e257eb4101f6014b4a",
-    "publicationDate": 1704968060,
-    "id": 3965102743
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4648655431-lego-star-wars-75364-new-republic-e-wing-vs-shin-hati-starfighter",
-    "price": 84.7,
-    "title": "Lego star wars 75364- new republic E-wing vs shin hati starfighter",
-    "imgUrl": "https://images1.vinted.net/t/03_0122c_6kwXqRgCRdxUfJMzKKB4LBPM/f800/1718535573.jpeg?s=a6ca368cf50fd1a5b00eb339388eabfc5729c188",
-    "publicationDate": 1718535573,
-    "id": 4648655431
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/3728838296-lego-star-wars",
-    "price": 92.05,
-    "title": "Lego Star Wars ",
-    "imgUrl": "https://images1.vinted.net/t/03_002e5_AM3TzkjYRAWByNWWtWuVz8N9/f800/1699429905.jpeg?s=538ba395f607e803f53d33fab5e7cc7fa61a49a9",
-    "publicationDate": 1699429905,
-    "id": 3728838296
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/3904529063-boite-lego-star-wars-75364-le-wing-de-la-nouvelle-republique-contre-le-chasseur-de-shin-hati",
-    "price": 110.95,
-    "title": "Boîte lego star wars 75364 l'E-wing de la Nouvelle République contre le chasseur de Shin Hati ",
-    "imgUrl": "https://images1.vinted.net/t/01_0230e_dcqCi48qieTiTB3KjnM9cbNw/f800/1703340369.jpeg?s=73c5517d13429d51b6451f30bd496292de467999",
-    "publicationDate": 1703340369,
-    "id": 3904529063
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/3480692071-lego-star-wars-75364-le-wing-de-la-nouvelle-republique-contre-le-chasseur-de-shin-hati",
-    "price": 105.7,
-    "title": "Lego star wars 75364 l'E-wing de la nouvelle république contre le chasseur de Shin Hati",
-    "imgUrl": "https://images1.vinted.net/t/03_02613_Y5SE9E4yA2i3uJoHuXAnKuc6/f800/1694880317.jpeg?s=f46d996276ead20073b9b96a72056e62b91e30d6",
-    "publicationDate": 1694880317,
-    "id": 3480692071
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/3753217508-lego-star-wars-snowspeeder-magazines-minibuild-exclusive-sealed",
-    "price": 11.2,
-    "title": "Lego Star Wars snowspeeder magazines minibuild exclusive sealed ",
-    "imgUrl": "https://images1.vinted.net/t/01_00cc0_rRWVHABVnhipGq6vh5MnMBRw/f800/1699868407.jpeg?s=803b0d4ecc7c52823738c8820892bec1cc6b44aa",
-    "publicationDate": 1699868407,
-    "id": 3753217508
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/3777220158-lego-star-wars-75364",
-    "price": 104.65,
-    "title": "Lego star Wars 75364 ",
-    "imgUrl": "https://images1.vinted.net/t/01_004db_jLFE34QnoRCBjJpcZf1Peqcr/f800/1700330273.jpeg?s=aa4d486db43de23e8f70ebd96cfa1f5f1e9f6434",
-    "publicationDate": 1700330273,
-    "id": 3777220158
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/5208490991-lego-75364-star-wars-e-wing-contre-chasseur",
-    "price": 105.7,
-    "title": "LEGO 75364 Star Wars E-wing contre chasseur",
-    "imgUrl": "https://images1.vinted.net/t/03_01ef2_xgGURHbrKqGR7cR8weVXr6F3/f800/1728818717.jpeg?s=76b952d0808b88753a772a691bf7201478fb21c2",
-    "publicationDate": 1728818717,
-    "id": 5208490991
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/3626319240-lego-75364-new-republic-e-wing-vs-shin-hatis-starfighter-misb-nuovo-sigillato",
-    "price": 84.7,
-    "title": "Lego 75364 new republic e-wing vs Shin hati's Starfighter misb nuovo sigillato",
-    "imgUrl": "https://images1.vinted.net/t/02_013b5_FkRr8Yz8bV2vHitFi4wQhpzX/f800/1697620494.jpeg?s=e32df589cdba9f5ca3a452d6689b7a3808a8aa91",
-    "publicationDate": 1697620494,
-    "id": 3626319240
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4862608916-lego-n-75364-e-wing-vs-starfighter-vedi-info",
-    "price": 105.7,
-    "title": "Lego n. 75364 - E-wing vs. Starfighter (vedi info)",
-    "imgUrl": "https://images1.vinted.net/t/02_019a7_aQvATHNfgU5Soj4BBdF6L1GD/f800/1723115337.jpeg?s=26339fab085242d73e1d519f736c7abdb57fcf77",
-    "publicationDate": 1723115337,
-    "id": 4862608916
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4704863633-lego-75364-star-wars-e-wing-contre-chasseur",
-    "price": 105.7,
-    "title": "LEGO 75364 Star Wars E-wing contre chasseur",
-    "imgUrl": "https://images1.vinted.net/t/02_016fd_2xQpwymXQfBYhNbSs2uA2gAx/f800/1719752089.jpeg?s=a0bc15f68f18955d00eeb2ad2d58393f50b9f47c",
-    "publicationDate": 1719752089,
-    "id": 4704863633
-  },
-  {
-    "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4156220012-lego-star-wars-75364-new",
-    "price": 84.7,
+    "link": "https://www.vinted.fr/items/5204971880-lego-star-wars-75364-new",
+    "price": 79.45,
     "title": "Lego star wars 75364 new!",
-    "imgUrl": "https://images1.vinted.net/t/02_00ed0_yPZAcE8gtbUSpirqi4GPY5LF/f800/1709054003.jpeg?s=902511439d5d615bcbe4a277b08313a3c805785a",
-    "publicationDate": 1709054003,
-    "id": 4156220012
+    "imgUrl": "https://images1.vinted.net/t/01_00b2b_BPkZu55Xc7E9TnjogdXV4JBB/f800/1728752631.jpeg?s=25d4e500649310d2f5f3e2cba94b8d1d627d21b7",
+    "publicationDate": 1728752631
   },
   {
+    "_id": "5bd04e21-edb5-5732-a16b-e165db8bf915",
     "legoId": "75364",
-    "link": "https://www.vinted.fr/items/3924372280-pack-2-legos-star-wars",
-    "price": 146.65,
-    "title": "Pack 2 legos Star wars ",
-    "imgUrl": "https://images1.vinted.net/t/03_02207_W8YD7esJpGxkLxLUNHFS37Nh/f800/1704024826.jpeg?s=c94b716f9052e245865ca71aadcbdf089c2558d2",
-    "publicationDate": 1704024826,
-    "id": 3924372280
+    "link": "https://www.vinted.fr/items/5393351811-lego-star-wars-ref-75364",
+    "price": 89.95,
+    "title": "Lego Star wars ref 75364",
+    "imgUrl": "https://images1.vinted.net/t/03_02080_6krpCJ9d9ZSHBA9ijKn4bVsv/f800/1731782804.jpeg?s=43ae10b9ed4e59d13e504b8f5903619c619cdbe2",
+    "publicationDate": 1731782804
   },
   {
+    "_id": "fbd4e335-62f7-50fe-9d59-3fb8f4230843",
     "legoId": "75364",
     "link": "https://www.vinted.fr/items/3587407420-lego-harry-potter-magic-wand-brand-rare-store-exclusive-limited-edition",
     "price": 26.95,
     "title": "Lego Harry Potter Magic Wand Brand RARE Store Exclusive Limited Edition ",
     "imgUrl": "https://images1.vinted.net/t/01_01970_PakmstFwtNHAUW9MH4WUzabE/f800/1696879713.jpeg?s=3269045c9d6d16afe08b10c51b695d6e4306ae8f",
-    "publicationDate": 1696879713,
-    "id": 3587407420
+    "publicationDate": 1696879713
   },
   {
+    "_id": "eb683915-21ef-5656-a2ff-171f7e64e03f",
     "legoId": "75364",
-    "link": "https://www.vinted.fr/items/3472041690-lego-dreamzzz-turtle-van-bt-6471332-71456-limited-edition-minibuild",
-    "price": 26.95,
-    "title": "Lego Dreamzzz Turtle Van B&T 6471332 - 71456 Limited Edition Minibuild",
-    "imgUrl": "https://images1.vinted.net/t/02_00a8f_3tU1EurgsJFDEacdSxkuSpAL/f800/1694695330.jpeg?s=02da27bae07fe1399b9ad424ca8e85ee6b6374f8",
-    "publicationDate": 1694695330,
-    "id": 3472041690
+    "link": "https://www.vinted.fr/items/5208490991-lego-75364-star-wars-e-wing-contre-chasseur",
+    "price": 105.7,
+    "title": "LEGO 75364 Star Wars E-wing contre chasseur",
+    "imgUrl": "https://images1.vinted.net/t/03_01ef2_xgGURHbrKqGR7cR8weVXr6F3/f800/1728818717.jpeg?s=76b952d0808b88753a772a691bf7201478fb21c2",
+    "publicationDate": 1728818717
   },
   {
+    "_id": "a4043aa8-55ff-50a2-90c7-e1d47b8db009",
     "legoId": "75364",
-    "link": "https://www.vinted.fr/items/3998370226-lego-star-wars-minifigure-jedi-knight-kit-fisto-sw0163-sw0422-8088-7661",
-    "price": 47.95,
-    "title": "Lego Star Wars minifigure Jedi Knight Kit Fisto sw0163  sw0422 8088 7661",
-    "imgUrl": "https://images1.vinted.net/t/02_01f07_D3npqk5r8MUYc9A4BUfjWpsj/f800/1705686815.jpeg?s=a05ea28e0ed274145e87c92d5a6df8a4084b14c7",
-    "publicationDate": 1705686815,
-    "id": 3998370226
+    "link": "https://www.vinted.fr/items/5326981058-lego-star-wars-75364-le-wing-de-la-nouvelle-republique-contre-le-chasseur-de-shin-hati",
+    "price": 77.35,
+    "title": "Lego Star Wars 75364 - L’E-wing de la Nouvelle République contre le chasseur de Shin Hati",
+    "imgUrl": "https://images1.vinted.net/t/04_0012a_PniXECGkdGmPytKebXYBVrYX/f800/1730677138.jpeg?s=954b67239bd2964186be2444b3a837583da18d28",
+    "publicationDate": 1730677138
   },
   {
+    "_id": "de4d2e5d-0d1e-5afc-957a-beb89263073a",
     "legoId": "75364",
-    "link": "https://www.vinted.fr/items/3924984175-bien-lire-lannonce-lot-de-deux-lego-star-wars-75364",
-    "price": 137.2,
-    "title": "Bien lire l'annonce,  lot de deux lego star wars 75364",
-    "imgUrl": "https://images1.vinted.net/t/02_000f9_JRtGf9yA8xbSNVfAB9f5Cq9W/f800/1704033551.jpeg?s=9068cd12c5dae84c1d4a985ec0461fc0e2b37452",
-    "publicationDate": 1704033551,
-    "id": 3924984175
+    "link": "https://www.vinted.fr/items/5372893071-lego-75364-star-wars",
+    "price": 89.95,
+    "title": "Lego 75364, Star Wars",
+    "imgUrl": "https://images1.vinted.net/t/02_00080_korqn7h5MfebmFFhpg1u3CVt/f800/1731433051.jpeg?s=fd90e43bcca85d2c020c80f51a7e7856fd54e362",
+    "publicationDate": 1731433051
   },
   {
+    "_id": "55d3a173-de1b-529f-83d6-2a98658a8901",
     "legoId": "75364",
-    "link": "https://www.vinted.fr/items/4176064262-starwars-bundle-of-7-only-set",
-    "price": 284.2,
-    "title": "StarWars Bundle of 7 only Set",
-    "imgUrl": "https://images1.vinted.net/t/03_025e9_HddK48dgow7QjBQTkD4r2cjE/f800/1709476369.jpeg?s=e8104ec2c2647c26a6b19d3b917975485dbb1d04",
-    "publicationDate": 1709476369,
-    "id": 4176064262
+    "link": "https://www.vinted.fr/items/4766774326-lego-star-wars-75364",
+    "price": 84.7,
+    "title": "Lego Star Wars 75364",
+    "imgUrl": "https://images1.vinted.net/t/01_00c95_iuk6tPgqU22r39VC7hxgUSYM/f800/1721032885.jpeg?s=79a80af51f6925e7a16fadfbccf0412557fbf6e3",
+    "publicationDate": 1721032885
   },
   {
+    "_id": "b568f28f-e500-56e3-b6b7-f91e5ffaa80b",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/4461203497-set-lego-75364-ahsoka-ala-e-vs-caza-estelar",
+    "price": 78.4,
+    "title": "Set Lego 75364 Ahsoka Ala-E vs Caza estelar",
+    "imgUrl": "https://images1.vinted.net/t/01_0200a_w1sEt9zRYR35pYvHvBV6f1Sg/f800/1714917762.jpeg?s=981c4d126dc7a048c6aaa60355a5701829a11a01",
+    "publicationDate": 1714917762
+  },
+  {
+    "_id": "47584f4f-295c-54b0-9dbf-dfbdd3a52d92",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/3753217508-lego-star-wars-snowspeeder-magazines-minibuild-exclusive-sealed",
+    "price": 11.2,
+    "title": "Lego Star Wars snowspeeder magazines minibuild exclusive sealed ",
+    "imgUrl": "https://images1.vinted.net/t/01_00cc0_rRWVHABVnhipGq6vh5MnMBRw/f800/1699868407.jpeg?s=803b0d4ecc7c52823738c8820892bec1cc6b44aa",
+    "publicationDate": 1699868407
+  },
+  {
+    "_id": "086caf11-19c0-51ba-a198-5b2136b89d82",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/4027050285-lego-star-wars-75364",
+    "price": 78.4,
+    "title": "Lego star wars 75364",
+    "imgUrl": "https://images1.vinted.net/t/02_0193b_Bi9dHpZe85zFMNAdRcaJUyPg/f800/1706319557.jpeg?s=d98c3ca0ad800248ceeb7359046ee29198375bad",
+    "publicationDate": 1706319557
+  },
+  {
+    "_id": "33ce7dd0-89ed-56a5-80be-f65b2c187f04",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/5176246273-lego-star-wars-75364-new-republic-e-wing-vs-shin-hatis",
+    "price": 95.2,
+    "title": "lego star wars 75364 New Republic E-wing vs. Shin Hati's",
+    "imgUrl": "https://images1.vinted.net/t/03_01059_VVwAot67yRs9kYBUc9kpK5yw/f800/1728306407.jpeg?s=3b3a5c92b2965f7a47eadbeb2fabda50c27d1597",
+    "publicationDate": 1728306407
+  },
+  {
+    "_id": "148cf59f-fb53-59fc-9066-fc8713e293b0",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/3877499691-lego-star-wars-75364",
+    "price": 84.7,
+    "title": "Lego star wars 75364",
+    "imgUrl": "https://images1.vinted.net/t/03_01cb1_kr7XBHvKuiArZKhhiMYFsoYn/f800/1702456240.jpeg?s=078e36a30748c0d11b8de0cb260796eeea117d2b",
+    "publicationDate": 1702456240
+  },
+  {
+    "_id": "08782633-2550-5c9a-8d6b-ff4a7b1adffe",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/4648655431-lego-star-wars-75364-new-republic-e-wing-vs-shin-hati-starfighter",
+    "price": 84.7,
+    "title": "Lego star wars 75364- new republic E-wing vs shin hati starfighter",
+    "imgUrl": "https://images1.vinted.net/t/03_0122c_6kwXqRgCRdxUfJMzKKB4LBPM/f800/1718535573.jpeg?s=a6ca368cf50fd1a5b00eb339388eabfc5729c188",
+    "publicationDate": 1718535573
+  },
+  {
+    "_id": "f6300f6b-266a-5837-a4a0-8c763fbe0c53",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/4799165312-lego-star-wars-75364",
+    "price": 105.7,
+    "title": "Lego star wars 75364",
+    "imgUrl": "https://images1.vinted.net/t/01_006b4_WLW4Ue2t4yjDGoWkm3QSHw6W/f800/1721736453.jpeg?s=70629edfac5fcb26f7648590398d1f114d9db77c",
+    "publicationDate": 1721736453
+  },
+  {
+    "_id": "06bf6a81-833c-5610-ae2d-77776b54b5b2",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/3626319240-lego-75364-new-republic-e-wing-vs-shin-hatis-starfighter-misb-nuovo-sigillato",
+    "price": 84.7,
+    "title": "Lego 75364 new republic e-wing vs Shin hati's Starfighter misb nuovo sigillato",
+    "imgUrl": "https://images1.vinted.net/t/02_013b5_FkRr8Yz8bV2vHitFi4wQhpzX/f800/1697620494.jpeg?s=e32df589cdba9f5ca3a452d6689b7a3808a8aa91",
+    "publicationDate": 1697620494
+  },
+  {
+    "_id": "e82ff606-0d67-5f8c-9616-beddfe3041a2",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/4469558637-lego-star-wars-75364-e-wing-vs-shin-hati-starfighter-nuevo-a-estrenar",
+    "price": 91,
+    "title": "Lego Star Wars 75364 E-Wing VS Shin Hati Starfighter. Nuevo, a estrenar",
+    "imgUrl": "https://images1.vinted.net/t/03_009a9_Hiq746oJBqfzG11xUCXoAzJo/f800/1715066103.jpeg?s=fe45c807d175cd9b3389df3fc3a9d269e6a3bfbf",
+    "publicationDate": 1715066103
+  },
+  {
+    "_id": "4cf5bd3c-f6a2-5431-9187-40dd1959999e",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/4704863633-lego-75364-star-wars-e-wing-contre-chasseur",
+    "price": 105.7,
+    "title": "LEGO 75364 Star Wars E-wing contre chasseur",
+    "imgUrl": "https://images1.vinted.net/t/02_016fd_2xQpwymXQfBYhNbSs2uA2gAx/f800/1719752089.jpeg?s=a0bc15f68f18955d00eeb2ad2d58393f50b9f47c",
+    "publicationDate": 1719752089
+  },
+  {
+    "_id": "38f69e53-e5ff-5dc4-878e-ac4c64a4f974",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/4862608916-lego-n-75364-e-wing-vs-starfighter-vedi-info",
+    "price": 105.7,
+    "title": "Lego n. 75364 - E-wing vs. Starfighter (vedi info)",
+    "imgUrl": "https://images1.vinted.net/t/02_019a7_aQvATHNfgU5Soj4BBdF6L1GD/f800/1723115337.jpeg?s=26339fab085242d73e1d519f736c7abdb57fcf77",
+    "publicationDate": 1723115337
+  },
+  {
+    "_id": "17cf0f8f-8cbe-56a4-a28e-0a89cf5fdd73",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/3777220158-lego-star-wars-75364",
+    "price": 104.65,
+    "title": "Lego star Wars 75364 ",
+    "imgUrl": "https://images1.vinted.net/t/01_004db_jLFE34QnoRCBjJpcZf1Peqcr/f800/1700330273.jpeg?s=aa4d486db43de23e8f70ebd96cfa1f5f1e9f6434",
+    "publicationDate": 1700330273
+  },
+  {
+    "_id": "1ed3cde0-dc7c-53df-8722-7067d3c3add1",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/3965102743-lego-75364",
+    "price": 84.7,
+    "title": "Lego 75364 ",
+    "imgUrl": "https://images1.vinted.net/t/01_01e8d_GZy8ypBke8VJcFUfGuRs1riv/f800/1704968060.jpeg?s=ca9b52edf1739382a086f4e257eb4101f6014b4a",
+    "publicationDate": 1704968060
+  },
+  {
+    "_id": "b630ce2e-db3d-5da5-afa7-6b2fd0945b07",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/4156220012-lego-star-wars-75364-new",
+    "price": 84.7,
+    "title": "Lego star wars 75364 new!",
+    "imgUrl": "https://images1.vinted.net/t/02_00ed0_yPZAcE8gtbUSpirqi4GPY5LF/f800/1709054003.jpeg?s=902511439d5d615bcbe4a277b08313a3c805785a",
+    "publicationDate": 1709054003
+  },
+  {
+    "_id": "b3b74198-7804-54fc-b45c-75085408c448",
     "legoId": "75364",
     "link": "https://www.vinted.fr/items/4453917755-new-lego-star-wars-new-republic-e-wing-vs-shin-hatis-starfighter-75364",
     "price": 95.2,
     "title": "(New) Lego Star Wars - New Republic E-Wing vs. Shin Hati's Starfighter #75364",
     "imgUrl": "https://images1.vinted.net/t/01_0046d_7B9gUMpnEfRTaoQKsqkdhCuw/f800/r1/1714808851.jpeg?s=d50e7140026aea7e4dbb11d13d0a3164e5b41876",
-    "publicationDate": 1714808851,
-    "id": 4453917755
+    "publicationDate": 1714808851
   },
   {
+    "_id": "4c282e88-a862-598a-a275-1aca6f071a18",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/3728838296-lego-star-wars",
+    "price": 92.05,
+    "title": "Lego Star Wars ",
+    "imgUrl": "https://images1.vinted.net/t/03_002e5_AM3TzkjYRAWByNWWtWuVz8N9/f800/1699429905.jpeg?s=538ba395f607e803f53d33fab5e7cc7fa61a49a9",
+    "publicationDate": 1699429905
+  },
+  {
+    "_id": "d8ae4762-f17f-5f83-befe-6920b90db45a",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/3472041690-lego-dreamzzz-turtle-van-bt-6471332-71456-limited-edition-minibuild",
+    "price": 26.95,
+    "title": "Lego Dreamzzz Turtle Van B&T 6471332 - 71456 Limited Edition Minibuild",
+    "imgUrl": "https://images1.vinted.net/t/02_00a8f_3tU1EurgsJFDEacdSxkuSpAL/f800/1694695330.jpeg?s=02da27bae07fe1399b9ad424ca8e85ee6b6374f8",
+    "publicationDate": 1694695330
+  },
+  {
+    "_id": "7c5bac6f-edd8-5a7f-a108-55d443332bdd",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/3620719357-lego-star-wars-le-wing-de-la-nouvelle-republique-contre-le-chasseur-de-shin-hati",
+    "price": 96.25,
+    "title": "LEGO Star Wars - L’E-wing de la Nouvelle République contre le chasseur de Shin Hati",
+    "imgUrl": "https://images1.vinted.net/t/03_01983_zBLehusqTsqwjnrUzUw8vnkn/f800/1697489854.jpeg?s=41e3e11661caf4047dba4f2c62da8a99d936de64",
+    "publicationDate": 1697489854
+  },
+  {
+    "_id": "f045012b-6ff2-589c-accd-1876f812f6e3",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/3480692071-lego-star-wars-75364-le-wing-de-la-nouvelle-republique-contre-le-chasseur-de-shin-hati",
+    "price": 105.7,
+    "title": "Lego star wars 75364 l'E-wing de la nouvelle république contre le chasseur de Shin Hati",
+    "imgUrl": "https://images1.vinted.net/t/03_02613_Y5SE9E4yA2i3uJoHuXAnKuc6/f800/1694880317.jpeg?s=f46d996276ead20073b9b96a72056e62b91e30d6",
+    "publicationDate": 1694880317
+  },
+  {
+    "_id": "5c4f3b21-4007-56d6-9919-d7604b32f577",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/4824827565-lego-75364",
+    "price": 89.95,
+    "title": "Lego 75364",
+    "imgUrl": "https://images1.vinted.net/t/01_0008a_D6qsVebrtZZShjjpGDLYLUcL/f800/1722282078.jpeg?s=15a42e03e5ad8ade1bb7dffe2895198981385768",
+    "publicationDate": 1722282078
+  },
+  {
+    "_id": "0878fefe-9521-5776-a41b-9a5874e3e89e",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/3904529063-boite-lego-star-wars-75364-le-wing-de-la-nouvelle-republique-contre-le-chasseur-de-shin-hati",
+    "price": 110.95,
+    "title": "Boîte lego star wars 75364 l'E-wing de la Nouvelle République contre le chasseur de Shin Hati ",
+    "imgUrl": "https://images1.vinted.net/t/01_0230e_dcqCi48qieTiTB3KjnM9cbNw/f800/1703340369.jpeg?s=73c5517d13429d51b6451f30bd496292de467999",
+    "publicationDate": 1703340369
+  },
+  {
+    "_id": "15c8cdbf-4a47-51cc-aa3e-f9f61d98e682",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/3998370226-lego-star-wars-minifigure-jedi-knight-kit-fisto-sw0163-sw0422-8088-7661",
+    "price": 47.95,
+    "title": "Lego Star Wars minifigure Jedi Knight Kit Fisto sw0163  sw0422 8088 7661",
+    "imgUrl": "https://images1.vinted.net/t/02_01f07_D3npqk5r8MUYc9A4BUfjWpsj/f800/1705686815.jpeg?s=a05ea28e0ed274145e87c92d5a6df8a4084b14c7",
+    "publicationDate": 1705686815
+  },
+  {
+    "_id": "c7df9b7e-d07c-500e-9c35-b63b8374c904",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/4176064262-starwars-bundle-of-7-only-set",
+    "price": 284.2,
+    "title": "StarWars Bundle of 7 only Set",
+    "imgUrl": "https://images1.vinted.net/t/03_025e9_HddK48dgow7QjBQTkD4r2cjE/f800/1709476369.jpeg?s=e8104ec2c2647c26a6b19d3b917975485dbb1d04",
+    "publicationDate": 1709476369
+  },
+  {
+    "_id": "af72db1a-fd2e-560b-a033-e53a1a68426b",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/3924372280-pack-2-legos-star-wars",
+    "price": 146.65,
+    "title": "Pack 2 legos Star wars ",
+    "imgUrl": "https://images1.vinted.net/t/03_02207_W8YD7esJpGxkLxLUNHFS37Nh/f800/1704024826.jpeg?s=c94b716f9052e245865ca71aadcbdf089c2558d2",
+    "publicationDate": 1704024826
+  },
+  {
+    "_id": "b449f979-1dfb-5b19-96bb-b477609b97be",
+    "legoId": "75364",
+    "link": "https://www.vinted.fr/items/3924984175-bien-lire-lannonce-lot-de-deux-lego-star-wars-75364",
+    "price": 137.2,
+    "title": "Bien lire l'annonce,  lot de deux lego star wars 75364",
+    "imgUrl": "https://images1.vinted.net/t/02_000f9_JRtGf9yA8xbSNVfAB9f5Cq9W/f800/1704033551.jpeg?s=9068cd12c5dae84c1d4a985ec0461fc0e2b37452",
+    "publicationDate": 1704033551
+  },
+  {
+    "_id": "61cd6c29-0ea1-5f6f-b17b-2653c7637ac8",
     "legoId": "75364",
     "link": "https://www.vinted.fr/items/3830077081-lego-star-wars-75364",
     "price": 90.95,
     "title": "Lego Star Wars 75364",
     "imgUrl": "https://images1.vinted.net/t/02_0239a_7uzzQn4KutsS3YHcZ7BFngEP/f800/1701369316.jpeg?s=3435bde11b78a353bf4f0ec2e0ee0c833f35e9fd",
-    "publicationDate": 1701369316,
-    "id": 3830077081
+    "publicationDate": 1701369316
   }
 ]

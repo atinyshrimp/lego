@@ -1,29 +1,38 @@
 [
   {
+    "_id": "cd922b93-468f-5b93-b9f3-6dbf9cff4214",
+    "legoId": "41737",
+    "link": "https://www.vinted.fr/items/5435302215-lego-friends-41737",
+    "price": 42.7,
+    "title": "Lego friends 41737",
+    "imgUrl": "https://images1.vinted.net/t/01_023db_g8UHXgJKhaeoDJ1Gqri6maBH/f800/1732459708.jpeg?s=62864bdb587d43ff3aa760d761beded6565279a2",
+    "publicationDate": 1732459708
+  },
+  {
+    "_id": "26e6603e-f66e-515f-b563-fd7ef3498225",
+    "legoId": "41737",
+    "link": "https://www.vinted.fr/items/5427038776-lego-friends-le-parc-dattractions-a-la-plage-neuf-et-scelle-41737",
+    "price": 79.45,
+    "title": "Lego Friends : Le parc d’attractions à la plage neuf et scellé 41737",
+    "imgUrl": "https://images1.vinted.net/t/04_0243b_FVM8Ra9k1dZVdM5CrwZvyoNp/f800/r1/1732354983.jpeg?s=a438c2084446bd8cabf6964817275691588d214c",
+    "publicationDate": 1732354983
+  },
+  {
+    "_id": "dbe17bf9-7f99-5c96-a7cb-a13e543956a7",
     "legoId": "41737",
     "link": "https://www.vinted.fr/items/5372227359-lego-41737-nieuw",
     "price": 105.7,
     "title": "Lego 41737 nieuw",
     "imgUrl": "https://images1.vinted.net/t/04_01556_AofU7KzqeWM5YC5PdR3ZTjrp/f800/1731426107.jpeg?s=7453b9a6aba0d6a5887ac487c6f894621145e620",
-    "publicationDate": 1731426107,
-    "id": 5372227359
+    "publicationDate": 1731426107
   },
   {
-    "legoId": "41737",
-    "link": "https://www.vinted.fr/items/5186489543-lego-friends-41737",
-    "price": 75.25,
-    "title": "Lego Friends 41737",
-    "imgUrl": "https://images1.vinted.net/t/01_00948_PfjmpSdVmg89apHBnushrfms/f800/1728471189.jpeg?s=8ef985f7660945b0509d800b4b600d8f5118f19b",
-    "publicationDate": 1728471189,
-    "id": 5186489543
-  },
-  {
+    "_id": "387f0cc8-80f0-5ab4-b66f-76efa114d146",
     "legoId": "41737",
     "link": "https://www.vinted.fr/items/5297557824-lego-friends-le-parc-dattraction-a-la-plage",
     "price": 79.45,
     "title": "Lego friends Le parc d'attraction à la plage",
     "imgUrl": "https://images1.vinted.net/t/02_0029b_wJzUFr1A5ZSNp1L4Hn4g4kTv/f800/1730207466.jpeg?s=8537501234dc6c3fbe463594902a3ab073efedc1",
-    "publicationDate": 1730207466,
-    "id": 5297557824
+    "publicationDate": 1730207466
   }
 ]

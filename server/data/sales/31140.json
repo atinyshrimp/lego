@@ -1,686 +1,740 @@
 [
   {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5260464296-lego-unicorn",
-    "price": 7,
-    "title": "Lego unicorn",
-    "imgUrl": "https://images1.vinted.net/t/01_00482_gosSFsCHexJzgsWP1SKxz7RY/f800/1729600240.jpeg?s=e91c918e119ea4161da7e26bd14430cb9d12d919",
-    "publicationDate": 1729600240,
-    "id": 5260464296
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5273125904-lego-31140-magical-unicorn",
-    "price": 5.9,
-    "title": "Lego 31140 - Magical unicorn",
-    "imgUrl": "https://images1.vinted.net/t/04_013ae_Cie3Zv4D4dkDoT1miJvHMDzU/f800/1729800718.jpeg?s=603793a4ab7688fa13df4939dbb70dbbc02a545e",
-    "publicationDate": 1729800718,
-    "id": 5273125904
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5244418583-lego-creator-3en1-ref-31140-parfait-etat",
-    "price": 8.05,
-    "title": "Lego Creator 3en1 réf 31140 parfait état",
-    "imgUrl": "https://images1.vinted.net/t/03_01fe3_TiuxTFz9jnc71JSPaMmbfzPQ/f800/1729359647.jpeg?s=c52e10a8e177eb8ab6bd7a233ea21f30aa5d1af1",
-    "publicationDate": 1729359647,
-    "id": 5244418583
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4162997000-lego-eenhoorn-set-31140",
-    "price": 8.58,
-    "title": "lego Eenhoorn set 31140",
-    "imgUrl": "https://images1.vinted.net/t/01_01241_FmpNvsNadtcxiuem4BTKH3EG/f800/1709212283.jpeg?s=71036bb2dad2ef9ba3c1ca010774810f8c2b0ddb",
-    "publicationDate": 1709212283,
-    "id": 4162997000
-  },
-  {
+    "_id": "e9595771-6801-57b8-aded-09d2574bc430",
     "legoId": "31140",
     "link": "https://www.vinted.fr/items/5351590222-31140-lego-creator-la-licorne-magique-3-en-1",
     "price": 9.09,
     "title": "31140 LEGO Creator La licorne magique 3 en 1",
     "imgUrl": "https://images1.vinted.net/t/02_01c80_1ijFVWHF1rC2FxYLa7pUhPiR/f800/1731150797.jpeg?s=35fa8448471b13e58730649e66ecd982573f8bb1",
-    "publicationDate": 1731150797,
-    "id": 5351590222
+    "publicationDate": 1731150797
   },
   {
+    "_id": "ec61ef57-7778-52d0-b667-657b7163d627",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5331691093-lego-3-en-1-creator",
-    "price": 11.19,
-    "title": "Lego 3 en 1 Creator",
-    "imgUrl": "https://images1.vinted.net/t/04_00b9f_D7NnKhnV5ugmhEzfnJV46t7k/f800/1730755189.jpeg?s=8dbc5f599854810038840c350a9788786a005516",
-    "publicationDate": 1730755189,
-    "id": 5331691093
+    "link": "https://www.vinted.fr/items/5260464296-lego-unicorn",
+    "price": 7,
+    "title": "Lego unicorn",
+    "imgUrl": "https://images1.vinted.net/t/01_00482_gosSFsCHexJzgsWP1SKxz7RY/f800/1729600240.jpeg?s=e91c918e119ea4161da7e26bd14430cb9d12d919",
+    "publicationDate": 1729600240
   },
   {
+    "_id": "cd3c64fe-0ab4-59a4-aae5-950fe58f5dde",
     "legoId": "31140",
     "link": "https://www.vinted.fr/items/5378268703-lego-31140",
     "price": 4.38,
     "title": "Lego 31140",
     "imgUrl": "https://images1.vinted.net/t/03_00e3c_Fp5Jru7Jz1VY5EV14qJ6tXKU/f800/1731522380.jpeg?s=de587794f8f7bf13bdf1895f80925d0e190e7508",
-    "publicationDate": 1731522380,
-    "id": 5378268703
+    "publicationDate": 1731522380
   },
   {
+    "_id": "788b0736-3b17-5183-bf2c-01a9e83ea0a4",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4280815256-lego-creator-set-31140",
-    "price": 7.53,
-    "title": "Lego creator Set 31140",
-    "imgUrl": "https://images1.vinted.net/t/01_00efe_WNjwL8GtNHREiPq5w9xRHs7a/f800/1711552560.jpeg?s=f04f30e2780ea25e599dc7e2150ca5b216a6ec9b",
-    "publicationDate": 1711552560,
-    "id": 4280815256
+    "link": "https://www.vinted.fr/items/5426561543-unicorno-lego-creator",
+    "price": 4.9,
+    "title": "Unicorno Lego Creator",
+    "imgUrl": "https://images1.vinted.net/t/02_023ec_iP3D7BTBkdKiXr7JFdFQC33a/f800/1732346341.jpeg?s=eb109844bc05225605712be2cfc3010a7b19cfe4",
+    "publicationDate": 1732346341
   },
   {
+    "_id": "3a020ff2-c6d9-599a-abf8-166726e0fc75",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5325722939-lego-creator-31140-unicorn",
-    "price": 8.58,
-    "title": "Lego creator 31140 unicorn",
-    "imgUrl": "https://images1.vinted.net/t/01_0014f_euipEM5i8xA93qTMhV3Fmtkt/f800/1730659515.jpeg?s=b08842ea0b9053ed7a5ac1407d35a92400e257d1",
-    "publicationDate": 1730659515,
-    "id": 5325722939
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5357330587-lego-creator",
+    "link": "https://www.vinted.fr/items/5244418583-lego-creator-3en1-ref-31140-parfait-etat",
     "price": 8.05,
-    "title": "Lego creator",
-    "imgUrl": "https://images1.vinted.net/t/01_00d2a_ZHjm9jKjJp1jq1yVYEm718sg/f800/1731237837.jpeg?s=f4e0e1c5490ebed3f4d0c00cccbe40e5b966b63c",
-    "publicationDate": 1731237837,
-    "id": 5357330587
+    "title": "Lego Creator 3en1 réf 31140 parfait état",
+    "imgUrl": "https://images1.vinted.net/t/03_01fe3_TiuxTFz9jnc71JSPaMmbfzPQ/f800/1729359647.jpeg?s=c52e10a8e177eb8ab6bd7a233ea21f30aa5d1af1",
+    "publicationDate": 1729359647
   },
   {
+    "_id": "67dda5f2-3f35-5600-8e02-2501c24e9051",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5399892082-lego-creator-31140",
-    "price": 11.2,
-    "title": "Lego creator 31140",
-    "imgUrl": "https://images1.vinted.net/t/04_020d9_KZiXrftj4qNVogP2SJ7qE2pv/f800/1731864415.jpeg?s=44ce258245594b11d910507051c1873f59f3c2fe",
-    "publicationDate": 1731864415,
-    "id": 5399892082
+    "link": "https://www.vinted.fr/items/5273125904-lego-31140-magical-unicorn",
+    "price": 5.9,
+    "title": "Lego 31140 - Magical unicorn",
+    "imgUrl": "https://images1.vinted.net/t/04_013ae_Cie3Zv4D4dkDoT1miJvHMDzU/f800/1729800718.jpeg?s=603793a4ab7688fa13df4939dbb70dbbc02a545e",
+    "publicationDate": 1729800718
   },
   {
+    "_id": "e48a5db8-a362-525e-b2e6-236b075cb1cc",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5393850697-lego-creator-3en1-31140",
-    "price": 8.05,
-    "title": "Lego creator 3en1  31140",
-    "imgUrl": "https://images1.vinted.net/t/04_0075d_uNVctWznqBYxZABmVPQ8oUE3/f800/1731789268.jpeg?s=49d16033acfaf889cab85655362d1af071e443a4",
-    "publicationDate": 1731789268,
-    "id": 5393850697
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4962356337-lego-creator-magische-eenhoorn-31140",
-    "price": 8.05,
-    "title": "Lego creator magische eenhoorn 31140",
-    "imgUrl": "https://images1.vinted.net/t/03_0136d_2enuyZremc5XzYqH4MnXYbzU/f800/1725032868.jpeg?s=e5d8572210608fd66de07d5816fb26c533f16335",
-    "publicationDate": 1725032868,
-    "id": 4962356337
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5395614245-lego-31140",
-    "price": 11.2,
-    "title": "Lego 31140",
-    "imgUrl": "https://images1.vinted.net/t/04_000af_zcmqBvbQwB5kUPj5j3cKGiFK/f800/1731839899.jpeg?s=e4f79af40ca692aa2a13d6b999e400d63a5706ed",
-    "publicationDate": 1731839899,
-    "id": 5395614245
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5135461316-lego-creator-licorne-3-en-1",
-    "price": 9.1,
-    "title": "Lego creator licorne 3 en 1",
-    "imgUrl": "https://images1.vinted.net/t/03_001d7_jhJkhaEHQE8ALhe7P61uKRGi/f800/1727703545.jpeg?s=618ffb214d552692037b58b61d8261b5a5f1659a",
-    "publicationDate": 1727703545,
-    "id": 5135461316
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5288810033-lego-31140-creator-novo-e-selado-caixa-impecavel",
-    "price": 10.15,
-    "title": "Lego 31140 creator novo e selado caixa impecável",
-    "imgUrl": "https://images1.vinted.net/t/04_00908_chSSmLboW4erxH3BQSy9VnEL/f800/1730052804.jpeg?s=ff03736e79d56e26b3dab8967be83b8bd448ffa9",
-    "publicationDate": 1730052804,
-    "id": 5288810033
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4950266228-lego-31140-licorne",
-    "price": 11.2,
-    "title": "Lego 31140 licorne",
-    "imgUrl": "https://images1.vinted.net/t/02_01d73_gKFBPNmDC6dmn3PbAyhWXveL/f800/1724827694.jpeg?s=0f1e8504be4702bbc42bac2b97301b086591e650",
-    "publicationDate": 1724827694,
-    "id": 4950266228
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5361876452-lego-creator-31140",
+    "link": "https://www.vinted.fr/items/5438999083-lego-creator-licorne",
     "price": 5.95,
+    "title": "Lego creator licorne",
+    "imgUrl": "https://images1.vinted.net/t/04_00958_ZgJfuuX6xBQDRXnd9uX4WWYS/f800/1732520571.jpeg?s=034e57d57da9c20376d99f3dacd4c249503ca0ad",
+    "publicationDate": 1732520571
+  },
+  {
+    "_id": "0159d3bb-6462-5c2b-abfb-d5ef8986c93a",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5331691093-lego-3-en-1-creator",
+    "price": 9.1,
+    "title": "Lego 3 en 1 Creator",
+    "imgUrl": "https://images1.vinted.net/t/04_00b9f_D7NnKhnV5ugmhEzfnJV46t7k/f800/1730755189.jpeg?s=8dbc5f599854810038840c350a9788786a005516",
+    "publicationDate": 1730755189
+  },
+  {
+    "_id": "1e194a66-d3e5-5ec1-83c3-f0ca25d01ce2",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5406866061-lego-creator-31140",
+    "price": 10.68,
+    "title": "Lego Creator 31140",
+    "imgUrl": "https://images1.vinted.net/t/04_01b94_v6DZFKBFWt2ArZdU8VUqLuDn/f800/1731964586.jpeg?s=6ef6c6c98ae588a362833b952f6f3532c6e1bfb3",
+    "publicationDate": 1731964586
+  },
+  {
+    "_id": "e143911e-e184-5ed7-b3e1-7fcc409dcfed",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5415909573-lego-creator-31140",
+    "price": 8.05,
     "title": "Lego creator 31140",
-    "imgUrl": "https://images1.vinted.net/t/04_01760_iHHTMifh7WaxySwKFqdgdFCJ/f800/1731267556.jpeg?s=8599fa384854091b37246f346cc8470f106d8d9e",
-    "publicationDate": 1731267556,
-    "id": 5361876452
+    "imgUrl": "https://images1.vinted.net/t/03_01e68_bE9oCHeunroEXQEgEKDctQY2/f800/1732125309.jpeg?s=6f3155481a6f813525fe2559a5354475cd4d376d",
+    "publicationDate": 1732125309
   },
   {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4609395453-lego-31140",
-    "price": 9.1,
-    "title": "Lego 31140",
-    "imgUrl": "https://images1.vinted.net/t/02_01c97_PqUhYZo9pFBfPFbpc3XvmfTH/f800/1717750842.jpeg?s=bd6861335bd4e71416f3c5c8ab3a10fe199f8e24",
-    "publicationDate": 1717750842,
-    "id": 4609395453
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5344751415-lego-creator-3-en-1-31140",
-    "price": 10.15,
-    "title": "Lego creator 3 en 1 31140",
-    "imgUrl": "https://images1.vinted.net/t/04_024b5_z9E4wE2jQeVTyWnNXXAELUny/f800/1731002466.jpeg?s=495f54dd36f90411c6fa9ee5aeb454b1db69a141",
-    "publicationDate": 1731002466,
-    "id": 5344751415
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5394439454-lego-friends-lot-de-7-jeux-plusieurs-bonus",
-    "price": 77.35,
-    "title": "Lego friends, lot de 7 jeux+ plusieurs bonus",
-    "imgUrl": "https://images1.vinted.net/t/04_00232_6J8tA28ZE2hgd6zMaf1YCvDW/f800/1731805803.jpeg?s=ab72783c367c4379f133604c33d1fcbe23aa2f5d",
-    "publicationDate": 1731805803,
-    "id": 5394439454
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5120727741-lego-creator-3-in-1-einhorn",
-    "price": 7.53,
-    "title": "Lego creator 3 in 1 Einhorn",
-    "imgUrl": "https://images1.vinted.net/t/01_02691_aQtoKW2AbMNSJpg3Z87vbGaK/f800/1727522989.jpeg?s=f379d8e084826481f8ccc6dc627481b508dbf78b",
-    "publicationDate": 1727522989,
-    "id": 5120727741
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5343698715-lego-31140",
-    "price": 8.58,
-    "title": "Lego 31140",
-    "imgUrl": "https://images1.vinted.net/t/02_01c3a_9tBryXf1S5S5Fwpzk3hAqFv8/f800/1730990409.jpeg?s=396a38e25b5a6f70c24f19801eb22721d16194d9",
-    "publicationDate": 1730990409,
-    "id": 5343698715
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5005980894-lego-31140",
-    "price": 10.15,
-    "title": "Lego 31140",
-    "imgUrl": "https://images1.vinted.net/t/01_01ae4_E2NtKkQcmSMd2e4SznWoXBeu/f800/1725799276.jpeg?s=110cc7337bf5f7801ab587f250c7be1ccd86a5ca",
-    "publicationDate": 1725799276,
-    "id": 5005980894
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5197239328-lego-31140-complet",
-    "price": 7,
-    "title": "Lego 31140 complet",
-    "imgUrl": "https://images1.vinted.net/t/03_00adc_YLomVUuZYoAdXDwAVQ6aH8iG/f800/1728646987.jpeg?s=b5726414548af7fc8d33a31aa3580f0d3d338c18",
-    "publicationDate": 1728646987,
-    "id": 5197239328
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4989710584-lego-31140",
-    "price": 9.1,
-    "title": "Lego 31140",
-    "imgUrl": "https://images1.vinted.net/t/02_001f7_WCh2bcex6CCEBYpJzs9nHWeY/f800/1725527042.jpeg?s=651765f5de16d0874e4409891e90cd851543e8e5",
-    "publicationDate": 1725527042,
-    "id": 4989710584
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5320481896-lego-unicorno-magico-31140-creator-3-in-1-nuovo",
-    "price": 12.25,
-    "title": "LEGO Unicorno magico 31140 | Creator 3-in-1 | NUOVO |",
-    "imgUrl": "https://images1.vinted.net/t/02_02151_mmPCvja3xMgDRespj4eMsTfC/f800/1730625409.jpeg?s=cb5ae89fd26e8c5e3e008c23c657c66c04710610",
-    "publicationDate": 1730625409,
-    "id": 5320481896
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4986442742-lego-creator-3-in-1-unicorn",
-    "price": 9.1,
-    "title": "Lego creator 3 in 1 unicorn",
-    "imgUrl": "https://images1.vinted.net/t/03_02571_54Ev1F4idgniSadNPGSu7w8g/f800/1725456834.jpeg?s=46ac29d6cdc26f21c5d90d8f96b10de37c8abef2",
-    "publicationDate": 1725456834,
-    "id": 4986442742
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4914132840-lego-unicorn-31140",
-    "price": 13.3,
-    "title": "Lego Unicorn 31140",
-    "imgUrl": "https://images1.vinted.net/t/01_01918_JGFETYQSbQ191fNYHkLhaBGf/f800/1724173009.jpeg?s=9f74f2a26fec39de887d41e7d11d4fadc4b8b1d5",
-    "publicationDate": 1724173009,
-    "id": 4914132840
-  },
-  {
+    "_id": "c9d99f18-858f-51fc-8b57-0fd414e1e052",
     "legoId": "31140",
     "link": "https://www.vinted.fr/items/5376246059-lego-creator",
     "price": 8.05,
     "title": "Lego creator",
     "imgUrl": "https://images1.vinted.net/t/04_01d0d_pvmtzbxkYbFNTR1znjqrVSvm/f800/1731502361.jpeg?s=c50081a91814259daf96c5b06b4c39e01c5f55a8",
-    "publicationDate": 1731502361,
-    "id": 5376246059
+    "publicationDate": 1731502361
   },
   {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5392339949-lego-31140-nieuw-creator-3-in-1",
-    "price": 8.58,
-    "title": "Lego 31140 nieuw creator 3 in 1",
-    "imgUrl": "https://images1.vinted.net/t/03_01d3d_AY63B8Wyj76B4REjrCRbFiCe/f800/1731773019.jpeg?s=f6977bba5f0ef546d9544a6c30ba3e82b6f6531a",
-    "publicationDate": 1731773019,
-    "id": 5392339949
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5198824549-lego-creator-set-31140",
-    "price": 5.95,
-    "title": "Lego Creator - Set 31140",
-    "imgUrl": "https://images1.vinted.net/t/03_00dd1_kf4DHfPenwvM4Dm92ztumRrt/f800/1728662584.jpeg?s=0b6e12767a56748fe42acb06f61a1e7b5b7f4ec1",
-    "publicationDate": 1728662584,
-    "id": 5198824549
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4964068259-lego-creator-31140",
-    "price": 11.2,
-    "title": "Lego Creator 31140",
-    "imgUrl": "https://images1.vinted.net/t/03_024b7_US6AEKBNjMwuBJKkW3NWerPV/f800/1725088651.jpeg?s=4a2375a20817be161c8f41a8d0580b1f9b3ca9d0",
-    "publicationDate": 1725088651,
-    "id": 4964068259
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5339645463-lego-31140-3-in-1-pakket",
-    "price": 11.2,
-    "title": "Lego 31140 3 in 1 pakket",
-    "imgUrl": "https://images1.vinted.net/t/04_026a1_RwBNPorQVQZ3AAMtpRmKioSW/f800/1730911520.jpeg?s=04fee446a5fc98c003e998efaba375f47597c539",
-    "publicationDate": 1730911520,
-    "id": 5339645463
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5336844634-lego-creator-31140-magisches-einhorn",
-    "price": 9.1,
-    "title": "Lego Creator 31140 Magisches Einhorn",
-    "imgUrl": "https://images1.vinted.net/t/04_00499_eRB6JTpfygpad7E8sQS7oPbE/f800/1730875034.jpeg?s=16089c2908d06179fb4ea2417ecb439a56f534f1",
-    "publicationDate": 1730875034,
-    "id": 5336844634
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4121313109-lego-creator-31140-nuovi",
-    "price": 11.2,
-    "title": "Lego creator 31140 Nuovi",
-    "imgUrl": "https://images1.vinted.net/t/01_01686_vy5p9GbUU9noKr1dVsPCnNH5/f800/1708355375.jpeg?s=579f3e5ee19e514c18c0bc48c6869fb20331f792",
-    "publicationDate": 1708355375,
-    "id": 4121313109
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5148523819-lego-eenhoorn-31140",
-    "price": 8.05,
-    "title": "Lego eenhoorn 31140",
-    "imgUrl": "https://images1.vinted.net/t/01_02404_pc8XZorEhLLMkrqpMLR6Ma1a/f800/1727895417.jpeg?s=7ab3d9486e670ad924bd19f0feb4921ef7b49818",
-    "publicationDate": 1727895417,
-    "id": 5148523819
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4801965388-lego-3in1-31140",
-    "price": 9.1,
-    "title": "Lego 3in1 31140",
-    "imgUrl": "https://images1.vinted.net/t/02_00cef_MSh5JCFCaC5g65pq3Vrug7K6/f800/1721798740.jpeg?s=b1977812a2c884b7d7dd70b5b70bc04cae5a3427",
-    "publicationDate": 1721798740,
-    "id": 4801965388
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5155105880-lego-creator-31140-7-neuf",
-    "price": 10.15,
-    "title": "Lego creator 31140 7+ neuf",
-    "imgUrl": "https://images1.vinted.net/t/03_00aaf_VxfnoPPmwMF548F4vBezTK27/f800/r3/1728028387.jpeg?s=7888798498272fd2e6fbcbf22dcab3baa3526c8a",
-    "publicationDate": 1728028387,
-    "id": 5155105880
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4999498259-lego-notice-31140-hippocampe",
-    "price": 1.75,
-    "title": "Lego notice 31140 hippocampe",
-    "imgUrl": "https://images1.vinted.net/t/01_001da_WJk1QCs4dxaVXhKuFGuYHZuo/f800/1725706836.jpeg?s=5e3f23adb3f5cdd06bb937b450292269b05a7462",
-    "publicationDate": 1725706836,
-    "id": 4999498259
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5367689641-lego-creator-3-in-1-31140-unicorn",
-    "price": 9.1,
-    "title": "Lego Creator 3 in 1 31140 Unicorn",
-    "imgUrl": "https://images1.vinted.net/t/04_0211c_H9wgetJGZnUvEr22TmPG9EYK/f800/1731346787.jpeg?s=5fcc318dde089bec655ee9c3e1a28cf8fc0d87ab",
-    "publicationDate": 1731346787,
-    "id": 5367689641
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4766018503-lego-einhorn-31140",
-    "price": 9.1,
-    "title": "Lego Einhorn 31140",
-    "imgUrl": "https://images1.vinted.net/t/01_01342_9Ut5YFNGAuxAEiS5xgEzzvtM/f800/1720988578.jpeg?s=adce3ec4eefb0010d3f07e451c5d6300ac71cd2e",
-    "publicationDate": 1720988578,
-    "id": 4766018503
-  },
-  {
+    "_id": "4251f349-830f-5b84-8203-9a9d3d71b5f5",
     "legoId": "31140",
     "link": "https://www.vinted.fr/items/4370799476-lego-creator-unicorno-31140-nuovo-sigillato",
     "price": 11.2,
     "title": "Lego Creator Unicorno 31140 nuovo, sigillato",
     "imgUrl": "https://images1.vinted.net/t/03_006bc_oeMjS93r332uWvPzpBcvG8UH/f800/1713246040.jpeg?s=24e086c04795e58ed4ccca7df096d64a065937c3",
-    "publicationDate": 1713246040,
-    "id": 4370799476
+    "publicationDate": 1713246040
   },
   {
+    "_id": "100418b5-209e-56f8-82f1-bdf93a81919c",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4870374094-lego-boekje-31140",
-    "price": 1.75,
-    "title": "Lego boekje 31140",
-    "imgUrl": "https://images1.vinted.net/t/01_02426_tepmSJ7eaZKgnJa2JP3DQRPn/f800/1723292067.jpeg?s=c4c0a6e81876c7961d68d7642fbe855e615f24ba",
-    "publicationDate": 1723292067,
-    "id": 4870374094
+    "link": "https://www.vinted.fr/items/5398912157-lego-licorne-magique",
+    "price": 11.1,
+    "title": "Lego Licorne Magique  🦄",
+    "imgUrl": "https://images1.vinted.net/t/04_0239b_jkMc5np8eUtUPszLa9TTwDYz/f800/1731858558.jpeg?s=f1514cadbe2716a5972c75a002f5b39c0299e23b",
+    "publicationDate": 1731858558
   },
   {
+    "_id": "97cd4b90-9620-5efe-be98-e025fd4912ce",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5339863623-lego-31140",
-    "price": 21.7,
+    "link": "https://www.vinted.fr/items/5135461316-lego-creator-licorne-3-en-1",
+    "price": 9.1,
+    "title": "Lego creator licorne 3 en 1",
+    "imgUrl": "https://images1.vinted.net/t/03_001d7_jhJkhaEHQE8ALhe7P61uKRGi/f800/1727703545.jpeg?s=618ffb214d552692037b58b61d8261b5a5f1659a",
+    "publicationDate": 1727703545
+  },
+  {
+    "_id": "03b28b92-04ee-5ade-90be-22938f86af25",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5005980894-lego-31140",
+    "price": 10.15,
     "title": "Lego 31140",
-    "imgUrl": "https://images1.vinted.net/t/04_01364_MasTZfYpnxZjEy9c3ftmzyig/f800/1730913906.jpeg?s=aa714b6280100ec1041250fabe393ad7c8b3ce65",
-    "publicationDate": 1730913906,
-    "id": 5339863623
+    "imgUrl": "https://images1.vinted.net/t/01_01ae4_E2NtKkQcmSMd2e4SznWoXBeu/f800/1725799276.jpeg?s=110cc7337bf5f7801ab587f250c7be1ccd86a5ca",
+    "publicationDate": 1725799276
   },
   {
+    "_id": "4a05dbf5-7927-5d56-ac23-996cc1c69f4a",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5399892082-lego-creator-31140",
+    "price": 11.2,
+    "title": "Lego creator 31140",
+    "imgUrl": "https://images1.vinted.net/t/04_020d9_KZiXrftj4qNVogP2SJ7qE2pv/f800/1731864415.jpeg?s=44ce258245594b11d910507051c1873f59f3c2fe",
+    "publicationDate": 1731864415
+  },
+  {
+    "_id": "8ff45dfa-81d2-5755-aab6-499d13bbc19f",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5197239328-lego-31140-complet",
+    "price": 7,
+    "title": "Lego 31140 complet",
+    "imgUrl": "https://images1.vinted.net/t/03_00adc_YLomVUuZYoAdXDwAVQ6aH8iG/f800/1728646987.jpeg?s=b5726414548af7fc8d33a31aa3580f0d3d338c18",
+    "publicationDate": 1728646987
+  },
+  {
+    "_id": "ba6fa8b4-4b33-5d9b-bfbb-ccaec4eba5d8",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5429261913-lego-creator-31140-magisches-einhorn-3-in-1",
+    "price": 9.1,
+    "title": "Lego creator 31140 magisches einhorn 3 in 1",
+    "imgUrl": "https://images1.vinted.net/t/01_021e5_nAsnuD5Gc1CHQPdacwBs16iD/f800/1732373791.jpeg?s=91cb2f2474785c54b46f1e431f29e145382207a8",
+    "publicationDate": 1732373791
+  },
+  {
+    "_id": "16449e8c-467a-58f5-9976-1f8ecb811d31",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5357330587-lego-creator",
+    "price": 8.05,
+    "title": "Lego creator",
+    "imgUrl": "https://images1.vinted.net/t/01_00d2a_ZHjm9jKjJp1jq1yVYEm718sg/f800/1731237837.jpeg?s=f4e0e1c5490ebed3f4d0c00cccbe40e5b966b63c",
+    "publicationDate": 1731237837
+  },
+  {
+    "_id": "af99d562-fbc7-5403-8ab6-88325c207680",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5148523819-lego-eenhoorn-31140",
+    "price": 8.05,
+    "title": "Lego eenhoorn 31140",
+    "imgUrl": "https://images1.vinted.net/t/01_02404_pc8XZorEhLLMkrqpMLR6Ma1a/f800/1727895417.jpeg?s=7ab3d9486e670ad924bd19f0feb4921ef7b49818",
+    "publicationDate": 1727895417
+  },
+  {
+    "_id": "2005f2e6-6b54-538c-a0e7-a31361339503",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4989710584-lego-31140",
+    "price": 9.1,
+    "title": "Lego 31140",
+    "imgUrl": "https://images1.vinted.net/t/02_001f7_WCh2bcex6CCEBYpJzs9nHWeY/f800/1725527042.jpeg?s=651765f5de16d0874e4409891e90cd851543e8e5",
+    "publicationDate": 1725527042
+  },
+  {
+    "_id": "239e9301-6464-58a5-9c1b-66dde1cb41c4",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4121313109-lego-creator-31140-nuovi",
+    "price": 11.2,
+    "title": "Lego creator 31140 Nuovi",
+    "imgUrl": "https://images1.vinted.net/t/01_01686_vy5p9GbUU9noKr1dVsPCnNH5/f800/1708355375.jpeg?s=579f3e5ee19e514c18c0bc48c6869fb20331f792",
+    "publicationDate": 1708355375
+  },
+  {
+    "_id": "ff57d03b-0985-5ad7-8886-04fcf18861b6",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5361876452-lego-creator-31140",
+    "price": 5.95,
+    "title": "Lego creator 31140",
+    "imgUrl": "https://images1.vinted.net/t/04_01760_iHHTMifh7WaxySwKFqdgdFCJ/f800/1731267556.jpeg?s=8599fa384854091b37246f346cc8470f106d8d9e",
+    "publicationDate": 1731267556
+  },
+  {
+    "_id": "2dd225c2-043a-5478-8266-8bf223b199bb",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5288810033-lego-31140-creator-novo-e-selado-caixa-impecavel",
+    "price": 10.15,
+    "title": "Lego 31140 creator novo e selado caixa impecável",
+    "imgUrl": "https://images1.vinted.net/t/04_00908_chSSmLboW4erxH3BQSy9VnEL/f800/1730052804.jpeg?s=ff03736e79d56e26b3dab8967be83b8bd448ffa9",
+    "publicationDate": 1730052804
+  },
+  {
+    "_id": "d89c0de4-d84b-524a-a5f6-e6757817ac17",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5431748580-lego-creator-31140-neu",
+    "price": 9.1,
+    "title": "LEGO Creator 31140 NEU",
+    "imgUrl": "https://images1.vinted.net/t/04_011c8_QFqsWZ2nXWJPtuofF7bLjpJe/f800/1732405540.jpeg?s=ea52ab2d32b37a5349e24ef1a14b7ee29a5fe3c0",
+    "publicationDate": 1732405540
+  },
+  {
+    "_id": "19095978-eada-5faf-84fa-bcc7cd37920e",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4580067524-trois-personnages-realisable-en-meme-temps",
+    "price": 26.95,
+    "title": "Trois personnages réalisable en même temps",
+    "imgUrl": "https://images1.vinted.net/t/02_00d06_TvnUGPoknB1QNvdvrTXeGdLh/f800/1717167023.jpeg?s=1a57ea010514de580b20d2fa975b5b70012fff81",
+    "publicationDate": 1717167023
+  },
+  {
+    "_id": "ac553c5e-482d-58c4-bbd9-423b59a3356a",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4962356337-lego-creator-magische-eenhoorn-31140",
+    "price": 8.05,
+    "title": "Lego creator magische eenhoorn 31140",
+    "imgUrl": "https://images1.vinted.net/t/03_0136d_2enuyZremc5XzYqH4MnXYbzU/f800/1725032868.jpeg?s=e5d8572210608fd66de07d5816fb26c533f16335",
+    "publicationDate": 1725032868
+  },
+  {
+    "_id": "d01e607d-7e1d-5bce-a5e4-92c177ff59d6",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5411188283-lego-lot-de-5-legos-neuf",
+    "price": 29.58,
+    "title": "Lego , Lot de 5 legos neuf",
+    "imgUrl": "https://images1.vinted.net/t/04_00751_5nus6WKkSxaktZ4atAbqQsq6/f800/1732043087.jpeg?s=68de7a134cb94dc0e774b35806cda7c25d39696b",
+    "publicationDate": 1732043087
+  },
+  {
+    "_id": "8d3b6efc-cdda-5ad0-a6cd-f399af90f2ec",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4162997000-lego-eenhoorn-set-31140",
+    "price": 8.58,
+    "title": "lego Eenhoorn set 31140",
+    "imgUrl": "https://images1.vinted.net/t/01_01241_FmpNvsNadtcxiuem4BTKH3EG/f800/1709212283.jpeg?s=71036bb2dad2ef9ba3c1ca010774810f8c2b0ddb",
+    "publicationDate": 1709212283
+  },
+  {
+    "_id": "670ac071-b962-5703-997f-4e2026d10808",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4950266228-lego-31140-licorne",
+    "price": 11.2,
+    "title": "Lego 31140 licorne",
+    "imgUrl": "https://images1.vinted.net/t/02_01d73_gKFBPNmDC6dmn3PbAyhWXveL/f800/1724827694.jpeg?s=0f1e8504be4702bbc42bac2b97301b086591e650",
+    "publicationDate": 1724827694
+  },
+  {
+    "_id": "556198d9-760f-59aa-9034-4a3983b356f1",
     "legoId": "31140",
     "link": "https://www.vinted.fr/items/4999508092-lego-notice-31140-licorne-magique",
     "price": 1.75,
     "title": "Lego notice 31140 licorne magique",
     "imgUrl": "https://images1.vinted.net/t/03_0001e_at4ziHbvXf3VABxtn9QAPkgA/f800/1725706928.jpeg?s=5223a14c48e39f6119da25e95e966a8d12bfea8c",
-    "publicationDate": 1725706928,
-    "id": 4999508092
+    "publicationDate": 1725706928
   },
   {
+    "_id": "fb0d328a-a58e-5527-9274-93400eafb430",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5289325701-lego-31140-einhorn",
-    "price": 9.1,
-    "title": "Lego 31140 Einhorn",
-    "imgUrl": "https://images1.vinted.net/t/03_016d9_w5y7gtU3SfeknKxrkKBCJEbu/f800/1730057741.jpeg?s=71427945970805ba542a52ed4b6a1a6595ee40c3",
-    "publicationDate": 1730057741,
-    "id": 5289325701
+    "link": "https://www.vinted.fr/items/4280815256-lego-creator-set-31140",
+    "price": 7.53,
+    "title": "Lego creator Set 31140",
+    "imgUrl": "https://images1.vinted.net/t/01_00efe_WNjwL8GtNHREiPq5w9xRHs7a/f800/1711552560.jpeg?s=f04f30e2780ea25e599dc7e2150ca5b216a6ec9b",
+    "publicationDate": 1711552560
   },
   {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4932684582-lotto-3-set-lego-creator-3-in-1",
-    "price": 32.2,
-    "title": "Lotto 3 set Lego Creator 3 in 1",
-    "imgUrl": "https://images1.vinted.net/t/02_01cff_c3Pyxsa7JXkLvS2wuDypBeuJ/f800/1724517155.jpeg?s=5d412dc9313a0d53d748dd24d63b616b800916a3",
-    "publicationDate": 1724517155,
-    "id": 4932684582
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5340290373-lego-31140-nieuw",
-    "price": 13.3,
-    "title": "Lego 31140 NIEUW",
-    "imgUrl": "https://images1.vinted.net/t/04_001f6_U8US2DiQWEXNkNvUf22mREsV/f800/1730918792.jpeg?s=b72c2ef55cfdeaaffb439919d133e9f464c2b847",
-    "publicationDate": 1730918792,
-    "id": 5340290373
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5262634501-lego-creator-3-in-1-31140-7-einhorn-pfau-seepferdchen",
-    "price": 14.35,
-    "title": "LEGO creator 3 in 1 31140 7+ Einhorn, Pfau, Seepferdchen",
-    "imgUrl": "https://images1.vinted.net/t/01_00354_8K4h7SDCZVJ36z3y3yjiQ1Xk/f800/1729621009.jpeg?s=7341da888f28ce23aa31b190371b4267e3e19e54",
-    "publicationDate": 1729621009,
-    "id": 5262634501
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4580067524-lego-trois-en-un",
-    "price": 26.95,
-    "title": "Lego trois en un",
-    "imgUrl": "https://images1.vinted.net/t/02_00d06_TvnUGPoknB1QNvdvrTXeGdLh/f800/1717167023.jpeg?s=1a57ea010514de580b20d2fa975b5b70012fff81",
-    "publicationDate": 1717167023,
-    "id": 4580067524
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5389632672-lego-creator-31134-et-31140",
-    "price": 21.7,
-    "title": "Lego creator 31134 et 31140",
-    "imgUrl": "https://images1.vinted.net/t/03_004ff_BUgbN93ngh2a5msVJR1ch4Du/f800/1731751933.jpeg?s=1877ea2f76e68ddeeb63ae67368ff9d50542ed9f",
-    "publicationDate": 1731751933,
-    "id": 5389632672
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5393315228-3-lego-creator-sets",
-    "price": 26.95,
-    "title": "3 Lego Creator sets",
-    "imgUrl": "https://images1.vinted.net/t/04_0011a_U17YMihSrFrNVxWUrqigQBwS/f800/1731782373.jpeg?s=50932523c902d940706563b03872275933ea97a9",
-    "publicationDate": 1731782373,
-    "id": 5393315228
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5392682498-lego-creator-set-31140-3-in-1-unicorn-pauw-zeepaard",
-    "price": 9.1,
-    "title": "Lego Creator set 31140 3 in 1 Unicorn Pauw Zeepaard",
-    "imgUrl": "https://images1.vinted.net/t/04_0127e_qaDmfgcaufKLsJm9nH9ScExi/f800/1731775974.jpeg?s=18d40cb44526c4998fbf173b3f2710d0dd498478",
-    "publicationDate": 1731775974,
-    "id": 5392682498
-  },
-  {
+    "_id": "e6e35f85-2257-52c5-847e-a365609a2e2d",
     "legoId": "31140",
     "link": "https://www.vinted.fr/items/3872649708-lego-creator-3-in-1-heel-goed",
     "price": 5.95,
     "title": "Lego creator. 3 in 1. Heel goed.",
     "imgUrl": "https://images1.vinted.net/t/03_00aee_YQnHdEhq5sp85Q9pAUavxtcd/f800/1702317756.jpeg?s=7444ef66ba6c2630fb19a2035238b5e93d6cdce1",
-    "publicationDate": 1702317756,
-    "id": 3872649708
+    "publicationDate": 1702317756
   },
   {
+    "_id": "76150ca6-ca39-50af-9e58-cbc3fcaf0867",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4494158626-lego-creator-31140",
-    "price": 11.2,
-    "title": "Lego creator 31140",
-    "imgUrl": "https://images1.vinted.net/t/03_013c6_yHvsyk9TLeiWGSRwG72T14dm/f800/1715531108.jpeg?s=22052ecccab927c5e965ab68839f97719412552c",
-    "publicationDate": 1715531108,
-    "id": 4494158626
+    "link": "https://www.vinted.fr/items/5418446073-nieuw-lego-creator-magische-eenhoorn",
+    "price": 9.63,
+    "title": "Nieuw lego creator magische eenhoorn",
+    "imgUrl": "https://images1.vinted.net/t/02_007bf_7S8uU4MtrdG6Rc3CWqZh76Nh/f800/1732187747.jpeg?s=c78753613875c6d6397f08692ba08cbb6dd0ea7e",
+    "publicationDate": 1732187747
   },
   {
+    "_id": "6cfc9ba8-199b-54a6-9c45-55696d1ba100",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5383528155-legor-creator-31140-la-licorne-magique",
-    "price": 11.2,
-    "title": "LEGO® Creator 31140 - La Licorne Magique",
-    "imgUrl": "https://images1.vinted.net/t/04_00028_7oTmCdda7EfrLyH7fjhCB8on/f800/1731613017.jpeg?s=d937e9e0010960e17e1a6f65e950082df59e197f",
-    "publicationDate": 1731613017,
-    "id": 5383528155
+    "link": "https://www.vinted.fr/items/5289325701-lego-31140-einhorn",
+    "price": 9.1,
+    "title": "Lego 31140 Einhorn",
+    "imgUrl": "https://images1.vinted.net/t/03_016d9_w5y7gtU3SfeknKxrkKBCJEbu/f800/1730057741.jpeg?s=71427945970805ba542a52ed4b6a1a6595ee40c3",
+    "publicationDate": 1730057741
   },
   {
+    "_id": "e8ab6d0e-7e46-5a37-88c5-99c0172904a7",
     "legoId": "31140",
     "link": "https://www.vinted.fr/items/3877826351-lego-31140",
     "price": 11.2,
     "title": "Lego 31140",
     "imgUrl": "https://images1.vinted.net/t/03_004d5_PVeBeKUZkV5JNZ6JQpa2rTDT/f800/1702462635.jpeg?s=a6b1ecf2931715d255525b06599d8c1827e1dfeb",
-    "publicationDate": 1702462635,
-    "id": 3877826351
+    "publicationDate": 1702462635
   },
   {
+    "_id": "8a567a52-0f1e-553c-979a-ca30f906ba06",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4467919407-lego-creator-31140-unicorno-magico-3-in-1",
+    "link": "https://www.vinted.fr/items/4801965388-lego-3in1-31140",
+    "price": 9.1,
+    "title": "Lego 3in1 31140",
+    "imgUrl": "https://images1.vinted.net/t/02_00cef_MSh5JCFCaC5g65pq3Vrug7K6/f800/1721798740.jpeg?s=b1977812a2c884b7d7dd70b5b70bc04cae5a3427",
+    "publicationDate": 1721798740
+  },
+  {
+    "_id": "7c451993-c81e-52d8-997d-ddbaeed7bb2c",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5367689641-lego-creator-3-in-1-31140-unicorn",
+    "price": 9.1,
+    "title": "Lego Creator 3 in 1 31140 Unicorn",
+    "imgUrl": "https://images1.vinted.net/t/04_0211c_H9wgetJGZnUvEr22TmPG9EYK/f800/1731346787.jpeg?s=5fcc318dde089bec655ee9c3e1a28cf8fc0d87ab",
+    "publicationDate": 1731346787
+  },
+  {
+    "_id": "61a4ccff-c37e-51a7-a0d7-631d91b7448f",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5155105880-lego-creator-31140-7-neuf",
+    "price": 10.15,
+    "title": "Lego creator 31140 7+ neuf",
+    "imgUrl": "https://images1.vinted.net/t/03_00aaf_VxfnoPPmwMF548F4vBezTK27/f800/r3/1728028387.jpeg?s=7888798498272fd2e6fbcbf22dcab3baa3526c8a",
+    "publicationDate": 1728028387
+  },
+  {
+    "_id": "72f84837-35ed-5f27-9fdd-bd5c0775d2e6",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4999498259-lego-notice-31140-hippocampe",
+    "price": 1.75,
+    "title": "Lego notice 31140 hippocampe",
+    "imgUrl": "https://images1.vinted.net/t/01_001da_WJk1QCs4dxaVXhKuFGuYHZuo/f800/1725706836.jpeg?s=5e3f23adb3f5cdd06bb937b450292269b05a7462",
+    "publicationDate": 1725706836
+  },
+  {
+    "_id": "aa215015-076b-5a03-b401-5f8e0693cb41",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4986442742-lego-creator-3-in-1-unicorn",
+    "price": 9.1,
+    "title": "Lego creator 3 in 1 unicorn",
+    "imgUrl": "https://images1.vinted.net/t/03_02571_54Ev1F4idgniSadNPGSu7w8g/f800/1725456834.jpeg?s=46ac29d6cdc26f21c5d90d8f96b10de37c8abef2",
+    "publicationDate": 1725456834
+  },
+  {
+    "_id": "b462d16d-dfbd-58da-8e1c-5098bb0645d9",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4766018503-lego-einhorn-31140",
+    "price": 9.1,
+    "title": "Lego Einhorn 31140",
+    "imgUrl": "https://images1.vinted.net/t/01_01342_9Ut5YFNGAuxAEiS5xgEzzvtM/f800/1720988578.jpeg?s=adce3ec4eefb0010d3f07e451c5d6300ac71cd2e",
+    "publicationDate": 1720988578
+  },
+  {
+    "_id": "6290e319-ca60-5d75-82c4-1159c0088a4f",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5392682498-lego-creator-set-31140-3-in-1-unicorn-pauw-zeepaard",
+    "price": 9.1,
+    "title": "Lego Creator set 31140 3 in 1 Unicorn Pauw Zeepaard",
+    "imgUrl": "https://images1.vinted.net/t/04_0127e_qaDmfgcaufKLsJm9nH9ScExi/f800/1731775974.jpeg?s=18d40cb44526c4998fbf173b3f2710d0dd498478",
+    "publicationDate": 1731775974
+  },
+  {
+    "_id": "143332fc-dbf1-5d19-b5f9-75c81257a1a9",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5420987616-lego-unicorn-31140-nieuw-in-doos",
+    "price": 13.3,
+    "title": "Lego Unicorn 31140 Nieuw in doos",
+    "imgUrl": "https://images1.vinted.net/t/02_00989_rzj2ySvx4PJ8jXpXq9PNXn7o/f800/1732215047.jpeg?s=e3f63b1f808bc3132cdd6f009bffdea596d76a5a",
+    "publicationDate": 1732215047
+  },
+  {
+    "_id": "da5e5fd9-e28b-5b27-8c5a-3a463c0fe70e",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5415715557-lego-creator-31140",
     "price": 11.2,
-    "title": "Lego creator 31140 unicorno magico 3 in 1",
-    "imgUrl": "https://images1.vinted.net/t/01_00f1c_EWZ4x23LqW89CHG5mmHTFpg3/f800/1715015439.jpeg?s=f3c48e5181ec58386f2e773a7be905adb1c4379b",
-    "publicationDate": 1715015439,
-    "id": 4467919407
+    "title": "Lego creator 31140",
+    "imgUrl": "https://images1.vinted.net/t/02_015e5_M94wmL7pd5a5cmRu23uQd3Hz/f800/1732123272.jpeg?s=a4536f00fcdee40b4a51befb77df9a058b29ce77",
+    "publicationDate": 1732123272
   },
   {
+    "_id": "ad40b560-71c6-513c-915b-1a7d4a70acf1",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4870369008-lego-boekje-31140",
+    "link": "https://www.vinted.fr/items/4870374094-lego-boekje-31140",
     "price": 1.75,
     "title": "Lego boekje 31140",
-    "imgUrl": "https://images1.vinted.net/t/02_005e4_Gnfcm1fqFCo375iSfg3BpKfj/f800/1723292003.jpeg?s=b58a1b2e89aeef84e1df8c75cf119aa1bb8cfd7d",
-    "publicationDate": 1723292003,
-    "id": 4870369008
+    "imgUrl": "https://images1.vinted.net/t/01_02426_tepmSJ7eaZKgnJa2JP3DQRPn/f800/1723292067.jpeg?s=c4c0a6e81876c7961d68d7642fbe855e615f24ba",
+    "publicationDate": 1723292067
   },
   {
+    "_id": "3f3bbce5-cca9-5f74-afe6-8530a00ac2f9",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4452730240-lego-eenhoorn-31140",
-    "price": 11.2,
-    "title": "Lego eenhoorn 31140",
-    "imgUrl": "https://images1.vinted.net/t/03_00642_TCpF82VkVQasYnzXPxAwTJdL/f800/1714758505.jpeg?s=a8d846d7c24ca37a2506d1c5e76d424e2c43b631",
-    "publicationDate": 1714758505,
-    "id": 4452730240
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5332931621-new-magische-eenhoorn-creator-3-in-1-31140",
+    "link": "https://www.vinted.fr/items/5344751415-lego-creator-3-en-1-31140",
     "price": 10.15,
-    "title": "NEW - Magische eenhoorn\n- creator 3 in 1 -\n31140",
-    "imgUrl": "https://images1.vinted.net/t/04_001e7_mXexmmyKWC6MpAiw5Yi1pVnb/f800/1730802681.jpeg?s=4c80ccf99e499b0551c9300d081c05b084e82005",
-    "publicationDate": 1730802681,
-    "id": 5332931621
+    "title": "Lego creator 3 en 1 31140",
+    "imgUrl": "https://images1.vinted.net/t/04_024b5_z9E4wE2jQeVTyWnNXXAELUny/f800/1731002466.jpeg?s=495f54dd36f90411c6fa9ee5aeb454b1db69a141",
+    "publicationDate": 1731002466
   },
   {
+    "_id": "b2d1cecf-de3b-5a6d-a7e6-c22c08dec906",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5391115455-lego-31140-magische-eenhoorn-3-in-1",
-    "price": 8.58,
-    "title": "Lego 31140 Magische Eenhoorn 3-in-1",
-    "imgUrl": "https://images1.vinted.net/t/03_023e4_wPmiDCfGhPLbUeyBH7uBE3Ep/f800/1731763914.jpeg?s=619874dfc3d0b859913974e1dd2d5aaf58e555dc",
-    "publicationDate": 1731763914,
-    "id": 5391115455
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/3720670418-lego-31140",
-    "price": 10.15,
+    "link": "https://www.vinted.fr/items/4609395453-lego-31140",
+    "price": 9.1,
     "title": "Lego 31140",
-    "imgUrl": "https://images1.vinted.net/t/03_01997_RqmYNsF6BvLBxwoFxhycUS36/f800/1699266976.jpeg?s=417adb7dc7fa4a04b8cdcddbe2767d10a51be9ca",
-    "publicationDate": 1699266976,
-    "id": 3720670418
+    "imgUrl": "https://images1.vinted.net/t/02_01c97_PqUhYZo9pFBfPFbpc3XvmfTH/f800/1717750842.jpeg?s=bd6861335bd4e71416f3c5c8ab3a10fe199f8e24",
+    "publicationDate": 1717750842
   },
   {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4108775963-lego-creator-31140",
-    "price": 11.2,
-    "title": "LEGO Creator 31140 ",
-    "imgUrl": "https://images1.vinted.net/t/01_01ed8_j475qsDQf2kiQnTqX5GKJDEE/f800/1708792612.jpeg?s=20d1c564a6c8bb715c34e03c4a69f49d9e992de2",
-    "publicationDate": 1708792612,
-    "id": 4108775963
-  },
-  {
+    "_id": "e270b081-47c3-52a1-8914-1947e9fdf9ac",
     "legoId": "31140",
     "link": "https://www.vinted.fr/items/5247742287-lego-31140-creator-3-en-1-la-licorne-magique",
     "price": 17.5,
     "title": "LEGO 31140 Creator 3-en-1 La Licorne Magique",
     "imgUrl": "https://images1.vinted.net/t/01_007fa_kmZ6wwNPHNYYYuYpsVsKgvdE/f800/1729424241.jpeg?s=9c03f4ba764cdfb10bdfc50f8e557d0963d23955",
-    "publicationDate": 1729424241,
-    "id": 5247742287
+    "publicationDate": 1729424241
   },
   {
+    "_id": "47db6311-32d6-5103-9b2f-b3ff41c55d0b",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4999513432-lego-notice-31140-paon",
-    "price": 1.75,
-    "title": "Lego notice 31140 paon",
-    "imgUrl": "https://images1.vinted.net/t/02_00dbc_giSd7ewDHrXUYjKHYKzkyV9R/f800/1725706978.jpeg?s=8641d502a04fbcf7b11674e9e861961664054b3d",
-    "publicationDate": 1725706978,
-    "id": 4999513432
+    "link": "https://www.vinted.fr/items/5325722939-lego-creator-31140-unicorn",
+    "price": 8.58,
+    "title": "Lego creator 31140 unicorn",
+    "imgUrl": "https://images1.vinted.net/t/01_0014f_euipEM5i8xA93qTMhV3Fmtkt/f800/1730659515.jpeg?s=b08842ea0b9053ed7a5ac1407d35a92400e257d1",
+    "publicationDate": 1730659515
   },
   {
+    "_id": "beca8e09-2e73-5c44-bdb0-4d6caba8afab",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/5157075381-domino-express-jeu-de-construction",
-    "price": 10.14,
-    "title": "Domino express 😊 Jeu de Construction",
-    "imgUrl": "https://images1.vinted.net/t/01_0228b_kVewAQgiQYQpyBRexKDVuznQ/f800/1728048971.jpeg?s=dc0cf146798860545ae32c52d96f5f557341bb5f",
-    "publicationDate": 1728048971,
-    "id": 5157075381
+    "link": "https://www.vinted.fr/items/5320481896-lego-unicorno-magico-31140-creator-3-in-1-nuovo",
+    "price": 12.25,
+    "title": "LEGO Unicorno magico 31140 | Creator 3-in-1 | NUOVO |",
+    "imgUrl": "https://images1.vinted.net/t/02_02151_mmPCvja3xMgDRespj4eMsTfC/f800/1730625409.jpeg?s=cb5ae89fd26e8c5e3e008c23c657c66c04710610",
+    "publicationDate": 1730625409
   },
   {
+    "_id": "3723c9fd-e571-52a0-ad1d-95475541aabe",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4870362877-lego-boekje-31140",
-    "price": 1.75,
-    "title": "Lego boekje 31140",
-    "imgUrl": "https://images1.vinted.net/t/02_013fa_8jecuFqTg2iVqYbza5qeda3E/f800/1723291927.jpeg?s=23b252241b472269d4280bb138cda32e262b54e3",
-    "publicationDate": 1723291927,
-    "id": 4870362877
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4416959201-lego-creator-31140",
+    "link": "https://www.vinted.fr/items/5332931621-new-magische-eenhoorn-creator-3-in-1-31140",
     "price": 10.15,
-    "title": "Lego Creator 31140",
-    "imgUrl": "https://images1.vinted.net/t/01_00f3a_kyQzLSNMkGvZKSxRxMG2VfkC/f800/r3/1714067572.jpeg?s=6562b4f133578ab9569796a775a60112a394dac7",
-    "publicationDate": 1714067572,
-    "id": 4416959201
+    "title": "NEW - Magische eenhoorn\n- creator 3 in 1 -\n31140",
+    "imgUrl": "https://images1.vinted.net/t/04_001e7_mXexmmyKWC6MpAiw5Yi1pVnb/f800/1730802681.jpeg?s=4c80ccf99e499b0551c9300d081c05b084e82005",
+    "publicationDate": 1730802681
   },
   {
+    "_id": "4660f573-21d9-5f5a-a182-3b7edc629659",
     "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4500634933-nieuw-lego-creator-unicorn-3-in-1",
-    "price": 11.2,
-    "title": "Nieuw! Lego Creator Unicorn 3 in 1",
-    "imgUrl": "https://images1.vinted.net/t/03_020f3_wSjoEq9cem9WDLZwJh1GYot2/f800/1715665109.jpeg?s=ee526ce87d5ca6e06ecf0566a449e66096cca6d6",
-    "publicationDate": 1715665109,
-    "id": 4500634933
-  },
-  {
-    "legoId": "31140",
-    "link": "https://www.vinted.fr/items/4860995344-lego-unicorno-creator-3-in-1",
+    "link": "https://www.vinted.fr/items/5389632672-lego-creator-31134-et-31140",
     "price": 21.7,
-    "title": "LEGO Unicorno Creator 3 in 1",
-    "imgUrl": "https://images1.vinted.net/t/02_00cb6_2JNg369uBFA9QLVLhrdgyJYC/f800/1723061292.jpeg?s=3ac5d55454acdae280367d8070c4af3fb4fa0dc1",
-    "publicationDate": 1723061292,
-    "id": 4860995344
+    "title": "Lego creator 31134 et 31140",
+    "imgUrl": "https://images1.vinted.net/t/03_004ff_BUgbN93ngh2a5msVJR1ch4Du/f800/1731751933.jpeg?s=1877ea2f76e68ddeeb63ae67368ff9d50542ed9f",
+    "publicationDate": 1731751933
   },
   {
+    "_id": "406febda-c316-5855-88ef-53297fcdd4bf",
     "legoId": "31140",
     "link": "https://www.vinted.fr/items/4277023936-lego-31140-creator-3-in-1-neu-ovp",
     "price": 11.2,
     "title": "LEGO 31140 Creator 3 in 1 *NEU & OVP*",
     "imgUrl": "https://images1.vinted.net/t/02_00dcb_iBe3PKVa4ACdBwTwgugMRJQD/f800/1711469342.jpeg?s=db92766e73bd14f831e1b30fec2200dc7fdd23d4",
-    "publicationDate": 1711469342,
-    "id": 4277023936
+    "publicationDate": 1711469342
   },
   {
+    "_id": "82403b96-d9ec-55f2-9732-68ebe3bc60e4",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5416346798-lego-creator-31140",
+    "price": 21.7,
+    "title": "Lego creator 31140",
+    "imgUrl": "https://images1.vinted.net/t/04_01549_DbGTn8MJUsmTziCzJQFHyEPq/f800/1732130174.jpeg?s=110cf8c937e6c4f89b36c886d5054c61e8c356aa",
+    "publicationDate": 1732130174
+  },
+  {
+    "_id": "8ffc0eb7-2f8a-5c92-a2f2-e54ea284e73a",
     "legoId": "31140",
     "link": "https://www.vinted.fr/items/4513678646-lego-31140-creator-3-in-1-magische-eenhoorn-magical-unicorn",
     "price": 11.2,
     "title": "LEGO 31140 Creator 3-in-1 Magische eenhoorn / Magical unicorn",
     "imgUrl": "https://images1.vinted.net/t/03_0105e_pQA8Y8kJPc3hetrpySLevqTS/f800/1715893224.jpeg?s=f30f145c834bda70b6552f2ddffcfb0b37070b5d",
-    "publicationDate": 1715893224,
-    "id": 4513678646
+    "publicationDate": 1715893224
   },
   {
+    "_id": "c1951443-c945-5750-aa4b-6b6cb7d9a524",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5391115455-lego-31140-magische-eenhoorn-3-in-1",
+    "price": 8.58,
+    "title": "Lego 31140 Magische Eenhoorn 3-in-1",
+    "imgUrl": "https://images1.vinted.net/t/03_023e4_wPmiDCfGhPLbUeyBH7uBE3Ep/f800/1731763914.jpeg?s=619874dfc3d0b859913974e1dd2d5aaf58e555dc",
+    "publicationDate": 1731763914
+  },
+  {
+    "_id": "81125f67-f742-5f54-88f2-0be811f97b57",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5262634501-lego-creator-3-in-1-31140-7-einhorn-pfau-seepferdchen",
+    "price": 14.35,
+    "title": "LEGO creator 3 in 1 31140 7+ Einhorn, Pfau, Seepferdchen",
+    "imgUrl": "https://images1.vinted.net/t/01_00354_8K4h7SDCZVJ36z3y3yjiQ1Xk/f800/1729621009.jpeg?s=7341da888f28ce23aa31b190371b4267e3e19e54",
+    "publicationDate": 1729621009
+  },
+  {
+    "_id": "3d506a11-dd62-5ba2-a6ae-d527004d2ec9",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4964068259-lego-creator-31140",
+    "price": 11.2,
+    "title": "Lego Creator 31140",
+    "imgUrl": "https://images1.vinted.net/t/03_024b7_US6AEKBNjMwuBJKkW3NWerPV/f800/1725088651.jpeg?s=4a2375a20817be161c8f41a8d0580b1f9b3ca9d0",
+    "publicationDate": 1725088651
+  },
+  {
+    "_id": "fb6f2d4c-bca9-5691-b8d6-6cd6c5b6d3aa",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4494158626-lego-creator-31140",
+    "price": 11.2,
+    "title": "Lego creator 31140",
+    "imgUrl": "https://images1.vinted.net/t/03_013c6_yHvsyk9TLeiWGSRwG72T14dm/f800/1715531108.jpeg?s=22052ecccab927c5e965ab68839f97719412552c",
+    "publicationDate": 1715531108
+  },
+  {
+    "_id": "84e70d17-0b45-5999-a20f-920a7b936e1b",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4108775963-lego-creator-31140",
+    "price": 11.2,
+    "title": "LEGO Creator 31140 ",
+    "imgUrl": "https://images1.vinted.net/t/01_01ed8_j475qsDQf2kiQnTqX5GKJDEE/f800/1708792612.jpeg?s=20d1c564a6c8bb715c34e03c4a69f49d9e992de2",
+    "publicationDate": 1708792612
+  },
+  {
+    "_id": "921172c7-3192-58fa-ae44-9ce5a028b60c",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4870369008-lego-boekje-31140",
+    "price": 1.75,
+    "title": "Lego boekje 31140",
+    "imgUrl": "https://images1.vinted.net/t/02_005e4_Gnfcm1fqFCo375iSfg3BpKfj/f800/1723292003.jpeg?s=b58a1b2e89aeef84e1df8c75cf119aa1bb8cfd7d",
+    "publicationDate": 1723292003
+  },
+  {
+    "_id": "050a5562-c160-571c-b589-2a2610f88655",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/3720670418-lego-31140",
+    "price": 10.15,
+    "title": "Lego 31140",
+    "imgUrl": "https://images1.vinted.net/t/03_01997_RqmYNsF6BvLBxwoFxhycUS36/f800/1699266976.jpeg?s=417adb7dc7fa4a04b8cdcddbe2767d10a51be9ca",
+    "publicationDate": 1699266976
+  },
+  {
+    "_id": "74a7b098-eaea-5175-a665-14a0ce2eceb1",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4467919407-lego-creator-31140-unicorno-magico-3-in-1",
+    "price": 11.2,
+    "title": "Lego creator 31140 unicorno magico 3 in 1",
+    "imgUrl": "https://images1.vinted.net/t/01_00f1c_EWZ4x23LqW89CHG5mmHTFpg3/f800/1715015439.jpeg?s=f3c48e5181ec58386f2e773a7be905adb1c4379b",
+    "publicationDate": 1715015439
+  },
+  {
+    "_id": "743bd49f-c48b-5975-92f2-15cd37c84b2c",
     "legoId": "31140",
     "link": "https://www.vinted.fr/items/4427547018-lego-licorne-31140",
     "price": 13.3,
     "title": "Lego licorne 31140",
     "imgUrl": "https://images1.vinted.net/t/02_01630_3mMV97ToKZBK8pnuyGze1wnS/f800/1714300277.jpeg?s=43dba1b1414a5484f7f055a7a6913ae7aeab6ac1",
-    "publicationDate": 1714300277,
-    "id": 4427547018
+    "publicationDate": 1714300277
   },
   {
+    "_id": "679d3f35-69c7-5faf-aa06-695af11c2584",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4416959201-lego-creator-31140",
+    "price": 10.15,
+    "title": "Lego Creator 31140",
+    "imgUrl": "https://images1.vinted.net/t/01_00f3a_kyQzLSNMkGvZKSxRxMG2VfkC/f800/r3/1714067572.jpeg?s=6562b4f133578ab9569796a775a60112a394dac7",
+    "publicationDate": 1714067572
+  },
+  {
+    "_id": "bd0df083-4b2d-5ca6-a115-3ef6db57cfd0",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5392339949-lego-31140-nieuw-creator-3-in-1",
+    "price": 8.58,
+    "title": "Lego 31140 nieuw creator 3 in 1",
+    "imgUrl": "https://images1.vinted.net/t/03_01d3d_AY63B8Wyj76B4REjrCRbFiCe/f800/1731773019.jpeg?s=f6977bba5f0ef546d9544a6c30ba3e82b6f6531a",
+    "publicationDate": 1731773019
+  },
+  {
+    "_id": "d4cd4cb0-5a9b-53d0-8cdd-80984ac94816",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4500634933-nieuw-lego-creator-unicorn-3-in-1",
+    "price": 11.2,
+    "title": "Nieuw! Lego Creator Unicorn 3 in 1",
+    "imgUrl": "https://images1.vinted.net/t/03_020f3_wSjoEq9cem9WDLZwJh1GYot2/f800/1715665109.jpeg?s=ee526ce87d5ca6e06ecf0566a449e66096cca6d6",
+    "publicationDate": 1715665109
+  },
+  {
+    "_id": "576220d1-ff12-5db6-89fc-84af9a9e9a8e",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4291931696-lego-creator-31140-3en1-regalito",
+    "price": 7,
+    "title": "LEGO Creator 31140 3en1 #regalito",
+    "imgUrl": "https://images1.vinted.net/t/02_0205a_R6L3k2KbUwiXFSunKcefVWq2/f800/1711801455.jpeg?s=af2a6a428d4ca8d241e7fad4529d1d681bdfa81a",
+    "publicationDate": 1711801455
+  },
+  {
+    "_id": "5289b027-2860-53bc-b9f6-dd141246aaab",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5157075381-domino-express-jeu-de-construction",
+    "price": 10.14,
+    "title": "Domino express 😊 Jeu de Construction",
+    "imgUrl": "https://images1.vinted.net/t/01_0228b_kVewAQgiQYQpyBRexKDVuznQ/f800/1728048971.jpeg?s=dc0cf146798860545ae32c52d96f5f557341bb5f",
+    "publicationDate": 1728048971
+  },
+  {
+    "_id": "9ab602c1-0aaa-5295-9b8d-bbe2ea56ce8a",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5339645463-lego-31140-3-in-1-pakket",
+    "price": 11.2,
+    "title": "Lego 31140 3 in 1 pakket",
+    "imgUrl": "https://images1.vinted.net/t/04_026a1_RwBNPorQVQZ3AAMtpRmKioSW/f800/1730911520.jpeg?s=04fee446a5fc98c003e998efaba375f47597c539",
+    "publicationDate": 1730911520
+  },
+  {
+    "_id": "30220c33-d95b-530e-97d9-55fa33bb83b3",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4932684582-lotto-3-set-lego-creator-3-in-1",
+    "price": 32.2,
+    "title": "Lotto 3 set Lego Creator 3 in 1",
+    "imgUrl": "https://images1.vinted.net/t/02_01cff_c3Pyxsa7JXkLvS2wuDypBeuJ/f800/1724517155.jpeg?s=5d412dc9313a0d53d748dd24d63b616b800916a3",
+    "publicationDate": 1724517155
+  },
+  {
+    "_id": "e912a54a-0fc2-5146-9838-a0905cac0329",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4999513432-lego-notice-31140-paon",
+    "price": 1.75,
+    "title": "Lego notice 31140 paon",
+    "imgUrl": "https://images1.vinted.net/t/02_00dbc_giSd7ewDHrXUYjKHYKzkyV9R/f800/1725706978.jpeg?s=8641d502a04fbcf7b11674e9e861961664054b3d",
+    "publicationDate": 1725706978
+  },
+  {
+    "_id": "387d6263-ae62-5864-9c33-b7d4d5733f40",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4870362877-lego-boekje-31140",
+    "price": 1.75,
+    "title": "Lego boekje 31140",
+    "imgUrl": "https://images1.vinted.net/t/02_013fa_8jecuFqTg2iVqYbza5qeda3E/f800/1723291927.jpeg?s=23b252241b472269d4280bb138cda32e262b54e3",
+    "publicationDate": 1723291927
+  },
+  {
+    "_id": "8846ef64-ef68-573f-990a-db130eb7057a",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5339863623-lego-31140",
+    "price": 21.7,
+    "title": "Lego 31140",
+    "imgUrl": "https://images1.vinted.net/t/04_01364_MasTZfYpnxZjEy9c3ftmzyig/f800/1730913906.jpeg?s=aa714b6280100ec1041250fabe393ad7c8b3ce65",
+    "publicationDate": 1730913906
+  },
+  {
+    "_id": "b6f41aac-3500-561a-a1b4-e914d3655c8d",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5418264069-pack-creator-31134-31140-40468-lego",
+    "price": 27.48,
+    "title": "Pack Creator 31134 31140 40468 Lego",
+    "imgUrl": "https://images1.vinted.net/t/04_01ae9_VSdueUbB3V8nfmd3gZug1TRR/f800/1732185793.jpeg?s=4470960c2e59de6f6c00d5a534ddb56be943adc6",
+    "publicationDate": 1732185793
+  },
+  {
+    "_id": "68caf1d9-4f03-53a0-9c73-27bef3fcfbd9",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5120727741-lego-creator-3-in-1-einhorn",
+    "price": 7,
+    "title": "Lego creator 3 in 1 Einhorn",
+    "imgUrl": "https://images1.vinted.net/t/01_02691_aQtoKW2AbMNSJpg3Z87vbGaK/f800/1727522989.jpeg?s=f379d8e084826481f8ccc6dc627481b508dbf78b",
+    "publicationDate": 1727522989
+  },
+  {
+    "_id": "b95ce37e-4c2a-5f37-af5a-01a9d1c50704",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5340290373-lego-31140-nieuw",
+    "price": 13.3,
+    "title": "Lego 31140 NIEUW",
+    "imgUrl": "https://images1.vinted.net/t/04_001f6_U8US2DiQWEXNkNvUf22mREsV/f800/1730918792.jpeg?s=b72c2ef55cfdeaaffb439919d133e9f464c2b847",
+    "publicationDate": 1730918792
+  },
+  {
+    "_id": "f17476c6-36c0-5bbd-be98-627a74e89510",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/4860995344-lego-unicorno-creator-3-in-1",
+    "price": 21.7,
+    "title": "LEGO Unicorno Creator 3 in 1",
+    "imgUrl": "https://images1.vinted.net/t/02_00cb6_2JNg369uBFA9QLVLhrdgyJYC/f800/1723061292.jpeg?s=3ac5d55454acdae280367d8070c4af3fb4fa0dc1",
+    "publicationDate": 1723061292
+  },
+  {
+    "_id": "2ad50708-c653-59a3-93de-f7b6e981fc99",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5406533289-lego-creator-31140-3-en-1",
+    "price": 5.95,
+    "title": "Lego Creator 31140 • 3 en 1",
+    "imgUrl": "https://images1.vinted.net/t/04_001cc_wXzxES48HWhBB2Zj8KKzWdh7/f800/1731960789.jpeg?s=121f49e13910e1d7d7b2679fe994dd3acf072c73",
+    "publicationDate": 1731960789
+  },
+  {
+    "_id": "1e5ad810-9875-5664-8667-192a65b57b73",
     "legoId": "31140",
     "link": "https://www.vinted.fr/items/4951813456-grande-lotto-mix-vari-set-lego",
     "price": 95.2,
     "title": "Grande lotto mix vari set Lego!",
     "imgUrl": "https://images1.vinted.net/t/03_00273_BRYRbRUQQdRTZ9L351Gzvjfu/f800/1724847089.jpeg?s=39a9eeed3d69a0b92bfc5ea6e209e1fc6ed88575",
-    "publicationDate": 1724847089,
-    "id": 4951813456
+    "publicationDate": 1724847089
+  },
+  {
+    "_id": "145aebbb-2417-585e-9afe-0fda70a00cee",
+    "legoId": "31140",
+    "link": "https://www.vinted.fr/items/5394439454-lego-friends-lot-de-7-jeux-plusieurs-bonus",
+    "price": 77.35,
+    "title": "Lego friends, lot de 7 jeux+ plusieurs bonus",
+    "imgUrl": "https://images1.vinted.net/t/04_00232_6J8tA28ZE2hgd6zMaf1YCvDW/f800/1731805803.jpeg?s=ab72783c367c4379f133604c33d1fcbe23aa2f5d",
+    "publicationDate": 1731805803
   }
 ]

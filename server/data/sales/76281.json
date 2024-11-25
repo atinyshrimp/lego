@@ -1,110 +1,92 @@
 [
   {
+    "_id": "6222b102-89d7-5696-ad0b-6136bd88acff",
     "legoId": "76281",
-    "link": "https://www.vinted.fr/items/5351693522-lego-76281",
-    "price": 58.45,
-    "title": "Lego 76281",
-    "imgUrl": "https://images1.vinted.net/t/04_0102d_fm5r6z6u8C4N3EEGKmyYiBFu/f800/1731151670.jpeg?s=744e5853cf811c28167323c1ae4e62a05b93a611",
-    "publicationDate": 1731151670,
-    "id": 5351693522
+    "link": "https://www.vinted.fr/items/5437031565-lego-76281-marvel-x-men-97",
+    "price": 53.2,
+    "title": "Lego 76281 Marvel X-men '97",
+    "imgUrl": "https://images1.vinted.net/t/02_01965_1U4gvyeS3DSV3juGeTBLyC2s/f800/1732470665.jpeg?s=2e40f075d5c43b787e707c30e26e1874d5ea8a39",
+    "publicationDate": 1732470665
   },
   {
-    "legoId": "76281",
-    "link": "https://www.vinted.fr/items/5402946232-lego-marvel-x-men-jet-76281-neuf",
-    "price": 51.1,
-    "title": "Lego Marvel X-Men Jet 76281 NEUF",
-    "imgUrl": "https://images1.vinted.net/t/03_00c08_fihNBPsr5adXTfxG4kYB1FfV/f800/1731926438.jpeg?s=40e91828c165c651cb4e605feeb80676718bca5a",
-    "publicationDate": 1731926438,
-    "id": 5402946232
-  },
-  {
-    "legoId": "76281",
-    "link": "https://www.vinted.fr/items/5348207598-lego-marvel-x-men-x-jet-76281-new",
-    "price": 57.35,
-    "title": "Lego Marvel X-men x-jet 76281 new",
-    "imgUrl": "https://images1.vinted.net/t/04_01368_zjVCExC56Ta6KKsd52gAbqHT/f800/1731076663.jpeg?s=a4ae55eec5d9bf3c4d4071592666fb1ef94b0a43",
-    "publicationDate": 1731076663,
-    "id": 5348207598
-  },
-  {
+    "_id": "b8cd374f-6d35-5106-a720-edd2bfd4f3dc",
     "legoId": "76281",
     "link": "https://www.vinted.fr/items/5386300235-lego-marvel-x-men-neuf",
     "price": 58.45,
     "title": "Lego Marvel X-Men neuf",
     "imgUrl": "https://images1.vinted.net/t/04_022f5_14ftmGNVvDuYBNRUrQoQbqdY/f800/1731678315.jpeg?s=d2dd66a494cebfcef3770fb6e0e0e90d7dc4e5f7",
-    "publicationDate": 1731678315,
-    "id": 5386300235
+    "publicationDate": 1731678315
   },
   {
-    "legoId": "76281",
-    "link": "https://www.vinted.fr/items/5396420921-lego-76281-x-men-97",
-    "price": 58.44,
-    "title": "Lego 76281 X-MEN 97",
-    "imgUrl": "https://images1.vinted.net/t/03_023b7_8JyjEfWLS5o359Ceg3SPpNYj/f800/1731844780.jpeg?s=a7af391cb8abfbf6783f0586b1dbd127b1c1e9f6",
-    "publicationDate": 1731844780,
-    "id": 5396420921
-  },
-  {
-    "legoId": "76281",
-    "link": "https://www.vinted.fr/items/5063646939-lego-marvel",
-    "price": 74.2,
-    "title": "Lego Marvel",
-    "imgUrl": "https://images1.vinted.net/t/02_01090_CvzxTZHVWft9ZdDCmTSdTC2n/f800/1726605576.jpeg?s=8644de55b534adc914d7241ef3c8322f5d69f8ae",
-    "publicationDate": 1726605576,
-    "id": 5063646939
-  },
-  {
+    "_id": "cb34b24e-10b7-54f9-bb83-5d31a98aa6e1",
     "legoId": "76281",
     "link": "https://www.vinted.fr/items/4945024711-lego-76281-x-men-97-marvel",
     "price": 63.7,
     "title": "Lego 76281 X-Men 97 Marvel",
     "imgUrl": "https://images1.vinted.net/t/03_011d9_1bFNJw7JYjoJfr8wrTvQ1SdC/f800/1724711705.jpeg?s=065a5f2aec3e0d1b62d3f0c9119d2e9160736539",
-    "publicationDate": 1724711705,
-    "id": 4945024711
+    "publicationDate": 1724711705
   },
   {
+    "_id": "cb2713ea-2bff-525b-b4e3-cf4f44cb40cd",
+    "legoId": "76281",
+    "link": "https://www.vinted.fr/items/5063646939-lego-marvel",
+    "price": 74.2,
+    "title": "Lego Marvel",
+    "imgUrl": "https://images1.vinted.net/t/02_01090_CvzxTZHVWft9ZdDCmTSdTC2n/f800/1726605576.jpeg?s=8644de55b534adc914d7241ef3c8322f5d69f8ae",
+    "publicationDate": 1726605576
+  },
+  {
+    "_id": "ecc2f2cf-502b-52a1-a8e2-bf33eeae28e8",
     "legoId": "76281",
     "link": "https://www.vinted.fr/items/5322135185-lego-marvel-neuf-76281",
     "price": 67.9,
     "title": "Lego marvel neuf 76281",
     "imgUrl": "https://images1.vinted.net/t/04_0172e_5CCD316KFL4zv4bMd4JPx94d/f800/1730636883.jpeg?s=fcee9ccbc924677c3459eb7494dc77685861f8e4",
-    "publicationDate": 1730636883,
-    "id": 5322135185
+    "publicationDate": 1730636883
   },
   {
-    "legoId": "76281",
-    "link": "https://www.vinted.fr/items/4501253515-lego-mavel",
-    "price": 68.95,
-    "title": "Lego Mavel",
-    "imgUrl": "https://images1.vinted.net/t/03_00030_1TLUZ8poN8UwZWiopMT6dugx/f800/1715678638.jpeg?s=4cdfd7e30469e1f8e2ae5685e31898b79a4e465c",
-    "publicationDate": 1715678638,
-    "id": 4501253515
-  },
-  {
-    "legoId": "76281",
-    "link": "https://www.vinted.fr/items/4079258544-lego-76281-x-men-x-jet",
-    "price": 70,
-    "title": "Lego 76281 X-Men X-Jet",
-    "imgUrl": "https://images1.vinted.net/t/03_01734_1Yjd6CD4X9URnsL2x68WN5GB/f800/1707467634.jpeg?s=2a73ddce17a2a1aee086808708b759ca7250e8fa",
-    "publicationDate": 1707467634,
-    "id": 4079258544
-  },
-  {
-    "legoId": "76281",
-    "link": "https://www.vinted.fr/items/5349510071-lego-x-men-76281-x-jet-neuf-et-scelle",
-    "price": 70,
-    "title": "Lego X-Men 76281 X-Jet NEUF et scellé",
-    "imgUrl": "https://images1.vinted.net/t/01_012db_gdSLBV7NaiTpu182zdXPyJsb/f800/1731092799.jpeg?s=88df8dc52f4bd64f9ecae60b6d61c34cd47f00e3",
-    "publicationDate": 1731092799,
-    "id": 5349510071
-  },
-  {
+    "_id": "664c4cf7-ad57-5b46-92be-3097de55a4a0",
     "legoId": "76281",
     "link": "https://www.vinted.fr/items/4773760296-lego-marvel-76281",
     "price": 67.9,
     "title": "Lego marvel 76281",
     "imgUrl": "https://images1.vinted.net/t/02_014f9_87WrbaxuraLvsUo2tJxJFEUi/f800/1721154002.jpeg?s=c49db83bbfcf0c8855bc8bf240453bddf33514ce",
-    "publicationDate": 1721154002,
-    "id": 4773760296
+    "publicationDate": 1721154002
+  },
+  {
+    "_id": "6353d3e2-4134-5845-a8bb-24f937e57e2e",
+    "legoId": "76281",
+    "link": "https://www.vinted.fr/items/5349510071-lego-x-men-76281-x-jet-neuf-et-scelle",
+    "price": 67.9,
+    "title": "Lego X-Men 76281 X-Jet NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/01_012db_gdSLBV7NaiTpu182zdXPyJsb/f800/1731092799.jpeg?s=88df8dc52f4bd64f9ecae60b6d61c34cd47f00e3",
+    "publicationDate": 1731092799
+  },
+  {
+    "_id": "142f9052-0c0c-5722-960e-9345784296bf",
+    "legoId": "76281",
+    "link": "https://www.vinted.fr/items/5419255859-lego-marvel-studios-x-men-97-ref-76281-le-vaisseau-x-jet-des-x-men",
+    "price": 89.95,
+    "title": "Lego Marvel studios X-men '97 réf 76281 le vaisseau x-jet des X-men",
+    "imgUrl": "https://images1.vinted.net/t/02_01eed_o9qPcsMfFSgFFg2MJMRNwF1F/f800/1732196277.jpeg?s=47dbd3bed494c2df2c8f41274defc73173349f8f",
+    "publicationDate": 1732196277
+  },
+  {
+    "_id": "d3643b98-5320-51b5-8128-f929cd698f36",
+    "legoId": "76281",
+    "link": "https://www.vinted.fr/items/4501253515-lego-mavel",
+    "price": 68.95,
+    "title": "Lego Mavel",
+    "imgUrl": "https://images1.vinted.net/t/03_00030_1TLUZ8poN8UwZWiopMT6dugx/f800/1715678638.jpeg?s=4cdfd7e30469e1f8e2ae5685e31898b79a4e465c",
+    "publicationDate": 1715678638
+  },
+  {
+    "_id": "544bae4c-0a8f-5e97-a47d-20792df5306b",
+    "legoId": "76281",
+    "link": "https://www.vinted.fr/items/4079258544-lego-76281-x-men-x-jet",
+    "price": 70,
+    "title": "Lego 76281 X-Men X-Jet",
+    "imgUrl": "https://images1.vinted.net/t/03_01734_1Yjd6CD4X9URnsL2x68WN5GB/f800/1707467634.jpeg?s=2a73ddce17a2a1aee086808708b759ca7250e8fa",
+    "publicationDate": 1707467634
   }
 ]

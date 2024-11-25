@@ -1,29 +1,56 @@
 [
   {
+    "_id": "b25c96de-1b7b-52d3-8a4b-793f0eb478c5",
     "legoId": "60437",
-    "link": "https://www.vinted.fr/items/5397889273-figurines-lego-lot-animaux-panda-roux-singe-gorille-set-60437",
-    "price": 21.7,
+    "link": "https://www.vinted.fr/items/5410357613-figurines-lego-lot-animaux-panda-roux-singe-gorille-set-60437",
+    "price": 19.6,
     "title": "Figurines Lego lot animaux Panda roux + Singe + Gorille set 60437",
-    "imgUrl": "https://images1.vinted.net/t/04_01bfc_5vUovcUerVyZmyfjsx4jjSbX/f800/1731853116.jpeg?s=5175818cb110989fe457d287c797b443badfb090",
-    "publicationDate": 1731853116,
-    "id": 5397889273
+    "imgUrl": "https://images1.vinted.net/t/04_021f9_STsxDFvxDXmUbVjsEHd5aWHB/f800/1732034260.jpeg?s=162c30d1c7e892d1b925b05e6d0093d4013c6620",
+    "publicationDate": 1732034260
   },
   {
-    "legoId": "60437",
-    "link": "https://www.vinted.fr/items/5385210683-lego-60437-city-exploradores-de-la-jungla-helicoptero-en-campamento-base",
-    "price": 83.65,
-    "title": "Lego 60437 - City  - Exploradores de la Jungla: Helicóptero en Campamento Base",
-    "imgUrl": "https://images1.vinted.net/t/04_0159a_5LPz1vThoAjZX18nvJyUkpcb/f800/1731666479.jpeg?s=c401d771251b649bc6d319b9d12d346271770783",
-    "publicationDate": 1731666479,
-    "id": 5385210683
-  },
-  {
+    "_id": "6b52b8b1-1561-575e-b889-bd02194ff503",
     "legoId": "60437",
     "link": "https://www.vinted.fr/items/5193950548-bebe-gorille-lego-minifigure-set-60436",
     "price": 5.95,
     "title": "Bébé gorille lego minifigure set 60436",
     "imgUrl": "https://images1.vinted.net/t/03_00adb_ANx2K91kV4WAgN4evUzSerdQ/f800/1728576794.jpeg?s=c364cf9e91e3bc053d136d2aa4f3481d6c3ffab3",
-    "publicationDate": 1728576794,
-    "id": 5193950548
+    "publicationDate": 1728576794
+  },
+  {
+    "_id": "bbb66808-5f2a-57a8-a407-096be9c13cf2",
+    "legoId": "60437",
+    "link": "https://www.vinted.fr/items/5438522958-lego-city-60437-lhelicoptere-de-lexplorateur-de-la-jungle-au-camp-de-base",
+    "price": 74.2,
+    "title": "Lego City 60437 - L’Hélicoptère de l’Explorateur de la Jungle au Camp de Base",
+    "imgUrl": "https://images1.vinted.net/t/04_006e5_iVPrxa2gyKe3aWQ92hpLZQy4/f800/1732485013.jpeg?s=345b24826d305712e578852deca487f5eef39939",
+    "publicationDate": 1732485013
+  },
+  {
+    "_id": "80c7a1ae-3fad-5907-b1fe-32ac5be8a373",
+    "legoId": "60437",
+    "link": "https://www.vinted.fr/items/5437123689-lego-city-60437-jungle-explorer-helicopter",
+    "price": 77.34,
+    "title": "Lego City 60437 Jungle Explorer Helicopter",
+    "imgUrl": "https://images1.vinted.net/t/04_01d9d_7D1j9a9S1qJ1t2PchcwXGwjN/f800/1732471357.jpeg?s=c12405c7fe5f26098e79f4573331179a2ed59e68",
+    "publicationDate": 1732471357
+  },
+  {
+    "_id": "47d48f5e-5f14-5943-9344-4cad81c4086d",
+    "legoId": "60437",
+    "link": "https://www.vinted.fr/items/5429900093-lego-60437-l-helicoptere-de-l-explorateur",
+    "price": 79.44,
+    "title": "Lego 60437 L' hélicoptère de l' explorateur",
+    "imgUrl": "https://images1.vinted.net/t/02_009f7_WYnSJfE7wqM8fjhrNsK7vRjb/f800/1732378957.jpeg?s=812f0f9ebb82261d8c5f90f162ceadb16dbf62f6",
+    "publicationDate": 1732378957
+  },
+  {
+    "_id": "dddc5ae8-63f5-599c-98f2-ab0863257d9f",
+    "legoId": "60437",
+    "link": "https://www.vinted.fr/items/5385210683-lego-60437-city-exploradores-de-la-jungla-helicoptero-en-campamento-base",
+    "price": 83.65,
+    "title": "Lego 60437 - City  - Exploradores de la Jungla: Helicóptero en Campamento Base",
+    "imgUrl": "https://images1.vinted.net/t/04_0159a_5LPz1vThoAjZX18nvJyUkpcb/f800/1731666479.jpeg?s=c401d771251b649bc6d319b9d12d346271770783",
+    "publicationDate": 1731666479
   }
 ]

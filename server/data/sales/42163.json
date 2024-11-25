@@ -1,263 +1,290 @@
 [
   {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5340950357-lego-technic-42163",
-    "price": 5.95,
-    "title": "Lego Technic 42163",
-    "imgUrl": "https://images1.vinted.net/t/04_0268d_EJaWS4MYUaizLJU59HkUZMcv/f800/1730926842.jpeg?s=da3f520cc427a353bb1ddff88d13e67bf0b582d1",
-    "publicationDate": 1730926842,
-    "id": 5340950357
-  },
-  {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5391759739-lego-technic-42163",
-    "price": 3.85,
-    "title": "Lego Technic 42163",
-    "imgUrl": "https://images1.vinted.net/t/04_00785_2VZ8BeVtBSnTPMMNJBRAthwA/f800/1731768570.jpeg?s=bd18f03e4df48084bbf697780074b53701e5a73a",
-    "publicationDate": 1731768570,
-    "id": 5391759739
-  },
-  {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5399883675-lego-technic-bulldozer",
-    "price": 5.95,
-    "title": "Lego Technic bulldozer",
-    "imgUrl": "https://images1.vinted.net/t/04_01157_5BDTAFVCX6c2mz4yeV8wUSSh/f800/1731864361.jpeg?s=3c4e0073f3410551340e43c75b408c15be7d9095",
-    "publicationDate": 1731864361,
-    "id": 5399883675
-  },
-  {
+    "_id": "ca7a9c51-49b0-54c3-9a0e-22c25b7bc3ab",
     "legoId": "42163",
     "link": "https://www.vinted.fr/items/5203923134-lego-42163",
     "price": 9.1,
     "title": "Lego 42163",
     "imgUrl": "https://images1.vinted.net/t/03_01a11_Ca6E28VFs7RsqttS9xFetVXt/f800/1728744697.jpeg?s=b61b1ee302137200dba44040e68714080b1680fc",
-    "publicationDate": 1728744697,
-    "id": 5203923134
+    "publicationDate": 1728744697
   },
   {
+    "_id": "f3ee6970-db3f-5ab1-ba55-8764e054baed",
     "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5216809706-lego-technic-42163",
+    "link": "https://www.vinted.fr/items/5427268909-chasse-neige-lego-technic",
+    "price": 2.8,
+    "title": "Chasse neige Lego technic",
+    "imgUrl": "https://images1.vinted.net/t/04_00c13_SZ4tunTskxmnPeUU3NEhEhS5/f800/1732357278.jpeg?s=bc71c483957dff62921247b0779395b33a12df43",
+    "publicationDate": 1732357278
+  },
+  {
+    "_id": "68a021aa-a559-586f-94d5-4001b00408a4",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5399883675-lego-technic-bulldozer",
     "price": 5.95,
-    "title": "Lego Technic 42163",
-    "imgUrl": "https://images1.vinted.net/t/03_01786_8QBRPXHvdVPTKDUPBdN9EgZW/f800/1728914517.jpeg?s=d3fd59b1bffb731984ca7fb7fd1ff6c1149ecbea",
-    "publicationDate": 1728914517,
-    "id": 5216809706
+    "title": "Lego Technic bulldozer",
+    "imgUrl": "https://images1.vinted.net/t/04_01157_5BDTAFVCX6c2mz4yeV8wUSSh/f800/1731864361.jpeg?s=3c4e0073f3410551340e43c75b408c15be7d9095",
+    "publicationDate": 1731864361
   },
   {
+    "_id": "7071b2af-7c8d-5bd9-b54e-2606850e943b",
     "legoId": "42163",
-    "link": "https://www.vinted.fr/items/4786630033-lego-technic-buldocer-pesado-42163",
-    "price": 8,
-    "title": "Lego Technic Buldócer Pesado 42163",
-    "imgUrl": "https://images1.vinted.net/t/03_00e48_oYLCTnPQv9Nj89dHwY5kZYoW/f800/1721478837.jpeg?s=6b8b8e89f3ef949d02357cbed4754851c234bac4",
-    "publicationDate": 1721478837,
-    "id": 4786630033
-  },
-  {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5362869607-lego-42163",
-    "price": 11.2,
-    "title": "Lego 42163",
-    "imgUrl": "https://images1.vinted.net/t/01_012d6_sjFRiDxaArQMVqyEgkF5uBsj/f800/1731283001.jpeg?s=2c76093c39f9cea3e45a95f93efad9cdd8e8cc06",
-    "publicationDate": 1731283001,
-    "id": 5362869607
-  },
-  {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5376738925-bulldozer-lego-technic",
+    "link": "https://www.vinted.fr/items/5428389738-lego-technic-42163-novo-e-selado",
     "price": 9.1,
-    "title": "Bulldozer Lego Technic",
-    "imgUrl": "https://images1.vinted.net/t/04_02346_bCyv5sBxmWLVWEdccEgbw2cM/f800/1731506819.jpeg?s=2a923981046459634fcbf20d84ee82cc43bed319",
-    "publicationDate": 1731506819,
-    "id": 5376738925
+    "title": "LEGO Technic 42163 - Novo e Selado",
+    "imgUrl": "https://images1.vinted.net/t/02_000a6_c6EM1Wodxudrq9eDpSrYajiE/f800/1732366655.jpeg?s=d3169b097bec72cdbcbcbb66fb5b235c965ee618",
+    "publicationDate": 1732366655
   },
   {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/4582345555-lego-technic-heavy-duty-bulldozer-7",
-    "price": 5.95,
-    "title": "Lego Technic, Heavy-Duty Bulldozer, 7+",
-    "imgUrl": "https://images1.vinted.net/t/01_01713_Ud16i55ziL8CnR6tMCk7kH96/f800/1717232085.jpeg?s=3868a2bc375c9e4107988630903e17f8eabb5f4f",
-    "publicationDate": 1717232085,
-    "id": 4582345555
-  },
-  {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5252037802-lego-42163-technic",
-    "price": 9.1,
-    "title": "Lego 42163 technic",
-    "imgUrl": "https://images1.vinted.net/t/01_0179c_6pWA3c7HJVpDgZ9B42sFhco6/f800/1729450890.jpeg?s=0b96efc9ab4ac8d45db1c676cf93d5991486da8f",
-    "publicationDate": 1729450890,
-    "id": 5252037802
-  },
-  {
+    "_id": "7c3de53d-6d1e-56d7-863d-1bcef83bd3d3",
     "legoId": "42163",
     "link": "https://www.vinted.fr/items/5347047024-lego-technik-kipplaster",
     "price": 9.1,
     "title": "Lego Technik Kipplaster",
     "imgUrl": "https://images1.vinted.net/t/04_012a8_5tXfWrD3y4yFCzRWsVfKS3vH/f800/1731064051.jpeg?s=f51eaf4c91855875763ab6e02c3e949c7c1c68ed",
-    "publicationDate": 1731064051,
-    "id": 5347047024
+    "publicationDate": 1731064051
   },
   {
+    "_id": "4c5b1f70-2776-5c82-a7d2-561358c11e41",
     "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5336873240-lego-technic-ref-42163-le-bulldozer",
-    "price": 11.2,
-    "title": "Lego technic ref 42163 le bulldozer",
-    "imgUrl": "https://images1.vinted.net/t/04_01889_RL7L5t8hCpB9dLfMXeMTrvXh/f800/1730876510.jpeg?s=8080ce3022f97d5e375fa3e0504a42f7f8a2df54",
-    "publicationDate": 1730876510,
-    "id": 5336873240
+    "link": "https://www.vinted.fr/items/4582345555-lego-technic-heavy-duty-bulldozer-7",
+    "price": 5.95,
+    "title": "Lego Technic, Heavy-Duty Bulldozer, 7+",
+    "imgUrl": "https://images1.vinted.net/t/01_01713_Ud16i55ziL8CnR6tMCk7kH96/f800/1717232085.jpeg?s=3868a2bc375c9e4107988630903e17f8eabb5f4f",
+    "publicationDate": 1717232085
   },
   {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/4587075442-lego-42163",
-    "price": 10.15,
-    "title": "Lego 42163",
-    "imgUrl": "https://images1.vinted.net/t/03_005ec_2jPPz1nkCZj5jzeAV7byt9Yr/f800/1717321869.jpeg?s=69b473274001ae5982954d9986c80602d78b9679",
-    "publicationDate": 1717321869,
-    "id": 4587075442
-  },
-  {
+    "_id": "3db323d2-447d-5fe7-85e5-20fcef6d19a1",
     "legoId": "42163",
     "link": "https://www.vinted.fr/items/5252086487-lego-technic-42163",
     "price": 9.1,
     "title": "Lego technic 42163",
     "imgUrl": "https://images1.vinted.net/t/02_0166d_fuS8dCTpQPMmrCmCbJN2RaEx/f800/1729451350.jpeg?s=bc167cf8ee89d9b94077afa9a2535b5605b72432",
-    "publicationDate": 1729451350,
-    "id": 5252086487
+    "publicationDate": 1729451350
   },
   {
+    "_id": "d546f404-dcaf-5a98-8846-c5323b107266",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5252037802-lego-42163-technic",
+    "price": 9.1,
+    "title": "Lego 42163 technic",
+    "imgUrl": "https://images1.vinted.net/t/01_0179c_6pWA3c7HJVpDgZ9B42sFhco6/f800/1729450890.jpeg?s=0b96efc9ab4ac8d45db1c676cf93d5991486da8f",
+    "publicationDate": 1729450890
+  },
+  {
+    "_id": "ae1d8cf0-4771-574e-9967-548113157f7f",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5429643058-lego-bulldozer-42163",
+    "price": 11.2,
+    "title": "Lego bulldozer 42163",
+    "imgUrl": "https://images1.vinted.net/t/04_01d6c_WHgcWuWRorGpe1zpJefKt6bY/f800/1732376768.jpeg?s=65daeda9ee086d55c1c436d26c32ed157b01fa02",
+    "publicationDate": 1732376768
+  },
+  {
+    "_id": "b3214a58-0d19-52ae-9637-f9b010902792",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5376738925-bulldozer-lego-technic",
+    "price": 9.1,
+    "title": "Bulldozer Lego Technic",
+    "imgUrl": "https://images1.vinted.net/t/04_02346_bCyv5sBxmWLVWEdccEgbw2cM/f800/1731506819.jpeg?s=2a923981046459634fcbf20d84ee82cc43bed319",
+    "publicationDate": 1731506819
+  },
+  {
+    "_id": "1a1d70b5-4d8d-5f5a-8351-775284ac597f",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/4786630033-lego-technic-buldocer-pesado-42163",
+    "price": 8,
+    "title": "Lego Technic Buldócer Pesado 42163",
+    "imgUrl": "https://images1.vinted.net/t/03_00e48_oYLCTnPQv9Nj89dHwY5kZYoW/f800/1721478837.jpeg?s=6b8b8e89f3ef949d02357cbed4754851c234bac4",
+    "publicationDate": 1721478837
+  },
+  {
+    "_id": "086b4710-3a8f-5aff-bdac-8e9e04b8fe11",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5391759739-lego-technic-42163",
+    "price": 3.85,
+    "title": "Lego Technic 42163",
+    "imgUrl": "https://images1.vinted.net/t/04_00785_2VZ8BeVtBSnTPMMNJBRAthwA/f800/1731768570.jpeg?s=bd18f03e4df48084bbf697780074b53701e5a73a",
+    "publicationDate": 1731768570
+  },
+  {
+    "_id": "b99bcae2-d6dd-5213-93cf-4625e4e65787",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5430272065-technisch-lego-42163",
+    "price": 8.05,
+    "title": "Technisch lego 42163",
+    "imgUrl": "https://images1.vinted.net/t/04_00acd_2eBvj85Uf6vJK5VLZ7oXFS7V/f800/1732382382.jpeg?s=a258fda6f68b7ec728600d073ef7e18095938235",
+    "publicationDate": 1732382382
+  },
+  {
+    "_id": "c78fcae3-ca5a-5708-8fdf-d83e0e613865",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5429351389-lego-technic-42163",
+    "price": 5.95,
+    "title": "Lego Technic 42163",
+    "imgUrl": "https://images1.vinted.net/t/04_01696_PMV1UoMiANyXfLoFSMhWyhD2/f800/1732374462.jpeg?s=e2bd8c13b4f77cc61158c5acf405f96d8c3648fb",
+    "publicationDate": 1732374462
+  },
+  {
+    "_id": "1d0c095a-a4e2-5b76-8d37-c37788602413",
     "legoId": "42163",
     "link": "https://www.vinted.fr/items/4753474171-technic-lego-42163",
     "price": 9.1,
     "title": "Technic lego 42163",
     "imgUrl": "https://images1.vinted.net/t/03_010fb_vkpPzb2kzoivWU1sNTbvLYyg/f800/1720722646.jpeg?s=256b488f7d152e0f09881fe376338f51c4431f92",
-    "publicationDate": 1720722646,
-    "id": 4753474171
+    "publicationDate": 1720722646
   },
   {
+    "_id": "85df19db-09f8-5310-92fd-b425c560e9be",
     "legoId": "42163",
-    "link": "https://www.vinted.fr/items/4922757203-lego-42163-1x-in-elkaar-gemaakt",
-    "price": 7,
-    "title": "Lego  42163 1x in elkaar gemaakt",
-    "imgUrl": "https://images1.vinted.net/t/02_0077b_KrjtBuL3E3Pk5BP7TPvnsUEo/f800/1724336158.jpeg?s=1e380629c4c704679485dfb309f90cae4672b3a1",
-    "publicationDate": 1724336158,
-    "id": 4922757203
+    "link": "https://www.vinted.fr/items/5362869607-lego-42163",
+    "price": 11.2,
+    "title": "Lego 42163",
+    "imgUrl": "https://images1.vinted.net/t/01_012d6_sjFRiDxaArQMVqyEgkF5uBsj/f800/1731283001.jpeg?s=2c76093c39f9cea3e45a95f93efad9cdd8e8cc06",
+    "publicationDate": 1731283001
   },
   {
+    "_id": "4e0dad86-f155-5485-a9df-7f7b66ce8083",
     "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5055207788-lego-technic-42163-schwerlast-bulldozer",
-    "price": 5.95,
-    "title": "Lego Technic 42163 Schwerlast Bulldozer",
-    "imgUrl": "https://images1.vinted.net/t/02_00175_GHJB4McV5BfBmJi9aV1qww8p/f800/1726490840.jpeg?s=92d05d4ad3bb3de6a1a5a587ba2d1273e0be6447",
-    "publicationDate": 1726490840,
-    "id": 5055207788
+    "link": "https://www.vinted.fr/items/4587075442-lego-42163",
+    "price": 10.15,
+    "title": "Lego 42163",
+    "imgUrl": "https://images1.vinted.net/t/03_005ec_2jPPz1nkCZj5jzeAV7byt9Yr/f800/1717321869.jpeg?s=69b473274001ae5982954d9986c80602d78b9679",
+    "publicationDate": 1717321869
   },
   {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5356114900-lego-technic-42163-heavy-duty-bulldozer",
-    "price": 8.58,
-    "title": "Lego technic 42163 Heavy-Duty Bulldozer",
-    "imgUrl": "https://images1.vinted.net/t/03_0159f_KVYjhJ8JrMizL1gwyMFqhChp/f800/1731227756.jpeg?s=500322b961c40b04b2f0c53c437ccbc3aee59985",
-    "publicationDate": 1731227756,
-    "id": 5356114900
-  },
-  {
+    "_id": "ea202e6a-0536-5003-92a4-9b2dcfca22e8",
     "legoId": "42163",
     "link": "https://www.vinted.fr/items/4550937824-lego-42163",
     "price": 11.2,
     "title": "Lego 42163",
     "imgUrl": "https://images1.vinted.net/t/01_01279_drP16YWkPKoGon2TZQ6KPsbV/f800/1716628251.jpeg?s=fcba6c8022af082f505373c066e28c5172b64ccf",
-    "publicationDate": 1716628251,
-    "id": 4550937824
+    "publicationDate": 1716628251
   },
   {
+    "_id": "03a3eaaa-d2f7-57ce-91be-38c961804fd4",
     "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5341426054-3-lego-city-1-technic",
-    "price": 37.45,
-    "title": "3 Lego City + 1 Technic",
-    "imgUrl": "https://images1.vinted.net/t/02_0146a_Vd2QNsZEoEBxRis6X8kJp9wM/f800/1730955006.jpeg?s=790135f8104f7cce5a898951784acc4b4d8c1b5a",
-    "publicationDate": 1730955006,
-    "id": 5341426054
+    "link": "https://www.vinted.fr/items/5055207788-lego-technic-42163-schwerlast-bulldozer",
+    "price": 5.95,
+    "title": "Lego Technic 42163 Schwerlast Bulldozer",
+    "imgUrl": "https://images1.vinted.net/t/02_00175_GHJB4McV5BfBmJi9aV1qww8p/f800/1726490840.jpeg?s=92d05d4ad3bb3de6a1a5a587ba2d1273e0be6447",
+    "publicationDate": 1726490840
   },
   {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/4744544264-lego-technic-42163",
-    "price": 11.2,
-    "title": "Lego Technic 42163",
-    "imgUrl": "https://images1.vinted.net/t/02_002b7_aAJDfqTYoDhyhss1rGEqqrAB/f800/1720540239.jpeg?s=21ee3f3c9d05c34a26f72d43d4a08d3355e0d3f4",
-    "publicationDate": 1720540239,
-    "id": 4744544264
-  },
-  {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5162795595-lego-technic-zware-bulldozer-42163-nieuw-in-verpakking",
-    "price": 11.19,
-    "title": "LEGO Technic Zware bulldozer # 42163 nieuw in verpakking",
-    "imgUrl": "https://images1.vinted.net/t/03_0218b_S7APK94qqcEmDtz6BMfA7Kx9/f800/1728137414.jpeg?s=30f39d9eef0bd97cdf3b0e054e1dd79a07b7df23",
-    "publicationDate": 1728137414,
-    "id": 5162795595
-  },
-  {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5103377714-lego-technik-42163",
-    "price": 10.15,
-    "title": "Lego Technik 42163",
-    "imgUrl": "https://images1.vinted.net/t/01_023ba_76KsDvdXdtygZftY3Gk8BKex/f800/1727237032.jpeg?s=3c8a8a792493e69c9070482e343261b6d0ea650b",
-    "publicationDate": 1727237032,
-    "id": 5103377714
-  },
-  {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5288654360-legor-technic-42163-le-bulldozer",
-    "price": 9.1,
-    "title": "LEGO® Technic 42163 - Le Bulldozer",
-    "imgUrl": "https://images1.vinted.net/t/04_024d0_hXG8dSWrmKegFjA24a93uirr/f800/1730051495.jpeg?s=63aa6ee1e29280bfcaf0a063887353fcd2169419",
-    "publicationDate": 1730051495,
-    "id": 5288654360
-  },
-  {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5286957248-lego-technic-bulldozer-hummer-h2-en-3d",
-    "price": 10.15,
-    "title": "Lego technic Bulldozer + Hummer H2 en 3D",
-    "imgUrl": "https://images1.vinted.net/t/02_0136d_kBFRnnnFxrctZ5zXY9xGdoJ2/f800/1730040092.jpeg?s=039464e40bc5e3d697454d0c03a6cf41870227bc",
-    "publicationDate": 1730040092,
-    "id": 5286957248
-  },
-  {
-    "legoId": "42163",
-    "link": "https://www.vinted.fr/items/4915121657-lego-tecnic-42163",
-    "price": 15.4,
-    "title": "Lego tecnic 42163",
-    "imgUrl": "https://images1.vinted.net/t/01_0166a_ZQULpdi5NBzRF3ZmdvQaCpNn/f800/1724185440.jpeg?s=3e32b722983c4fc069bfee2db544ebb788b5a094",
-    "publicationDate": 1724185440,
-    "id": 4915121657
-  },
-  {
+    "_id": "65978bb3-ae83-5d6f-a1cb-d53a06dfce0b",
     "legoId": "42163",
     "link": "https://www.vinted.fr/items/4494137812-lego-technic-42163-bulldozer-cingolato",
     "price": 9.1,
     "title": "Lego Technic 42163 Bulldozer Cingolato",
     "imgUrl": "https://images1.vinted.net/t/02_00e44_YoHb7C6Mh7djugJxNLfD3WFa/f800/1715530943.jpeg?s=95d8a8f0213b16e319619042321256d5df06ddfc",
-    "publicationDate": 1715530943,
-    "id": 4494137812
+    "publicationDate": 1715530943
   },
   {
+    "_id": "b760684a-1fa2-5d06-8ef0-bfeffd69aadf",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5286957248-lego-technic-bulldozer-hummer-h2-en-3d",
+    "price": 10.15,
+    "title": "Lego technic Bulldozer + Hummer H2 en 3D",
+    "imgUrl": "https://images1.vinted.net/t/02_0136d_kBFRnnnFxrctZ5zXY9xGdoJ2/f800/1730040092.jpeg?s=039464e40bc5e3d697454d0c03a6cf41870227bc",
+    "publicationDate": 1730040092
+  },
+  {
+    "_id": "bc4f10a9-2c16-5fc5-adf6-c4b5719fa5b4",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5103377714-lego-technik-42163",
+    "price": 10.15,
+    "title": "Lego Technik 42163",
+    "imgUrl": "https://images1.vinted.net/t/01_023ba_76KsDvdXdtygZftY3Gk8BKex/f800/1727237032.jpeg?s=3c8a8a792493e69c9070482e343261b6d0ea650b",
+    "publicationDate": 1727237032
+  },
+  {
+    "_id": "639f5983-67d9-5aea-93eb-edd954ebd4c3",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5433965094-lego-technic-42163",
+    "price": 11.2,
+    "title": "Lego Technic 42163",
+    "imgUrl": "https://images1.vinted.net/t/04_000a5_6yN5oq78DxyjSdirB3fwHLtt/f800/1732451705.jpeg?s=81864d2e090fc080f47bd5abe833898a47e4fe16",
+    "publicationDate": 1732451705
+  },
+  {
+    "_id": "951f8ecf-610e-5a5b-8792-f672b1b4cfd2",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5162795595-lego-technic-zware-bulldozer-42163-nieuw-in-verpakking",
+    "price": 11.19,
+    "title": "LEGO Technic Zware bulldozer # 42163 nieuw in verpakking",
+    "imgUrl": "https://images1.vinted.net/t/03_0218b_S7APK94qqcEmDtz6BMfA7Kx9/f800/1728137414.jpeg?s=30f39d9eef0bd97cdf3b0e054e1dd79a07b7df23",
+    "publicationDate": 1728137414
+  },
+  {
+    "_id": "f39e0745-6470-5d18-8266-ea3f8583d7c2",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5341426054-3-lego-city-1-technic",
+    "price": 37.45,
+    "title": "3 Lego City + 1 Technic",
+    "imgUrl": "https://images1.vinted.net/t/02_0146a_Vd2QNsZEoEBxRis6X8kJp9wM/f800/1730955006.jpeg?s=790135f8104f7cce5a898951784acc4b4d8c1b5a",
+    "publicationDate": 1730955006
+  },
+  {
+    "_id": "f84488ba-c038-57c8-9509-5cb4e4c6c81d",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5336873240-lego-technic-ref-42163-le-bulldozer",
+    "price": 11.2,
+    "title": "Lego technic ref 42163 le bulldozer",
+    "imgUrl": "https://images1.vinted.net/t/04_01889_RL7L5t8hCpB9dLfMXeMTrvXh/f800/1730876510.jpeg?s=8080ce3022f97d5e375fa3e0504a42f7f8a2df54",
+    "publicationDate": 1730876510
+  },
+  {
+    "_id": "47dbd217-9b00-52fd-9e0f-f18c362f1c11",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5288654360-legor-technic-42163-le-bulldozer",
+    "price": 9.1,
+    "title": "LEGO® Technic 42163 - Le Bulldozer",
+    "imgUrl": "https://images1.vinted.net/t/04_024d0_hXG8dSWrmKegFjA24a93uirr/f800/1730051495.jpeg?s=63aa6ee1e29280bfcaf0a063887353fcd2169419",
+    "publicationDate": 1730051495
+  },
+  {
+    "_id": "3bef20cd-41b1-5544-86fd-f9e02317a027",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/4744544264-lego-technic-42163",
+    "price": 11.2,
+    "title": "Lego Technic 42163",
+    "imgUrl": "https://images1.vinted.net/t/02_002b7_aAJDfqTYoDhyhss1rGEqqrAB/f800/1720540239.jpeg?s=21ee3f3c9d05c34a26f72d43d4a08d3355e0d3f4",
+    "publicationDate": 1720540239
+  },
+  {
+    "_id": "97bc1268-7a4f-5800-9805-46223429171b",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/4915121657-lego-tecnic-42163",
+    "price": 15.4,
+    "title": "Lego tecnic 42163",
+    "imgUrl": "https://images1.vinted.net/t/01_0166a_ZQULpdi5NBzRF3ZmdvQaCpNn/f800/1724185440.jpeg?s=3e32b722983c4fc069bfee2db544ebb788b5a094",
+    "publicationDate": 1724185440
+  },
+  {
+    "_id": "a3afaed4-fb28-524c-8ff9-5223ea2502e4",
+    "legoId": "42163",
+    "link": "https://www.vinted.fr/items/5356114900-lego-technic-42163-heavy-duty-bulldozer",
+    "price": 8.58,
+    "title": "Lego technic 42163 Heavy-Duty Bulldozer",
+    "imgUrl": "https://images1.vinted.net/t/03_0159f_KVYjhJ8JrMizL1gwyMFqhChp/f800/1731227756.jpeg?s=500322b961c40b04b2f0c53c437ccbc3aee59985",
+    "publicationDate": 1731227756
+  },
+  {
+    "_id": "7dcb8d7b-b826-51cd-804f-757705510616",
     "legoId": "42163",
     "link": "https://www.vinted.fr/items/5342187790-technisch-lego-heftruck-42163",
     "price": 11.2,
     "title": "Technisch lego heftruck 42163",
     "imgUrl": "https://images1.vinted.net/t/04_0065b_RfML5ceKUQ5FpHfGc2d6CVnc/f800/1730974596.jpeg?s=a03e248c033da3a2726a5f2edbd195d6bf3c3925",
-    "publicationDate": 1730974596,
-    "id": 5342187790
+    "publicationDate": 1730974596
   },
   {
+    "_id": "defa2523-a483-5ae4-a72f-7a308be18e2e",
     "legoId": "42163",
-    "link": "https://www.vinted.fr/items/5268254149-lots-lego-technic",
-    "price": 137.2,
-    "title": "Lots  lego technic",
-    "imgUrl": "https://images1.vinted.net/t/02_01048_YwqafER8hL2rpoB4hqci4Euf/f800/1729713144.jpeg?s=e71540c2d9c82dfb14109d3aeaaec31ae8bb350b",
-    "publicationDate": 1729713144,
-    "id": 5268254149
+    "link": "https://www.vinted.fr/items/5417449257-lot-lego-technic",
+    "price": 121.45,
+    "title": "Lot lego technic",
+    "imgUrl": "https://images1.vinted.net/t/01_017ef_X2CrowyjcgZErRzQEHf1ZuX1/f800/1732171752.jpeg?s=d4bed9921a04c4928503a848ae20527a4233f1cd",
+    "publicationDate": 1732171752
   }
 ]

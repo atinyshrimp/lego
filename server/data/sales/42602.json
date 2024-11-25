@@ -1,11 +1,20 @@
 [
   {
+    "_id": "b2343280-a5eb-5249-92f7-089c01d4f571",
+    "legoId": "42602",
+    "link": "https://www.vinted.fr/items/5429983717-lego-42602-le-river-de-recherche-spatiale",
+    "price": 46.9,
+    "title": "Lego 42602 Le river de recherche spatiale",
+    "imgUrl": "https://images1.vinted.net/t/04_004e8_tzjYjfYLUuUC2AdZ8maU7hfw/f800/1732379698.jpeg?s=0b32083a2cfc24a6f4173060230a334b86199b38",
+    "publicationDate": 1732379698
+  },
+  {
+    "_id": "e7d9fd10-242c-51a6-85be-e03c3c9e5c8b",
     "legoId": "42602",
     "link": "https://www.vinted.fr/items/5169739715-lego-friends-le-rover-de-recherche-spaciale-42602",
     "price": 26.95,
     "title": "[Lego] Friends le rover de recherche spaciale 42602",
     "imgUrl": "https://images1.vinted.net/t/02_02202_SfsQdGdnFp9vKLsjn25bPZtp/f800/1728223463.jpeg?s=80e7091e58fa3107d41fb57695b012502f0a8d6f",
-    "publicationDate": 1728223463,
-    "id": 5169739715
+    "publicationDate": 1728223463
   }
 ]

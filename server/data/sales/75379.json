@@ -1,524 +1,551 @@
 [
   {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5372773811-lego-star-wars",
-    "price": 68.95,
-    "title": "Lego . Star wars.",
-    "imgUrl": "https://images1.vinted.net/t/02_00c2e_kxaZJ9cm3Kcqm5EJmKKEz5jp/f800/1731431798.jpeg?s=fb47ff9e1a432bd6440fa3542036498fa9fa3e56",
-    "publicationDate": 1731431798,
-    "id": 5372773811
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5159703556-lego-r2d2-plaque-presentation",
-    "price": 5.95,
-    "title": "Lego R2D2 plaque présentation",
-    "imgUrl": "https://images1.vinted.net/t/03_004bb_UA8rd6EiConT4xQ4bPV9Nzn2/f800/1728108784.jpeg?s=2949242cb4f84913978ec02fb3baf8486f9be9f3",
-    "publicationDate": 1728108784,
-    "id": 5159703556
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5403712796-neuf-lego-star-wars-r2-d2-avec-les-deux-mini-figurines-75379",
-    "price": 67.89,
-    "title": "Neuf Lego Star Wars R2-D2 (avec les deux mini figurines) - 75379",
-    "imgUrl": "https://images1.vinted.net/t/03_011ce_g3TzLzBs55FcLJExm6X6ouAF/f800/1731933823.jpeg?s=8deaa459d5ff334ffd4d0060f46d595d62de524a",
-    "publicationDate": 1731933823,
-    "id": 5403712796
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5390895343-lego-star-wars-75379",
-    "price": 58.45,
-    "title": "Lego star wars 75379",
-    "imgUrl": "https://images1.vinted.net/t/04_00b92_sBWVNVk9haXqefiLwvB2MEjo/f800/1731762262.jpeg?s=ab0d2f3c2c11a70e58fbb6d6abae948d673e242b",
-    "publicationDate": 1731762262,
-    "id": 5390895343
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5380646713-lego-star-wars-r2-d2-75379",
-    "price": 47.95,
-    "title": "Lego Star Wars R2-D2 75379",
-    "imgUrl": "https://images1.vinted.net/t/02_0176f_pGuHgE7b2fwxFuRxD6VEkrpU/f800/1731582043.jpeg?s=29b4c41d9f244709f2f0721a962b167d9b7d336a",
-    "publicationDate": 1731582043,
-    "id": 5380646713
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5325599046-lego-star-wars-75379",
-    "price": 68.95,
-    "title": "Lego star wars 75379",
-    "imgUrl": "https://images1.vinted.net/t/02_011e9_mbEBaWQWGGMyXcKzD71xkEkU/f800/1730658438.jpeg?s=df49608433df5d083e5f6af3652fdf691a094823",
-    "publicationDate": 1730658438,
-    "id": 5325599046
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/4763804756-sticker-lego-star-wars-75379-r2d2",
-    "price": 5.95,
-    "title": "Sticker LEGO Star Wars 75379 : R2D2",
-    "imgUrl": "https://images1.vinted.net/t/02_0181f_42L9A7DQSTmSkgVsSYXTBWUe/f800/1720963631.jpeg?s=91431bec97d37cb45db3900787ff45c9936d8ce9",
-    "publicationDate": 1720963631,
-    "id": 4763804756
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5062636098-lego-star-wars-75379-figura-del-25-aniversario-de-darth-malak-nueva",
-    "price": 30.1,
-    "title": "Lego Star Wars 75379 figura del 25 aniversario de Darth Malak. Nueva",
-    "imgUrl": "https://images1.vinted.net/t/02_023cc_jGDKQgyHacagS8v9npHio8R9/f800/1726593943.jpeg?s=548df1cfb739b5f6aeec7db785d01b5a5129bfdf",
-    "publicationDate": 1726593943,
-    "id": 5062636098
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5349340697-lego-set-75379-r2-d2",
-    "price": 63.7,
-    "title": "Lego set 75379 - R2-D2",
-    "imgUrl": "https://images1.vinted.net/t/04_0083b_L6WcMBKuddqAtFMmcEGScweH/f800/1731090348.jpeg?s=fbee93f8c32132e44f617309ee02829c5c5541e3",
-    "publicationDate": 1731090348,
-    "id": 5349340697
-  },
-  {
+    "_id": "db231d41-b3cf-5b9d-a89e-acc13c4d12d8",
     "legoId": "75379",
     "link": "https://www.vinted.fr/items/5377320578-lego-star-wars-75379-r2-d2",
     "price": 52.15,
     "title": "Lego Star Wars 75379 R2-D2",
     "imgUrl": "https://images1.vinted.net/t/04_01464_uyLVKJaCc6f7GNfC3yMkmWRh/f800/1731512500.jpeg?s=f832e7ccb894eee04877ffe3e8a943adfd0cceae",
-    "publicationDate": 1731512500,
-    "id": 5377320578
+    "publicationDate": 1731512500
   },
   {
+    "_id": "6b8efe76-6717-5d18-8d79-f6f8ab9ba558",
     "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5404552085-lego-star-wars-darth-malak-25-years-of-lsw",
-    "price": 34.3,
-    "title": "LEGO Star Wars Darth Malak 25 Years of LSW",
-    "imgUrl": "https://images1.vinted.net/t/02_0089e_qXWffv5QfQKPvh7XYThPBzSn/f800/1731941269.jpeg?s=c9ff0f4a109682e9159065de7d4adc0898f4e2e8",
-    "publicationDate": 1731941269,
-    "id": 5404552085
+    "link": "https://www.vinted.fr/items/5416749615-lego-star-wars-darth-dark-malak-sw1325",
+    "price": 37.45,
+    "title": "Lego Star Wars Darth Dark Malak Sw1325",
+    "imgUrl": "https://images1.vinted.net/t/04_00df5_TTcHxcBSmFAHe3Xn8fZ4Hhcj/f800/1732134761.jpeg?s=623eb314e64e2931c0a6e77d1c82f51f495658cf",
+    "publicationDate": 1732134761
   },
   {
+    "_id": "3e7fa75c-c972-5baf-9724-abbdd98fad6c",
     "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5377169975-lego-75379-r2d2",
-    "price": 79.45,
-    "title": "Lego 75379 r2d2",
-    "imgUrl": "https://images1.vinted.net/t/04_01a71_TyYVGxAZLFw3Por785joywuj/f800/1731510653.jpeg?s=38072a8e0687e195cd0209a161f9a21e753960a5",
-    "publicationDate": 1731510653,
-    "id": 5377169975
+    "link": "https://www.vinted.fr/items/5437388801-lego-star-wars-r2-d2-sin-darth-malak",
+    "price": 58.45,
+    "title": "Lego star wars r2-d2 sin darth malak",
+    "imgUrl": "https://images1.vinted.net/t/02_01e05_3VygVukoK7kTLBd3nD6ST9Em/f800/1732473462.jpeg?s=d577608e95546f2a22407a3de396efd941e1c278",
+    "publicationDate": 1732473462
   },
   {
+    "_id": "02ef07c2-e57b-5b40-9640-315c2b4fadad",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5325599046-lego-star-wars-75379",
+    "price": 68.95,
+    "title": "Lego star wars 75379",
+    "imgUrl": "https://images1.vinted.net/t/02_011e9_mbEBaWQWGGMyXcKzD71xkEkU/f800/1730658438.jpeg?s=df49608433df5d083e5f6af3652fdf691a094823",
+    "publicationDate": 1730658438
+  },
+  {
+    "_id": "04480892-612f-5d13-a943-5e8dd3e19431",
     "legoId": "75379",
     "link": "https://www.vinted.fr/items/5307527274-lego-star-wars-75379",
     "price": 67.9,
     "title": "Lego star Wars 75379",
     "imgUrl": "https://images1.vinted.net/t/03_0136a_1m5JSHHAX738eagXuTdWAqMm/f800/1730384237.jpeg?s=13546c29441058ab1db410c1ca4964e301d5538a",
-    "publicationDate": 1730384237,
-    "id": 5307527274
+    "publicationDate": 1730384237
   },
   {
+    "_id": "152eaf18-39d8-5c0f-a438-22dc8918155d",
     "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5402217959-lego-r2-d2-star-wars-75379-novo",
+    "link": "https://www.vinted.fr/items/5159703556-lego-r2d2-plaque-presentation",
+    "price": 5.95,
+    "title": "Lego R2D2 plaque présentation",
+    "imgUrl": "https://images1.vinted.net/t/03_004bb_UA8rd6EiConT4xQ4bPV9Nzn2/f800/1728108784.jpeg?s=2949242cb4f84913978ec02fb3baf8486f9be9f3",
+    "publicationDate": 1728108784
+  },
+  {
+    "_id": "08d50c26-fb4d-54ce-ad48-b8e335acfe99",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5438347320-lego-star-wars-r2d2-75379",
+    "price": 82.08,
+    "title": "Lego star wars R2D2 75379",
+    "imgUrl": "https://images1.vinted.net/t/03_0094c_31askGrb7tDDzmtKGLzDkw3o/f800/1732482573.jpeg?s=8a9cef6bcd8d26927dc7689df4a2b01716a33718",
+    "publicationDate": 1732482573
+  },
+  {
+    "_id": "3487b224-351f-58eb-aeae-d8f31675ae3c",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5435056145-lego-75379-r2-d2",
     "price": 68.95,
-    "title": "Lego R2-D2 Star Wars 75379 Novo",
-    "imgUrl": "https://images1.vinted.net/t/03_017a4_V5YiiuytFh4G3ewtTyoS9dHB/f800/1731916990.jpeg?s=769761a45c7c88f9f8d334f5372544b364143af0",
-    "publicationDate": 1731916990,
-    "id": 5402217959
+    "title": "Lego 75379 R2-D2",
+    "imgUrl": "https://images1.vinted.net/t/03_00c1a_T984Y3F4EYhd4ZdVpgHJHn1N/f800/1732458301.jpeg?s=65c71401223db66e9faa0cfd288d607bdbcc39fc",
+    "publicationDate": 1732458301
   },
   {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/4607631198-lego-star-wars-75379-r2-d2-minifigure-malak-assente",
-    "price": 68.94,
-    "title": "LEGO Star Wars 75379 R2-D2, minifigure Malak assente",
-    "imgUrl": "https://images1.vinted.net/t/01_0227d_kgyEbfdjxQNmhvJBbvYbWRkL/f800/1717693444.jpeg?s=0d61cec0be1ded837482adac90199782d64e8aab",
-    "publicationDate": 1717693444,
-    "id": 4607631198
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5355010746-lego-75379-starwars",
-    "price": 73.15,
-    "title": "Lego 75379 Starwars",
-    "imgUrl": "https://images1.vinted.net/t/04_01ea5_wYfLEs3Wct62NVYpXYm4n8H2/f800/1731181294.jpeg?s=64b953fe9877d4f661ec768eff46d7457d115332",
-    "publicationDate": 1731181294,
-    "id": 5355010746
-  },
-  {
+    "_id": "5fce1298-1345-5857-9d86-cf182cc8ec53",
     "legoId": "75379",
     "link": "https://www.vinted.fr/items/5375223614-lego-star-wars-75379",
     "price": 76.3,
     "title": "Lego star wars 75379",
     "imgUrl": "https://images1.vinted.net/t/04_0003b_PEQ9uH5YKk9UoWsgCvEkx6fS/f800/1731492157.jpeg?s=ada527ba7a39da321ff0b1430ecca67ead0f9121",
-    "publicationDate": 1731492157,
-    "id": 5375223614
+    "publicationDate": 1731492157
   },
   {
+    "_id": "da93d93b-4320-565d-8135-265df7b11f94",
     "legoId": "75379",
-    "link": "https://www.vinted.fr/items/4856624818-lego-starwars-minifigura-darth-malak",
-    "price": 37.45,
-    "title": "Lego StarWars minifigura Darth Malak",
-    "imgUrl": "https://images1.vinted.net/t/01_01b14_uUhMt3H8ugZhQs365oucKPDq/f800/1722974844.jpeg?s=ca32ed5e7d20c3646ea26e0995d2686c49a78c74",
-    "publicationDate": 1722974844,
-    "id": 4856624818
+    "link": "https://www.vinted.fr/items/5439785929-lego-star-wars-75379-neuf-mais-sans-la-figurine-de-darth-malak",
+    "price": 53.2,
+    "title": "Lego star wars 75379 neuf MAIS sans la figurine de Darth Malak",
+    "imgUrl": "https://images1.vinted.net/t/04_01c9a_BvaNSq2JC7gyVnovHp7B1Uy7/f800/1732532049.jpeg?s=ae5e99a159547fef6d92187875f5ef91bfb4bd0e",
+    "publicationDate": 1732532049
   },
   {
+    "_id": "3a03a30c-79a7-5ce0-b7ac-42bd530baf1b",
     "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5381246179-lego-star-wars-75379-new",
+    "link": "https://www.vinted.fr/items/4763804756-sticker-lego-star-wars-75379-r2d2",
+    "price": 5.95,
+    "title": "Sticker LEGO Star Wars 75379 : R2D2",
+    "imgUrl": "https://images1.vinted.net/t/02_0181f_42L9A7DQSTmSkgVsSYXTBWUe/f800/1720963631.jpeg?s=91431bec97d37cb45db3900787ff45c9936d8ce9",
+    "publicationDate": 1720963631
+  },
+  {
+    "_id": "fab49da7-10c7-5533-9f47-27455b76bd51",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5430220041-lego-star-wars-75379-r2-d2",
+    "price": 63.7,
+    "title": "Lego Star Wars 75379 R2-D2",
+    "imgUrl": "https://images1.vinted.net/t/04_01ecf_VNkgzb7y5hQBX2iQ2igvWzKd/f800/1732381878.jpeg?s=1c7adf5c5b8a7050f891ee2252b78ce21bf97f5f",
+    "publicationDate": 1732381878
+  },
+  {
+    "_id": "544ed7cf-dccb-5ca2-bf05-c9fa25b830bc",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5435843788-lego-star-wars-d2-r2-75379",
+    "price": 82.6,
+    "title": "Lego star wars D2-R2 75379",
+    "imgUrl": "https://images1.vinted.net/t/04_00729_VS3Z5HZdWmTLRfuHdRA6TLtA/f800/1732462842.jpeg?s=37777290f00163aa173b6a266cbeb432068f57b6",
+    "publicationDate": 1732462842
+  },
+  {
+    "_id": "90e61546-4452-5854-834d-de7f6456aebe",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5424573693-lego-r2-d2",
+    "price": 84.7,
+    "title": "lego R2-D2",
+    "imgUrl": "https://images1.vinted.net/t/04_0245d_PvRAuTUhXA3UvdJZ1Efv2PTM/f800/1732290063.jpeg?s=b9908b096f11c60f98d5cda5fedd06102f41cc5b",
+    "publicationDate": 1732290063
+  },
+  {
+    "_id": "ce70c6f2-8a8f-5607-9993-edc375921c9c",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5349340697-lego-set-75379-r2-d2",
+    "price": 63.7,
+    "title": "Lego set 75379 - R2-D2",
+    "imgUrl": "https://images1.vinted.net/t/04_0083b_L6WcMBKuddqAtFMmcEGScweH/f800/1731090348.jpeg?s=fbee93f8c32132e44f617309ee02829c5c5541e3",
+    "publicationDate": 1731090348
+  },
+  {
+    "_id": "ee8bc074-3a18-5c1c-ae10-8e38879d8070",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5355010746-lego-75379-starwars",
+    "price": 73.15,
+    "title": "Lego 75379 Starwars",
+    "imgUrl": "https://images1.vinted.net/t/04_01ea5_wYfLEs3Wct62NVYpXYm4n8H2/f800/1731181294.jpeg?s=64b953fe9877d4f661ec768eff46d7457d115332",
+    "publicationDate": 1731181294
+  },
+  {
+    "_id": "03fcc6d4-fc82-508e-9adc-fcb29d55f9bc",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5317470842-lego-75379-star-wars-r2-d2",
+    "price": 68.95,
+    "title": "Lego 75379 - Star Wars - R2-D2",
+    "imgUrl": "https://images1.vinted.net/t/04_0234a_3jJK163kik1wveTQBHMQR3mZ/f800/1730559627.jpeg?s=055fe1933e80ea52cde94e69c93e0f78ceab7470",
+    "publicationDate": 1730559627
+  },
+  {
+    "_id": "b0f32821-47ec-5ec2-a93e-b1b142071a77",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5377169975-lego-75379-r2d2",
     "price": 79.45,
-    "title": "Lego star wars 75379 new!",
-    "imgUrl": "https://images1.vinted.net/t/04_00c12_qYawu9cYdA3zD6HQVFzkmkHu/f800/1731588282.jpeg?s=acc88c18a7b053967f13df1a17591b85155ad607",
-    "publicationDate": 1731588282,
-    "id": 5381246179
+    "title": "Lego 75379 r2d2",
+    "imgUrl": "https://images1.vinted.net/t/04_01a71_TyYVGxAZLFw3Por785joywuj/f800/1731510653.jpeg?s=38072a8e0687e195cd0209a161f9a21e753960a5",
+    "publicationDate": 1731510653
   },
   {
+    "_id": "cc9493b6-d8d5-5dc7-abff-c2cdf405464c",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5404552085-lego-star-wars-darth-malak-25-years-of-lsw",
+    "price": 34.3,
+    "title": "LEGO Star Wars Darth Malak 25 Years of LSW",
+    "imgUrl": "https://images1.vinted.net/t/02_0089e_qXWffv5QfQKPvh7XYThPBzSn/f800/1731941269.jpeg?s=c9ff0f4a109682e9159065de7d4adc0898f4e2e8",
+    "publicationDate": 1731941269
+  },
+  {
+    "_id": "6b3a7e9e-f7ca-5a65-8f59-b6939d0f4062",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5430069570-lego-75379-star-wars-r2-d2",
+    "price": 79.45,
+    "title": "Lego 75379 - Star Wars  - R2-D2",
+    "imgUrl": "https://images1.vinted.net/t/04_01611_QHgnYtAEsfiS8zFcV447yJRn/f800/1732380472.jpeg?s=8eedba35f02ced5b63abafc1992c5f4138865c4b",
+    "publicationDate": 1732380472
+  },
+  {
+    "_id": "da621fa9-bb43-59d3-a617-97e19db6c125",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5413424901-lego-star-wars-75379-sin-figura-de-darth-malak",
+    "price": 57.4,
+    "title": "Lego Star Wars 75379 sin figura de Darth Malak",
+    "imgUrl": "https://images1.vinted.net/t/04_003cb_eMkGFX7Vg1TnzckRsorKdh8b/f800/1732101302.jpeg?s=594044b0b7d8a290cd7d14bbb98ef108f940185a",
+    "publicationDate": 1732101302
+  },
+  {
+    "_id": "2f76ba39-aaf2-5d91-8527-12724d73bd5b",
     "legoId": "75379",
     "link": "https://www.vinted.fr/items/5328772954-lego-star-wars-75379-r2-d2",
     "price": 68.95,
     "title": "Lego star wars 75379 r2-d2",
     "imgUrl": "https://images1.vinted.net/t/03_002f6_hkcNDwUGVZ4r3WjzrDPtUvNx/f800/1730724861.jpeg?s=ee75d79fc6ec3ed53dc89156757777ec092d2436",
-    "publicationDate": 1730724861,
-    "id": 5328772954
+    "publicationDate": 1730724861
   },
   {
+    "_id": "7a363003-d1b9-5ad4-b4ee-b5a9c6c06649",
     "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5369522482-lego-r2-d2-75379-star-wars-nuevo-precintado",
+    "link": "https://www.vinted.fr/items/5439413836-lego-star-wars-r2d2-75379-30",
     "price": 74.2,
-    "title": "Lego R2 D2 75379 star wars nuevo precintado",
-    "imgUrl": "https://images1.vinted.net/t/04_01b01_27wzYWbtVG9EfyZ2BFM7Hbh8/f800/1731390386.jpeg?s=d23a62881ffcd88fdd5ef66584ceb14ab3d0fdff",
-    "publicationDate": 1731390386,
-    "id": 5369522482
+    "title": "Lego Star wars R2D2 75379 -30%",
+    "imgUrl": "https://images1.vinted.net/t/04_01847_z3ZRryALdKS85LpFQqN64W4e/f800/1732527949.jpeg?s=d35c9bd10c393764e187be1525a13518d1ab1526",
+    "publicationDate": 1732527949
   },
   {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5395884425-lego-star-wars-75379",
-    "price": 74.2,
-    "title": "LEGO Star Wars 75379",
-    "imgUrl": "https://images1.vinted.net/t/04_024a8_V5ZKdQ3yzgKgjkFNh36Ycowu/f800/1731841554.jpeg?s=4899cd7296b5a8dc9b6e721ec823cd8505889c95",
-    "publicationDate": 1731841554,
-    "id": 5395884425
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5388096025-lego-75398-e-75379-star-wars",
-    "price": 188.65,
-    "title": "Lego 75398 e 75379 star wars",
-    "imgUrl": "https://images1.vinted.net/t/04_008ff_U1jbXRjP2WdjZYdRwLBL1Fkk/f800/1731699677.jpeg?s=d01dad17aacd71dea25e267a19d5fac2e588920f",
-    "publicationDate": 1731699677,
-    "id": 5388096025
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5293739894-lego-75379",
-    "price": 61.6,
-    "title": "Lego 75379",
-    "imgUrl": "https://images1.vinted.net/t/04_00d2c_K1GKPi1Zons4FB11xu43tuC3/f800/1730133569.jpeg?s=9fd103d40d7eabf74257afcd91e01c976891886f",
-    "publicationDate": 1730133569,
-    "id": 5293739894
-  },
-  {
+    "_id": "6248d8d0-e7c8-561f-a75e-912e53347307",
     "legoId": "75379",
     "link": "https://www.vinted.fr/items/5226835599-lego-star-wars-darth-malak-sw1325",
-    "price": 42.7,
+    "price": 40.6,
     "title": "Lego Star Wars - Darth Malak - SW1325",
     "imgUrl": "https://images1.vinted.net/t/03_019f3_D2UXobHDCMMyGBXJx916gv3Y/f800/1729081061.jpeg?s=b7be2ef9e48daa112c5fd9a94df1da2a4da0bb12",
-    "publicationDate": 1729081061,
-    "id": 5226835599
+    "publicationDate": 1729081061
   },
   {
+    "_id": "e5d40da2-9b09-5fc5-b906-12e4c1462e86",
     "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5378732064-lego-75379-r2-d2-darth-malak-included",
-    "price": 74.2,
-    "title": "LEGO 75379 R2-D2 / Darth Malak included",
-    "imgUrl": "https://images1.vinted.net/t/03_00872_YD6KwEJ7rnXe1yxLR53UfRDr/f800/1731526884.jpeg?s=298877cd6c4101af4ccb0c42b0ea7450dc873674",
-    "publicationDate": 1731526884,
-    "id": 5378732064
+    "link": "https://www.vinted.fr/items/4607631198-lego-star-wars-75379-r2-d2-minifigure-malak-assente",
+    "price": 68.94,
+    "title": "LEGO Star Wars 75379 R2-D2, minifigure Malak assente",
+    "imgUrl": "https://images1.vinted.net/t/01_0227d_kgyEbfdjxQNmhvJBbvYbWRkL/f800/1717693444.jpeg?s=0d61cec0be1ded837482adac90199782d64e8aab",
+    "publicationDate": 1717693444
   },
   {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5354230506-lego-75379-r2-d2-star-wars",
-    "price": 84.6,
-    "title": "Lego 75379 R2-D2\nStar wars",
-    "imgUrl": "https://images1.vinted.net/t/02_006ef_moy4P54nCpsepRGehpV9EefW/f800/1731172276.jpeg?s=f5606aa59c446d98df6764ee884d0a057d626db7",
-    "publicationDate": 1731172276,
-    "id": 5354230506
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5313480805-lego-75379-r2-d2-new",
-    "price": 76.3,
-    "title": "Lego 75379 R2-D2 *new",
-    "imgUrl": "https://images1.vinted.net/t/02_01eed_81Yujr3NmQs67nrj9gVHZBv6/f800/1730486424.jpeg?s=2102f206cce0cdeb34f3397aea2bf2cc33fca14b",
-    "publicationDate": 1730486424,
-    "id": 5313480805
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5383815684-lego-star-wars-75379-r2d2-neuf-et-scelle",
-    "price": 79.45,
-    "title": "Lego Star Wars 75379 R2D2 NEUF et scellé",
-    "imgUrl": "https://images1.vinted.net/t/03_00af2_NRoAhLW3BM1gYGHgK9vzNzrt/f800/1731616522.jpeg?s=ca9d87aef7d4bfe235eaa95f0e2332148add81f0",
-    "publicationDate": 1731616522,
-    "id": 5383815684
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5159467073-lego-75379",
-    "price": 93.1,
-    "title": "Lego 75379",
-    "imgUrl": "https://images1.vinted.net/t/02_0184a_yUvNJRf4ULMTHyKkTnSwvZDr/f800/1728079885.jpeg?s=8f2e2de2292c5b281cc8f0d4247c1418a71d4d74",
-    "publicationDate": 1728079885,
-    "id": 5159467073
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5389085581-lego-75379",
-    "price": 74.2,
-    "title": "Lego 75379",
-    "imgUrl": "https://images1.vinted.net/t/04_0091f_1ehME8RQuAHxZWv4MYmK9o2z/f800/1731745117.jpeg?s=6aaf0d5aba2675dd4fdd1172faaad063b84c9f12",
-    "publicationDate": 1731745117,
-    "id": 5389085581
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5374382196-lego-75379-rd-d2",
-    "price": 79.45,
-    "title": "Lego 75379 Rd-D2",
-    "imgUrl": "https://images1.vinted.net/t/04_01407_qhWdnTcfz2omAj24z1SjaWkM/f800/1731452604.jpeg?s=1e6f47e071fdfefb9a8fc020f0e29b2490cb6bb0",
-    "publicationDate": 1731452604,
-    "id": 5374382196
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5317266993-lego-75379",
-    "price": 79.45,
-    "title": "Lego 75379",
-    "imgUrl": "https://images1.vinted.net/t/04_024df_8upwWyJQVnjKgocohfei2471/f800/1730558136.jpeg?s=d93fb931979ad54df61b14c5826fbaaf93fda6d7",
-    "publicationDate": 1730558136,
-    "id": 5317266993
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5317470842-lego-75379-star-wars-r2-d2",
-    "price": 74.2,
-    "title": "Lego 75379 - Star Wars - R2-D2",
-    "imgUrl": "https://images1.vinted.net/t/04_0234a_3jJK163kik1wveTQBHMQR3mZ/f800/1730559627.jpeg?s=055fe1933e80ea52cde94e69c93e0f78ceab7470",
-    "publicationDate": 1730559627,
-    "id": 5317470842
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5317033461-lego-star-wars-75379",
-    "price": 79.45,
-    "title": "LEGO Star Wars 75379",
-    "imgUrl": "https://images1.vinted.net/t/02_0029b_oLRRvPXsSA2VPE1KaEWvFz9f/f800/1730556418.jpeg?s=c7ed83c8ed87a7b41a00ddf3bb1a33715db293a4",
-    "publicationDate": 1730556418,
-    "id": 5317033461
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5313630101-lego-starwars-75379-novo-e-selado",
-    "price": 74.2,
-    "title": "LEGO StarWars 75379 - Novo e Selado",
-    "imgUrl": "https://images1.vinted.net/t/04_02407_m3odMaaBJxnTv7vyEg1VvU1r/f800/1730488406.jpeg?s=82a74ad7c1c4b58e27fa22e6d4a45455a13bc511",
-    "publicationDate": 1730488406,
-    "id": 5313630101
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5370741241-lego-r2-d2-75379",
-    "price": 79.45,
-    "title": "Lego R2-D2 75379",
-    "imgUrl": "https://images1.vinted.net/t/04_00f77_q668RSR5spPhvBj1xshEj3AN/f800/1731411695.jpeg?s=91889fca4537b5e70572540bd3b20b58afe743d9",
-    "publicationDate": 1731411695,
-    "id": 5370741241
-  },
-  {
+    "_id": "f60d5efe-9bc4-5ee3-913b-1cd7285a531b",
     "legoId": "75379",
     "link": "https://www.vinted.fr/items/5396215190-lego-star-wars-75379-sem-minifiguras",
     "price": 68.95,
     "title": "LEGO Star Wars 75379 - sem minifiguras",
     "imgUrl": "https://images1.vinted.net/t/04_0085b_y4WqLVMUahdWBRgCimgUyGFJ/f800/1731843538.jpeg?s=18dd8c0aa9ea7314249db6deddfd3cf991181ffd",
-    "publicationDate": 1731843538,
-    "id": 5396215190
+    "publicationDate": 1731843538
   },
   {
+    "_id": "9309cd70-33ee-5cc3-8019-e9a78c1cd3ea",
     "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5326846072-lego-star-wars",
-    "price": 105.7,
-    "title": "Lego star wars",
-    "imgUrl": "https://images1.vinted.net/t/04_009b0_Q5kJdDHhMgeCSktd2ikhD3wX/f800/1730672244.jpeg?s=03e5233b4a574bca5bf50fb20867a8172ccf273c",
-    "publicationDate": 1730672244,
-    "id": 5326846072
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5214904604-lego-star-wars-r2-d2-ref-75379",
-    "price": 84.7,
-    "title": "Lego Star Wars R2-D2, Ref: 75379",
-    "imgUrl": "https://images1.vinted.net/t/01_0006c_Gmvr6wUNiDbfphuZ269mTQ9z/f800/1728898022.jpeg?s=47d1da5634c8e83548a4af95f79a3b054a98a092",
-    "publicationDate": 1728898022,
-    "id": 5214904604
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5310403868-lego-75379-r2-d2",
-    "price": 79.45,
-    "title": "Lego 75379 R2-D2",
-    "imgUrl": "https://images1.vinted.net/t/04_00cc7_yrzNi8qw5xVydLKLE2gitJt1/f800/1730457610.jpeg?s=3090d0e319df5f58d8aa21de23f8b49b47a51a21",
-    "publicationDate": 1730457610,
-    "id": 5310403868
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5343893124-lego-75379-star-wars-r2-d2-novo-selado",
-    "price": 83.65,
-    "title": "Lego 75379 Star Wars R2-D2 Novo Selado",
-    "imgUrl": "https://images1.vinted.net/t/04_018f5_ebyC9EVLyusjdHFKjPXgLzqn/f800/1730992427.jpeg?s=86c1601c367e1d4a11c0a1462e306dbdf55f7273",
-    "publicationDate": 1730992427,
-    "id": 5343893124
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5145587259-lego-star-wars-75379",
-    "price": 79.44,
+    "link": "https://www.vinted.fr/items/5432856612-lego-star-wars-75379",
+    "price": 74.2,
     "title": "Lego Star Wars 75379",
-    "imgUrl": "https://images1.vinted.net/t/01_01521_PLaP2172vCnTgajcWN2efUbf/f800/1727868778.jpeg?s=84a80029a0a1ea9801956794f2424767dd948684",
-    "publicationDate": 1727868778,
-    "id": 5145587259
+    "imgUrl": "https://images1.vinted.net/t/04_01598_VFLBqUbHsnhCXbLRHhG7Q1MD/f800/1732444462.jpeg?s=6ac4fbe72b3e07fc3504ca73be6038ca14d63ead",
+    "publicationDate": 1732444462
   },
   {
+    "_id": "4c96783e-3874-5abb-ac18-4f5dfcf581bd",
     "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5400071321-lego-75379-star-wars-r2-d2-nuovo",
-    "price": 84.7,
-    "title": "Lego 75379 Star Wars R2-D2 Nuovo",
-    "imgUrl": "https://images1.vinted.net/t/04_010e9_SxhYgghggc4XcWPiDSdY6K5S/f800/1731865598.jpeg?s=d3215d1b913ee2ca859ec7e76a0ffc982232bc76",
-    "publicationDate": 1731865598,
-    "id": 5400071321
+    "link": "https://www.vinted.fr/items/5395884425-lego-star-wars-75379",
+    "price": 74.2,
+    "title": "LEGO Star Wars 75379",
+    "imgUrl": "https://images1.vinted.net/t/04_024a8_V5ZKdQ3yzgKgjkFNh36Ycowu/f800/1731841554.jpeg?s=4899cd7296b5a8dc9b6e721ec823cd8505889c95",
+    "publicationDate": 1731841554
   },
   {
+    "_id": "5b792643-8c85-58f7-aad2-5008dbc64f09",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5383815684-lego-star-wars-75379-r2d2-neuf-et-scelle",
+    "price": 81.55,
+    "title": "Lego Star Wars 75379 R2D2 NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/03_00af2_NRoAhLW3BM1gYGHgK9vzNzrt/f800/1731616522.jpeg?s=ca9d87aef7d4bfe235eaa95f0e2332148add81f0",
+    "publicationDate": 1731616522
+  },
+  {
+    "_id": "c218aed1-4db1-5fae-a3ab-17ff60b312c8",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/4856624818-lego-starwars-75379-minifigura-darth-malak",
+    "price": 37.45,
+    "title": "Lego StarWars 75379 minifigura Darth Malak",
+    "imgUrl": "https://images1.vinted.net/t/01_01b14_uUhMt3H8ugZhQs365oucKPDq/f800/1722974844.jpeg?s=ca32ed5e7d20c3646ea26e0995d2686c49a78c74",
+    "publicationDate": 1722974844
+  },
+  {
+    "_id": "7fd78d82-f018-5fdc-b682-19c33b7c7171",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5438975312-lego-75379-r2-d2",
+    "price": 79.44,
+    "title": "Lego 75379 R2-D2",
+    "imgUrl": "https://images1.vinted.net/t/04_01db0_i2rc7tFxup85P9ShFUMjbr13/f800/1732519725.jpeg?s=fbfa69d20e7ef1a99b843ac8584f0bcf0f47c793",
+    "publicationDate": 1732519725
+  },
+  {
+    "_id": "94d800c3-5bc8-53db-ad1a-834b6320ab92",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5426744380-lego-star-wars-75379-darth-malak-sw1325",
+    "price": 44.8,
+    "title": "Lego Star Wars 75379 Darth Malak Sw1325",
+    "imgUrl": "https://images1.vinted.net/t/04_0226b_eowwWLoFg1t9p5VdkVjD6c7H/f800/1732350981.jpeg?s=979f4d3f67434dbf9eb9902a15ad3422989190d6",
+    "publicationDate": 1732350981
+  },
+  {
+    "_id": "815366b5-fdca-51b9-b42f-10f4e2f799a5",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5313630101-lego-starwars-75379-novo-e-selado",
+    "price": 74.2,
+    "title": "LEGO StarWars 75379 - Novo e Selado",
+    "imgUrl": "https://images1.vinted.net/t/04_02407_m3odMaaBJxnTv7vyEg1VvU1r/f800/1730488406.jpeg?s=82a74ad7c1c4b58e27fa22e6d4a45455a13bc511",
+    "publicationDate": 1730488406
+  },
+  {
+    "_id": "87493be7-16dd-5e60-a605-1bd14b1b0b08",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5370741241-lego-r2-d2-75379",
+    "price": 79.45,
+    "title": "Lego R2-D2 75379",
+    "imgUrl": "https://images1.vinted.net/t/04_00f77_q668RSR5spPhvBj1xshEj3AN/f800/1731411695.jpeg?s=91889fca4537b5e70572540bd3b20b58afe743d9",
+    "publicationDate": 1731411695
+  },
+  {
+    "_id": "c8a09f49-268c-5914-be5c-8f9df22c1667",
     "legoId": "75379",
     "link": "https://www.vinted.fr/items/5267014254-lego-minifigure-darth-malak-set-75379",
     "price": 47.95,
     "title": "Lego Minifigure Darth Malak set 75379",
     "imgUrl": "https://images1.vinted.net/t/04_00d52_JBumyB94dv1qmVwvTR39p65M/f800/1729699139.jpeg?s=798b099560f0bd8734c7a4fda784ec9bea11cd05",
-    "publicationDate": 1729699139,
-    "id": 5267014254
+    "publicationDate": 1729699139
   },
   {
+    "_id": "2254654d-121f-59dd-b86b-76c6105d6323",
     "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5014973952-lego-75379",
-    "price": 74.2,
-    "title": "Lego 75379",
-    "imgUrl": "https://images1.vinted.net/t/01_0104f_438bzRQWkCx8k8ALQD5rRZQe/f800/1725907427.jpeg?s=d8406cb8507dc8085dc792fc059161f790e3311d",
-    "publicationDate": 1725907427,
-    "id": 5014973952
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5194720299-r2d2-y-desert-skiff",
-    "price": 142.45,
-    "title": "R2D2 y Desert skiff",
-    "imgUrl": "https://images1.vinted.net/t/02_01f8a_LKBjX4r6eTzBaktcLA7ho1mx/f800/1728585243.jpeg?s=bfebb8932f24290c17a16f19d0ac6aaef4e77b29",
-    "publicationDate": 1728585243,
-    "id": 5194720299
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5365207149-75379-star-wars-r2-d2-lego",
-    "price": 78.3,
-    "title": "75379 Star Wars R2-D2 LEGO",
-    "imgUrl": "https://images1.vinted.net/t/04_000dc_vp5SP44GqJHzamjBfndHBDGJ/f800/1731329910.jpeg?s=b2ee8b67853e34d3b26776f51216d422e2d6bcf7",
-    "publicationDate": 1731329910,
-    "id": 5365207149
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/4462521927-lego-75379-r2-d2",
+    "link": "https://www.vinted.fr/items/5400071321-lego-75379-star-wars-r2-d2-nuovo",
     "price": 84.7,
-    "title": "Lego 75379 R2-D2",
-    "imgUrl": "https://images1.vinted.net/t/01_024e2_KB1Ayaf1RMooprE2PYDYG67z/f800/1714927144.jpeg?s=10823bd601209e69dd5d87b8e61884b497501636",
-    "publicationDate": 1714927144,
-    "id": 4462521927
+    "title": "Lego 75379 Star Wars R2-D2 Nuovo",
+    "imgUrl": "https://images1.vinted.net/t/04_010e9_SxhYgghggc4XcWPiDSdY6K5S/f800/1731865598.jpeg?s=d3215d1b913ee2ca859ec7e76a0ffc982232bc76",
+    "publicationDate": 1731865598
   },
   {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/4384671765-lego-darth-malak-sw1325-from-75379",
-    "price": 47.95,
-    "title": "LEGO Darth Malak - sw1325  from 75379",
-    "imgUrl": "https://images1.vinted.net/t/03_0145f_JuVXwDFpMxFTGnYLUutMqDhK/f800/1713511483.jpeg?s=182486d29dc8f486914bd8e860b476a377f2596d",
-    "publicationDate": 1713511483,
-    "id": 4384671765
-  },
-  {
+    "_id": "420fd5b0-a98a-5ef3-bb0f-03cab54b7e58",
     "legoId": "75379",
     "link": "https://www.vinted.fr/items/4512020576-lot-lego-75387-tantive-et-75379-r2-d2",
     "price": 95.2,
     "title": "Lot Lego 75387 tantive et 75379 r2-d2",
     "imgUrl": "https://images1.vinted.net/t/01_00c62_R24691vS1CFYRUqqa4pM34gn/f800/1715871858.jpeg?s=625e6a1495ba3e177d01b4265416c8ca1b1e68c4",
-    "publicationDate": 1715871858,
-    "id": 4512020576
+    "publicationDate": 1715871858
   },
   {
+    "_id": "3d351a07-341d-5f90-97f0-f32d1d0ebd55",
     "legoId": "75379",
-    "link": "https://www.vinted.fr/items/4632327135-lego-star-wars-r2d2-edition-speciale-25-ans-75379",
-    "price": 101.49,
-    "title": "Lego Star Wars R2D2 édition spéciale 25 ans ( 75379 )",
-    "imgUrl": "https://images1.vinted.net/t/01_008d9_eichnB9mFDRHXTBTbJXw3iqg/f800/1718189916.jpeg?s=440b99363f2674ec20d6fae99c1a5e0cad83602d",
-    "publicationDate": 1718189916,
-    "id": 4632327135
-  },
-  {
-    "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5282900146-lego-75379",
+    "link": "https://www.vinted.fr/items/5420346702-lego-75379",
     "price": 95.2,
     "title": "lego 75379",
-    "imgUrl": "https://images1.vinted.net/t/04_00cf6_1B6iGy1U3GwmkoyvpxeNLVQ1/f800/1729974835.jpeg?s=c905cb57dd0ea82244200145b809ef1c874d954e",
-    "publicationDate": 1729974835,
-    "id": 5282900146
+    "imgUrl": "https://images1.vinted.net/t/02_008f2_V5FJBNtdHNar9W9nmij8titv/f800/1732207637.jpeg?s=f24f0cb59753437878de225ab3a2098819fead7b",
+    "publicationDate": 1732207637
   },
   {
+    "_id": "4be144bc-8a24-570d-bde3-473b09075e45",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5406639624-lego-star-wars-75379-r2-d2",
+    "price": 84.7,
+    "title": "Lego star wars 75379 R2-D2",
+    "imgUrl": "https://images1.vinted.net/t/04_00559_9pQSVLXisW9Y6QSvP4qjdi6i/f800/1731961920.jpeg?s=434d888c0760502b84434bb1b5a7c74a4c6661bb",
+    "publicationDate": 1731961920
+  },
+  {
+    "_id": "c853a6ad-30d5-575d-826d-953686019061",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5408164263-lego-star-wars-75379-desert-skiff-sarlac-pit",
+    "price": 58.44,
+    "title": "Lego Star Wars 75379 Desert skiff & Sarlac Pit",
+    "imgUrl": "https://images1.vinted.net/t/04_00f35_W1xvZDLm3te6AzhXavWwaF2H/f800/1732012343.jpeg?s=339f1677a27803d1da85051a0a94afb47250743f",
+    "publicationDate": 1732012343
+  },
+  {
+    "_id": "a14e0b81-f203-5492-b0a5-67d3cefed90d",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5426399314-lego-star-wars-75398-e-75379",
+    "price": 184.45,
+    "title": "Lego star wars 75398 e 75379",
+    "imgUrl": "https://images1.vinted.net/t/04_0043c_vnnupgAFzTKxkA7GCNAv7wj6/f800/1732320374.jpeg?s=4fcaef8d403ad9600c96c5e3f21b4558e07086b6",
+    "publicationDate": 1732320374
+  },
+  {
+    "_id": "7d161439-cd15-5332-82ef-68933e5639c8",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5313480805-lego-75379-r2-d2-new",
+    "price": 74.2,
+    "title": "Lego 75379 R2-D2 *new",
+    "imgUrl": "https://images1.vinted.net/t/02_01eed_81Yujr3NmQs67nrj9gVHZBv6/f800/1730486424.jpeg?s=2102f206cce0cdeb34f3397aea2bf2cc33fca14b",
+    "publicationDate": 1730486424
+  },
+  {
+    "_id": "73869207-4490-5901-be78-94350bffd456",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5145587259-lego-star-wars-75379",
+    "price": 79.44,
+    "title": "Lego Star Wars 75379",
+    "imgUrl": "https://images1.vinted.net/t/01_01521_PLaP2172vCnTgajcWN2efUbf/f800/1727868778.jpeg?s=84a80029a0a1ea9801956794f2424767dd948684",
+    "publicationDate": 1727868778
+  },
+  {
+    "_id": "6b1839e5-1f0c-5f4d-a335-28eb8f2633c9",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5426430328-pack-lego-75398-e-75379",
+    "price": 189.7,
+    "title": "Pack Lego 75398 e 75379",
+    "imgUrl": "https://images1.vinted.net/t/03_01877_T8GsY14LvBzBGEy8h9hRYB6V/f800/1732323908.jpeg?s=4d9002142e5358f9d0452b0dae7b400d9cca64d3",
+    "publicationDate": 1732323908
+  },
+  {
+    "_id": "f85b06fb-5dff-5733-a70a-5dcf1dfe41aa",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5433810336-lego-r2d2-75379-nuovo",
+    "price": 74.2,
+    "title": "Lego r2d2 75379 nuovo",
+    "imgUrl": "https://images1.vinted.net/t/04_019f8_UmcsC8LEatKj5GAPh3TCg6JE/f800/1732450703.jpeg?s=32ea269b472ea97b91d65d8acc04d04766ecbcfe",
+    "publicationDate": 1732450703
+  },
+  {
+    "_id": "f7af2dfd-5b65-52cc-afce-eb91ae8d0d1d",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5014973952-lego-75379",
+    "price": 74.2,
+    "title": "Lego 75379",
+    "imgUrl": "https://images1.vinted.net/t/01_0104f_438bzRQWkCx8k8ALQD5rRZQe/f800/1725907427.jpeg?s=d8406cb8507dc8085dc792fc059161f790e3311d",
+    "publicationDate": 1725907427
+  },
+  {
+    "_id": "5929931e-586b-5ef3-9aa0-2662d0351d51",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5159467073-lego-75379",
+    "price": 93.1,
+    "title": "Lego 75379",
+    "imgUrl": "https://images1.vinted.net/t/02_0184a_yUvNJRf4ULMTHyKkTnSwvZDr/f800/1728079885.jpeg?s=8f2e2de2292c5b281cc8f0d4247c1418a71d4d74",
+    "publicationDate": 1728079885
+  },
+  {
+    "_id": "240ca2b9-18b7-5d75-8887-7a32760efc2b",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5381246179-lego-star-wars-75379-new",
+    "price": 79.45,
+    "title": "Lego star wars 75379 new!",
+    "imgUrl": "https://images1.vinted.net/t/04_00c12_qYawu9cYdA3zD6HQVFzkmkHu/f800/1731588282.jpeg?s=acc88c18a7b053967f13df1a17591b85155ad607",
+    "publicationDate": 1731588282
+  },
+  {
+    "_id": "a76ed459-707c-5098-8316-0ff6e475097c",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5326846072-lego-star-wars",
+    "price": 105.7,
+    "title": "Lego star wars",
+    "imgUrl": "https://images1.vinted.net/t/04_009b0_Q5kJdDHhMgeCSktd2ikhD3wX/f800/1730672244.jpeg?s=03e5233b4a574bca5bf50fb20867a8172ccf273c",
+    "publicationDate": 1730672244
+  },
+  {
+    "_id": "d5afa3d8-9f0a-533c-8539-fc71d8acbb1d",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5310403868-lego-75379-r2-d2",
+    "price": 79.45,
+    "title": "Lego 75379 R2-D2",
+    "imgUrl": "https://images1.vinted.net/t/04_00cc7_yrzNi8qw5xVydLKLE2gitJt1/f800/1730457610.jpeg?s=3090d0e319df5f58d8aa21de23f8b49b47a51a21",
+    "publicationDate": 1730457610
+  },
+  {
+    "_id": "f97c2e25-e04f-5596-9e40-bb41ee5bdf2b",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/4384671765-lego-darth-malak-sw1325-from-75379",
+    "price": 47.95,
+    "title": "LEGO Darth Malak - sw1325  from 75379",
+    "imgUrl": "https://images1.vinted.net/t/03_0145f_JuVXwDFpMxFTGnYLUutMqDhK/f800/1713511483.jpeg?s=182486d29dc8f486914bd8e860b476a377f2596d",
+    "publicationDate": 1713511483
+  },
+  {
+    "_id": "099678b5-1275-5667-87e8-64023ad8c3ec",
     "legoId": "75379",
     "link": "https://www.vinted.fr/items/5274572545-lego-star-wars-r2-d2-neuf-set-75379",
     "price": 84.7,
     "title": "LEGO - Star Wars - R2-D2 neuf (Set 75379)",
     "imgUrl": "https://images1.vinted.net/t/04_00f78_WBD3TZdwo2vRNDfVbThB7dme/f800/1729852042.jpeg?s=9a84b9969b348bee1eda4b647b53d9592a991445",
-    "publicationDate": 1729852042,
-    "id": 5274572545
+    "publicationDate": 1729852042
   },
   {
+    "_id": "63a44dc0-c4b2-54bc-bdf7-d22ee8d335dd",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5317033461-lego-star-wars-75379",
+    "price": 79.45,
+    "title": "LEGO Star Wars 75379",
+    "imgUrl": "https://images1.vinted.net/t/02_0029b_oLRRvPXsSA2VPE1KaEWvFz9f/f800/1730556418.jpeg?s=c7ed83c8ed87a7b41a00ddf3bb1a33715db293a4",
+    "publicationDate": 1730556418
+  },
+  {
+    "_id": "2cf4c134-bde1-551f-9da5-74ecf75483cd",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5343893124-lego-75379-star-wars-r2-d2-novo-selado",
+    "price": 83.65,
+    "title": "Lego 75379 Star Wars R2-D2 Novo Selado",
+    "imgUrl": "https://images1.vinted.net/t/04_018f5_ebyC9EVLyusjdHFKjPXgLzqn/f800/1730992427.jpeg?s=86c1601c367e1d4a11c0a1462e306dbdf55f7273",
+    "publicationDate": 1730992427
+  },
+  {
+    "_id": "9b256f41-ff48-5539-8f35-38e58cfa29a3",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5194720299-r2d2-y-desert-skiff",
+    "price": 142.45,
+    "title": "R2D2 y Desert skiff",
+    "imgUrl": "https://images1.vinted.net/t/02_01f8a_LKBjX4r6eTzBaktcLA7ho1mx/f800/1728585243.jpeg?s=bfebb8932f24290c17a16f19d0ac6aaef4e77b29",
+    "publicationDate": 1728585243
+  },
+  {
+    "_id": "880fea24-a6f0-55dd-93c2-829760b9ce3d",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/4632327135-lego-star-wars-r2d2-edition-speciale-25-ans-75379",
+    "price": 101.49,
+    "title": "Lego Star Wars R2D2 édition spéciale 25 ans ( 75379 )",
+    "imgUrl": "https://images1.vinted.net/t/01_008d9_eichnB9mFDRHXTBTbJXw3iqg/f800/1718189916.jpeg?s=440b99363f2674ec20d6fae99c1a5e0cad83602d",
+    "publicationDate": 1718189916
+  },
+  {
+    "_id": "7feefaec-a70f-565a-b241-42f5b4d44168",
+    "legoId": "75379",
+    "link": "https://www.vinted.fr/items/5214904604-lego-star-wars-r2-d2-ref-75379",
+    "price": 84.7,
+    "title": "Lego Star Wars R2-D2, Ref: 75379",
+    "imgUrl": "https://images1.vinted.net/t/01_0006c_Gmvr6wUNiDbfphuZ269mTQ9z/f800/1728898022.jpeg?s=47d1da5634c8e83548a4af95f79a3b054a98a092",
+    "publicationDate": 1728898022
+  },
+  {
+    "_id": "860121a8-5c30-528a-94c4-60a906ff2e06",
     "legoId": "75379",
     "link": "https://www.vinted.fr/items/4292815612-lego-star-wars-75379",
     "price": 95.2,
     "title": "Lego star wars 75379",
     "imgUrl": "https://images1.vinted.net/t/01_01dcb_tgvsd2bSb3ppMit1KAhamD6f/f800/1711811814.jpeg?s=a779a3a6e6d93b3cbcee73b6940a168b5c8104b1",
-    "publicationDate": 1711811814,
-    "id": 4292815612
+    "publicationDate": 1711811814
   },
   {
+    "_id": "f3520c38-9aec-56e2-a4b8-e2c77743226e",
     "legoId": "75379",
     "link": "https://www.vinted.fr/items/4911997837-lego-75379-r2-d2-star-wars-leggi-descrizione",
     "price": 79.45,
     "title": "Lego 75379 - R2-D2 Star Wars (leggi descrizione)",
     "imgUrl": "https://images1.vinted.net/t/02_01a12_fvPvYi6gkc1UY5ToeWXXAVxe/f800/1724152647.jpeg?s=5a3e4a70f591d3ff90fded99dcfcdd13118746f2",
-    "publicationDate": 1724152647,
-    "id": 4911997837
+    "publicationDate": 1724152647
   },
   {
+    "_id": "eabc5334-9fab-54e3-9c73-795eba1afa74",
     "legoId": "75379",
-    "link": "https://www.vinted.fr/items/5141134539-lego-r2-d2",
+    "link": "https://www.vinted.fr/items/4462521927-lego-75379-r2-d2",
     "price": 84.7,
-    "title": "Lego R2-D2",
-    "imgUrl": "https://images1.vinted.net/t/02_0187f_rbtn2eqSWkW71Je6hh3MXHw4/f800/1727790935.jpeg?s=7379e4484e5cb6c03e1859e74e96adf0f242cbaf",
-    "publicationDate": 1727790935,
-    "id": 5141134539
+    "title": "Lego 75379 R2-D2",
+    "imgUrl": "https://images1.vinted.net/t/01_024e2_KB1Ayaf1RMooprE2PYDYG67z/f800/1714927144.jpeg?s=10823bd601209e69dd5d87b8e61884b497501636",
+    "publicationDate": 1714927144
   },
   {
+    "_id": "3974c6cf-2522-51ac-b9a3-067ff891054b",
     "legoId": "75379",
     "link": "https://www.vinted.fr/items/4372174939-set-lego-star-wars",
     "price": 152.95,
     "title": "Set lego star wars",
     "imgUrl": "https://images1.vinted.net/t/01_009e9_amj3waUkTaxKPHT7LHtJfRgA/f800/1713267284.jpeg?s=71d867957dc74af96b76b3d5c2e72e7ff16fecc5",
-    "publicationDate": 1713267284,
-    "id": 4372174939
+    "publicationDate": 1713267284
   }
 ]

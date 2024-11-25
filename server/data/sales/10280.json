@@ -1,821 +1,929 @@
 [
   {
+    "_id": "cb84bf5d-de31-55b8-b367-e6fb1fa72fc9",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5394696198-boite-lego-10280",
-    "price": 2.8,
-    "title": "Boîte Lego 10280",
-    "imgUrl": "https://images1.vinted.net/t/04_0085b_FGGtnk1TCJhDvLdPQcUqeXkX/f800/1731831498.jpeg?s=0bc560c5a1737cd11f28163ae45c9f33547b71f4",
-    "publicationDate": 1731831498,
-    "id": 5394696198
+    "link": "https://www.vinted.fr/items/5433162769-lego-blumenstrauss-10280",
+    "price": 16.45,
+    "title": "Lego Blumenstrauß 10280",
+    "imgUrl": "https://images1.vinted.net/t/02_0006a_rxggBzLF5AJExgSjkavuFwRg/f800/1732446487.jpeg?s=854b554df9eebbba9c0456a598700f46fcf7d3af",
+    "publicationDate": 1732446487
   },
   {
+    "_id": "ddd3b0ae-1786-5280-9f8a-fcce39404d62",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5426524416-lego-10280-blumenstrauss",
+    "price": 25.54,
+    "title": "Lego 10280 Blumenstrauß",
+    "imgUrl": "https://images1.vinted.net/t/01_026c4_awZ7z1KbeS9qtdKMZpMLVqvE/f800/1732344504.jpeg?s=c5d6b12a75dece20e45d7eafedf56d4cd0a7650c",
+    "publicationDate": 1732344504
+  },
+  {
+    "_id": "d0f2fbde-4456-5987-bf2d-be4bde20053a",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5394696198-boite-lego-10280",
+    "price": 2.28,
+    "title": "Boîte Lego 10280",
+    "imgUrl": "https://images1.vinted.net/t/04_0085b_FGGtnk1TCJhDvLdPQcUqeXkX/f800/1731831498.jpeg?s=0bc560c5a1737cd11f28163ae45c9f33547b71f4",
+    "publicationDate": 1731831498
+  },
+  {
+    "_id": "3601ddf9-502f-5494-966e-af0de138149a",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/5394079290-istruzioni-lego-10280-bouquet",
     "price": 4.9,
     "title": "Istruzioni lego 10280 bouquet",
     "imgUrl": "https://images1.vinted.net/t/04_01665_PQqxs4267gJA8DrtAD5Z8hzh/f800/1731792700.jpeg?s=1c155e0cdf07142579068e0b83b5c4da761effb0",
-    "publicationDate": 1731792700,
-    "id": 5394079290
+    "publicationDate": 1731792700
   },
   {
+    "_id": "140eeb7f-0aae-5cb6-9b7e-66e4219f6025",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5350384385-lego-10280-blumenstrauss",
-    "price": 24.75,
-    "title": "Lego 10280 Blumenstrauß",
-    "imgUrl": "https://images1.vinted.net/t/04_00c1a_auhUurJ11LWhJsPMVRJ5n9u2/f800/1731118421.jpeg?s=2c161f53b993120130eaf56757448a103a4fd1ef",
-    "publicationDate": 1731118421,
-    "id": 5350384385
+    "link": "https://www.vinted.fr/items/5438863858-lego-bouquet-de-fleurs-10280-neuf-sceller",
+    "price": 44.8,
+    "title": "Lego bouquet de fleurs 10280 neuf sceller",
+    "imgUrl": "https://images1.vinted.net/t/02_01ef5_EDrvY5TBPY5G6dUqi1FJMRbq/f800/1732509608.jpeg?s=cab71ffe562836e3293cb4a65d145f3b90ae66ba",
+    "publicationDate": 1732509608
   },
   {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5404688939-logo-flower-bouquet-10280",
-    "price": 37.45,
-    "title": "Logo Flower Bouquet 10280",
-    "imgUrl": "https://images1.vinted.net/t/02_0183e_odY9FW1w4V4Ur45arsf8hfq4/f800/1731942584.jpeg?s=7567425b46ad3cc5e4d97f9dc6512dda863a34f9",
-    "publicationDate": 1731942584,
-    "id": 5404688939
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4882380649-lego-10280-bouquet-de-fleurs",
-    "price": 42.7,
-    "title": "Lego 10280 - Bouquet de fleurs",
-    "imgUrl": "https://images1.vinted.net/t/03_02033_oH1eU96Zmo9ba2PreSivQ4mu/f800/1723555098.jpeg?s=f7edd140c3a673d88630263f17febc4e2435e84e",
-    "publicationDate": 1723555098,
-    "id": 4882380649
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4993948798-lego-10280-icons-blumenstrauss",
-    "price": 25.48,
-    "title": "LEGO 10280 Icons Blumenstrauß",
-    "imgUrl": "https://images1.vinted.net/t/03_020fe_VXoUyyPDzzJoAQHyLAivmMgq/f800/1725607509.jpeg?s=303285b495addcdd943520c81d49b7190ce64309",
-    "publicationDate": 1725607509,
-    "id": 4993948798
-  },
-  {
+    "_id": "8eb9c85d-0617-536a-a9e5-48729c1ac1f3",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/4924863396-lege-doos-zonder-instructies-en-figuren-lego-botanical-collection-10280",
     "price": 2.8,
     "title": "lege doos zonder instructies en figuren-lego Botanical collection 10280",
     "imgUrl": "https://images1.vinted.net/t/01_01959_1mmHpR1jgLCG8fZTqKhHGJkg/f800/1724365148.jpeg?s=477fa118111034843252c7949e273587f2aae54b",
-    "publicationDate": 1724365148,
-    "id": 4924863396
+    "publicationDate": 1724365148
   },
   {
+    "_id": "5e321377-b9f3-5ef4-9227-47e556bb6d9d",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4797982581-lego-10280-ovp",
-    "price": 27.9,
-    "title": "lego 10280 ovp",
-    "imgUrl": "https://images1.vinted.net/t/03_00558_vm2FyPAQcH6Uys2vw5iYEXjM/f800/1721719713.jpeg?s=ecbf7246ba2c1b646fea00a9ade3737eb0aacbf2",
-    "publicationDate": 1721719713,
-    "id": 4797982581
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5332896005-flower-bouquet-lego-10280-756pcs",
-    "price": 43.23,
-    "title": "Flower Bouquet Lego - 10280 - 756pcs",
-    "imgUrl": "https://images1.vinted.net/t/01_01de4_VoXu7zSq68TmnQnMRkBFgZ9L/f800/1730802297.jpeg?s=da8cf9204c44aca049b2a9d3cede5cedd91947dd",
-    "publicationDate": 1730802297,
-    "id": 5332896005
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4314463217-lego-10280-fiori-solo-scatola",
-    "price": 7,
-    "title": "LEGO 10280 fiori ( solo scatola )",
-    "imgUrl": "https://images1.vinted.net/t/03_0223a_itjvx19Su3LN2DLHPCVurg6C/f800/1712226471.jpeg?s=fb3888269e5222a07a4811abc2a37628552a6872",
-    "publicationDate": 1712226471,
-    "id": 4314463217
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5244379446-lego-boeket-10280",
-    "price": 42.7,
-    "title": "Lego boeket 10280",
-    "imgUrl": "https://images1.vinted.net/t/03_00590_kYfdCGxqcsae4XxRTPhGNYeB/f800/1729359201.jpeg?s=4187deee940485d8163a9cbd680661f89b3774d0",
-    "publicationDate": 1729359201,
-    "id": 5244379446
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5307468722-lego-blumenstrauss",
-    "price": 16.45,
-    "title": "Lego Blumenstrauß",
-    "imgUrl": "https://images1.vinted.net/t/04_005ee_KPb7twfW5atwRTESj36bvMUy/f800/1730383609.jpeg?s=04f9b89e849160e527ebecd32fb6b6e6aa18bf61",
-    "publicationDate": 1730383609,
-    "id": 5307468722
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5384411872-lego-blumenstrauss",
+    "link": "https://www.vinted.fr/items/5440708026-lego-10280-flower-bouquet-botanical-collection",
     "price": 37.45,
-    "title": "Lego Blumenstrauß",
-    "imgUrl": "https://images1.vinted.net/t/01_01cf1_kohZT5FMDNmMbMW6kb6es6VW/f800/1731674122.jpeg?s=b9362d03fa9629409c3c10457010acc42c984ccb",
-    "publicationDate": 1731674122,
-    "id": 5384411872
+    "title": "LEGO 10280 Flower Bouquet Botanical Collection",
+    "imgUrl": "https://images1.vinted.net/t/04_00c2d_MHnndvMKgSucQrLk3rmxQZoj/f800/1732541555.jpeg?s=35f4f0ceafc416c90e8d4c097991b1d230dd16e0",
+    "publicationDate": 1732541555
   },
   {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5377647195-lego-bouquet-de-fleurs-lego-10280",
-    "price": 42.7,
-    "title": "Lego Bouquet de fleurs ( Lego 10280)",
-    "imgUrl": "https://images1.vinted.net/t/01_01a40_kdcWEkequT5FNQ4wWomtBL54/f800/1731515261.jpeg?s=6e500b8827873dd67fc79ac061272e571ffbedcd",
-    "publicationDate": 1731515261,
-    "id": 5377647195
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5217052208-lego-flower-bouquet-10280-vollstandig-neuwertig",
-    "price": 24.31,
-    "title": "Lego flower Bouquet 10280, vollständig, neuwertig",
-    "imgUrl": "https://images1.vinted.net/t/03_007f1_WihkifUA5X79jHAjSjwxoT2k/f800/1728916583.jpeg?s=fc56944928d188ca311ea914233f95c5446a1f3a",
-    "publicationDate": 1728916583,
-    "id": 5217052208
-  },
-  {
+    "_id": "599d555c-87bc-5d41-9931-4b7292a3b270",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/5363421694-lego-bouquet-fleurs-10280",
     "price": 47.95,
     "title": "Lego bouquet fleurs 10280",
     "imgUrl": "https://images1.vinted.net/t/04_01f84_ddU7nRscge5HfNDrydWw2Zkh/f800/1731316482.jpeg?s=142898bd2c3cb464532f7cabf66f15f066451af7",
-    "publicationDate": 1731316482,
-    "id": 5363421694
+    "publicationDate": 1731316482
   },
   {
+    "_id": "3162da42-829b-5daf-9631-1bd55a65d150",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5190887304-lego-10280-neu-ovp-flower-bouquet-blumenstrauss",
-    "price": 25.03,
-    "title": "Lego 10280 Neu OVP Flower Bouquet Blumenstrauß",
-    "imgUrl": "https://images1.vinted.net/t/01_018b3_xwvVrXpvKZCnTX9tJ8cBDVtv/f800/1728545475.jpeg?s=b6df105685aa8eca77a65b11f69f62f0cb8442ae",
-    "publicationDate": 1728545475,
-    "id": 5190887304
+    "link": "https://www.vinted.fr/items/5426405184-tournesols-40524-legor-iconic-neuf",
+    "price": 16.35,
+    "title": "- Tournesols 40524 - LEGO® Iconic NEUF",
+    "imgUrl": "https://images1.vinted.net/t/03_000e8_wKUXgV1TaKh9vyWzKNRpP19v/f800/1732320891.jpeg?s=5a7ccb6156dc6c193a47a46b2a4a5978ad3d9bb4",
+    "publicationDate": 1732320891
   },
   {
+    "_id": "d562f223-2c28-5768-b216-ec9869ba145f",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5274766364-lego-boeket-10280",
-    "price": 37.45,
-    "title": "LEGO boeket 10280.",
-    "imgUrl": "https://images1.vinted.net/t/03_0264c_n6zS9Ur9pUNWnYa9ASTdYUrh/f800/1731760701.jpeg?s=d4dfba918bed60480effa8316a32ea3969de5af6",
-    "publicationDate": 1731760701,
-    "id": 5274766364
+    "link": "https://www.vinted.fr/items/5440879996-lego-creator-10280-bouquet-de-fleurs-neuf-scelle",
+    "price": 42.7,
+    "title": "Lego Creator 10280 Bouquet de Fleurs Neuf Scellé",
+    "imgUrl": "https://images1.vinted.net/t/03_01c5e_Pm9NJeVnkUY7H2ecpkzUX7q7/f800/1732543178.jpeg?s=95c73a3ae6739930fb72fadfdc9df470f1482483",
+    "publicationDate": 1732543178
   },
   {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5384416695-lego-panda-3in1",
-    "price": 3.85,
-    "title": "Lego Panda 3in1",
-    "imgUrl": "https://images1.vinted.net/t/01_00e9b_QDUHqejsKo4mpmFU1XhR79Yr/f800/1731669335.jpeg?s=0b28ce13cfa13873eca237559eb89a799790a599",
-    "publicationDate": 1731669335,
-    "id": 5384416695
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/1509970593-lego-flower-bouquet-10280-and-rose-40460",
-    "price": 32.2,
-    "title": "LEGO Flower Bouquet 10280 and Rose 40460",
-    "imgUrl": "https://images1.vinted.net/t/03_01662_Wx7jvbRCs5VvAahFfiojVWid/f800/1639513445.jpeg?s=d1a1f12387db32a9211ee29aae0382cf441af256",
-    "publicationDate": 1639513445,
-    "id": 1509970593
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5397754190-lego-10280-blumenstrauss-bausatz-mehrfarbig",
-    "price": 49,
-    "title": "LEGO 10280 Blumenstrauß Bausatz mehrfarbig",
-    "imgUrl": "https://images1.vinted.net/t/03_01464_ALd5fSVPzYxuc4QaPqbhaXEZ/f800/1731852398.jpeg?s=2377fe78e7c4131ac1aa6d69bd5c5a2567c7fb4e",
-    "publicationDate": 1731852398,
-    "id": 5397754190
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5267546531-lego-botanical-collection-flower-bouquet-10280-compleet-met-doos",
-    "price": 37.45,
-    "title": "Lego botanical collection flower bouquet 10280 compleet met doos",
-    "imgUrl": "https://images1.vinted.net/t/03_01f3f_NWeWQ1YVfS8DZMUCkip1GX3j/f800/1729704540.jpeg?s=14aba4fa4f7a1a5f564bbeffbf81bcc871c3e3fc",
-    "publicationDate": 1729704540,
-    "id": 5267546531
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5221874593-lego-icons-10280-bloemen-boeket-the-botanical-collection",
-    "price": 47.95,
-    "title": "LEGO Icons 10280 Bloemen Boeket | The Botanical Collection",
-    "imgUrl": "https://images1.vinted.net/t/03_002e4_FkCsErWqyumpHhVyobNjMkQE/f800/1728997587.jpeg?s=384105972498ddbc19b8ffad425cf849f90d0afa",
-    "publicationDate": 1728997587,
-    "id": 5221874593
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5405489311-lego-10280-blumenstrauss",
-    "price": 25.54,
-    "title": "Lego 10280 Blumenstrauß",
-    "imgUrl": "https://images1.vinted.net/t/01_026c4_awZ7z1KbeS9qtdKMZpMLVqvE/f800/1731950305.jpeg?s=744e2f5ec2fd4017e5da656508fbba5efd9fec90",
-    "publicationDate": 1731950305,
-    "id": 5405489311
-  },
-  {
+    "_id": "7d970981-f7de-5156-8084-6eae5fededd1",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/4830880343-lego-creator-expert-10280-blumenstrauss",
     "price": 31.15,
     "title": "LEGO Creator Expert 10280 Blumenstrauß",
     "imgUrl": "https://images1.vinted.net/t/01_01f3d_T8GYzDm4eQGa9VC4vi2GjbWL/f800/1722435109.jpeg?s=ac0b7ed43f7d8a14de155eadf34dbbf4a18f5166",
-    "publicationDate": 1722435109,
-    "id": 4830880343
+    "publicationDate": 1722435109
   },
   {
+    "_id": "6d0b9619-99c4-5a82-bfec-934ceef8358e",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5217052208-lego-flower-bouquet-10280-vollstandig-neuwertig",
+    "price": 24.31,
+    "title": "Lego flower Bouquet 10280, vollständig, neuwertig",
+    "imgUrl": "https://images1.vinted.net/t/03_007f1_WihkifUA5X79jHAjSjwxoT2k/f800/1728916583.jpeg?s=fc56944928d188ca311ea914233f95c5446a1f3a",
+    "publicationDate": 1728916583
+  },
+  {
+    "_id": "dee034ee-f7b5-5152-b4f5-18a3f8aa8aa1",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5332896005-flower-bouquet-lego-10280-756pcs",
+    "price": 43.23,
+    "title": "Flower Bouquet Lego - 10280 - 756pcs",
+    "imgUrl": "https://images1.vinted.net/t/01_01de4_VoXu7zSq68TmnQnMRkBFgZ9L/f800/1730802297.jpeg?s=da8cf9204c44aca049b2a9d3cede5cedd91947dd",
+    "publicationDate": 1730802297
+  },
+  {
+    "_id": "96ec2cca-382f-56a3-981c-dd35a20f1e80",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5437710436-lego-flower-bouquet-10280",
+    "price": 40.08,
+    "title": "LEGO Flower Bouquet 10280",
+    "imgUrl": "https://images1.vinted.net/t/04_008f3_EVW9tLdic1EMw3u9eH8LMWvo/f800/1732476279.jpeg?s=62d5c392d043312180832a49df7c08e9fff0eee5",
+    "publicationDate": 1732476279
+  },
+  {
+    "_id": "91488ae8-cda9-503f-847c-c03241e4cc4c",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5397754190-lego-10280-blumenstrauss-bausatz-mehrfarbig",
+    "price": 49,
+    "title": "LEGO 10280 Blumenstrauß Bausatz mehrfarbig",
+    "imgUrl": "https://images1.vinted.net/t/03_01464_ALd5fSVPzYxuc4QaPqbhaXEZ/f800/1731852398.jpeg?s=2377fe78e7c4131ac1aa6d69bd5c5a2567c7fb4e",
+    "publicationDate": 1731852398
+  },
+  {
+    "_id": "0b979340-3519-53fe-8287-94d890aa68fd",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4882380649-lego-10280-bouquet-de-fleurs",
+    "price": 42.7,
+    "title": "Lego 10280 - Bouquet de fleurs",
+    "imgUrl": "https://images1.vinted.net/t/03_02033_oH1eU96Zmo9ba2PreSivQ4mu/f800/1723555098.jpeg?s=f7edd140c3a673d88630263f17febc4e2435e84e",
+    "publicationDate": 1723555098
+  },
+  {
+    "_id": "6eb1f8b7-b1ab-5a3a-aebe-13c808a4095b",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5438889853-lego-bouquet-de-fleurs",
+    "price": 42.7,
+    "title": "Lego Bouquet de fleurs",
+    "imgUrl": "https://images1.vinted.net/t/04_01cee_dJefcGkVw1XV4EL3dqBD6qMr/f800/1732514373.jpeg?s=a9d4412bc67468b706b9bfd3acf686b37c5008cc",
+    "publicationDate": 1732514373
+  },
+  {
+    "_id": "258fa415-e4c4-5960-a72f-081546b67817",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5408758648-lego-flower-bouquet-10280",
+    "price": 42.7,
+    "title": "Lego Flower Bouquet 10280",
+    "imgUrl": "https://images1.vinted.net/t/04_00cc7_HbYPgdRyjdtewPHim9BUasTv/f800/1732018457.jpeg?s=7524e9d8570116729dde5374f093d96e8207dafb",
+    "publicationDate": 1732018457
+  },
+  {
+    "_id": "92596232-8f37-590a-85e1-e71628bf0fa8",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4797982581-lego-10280-ovp",
+    "price": 27.9,
+    "title": "lego 10280 ovp",
+    "imgUrl": "https://images1.vinted.net/t/03_00558_vm2FyPAQcH6Uys2vw5iYEXjM/f800/1721719713.jpeg?s=ecbf7246ba2c1b646fea00a9ade3737eb0aacbf2",
+    "publicationDate": 1721719713
+  },
+  {
+    "_id": "2185f45b-a312-5c19-8333-4ccbebc76fe8",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5440949994-lego-10280-flower-bouquet",
+    "price": 37.45,
+    "title": "Lego 10280 Flower Bouquet",
+    "imgUrl": "https://images1.vinted.net/t/04_00b3e_hpboWvbPktyaAcDL1Pj3pwAG/f800/1732543840.jpeg?s=50d97790fd399ec436e801934b4fa8291e477460",
+    "publicationDate": 1732543840
+  },
+  {
+    "_id": "8695d498-157d-5ffe-9fbc-b91701120580",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5307468722-lego-blumenstrauss",
+    "price": 16.45,
+    "title": "Lego Blumenstrauß",
+    "imgUrl": "https://images1.vinted.net/t/04_005ee_KPb7twfW5atwRTESj36bvMUy/f800/1730383609.jpeg?s=04f9b89e849160e527ebecd32fb6b6e6aa18bf61",
+    "publicationDate": 1730383609
+  },
+  {
+    "_id": "6623a3bc-70df-51a2-9fe8-c99b923d612f",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5436414411-lego-bouquet-de-fleurs-10280-neuf",
+    "price": 47.95,
+    "title": "Lego Bouquet de fleurs 10280 neuf",
+    "imgUrl": "https://images1.vinted.net/t/04_001da_xLWrUCwBfdhGNcCTcuY1WHak/f800/1732466413.jpeg?s=c6059af0f0fbe1c85f43649d6dad2344ed78bb42",
+    "publicationDate": 1732466413
+  },
+  {
+    "_id": "d76b9633-0a84-5771-be46-f9f331357a4e",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5395273877-lego-10280-flowers-bouquets",
+    "price": 46.9,
+    "title": "Lego 10280 Flowers bouquets",
+    "imgUrl": "https://images1.vinted.net/t/02_012e4_bco6rbjK8r1ENPrVzZeA85p7/f800/1731837590.jpeg?s=cc0c7544c26190c6e16a4f2b8bb2ce40699f6c3b",
+    "publicationDate": 1731837590
+  },
+  {
+    "_id": "56c4e4a6-a6e2-51fe-9054-86e4ede408ed",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5007155510-lego-flower-from-the-lego-flower-bouquet-set-10280",
+    "price": 3.8,
+    "title": "Lego flower from the Lego flower bouquet set 10280",
+    "imgUrl": "https://images1.vinted.net/t/03_023ae_GCqXuNtXM2Loi8oPQh3gHZWA/f800/1725805865.jpeg?s=86d3f79cb3c1c8e0e0a890fc9e280bdea35ddc79",
+    "publicationDate": 1725805865
+  },
+  {
+    "_id": "e44a26c4-3850-5bcf-a012-c48c7cc23783",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5438683492-lego-10280-bouquet-de-fleurs-neuf-et-scelle",
+    "price": 52.15,
+    "title": "Lego 10280 Bouquet de fleurs NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/02_01b0c_1evJLiWxvk9wNHR2tphirAV1/f800/1732488340.jpeg?s=5228297ba2516010c7eab1e9babc84efbc362a16",
+    "publicationDate": 1732488340
+  },
+  {
+    "_id": "83ac8206-f02a-5f7b-be46-6ac5f4717251",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5190887304-lego-10280-neu-ovp-flower-bouquet-blumenstrauss",
+    "price": 25.03,
+    "title": "Lego 10280 Neu OVP Flower Bouquet Blumenstrauß",
+    "imgUrl": "https://images1.vinted.net/t/01_018b3_xwvVrXpvKZCnTX9tJ8cBDVtv/f800/1728545475.jpeg?s=b6df105685aa8eca77a65b11f69f62f0cb8442ae",
+    "publicationDate": 1728545475
+  },
+  {
+    "_id": "553d678e-84c5-579a-a103-b53f7a81f401",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/4533658349-lego-icons-10280-blumenstrauss",
     "price": 32.2,
     "title": "LEGO Icons 10280 Blumenstrauß",
     "imgUrl": "https://images1.vinted.net/t/01_008f6_XVhsGMXTit3KRaUhaGWwWDob/f800/1716277033.jpeg?s=7674e4052d46f66b510147e45b86cc2f1649ce58",
-    "publicationDate": 1716277033,
-    "id": 4533658349
+    "publicationDate": 1716277033
   },
   {
+    "_id": "d19a1baa-a791-54b4-a57f-b7f924ae8726",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5434839035-lego-10280-bouquet-di-fiori",
+    "price": 52.15,
+    "title": "LEGO 10280, Bouquet di fiori",
+    "imgUrl": "https://images1.vinted.net/t/04_0120f_hmgVTh1fkAJ8BZLpxJ7L5g7Y/f800/1732457040.jpeg?s=1afb7606e76bd9277ecfc850233b383d20e42be7",
+    "publicationDate": 1732457040
+  },
+  {
+    "_id": "3426c0f2-1f0f-51f7-87af-56e8f675ca3a",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5244379446-lego-boeket-10280",
+    "price": 42.7,
+    "title": "Lego boeket 10280",
+    "imgUrl": "https://images1.vinted.net/t/03_00590_kYfdCGxqcsae4XxRTPhGNYeB/f800/1729359201.jpeg?s=4187deee940485d8163a9cbd680661f89b3774d0",
+    "publicationDate": 1729359201
+  },
+  {
+    "_id": "0ec728f9-bc23-59c3-ace7-a385ede157c1",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5432595731-lego-flower-bouquet-10280",
+    "price": 47.95,
+    "title": "Lego Flower Bouquet 10280",
+    "imgUrl": "https://images1.vinted.net/t/04_00fc2_11ykCs7h6dXXJsunMJxsiTLe/f800/1732442520.jpeg?s=f2d2c0e2f9edeea2fe93fb5238f76e0e84315817",
+    "publicationDate": 1732442520
+  },
+  {
+    "_id": "676bfdee-e0ac-5af0-be47-5c73dd134e1e",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5417093621-bundle-lego-flower-bouquet-10280-girasoli-40524",
+    "price": 53.2,
+    "title": "Bundle LEGO Flower Bouquet (10280) + Girasoli (40524)",
+    "imgUrl": "https://images1.vinted.net/t/03_0176f_ztUHTnbgejq3QyzxZfvxjqwg/f800/1732139634.jpeg?s=909f52e9543e03b1cbfceb3f31bb7655c8f56829",
+    "publicationDate": 1732139634
+  },
+  {
+    "_id": "91dea401-6ffb-5685-a912-f6a96a710321",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5384416695-lego-panda-3in1",
+    "price": 3.85,
+    "title": "Lego Panda 3in1",
+    "imgUrl": "https://images1.vinted.net/t/01_00e9b_QDUHqejsKo4mpmFU1XhR79Yr/f800/1731669335.jpeg?s=0b28ce13cfa13873eca237559eb89a799790a599",
+    "publicationDate": 1731669335
+  },
+  {
+    "_id": "b25439ff-c5ea-5695-994e-cdbb3913ef8d",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5359911065-flower-bouquet-10280-lego",
+    "price": 51.09,
+    "title": "Flower Bouquet 10280 LEGO",
+    "imgUrl": "https://images1.vinted.net/t/04_00244_sofVsNZsHvHiXr8rNCkcQPij/f800/1731253410.jpeg?s=a82ef664e03e9807fac74a39dee6982a93c26405",
+    "publicationDate": 1731253410
+  },
+  {
+    "_id": "6163afd5-3602-5696-9212-837979aede27",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/5314735906-lego-10280",
     "price": 40.6,
     "title": "Lego 10280",
     "imgUrl": "https://images1.vinted.net/t/04_02084_5ZuHcKynMb14UCXsx2aenBWC/f800/1730535637.jpeg?s=ea617a37a5e0f90dce1baed7b5a733acefc03f6e",
-    "publicationDate": 1730535637,
-    "id": 5314735906
+    "publicationDate": 1730535637
   },
   {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5209559180-lego-flower-bouquet-10280",
-    "price": 42.7,
-    "title": "Lego flower bouquet 10280",
-    "imgUrl": "https://images1.vinted.net/t/01_00371_Fobumfpjt8oJJEutbxrbBfgD/f800/1728824784.jpeg?s=e39133bf4e6b1df9c5373e16484481e88cb0cea2",
-    "publicationDate": 1728824784,
-    "id": 5209559180
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5007155510-lego-flower-from-the-lego-flower-bouquet-set-10280",
-    "price": 4.36,
-    "title": "Lego flower from the Lego flower bouquet set 10280",
-    "imgUrl": "https://images1.vinted.net/t/03_023ae_GCqXuNtXM2Loi8oPQh3gHZWA/f800/1725805865.jpeg?s=86d3f79cb3c1c8e0e0a890fc9e280bdea35ddc79",
-    "publicationDate": 1725805865,
-    "id": 5007155510
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4906142263-bouquet-de-fleurs-en-lego-10280",
-    "price": 51.1,
-    "title": "Bouquet de fleurs en Lego 10280",
-    "imgUrl": "https://images1.vinted.net/t/03_014cb_cQoBXRCkYq1HFPmm3LvHwiEJ/f800/1724055157.jpeg?s=3e44e1cd04b0c9718618149e8f83432cc784ef27",
-    "publicationDate": 1724055157,
-    "id": 4906142263
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5083977004-lego-10280-flower-bouquet-sr1",
-    "price": 42.7,
-    "title": "Lego 10280 Flower Bouquet SR1",
-    "imgUrl": "https://images1.vinted.net/t/02_01a81_4C3vXWfCyPFqvHdCsFVMWRYJ/f800/1726947279.jpeg?s=6947d0b9aa7ddc97472e7882d0c5c2d1de3e4aa3",
-    "publicationDate": 1726947279,
-    "id": 5083977004
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5395273877-lego-10280-flowers-bouquets",
-    "price": 51.1,
-    "title": "Lego 10280 Flowers bouquets",
-    "imgUrl": "https://images1.vinted.net/t/02_012e4_bco6rbjK8r1ENPrVzZeA85p7/f800/1731837590.jpeg?s=cc0c7544c26190c6e16a4f2b8bb2ce40699f6c3b",
-    "publicationDate": 1731837590,
-    "id": 5395273877
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4915755281-lego-ramo-de-flores-silvestres-10280",
-    "price": 42.7,
-    "title": "Lego ramo de flores silvestres 10280",
-    "imgUrl": "https://images1.vinted.net/t/02_008eb_GodnPMH6ja8V44AwqgAZsxYs/f800/1724225956.jpeg?s=35b985c3cf6ee432605d90c001d44608414a5c00",
-    "publicationDate": 1724225956,
-    "id": 4915755281
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5246404220-lego-flower-bouquet",
-    "price": 47.95,
-    "title": "Lego flower Bouquet",
-    "imgUrl": "https://images1.vinted.net/t/01_01941_PMJMbvsJNKhq8kACsUKF8HeN/f800/1729415703.jpeg?s=14e31c0a59863cb2ce6240b8b4f0e1ef7d59166b",
-    "publicationDate": 1729415703,
-    "id": 5246404220
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5393375446-lego-10280-flower-bouquet",
-    "price": 53.2,
-    "title": "Lego 10280 Flower Bouquet",
-    "imgUrl": "https://images1.vinted.net/t/04_01f6f_7n6N72BVtKjnHAwCCd6UoCg4/f800/1731783095.jpeg?s=b9d7135b8f6b5f21c264638cb6f790f1473ded4c",
-    "publicationDate": 1731783095,
-    "id": 5393375446
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5359911065-flower-bouquet-10280-lego",
-    "price": 51.9,
-    "title": "Flower Bouquet 10280 LEGO",
-    "imgUrl": "https://images1.vinted.net/t/04_00244_sofVsNZsHvHiXr8rNCkcQPij/f800/1731253410.jpeg?s=a82ef664e03e9807fac74a39dee6982a93c26405",
-    "publicationDate": 1731253410,
-    "id": 5359911065
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5325998685-lego-10280",
-    "price": 47.94,
-    "title": "Lego 10280",
-    "imgUrl": "https://images1.vinted.net/t/04_009c0_m2ZUuPd58gJXTjWunEpqYBwE/f800/1730661994.jpeg?s=e00eddce50d2f37e02c9e000e93f81411d5c9848",
-    "publicationDate": 1730661994,
-    "id": 5325998685
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5208645406-lego-flower-bouquet-10280",
-    "price": 52.15,
-    "title": "Lego Flower Bouquet 10280",
-    "imgUrl": "https://images1.vinted.net/t/01_018c7_xGoradU5H2N6imLb1sGVU3pE/f800/1728819647.jpeg?s=a6e2c4f9b5eeb86c53e1dc52be024e9c5617e983",
-    "publicationDate": 1728819647,
-    "id": 5208645406
-  },
-  {
+    "_id": "f8b56aaa-81ed-566b-be3a-57816eaa103d",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/5403479320-10280-ramo-de-flores-lego-new",
     "price": 47.85,
     "title": "10280 Ramo de Flores LEGO New",
     "imgUrl": "https://images1.vinted.net/t/02_00a6b_ZPGqtVno7frbvGdjb8dj56Qr/f800/1731931613.jpeg?s=e400439278ba726c5b9467e4e793b2e5a91607db",
-    "publicationDate": 1731931613,
-    "id": 5403479320
+    "publicationDate": 1731931613
   },
   {
+    "_id": "870cab67-1f42-52a0-b086-332c6641e09d",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4650309018-lego-10280-bouquet-di-fiori",
-    "price": 52.15,
-    "title": "Lego 10280 bouquet di fiori",
-    "imgUrl": "https://images1.vinted.net/t/03_005a6_XqFhV5yHi5TJGz2TuYSEb5m5/f800/1718551040.jpeg?s=40ffed1ea15add59b36c5ce4c84cc5c700a872a9",
-    "publicationDate": 1718551040,
-    "id": 4650309018
+    "link": "https://www.vinted.fr/items/5083977004-lego-10280-flower-bouquet-sr1",
+    "price": 42.7,
+    "title": "Lego 10280 Flower Bouquet SR1",
+    "imgUrl": "https://images1.vinted.net/t/02_01a81_4C3vXWfCyPFqvHdCsFVMWRYJ/f800/1726947279.jpeg?s=6947d0b9aa7ddc97472e7882d0c5c2d1de3e4aa3",
+    "publicationDate": 1726947279
   },
   {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4814215112-lego-10313-et-10280",
-    "price": 79.45,
-    "title": "lego 10313 et 10280",
-    "imgUrl": "https://images1.vinted.net/t/02_00977_zDAxEgKc9CJnQdCxhpjqrqU4/f800/1722075316.jpeg?s=9394999dba75733712201559df949df5d50ecc60",
-    "publicationDate": 1722075316,
-    "id": 4814215112
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4844139352-lego-10280-blumenstrauss",
-    "price": 47.95,
-    "title": "Lego 10280 Blumenstrauss",
-    "imgUrl": "https://images1.vinted.net/t/02_021c5_UfPWz7iRPQgVNuHC9rnKU5xu/f800/1722759996.jpeg?s=01adfbb659a9101e605157df4157650d024dd0a7",
-    "publicationDate": 1722759996,
-    "id": 4844139352
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5373911852-lego-10280-bloemenboeket",
-    "price": 47.95,
-    "title": "Lego 10280 - Bloemenboeket",
-    "imgUrl": "https://images1.vinted.net/t/04_012e8_oBztxcFK5cNAtiNfxtZVR5hE/f800/1731444197.jpeg?s=8a8e7d8890f00a353fdcd7a27b7b0d9f645b2918",
-    "publicationDate": 1731444197,
-    "id": 5373911852
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4348794335-lego-10280-flower-bouquet",
-    "price": 47.95,
-    "title": "Lego 10280 Flower Bouquet",
-    "imgUrl": "https://images1.vinted.net/t/03_01d22_aYaCMhaeXC9unqwgZuLmQpMh/f800/1712840416.jpeg?s=c6522ae5992265bd7aef0a193e89e337d9ae9a4a",
-    "publicationDate": 1712840416,
-    "id": 4348794335
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5216257064-bouquet-di-fiori-lego",
-    "price": 53.2,
-    "title": "Bouquet di fiori - Lego",
-    "imgUrl": "https://images1.vinted.net/t/02_00d20_fGmLLNQV6yESt2XADhEXwA8a/f800/1728910065.jpeg?s=7410c81af1d32ee1c6596442623e3a01babad240",
-    "publicationDate": 1728910065,
-    "id": 5216257064
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5277844467-lego-botanical-collection-flower-bouquet-10280",
-    "price": 47.95,
-    "title": "Lego - Botanical Collection - Flower Bouquet (10280)",
-    "imgUrl": "https://images1.vinted.net/t/03_0095f_irNDGVAP1JUKKgS7B5jXwfpe/f800/1729894711.jpeg?s=e510190d32571b2d0d23559abc02bb7e6d01f5c2",
-    "publicationDate": 1729894711,
-    "id": 5277844467
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4865848396-lego-10280-bouquet",
-    "price": 45.85,
-    "title": "Lego 10280 Bouquet",
-    "imgUrl": "https://images1.vinted.net/t/01_0031e_CtjVcxRHphEhcjKKHJ9ovfqh/f800/1723187645.jpeg?s=abcfd420c1b7b257c2bc01e76627a127db68af14",
-    "publicationDate": 1723187645,
-    "id": 4865848396
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4852568010-lego-ramo-flores-bouquet",
-    "price": 47.95,
-    "title": "Lego Ramo flores Bouquet",
-    "imgUrl": "https://images1.vinted.net/t/03_0008d_xF5UaTaowVhZUXeQHiAk1Pah/f800/1722890380.jpeg?s=598f17d895f951b8e6b8d9d0c6ed65eef2318890",
-    "publicationDate": 1722890380,
-    "id": 4852568010
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4872186742-lego-bouquet-de-fleur-10280",
-    "price": 47.95,
-    "title": "Lego bouquet de fleur 10280",
-    "imgUrl": "https://images1.vinted.net/t/02_01aa8_EqLyuh17sHf683GbLYPrFtt8/f800/1723316984.jpeg?s=cca65035ddc307a4599207b5ba076ff1ebf4b10f",
-    "publicationDate": 1723316984,
-    "id": 4872186742
-  },
-  {
+    "_id": "53312f71-7ffc-57c6-85b7-7ed150cba496",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/4693436047-lego-10280",
-    "price": 53.2,
+    "price": 42.7,
     "title": "Lego 10280",
     "imgUrl": "https://images1.vinted.net/t/01_0176d_PCLDotb5y1sAq1C6aFHYgmCz/f800/1719486996.jpeg?s=2d8ab29d3c2da86ceb631796f1f3bf5d31be93e4",
-    "publicationDate": 1719486996,
-    "id": 4693436047
+    "publicationDate": 1719486996
   },
   {
+    "_id": "c8755a29-5f5d-5917-897a-a3e076b8c800",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4749126542-lego-icons-ramo-de-flores-silvestres",
-    "price": 53.2,
-    "title": "LEGO Icons Ramo de Flores Silvestres",
-    "imgUrl": "https://images1.vinted.net/t/03_008c2_t6NvXb1z1fVXA9DFZfbM8fjU/f800/1720631440.jpeg?s=bb5f578c17cbe1f43d7e2279a371f6d6c4844b9e",
-    "publicationDate": 1720631440,
-    "id": 4749126542
+    "link": "https://www.vinted.fr/items/5384411872-lego-blumenstrauss",
+    "price": 37.45,
+    "title": "Lego Blumenstrauß",
+    "imgUrl": "https://images1.vinted.net/t/01_01cf1_kohZT5FMDNmMbMW6kb6es6VW/f800/1731674122.jpeg?s=b9362d03fa9629409c3c10457010acc42c984ccb",
+    "publicationDate": 1731674122
   },
   {
+    "_id": "3cbc4bcf-f55f-50ae-af61-7540bccc62fe",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/1826596333-lego-blumenstrau-10280-und-rose-40460",
-    "price": 89.95,
-    "title": " LEGO Blumenstrau? 10280 und Rose 40460",
-    "imgUrl": "https://images1.vinted.net/t/03_018dc_aKvDbnsU8inQ92nYoo8vWdUY/f800/1652294953.jpeg?s=5578014a9fd9e3310394f403bcfabce44b3a0e44",
-    "publicationDate": 1652294953,
-    "id": 1826596333
+    "link": "https://www.vinted.fr/items/5208645406-lego-flower-bouquet-10280",
+    "price": 52.15,
+    "title": "Lego Flower Bouquet 10280",
+    "imgUrl": "https://images1.vinted.net/t/01_018c7_xGoradU5H2N6imLb1sGVU3pE/f800/1728819647.jpeg?s=a6e2c4f9b5eeb86c53e1dc52be024e9c5617e983",
+    "publicationDate": 1728819647
   },
   {
+    "_id": "796aa6b7-0111-5117-89a5-886b754cf5d2",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5326843449-lego-botanical-collection-10280-10313",
-    "price": 105.7,
-    "title": "LEGO Botanical Collection - 10280 + 10313",
-    "imgUrl": "https://images1.vinted.net/t/03_023d3_EeSPWT4aScbhhK2cZiy4aDJ9/f800/1730672183.jpeg?s=86f421a02165fd02181793b177506f3e20c6593f",
-    "publicationDate": 1730672183,
-    "id": 5326843449
+    "link": "https://www.vinted.fr/items/5423241483-lot-lego-fleurs-10280-10314-bouquet-et-centre-de-table-neufs-et-scelles",
+    "price": 104.65,
+    "title": "Lot Lego Fleurs 10280 10314 Bouquet et centre de table. NEUFS et scellés",
+    "imgUrl": "https://images1.vinted.net/t/04_014d6_iBpRhoPa8bXfSfFAfKvMsNG9/f800/1732275696.jpeg?s=e25fbb23adfe0b1d3821dc52a1f8f54d8abfee12",
+    "publicationDate": 1732275696
   },
   {
+    "_id": "1fde75c1-bb0b-572a-bd10-d9998c2d13d1",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4545475078-lot-lego-fleur-orchidee-10280-10311-neuf-sceller",
-    "price": 100.45,
-    "title": "Lot lego fleur orchidée 10280 - 10311 neuf sceller",
-    "imgUrl": "https://images1.vinted.net/t/02_00fdd_sZgnPnopA3jPwghWz49QQsCk/f800/1716485131.jpeg?s=5a56137fb8d8ecccafeb3e33298d925118a691fb",
-    "publicationDate": 1716485131,
-    "id": 4545475078
+    "link": "https://www.vinted.fr/items/4906142263-bouquet-de-fleurs-en-lego-10280",
+    "price": 51.1,
+    "title": "Bouquet de fleurs en Lego 10280",
+    "imgUrl": "https://images1.vinted.net/t/03_014cb_cQoBXRCkYq1HFPmm3LvHwiEJ/f800/1724055157.jpeg?s=3e44e1cd04b0c9718618149e8f83432cc784ef27",
+    "publicationDate": 1724055157
   },
   {
+    "_id": "72cb35a9-4fd6-5691-868f-7a98a2b65af5",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/1509970593-lego-flower-bouquet-10280-and-rose-40460",
+    "price": 32.2,
+    "title": "LEGO Flower Bouquet 10280 and Rose 40460",
+    "imgUrl": "https://images1.vinted.net/t/03_01662_Wx7jvbRCs5VvAahFfiojVWid/f800/1639513445.jpeg?s=d1a1f12387db32a9211ee29aae0382cf441af256",
+    "publicationDate": 1639513445
+  },
+  {
+    "_id": "cb2a5d6b-c2a2-5f30-9c5f-b5b57deb1cbd",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4915755281-lego-ramo-de-flores-silvestres-10280",
+    "price": 42.7,
+    "title": "Lego ramo de flores silvestres 10280",
+    "imgUrl": "https://images1.vinted.net/t/02_008eb_GodnPMH6ja8V44AwqgAZsxYs/f800/1724225956.jpeg?s=35b985c3cf6ee432605d90c001d44608414a5c00",
+    "publicationDate": 1724225956
+  },
+  {
+    "_id": "7aa1e3af-22f2-54d9-abc9-98c06dd723dd",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/5024844983-lego-icons-bouquet-de-fleurs-bouquet-de-fleurs-sauvages",
     "price": 115.15,
     "title": "LEGO - Icons - Bouquet de fleurs & Bouquet de Fleurs Sauvages",
     "imgUrl": "https://images1.vinted.net/t/02_0229e_hZB61yD3nxh6pEK2oQrq3CvR/f800/1726061637.jpeg?s=469617b8b5f35d0ab6f2c678a5808574144ba62e",
-    "publicationDate": 1726061637,
-    "id": 5024844983
+    "publicationDate": 1726061637
   },
   {
+    "_id": "fd4a12d3-efb2-5118-a72b-987524940f9b",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4746443331-lego-blumenstrauss-10280",
-    "price": 47.95,
-    "title": "Lego Blumenstrauß 10280",
-    "imgUrl": "https://images1.vinted.net/t/01_018b2_93jcdeXbxCLc2SyWgFZM6hJe/f800/1720595853.jpeg?s=102efabf33db42fd3e697974769777d27daf29a1",
-    "publicationDate": 1720595853,
-    "id": 4746443331
+    "link": "https://www.vinted.fr/items/5410361510-lego-creator-bouquet-de-fleurs",
+    "price": 56.35,
+    "title": "LEGO Creator Bouquet de fleurs",
+    "imgUrl": "https://images1.vinted.net/t/04_00a1a_pqepdNaYqnM8Q5RKQYiK1tzw/f800/1732034300.jpeg?s=be03757e8694d449da55b888dad55f80a22c6ffe",
+    "publicationDate": 1732034300
   },
   {
+    "_id": "e83be260-0fb4-55ec-98bd-184b8e428a65",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4545475078-lot-lego-fleur-orchidee-10280-10311-neuf-sceller",
+    "price": 100.45,
+    "title": "Lot lego fleur orchidée 10280 - 10311 neuf sceller",
+    "imgUrl": "https://images1.vinted.net/t/02_00fdd_sZgnPnopA3jPwghWz49QQsCk/f800/1716485131.jpeg?s=5a56137fb8d8ecccafeb3e33298d925118a691fb",
+    "publicationDate": 1716485131
+  },
+  {
+    "_id": "aa24e5d3-84be-5250-9fc8-c1e9564f61c7",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/5334707812-lego-flower-bouquet-10280",
     "price": 74.2,
     "title": "Lego Flower Bouquet 10280",
     "imgUrl": "https://images1.vinted.net/t/01_02159_q1PHnUhWuFUeqoXLhXvf8g5s/f800/1730821077.jpeg?s=3fb6d970cd1786ab0659d4ec990b84bf21c4dacc",
-    "publicationDate": 1730821077,
-    "id": 5334707812
+    "publicationDate": 1730821077
   },
   {
+    "_id": "3d3a2e5d-fc43-59ba-baf2-c8b8ce59aad5",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5313143693-lego-nuovo-sigillati-vendita-blocco",
-    "price": 137.2,
-    "title": "Lego nuovo sigillati vendita blocco",
-    "imgUrl": "https://images1.vinted.net/t/03_01351_DirRRiK2YgQtjnRxpTmiUH3o/f800/1730482399.jpeg?s=36adc049318747e56e506454d51cdb3d871235ff",
-    "publicationDate": 1730482399,
-    "id": 5313143693
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/1507286664-lego-blumenstrauss-10280-creator-expert-neu-ovp",
-    "price": 60.34,
-    "title": "lego Blumenstrauß - 10280 Creator Expert NEU OVP",
-    "imgUrl": "https://images1.vinted.net/t/03_0200c_iugPNW3iKEaa6FbNJSUuZgwK/f800/1639398222.jpeg?s=a80fbf4bd137491cd54e4aa2a584e3f23ec293c3",
-    "publicationDate": 1639398222,
-    "id": 1507286664
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4389622217-lego-flower-bouquet",
-    "price": 53.2,
-    "title": "Lego Flower Bouquet",
-    "imgUrl": "https://images1.vinted.net/t/01_00924_EdhihYxdVAYirodwvAukbidN/f800/1713607953.jpeg?s=f672478cdfdbd603db54d2e2cf28cc65c317c602",
-    "publicationDate": 1713607953,
-    "id": 4389622217
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4735730012-lego-roses-et-bouquet-de-fleurs-10328-10280-neuf-et-scelle",
-    "price": 99.4,
-    "title": "Lego Roses et Bouquet de fleurs 10328 10280 NEUF et scellé",
-    "imgUrl": "https://images1.vinted.net/t/01_002b8_gnbfvzQJXEPMLUPxuDxfdF3h/f800/1723138240.jpeg?s=42cfd779e56e2b8507e1a4de766435e46cf1ac89",
-    "publicationDate": 1723138240,
-    "id": 4735730012
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4903428073-lego-set-10280-bloemenboeket",
-    "price": 42.7,
-    "title": "Lego set 10280 bloemenboeket",
-    "imgUrl": "https://images1.vinted.net/t/03_014b0_mXAJ88KooBEzAoLx89TdaGqR/f800/1723992913.jpeg?s=f62015d6fbe72e83796c5e2e5aa716e97e6fc7e3",
-    "publicationDate": 1723992913,
-    "id": 4903428073
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5282879553-lego-10280",
-    "price": 56.35,
+    "link": "https://www.vinted.fr/items/5420756290-lego-10280",
+    "price": 58.45,
     "title": "lego 10280",
-    "imgUrl": "https://images1.vinted.net/t/03_01056_YCEmDCDBLH4SphhgVV2nV3So/f800/1729974440.jpeg?s=6f3f509e0c8d9fc278877f42e22316e462872d58",
-    "publicationDate": 1729974440,
-    "id": 5282879553
+    "imgUrl": "https://images1.vinted.net/t/04_02377_15gXrU1wpPVLEdGA6dZuZBSH/f800/1732212263.jpeg?s=fa2f65f6c6c41bf97fcbd6b3ca4e19645a8a640e",
+    "publicationDate": 1732212263
   },
   {
+    "_id": "1af499c4-d36a-5d84-b7b3-833eceabf8ae",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5002506112-lego-10280-bouquet-de-flores",
-    "price": 68.95,
-    "title": "Lego 10280 - Bouquet de Flores",
-    "imgUrl": "https://images1.vinted.net/t/02_0077e_yj7j9JSo3WptKmtWPGkPNbde/f800/1725734836.jpeg?s=a302d07fc05f439a2b8b1645c733c81a9584e940",
-    "publicationDate": 1725734836,
-    "id": 5002506112
+    "link": "https://www.vinted.fr/items/4650309018-lego-10280-bouquet-di-fiori",
+    "price": 52.15,
+    "title": "Lego 10280 bouquet di fiori",
+    "imgUrl": "https://images1.vinted.net/t/03_005a6_XqFhV5yHi5TJGz2TuYSEb5m5/f800/1718551040.jpeg?s=40ffed1ea15add59b36c5ce4c84cc5c700a872a9",
+    "publicationDate": 1718551040
   },
   {
+    "_id": "402ba1ba-2525-5eda-979f-9deb334230cf",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5438931219-lego-bouquet-de-fleur-10280-neuf-et-scelle",
+    "price": 52.15,
+    "title": "Lego Bouquet de fleur 10280 NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/04_0135a_HWSEGv5rTzxxBsfNJQabJ1bw/f800/1732517626.jpeg?s=ad53e600ee0aff9c9272320c350a5e87c420dcfc",
+    "publicationDate": 1732517626
+  },
+  {
+    "_id": "62971dea-f55c-5764-9eb2-ccc7437cc783",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5216257064-bouquet-di-fiori-lego",
+    "price": 53.2,
+    "title": "Bouquet di fiori - Lego",
+    "imgUrl": "https://images1.vinted.net/t/02_00d20_fGmLLNQV6yESt2XADhEXwA8a/f800/1728910065.jpeg?s=7410c81af1d32ee1c6596442623e3a01babad240",
+    "publicationDate": 1728910065
+  },
+  {
+    "_id": "3074c458-c97a-5c46-bbca-09738d795ed8",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5209559180-lego-flower-bouquet-10280",
+    "price": 42.7,
+    "title": "Lego flower bouquet 10280",
+    "imgUrl": "https://images1.vinted.net/t/01_00371_Fobumfpjt8oJJEutbxrbBfgD/f800/1728824784.jpeg?s=e39133bf4e6b1df9c5373e16484481e88cb0cea2",
+    "publicationDate": 1728824784
+  },
+  {
+    "_id": "8cccd86a-426c-525d-ae4e-2e4574de0861",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5438807481-lego-10280-origineele-verpaking",
+    "price": 63.7,
+    "title": "Lego 10280 Origineele Verpaking",
+    "imgUrl": "https://images1.vinted.net/t/04_00c09_UktJMBBoN356X7ZpPrF6fZo9/f800/1732494863.jpeg?s=0e6bd363404b6e6a64e9c230525a9b663f88bd0c",
+    "publicationDate": 1732494863
+  },
+  {
+    "_id": "f983d616-2914-5d87-907d-ed4080a670dd",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5431742703-lego-10280-buque-de-flores",
+    "price": 58.45,
+    "title": "LEGO 10280 Buquê de Flores 💐",
+    "imgUrl": "https://images1.vinted.net/t/02_00e49_Uecoi9jxqjBQZPfhvJPhzYYK/f800/1732405244.jpeg?s=9350d8ba24ec6ac09e8e789e457fb9fa40f1e4eb",
+    "publicationDate": 1732405244
+  },
+  {
+    "_id": "e10442c5-d3e6-57aa-8b3f-6ff1866e769c",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4383753976-lego-botanical-flower-bouquet",
+    "price": 47.95,
+    "title": "Lego Botanical Flower Bouquet 💐",
+    "imgUrl": "https://images1.vinted.net/t/01_0019a_Atqs4pTJiwk8EDWgsb7q1HeW/f800/1713466515.jpeg?s=355b1118ef8d5c5603e40d96bd11026dc855afcf",
+    "publicationDate": 1713466515
+  },
+  {
+    "_id": "cb002c3b-3e14-5776-8ca4-01270689147c",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4814215112-lego-10313-et-10280",
+    "price": 79.45,
+    "title": "lego 10313 et 10280",
+    "imgUrl": "https://images1.vinted.net/t/02_00977_zDAxEgKc9CJnQdCxhpjqrqU4/f800/1722075316.jpeg?s=9394999dba75733712201559df949df5d50ecc60",
+    "publicationDate": 1722075316
+  },
+  {
+    "_id": "ee2aca28-9b22-5ce2-92bc-570e0a68a791",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/3551178444-fleurs-bouquet-10280-lego",
     "price": 53.2,
     "title": "Fleurs bouquet 10280 lego",
     "imgUrl": "https://images1.vinted.net/t/03_01123_tcvBqvQDFySAVQqz3pyWUUUp/f800/1696198809.jpeg?s=0d45687c5251361dc9d05f5bf78fc62e484025a2",
-    "publicationDate": 1696198809,
-    "id": 3551178444
+    "publicationDate": 1696198809
   },
   {
+    "_id": "db6e881c-ee7e-597e-92eb-2ce510d625dd",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/2322104998-lego-flower-bouquet-10280",
-    "price": 58.45,
-    "title": "LEGO flower bouquet 10280 ",
-    "imgUrl": "https://images1.vinted.net/t/02_0102f_QufzcuWGayc8hDyfGMVV8pCL/f800/1666017233.jpeg?s=cbc72f4e7c2b0a9bb66a67ee91dea6084ab1121a",
-    "publicationDate": 1666017233,
-    "id": 2322104998
+    "link": "https://www.vinted.fr/items/5277844467-lego-botanical-collection-flower-bouquet-10280",
+    "price": 47.95,
+    "title": "Lego - Botanical Collection - Flower Bouquet (10280)",
+    "imgUrl": "https://images1.vinted.net/t/03_0095f_irNDGVAP1JUKKgS7B5jXwfpe/f800/1729894711.jpeg?s=e510190d32571b2d0d23559abc02bb7e6d01f5c2",
+    "publicationDate": 1729894711
   },
   {
+    "_id": "2ed1c993-42a5-58d2-b167-4ae7cc1113f2",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4873302042-lego-botanical-collection-10280-10281-10311-10313-10328-10329",
-    "price": 268.45,
-    "title": "Lego Botanical Collection 10280 10281 10311 10313 10328 10329",
-    "imgUrl": "https://images1.vinted.net/t/02_00ccd_TXM3rHadzWEYxnWUZFVh7i49/f800/1723369140.jpeg?s=5d29990469eec6af537ea9785a4cbc8b423b6e7f",
-    "publicationDate": 1723369140,
-    "id": 4873302042
+    "link": "https://www.vinted.fr/items/5373911852-lego-10280-bloemenboeket",
+    "price": 47.95,
+    "title": "Lego 10280 - Bloemenboeket",
+    "imgUrl": "https://images1.vinted.net/t/04_012e8_oBztxcFK5cNAtiNfxtZVR5hE/f800/1731444197.jpeg?s=8a8e7d8890f00a353fdcd7a27b7b0d9f645b2918",
+    "publicationDate": 1731444197
   },
   {
+    "_id": "59679fec-b548-568f-95ff-831525add322",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4165057769-lego-10280",
-    "price": 53.2,
-    "title": "Lego 10280",
-    "imgUrl": "https://images1.vinted.net/t/03_00b0e_jjiQ1VUFP8XE4EDBVN49UQvU/f800/1709239875.jpeg?s=9b7f2cad8c351352ff403995fdab0a8f55a192c3",
-    "publicationDate": 1709239875,
-    "id": 4165057769
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/3912103154-lego-flower-bouquet-10280",
-    "price": 63.6,
-    "title": "lego flower bouquet  10280",
-    "imgUrl": "https://images1.vinted.net/t/02_016ee_7EjCJwtneeecpJUPk7HijGUd/f800/r2/1703691204.jpeg?s=c1c67c17f7d2bbe0c2ce56e4920b35e35738e580",
-    "publicationDate": 1703691204,
-    "id": 3912103154
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/5315309028-lego-10280-bouquet",
-    "price": 53.2,
-    "title": "Lego 10280 bouquet",
-    "imgUrl": "https://images1.vinted.net/t/01_0171b_5HvTRzjn3ZSL2vbrz4U28Tjb/f800/1730542529.jpeg?s=266b2dc7c49190f1cd128597437da124a2aee16c",
-    "publicationDate": 1730542529,
-    "id": 5315309028
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4682273679-lego-misb-10280",
-    "price": 63.7,
-    "title": "Lego misb 10280",
-    "imgUrl": "https://images1.vinted.net/t/03_00f73_G5HFQnvyiZAwKEG3pKnNuNZv/f800/1719230995.jpeg?s=00687d335101fe3e00b56048cc403ed3ec1bbd93",
-    "publicationDate": 1719230995,
-    "id": 4682273679
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4340641213-lego-10280-flower-bouquet",
-    "price": 63.7,
+    "link": "https://www.vinted.fr/items/4348794335-lego-10280-flower-bouquet",
+    "price": 47.95,
     "title": "Lego 10280 Flower Bouquet",
-    "imgUrl": "https://images1.vinted.net/t/01_013cb_KxKtA54HYPoDmKKRvr5kTsfd/f800/1712679145.jpeg?s=3779c4d804f3607422b4d96a45ed0b492ed0b922",
-    "publicationDate": 1712679145,
-    "id": 4340641213
+    "imgUrl": "https://images1.vinted.net/t/03_01d22_aYaCMhaeXC9unqwgZuLmQpMh/f800/1712840416.jpeg?s=c6522ae5992265bd7aef0a193e89e337d9ae9a4a",
+    "publicationDate": 1712840416
   },
   {
+    "_id": "3604d15b-f924-50dd-817d-43767460708b",
     "legoId": "10280",
-    "link": "https://www.vinted.fr/items/2207994989-lego-10280",
-    "price": 63.69,
-    "title": "Lego 10280",
-    "imgUrl": "https://images1.vinted.net/t/01_001de_hsMRVANr2CzkCe8XoKUj8BRr/f800/1663412686.jpeg?s=be551948754c0454588f6a817ca78777cb9990f2",
-    "publicationDate": 1663412686,
-    "id": 2207994989
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4097619025-lego-10280-mazzo-di-fiori",
-    "price": 66.33,
-    "title": "Lego 10280 mazzo di fiori ",
-    "imgUrl": "https://images1.vinted.net/t/01_01493_f1y29u8pgRgqMZhLrNGkA9fh/f800/1707837768.jpeg?s=998c350e4ffd15a5c2c77ce3bd2f72684e8791e1",
-    "publicationDate": 1707837768,
-    "id": 4097619025
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/3750317515-lego-10280-flower-bouquet-icon",
-    "price": 63.7,
-    "title": "Lego 10280 Flower Bouquet (icon)",
-    "imgUrl": "https://images1.vinted.net/t/01_0176e_4Xib7Jyu21QLhDyZvdmTsGrB/f800/1699806353.jpeg?s=f928b6db6c4b1d1a46f7cf266374819d65a4fbe7",
-    "publicationDate": 1699806353,
-    "id": 3750317515
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/1507237241-lego-10280-botanical-collection-flower-bouquet-blumenstrauss-neu",
-    "price": 74.1,
-    "title": "Lego 10280; Botanical Collection, Flower Bouquet, Blumenstrauß - NEU",
-    "imgUrl": "https://images1.vinted.net/t/03_01ec8_HccseKTkBm84YhLHEL1NJvTc/f800/1639396773.jpeg?s=fe19adaf2c435eae34f133c204c1e9ab49803678",
-    "publicationDate": 1639396773,
-    "id": 1507237241
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/1954038929-bouquet-di-fiori-lego-10280",
-    "price": 62.65,
-    "title": "Bouquet di fiori lego 10280",
-    "imgUrl": "https://images1.vinted.net/t/01_01234_2t2bmjKsC2HdgjkMnzzXQS5C/f800/1656797357.jpeg?s=c0f875ce40536f8154243094cc7d3cef6f2640ba",
-    "publicationDate": 1656797357,
-    "id": 1954038929
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/2571702744-lego-10280-40460-40524",
-    "price": 91,
-    "title": "Lego 10280-40460-40524",
-    "imgUrl": "https://images1.vinted.net/t/01_025b5_SWxDoqTV1KYHRoRRhTuYFFrz/f800/1673208259.jpeg?s=117bf3a1dd2243211f485501bbcffb25f03d7c7d",
-    "publicationDate": 1673208259,
-    "id": 2571702744
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/883990611-lego-creator-botanical-flower-bouquet-blumenstrauss-10280",
+    "link": "https://www.vinted.fr/items/5436066886-lego-botanical-bouquet-di-fiori",
     "price": 53.2,
-    "title": "LEGO Creator Botanical Flower Bouquet Blumenstrauß 10280",
-    "imgUrl": "https://images1.vinted.net/t/02_00ef3_6nEcv2juZU3yMoT1tLoDtrHt/f800/1612433623.jpeg?s=bc06aef8e737af06f5fe790df7d24bbb3a705bba",
-    "publicationDate": 1612433623,
-    "id": 883990611
+    "title": "Lego Botanical - Bouquet di fiori",
+    "imgUrl": "https://images1.vinted.net/t/04_02076_DVq4ucT4CdK3nUGNh6gkVkYQ/f800/1732464197.jpeg?s=440eb445251c984db232060ff7c948c47f066592",
+    "publicationDate": 1732464197
   },
   {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/4076434606-lego-10280-flower-bouquet",
-    "price": 53.2,
-    "title": "Lego 10280 Flower bouquet ",
-    "imgUrl": "https://images1.vinted.net/t/01_006fd_SYAFwCsjeawXvJYENx7Xgp1B/f800/1707391558.jpeg?s=c23f7f76a5e4b4dfa1879eb2be24505e34f52398",
-    "publicationDate": 1707391558,
-    "id": 4076434606
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/2493048788-lego-set-bouquet-di-fiori-10280-misb-nuovo",
-    "price": 62.65,
-    "title": "💐 Lego set Bouquet di fiori 10280 MISB nuovo",
-    "imgUrl": "https://images1.vinted.net/t/03_0165a_KCAapeV7DCUzmdoPdYMJn6iy/f800/1670464141.jpeg?s=fe507f40d2b42b726cbea2567ebdf401e7a7a81b",
-    "publicationDate": 1670464141,
-    "id": 2493048788
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/3434940030-lego-10280-flower-bouquet-botanical-collection",
-    "price": 58.45,
-    "title": "Lego 10280  Flower Bouquet - Botanical Collection",
-    "imgUrl": "https://images1.vinted.net/t/03_0184b_JkLkTVTkqfzr9RTDtUW5xynh/f800/1693840058.jpeg?s=c48766164fc29cdc5c99cdf651c6cd2112595e35",
-    "publicationDate": 1693840058,
-    "id": 3434940030
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/3483843814-lego-botanical-10280-10281-10314-bonsai-bouquet-et-centre-de-table-neufs-et-scelles",
-    "price": 131.95,
-    "title": "Lego Botanical 10280 10281 10314 Bonsaï Bouquet et Centre de table NEUFS et scellés",
-    "imgUrl": "https://images1.vinted.net/t/03_014ed_6HfW6sbfXJXtbGKVTdJ3egt6/f800/1694951610.jpeg?s=997b480a42b555edfcfc724f54754590978d6b38",
-    "publicationDate": 1694951610,
-    "id": 3483843814
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/1507258378-lego-10280-flower-bouquet-botanical-collection-neu",
-    "price": 63.6,
-    "title": "Lego 10280 Flower Bouquet (Botanical Collection) - Neu",
-    "imgUrl": "https://images1.vinted.net/t/03_01c49_Bjfx5dizWxGDJxyuqH6piU2C/f800/1639397393.jpeg?s=b268e938dff9c0f57ef0dd62f5b6c33b1ceb8532",
-    "publicationDate": 1639397393,
-    "id": 1507258378
-  },
-  {
+    "_id": "2813c85b-f281-5b1e-80f4-af51f4790f06",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/4888024599-lego-bonsai-bouquet-et-fleurs-sauvages-neufs-et-scelles-10280-10281-10313",
     "price": 142.45,
     "title": "Lego Bonsaï, Bouquet, et Fleurs sauvages NEUFS et scellés 10280 10281 10313",
     "imgUrl": "https://images1.vinted.net/t/02_015d3_gzZb59GF8Z67kg83DSN3UJDV/f800/1723661934.jpeg?s=7c05c92e84fc7205f965545f4d79ed1a8c459dca",
-    "publicationDate": 1723661934,
-    "id": 4888024599
+    "publicationDate": 1723661934
   },
   {
+    "_id": "455d27e0-3f79-59ec-9f80-9ebcc5dd7596",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4746443331-lego-blumenstrauss-10280",
+    "price": 47.95,
+    "title": "Lego Blumenstrauß 10280",
+    "imgUrl": "https://images1.vinted.net/t/01_018b2_93jcdeXbxCLc2SyWgFZM6hJe/f800/1720595853.jpeg?s=102efabf33db42fd3e697974769777d27daf29a1",
+    "publicationDate": 1720595853
+  },
+  {
+    "_id": "c59a424b-9db4-50b1-9399-7c8d490f28e5",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5393375446-lego-10280-flower-bouquet",
+    "price": 51.1,
+    "title": "Lego 10280 Flower Bouquet",
+    "imgUrl": "https://images1.vinted.net/t/04_01f6f_7n6N72BVtKjnHAwCCd6UoCg4/f800/1731783095.jpeg?s=b9d7135b8f6b5f21c264638cb6f790f1473ded4c",
+    "publicationDate": 1731783095
+  },
+  {
+    "_id": "12912ff4-eb29-5a2f-9fde-f9e3cb7020b2",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/1826596333-lego-blumenstrau-10280-und-rose-40460",
+    "price": 89.95,
+    "title": " LEGO Blumenstrau? 10280 und Rose 40460",
+    "imgUrl": "https://images1.vinted.net/t/03_018dc_aKvDbnsU8inQ92nYoo8vWdUY/f800/1652294953.jpeg?s=5578014a9fd9e3310394f403bcfabce44b3a0e44",
+    "publicationDate": 1652294953
+  },
+  {
+    "_id": "25107c9d-99eb-5b26-9701-847b8523492c",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4735730012-lego-roses-et-bouquet-de-fleurs-10328-10280-neuf-et-scelle",
+    "price": 97.3,
+    "title": "Lego Roses et Bouquet de fleurs 10328 10280 NEUF et scellé",
+    "imgUrl": "https://images1.vinted.net/t/01_002b8_gnbfvzQJXEPMLUPxuDxfdF3h/f800/1723138240.jpeg?s=42cfd779e56e2b8507e1a4de766435e46cf1ac89",
+    "publicationDate": 1723138240
+  },
+  {
+    "_id": "cd2e5c5c-6c90-5526-a283-5f972ce15124",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5325998685-lego-10280",
+    "price": 47.94,
+    "title": "Lego 10280",
+    "imgUrl": "https://images1.vinted.net/t/04_009c0_m2ZUuPd58gJXTjWunEpqYBwE/f800/1730661994.jpeg?s=e00eddce50d2f37e02c9e000e93f81411d5c9848",
+    "publicationDate": 1730661994
+  },
+  {
+    "_id": "b2bf8510-dc00-5dc9-98b9-83109019f6e5",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4076434606-lego-10280-flower-bouquet",
+    "price": 53.2,
+    "title": "Lego 10280 Flower bouquet ",
+    "imgUrl": "https://images1.vinted.net/t/01_006fd_SYAFwCsjeawXvJYENx7Xgp1B/f800/1707391558.jpeg?s=c23f7f76a5e4b4dfa1879eb2be24505e34f52398",
+    "publicationDate": 1707391558
+  },
+  {
+    "_id": "3e2aaec5-de2a-58f8-bf1b-ac9f5b15c46c",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4865848396-lego-10280-bouquet",
+    "price": 45.85,
+    "title": "Lego 10280 Bouquet",
+    "imgUrl": "https://images1.vinted.net/t/01_0031e_CtjVcxRHphEhcjKKHJ9ovfqh/f800/1723187645.jpeg?s=abcfd420c1b7b257c2bc01e76627a127db68af14",
+    "publicationDate": 1723187645
+  },
+  {
+    "_id": "3c107690-6908-5a9c-91a6-3545d3d571e6",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/2322104998-lego-flower-bouquet-10280",
+    "price": 58.45,
+    "title": "LEGO flower bouquet 10280 ",
+    "imgUrl": "https://images1.vinted.net/t/02_0102f_QufzcuWGayc8hDyfGMVV8pCL/f800/1666017233.jpeg?s=cbc72f4e7c2b0a9bb66a67ee91dea6084ab1121a",
+    "publicationDate": 1666017233
+  },
+  {
+    "_id": "f55b61b6-1f3c-5834-9720-ad4413fa99d5",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4872186742-lego-bouquet-de-fleur-10280",
+    "price": 47.95,
+    "title": "Lego bouquet de fleur 10280",
+    "imgUrl": "https://images1.vinted.net/t/02_01aa8_EqLyuh17sHf683GbLYPrFtt8/f800/1723316984.jpeg?s=cca65035ddc307a4599207b5ba076ff1ebf4b10f",
+    "publicationDate": 1723316984
+  },
+  {
+    "_id": "0e5ed154-ee40-5acf-a5a0-e315d8cbdcd8",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4903428073-lego-set-10280-bloemenboeket",
+    "price": 42.7,
+    "title": "Lego set 10280 bloemenboeket",
+    "imgUrl": "https://images1.vinted.net/t/03_014b0_mXAJ88KooBEzAoLx89TdaGqR/f800/1723992913.jpeg?s=f62015d6fbe72e83796c5e2e5aa716e97e6fc7e3",
+    "publicationDate": 1723992913
+  },
+  {
+    "_id": "b1672f04-d34b-5809-85ce-924ef0b5a9fe",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5315309028-lego-10280-bouquet",
+    "price": 53.2,
+    "title": "Lego 10280 bouquet",
+    "imgUrl": "https://images1.vinted.net/t/01_0171b_5HvTRzjn3ZSL2vbrz4U28Tjb/f800/1730542529.jpeg?s=266b2dc7c49190f1cd128597437da124a2aee16c",
+    "publicationDate": 1730542529
+  },
+  {
+    "_id": "6bade1c1-8000-5ef1-a43a-e685da0373a0",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4844139352-lego-10280-blumenstrauss",
+    "price": 47.95,
+    "title": "Lego 10280 Blumenstrauss",
+    "imgUrl": "https://images1.vinted.net/t/02_021c5_UfPWz7iRPQgVNuHC9rnKU5xu/f800/1722759996.jpeg?s=01adfbb659a9101e605157df4157650d024dd0a7",
+    "publicationDate": 1722759996
+  },
+  {
+    "_id": "77c34f1d-d78d-563a-b6db-3aa7eb509d4d",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4749126542-lego-icons-ramo-de-flores-silvestres",
+    "price": 53.2,
+    "title": "LEGO Icons Ramo de Flores Silvestres",
+    "imgUrl": "https://images1.vinted.net/t/03_008c2_t6NvXb1z1fVXA9DFZfbM8fjU/f800/1720631440.jpeg?s=bb5f578c17cbe1f43d7e2279a371f6d6c4844b9e",
+    "publicationDate": 1720631440
+  },
+  {
+    "_id": "aad70c88-7e52-5231-8a23-889b0800b0bd",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4873302042-lego-botanical-collection-10280-10281-10311-10313-10328-10329",
+    "price": 268.45,
+    "title": "Lego Botanical Collection 10280 10281 10311 10313 10328 10329",
+    "imgUrl": "https://images1.vinted.net/t/02_00ccd_TXM3rHadzWEYxnWUZFVh7i49/f800/1723369140.jpeg?s=5d29990469eec6af537ea9785a4cbc8b423b6e7f",
+    "publicationDate": 1723369140
+  },
+  {
+    "_id": "9006a4fc-67cd-563e-aa4d-52f8a222cbde",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5326843449-lego-botanical-collection-10280-10313",
+    "price": 105.7,
+    "title": "LEGO Botanical Collection - 10280 + 10313",
+    "imgUrl": "https://images1.vinted.net/t/03_023d3_EeSPWT4aScbhhK2cZiy4aDJ9/f800/1730672183.jpeg?s=86f421a02165fd02181793b177506f3e20c6593f",
+    "publicationDate": 1730672183
+  },
+  {
+    "_id": "28a9b280-f006-53e0-a32b-832fc9722742",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/3434940030-lego-10280-flower-bouquet-botanical-collection",
+    "price": 58.45,
+    "title": "Lego 10280  Flower Bouquet - Botanical Collection",
+    "imgUrl": "https://images1.vinted.net/t/03_0184b_JkLkTVTkqfzr9RTDtUW5xynh/f800/1693840058.jpeg?s=c48766164fc29cdc5c99cdf651c6cd2112595e35",
+    "publicationDate": 1693840058
+  },
+  {
+    "_id": "65040b52-025c-5b90-a8e0-92f0b033c5e8",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4097619025-lego-10280-mazzo-di-fiori",
+    "price": 66.33,
+    "title": "Lego 10280 mazzo di fiori ",
+    "imgUrl": "https://images1.vinted.net/t/01_01493_f1y29u8pgRgqMZhLrNGkA9fh/f800/1707837768.jpeg?s=998c350e4ffd15a5c2c77ce3bd2f72684e8791e1",
+    "publicationDate": 1707837768
+  },
+  {
+    "_id": "6df1b619-d9db-535c-920e-6b2c2df709f0",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4852568010-lego-ramo-flores-bouquet",
+    "price": 47.95,
+    "title": "Lego Ramo flores Bouquet",
+    "imgUrl": "https://images1.vinted.net/t/03_0008d_xF5UaTaowVhZUXeQHiAk1Pah/f800/1722890380.jpeg?s=598f17d895f951b8e6b8d9d0c6ed65eef2318890",
+    "publicationDate": 1722890380
+  },
+  {
+    "_id": "661494fd-c7a3-51ac-aaf0-5f61ba0ea562",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4340641213-lego-10280-flower-bouquet",
+    "price": 63.7,
+    "title": "Lego 10280 Flower Bouquet",
+    "imgUrl": "https://images1.vinted.net/t/01_013cb_KxKtA54HYPoDmKKRvr5kTsfd/f800/1712679145.jpeg?s=3779c4d804f3607422b4d96a45ed0b492ed0b922",
+    "publicationDate": 1712679145
+  },
+  {
+    "_id": "d06311c0-9af0-5529-b59e-7c95867dec42",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4389622217-lego-flower-bouquet",
+    "price": 53.2,
+    "title": "Lego Flower Bouquet",
+    "imgUrl": "https://images1.vinted.net/t/01_00924_EdhihYxdVAYirodwvAukbidN/f800/1713607953.jpeg?s=f672478cdfdbd603db54d2e2cf28cc65c317c602",
+    "publicationDate": 1713607953
+  },
+  {
+    "_id": "f5b2703a-e1a1-5238-93a3-8145d36d0f8e",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/1507258378-lego-10280-flower-bouquet-botanical-collection-neu",
+    "price": 63.6,
+    "title": "Lego 10280 Flower Bouquet (Botanical Collection) - Neu",
+    "imgUrl": "https://images1.vinted.net/t/03_01c49_Bjfx5dizWxGDJxyuqH6piU2C/f800/1639397393.jpeg?s=b268e938dff9c0f57ef0dd62f5b6c33b1ceb8532",
+    "publicationDate": 1639397393
+  },
+  {
+    "_id": "3377588a-0d16-526b-8752-6ee41baa6233",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5002506112-lego-10280-bouquet-de-flores",
+    "price": 68.95,
+    "title": "Lego 10280 - Bouquet de Flores",
+    "imgUrl": "https://images1.vinted.net/t/02_0077e_yj7j9JSo3WptKmtWPGkPNbde/f800/1725734836.jpeg?s=a302d07fc05f439a2b8b1645c733c81a9584e940",
+    "publicationDate": 1725734836
+  },
+  {
+    "_id": "e3548ef6-644b-552f-b172-e06aeb1c75e4",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/2207994989-lego-10280",
+    "price": 63.69,
+    "title": "Lego 10280",
+    "imgUrl": "https://images1.vinted.net/t/01_001de_hsMRVANr2CzkCe8XoKUj8BRr/f800/1663412686.jpeg?s=be551948754c0454588f6a817ca78777cb9990f2",
+    "publicationDate": 1663412686
+  },
+  {
+    "_id": "b430a9dc-3735-5a06-83a8-b35d89476c0c",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4165057769-lego-10280",
+    "price": 53.2,
+    "title": "Lego 10280",
+    "imgUrl": "https://images1.vinted.net/t/03_00b0e_jjiQ1VUFP8XE4EDBVN49UQvU/f800/1709239875.jpeg?s=9b7f2cad8c351352ff403995fdab0a8f55a192c3",
+    "publicationDate": 1709239875
+  },
+  {
+    "_id": "5212092a-4131-540c-9184-9992694e2e9b",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/4682273679-lego-misb-10280",
+    "price": 63.7,
+    "title": "Lego misb 10280",
+    "imgUrl": "https://images1.vinted.net/t/03_00f73_G5HFQnvyiZAwKEG3pKnNuNZv/f800/1719230995.jpeg?s=00687d335101fe3e00b56048cc403ed3ec1bbd93",
+    "publicationDate": 1719230995
+  },
+  {
+    "_id": "5ba5505d-7d75-590a-bbdb-e1ddc3835c7e",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/2571702744-lego-10280-40460-40524",
+    "price": 91,
+    "title": "Lego 10280-40460-40524",
+    "imgUrl": "https://images1.vinted.net/t/01_025b5_SWxDoqTV1KYHRoRRhTuYFFrz/f800/1673208259.jpeg?s=117bf3a1dd2243211f485501bbcffb25f03d7c7d",
+    "publicationDate": 1673208259
+  },
+  {
+    "_id": "a48c1da6-326f-5c8c-a539-51552e54ff72",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/883990611-lego-creator-botanical-flower-bouquet-blumenstrauss-10280",
+    "price": 53.2,
+    "title": "LEGO Creator Botanical Flower Bouquet Blumenstrauß 10280",
+    "imgUrl": "https://images1.vinted.net/t/02_00ef3_6nEcv2juZU3yMoT1tLoDtrHt/f800/1612433623.jpeg?s=bc06aef8e737af06f5fe790df7d24bbb3a705bba",
+    "publicationDate": 1612433623
+  },
+  {
+    "_id": "a4374a85-5e68-5d82-84a4-dbf776748350",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/3912103154-lego-flower-bouquet-10280",
+    "price": 63.6,
+    "title": "lego flower bouquet  10280",
+    "imgUrl": "https://images1.vinted.net/t/02_016ee_7EjCJwtneeecpJUPk7HijGUd/f800/r2/1703691204.jpeg?s=c1c67c17f7d2bbe0c2ce56e4920b35e35738e580",
+    "publicationDate": 1703691204
+  },
+  {
+    "_id": "37857cfb-0a22-530f-b365-a7dfb7cf0156",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/3750317515-lego-10280-flower-bouquet-icon",
+    "price": 63.7,
+    "title": "Lego 10280 Flower Bouquet (icon)",
+    "imgUrl": "https://images1.vinted.net/t/01_0176e_4Xib7Jyu21QLhDyZvdmTsGrB/f800/1699806353.jpeg?s=f928b6db6c4b1d1a46f7cf266374819d65a4fbe7",
+    "publicationDate": 1699806353
+  },
+  {
+    "_id": "a12cff01-1ac4-5dec-bacd-38d197dd3db5",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/3195809666-lot-lego-botanical-x3-10280-10311-10314-neufs-et-scelles",
     "price": 129.85,
     "title": "Lot Lego Botanical x3 10280 10311 10314 NEUFS et scellés",
     "imgUrl": "https://images1.vinted.net/t/01_00daf_8JRkqY4HkFvfLhQpZL6USwqv/f800/1688232706.jpeg?s=f3b7a85083d186ae6207c0d18f85420aa526b893",
-    "publicationDate": 1688232706,
-    "id": 3195809666
+    "publicationDate": 1688232706
   },
   {
+    "_id": "f608e07d-479b-5deb-b654-3e2fd78fc119",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/1507237241-lego-10280-botanical-collection-flower-bouquet-blumenstrauss-neu",
+    "price": 74.1,
+    "title": "Lego 10280; Botanical Collection, Flower Bouquet, Blumenstrauß - NEU",
+    "imgUrl": "https://images1.vinted.net/t/03_01ec8_HccseKTkBm84YhLHEL1NJvTc/f800/1639396773.jpeg?s=fe19adaf2c435eae34f133c204c1e9ab49803678",
+    "publicationDate": 1639396773
+  },
+  {
+    "_id": "f6e4e7bf-e9d9-5ab4-9180-1562ac09b1f6",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/2493048788-lego-set-bouquet-di-fiori-10280-misb-nuovo",
+    "price": 62.65,
+    "title": "💐 Lego set Bouquet di fiori 10280 MISB nuovo",
+    "imgUrl": "https://images1.vinted.net/t/03_0165a_KCAapeV7DCUzmdoPdYMJn6iy/f800/1670464141.jpeg?s=fe507f40d2b42b726cbea2567ebdf401e7a7a81b",
+    "publicationDate": 1670464141
+  },
+  {
+    "_id": "84524116-e2db-525f-93ce-0ac02a66554e",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/3983353583-lot-lego-botanical-x3-10280-10311-10314-neufs-et-scelles",
     "price": 129.85,
     "title": "Lot Lego Botanical x3 10280 10311 10314 NEUFS et scellés",
     "imgUrl": "https://images1.vinted.net/t/02_00459_jQijBFuroBg6QeRDSfoTS5qr/f800/1705339077.jpeg?s=d6a4665715f76261408211ed8ceb0652ba4dc3f6",
-    "publicationDate": 1705339077,
-    "id": 3983353583
+    "publicationDate": 1705339077
   },
   {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/1593290754-lego-fiori-bouquet-10280-rose-rosse-40460-tulipani-40461-e-girasoli-40245-pacco-super-o-mega",
-    "price": 121.45,
-    "title": "Lego Fiori Bouquet 10280, Rose Rosse 40460, Tulipani 40461 e GIrasoli 40245 Pacco Super o MEGA",
-    "imgUrl": "https://images1.vinted.net/t/03_019e9_ZTQQV8f7d2KW9sLu2SqDjrkx/f800/1643358395.jpeg?s=6c4783a1e850fcd5cf276e3de722ade4a3c31dc5",
-    "publicationDate": 1643358395,
-    "id": 1593290754
-  },
-  {
-    "legoId": "10280",
-    "link": "https://www.vinted.fr/items/883369292-lego-bonsai-bouquet-10280-10281-neuf-scelle-carton-mint-sold-out-botanical-serie",
-    "price": 84.7,
-    "title": "Lego Bonsai Bouquet 10280 10281 neuf scellé carton mint Sold Out botanical serie",
-    "imgUrl": "https://images1.vinted.net/t/02_00c4f_qtSQGxfuueCgxkADz1YcPZky/f800/1612379466.jpeg?s=71313caeff5a262f42ce17cc953f91ee6277b6bd",
-    "publicationDate": 1612379466,
-    "id": 883369292
-  },
-  {
+    "_id": "e20f737c-3418-5be1-aee0-8baa61fca851",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/3985649207-lego-fiori-10280-10311-10313-botanical-nuovi",
     "price": 167.65,
     "title": "Lego Fiori 10280 10311 10313 Botanical NUOVI",
     "imgUrl": "https://images1.vinted.net/t/01_0125f_EVDajYKpF35A75wHx78wNYLQ/f800/1705406802.jpeg?s=01fa2def23fd77bf2df71ec55858a0a251a7493b",
-    "publicationDate": 1705406802,
-    "id": 3985649207
+    "publicationDate": 1705406802
   },
   {
+    "_id": "044a78f9-3a2e-5302-8d03-49b4a8ddb783",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/1507286664-lego-blumenstrauss-10280-creator-expert-neu-ovp",
+    "price": 60.34,
+    "title": "lego Blumenstrauß - 10280 Creator Expert NEU OVP",
+    "imgUrl": "https://images1.vinted.net/t/03_0200c_iugPNW3iKEaa6FbNJSUuZgwK/f800/1639398222.jpeg?s=a80fbf4bd137491cd54e4aa2a584e3f23ec293c3",
+    "publicationDate": 1639398222
+  },
+  {
+    "_id": "b2ee8658-b053-50a4-997f-f8c77e233d3f",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/5313143693-lego-nuovo-sigillati-vendita-blocco",
+    "price": 137.2,
+    "title": "Lego nuovo sigillati vendita blocco",
+    "imgUrl": "https://images1.vinted.net/t/03_01351_DirRRiK2YgQtjnRxpTmiUH3o/f800/1730482399.jpeg?s=36adc049318747e56e506454d51cdb3d871235ff",
+    "publicationDate": 1730482399
+  },
+  {
+    "_id": "fd635d2f-9bb9-5d8d-9509-d68d72828e3d",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/1954038929-bouquet-di-fiori-lego-10280",
+    "price": 62.65,
+    "title": "Bouquet di fiori lego 10280",
+    "imgUrl": "https://images1.vinted.net/t/01_01234_2t2bmjKsC2HdgjkMnzzXQS5C/f800/1656797357.jpeg?s=c0f875ce40536f8154243094cc7d3cef6f2640ba",
+    "publicationDate": 1656797357
+  },
+  {
+    "_id": "d27bf151-8d4f-5a6b-8842-20996cec71be",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/3483843814-lego-botanical-10280-10281-10314-bonsai-bouquet-et-centre-de-table-neufs-et-scelles",
+    "price": 131.95,
+    "title": "Lego Botanical 10280 10281 10314 Bonsaï Bouquet et Centre de table NEUFS et scellés",
+    "imgUrl": "https://images1.vinted.net/t/03_014ed_6HfW6sbfXJXtbGKVTdJ3egt6/f800/1694951610.jpeg?s=997b480a42b555edfcfc724f54754590978d6b38",
+    "publicationDate": 1694951610
+  },
+  {
+    "_id": "d49bbb1c-aa98-5e82-8ff5-5bf2a8faf988",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/883369292-lego-bonsai-bouquet-10280-10281-neuf-scelle-carton-mint-sold-out-botanical-serie",
+    "price": 84.7,
+    "title": "Lego Bonsai Bouquet 10280 10281 neuf scellé carton mint Sold Out botanical serie",
+    "imgUrl": "https://images1.vinted.net/t/02_00c4f_qtSQGxfuueCgxkADz1YcPZky/f800/1612379466.jpeg?s=71313caeff5a262f42ce17cc953f91ee6277b6bd",
+    "publicationDate": 1612379466
+  },
+  {
+    "_id": "78b099b7-5def-55d5-8848-6dd07676469c",
+    "legoId": "10280",
+    "link": "https://www.vinted.fr/items/1593290754-lego-fiori-bouquet-10280-rose-rosse-40460-tulipani-40461-e-girasoli-40245-pacco-super-o-mega",
+    "price": 121.45,
+    "title": "Lego Fiori Bouquet 10280, Rose Rosse 40460, Tulipani 40461 e GIrasoli 40245 Pacco Super o MEGA",
+    "imgUrl": "https://images1.vinted.net/t/03_019e9_ZTQQV8f7d2KW9sLu2SqDjrkx/f800/1643358395.jpeg?s=6c4783a1e850fcd5cf276e3de722ade4a3c31dc5",
+    "publicationDate": 1643358395
+  },
+  {
+    "_id": "5f0b09a6-eba7-5952-b4f8-f72216e82a1d",
     "legoId": "10280",
     "link": "https://www.vinted.fr/items/3252279248-istruzioni-cataloghi-depliant-lego-anni-80-90",
     "price": 189.7,
     "title": "Istruzioni cataloghi depliant lego anni 80-90",
     "imgUrl": "https://images1.vinted.net/t/02_00c56_1pRvpHavpxEeKKt6vcn1Cbec/f800/1697907059.jpeg?s=73c952f3d8b626fcffe19c3acd7df840ae7f99de",
-    "publicationDate": 1697907059,
-    "id": 3252279248
+    "publicationDate": 1697907059
   }
 ]
