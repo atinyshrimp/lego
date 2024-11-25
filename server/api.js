@@ -152,6 +152,39 @@ app.get("/deals/:id", async (req, res) => {
 });
 
 /** Sales */
+// Search deals
+app.get("/sales/search", async (req, res) => {
+    try {
+        // Extract query parameters
+        const {
+            limit = 12, // Default to 12
+            legoSetId, // Lego set ID filter
+        } = req.query;
+
+        // Initialize the query object
+        const filter = {};
+
+        if (legoSetId) {
+            filter.legoId = legoSetId;
+        }
+
+        // Fetch results with sorting and limiting
+        const sales = await sales_collection
+            .find(filter) // Apply the filter
+            .sort({ price: 1 }) // Sort by price in ascending order
+            .limit(Number(limit)) // Limit the number of results
+            .toArray();
+
+        res.status(200).json({
+            limit: Number(limit),
+            total: sales.length,
+            results: sales,
+        });
+    } catch (error) {
+        console.error("Error fetching the sales: ", error);
+        res.status(500).json({ error: "Internal server error" });
+    }
+});
 
 app.listen(PORT);
 
