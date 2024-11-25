@@ -68,17 +68,8 @@ async function run() {
 		const database = client.db(MONGODB_DB_NAME);
 
 		// Add data to collections
-		// await insertDeals(database);
-		// await insertSales(database);
-
-		// await findBestDiscountDeals(database, 40);
-		// await findMostCommentedDeals(database);
-		// await findDealsSortedByPrice(database);
-		// await findDealsSortedByDate(database);
-		// await findSalesByLegoID(database, "71043");
-		// await findRecentSales(database);
-		// await findHotDeals(database);
-		await findDealsEndingSoon(database);
+		await insertDeals(database);
+		await insertSales(database);
 
 		// Send a ping to confirm a successful connection
 		await client.db("admin").command({ ping: 1 });
