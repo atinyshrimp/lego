@@ -134,7 +134,6 @@ app.get("/deals/search", async (req, res) => {
 		);
 
 		res.status(200).json({
-			success: true,
 			...pagination,
 			results: deals,
 		});
@@ -149,7 +148,7 @@ app.get("/deals/:id", async (req, res) => {
 	try {
 		const id = req.params.id;
 		const deal = await deals_collection.find({ _id: id }).toArray();
-		res.status(200).json(deal);
+		res.status(200).json(deal[0]);
 	} catch (error) {
 		console.error("Error fetching the deal: ", error);
 		res.status(500).json({ error: "Internal server error" });
@@ -162,6 +161,7 @@ app.get("/sales/search", async (req, res) => {
 	try {
 		// Extract query parameters
 		const {
+			page = 1,
 			limit = 12, // Default to 12
 			legoSetId, // Lego set ID filter
 		} = req.query;
@@ -173,16 +173,33 @@ app.get("/sales/search", async (req, res) => {
 			filter.legoId = legoSetId;
 		}
 
+		// Calculate limit and offset for pagination
+		const { limit: pageLimit, offset } = calculateLimitAndOffset(
+			Number(page),
+			Number(limit)
+		);
+
 		// Fetch results with sorting and limiting
 		const sales = await sales_collection
 			.find(filter) // Apply the filter
 			.sort({ price: 1 }) // Sort by price in ascending order
-			.limit(Number(limit)) // Limit the number of results
+			.skip(offset)
+			.limit(pageLimit) // Limit the number of results
 			.toArray();
 
+		// Get total count for pagination metadata
+		const totalResults = await sales_collection.countDocuments(filter);
+
+		// Generate pagination metadata
+		const pagination = paginate(
+			Number(page),
+			totalResults,
+			sales,
+			Number(limit)
+		);
+
 		res.status(200).json({
-			limit: Number(limit),
-			total: sales.length,
+			...pagination,
 			results: sales,
 		});
 	} catch (error) {
