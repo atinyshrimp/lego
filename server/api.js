@@ -30,10 +30,10 @@ const client = new MongoClient(uri, {
 let db, deals_collection, sales_collection;
 async function connectToDatabase() {
 	try {
-		await client.connect();
-		db = client.db(process.env.MONGODB_DB);
-		deals_collection = db.collection(process.env.MONGODB_DEALS_COLLECTION);
-		sales_collection = db.collection(process.env.MONGODB_SALES_COLLECTION);
+		// await client.connect();
+		db = client.db("lego");
+		deals_collection = db.collection("deals");
+		sales_collection = db.collection("sales");
 
 		console.log("Connected to MongoDB");
 	} catch (error) {
@@ -198,6 +198,8 @@ app.get("/sales/search", async (req, res) => {
 	}
 });
 
-app.listen(PORT);
+app.listen(PORT, async function () {
+	await connectToDatabase();
+});
 
-console.log(`📡 Running on http://localhost:${PORT}/`);
+// console.log(`📡 Running on http://localhost:${PORT}/`);
