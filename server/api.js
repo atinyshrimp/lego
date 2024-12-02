@@ -45,13 +45,13 @@ process.on("SIGINT", async () => {
 connectToDatabase();
 
 /** ================== Endpoints ================== */
-app.get("/", (_, res) => {
+app.get("/api/", (_, res) => {
 	res.send({ ack: true });
 });
 
 /** Deals */
 // Search deals
-app.get("/deals/search", async (req, res) => {
+app.get("/api/v1/deals/search", async (req, res) => {
 	try {
 		// Extract query parameters
 		const {
@@ -146,7 +146,7 @@ app.get("/deals/search", async (req, res) => {
 });
 
 // Get deals by ID
-app.get("/deals/:id", async (req, res) => {
+app.get("/api/v1/deals/:id", async (req, res) => {
 	try {
 		const id = req.params.id;
 		const deal = await deals_collection.find({ _id: id }).toArray();
@@ -159,7 +159,7 @@ app.get("/deals/:id", async (req, res) => {
 
 /** Sales */
 // Search deals
-app.get("/sales/search", async (req, res) => {
+app.get("/api/v1/sales/search", async (req, res) => {
 	try {
 		// Extract query parameters
 		const {
