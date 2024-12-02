@@ -12,6 +12,7 @@
     "helmet": "^8.0.0",
     "mongodb": "^6.10.0",
     "node-fetch": "^2.7.0",
+    "paginate-info": "^1.0.4",
     "parse-domain": "^8.2.2",
     "puppeteer": "^23.6.1",
     "require-all": "^3.0.0",
