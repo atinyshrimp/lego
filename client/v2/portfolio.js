@@ -60,11 +60,11 @@ const spanLifetime = document.querySelector("#lifetimeValue");
 const fetchDeals = async (page = 1, size = 6) => {
 	try {
 		const response = await fetch(
-			`https://lego-api-blue.vercel.app/deals?page=${page}&size=${size}`
+			`https://bricked-up-api.vercel.app/v1/deals/search?page=${page}&limit=${size}`
 		);
 		const body = await response.json();
 		if (body.success !== true) throw new Error("Failed to fetch deals");
-		return body.data;
+		return body;
 	} catch (error) {
 		console.error(error);
 		return { result: currentDeals, meta: currentPagination };
@@ -96,27 +96,27 @@ const fetchSales = async (id) => {
  * @returns
  */
 const createDealTemplate = (deal) => {
-	const isFavorite = isFavoriteDeal(deal.uuid);
+	const isFavorite = isFavoriteDeal(deal._id);
 	return `
     <div class="col-4">
-      <div class="card mb-4" id=${deal.uuid}>
+      <div class="card mb-4" id=${deal._id}>
         <div class="card-body d-block">
           <!-- First row: Title and LEGO ID -->
           <div class="row mb-2 justify-content-between">
             <div class="col-md-3">
-              <img class="img-fluid img-thumbnail" src="${deal.photo}">
+              <img class="img-fluid img-thumbnail" src="${deal.imgUrl}">
             </div>
             <div class="col-md-7 pt-1 px-0">
               <a href="#" class="deal-title" data-bs-toggle="modal"  data-bs-target="#dealModal" data-uuid="${
-								deal.uuid
-							}" data-id="${deal.id}">
+								deal._id
+							}" data-id="${deal.legoId}">
                 <h5 class="card-title clamp-2-lines">${deal.title}</h5>
               </a>
-              <h6 class="card-subtitle mb-2 text-muted">${deal.id}</h6>
+              <h6 class="card-subtitle mb-2 text-muted">${deal.legoId}</h6>
             </div>
             <div class="col" style="width: 10%; flex: 0 0 auto;">
               <button class="btn favorite-btn" style="width: fit-content;" data-id="${
-								deal.uuid
+								deal._id
 							}">
                 ${isFavorite ? DEL_FAV_ICON : ADD_FAV_ICON}
               </button>
@@ -136,14 +136,14 @@ const createDealTemplate = (deal) => {
               </div>
               <div class="d-inline-flex align-items-center pt-1">
                 <i class="fi fi-rr-pending"></i> &nbsp;
-                <p class="pb-1 m-0">${timeAgo(deal.published)}</p> 
+                <p class="pb-1 m-0">${timeAgo(deal.publication)}</p> 
               </div>
             </div>
 
             <!-- Right Column: Prices and CTA Button -->
             <div class="col-6 d-flex flex-column align-items-end" style="width: fit-content;">
               <p class="card-text text-decoration-line-through text-muted mb-0 d-inline-block">${formatPrice(
-								deal.retail
+								deal.nextBestPrice
 							)}</p>
               <p class="card-text mb-0 d-inline-block">${formatPrice(
 								deal.price
@@ -363,8 +363,8 @@ const renderPagination = (pagination) => {
  * @param {Array} result - deals to display
  * @param {Object} meta - pagination meta info
  */
-const setCurrentDeals = ({ result, meta }) => {
-	currentDeals = result;
+const setCurrentDeals = ({ results, meta }) => {
+	currentDeals = results;
 	currentPagination = meta;
 };
 
@@ -383,7 +383,7 @@ const renderLegoSetIds = async (deals) => {
 	legoSection.style.display = "block";
 	sectionOptions.style.display = "block";
 	let allDeals = await fetchDeals(1, currentPagination.count);
-	allDeals = allDeals.result;
+	allDeals = allDeals.results;
 
 	const ids = getIdsFromDeals(allDeals);
 	const placeholer = `<option selected>Lego set to filter by</option>`;

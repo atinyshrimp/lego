@@ -136,8 +136,9 @@ app.get("/v1/deals/search", async (req, res) => {
 		);
 
 		res.status(200).json({
-			...pagination,
+			success: true,
 			results: deals,
+			meta: pagination,
 		});
 	} catch (error) {
 		console.error("Error fetching the deals: ", error);
@@ -201,8 +202,9 @@ app.get("/v1/sales/search", async (req, res) => {
 		);
 
 		res.status(200).json({
-			...pagination,
+			success: true,
 			results: sales,
+			meta: pagination,
 		});
 	} catch (error) {
 		console.error("Error fetching the sales: ", error);
