@@ -42,6 +42,8 @@ process.on("SIGINT", async () => {
 	process.exit(0);
 });
 
+connectToDatabase();
+
 /** ================== Endpoints ================== */
 app.get("/", (_, res) => {
 	res.send({ ack: true });
@@ -206,9 +208,4 @@ app.get("/sales/search", async (req, res) => {
 		console.error("Error fetching the sales: ", error);
 		res.status(500).json({ error: "Internal server error" });
 	}
-});
-
-app.listen(PORT, function () {
-	connectToDatabase();
-	// console.log(`📡 Running on http://localhost:${PORT}/`);
 });
