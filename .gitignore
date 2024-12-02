@@ -115,3 +115,5 @@ scraper
 slides/dist
 serverless
 products.json
+
+.vercel
