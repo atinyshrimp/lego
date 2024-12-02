@@ -28,20 +28,13 @@ const client = new MongoClient(uri, {
 });
 
 let db, deals_collection, sales_collection;
-async function connectToDatabase() {
-	try {
-		// await client.connect();
-		db = client.db("lego");
-		deals_collection = db.collection("deals");
-		sales_collection = db.collection("sales");
+function connectToDatabase() {
+	db = client.db("lego");
+	deals_collection = db.collection("deals");
+	sales_collection = db.collection("sales");
 
-		console.log("Connected to MongoDB");
-	} catch (error) {
-		console.error("Error connecting to MongoDB:", error);
-	}
+	console.log(`Connected to "${db.namespace}" on MongoDB Atlas`);
 }
-
-connectToDatabase();
 
 process.on("SIGINT", async () => {
 	console.log("Closing MongoDB connection");
@@ -198,8 +191,7 @@ app.get("/sales/search", async (req, res) => {
 	}
 });
 
-app.listen(PORT, async function () {
-	await connectToDatabase();
+app.listen(PORT, function () {
+	connectToDatabase();
+	// console.log(`📡 Running on http://localhost:${PORT}/`);
 });
-
-// console.log(`📡 Running on http://localhost:${PORT}/`);
