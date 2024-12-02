@@ -79,11 +79,11 @@ const fetchDeals = async (page = 1, size = 6) => {
 const fetchSales = async (id) => {
 	try {
 		const response = await fetch(
-			`https://lego-api-blue.vercel.app/sales?id=${id}`
+			`http://bricked-up-api.vercel.app/v1/sales/search?legoSetId=${id}`
 		);
 		const body = await response.json();
 		if (body.success !== true) throw new Error("Failed to fetch sales");
-		return body.data.result;
+		return body.results;
 	} catch (error) {
 		console.error(error);
 		return [];
@@ -192,11 +192,11 @@ const createSaleTemplate = (
 ) => {
 	return `
     <div class="col-4">
-      <div class="card mb-4" id=${sale.uuid}">
+      <div class="card mb-4" id=${sale._id}">
         <div class="card-body d-block">
           <div class="row justify-content-between">
             <div class="col" style="width: 37%; flex: 0 0 auto;">
-              <img class="img-fluid img-thumbnail" src="https://placehold.jp/1000x1000.png">
+              <img class="img-fluid img-thumbnail" src=${sale.imgUrl}>
             </div>
             <div class="col ${modal ? "px-0" : ""}">
               <a href="${sale.link}" target="_blank"">
@@ -216,7 +216,7 @@ const createSaleTemplate = (
 							modal ? 9 : 7
 						}%; flex: 0 0 auto;">
               <button class="btn favorite-btn mt-1" style="width: fit-content; display: none;" data-id="${
-								sale.uuid
+								sale._id
 							}">
                 ${ADD_FAV_ICON}
               </button>
@@ -238,7 +238,7 @@ const renderSales = async (sales) => {
 	const fragment = document.createDocumentFragment();
 	const div = document.createElement("div");
 
-	const favorites = sales.filter((deal) => isFavoriteDeal(deal.uuid));
+	const favorites = sales.filter((deal) => isFavoriteDeal(deal._id));
 
 	let template;
 	if (favorites.length > 0) {
@@ -551,7 +551,14 @@ document.addEventListener("click", async (event) => {
 		const uuid = event.target.parentElement.getAttribute("data-uuid");
 
 		// Find the deal information
-		const deal = currentDeals.find((deal) => deal.uuid === uuid);
+		const deal = currentDeals.find((deal) => deal._id === uuid);
+
+		// Configure "See Deal" button
+		document
+			.getElementsByClassName("modal-footer")[0]
+			// .getElementsByTagName("button")[0]
+			.getElementsByTagName("a")[0]
+			.setAttribute("href", deal.merchantLink);
 
 		// Configure "See Deal" button
 		document
@@ -563,28 +570,26 @@ document.addEventListener("click", async (event) => {
 		// Populate deal info in the modal
 		const modalDealInfo = document.getElementById("modalDealInfo");
 		modalDealInfo.innerHTML = `
-      <div class="row">
-        <div class="col-md-3">
-          <img class="rounded img-fluid" src=${deal.photo} alt="${
-			deal.uuid
-		}-img"/>
-        </div>
-        <div class="col">
-          <strong><h5>${deal.title}</h5></strong>
-          <p>LEGO ID: ${deal.id}</p>
-          <p>Temperature: ${deal.temperature}°</p>
-          <p>Comments: ${deal.comments}</p>
-          <p>Retail Price: ${formatPrice(deal.retail)}</p>
-          <p>Discounted Price: ${formatPrice(deal.price)}</p>
-          <p>Publication Date: ${new Date(
-						deal.published * 1e3
-					).toLocaleDateString()}</p>
-        </div>
-      </div>
-    `;
+		<div class="row">
+			<div class="col-md-3">
+			<img class="rounded img-fluid" src=${deal.imgUrl} alt="${deal._id}-img"/>
+			</div>
+			<div class="col">
+			<strong><h5>${deal.title}</h5></strong>
+			<p>LEGO ID: ${deal.legoId}</p>
+			<p>Temperature: ${deal.temperature}°</p>
+			<p>Comments: ${deal.comments}</p>
+			<p>Retail Price: ${formatPrice(deal.nextBestPrice)}</p>
+			<p>Discounted Price: ${formatPrice(deal.price)}</p>
+			<p>Publication Date: ${new Date(
+				deal.publication * 1e3
+			).toLocaleDateString()}</p>
+			</div>
+		</div>
+		`;
 
 		// Fetch sales information for the LEGO ID
-		let sales = await fetchSales(deal.id);
+		let sales = await fetchSales(deal.legoId);
 		const { average, p25, p50, p95 } = calculateSalesIndicators(sales);
 
 		// Generate histogram data
@@ -599,7 +604,12 @@ document.addEventListener("click", async (event) => {
 		const modalSalesInfo = document.getElementById("modalSalesInfo");
 		modalSalesInfo.innerHTML = sales
 			.map((sale) =>
-				createSaleTemplate(sale, getProfitability(deal, sale), deal.id, true)
+				createSaleTemplate(
+					sale,
+					getProfitability(deal, sale),
+					deal.legoId,
+					true
+				)
 			)
 			.join("");
 
