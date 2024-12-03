@@ -5,8 +5,6 @@ const { calculateLimitAndOffset, paginate } = require("paginate-info");
 const { MongoClient, ServerApiVersion } = require("mongodb");
 require("dotenv").config();
 
-const PORT = 8092;
-
 const app = express();
 
 module.exports = app;
@@ -130,7 +128,7 @@ app.get("/v1/deals/search", async (req, res) => {
             }
         }
 
-        if (!sortingFilter) {
+        if (sortingFilter !== undefined) {
             sortingFilter = { price: 1 }; // Sort by price in ascending order by default (if applicable)
             if (sortBy) {
                 sortingFilter = {};
@@ -185,6 +183,41 @@ app.get("/v1/deals/search", async (req, res) => {
         });
     } catch (error) {
         console.error("Error fetching the deals: ", error);
+        res.status(500).json({ error: "Internal server error" });
+    }
+});
+
+// Get unique Lego Set IDs
+app.get("/deals/unique", async (_, res) => {
+    try {
+        // Aggregation to get unique Lego Set IDs from database
+        const agg = [
+            {
+                $group: {
+                    _id: null,
+                    results: {
+                        $addToSet: "$legoId",
+                    },
+                },
+            },
+            {
+                $project: {
+                    _id: 0,
+                    results: {
+                        $sortArray: {
+                            input: "$results",
+                            sortBy: 1,
+                        },
+                    },
+                },
+            },
+        ];
+
+        const cursor = deals_collection.aggregate(agg);
+        const uniqueIDs = await cursor.toArray();
+        res.status(200).json(uniqueIDs[0]);
+    } catch (error) {
+        console.error("Error fetching the deal: ", error);
         res.status(500).json({ error: "Internal server error" });
     }
 });

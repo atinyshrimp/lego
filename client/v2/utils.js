@@ -11,8 +11,10 @@ const DARK_MODE_CLASS = "dark-mode";
  * @param {Array} deals - list of deals
  * @returns {Array} list of lego set ids
  */
-const getIdsFromDeals = (deals) => {
-  return Array.from(new Set(deals.map((deal) => deal.id)));
+const getIdsFromDeals = async () => {
+    const res = await fetch("http://localhost:3001/deals/unique");
+    const content = await res.json();
+    return content.results.sort();
 };
 
 /** Filters the deals based on a discount percentage range.
@@ -24,23 +26,25 @@ const getIdsFromDeals = (deals) => {
  * @throws {RangeError} If `rangeBeg` or `rangeEnd` is outside the allowed range (0 to 100).
  */
 function filterDealsByDiscount(data, rangeBeg = 0, rangeEnd = 100) {
-  try {
-    if (rangeBeg >= 0 && rangeEnd <= 100) {
-      if (rangeBeg < rangeEnd) {
-        return data
-          .filter(
-            (deal) => deal.discount >= rangeBeg && deal.discount <= rangeEnd
-          )
-          .sort((a, b) => b.discount - a.discount);
-      } else {
-        throw new RangeError("rangeBeg has to be lesser than rangeEnd");
-      }
-    } else {
-      throw new RangeError("input discount has to be between 0 and 100");
+    try {
+        if (rangeBeg >= 0 && rangeEnd <= 100) {
+            if (rangeBeg < rangeEnd) {
+                return data
+                    .filter(
+                        (deal) =>
+                            deal.discount >= rangeBeg &&
+                            deal.discount <= rangeEnd
+                    )
+                    .sort((a, b) => b.discount - a.discount);
+            } else {
+                throw new RangeError("rangeBeg has to be lesser than rangeEnd");
+            }
+        } else {
+            throw new RangeError("input discount has to be between 0 and 100");
+        }
+    } catch (e) {
+        console.log(e);
     }
-  } catch (e) {
-    console.log(e);
-  }
 }
 
 /** Filters the deals by the number of comments
@@ -50,13 +54,13 @@ function filterDealsByDiscount(data, rangeBeg = 0, rangeEnd = 100) {
  * @returns {Array} - The filtered deals with more than `lowerBound` comments
  */
 function filterDealsByComments(data, lowerBound = 15) {
-  try {
-    return data
-      .filter((deal) => deal.comments >= lowerBound)
-      .sort((a, b) => b.comments - a.comments);
-  } catch (e) {
-    console.log(e);
-  }
+    try {
+        return data
+            .filter((deal) => deal.comments >= lowerBound)
+            .sort((a, b) => b.comments - a.comments);
+    } catch (e) {
+        console.log(e);
+    }
 }
 
 /** Filters the deals by the temperature of the deals
@@ -66,13 +70,13 @@ function filterDealsByComments(data, lowerBound = 15) {
  * @returns {Array} - The filtered deals which temperature is higher than `lowerBound`
  */
 function filterDealsByTemperature(data, lowerBound = 100) {
-  try {
-    return data
-      .filter((deal) => deal.temperature >= lowerBound)
-      .sort((a, b) => b.temperature - a.temperature);
-  } catch (e) {
-    console.log(e);
-  }
+    try {
+        return data
+            .filter((deal) => deal.temperature >= lowerBound)
+            .sort((a, b) => b.temperature - a.temperature);
+    } catch (e) {
+        console.log(e);
+    }
 }
 
 /** Paginate deals based on the current page and page size
@@ -83,9 +87,9 @@ function filterDealsByTemperature(data, lowerBound = 100) {
  * @returns {Array} - Paginated deals
  */
 function paginateDeals(deals, page = 1, size = 6) {
-  const startIndex = (page - 1) * size;
-  const endIndex = startIndex + size;
-  return deals.slice(startIndex, endIndex);
+    const startIndex = (page - 1) * size;
+    const endIndex = startIndex + size;
+    return deals.slice(startIndex, endIndex);
 }
 
 /** Sorts an array of deals by their `price` property.
@@ -97,18 +101,18 @@ function paginateDeals(deals, page = 1, size = 6) {
  * @see {@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort|Reference} for sorting functionality.
  */
 function sortDeals(deals, selectValue) {
-  try {
-    const splittedValue = selectValue.split("-");
-    const ascending = splittedValue[1] === "asc" ? true : false;
-    let propName = splittedValue[0];
-    propName = propName === "date" ? "published" : propName;
+    try {
+        const splittedValue = selectValue.split("-");
+        const ascending = splittedValue[1] === "asc" ? true : false;
+        let propName = splittedValue[0];
+        propName = propName === "date" ? "published" : propName;
 
-    return deals.sort((a, b) =>
-      ascending ? a[propName] - b[propName] : b[propName] - a[propName]
-    );
-  } catch (e) {
-    console.log(e);
-  }
+        return deals.sort((a, b) =>
+            ascending ? a[propName] - b[propName] : b[propName] - a[propName]
+        );
+    } catch (e) {
+        console.log(e);
+    }
 }
 
 // Feature 9 - average, p25, p50 and p95 price value indicators
@@ -121,29 +125,30 @@ function sortDeals(deals, selectValue) {
  *
  */
 function calcQuartile(arr, q) {
-  let a = arr.slice();
-  // Turn q into a decimal (e.g. 95 becomes 0.95)
-  q = q / 100;
+    let a = arr.slice();
+    // Turn q into a decimal (e.g. 95 becomes 0.95)
+    q = q / 100;
 
-  // Sort the array into ascending order
-  let data = sortDeals(a, "price-asc");
+    // Sort the array into ascending order
+    let data = sortDeals(a, "price-asc");
 
-  // Work out the position in the array of the percentile point
-  let p = (data.length - 1) * q;
-  let b = Math.floor(p);
+    // Work out the position in the array of the percentile point
+    let p = (data.length - 1) * q;
+    let b = Math.floor(p);
 
-  // Work out what we rounded off (if anything)
-  let remainder = p - b;
+    // Work out what we rounded off (if anything)
+    let remainder = p - b;
 
-  // See whether that data exists directly
-  if (data.length > 1 && data[b + 1].price !== undefined) {
-    return (
-      parseFloat(data[b].price) +
-      remainder * (parseFloat(data[b + 1].price) - parseFloat(data[b].price))
-    );
-  } else {
-    return parseFloat(data[b].price);
-  }
+    // See whether that data exists directly
+    if (data.length > 1 && data[b + 1].price !== undefined) {
+        return (
+            parseFloat(data[b].price) +
+            remainder *
+                (parseFloat(data[b + 1].price) - parseFloat(data[b].price))
+        );
+    } else {
+        return parseFloat(data[b].price);
+    }
 }
 
 /** Calculates the average discount percentage from a list of deals.
@@ -153,21 +158,23 @@ function calcQuartile(arr, q) {
  * @throws {Error} If any error occurs during calculation.
  */
 function getSalesPriceAverage(sales) {
-  try {
-    // Filter out sales that have a valid price and calculate the sum of their discounts
-    const totalPrice = sales
-      .filter((sale) => parseFloat(sale.price) !== null) // Remove sales without a discount
-      .reduce((sum, sale) => sum + parseFloat(sale.price), 0); // Sum all the discounts
+    try {
+        // Filter out sales that have a valid price and calculate the sum of their discounts
+        const totalPrice = sales
+            .filter((sale) => parseFloat(sale.price) !== null) // Remove sales without a discount
+            .reduce((sum, sale) => sum + parseFloat(sale.price), 0); // Sum all the discounts
 
-    // Count the number of sales that have a valid discount
-    const countSales = sales.filter((sale) => sale.discount !== null).length;
+        // Count the number of sales that have a valid discount
+        const countSales = sales.filter(
+            (sale) => sale.discount !== null
+        ).length;
 
-    // Calculate and return the average discount
-    const averageDiscount = totalPrice / countSales;
-    return Number(averageDiscount.toFixed(2)); // Round the average to the 100th
-  } catch (e) {
-    console.log(e);
-  }
+        // Calculate and return the average discount
+        const averageDiscount = totalPrice / countSales;
+        return Number(averageDiscount.toFixed(2)); // Round the average to the 100th
+    } catch (e) {
+        console.log(e);
+    }
 }
 
 /** Computes relevant indicators when given a list of sales objects
@@ -176,12 +183,12 @@ function getSalesPriceAverage(sales) {
  * @returns {Object} A dictionary containing important indicators to understand sales
  */
 function calculateSalesIndicators(sales) {
-  return {
-    average: getSalesPriceAverage(sales),
-    p25: calcQuartile(sales, 25),
-    p50: calcQuartile(sales, 50),
-    p95: calcQuartile(sales, 95),
-  };
+    return {
+        average: getSalesPriceAverage(sales),
+        p25: calcQuartile(sales, 25),
+        p50: calcQuartile(sales, 50),
+        p95: calcQuartile(sales, 95),
+    };
 }
 
 // Feature 10 - Lifetime value
@@ -191,22 +198,22 @@ function calculateSalesIndicators(sales) {
  * @returns {string} - The number of days between the earliest and latest sales, or a message if no data is provided.
  */
 const calculateLifetimeValue = (sales) => {
-  if (sales.length === 0) {
-    return "No data to analyze";
-  }
+    if (sales.length === 0) {
+        return "No data to analyze";
+    }
 
-  // Extract the dates from the sales data
-  const salesDates = sales.map((sale) => new Date(sale.published * 1e3));
+    // Extract the dates from the sales data
+    const salesDates = sales.map((sale) => new Date(sale.published * 1e3));
 
-  // Find the earliest & latest sales
-  const earliestDate = new Date(Math.min(...salesDates));
-  const latestDate = new Date(Math.max(...salesDates));
+    // Find the earliest & latest sales
+    const earliestDate = new Date(Math.min(...salesDates));
+    const latestDate = new Date(Math.max(...salesDates));
 
-  // Calculate the difference in time and convert to days
-  const diffTime = Math.abs(latestDate - earliestDate);
-  const diffDays = Math.ceil(diffTime / (1e3 * 60 * 60 * 24));
+    // Calculate the difference in time and convert to days
+    const diffTime = Math.abs(latestDate - earliestDate);
+    const diffDays = Math.ceil(diffTime / (1e3 * 60 * 60 * 24));
 
-  return diffDays > 0 ? `${diffDays} days` : "1 day";
+    return diffDays > 0 ? `${diffDays} days` : "1 day";
 };
 
 // Feature 13 - Save as favorite
@@ -215,8 +222,8 @@ const calculateLifetimeValue = (sales) => {
  * @returns {Array<string>} - An array of favorite deal IDs.
  */
 const getFavoriteDeals = () => {
-  const favorites = localStorage.getItem("favoriteDeals");
-  return favorites ? JSON.parse(favorites) : [];
+    const favorites = localStorage.getItem("favoriteDeals");
+    return favorites ? JSON.parse(favorites) : [];
 };
 
 /** Saves favorite deals to localStorage.
@@ -224,7 +231,7 @@ const getFavoriteDeals = () => {
  * @param {Array<string>} favorites - An array of favorite deal IDs to save.
  */
 const saveFavoriteDeals = (favorites) => {
-  localStorage.setItem("favoriteDeals", JSON.stringify(favorites));
+    localStorage.setItem("favoriteDeals", JSON.stringify(favorites));
 };
 
 /** Checks if a deal is a favorite.
@@ -233,8 +240,8 @@ const saveFavoriteDeals = (favorites) => {
  * @returns {boolean} - True if the deal is a favorite, false otherwise.
  */
 const isFavoriteDeal = (dealId) => {
-  const favorites = getFavoriteDeals();
-  return favorites.includes(dealId);
+    const favorites = getFavoriteDeals();
+    return favorites.includes(dealId);
 };
 
 /** Toggles the favorite status of a deal and updates the UI.
@@ -242,20 +249,20 @@ const isFavoriteDeal = (dealId) => {
  * @param {Event} event - The click event from the UI element.
  */
 const toggleFavorite = (event) => {
-  const dealId = event.target.getAttribute("data-id");
-  let favorites = getFavoriteDeals();
+    const dealId = event.target.getAttribute("data-id");
+    let favorites = getFavoriteDeals();
 
-  if (favorites.includes(dealId)) {
-    // If the deal if already a favorite, we remove it
-    favorites = favorites.filter((id) => id !== dealId);
-    event.target.innerHTML = ADD_FAV_ICON;
-  } else {
-    favorites.push(dealId);
-    event.target.innerHTML = DEL_FAV_ICON;
-  }
+    if (favorites.includes(dealId)) {
+        // If the deal if already a favorite, we remove it
+        favorites = favorites.filter((id) => id !== dealId);
+        event.target.innerHTML = ADD_FAV_ICON;
+    } else {
+        favorites.push(dealId);
+        event.target.innerHTML = DEL_FAV_ICON;
+    }
 
-  saveFavoriteDeals(favorites);
-  console.table(getFavoriteDeals());
+    saveFavoriteDeals(favorites);
+    console.table(getFavoriteDeals());
 };
 
 /** Formats a number into a readable currency
@@ -266,10 +273,10 @@ const toggleFavorite = (event) => {
  * @see {@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat|Reference}
  */
 function formatPrice(number) {
-  return new Intl.NumberFormat("en-US", {
-    style: "currency",
-    currency: "EUR",
-  }).format(number);
+    return new Intl.NumberFormat("en-US", {
+        style: "currency",
+        currency: "EUR",
+    }).format(number);
 }
 
 /** Checks if a tab is active.
@@ -278,8 +285,8 @@ function formatPrice(number) {
  * @returns {boolean} - True if the tab is active, false otherwise.
  */
 function isTabActive(tabId) {
-  const tab = document.querySelector(`#${tabId}`);
-  return tab.classList.contains("active");
+    const tab = document.querySelector(`#${tabId}`);
+    return tab.classList.contains("active");
 }
 
 // Function to enable dark mode
@@ -287,10 +294,10 @@ function isTabActive(tabId) {
  *
  */
 const enableDarkMode = () => {
-  document.body.classList.add(DARK_MODE_CLASS);
+    document.body.classList.add(DARK_MODE_CLASS);
 
-  localStorage.setItem("darkMode", "enabled"); // Save user preference
-  document.querySelector(".form-check-label").innerHTML = "Peak the sunlight";
+    localStorage.setItem("darkMode", "enabled"); // Save user preference
+    document.querySelector(".form-check-label").innerHTML = "Peak the sunlight";
 };
 
 // Function to disable dark mode
@@ -298,10 +305,10 @@ const enableDarkMode = () => {
  *
  */
 const disableDarkMode = () => {
-  document.body.classList.remove(DARK_MODE_CLASS);
+    document.body.classList.remove(DARK_MODE_CLASS);
 
-  localStorage.setItem("darkMode", "disabled"); // Save user preference
-  document.querySelector(".form-check-label").innerHTML = "Enable dark mode";
+    localStorage.setItem("darkMode", "disabled"); // Save user preference
+    document.querySelector(".form-check-label").innerHTML = "Enable dark mode";
 };
 
 /** Checks if dark mode is enabled.
@@ -309,7 +316,7 @@ const disableDarkMode = () => {
  * @returns {boolean} - True if dark mode is enabled, false otherwise.
  */
 function isDarkModeEnabled() {
-  return localStorage.getItem("darkMode") === "enabled";
+    return localStorage.getItem("darkMode") === "enabled";
 }
 
 /** Finds the highest profitability of a given item compared to other deals.
@@ -321,20 +328,23 @@ function isDarkModeEnabled() {
  * @returns {number} The highest profitability, rounded to two decimal places.
  */
 function findHighestProfitability(data, item) {
-  // Get items referencing the right Lego set
-  let matchingItems = data.filter((deal) => deal.title.includes(item.legoId));
-  console.log(item.legoId);
-  console.table(matchingItems);
+    // Get items referencing the right Lego set
+    let matchingItems = data.filter((deal) => deal.title.includes(item.legoId));
+    console.log(item.legoId);
+    console.table(matchingItems);
 
-  // Get the highest resale price
-  const highestResalePrice = Math.max(
-    ...matchingItems.map((item) => item.price)
-  );
+    // Get the highest resale price
+    const highestResalePrice = Math.max(
+        ...matchingItems.map((item) => item.price)
+    );
 
-  // Compute profitability
-  return Number(
-    (((item.price - highestResalePrice) * 100) / highestResalePrice).toFixed(2)
-  );
+    // Compute profitability
+    return Number(
+        (
+            ((item.price - highestResalePrice) * 100) /
+            highestResalePrice
+        ).toFixed(2)
+    );
 }
 
 /** Calculates the profitability percentage between a deal price and a sale price.
@@ -344,7 +354,7 @@ function findHighestProfitability(data, item) {
  * @returns {string} - The profitability percentage as a string.
  */
 function getProfitability(deal, sale) {
-  return Number(((sale.price - deal.price) / deal.price) * 100).toFixed(2);
+    return Number(((sale.price - deal.price) / deal.price) * 100).toFixed(2);
 }
 
 /** Converts a Unix timestamp to a human-readable relative time string
@@ -353,29 +363,29 @@ function getProfitability(deal, sale) {
  * @returns {string} - A string representing the relative time (e.g., "a month ago")
  */
 function timeAgo(unixTime) {
-  const currentTime = Date.now();
-  const publicationTime = unixTime * 1000; // Convert Unix time to milliseconds
-  const elapsedTime = currentTime - publicationTime;
+    const currentTime = Date.now();
+    const publicationTime = unixTime * 1000; // Convert Unix time to milliseconds
+    const elapsedTime = currentTime - publicationTime;
 
-  const seconds = Math.floor(elapsedTime / 1000);
-  const minutes = Math.floor(seconds / 60);
-  const hours = Math.floor(minutes / 60);
-  const days = Math.floor(hours / 24);
-  const months = Math.floor(days / 30);
-  const years = Math.floor(months / 12);
+    const seconds = Math.floor(elapsedTime / 1000);
+    const minutes = Math.floor(seconds / 60);
+    const hours = Math.floor(minutes / 60);
+    const days = Math.floor(hours / 24);
+    const months = Math.floor(days / 30);
+    const years = Math.floor(months / 12);
 
-  if (years > 1) return `${years} years ago`;
-  if (years === 1) return "a year ago";
-  if (months > 1) return `${months} months ago`;
-  if (months === 1) return "a month ago";
-  if (days > 1) return `${days} days ago`;
-  if (days === 1) return "a day ago";
-  if (hours > 1) return `${hours} hours ago`;
-  if (hours === 1) return "an hour ago";
-  if (minutes > 1) return `${minutes} minutes ago`;
-  if (minutes === 1) return "a minute ago";
-  if (seconds > 1) return `${seconds} seconds ago`;
-  return "just now";
+    if (years > 1) return `${years} years ago`;
+    if (years === 1) return "a year ago";
+    if (months > 1) return `${months} months ago`;
+    if (months === 1) return "a month ago";
+    if (days > 1) return `${days} days ago`;
+    if (days === 1) return "a day ago";
+    if (hours > 1) return `${hours} hours ago`;
+    if (hours === 1) return "an hour ago";
+    if (minutes > 1) return `${minutes} minutes ago`;
+    if (minutes === 1) return "a minute ago";
+    if (seconds > 1) return `${seconds} seconds ago`;
+    return "just now";
 }
 
 // Function to generate histogram data
@@ -386,20 +396,23 @@ function timeAgo(unixTime) {
  * @returns {Object} - An object containing labels and histogram data.
  */
 function generateHistogramData(data, bins = 10) {
-  const sales = data.map((sale) => parseFloat(sale.price));
-  console.table(sales);
-  const min = Math.min(...sales);
-  const max = Math.max(...sales);
-  const binSize = (max - min) / bins;
-  const histogram = Array(bins).fill(0);
+    const sales = data.map((sale) => parseFloat(sale.price));
+    console.table(sales);
+    const min = Math.min(...sales);
+    const max = Math.max(...sales);
+    const binSize = (max - min) / bins;
+    const histogram = Array(bins).fill(0);
 
-  sales.forEach((value) => {
-    const binIndex = Math.min(Math.floor((value - min) / binSize), bins - 1);
-    histogram[binIndex]++;
-  });
+    sales.forEach((value) => {
+        const binIndex = Math.min(
+            Math.floor((value - min) / binSize),
+            bins - 1
+        );
+        histogram[binIndex]++;
+    });
 
-  const labels = Array.from({ length: bins }, (_, i) =>
-    (min + i * binSize).toFixed(2)
-  );
-  return { labels, histogram };
+    const labels = Array.from({ length: bins }, (_, i) =>
+        (min + i * binSize).toFixed(2)
+    );
+    return { labels, histogram };
 }
