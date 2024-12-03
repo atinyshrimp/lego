@@ -5,6 +5,7 @@ const ADD_FAV_ICON = `<i class="fi fi-rs-heart" style="color: var(--bu-text);"><
 const DEL_FAV_ICON = `
 <i class="fi fi-ss-heart" style="color: #E02A29;"></i>`;
 const DARK_MODE_CLASS = "dark-mode";
+const API_URL = "https://bricked-up-api.vercel.app";
 
 /**
  *
@@ -12,7 +13,7 @@ const DARK_MODE_CLASS = "dark-mode";
  * @returns {Array} list of lego set ids
  */
 const getIdsFromDeals = async () => {
-    const res = await fetch("http://localhost:3001/deals/unique");
+    const res = await fetch(`${API_URL}/v1/deals/unique`);
     const content = await res.json();
     return content.results.sort();
 };

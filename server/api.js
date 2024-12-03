@@ -188,7 +188,7 @@ app.get("/v1/deals/search", async (req, res) => {
 });
 
 // Get unique Lego Set IDs
-app.get("/deals/unique", async (_, res) => {
+app.get("/v1/deals/unique", async (_, res) => {
     try {
         // Aggregation to get unique Lego Set IDs from database
         const agg = [
