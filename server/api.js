@@ -99,39 +99,57 @@ app.get("/v1/deals/search", async (req, res) => {
         }
 
         // Add sorting filter if specified
-        let sortingFilter = { price: 1 }; // Sort by price in ascending order by default
-        if (sortBy) {
-            sortingFilter = {};
-
-            const fieldToSort = sortBy.split("-")[0];
-            const sortingOrder = sortBy.split("-")[1] === "desc" ? -1 : 1;
-
-            switch (fieldToSort) {
-                case "price":
-                    sortingFilter = { price: sortingOrder };
-                    break;
-                case "date":
-                    sortingFilter = { publication: sortingOrder };
-                    break;
-                default:
-                    res.status(501).json({
-                        error: `Non valid parameter for sortBy field: ${sortBy}`,
-                    });
-            }
-        }
+        let sortingFilter; // Sort by price in ascending order by default
 
         // Handle special filters
         if (filterBy) {
-            switch (filterBy) {
+            let splittedFilter = filterBy.split("-");
+            const minThreshold =
+                splittedFilter.length === 3 ? Number(splittedFilter[2]) : 0;
+
+            splittedFilter = `${splittedFilter[0]}-${splittedFilter[1]}`;
+            switch (splittedFilter) {
                 case "best-discount":
-                    filter.discount = { $exists: true, $gte: 0 };
+                    filter.discount = { $exists: true, $gte: minThreshold };
+                    sortingFilter = { discount: -1 }; // Sort deals by "discount" in descending order
                     break;
+
                 case "most-commented":
-                    filter.comments = { $exists: true, $gte: 0 };
+                    filter.comments = { $exists: true, $gte: minThreshold };
+                    sortingFilter = { comments: -1 }; // Sort deals by "comments" in descending order
                     break;
+
+                case "hot-deals":
+                    filter.temperature = { $exists: true, $gte: minThreshold };
+                    sortingFilter = { temperature: -1 }; // Sort deals by "temperature" in descending order
+                    break;
+
                 default:
-                    console.warn(`Unknown filterBy value: ${filterBy}`);
+                    console.warn(`Unknown filterBy value: ${splittedFilter}`);
                     break;
+            }
+        }
+
+        if (!sortingFilter) {
+            sortingFilter = { price: 1 }; // Sort by price in ascending order by default (if applicable)
+            if (sortBy) {
+                sortingFilter = {};
+
+                const fieldToSort = sortBy.split("-")[0];
+                const sortingOrder = sortBy.split("-")[1] === "desc" ? -1 : 1;
+
+                switch (fieldToSort) {
+                    case "price":
+                        sortingFilter = { price: sortingOrder };
+                        break;
+                    case "date":
+                        sortingFilter = { publication: sortingOrder };
+                        break;
+                    default:
+                        res.status(501).json({
+                            error: `Non valid parameter for sortBy field: ${sortBy}`,
+                        });
+                }
             }
         }
 
