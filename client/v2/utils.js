@@ -5,7 +5,7 @@ const ADD_FAV_ICON = `<i class="fi fi-rs-heart" style="color: var(--bu-text);"><
 const DEL_FAV_ICON = `
 <i class="fi fi-ss-heart" style="color: #E02A29;"></i>`;
 const DARK_MODE_CLASS = "dark-mode";
-const API_URL = "https://bricked-up-api.vercel.app";
+// const API_URL = "https://bricked-up-api.vercel.app";
 
 /**
  *

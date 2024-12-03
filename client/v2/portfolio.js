@@ -313,72 +313,108 @@ const createPaginationButton = (
 const renderPagination = (pagination) => {
     const { currentPage, pageCount } = pagination;
     const paginationContainer = document.querySelector(".pagination");
+    const maxVisiblePages = 5; // Number of visible pages
+    const halfVisible = Math.floor(maxVisiblePages / 2);
 
     paginationContainer.innerHTML = ""; // Clear previous pagination
 
-    // Feature 1 - Browse pages
-    // Previous button
-    paginationContainer.innerHTML += createPaginationButton(
-        currentPage - 1,
-        currentPage === 1,
-        `<i class="fi fi-rr-caret-left"></i>`,
-        "Previous"
-    );
-
-    // Page numbers
-    for (let page = 1; page <= pageCount; page++) {
-        paginationContainer.innerHTML += createPaginationButton(
-            page,
-            page === currentPage,
-            page,
-            "",
-            "active"
-        );
+    // Add "Previous" button
+    if (currentPage > 1) {
+        paginationContainer.innerHTML += `
+            <li class="page-item">
+                <a class="page-link" href="#" data-page="${
+                    currentPage - 1
+                }" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>`;
+    } else {
+        paginationContainer.innerHTML += `
+            <li class="page-item disabled">
+                <a class="page-link" href="#" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>`;
     }
 
-    // Next button
-    paginationContainer.innerHTML += createPaginationButton(
-        currentPage + 1,
-        currentPage === pageCount,
-        `<i class="fi fi-rr-caret-right"></i>`,
-        "Next"
-    );
+    // Calculate the visible range
+    let startPage = Math.max(1, currentPage - halfVisible);
+    let endPage = Math.min(pageCount, currentPage + halfVisible);
 
-    // Add event listeners to pagination links
+    // Adjust range to ensure maxVisiblePages are shown when possible
+    if (currentPage <= halfVisible) {
+        endPage = Math.min(pageCount, maxVisiblePages);
+    }
+    if (currentPage + halfVisible >= pageCount) {
+        startPage = Math.max(1, pageCount - maxVisiblePages + 1);
+    }
+
+    // Add "First" button if not included in the visible range
+    if (startPage > 1) {
+        paginationContainer.innerHTML += `
+            <li class="page-item">
+                <a class="page-link" href="#" data-page="1">1</a>
+            </li>
+            <li class="page-item disabled">
+                <a class="page-link" href="#">...</a>
+            </li>`;
+    }
+
+    // Add visible page buttons
+    for (let page = startPage; page <= endPage; page++) {
+        paginationContainer.innerHTML += `
+            <li class="page-item ${page === currentPage ? "active" : ""}">
+                <a class="page-link" href="#" data-page="${page}">${page}</a>
+            </li>`;
+    }
+
+    // Add "Last" button if not included in the visible range
+    if (endPage < pageCount) {
+        paginationContainer.innerHTML += `
+            <li class="page-item disabled">
+                <a class="page-link" href="#">...</a>
+            </li>
+            <li class="page-item">
+                <a class="page-link" href="#" data-page="${pageCount}">${pageCount}</a>
+            </li>`;
+    }
+
+    // Add "Next" button
+    if (currentPage < pageCount) {
+        paginationContainer.innerHTML += `
+            <li class="page-item">
+                <a class="page-link" href="#" data-page="${
+                    currentPage + 1
+                }" aria-label="Next">
+                    <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>`;
+    } else {
+        paginationContainer.innerHTML += `
+            <li class="page-item disabled">
+                <a class="page-link" href="#" aria-label="Next">
+                    <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>`;
+    }
+
+    // Add click event listeners to pagination links
     document.querySelectorAll(".page-link").forEach((link) => {
         link.addEventListener("click", async (event) => {
             event.preventDefault();
             const page = parseInt(event.target.getAttribute("data-page"));
             if (!isNaN(page)) {
-                const newDeals = await fetchDeals(page, selectShow.value);
-                setCurrentDeals(newDeals);
-                render(currentDeals, currentPagination); // Re-render deals and pagination
+                const { results, meta } = await fetchDeals(
+                    page,
+                    selectShow.value
+                );
+                currentDeals = results;
+                currentPagination = meta;
+                renderDeals(currentDeals);
+                renderPagination(currentPagination);
             }
         });
     });
-
-    const itemsPerPage = parseInt(selectShow.value);
-    const rangeBeg = (currentPage - 1) * itemsPerPage + 1;
-    const rangeEnd = currentPage * itemsPerPage;
-    const nbDeals = currentPagination.count;
-    const nbFavorites = getFavoriteDeals().length;
-
-    document.getElementById("pagination-info").style.display = "block";
-    sectionOptions.style.display = "block";
-    document.querySelector(".pagination").style.display = "flex";
-    document.getElementById("show").style.visibility = "";
-
-    const stringToShow = isTabActive("nav-deals-tab")
-        ? "deal(s)"
-        : "favorite(s)";
-    const upperRange = isTabActive("nav-deals-tab") ? nbDeals : nbFavorites;
-    paginationInfo.innerHTML = `
-  <div class="text-muted float-end">
-  Showing ${rangeBeg} - ${
-        rangeEnd > upperRange ? upperRange : rangeEnd
-    } out of ${upperRange} ${stringToShow}
-  </div>
-  `;
 };
 
 /** Set global deals and pagination data
