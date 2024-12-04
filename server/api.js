@@ -128,7 +128,7 @@ app.get("/v1/deals/search", async (req, res) => {
             }
         }
 
-        if (sortingFilter !== undefined) {
+        if (sortingFilter === undefined) {
             sortingFilter = { price: 1 }; // Sort by price in ascending order by default (if applicable)
             if (sortBy) {
                 sortingFilter = {};
