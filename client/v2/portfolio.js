@@ -535,24 +535,50 @@ selectShow.addEventListener("change", async (event) => {
 const handleFilterClick = async (event) => {
 	const filterOption = event.target;
 
-	// Reset all filters
+	// Toggle active state of the clicked filter
+	const isActive = filterOption.classList.contains("active");
+
+	// Reset all buttons to inactive
 	filters
 		.querySelectorAll("span")
 		.forEach((btn) => btn.classList.remove("active"));
 
-	// Toggle active state of the clicked filter
-	const isActive = filterOption.classList.contains("active");
 	if (isActive) {
-		renderDeals(unfilteredDeals);
-		renderPagination(currentPagination);
-		isListFiltered = false;
+		// If the clicked filter is already active, remove the filter
+		try {
+			// Remove `filterBy` from currentParams while keeping other parameters intact
+			const { legoId, price, date, sortBy } = currentParams;
+
+			// Fetch deals with all other parameters except `filterBy`
+			const { results, meta } = await fetchDeals(
+				1, // Reset to page 1
+				selectShow.value, // Use current page size
+				legoId, // Preserve LEGO ID filter
+				price, // Preserve price filter
+				date, // Preserve date filter
+				sortBy, // Preserve sorting
+				undefined // Remove the filterBy parameter
+			);
+
+			// Reset global state and re-render
+			currentParams.filterBy = undefined; // Explicitly clear filterBy in global params
+			setCurrentDeals({ results, meta });
+			renderDeals(currentDeals);
+			renderPagination(currentPagination);
+			isListFiltered = false; // No active filter now
+		} catch (error) {
+			console.error("Error removing filter:", error);
+			renderDeals([]); // Clear deals on error
+		}
 		return;
 	}
 
+	// Set the clicked button as active
 	filterOption.classList.add("active");
 
+	// Determine the filter to apply based on the button's text
 	let filterBy;
-	switch (filterOption.innerText) {
+	switch (filterOption.innerHTML) {
 		case "Best Discount":
 			filterBy = `best-discount-${MINIMUM_DISCOUNT}`;
 			break;
@@ -567,23 +593,27 @@ const handleFilterClick = async (event) => {
 	}
 
 	try {
+		// Fetch filtered deals from the API
+		const { legoId, price, date, sortBy } = currentParams; // Preserve other parameters
 		const { results, meta } = await fetchDeals(
-			1, // Start at page 1
-			selectShow.value,
-			undefined, // LEGO ID
-			undefined, // Price filter
-			undefined, // Date filter
-			undefined, // Sort (default)
-			filterBy // Apply filter
+			1, // Reset to page 1
+			selectShow.value, // Use current page size
+			legoId, // Preserve LEGO ID filter
+			price, // Preserve price filter
+			date, // Preserve date filter
+			sortBy, // Preserve sorting
+			filterBy // Apply selected filter
 		);
 
+		// Update global state and re-render
+		currentParams.filterBy = filterBy; // Update global params with the new filter
 		setCurrentDeals({ results, meta });
 		renderDeals(currentDeals);
 		renderPagination(currentPagination);
-		isListFiltered = true;
+		isListFiltered = true; // Filter is now active
 	} catch (error) {
 		console.error("Error applying filter:", error);
-		renderDeals([]); // Clear deals on failure
+		renderDeals([]); // Clear deals on error
 	}
 };
 
