@@ -81,10 +81,10 @@ const fetchDeals = async (
 		if (filterBy) params.append("filterBy", filterBy);
 
 		currentParams = { legoId, price, date, sortBy, filterBy }; // Update global params
+		const url = `${API_URL}/v1/deals/search?${params.toString()}`;
+		console.log(url);
 
-		const response = await fetch(
-			`${API_URL}/v1/deals/search?${params.toString()}`
-		);
+		const response = await fetch(url);
 		const body = await response.json();
 
 		if (!body.success) throw new Error("Failed to fetch deals");
@@ -552,7 +552,7 @@ const handleFilterClick = async (event) => {
 	filterOption.classList.add("active");
 
 	let filterBy;
-	switch (filterOption.innerHTML) {
+	switch (filterOption.innerText) {
 		case "Best Discount":
 			filterBy = `best-discount-${MINIMUM_DISCOUNT}`;
 			break;
