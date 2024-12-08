@@ -697,6 +697,65 @@ const renderPaginatedDeals = (deals) => {
 };
 
 /**
+ * Calculate the next Monday at 2:00 AM UTC
+ * @returns {Date} - Date object of the next scheduled refresh
+ */
+const getNextRefreshDate = () => {
+	const now = new Date();
+	const dayOfWeek = now.getUTCDay(); // 0 = Sunday, 6 = Saturday
+	const daysUntilMonday = (8 - dayOfWeek) % 7; // Days until next Monday
+	const nextMonday = new Date(
+		now.getUTCFullYear(),
+		now.getUTCMonth(),
+		now.getUTCDate() + daysUntilMonday,
+		2, // 2:00 AM UTC
+		0,
+		0,
+		0
+	);
+
+	return nextMonday;
+};
+
+/**
+ * Update the countdown timer
+ */
+const updateCountdown = () => {
+	const now = new Date();
+	const nextRefresh = getNextRefreshDate();
+	const timeRemaining = nextRefresh - now;
+
+	if (timeRemaining <= 0) {
+		document.getElementById("countdown").innerHTML = "Refreshing now!";
+		return;
+	}
+
+	const days = Math.floor(timeRemaining / (1000 * 60 * 60 * 24));
+	const hours = Math.floor(
+		(timeRemaining % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
+	);
+	const minutes = Math.floor((timeRemaining % (1000 * 60 * 60)) / (1000 * 60));
+	const seconds = Math.floor((timeRemaining % (1000 * 60)) / 1000);
+
+	document.getElementById("days").textContent = days
+		.toString()
+		.padStart(2, "0");
+	document.getElementById("hours").textContent = hours
+		.toString()
+		.padStart(2, "0");
+	document.getElementById("minutes").textContent = minutes
+		.toString()
+		.padStart(2, "0");
+	document.getElementById("seconds").textContent = seconds
+		.toString()
+		.padStart(2, "0");
+};
+
+// Start the countdown
+updateCountdown();
+setInterval(updateCountdown, 1000);
+
+/**
  * Declaration of all Listeners
  */
 
