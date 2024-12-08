@@ -121,69 +121,90 @@ const fetchSales = async (id) => {
  */
 const createDealTemplate = (deal) => {
 	const isFavorite = isFavoriteDeal(deal._id);
+	const isExpiringSoon =
+		deal.expirationDate && deal.expirationDate * 1000 > Date.now();
+
 	return `
-    <div class="col-4">
-      <div class="card mb-4" id=${deal._id}>
-        <div class="card-body d-block">
-          <!-- First row: Title and LEGO ID -->
-          <div class="row mb-2 justify-content-between">
-            <div class="col-md-3">
-              <img class="img-fluid img-thumbnail" src="${deal.imgUrl}">
-            </div>
-            <div class="col-md-7 pt-1 px-0">
-              <a href="#" class="deal-title" data-bs-toggle="modal"  data-bs-target="#dealModal" data-uuid="${
-								deal._id
-							}" data-id="${deal.legoId}">
-                <h5 class="card-title clamp-2-lines">${deal.title}</h5>
-              </a>
-              <h6 class="card-subtitle mb-2 text-muted">${deal.legoId}</h6>
-            </div>
-            <div class="col" style="width: 10%; flex: 0 0 auto;">
-              <button class="btn favorite-btn" style="width: fit-content;" data-id="${
-								deal._id
-							}">
-                ${isFavorite ? DEL_FAV_ICON : ADD_FAV_ICON}
-              </button>
-            </div>
-          </div>
+	  <div class="col-4">
+		<div class="card mb-4" id=${deal._id}>
+		  <div class="card-body d-block">
+			<!-- First row: Title and LEGO ID -->
+			<div class="row mb-2 justify-content-between">
+			  <div class="col-md-3">
+				<img class="img-fluid img-thumbnail" src="${deal.imgUrl}">
+			  </div>
+			  <div class="col-md-7 pt-1 px-0">
+				<a href="#" class="deal-title" data-bs-toggle="modal"  data-bs-target="#dealModal" data-uuid="${
+					deal._id
+				}" data-id="${deal.legoId}">
+				  <h5 class="card-title clamp-2-lines">${deal.title}</h5>
+				</a>
+				<h6 class="card-subtitle mb-2 text-muted">${deal.legoId}</h6>
+			  </div>
+			  <div class="col" style="width: 10%; flex: 0 0 auto;">
+				<button class="btn favorite-btn" style="width: fit-content;" data-id="${
+					deal._id
+				}">
+				  ${isFavorite ? DEL_FAV_ICON : ADD_FAV_ICON}
+				</button>
+			  </div>
+			</div>
+  
+			<!-- Second row: Temperature, Comments, and Publication Date -->
+			<div class="row justify-content-between">
+			  <div class="col-6 d-flex flex-column align-items-start">
+				<p class="badge rounded-pill text-bg-danger mb-0">${deal.temperature}°</p>
+				<div class="d-inline-flex align-items-center pt-1">
+				  <i class="fi fi-rr-comment-dots"></i> &nbsp;
+				  <p class="pb-1 m-0">${deal.comments} </p>
+				</div>
+				<div class="d-inline-flex align-items-center pt-1 ${
+					isExpiringSoon ? "text-danger" : ""
+				}">
+				  <i class="fi fi-rr-pending"></i> &nbsp;
+				  <p class="pb-1 m-0" id="pub-${deal._id}" ${
+		deal.expirationDate
+			? `data-bs-toggle="tooltip" title="Expires: ${new Date(
+					deal.expirationDate * 1000
+			  ).toLocaleString()}"`
+			: ""
+	}>
+					${timeAgo(deal.publication)}
+				  </p>
+				</div>
+			  </div>
+			  <!-- Right Column: Prices and CTA Button -->
+			  <div class="col-6 d-flex flex-column align-items-end" style="width: fit-content;">
+				<p class="card-text text-decoration-line-through text-muted mb-0 d-inline-block">${formatPrice(
+					deal.nextBestPrice
+				)}</p>
+				<p class="card-text mb-0 d-inline-block">${formatPrice(deal.price)}</p>
+				<a role="button" class="btn d-inline-flex align-items-center p-0 mt-2 deal-tab" href="${
+					deal.link
+				}" target="_blank">
+				  <span style="margin-bottom:.4rem;">See deal &nbsp;</span>
+				  <i class="fi fi-rr-up-right-from-square"></i>
+				</a>
+			  </div>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	`;
+};
 
-          <!-- Second row: Temperature and Comments on the left, Prices and CTA on the right -->
-          <div class="row justify-content-between">
-            <!-- Left Column: Temperature and Comments -->
-            <div class="col-6 d-flex flex-column align-items-start">
-              <p class="badge rounded-pill text-bg-danger mb-0">${
-								deal.temperature
-							}°</p>
-              <div class="d-inline-flex align-items-center pt-1">
-                <i class="fi fi-rr-comment-dots"></i> &nbsp;
-                <p class="pb-1 m-0">${deal.comments} </p>
-              </div>
-              <div class="d-inline-flex align-items-center pt-1">
-                <i class="fi fi-rr-pending"></i> &nbsp;
-                <p class="pb-1 m-0">${timeAgo(deal.publication)}</p> 
-              </div>
-            </div>
-
-            <!-- Right Column: Prices and CTA Button -->
-            <div class="col-6 d-flex flex-column align-items-end" style="width: fit-content;">
-              <p class="card-text text-decoration-line-through text-muted mb-0 d-inline-block">${formatPrice(
-								deal.nextBestPrice
-							)}</p>
-              <p class="card-text mb-0 d-inline-block">${formatPrice(
-								deal.price
-							)}</p>
-              <a role="button" class="btn d-inline-flex align-items-center p-0 mt-2 deal-tab" href="${
-								deal.link
-							}" target="_blank">
-                <span style="margin-bottom:.4rem;">See deal &nbsp;</span>
-                <i class="fi fi-rr-up-right-from-square"></i>
-              </a>              
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  `;
+/**
+ * Initialize tooltips for deals with expiration dates
+ */
+const initializeExpirationTooltips = () => {
+	currentDeals.forEach((deal) => {
+		if (deal.expirationDate) {
+			const tooltipElement = document.getElementById(`pub-${deal._id}`);
+			if (tooltipElement) {
+				new bootstrap.Tooltip(tooltipElement);
+			}
+		}
+	});
 };
 
 /** Render list of deals
@@ -220,6 +241,9 @@ const renderDeals = (deals) => {
 	document.querySelectorAll(".favorite-btn").forEach((button) => {
 		button.addEventListener("click", toggleFavorite);
 	});
+
+	// Initialize tooltips for expiration dates
+	initializeExpirationTooltips();
 };
 
 const createSaleTemplate = (

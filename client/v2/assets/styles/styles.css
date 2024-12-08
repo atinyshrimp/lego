@@ -226,6 +226,12 @@ a:hover {
 	font-weight: bold;
 }
 
+/* Highlight publication date if the deal is expiring soon */
+.text-danger {
+	font-weight: bold;
+	color: var(--bu-divider); /* Bootstrap's "danger" color */
+}
+
 /* ===== Modal Custom Styles ===== */
 .modal-content {
 	background-color: var(--bu-bg); /* Use background color from your palette */
