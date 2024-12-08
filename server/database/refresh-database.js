@@ -93,4 +93,4 @@ function clearPreviousScrapedFiles() {
 }
 
 // Run the refresh immediately when the script is called
-// refreshDatabase();
+refreshDatabase();
