@@ -1,6 +1,8 @@
 // Invoking strict mode https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode#invoking_strict_mode
 "use strict";
 
+// const { get } = require("https");
+
 /**
 Description of the available api
 GET https://lego-api-blue.vercel.app/deals
@@ -427,6 +429,193 @@ const renderPagination = (pagination) => {
 	});
 };
 
+/** Fetch favorite deals by their IDs
+ *
+ * @returns {Promise<Array>} Array of favorite deals
+ */
+const fetchFavoriteDeals = async () => {
+	const favoriteIds = getFavoriteDeals();
+	const favoriteDeals = [];
+
+	for (const dealId of favoriteIds) {
+		try {
+			const url = `${API_URL}/v1/deals/${dealId}`;
+			const res = await fetch(url);
+			const deal = await res.json();
+			if (deal) favoriteDeals.push(deal);
+		} catch (error) {
+			console.error(`Error fetching favorite deal ${dealId}:`, error);
+		}
+	}
+
+	return favoriteDeals;
+};
+
+/** Render favorites with pagination
+ *
+ * @param {Number} [page=1] - Current page number
+ * @param {Number} [itemsPerPage=6] - Number of items per page
+ */
+const renderFavoriteDeals = async (page = 1, itemsPerPage = 6) => {
+	const favoriteDeals = await fetchFavoriteDeals();
+	const totalFavorites = favoriteDeals.length;
+	const pageCount = Math.ceil(totalFavorites / itemsPerPage);
+	const startIndex = (page - 1) * itemsPerPage;
+	const endIndex = startIndex + itemsPerPage;
+
+	// Slice the deals for the current page
+	const paginatedFavorites = favoriteDeals.slice(startIndex, endIndex);
+
+	// Update pagination state
+	currentPagination = {
+		currentPage: page,
+		pageCount: pageCount,
+		pageSize: itemsPerPage,
+		count: totalFavorites,
+	};
+
+	// Clear the favorites section
+	sectionFavorites.innerHTML = "";
+
+	// Handle empty state
+	if (paginatedFavorites.length === 0) {
+		sectionFavorites.innerHTML = `
+            <div class="alert alert-warning" role="alert">
+                No favorites to display. Add some deals to your favorites!
+            </div>`;
+		return;
+	}
+
+	// Create fragment for performance
+	const fragment = document.createDocumentFragment();
+	const div = document.createElement("div");
+	div.classList.add("row", "items", "overflow-auto");
+
+	// Create deal templates
+	const template = paginatedFavorites
+		.map((deal) => createDealTemplate(deal))
+		.join("");
+
+	div.innerHTML = template;
+	fragment.appendChild(div);
+	sectionFavorites.appendChild(fragment);
+
+	// Render pagination
+	renderPagination(currentPagination);
+};
+
+const renderFavoritePagination = (favoriteIds) => {
+	const paginationContainer = document.querySelector(".pagination");
+	const itemsPerPage = parseInt(selectShow.value) || 6; // Default to 6 items per page
+	const totalFavorites = favoriteIds.length;
+	const pageCount = Math.ceil(totalFavorites / itemsPerPage);
+	const currentPage = currentPagination.currentPage || 1;
+
+	paginationContainer.innerHTML = ""; // Clear previous pagination
+
+	// Add "Previous" button
+	if (currentPage > 1) {
+		paginationContainer.innerHTML += `
+            <li class="page-item">
+                <a class="page-link" href="#" data-page="${
+									currentPage - 1
+								}" aria-label="Previous">
+                    &laquo;
+                </a>
+            </li>`;
+	} else {
+		paginationContainer.innerHTML += `
+            <li class="page-item disabled">
+                <a class="page-link" href="#" aria-label="Previous">
+                    &laquo;
+                </a>
+            </li>`;
+	}
+
+	// Add visible page numbers
+	for (let page = 1; page <= pageCount; page++) {
+		paginationContainer.innerHTML += `
+            <li class="page-item ${page === currentPage ? "active" : ""}">
+                <a class="page-link" href="#" data-page="${page}">${page}</a>
+            </li>`;
+	}
+
+	// Add "Next" button
+	if (currentPage < pageCount) {
+		paginationContainer.innerHTML += `
+            <li class="page-item">
+                <a class="page-link" href="#" data-page="${
+									currentPage + 1
+								}" aria-label="Next">
+                    &raquo;
+                </a>
+            </li>`;
+	} else {
+		paginationContainer.innerHTML += `
+            <li class="page-item disabled">
+                <a class="page-link" href="#" aria-label="Next">
+                    &raquo;
+                </a>
+            </li>`;
+	}
+
+	// Attach click handlers to pagination buttons
+	document.querySelectorAll(".page-link").forEach((link) => {
+		link.addEventListener("click", (event) => {
+			event.preventDefault();
+			const page = parseInt(event.target.getAttribute("data-page"));
+			if (!isNaN(page)) {
+				renderPaginatedFavorites(favoriteIds, page, itemsPerPage);
+			}
+		});
+	});
+};
+
+/** Paginate and render favorites */
+const renderPaginatedFavorites = (favorites, page = 1, itemsPerPage = 6) => {
+	const start = (page - 1) * itemsPerPage;
+	const end = start + itemsPerPage;
+	let paginatedFavorites = favorites.slice(start, end);
+	console.table(paginatedFavorites);
+	// paginatedFavorites = paginatedFavorites.map(
+	// 	async (dealId) => await getDealFromId(dealId)
+	// );
+	// console.table(paginatedFavorites);
+
+	// Update the pagination meta
+	currentPagination = {
+		currentPage: page,
+		pageCount: Math.ceil(favorites.length / itemsPerPage),
+		count: favorites.length,
+	};
+
+	// Render the favorites for the current page
+	sectionFavorites.innerHTML = "";
+
+	if (paginatedFavorites.length === 0) {
+		sectionFavorites.innerHTML = `
+            <div class="alert alert-warning" role="alert">
+                No favorites to display. Add some deals to your favorites!
+            </div>`;
+		return;
+	}
+
+	const fragment = document.createDocumentFragment();
+	const div = document.createElement("div");
+	div.classList.add("row", "items", "overflow-auto");
+
+	const template = paginatedFavorites
+		.map((deal) => createDealTemplate(deal))
+		.join("");
+
+	div.innerHTML = template;
+	fragment.appendChild(div);
+	sectionFavorites.appendChild(fragment);
+
+	// Update pagination
+	renderFavoritePagination(favorites);
+};
+
 /** Set global deals and pagination data
  *
  * @param {Array} result - deals to display
@@ -473,11 +662,10 @@ const renderLegoSetIds = async (deals) => {
 	selectLegoSetIds.innerHTML = placeholer + options;
 };
 
-const render = async (deals, pagination) => {
-	renderDeals(deals);
-	renderSales(deals);
-	renderPagination(pagination);
-	renderLegoSetIds(deals);
+const render = (deals, pagination) => {
+	renderDeals(deals); // Render the deals
+	renderPagination(pagination); // Render the pagination for deals
+	renderLegoSetIds(deals); // Optionally render LEGO IDs for filtering
 };
 
 /** Utility function for rendering paginated deals
@@ -645,9 +833,19 @@ selectSort.addEventListener("change", async (event) => {
 	}
 });
 
+let originalPagination;
+
 document.querySelectorAll(".nav-link").forEach((link) => {
-	link.addEventListener("click", () => {
-		render(currentDeals, currentPagination);
+	link.addEventListener("click", async () => {
+		if (isTabActive("nav-favorites-tab")) {
+			// Render favorites with default pagination
+			await renderFavoriteDeals(1, parseInt(selectShow.value));
+		} else if (isTabActive("nav-deals-tab")) {
+			if (originalPagination) {
+				// Restore original deals pagination
+				render(currentDeals, originalPagination);
+			}
+		}
 	});
 });
 
@@ -878,4 +1076,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 	setCurrentDeals(deals);
 	render(currentDeals, currentPagination);
+
+	// Store the original pagination when the page first loads
+	originalPagination = { ...currentPagination };
 });
