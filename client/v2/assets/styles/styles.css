@@ -208,7 +208,6 @@ a:hover {
 /* Countdown text */
 #countdown-text {
 	font-size: 0.8rem; /* Match font size with toggle label */
-	font-weight: bold;
 	color: var(--bu-text); /* Light gray for text */
 	opacity: 0.4;
 	margin: 0;
@@ -218,8 +217,7 @@ a:hover {
 #countdown {
 	font-size: 0.8rem;
 	font-weight: normal;
-	color: var(--bu-text); /* Darker gray for numbers */
-	opacity: 0.4;
+	opacity: 0.5;
 	margin: 0;
 }
 
