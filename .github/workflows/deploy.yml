@@ -20,7 +20,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '18' # Adjust the Node.js version as needed
-          cache: 'yarn'
+          # cache: 'yarn'
 
       # Install Vercel CLI globally
       - name: Install Vercel CLI
