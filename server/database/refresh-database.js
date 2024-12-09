@@ -21,7 +21,16 @@ async function refreshDatabase() {
 		process.exit(1);
 	}
 
-	const client = new MongoClient(MONGODB_URI);
+	const client = new MongoClient(MONGODB_URI, {
+		serverApi: {
+			version: ServerApiVersion.v1,
+			strict: true,
+			deprecationErrors: true,
+		},
+		socketTimeoutMS: 60000, // Set a higher timeout (e.g., 60 seconds)
+		connectTimeoutMS: 30000, // Increase connection timeout if needed
+		retryWrites: true, // Automatically retry failed writes
+	});
 
 	try {
 		console.log("Starting database refresh...");
@@ -68,8 +77,9 @@ async function refreshDatabase() {
 		await vinted_scraper.scrape();
 
 		// Populate the database with new data
-		insertDeals(database);
-		insertSales(database);
+		console.log("Inserting newly scraped data to database...");
+		await insertDeals(database);
+		await insertSales(database);
 
 		console.log("Database refresh completed successfully");
 	} catch (error) {
