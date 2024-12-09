@@ -1,4 +1,4 @@
-const { MongoClient } = require("mongodb");
+const { MongoClient, ServerApiVersion } = require("mongodb");
 const { insertDeals, insertSales } = require("./node");
 const dealabs_scraper = require("../websites/dealabs");
 const vinted_scraper = require("../websites/vinted");
