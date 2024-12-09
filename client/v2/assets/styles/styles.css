@@ -42,6 +42,7 @@
 }
 
 /* ===== Styles for HTML tags ===== */
+/* Default styles (desktop) */
 body {
     background-color: var(--bu-bg);
     color: var(--bu-text);
@@ -296,6 +297,59 @@ a:hover {
 
 .modal-footer .btn:hover {
     background-color: #d00000; /* Darker shade for hover effect */
+}
+
+/* Mobile Styles (max-width: 576px) */
+@media (max-width: 576px) {
+    header h1 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+    header img {
+        width: 60px;
+        height: 60px;
+    }
+    .nav-tabs h2 {
+        font-size: 1rem;
+    }
+    .col-2 {
+        display: none;
+    }
+    .col {
+        width: 100%;
+        padding: 0 10px;
+    }
+    .card {
+        width: 100%;
+        margin: 0;
+    }
+    .pagination {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+/* Tablet Styles (min-width: 577px and max-width: 768px) */
+@media (min-width: 577px) and (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+    header img {
+        width: 80px;
+        height: 80px;
+    }
+    .col-2 {
+        width: 20%;
+    }
+    .col {
+        width: 80%;
+    }
+    .card {
+        margin: 10px auto;
+    }
+    .pagination {
+        justify-content: space-between;
+    }
 }
 
 /* ===== Dark mode ===== */

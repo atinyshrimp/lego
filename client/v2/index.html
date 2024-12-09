@@ -30,21 +30,17 @@
         />
         <link rel="stylesheet" href="./assets/styles/styles.css" />
     </head>
-    <header class="row align-items-center w-100 px-3 py-4">
-        <div class="row align-items-center" style="width: fit-content">
-            <div class="col">
-                <img
-                    class="img-fluid"
-                    width="100"
-                    height="100"
-                    src="./assets/images/bricked_up_logo.png"
-                />
-            </div>
-            <h1 class="col-md-8">Bricked Up</h1>
+    <header class="container-fluid row align-items-center w-100 px-3 py-4">
+        <div class="col-12 col-sm-8 d-flex align-items-center">
+            <img
+                class="img-fluid"
+                width="100"
+                height="100"
+                src="./assets/images/bricked_up_logo.png"
+            />
+            <h1 class="ms-3">Bricked Up</h1>
         </div>
-        <!-- Right-aligned dark mode toggle and countdown -->
-        <div class="col d-flex flex-column align-items-end">
-            <!-- Dark mode toggle -->
+        <div class="col-12 col-sm-4 d-flex flex-column align-items-end">
             <div class="form-check form-switch form-check-reverse">
                 <input
                     class="form-check-input align-items-center"
@@ -58,7 +54,6 @@
                     >Enable dark mode</label
                 >
             </div>
-            <!-- Countdown -->
             <div
                 id="countdown-container"
                 class="d-flex align-items-end flex-column"
@@ -71,6 +66,7 @@
             </div>
         </div>
     </header>
+
     <body class="px-3">
         <div id="loading-overlay">
             <img
