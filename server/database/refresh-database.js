@@ -42,12 +42,17 @@ async function refreshDatabase() {
 
 		// Create archive collections with timestamp
 		const timestamp = new Date().toISOString().replace(/:/g, "-");
-		await database
-			.collection(`deals_archive_${timestamp}`)
-			.insertMany(archivedDeals);
-		await database
-			.collection(`sales_archive_${timestamp}`)
-			.insertMany(archivedSales);
+		if (archivedDeals.length > 0) {
+			await database
+				.collection(`deals_archive_${timestamp}`)
+				.insertMany(archivedDeals);
+		}
+
+		if (archivedSales.length > 0) {
+			await database
+				.collection(`sales_archive_${timestamp}`)
+				.insertMany(archivedSales);
+		}
 
 		// Clear existing collections
 		await database.collection(DEALS_COLLECTION).deleteMany({});
