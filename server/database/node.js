@@ -20,7 +20,7 @@ const client = new MongoClient(MONGODB_URI, {
 
 async function insertDeals(db) {
 	// Read and parse the deals.json file
-	const dealsFilePath = "../data/deals.json";
+	const dealsFilePath = "./data/deals.json";
 	const deals = [...JSON.parse(fs.readFileSync(dealsFilePath, "utf-8"))];
 
 	const collection = db.collection(DEALS_COLLECTION);
@@ -31,7 +31,7 @@ async function insertDeals(db) {
 
 async function insertSales(db) {
 	// Path to the folder containing the JSON files
-	const salesFolderPath = "../data/sales";
+	const salesFolderPath = "./data/sales";
 
 	// Read all the files in the folder
 	const salesFiles = fs.readdirSync(salesFolderPath);

@@ -60,7 +60,7 @@ async function refreshDatabase() {
 
 		// Delete previous scraped data
 		console.log("Deleting exisiting data...");
-		clearPreviousScrapedFiles();
+		clearPreviousScrapedFiles("./data");
 
 		// Run scraping process
 		console.log("Starting scraping...");
@@ -81,24 +81,51 @@ async function refreshDatabase() {
 }
 
 // Clear existing files in the sales and deals directories before scraping
-function clearPreviousScrapedFiles() {
-	const salesDir = path.join(__dirname, "../data/sales");
-	const dealsDir = path.join(__dirname, "../data");
+const fs = require("fs");
+const path = require("path");
 
+/**
+ * Clears specific files in the provided data folder:
+ * Deletes `deals.json` and all JSON files inside the `/sales` directory.
+ * @param {string} dataFolderPath - Path to the data folder containing the `deals.json` file and `sales` subfolder.
+ */
+function clearPreviousScrapedFiles(dataFolderPath) {
 	try {
-		// Remove all existing files in sales directory
-		fs.readdirSync(salesDir).forEach((file) => {
-			fs.unlinkSync(path.join(salesDir, file));
-		});
+		const dealsFilePath = path.join(dataFolderPath, "deals.json");
+		const salesFolderPath = path.join(dataFolderPath, "sales");
 
-		// Optionally do the same for deals directory
-		fs.readdirSync(dealsDir).forEach((file) => {
-			fs.unlinkSync(path.join(dealsDir, file));
-		});
+		// Delete `deals.json`
+		if (fs.existsSync(dealsFilePath)) {
+			fs.unlinkSync(dealsFilePath);
+			console.log(`Deleted ${dealsFilePath}`);
+		} else {
+			console.log(`${dealsFilePath} does not exist.`);
+		}
 
-		console.log("Previous scraped files cleared");
+		// Delete all JSON files in the `sales` subfolder
+		if (
+			fs.existsSync(salesFolderPath) &&
+			fs.statSync(salesFolderPath).isDirectory()
+		) {
+			const salesFiles = fs.readdirSync(salesFolderPath);
+
+			salesFiles.forEach((file) => {
+				const filePath = path.join(salesFolderPath, file);
+
+				// Check if it's a file and ends with `.json`
+				if (fs.statSync(filePath).isFile() && file.endsWith(".json")) {
+					fs.unlinkSync(filePath);
+					console.log(`Deleted ${filePath}`);
+				}
+			});
+
+			console.log(`Cleared all JSON files in ${salesFolderPath}`);
+		} else {
+			console.log(`${salesFolderPath} does not exist or is not a directory.`);
+		}
 	} catch (error) {
-		console.error("Error clearing previous scraped files:", error);
+		console.error(`Error clearing previous scraped files:`, error);
+		throw error;
 	}
 }
 
