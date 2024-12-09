@@ -720,50 +720,52 @@ const renderPaginatedDeals = (deals) => {
 	render(currentDeals, currentPagination);
 };
 
+// Scheduled refresh times in UTC (converted from UTC+2)
+const refreshTimes = [
+	{ hour: 5, minute: 0 }, // 5:00 AM UTC+2
+	{ hour: 18, minute: 0 }, // 6:00 PM UTC+2
+];
+
 /**
  * Calculate the next Monday at 2:00 AM UTC
  * @returns {Date} - Date object of the next scheduled refresh
  */
-const getNextRefreshDate = () => {
+function getNextRefreshTime() {
 	const now = new Date();
-	const dayOfWeek = now.getUTCDay(); // 0 = Sunday, 6 = Saturday
-	const daysUntilMonday = (8 - dayOfWeek) % 7; // Days until next Monday
-	const nextMonday = new Date(
-		now.getUTCFullYear(),
-		now.getUTCMonth(),
-		now.getUTCDate() + daysUntilMonday,
-		2, // 2:00 AM UTC
-		0,
-		0,
-		0
+	const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+	const timesInMs = refreshTimes.map(
+		({ hour, minute }) => today.getTime() + hour * 3600 * 1000 + minute * 60000
 	);
 
-	return nextMonday;
-};
+	// Find the next refresh time
+	const nextRefresh = timesInMs.find((time) => time > now.getTime());
+	if (nextRefresh) return new Date(nextRefresh);
+
+	// If no upcoming refresh today, return the first time tomorrow
+	return new Date(timesInMs[0] + 24 * 3600 * 1000);
+}
 
 /**
  * Update the countdown timer
  */
-const updateCountdown = () => {
+function updateCountdown() {
+	const countdownElement = document.getElementById("countdown");
 	const now = new Date();
-	const nextRefresh = getNextRefreshDate();
-	const timeRemaining = nextRefresh - now;
+	const nextRefresh = getNextRefreshTime();
 
-	if (timeRemaining <= 0) {
-		document.getElementById("countdown").innerHTML = "Refreshing now!";
+	const timeDiff = nextRefresh - now;
+
+	if (timeDiff <= 0) {
+		countdownElement.textContent = "Refreshing now!";
+		setTimeout(updateCountdown, 60000 * 5); // Check again after 1 second
 		return;
 	}
 
-	const days = Math.floor(timeRemaining / (1000 * 60 * 60 * 24));
-	const hours = Math.floor(
-		(timeRemaining % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
-	);
-	const minutes = Math.floor((timeRemaining % (1000 * 60 * 60)) / (1000 * 60));
-	const seconds = Math.floor((timeRemaining % (1000 * 60)) / 1000);
+	// Calculate hours, minutes, and seconds remaining
+	const hours = Math.floor(timeDiff / (1000 * 60 * 60));
+	const minutes = Math.floor((timeDiff % (1000 * 60 * 60)) / (1000 * 60));
+	const seconds = Math.floor((timeDiff % (1000 * 60)) / 1000);
 
-	document.getElementById("days").textContent = days
-		.toString()
-		.padStart(2, "0");
 	document.getElementById("hours").textContent = hours
 		.toString()
 		.padStart(2, "0");
@@ -773,11 +775,10 @@ const updateCountdown = () => {
 	document.getElementById("seconds").textContent = seconds
 		.toString()
 		.padStart(2, "0");
-};
 
-// Start the countdown
-updateCountdown();
-setInterval(updateCountdown, 1000);
+	// Update every second
+	setTimeout(updateCountdown, 1000);
+}
 
 /**
  * Declaration of all Listeners
@@ -1159,6 +1160,9 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 	setCurrentDeals(deals);
 	render(currentDeals, currentPagination);
+
+	// Start the countdown
+	updateCountdown();
 
 	// Store the original pagination when the page first loads
 	originalPagination = { ...currentPagination };
