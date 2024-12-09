@@ -29,13 +29,9 @@ jobs:
       # Deploy server
       - name: Deploy server
         working-directory: ./server
-        run: vercel --prod --yes --token ${{ secrets.VERCEL_TOKEN }}
-        env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: vercel --prod --yes --project bricked-up-api --token ${{ secrets.VERCEL_TOKEN }}
 
       # Deploy client
       - name: Deploy client
         working-directory: ./client/v2
-        run: vercel --prod --yes --token ${{ secrets.VERCEL_TOKEN }}
-        env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: vercel --prod --yes --project bricked-up-lego --token ${{ secrets.VERCEL_TOKEN }}
