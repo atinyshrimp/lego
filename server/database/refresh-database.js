@@ -1,4 +1,5 @@
 const { MongoClient } = require("mongodb");
+const { insertDeals, insertSales } = require("./node");
 const dealabs_scraper = require("../websites/dealabs");
 const vinted_scraper = require("../websites/vinted");
 const fs = require("fs");
@@ -61,6 +62,10 @@ async function refreshDatabase() {
 		await dealabs_scraper.scrape();
 		await vinted_scraper.scrape();
 
+		// Populate the database with new data
+		insertDeals(database);
+		insertSales(database);
+
 		console.log("Database refresh completed successfully");
 	} catch (error) {
 		console.error("Database refresh failed:", error);
@@ -72,8 +77,8 @@ async function refreshDatabase() {
 
 // Clear existing files in the sales and deals directories before scraping
 function clearPreviousScrapedFiles() {
-	const salesDir = path.join(__dirname, "data/sales");
-	const dealsDir = path.join(__dirname, "data");
+	const salesDir = path.join(__dirname, "../data/sales");
+	const dealsDir = path.join(__dirname, "../data");
 
 	try {
 		// Remove all existing files in sales directory
