@@ -33,57 +33,58 @@ async function refreshDatabase() {
 	});
 
 	try {
-		console.log("Starting database refresh...");
+		console.log("🔄 Starting database refresh...");
 
 		// Connect to MongoDB
 		// await client.connect();
 		const database = client.db(MONGODB_DB_NAME);
 
-		// Optional: Archive old data before deletion
-		const archivedDeals = await database
-			.collection(DEALS_COLLECTION)
-			.find()
-			.toArray();
-		const archivedSales = await database
-			.collection(SALES_COLLECTION)
-			.find()
-			.toArray();
+		// // Optional: Archive old data before deletion
+		// const archivedDeals = await database
+		// 	.collection(DEALS_COLLECTION)
+		// 	.find()
+		// 	.toArray();
+		// const archivedSales = await database
+		// 	.collection(SALES_COLLECTION)
+		// 	.find()
+		// 	.toArray();
 
-		// Create archive collections with timestamp
-		const timestamp = new Date().toISOString().replace(/:/g, "-");
-		if (archivedDeals.length > 0) {
-			await database
-				.collection(`deals_archive_${timestamp}`)
-				.insertMany(archivedDeals);
-		}
+		// // Create archive collections with timestamp
+		// const timestamp = new Date().toISOString().replace(/:/g, "-");
+		// if (archivedDeals.length > 0) {
+		// 	await database
+		// 		.collection(`deals_archive_${timestamp}`)
+		// 		.insertMany(archivedDeals);
+		// }
 
-		if (archivedSales.length > 0) {
-			await database
-				.collection(`sales_archive_${timestamp}`)
-				.insertMany(archivedSales);
-		}
+		// if (archivedSales.length > 0) {
+		// 	await database
+		// 		.collection(`sales_archive_${timestamp}`)
+		// 		.insertMany(archivedSales);
+		// }
 
 		// Clear existing collections
+		console.log("Clearing existing collections...");
 		await database.collection(DEALS_COLLECTION).deleteMany({});
 		await database.collection(SALES_COLLECTION).deleteMany({});
 
 		// Delete previous scraped data
-		console.log("Deleting exisiting data...");
-		clearPreviousScrapedFiles("./data");
+		// console.log("Deleting exisiting data...");
+		// clearPreviousScrapedFiles("./data");
 
 		// Run scraping process
-		console.log("Starting scraping...");
+		console.log("🧺 Starting scraping...");
 		await dealabs_scraper.scrape();
 		await vinted_scraper.scrape();
 
 		// Populate the database with new data
-		console.log("Inserting newly scraped data to database...");
+		console.log("📥 Inserting newly scraped data to database...");
 		await insertDeals(database);
 		await insertSales(database);
 
-		console.log("Database refresh completed successfully");
+		console.log("✅ Database refresh completed successfully");
 	} catch (error) {
-		console.error("Database refresh failed:", error);
+		console.error("❌ Database refresh failed:", error);
 		process.exit(1);
 	} finally {
 		await client.close();
