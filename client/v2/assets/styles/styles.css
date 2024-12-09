@@ -1,54 +1,54 @@
 /* ===== Custom fonts ===== */
 @font-face {
-	font-family: QuarterFree;
-	src: url("../fonts/Quarter-Free-BF66fe9906c9172.otf");
+    font-family: QuarterFree;
+    src: url("../fonts/Quarter-Free-BF66fe9906c9172.otf");
 }
 
 @font-face {
-	font-family: Rumaila;
-	src: url("../fonts/Rumaila-BF66f66ad473692.otf");
+    font-family: Rumaila;
+    src: url("../fonts/Rumaila-BF66f66ad473692.otf");
 }
 
 /* ===== Variables definition ===== */
 :root {
-	--bu-text: #4c5156;
-	--bu-bg: #e4e4da;
-	--bu-accent: #e02a29;
-	--bu-divider: #ebd800;
+    --bu-text: #4c5156;
+    --bu-bg: #e4e4da;
+    --bu-accent: #e02a29;
+    --bu-divider: #ebd800;
 }
 
 /* ===== Scrollbar CSS ===== */
 ::-webkit-scrollbar {
-	width: 6px;
-	height: 6px;
+    width: 6px;
+    height: 6px;
 }
 
 ::-webkit-scrollbar-track {
-	background: var(--bu-bg);
+    background: var(--bu-bg);
 }
 
 ::-webkit-scrollbar-thumb {
-	opacity: 0;
-	background-color: var(--bu-text);
-	border-radius: 15px;
+    opacity: 0;
+    background-color: var(--bu-text);
+    border-radius: 15px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-	background-color: var(--bu-divider);
+    background-color: var(--bu-divider);
 }
 
 ::-webkit-scrollbar-thumb:active {
-	background-color: var(--bu-accent);
+    background-color: var(--bu-accent);
 }
 
 /* ===== Styles for HTML tags ===== */
 body {
-	background-color: var(--bu-bg);
-	color: var(--bu-text);
+    background-color: var(--bu-bg);
+    color: var(--bu-text);
 }
 
 * {
-	cursor: url("../images/Lego_Brick_Cursor.png"), auto;
+    cursor: url("../images/Lego_Brick_Cursor.png"), auto;
 }
 
 a,
@@ -56,230 +56,229 @@ button,
 button:not(:disabled),
 .btn,
 .form-check-input {
-	cursor: url("../images/Lego_Man_Pointer.png"), pointer !important;
+    cursor: url("../images/Lego_Man_Pointer.png"), pointer !important;
 }
 
 p,
 div {
-	font-family: Rumaila;
-	color: var(--bu-text);
+    font-family: Rumaila;
+    color: var(--bu-text);
 }
 
 p {
-	width: fit-content;
+    width: fit-content;
 }
 
 h1,
 h2 {
-	font-family: QuarterFree;
+    font-family: QuarterFree;
 }
 
 i {
-	pointer-events: none;
+    pointer-events: none;
 }
 
 a {
-	text-decoration: none;
-	color: #f49b00;
+    text-decoration: none;
+    color: #f49b00;
 }
 
 a:hover {
-	color: #e02a29;
+    color: #e02a29;
 }
 
 /* ===== Overriden Bootstrap styles ===== */
 .btn-outline-secondary {
-	--bs-btn-color: #4c5156;
-	--bs-btn-border-color: #4c5156;
-	--bs-btn-hover-color: #4c5156;
-	--bs-btn-hover-bg: #ebd800;
-	--bs-btn-hover-border-color: #4c5156;
-	--bs-btn-active-color: #e4e4da;
-	--bs-btn-active-bg: #e02a29;
-	--bs-btn-active-border-color: #e4e4da;
-	--bs-btn-bg: #e4e4da;
+    --bs-btn-color: #4c5156;
+    --bs-btn-border-color: #4c5156;
+    --bs-btn-hover-color: #4c5156;
+    --bs-btn-hover-bg: #ebd800;
+    --bs-btn-hover-border-color: #4c5156;
+    --bs-btn-active-color: #e4e4da;
+    --bs-btn-active-bg: #e02a29;
+    --bs-btn-active-border-color: #e4e4da;
+    --bs-btn-bg: #e4e4da;
 }
 
 .card {
-	--bs-card-border-color: var(--bu-text);
-	--bs-card-bg: transparent;
+    --bs-card-border-color: var(--bu-text);
+    --bs-card-bg: transparent;
 }
 
 .form-check-input {
-	background-color: #e4e4da;
+    background-color: #e4e4da;
 }
 
 .form-check-input:checked {
-	background-color: var(--bu-accent);
-	border-color: var(--bu-accent);
+    background-color: var(--bu-accent);
+    border-color: var(--bu-accent);
 }
 
 .form-select {
-	color: var(--bu-text);
-	background-color: var(--bu-bg);
-	border-radius: 1rem;
-	border-color: var(--bu-text);
+    color: var(--bu-text);
+    background-color: var(--bu-bg);
+    border-radius: 1rem;
+    border-color: var(--bu-text);
 }
 
 .nav {
-	--bs-nav-tabs-border-color: var(--bu-bg);
-	--bs-nav-tabs-link-hover-border-color: #e9ecef #e9ecef var(--bu-bg);
-	--bs-link-color: var(--bu-text);
-	--bs-link-hover-color: var(--bu-divider);
-	--bs-nav-link-hover-color: var(--bu-divider);
+    --bs-nav-tabs-border-color: var(--bu-bg);
+    --bs-nav-tabs-link-hover-border-color: #e9ecef #e9ecef var(--bu-bg);
+    --bs-link-color: var(--bu-text);
+    --bs-link-hover-color: var(--bu-divider);
+    --bs-nav-link-hover-color: var(--bu-divider);
 }
 
 .nav-tabs {
-	--bs-nav-tabs-link-active-color: var(--bu-accent);
-	--bs-nav-tabs-link-active-bg: var(--bu-bg);
-	--bs-nav-tabs-link-active-border-color: var(--bu-bg) var(--bu-bg)
-		var(--bu-accent);
+    --bs-nav-tabs-link-active-color: var(--bu-accent);
+    --bs-nav-tabs-link-active-bg: var(--bu-bg);
+    --bs-nav-tabs-link-active-border-color: var(--bu-bg) var(--bu-bg)
+        var(--bu-accent);
 }
 
 .pagination {
-	--bs-pagination-color: var(--bu-text);
-	--bs-pagination-bg: transparent;
-	--bs-pagination-border-width: 0px;
-	--bs-pagination-border-radius: 1rem;
-	--bs-pagination-hover-color: var(--bu-divider);
-	--bs-pagination-hover-bg: var(--bu-bg);
-	--bs-pagination-focus-color: var(--bu-accent);
-	--bs-pagination-focus-bg: var(--bu-bg);
-	--bs-pagination-active-bg: var(--bu-accent);
-	--bs-pagination-disabled-color: var(--bu-bg);
-	--bs-pagination-disabled-bg: var(--bu-bg);
+    --bs-pagination-color: var(--bu-text);
+    --bs-pagination-bg: transparent;
+    --bs-pagination-border-width: 0px;
+    --bs-pagination-border-radius: 1rem;
+    --bs-pagination-hover-color: var(--bu-divider);
+    --bs-pagination-hover-bg: var(--bu-bg);
+    --bs-pagination-focus-color: var(--bu-accent);
+    --bs-pagination-focus-bg: var(--bu-bg);
+    --bs-pagination-active-bg: var(--bu-accent);
+    --bs-pagination-disabled-color: var(--bu-bg);
+    --bs-pagination-disabled-bg: var(--bu-bg);
 }
 
 /* ===== Styles for created classes & IDs ===== */
 .items {
-	max-height: 65vh;
+    max-height: 65vh;
 }
 
 .favorite-btn {
-	padding: 0;
-	margin-right: 0.375rem;
-	margin-left: 0.375rem;
-	margin-top: 0.75rem;
-	margin-bottom: 0.75rem;
-	width: fit-content !important;
+    padding: 0;
+    margin-right: 0.375rem;
+    margin-left: 0.375rem;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    width: fit-content !important;
 }
 
 .filter {
-	font-size: small;
-	border-radius: 1rem;
-	width: fit-content;
-	padding-left: 1.5rem;
-	padding-right: 1.5rem;
+    font-size: small;
+    border-radius: 1rem;
+    width: fit-content;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
 }
 
 .clamp-2-lines {
-	display: -webkit-box;
-	-webkit-box-orient: vertical;
-	-webkit-line-clamp: 3;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	line-height: 1.5rem;
-	height: 4.5rem; /* 3 lines * line-height */
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.5rem;
+    height: 4.5rem; /* 3 lines * line-height */
 }
 
 .deal-tab {
-	cursor: url("../images/Lego_Man_Pointer.png"), pointer !important;
-	color: #f49b00;
+    cursor: url("../images/Lego_Man_Pointer.png"), pointer !important;
+    color: #f49b00;
 }
 
 .deal-tab span {
-	cursor: inherit;
+    cursor: inherit;
 }
 
 .deal-tab:hover {
-	color: var(--bu-accent);
+    color: var(--bu-accent);
 }
 
 .img-thumbnail {
-	max-height: 100px;
+    max-height: 100px;
 }
 
 /* Countdown container styles */
 #countdown-container {
-	text-align: right;
-	margin-top: 5px; /* Space between toggle and countdown */
+    text-align: right;
+    margin-top: 5px; /* Space between toggle and countdown */
 }
 
 /* Countdown text */
 #countdown-text {
-	font-size: 0.8rem; /* Match font size with toggle label */
-	color: var(--bu-text); /* Light gray for text */
-	opacity: 0.4;
-	margin: 0;
+    font-size: 0.8rem; /* Match font size with toggle label */
+    color: var(--bu-text); /* Light gray for text */
+    opacity: 0.4;
+    margin: 0;
 }
 
 /* Countdown numbers */
 #countdown {
-	font-size: 0.8rem;
-	font-weight: normal;
-	opacity: 0.5;
-	margin: 0;
+    font-size: 0.8rem;
+    font-weight: normal;
+    opacity: 0.5;
+    margin: 0;
 }
 
 /* Styling for countdown numbers */
 #countdown span {
-	font-weight: bold;
+    font-weight: bold;
 }
 
 /* Highlight publication date if the deal is expiring soon */
-.text-danger {
-	font-weight: bold;
-	color: var(--bu-divider); /* Bootstrap's "danger" color */
+.text-danger p {
+    font-weight: bold;
 }
 
 /* ===== Modal Custom Styles ===== */
 .modal-content {
-	background-color: var(--bu-bg); /* Use background color from your palette */
-	color: var(--bu-text); /* Use text color from your palette */
-	border: none; /* Remove border for a cleaner look */
-	border-radius: 8px; /* Rounded corners for a modern look */
+    background-color: var(--bu-bg); /* Use background color from your palette */
+    color: var(--bu-text); /* Use text color from your palette */
+    border: none; /* Remove border for a cleaner look */
+    border-radius: 8px; /* Rounded corners for a modern look */
 }
 
 /* Modal Header */
 .modal-header {
-	background-color: var(--bu-accent); /* Accent color for the header */
-	color: #e4e4da; /* White text for contrast */
-	border-bottom: 1px solid var(--bu-divider); /* Divider color for separation */
+    background-color: var(--bu-accent); /* Accent color for the header */
+    color: #e4e4da; /* White text for contrast */
+    border-bottom: 1px solid var(--bu-divider); /* Divider color for separation */
 }
 
 .modal-title {
-	font-family: QuarterFree;
-	font-weight: bold; /* Make the title bold */
-	color: #e4e4da; /* White text color */
+    font-family: QuarterFree;
+    font-weight: bold; /* Make the title bold */
+    color: #e4e4da; /* White text color */
 }
 
 /* Modal Body */
 .modal-body {
-	background-color: var(--bu-bg); /* Background color from your palette */
-	color: var(--bu-text); /* Text color from your palette */
+    background-color: var(--bu-bg); /* Background color from your palette */
+    color: var(--bu-text); /* Text color from your palette */
 }
 
 /* Modal Footer */
 .modal-footer {
-	background-color: var(--bu-bg); /* Divider color for the footer */
-	border-top: 1px solid var(--bu-text); /* Border for separation */
+    background-color: var(--bu-bg); /* Divider color for the footer */
+    border-top: 1px solid var(--bu-text); /* Border for separation */
 }
 
 /* Buttons in the modal */
 .modal-footer .btn {
-	background-color: var(--bu-accent); /* Accent color for button background */
-	color: #e4e4da; /* White text for buttons */
-	border: none; /* Remove button border */
+    background-color: var(--bu-accent); /* Accent color for button background */
+    color: #e4e4da; /* White text for buttons */
+    border: none; /* Remove button border */
 }
 
 .modal-footer .btn:hover {
-	background-color: #d00000; /* Darker shade for hover effect */
+    background-color: #d00000; /* Darker shade for hover effect */
 }
 
 /* ===== Dark mode ===== */
 body.dark-mode {
-	--bu-text: #e4e4da;
-	--bu-bg: #4c5156;
-	--bu-accent: #e02a29;
-	--bu-divider: #ebd800;
+    --bu-text: #e4e4da;
+    --bu-bg: #4c5156;
+    --bu-accent: #e02a29;
+    --bu-divider: #ebd800;
 }
