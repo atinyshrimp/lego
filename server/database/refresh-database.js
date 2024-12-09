@@ -81,9 +81,6 @@ async function refreshDatabase() {
 }
 
 // Clear existing files in the sales and deals directories before scraping
-const fs = require("fs");
-const path = require("path");
-
 /**
  * Clears specific files in the provided data folder:
  * Deletes `deals.json` and all JSON files inside the `/sales` directory.
