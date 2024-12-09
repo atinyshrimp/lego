@@ -1,0 +1,25 @@
+name: Weekly Database Refresh
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # 5:00 AM UTC+2
+    - cron: "0 16 * * *" # 6:00 PM UTC+2
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./server
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+      - name: Install dependencies
+        run: npm install
+      - name: Run Database Refresh Script
+        env:
+          MONGODB_CLUSTER_PWD: ${{ secrets.MONGODB_CLUSTER_PWD }}
+        run: node database/refresh-database.js

@@ -42,18 +42,30 @@
 			</div>
 			<h1 class="col-md-8">Bricked Up</h1>
 		</div>
-		<div class="col form-check form-switch form-check-reverse">
-			<input
-				class="form-check-input align-items-center"
-				type="checkbox"
-				id="darkModeToggle"
-			/>
-			<label
-				class="form-check-label"
-				for="flexSwitchCheckReverse"
-				style="font-size: 0.8rem"
-				>Enable dark mode</label
-			>
+		<!-- Right-aligned dark mode toggle and countdown -->
+		<div class="col d-flex flex-column align-items-end">
+			<!-- Dark mode toggle -->
+			<div class="form-check form-switch form-check-reverse">
+				<input
+					class="form-check-input align-items-center"
+					type="checkbox"
+					id="darkModeToggle"
+				/>
+				<label
+					class="form-check-label"
+					for="flexSwitchCheckReverse"
+					style="font-size: 0.8rem"
+					>Enable dark mode</label
+				>
+			</div>
+			<!-- Countdown -->
+			<div id="countdown-container" class="d-flex align-items-end flex-column">
+				<p id="countdown-text">Next Data Refresh In:</p>
+				<p id="countdown">
+					<span id="hours">00</span>h <span id="minutes">00</span>m
+					<span id="seconds">00</span>s
+				</p>
+			</div>
 		</div>
 	</header>
 	<body class="px-3">
@@ -90,10 +102,10 @@
 								>Popular</span
 							>
 							<span class="btn btn-sm btn-outline-secondary col-md-4 filter"
-								>Best discount</span
+								>Best Discount</span
 							>
 							<span class="btn btn-sm btn-outline-secondary col-md-4 filter"
-								>Hot deals</span
+								>Hot Deals</span
 							>
 						</div>
 					</div>
