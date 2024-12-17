@@ -1,65 +1,131 @@
-# 🧱 Lego
+# 🧱 Bricked Up: Predictability of a LEGO Set Deal
 
-> First bricks for profitability
+## 🚀 Project Overview
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+**Bricked Up** is a full-stack web app that aggregates and analyzes **LEGO deals** 🧩 scraped from public sources. Users can browse deals, filter and sort listings, save favorites, and gain insights with interactive price indicators.
 
-- [📱 Context](#-context)
-- [🤔 Problems](#-problems)
-- [🎯 Objective](#-objective)
-- [🛣 How to solve it?](#%F0%9F%9B%A3-how-to-solve-it)
-- [👩🏽‍💻 Step by step with Workshops](#%E2%80%8D-step-by-step-with-workshops)
-- [🌱 Source and Inspiration](#-source-and-inspiration)
-- [📝 Licence](#-licence)
+🌐 **Live Demo**: [**Visit Bricked Up**](https://bricked-up-lego.vercel.app)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+---
 
-## 📱 Context
+## 💡 Why This Project?
 
-_In progress_
+**Bricked Up** solves the challenge of finding the best LEGO deals in a **user-friendly**, **responsive**, and automated way. By leveraging scraping, APIs, and automation, it ensures LEGO enthusiasts never miss out on a great deal. 🧱✨
 
-## 🤔 Problems
+---
 
-_In progress_
+## ✨ Features
 
+-   🛒 **View Deals**: Browse through aggregated LEGO offers.
+-   🔍 **Interactive Filters**:
+    -   🏆 _Best Discount_
+    -   🔥 _Hot Deals_
+    -   📈 _Popular Deals_
+-   📊 **Deal Insights**:
+    -   Average and percentile price indicators.
+    -   Expiration countdown for time-sensitive offers.
+-   ❤️ **Save Favorites**: Mark and revisit your favorite deals.
+-   🌗 **Dark Mode**: Toggle between light and dark themes.
+-   🔄 **Automated Refresh**: Deals update **daily** at 5 AM and 6 PM UTC+2.
+<!-- - 📱 **Responsive Design**: Works seamlessly on all devices. -->
 
-## 🎯 Objective
+---
 
-**Build an end-to-end web application to determine if a lego set deal is really a good deal.**
+## 🛠️ Technologies Used
 
-## 🛣 How to solve it?
+-   **Frontend**: HTML, CSS (Bootstrap 5) 🎨, JavaScript ⚡
+-   **Backend**: Node.js with Express.js 🚀
+-   **Database**: MongoDB Atlas 🗄️
+-   **Web Scraping**: Puppeteer 🕷️, Cheerio 🌿
+-   **Deployment**: Vercel 🛠️
+-   **Automation**: GitHub Actions 🕒
 
-1. 🧱 **Manipulate Deals and sold items**: How to [manipulate](https://github.com/92bondstreet/javascript-empire/blob/master/themes/1.md#about-javascript) the products in the [browser](https://github.com/92bondstreet/javascript-empire/blob/master/themes/1.md#about-htmlcss)
-2. 🧹 **Scrape Deals**: How to [fetch](https://github.com/92bondstreet/javascript-empire/blob/master/themes/2.md#about-nodejs) Products from different website sources
-3. 📱 **Render Deals in the browser**: How to [interact](https://github.com/92bondstreet/javascript-empire/blob/master/themes/2.md#about-react) with the Products in the browser
-4. 💽 **Save Deals in database**: How to avoid to scrape again and again the same data
-5. ⤵️ **Request Deals with an api**: How to [give access](https://github.com/92bondstreet/javascript-empire/blob/master/themes/3.md#about-restful-and-graphql-api) to your data
-6. 🐛 **Test your code**: How to [ensure quality](https://github.com/92bondstreet/javascript-empire/blob/master/themes/3.md#about-test-driven-development) and confidence
-7. 🚀 **Deploy in production**: How to [give access](https://github.com/92bondstreet/javascript-empire/blob/master/themes/3.md#about-serverless) to anyone
+---
 
-## 👩🏽‍💻 Step by step with Workshops
+## 📸 Screenshots
 
-_In progress_
+![Home Page](./assets/screenshots/homepage.png)  
+_A clean, interactive homepage for LEGO enthusiasts._
 
-With [javascript-empire](https://github.com/92bondstreet/javascript-empire#%EF%B8%8F-the-3-themes) themes, we'll follow next workshops to solve our problem:
+![Dark Mode](./assets/screenshots/darkmode.png)  
+![Dark Mode](./assets/screenshots/darkmode.gif)\  
+_Seamless switch to dark mode._
 
-| Step | Workshops | Planned Date
-| --- | --- | ---
-| 1 | [Manipulate data with JavaScript in the browser](./workshops/1-manipulate-javascript.md) | Sept 2024
-| 2 | [Interact data with JavaScript, HTML and CSS in the browser again](./workshops/2-interact-js-css.md) | Sept 2024
-| 3 | [Scrape data with Node.js](./workshops/3-scrape-node.md) | Oct and Nov 2024
-| 4 | [Save data in a Database with MongoDB](./workshops/4-store-mongodb.md) | Nov 2024
-| 5 | [Build an api with Express to request data](./workshops/5-api-express.md) | Nov 2024
-| 6 | Test your code with Jest | Dec 2024
-| 7 | Deploy in production with Vercel | Dec 2024
+![Deal Insights](./assets/screenshots/insights.png)  
+![Deal Insights](./assets/screenshots/insights.gif)\  
+_Key price insights with visual indicators._
 
+---
 
-## 🌱 Source and Inspiration
+## ⚙️ How It Works
 
-_In progress_
+1. **Data Collection**: 🕷️ Deals are scraped from public sources like **Dealabs** and **Vinted**.
+2. **Backend API**: 📡 Data is stored in **MongoDB Atlas** and served through an Express.js API.
+3. **Scheduled Updates**: ⏰ **GitHub Actions** refresh the data automatically twice a day.
+4. **Client Rendering**: 🌟 The deals are displayed interactively with filtering, sorting, and responsive design.
 
-## 📝 Licence
+---
 
-[Uncopyrighted](http://zenhabits.net/uncopyright/)
+## 🌐 Live Updates: Automation
+
+The data refreshes **automatically**:  
+⏰ **Daily at 5 AM and 6 PM UTC+2**  
+Using **GitHub Actions** to ensure users always get the latest deals.
+
+---
+
+## 🗂️ Project Structure
+
+```
+bricked-up/
+├── client/
+│   └── v2/
+│       ├── index.html       # Main client HTML file
+│       ├── styles.css       # Custom CSS styles
+│       ├── portfolio.js     # Client-side logic
+│       ├── assets/          # Images and other assets
+│       └── utils.js         # Utility functions
+│
+├── server/
+│   ├── api.js               # Main server file (Express routes)
+│   ├── refresh_database.js  # Script to refresh MongoDB
+│   ├── dealabs.js           # Scraping script for Dealabs
+│   ├── vinted.js            # Scraping script for Vinted
+│   └── node_modules/        # Installed dependencies
+│
+├── .github/
+│   └── workflows/
+│       └── database-refresh.yml  # GitHub Actions for scheduled scraping
+│
+├── vercel.json              # Vercel deployment configuration
+├── package.json             # Dependencies for server and client
+└── README.md                # Project documentation
+```
+
+---
+
+## 👑 Acknowledgments
+
+-   Public data sources: **Dealabs** and **Vinted**
+-   Frameworks & Tools: Bootstrap, Puppeteer, Node.js, MongoDB
+-   Icons: [Flaticon](https://flaticon.com/)
+
+---
+
+## 📬 Contact
+
+**Developed by**: [Joyce Lapilus](https://github.com/atinyshrimp)  
+**Project Repository**: [GitHub](https://github.com/atinyshrimp/lego)
+
+For inquiries, feel free to contact via [**joyce.lapilus@gmail.com**](mailto:joyce.lapilus@gmail.com).
+
+---
+
+## ⚠️ Disclaimer
+
+This website aggregates publicly available data for **educational and informational purposes only**.  
+🔒 **No malicious intent** is associated with data scraping. For any concerns, feel free to contact me.
+
+---
+
+🎉 **Thank you for visiting Bricked Up!** 🧱✨
