@@ -326,6 +326,8 @@ a:hover {
     .pagination {
         flex-wrap: wrap;
         justify-content: center;
+        position: static; /* Ensure pagination is positioned correctly */
+        margin-top: 1rem; /* Add some space above the pagination */
     }
 }
 
@@ -349,6 +351,8 @@ a:hover {
     }
     .pagination {
         justify-content: space-between;
+        position: static; /* Ensure pagination is positioned correctly */
+        margin-top: 1rem; /* Add some space above the pagination */
     }
 }
 
