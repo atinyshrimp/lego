@@ -128,55 +128,69 @@ const createDealTemplate = (deal) => {
     const isFavorite = isFavoriteDeal(deal._id);
 
     return `
-        <div class="col-12 col-sm-6 col-md-4">
-            <div class="card mb-4" id=${deal._id}>
-                <div class="card-body">
-                    <!-- Title and LEGO ID -->
-                    <div class="d-flex align-items-center mb-3">
-                        <img
-                            class="img-fluid img-thumbnail"
-                            src="${deal.imgUrl}"
-                            alt="Lego set image"
-                        />
-                        <div class="ms-3">
-                            <a
-                                href="#"
-                                class="deal-title"
-                                data-bs-toggle="modal"
-                                data-bs-target="#dealModal"
-                                data-uuid="${deal._id}"
-                                data-id="${deal.legoId}"
-                            >
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4">
+            <div class="card" id=${deal._id}>
+                <div class="card-body d-block">
+                    <!-- First row: Title and LEGO ID -->
+                    <div class="row mb-2 justify-content-between">
+                        <div class="img-container col-3 col-md-3">
+                            <img class="img-fluid img-thumbnail" src="${
+                                deal.imgUrl
+                            }" alt="Lego set image">
+                        </div>
+                        <div class="col-7 col-md-7 pt-1 px-0">
+                            <a href="#" class="deal-title" data-bs-toggle="modal" data-bs-target="#dealModal" data-uuid="${
+                                deal._id
+                            }" data-id="${deal.legoId}">
                                 <h5 class="card-title clamp-2-lines">${
                                     deal.title
                                 }</h5>
                             </a>
-                            <h6 class="card-subtitle text-muted">${
+                            <h6 class="card-subtitle mb-2 text-muted">${
                                 deal.legoId
                             }</h6>
                         </div>
-                    </div>
-                    <!-- Details -->
-                    <div class="d-flex justify-content-between align-items-center">
-                        <!-- Comments and Publication -->
-                        <div>
-                            <p class="badge bg-danger">${deal.temperature}°</p>
-                            <p class="m-0">
-                                <i class="fi fi-rr-comment-dots"></i> ${
-                                    deal.comments
-                                }
-                            </p>
-                            <p class="text-muted">${timeAgo(
-                                deal.publication
-                            )}</p>
+                        <div class="col-2 col-md-2" style="width: fit-content;">
+                            <button class="btn favorite-btn" style="width: fit-content;" data-id="${
+                                deal._id
+                            }">
+                                ${isFavorite ? DEL_FAV_ICON : ADD_FAV_ICON}
+                            </button>
                         </div>
-                        <!-- Like button -->
-                        <button
-                            class="btn favorite-btn"
-                            data-id="${deal._id}"
-                        >
-                            ${isFavorite ? DEL_FAV_ICON : ADD_FAV_ICON}
-                        </button>
+                    </div>
+
+                    <!-- Second row: Temperature, Comments, and Publication Date -->
+                    <div class="row justify-content-between">
+                        <div class="col-6 d-flex flex-column align-items-start">
+                            <p class="badge rounded-pill text-bg-danger mb-0">${
+                                deal.temperature
+                            }°</p>
+                            <div class="d-inline-flex align-items-center pt-1">
+                                <i class="fi fi-rr-comment-dots"></i> &nbsp;
+                                <p class="pb-1 m-0">${deal.comments}</p>
+                            </div>
+                            <div class="d-inline-flex align-items-center pt-1">
+                                <i class="fi fi-rr-pending"></i> &nbsp;
+                                <p class="pb-1 m-0">${timeAgo(
+                                    deal.publication
+                                )}</p>
+                            </div>
+                        </div>
+                        <!-- Right Column: Prices and CTA Button -->
+                        <div class="col-6 d-flex flex-column align-items-end" style="width: fit-content;">
+                            <p class="card-text text-decoration-line-through text-muted mb-0 d-inline-block">${formatPrice(
+                                deal.nextBestPrice
+                            )}</p>
+                            <p class="card-text mb-0 d-inline-block">${formatPrice(
+                                deal.price
+                            )}</p>
+                            <a role="button" id="see-deal-btn" class="btn d-inline-flex align-items-center p-0 mt-2 deal-tab see-deal-btn" href="${
+                                deal.url
+                            }" target="_blank">
+                                <span style="margin-bottom:.4rem;">See deal &nbsp;</span>
+                                <i class="fi fi-rr-up-right-from-square"></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>

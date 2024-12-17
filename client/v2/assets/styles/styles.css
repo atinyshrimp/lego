@@ -321,7 +321,7 @@ a:hover {
     }
     .card {
         width: 100%;
-        margin: 0;
+        margin: 10px 0; /* Add margin between cards */
     }
     .pagination {
         flex-wrap: wrap;
@@ -329,28 +329,70 @@ a:hover {
         position: static; /* Ensure pagination is positioned correctly */
         margin-top: 1rem; /* Add some space above the pagination */
     }
+    #see-deal-btn {
+        display: none !important; /* Hide the "See deal" button on small screens */
+    }
 }
 
-/* Tablet Styles (min-width: 577px and max-width: 768px) */
-@media (min-width: 577px) and (max-width: 768px) {
+/* Tablet Styles: Ensure cards adjust to 2 or 3 columns dynamically */
+@media (min-width: 577px) and (max-width: 1024px) {
     header h1 {
-        font-size: 2rem;
+        font-size: 1.5rem;
+        text-align: center;
     }
     header img {
-        width: 80px;
-        height: 80px;
+        width: 60px;
+        height: 60px;
+    }
+    .nav-tabs h2 {
+        font-size: 1rem;
     }
     .col-2 {
-        width: 20%;
+        display: none;
     }
     .col {
-        width: 80%;
+        width: 100%;
+        padding: 0 10px;
     }
+
+    .items .col-12 {
+        width: 48%; /* Two cards per row on medium tablets */
+        margin: 1%; /* Add spacing between cards */
+    }
+
+    .img-container {
+        flex: 1 0 auto;
+    }
+
+    #see-deal-btn {
+        display: none !important; /* Hide the "See deal" button on small screens */
+    }
+
+    #options-column {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+}
+
+/* Large Tablet Styles (1025px - 1366px): Up to 3 cards per row */
+@media (min-width: 1025px) and (max-width: 1366px) {
+    .items .col-12 {
+        width: 31%; /* Three cards per row */
+        margin: 1%; /* Add spacing between cards */
+    }
+
+    #see-deal-btn {
+        display: none !important; /* Hide the "See deal" button on small screens */
+    }
+}
+
+/* Desktop Styles (min-width: 1367px) */
+@media (min-width: 1367px) {
     .card {
-        margin: 10px auto;
+        margin: 10px auto; /* Center cards and add margin between them */
     }
     .pagination {
-        justify-content: space-between;
+        justify-content: flex-end;
         position: static; /* Ensure pagination is positioned correctly */
         margin-top: 1rem; /* Add some space above the pagination */
     }
