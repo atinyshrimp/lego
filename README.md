@@ -4,7 +4,7 @@
 
 **Bricked Up** is a full-stack web app that aggregates and analyzes **LEGO deals** 🧩 scraped from public sources. Users can browse deals, filter and sort listings, save favorites, and gain insights with interactive price indicators.
 
-🌐 **Live Demo**: [**Visit Bricked Up**](https://bricked-up-lego.vercel.app)
+🌐 **Live Demo**: [**Visit Bricked Up**](https://bricked-up.vercel.app)
 
 ---
 
@@ -48,11 +48,13 @@
 _A clean, interactive homepage for LEGO enthusiasts._
 
 ![Dark Mode](./assets/screenshots/darkmode.png)  
-![Dark Mode](./assets/screenshots/darkmode.gif)\  
+![Dark Mode](./assets/screenshots/darkmode.gif)
+\
 _Seamless switch to dark mode._
 
 ![Deal Insights](./assets/screenshots/insights.png)  
-![Deal Insights](./assets/screenshots/insights.gif)\  
+![Deal Insights](./assets/screenshots/insights.gif)
+\
 _Key price insights with visual indicators._
 
 ---
