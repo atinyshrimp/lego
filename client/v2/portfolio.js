@@ -43,6 +43,7 @@ const savedDarkMode = localStorage.getItem("darkMode");
 const selectShow = document.querySelector("#show-select");
 const selectPage = document.querySelector("#page-select");
 const selectLegoSetIds = document.querySelector("#lego-set-id-select");
+const paginationContainer = document.querySelector(".pagination");
 const paginationInfo = document.querySelector("#pagination-info");
 const sectionDeals = document.querySelector("#nav-deals");
 const sectionFavorites = document.querySelector("#nav-favorites");
@@ -367,7 +368,6 @@ const createPaginationButton = (
  */
 const renderPagination = (pagination, type = "deals") => {
 	const { currentPage, pageCount } = pagination;
-	const paginationContainer = document.querySelector(".pagination");
 	const maxVisiblePages = 5;
 	const halfVisible = Math.floor(maxVisiblePages / 2);
 
@@ -506,7 +506,6 @@ const fetchFavoriteDeals = async () => {
  */
 const renderFavoriteDeals = async (page = 1, itemsPerPage = 6) => {
 	const favoriteDeals = await fetchFavoriteDeals();
-	const paginationContainer = document.querySelector(".pagination");
 	const totalFavorites = favoriteDeals.length;
 	const pageCount = Math.ceil(totalFavorites / itemsPerPage);
 	const startIndex = (page - 1) * itemsPerPage;
@@ -562,7 +561,6 @@ const renderFavoriteDeals = async (page = 1, itemsPerPage = 6) => {
 };
 
 const renderFavoritePagination = (favoriteIds) => {
-	const paginationContainer = document.querySelector(".pagination");
 	const itemsPerPage = parseInt(selectShow.value) || 6; // Default to 6 items per page
 	const totalFavorites = favoriteIds.length;
 	const pageCount = Math.ceil(totalFavorites / itemsPerPage);
@@ -958,6 +956,7 @@ document.querySelectorAll(".nav-link").forEach((link) => {
 			await renderFavoriteDeals(1, favoritesPagination.pageSize);
 		} else if (isTabActive("nav-deals-tab")) {
 			// Render deals with specific pagination
+			paginationContainer.style.display = "flex";
 			render(currentDeals, dealsPagination);
 		}
 	});
