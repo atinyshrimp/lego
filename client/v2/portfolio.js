@@ -501,6 +501,7 @@ const fetchFavoriteDeals = async () => {
  */
 const renderFavoriteDeals = async (page = 1, itemsPerPage = 6) => {
 	const favoriteDeals = await fetchFavoriteDeals();
+	const paginationContainer = document.querySelector(".pagination");
 	const totalFavorites = favoriteDeals.length;
 	const pageCount = Math.ceil(totalFavorites / itemsPerPage);
 	const startIndex = (page - 1) * itemsPerPage;
@@ -526,6 +527,8 @@ const renderFavoriteDeals = async (page = 1, itemsPerPage = 6) => {
             <div class="alert alert-warning" role="alert">
                 No favorites to display. Add some deals to your favorites!
             </div>`;
+
+		paginationContainer.style.display = "none";
 		return;
 	}
 
@@ -544,6 +547,7 @@ const renderFavoriteDeals = async (page = 1, itemsPerPage = 6) => {
 	sectionFavorites.appendChild(fragment);
 
 	// Render pagination
+	paginationContainer.style.display = "flex";
 	renderPagination(currentPagination);
 };
 
