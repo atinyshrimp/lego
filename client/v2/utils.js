@@ -244,7 +244,7 @@ const isFavoriteDeal = (dealId) => {
  *
  * @param {Event} event - The click event from the UI element.
  */
-const toggleFavorite = (event) => {
+const toggleFavorite = async (event) => {
 	const dealId = event.target.getAttribute("data-id");
 	let favorites = getFavoriteDeals();
 
@@ -259,6 +259,13 @@ const toggleFavorite = (event) => {
 
 	saveFavoriteDeals(favorites);
 	console.table(getFavoriteDeals());
+	// Re-render the favorite deals if the favorites tab is active
+	if (isTabActive("nav-favorites-tab")) {
+		await renderFavoriteDeals(
+			favoritesPagination.currentPage,
+			favoritesPagination.pageSize
+		);
+	}
 };
 
 /** Formats a number into a readable currency

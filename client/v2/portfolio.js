@@ -317,6 +317,11 @@ const renderSales = async (sales) => {
 			.reverse()
 			.map((fav) => createDealTemplate(fav))
 			.join("");
+
+		// Attach listeners to favorite buttons
+		document.querySelectorAll(".favorite-btn").forEach((button) => {
+			button.addEventListener("click", toggleFavorite);
+		});
 	} else {
 		template = `
       <div class="alert alert-warning" role="alert">
@@ -331,7 +336,7 @@ const renderSales = async (sales) => {
 	div.innerHTML = template;
 	fragment.appendChild(div);
 	sectionFavorites.appendChild(fragment);
-	renderPagination(currentPagination);
+	renderPagination(currentPagination, "favorites");
 };
 
 /** Create pagination button
@@ -545,6 +550,11 @@ const renderFavoriteDeals = async (page = 1, itemsPerPage = 6) => {
 	div.innerHTML = template;
 	fragment.appendChild(div);
 	sectionFavorites.appendChild(fragment);
+
+	// Attach listeners to favorite buttons
+	document.querySelectorAll(".favorite-btn").forEach((button) => {
+		button.addEventListener("click", toggleFavorite);
+	});
 
 	// Render pagination
 	paginationContainer.style.display = "flex";
