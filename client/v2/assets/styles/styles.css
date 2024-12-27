@@ -336,6 +336,8 @@ footer i {
 
 footer .social-icons a {
 	margin-right: 10px;
+}
+
 /* Mobile Styles (max-width: 576px) */
 @media (max-width: 576px) {
 	header h1 {
