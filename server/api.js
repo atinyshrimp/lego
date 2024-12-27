@@ -179,6 +179,7 @@ app.get("/v1/deals/search", async (req, res) => {
 
 		// Define aggregation pipeline
 		const pipeline = [
+			{ $match: filter }, // Apply the filter
 			{
 				$lookup: {
 					from: "sales",
