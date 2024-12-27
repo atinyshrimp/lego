@@ -129,8 +129,6 @@ const fetchSales = async (id) => {
  */
 const createDealTemplate = (deal) => {
 	const isFavorite = isFavoriteDeal(deal._id);
-	const isExpiringSoon =
-		deal.expirationDate && deal.expirationDate * 1000 > Date.now();
 
 	return `
 	  <div class="col-4">
@@ -157,6 +155,13 @@ const createDealTemplate = (deal) => {
 				</button>
 			  </div>
 			</div>
+
+            <!-- Relevance Score -->
+            <div class="row mb-2">
+                <span class="relevance-badge badge bg-primary">Relevance: ${Math.round(
+									deal.relevanceScore * 100
+								)}%</span>
+            </div>
   
 			<!-- Second row: Temperature, Comments, and Publication Date -->
 			<div class="row justify-content-between">
@@ -167,10 +172,10 @@ const createDealTemplate = (deal) => {
 				  <p class="pb-1 m-0">${deal.comments} </p>
 				</div>
 				<div class="d-inline-flex align-items-center pt-1 ${
-					isExpiringSoon ? "text-danger" : ""
+					isExpiringSoon(deal) ? "text-danger" : ""
 				}">
 				  <i class="fi fi-rr-pending"></i> &nbsp;
-				  <p class="pb-1 m-0 ${isExpiringSoon ? "text-danger" : ""}" id="pub-${
+				  <p class="pb-1 m-0 ${isExpiringSoon(deal) ? "text-danger" : ""}" id="pub-${
 		deal._id
 	}" ${
 		deal.expirationDate
@@ -208,7 +213,7 @@ const createDealTemplate = (deal) => {
  */
 const initializeExpirationTooltips = () => {
 	currentDeals.forEach((deal) => {
-		if (deal.expirationDate) {
+		if (isExpiringSoon(deal)) {
 			const tooltipElement = document.getElementById(`pub-${deal._id}`);
 			if (tooltipElement) {
 				new bootstrap.Tooltip(tooltipElement);

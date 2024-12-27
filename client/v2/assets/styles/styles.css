@@ -259,6 +259,11 @@ a:hover {
 	font-weight: bold;
 }
 
+.relevance-badge {
+	background-color: rgba(235, 216, 0, 0.1) !important;
+	color: var(--bu-text);
+}
+
 /* Highlight publication date if the deal is expiring soon */
 .text-danger p {
 	font-weight: bold;

@@ -7,7 +7,7 @@ const DEL_FAV_ICON = `
 const DARK_MODE_CLASS = "dark-mode";
 // const API_URL = "https://bricked-up-api.vercel.app";
 
-/**
+/** Fetches the list of deals from the API
  *
  * @param {Array} deals - list of deals
  * @returns {Array} list of lego set ids
@@ -292,7 +292,6 @@ function isTabActive(tabId) {
 	return tab && tab.classList.contains("active");
 }
 
-// Function to enable dark mode
 /** Enables dark mode by adding the appropriate class to the body and saving the preference.
  *
  */
@@ -303,7 +302,6 @@ const enableDarkMode = () => {
 	document.querySelector(".form-check-label").innerHTML = "Peak the sunlight";
 };
 
-// Function to disable dark mode
 /** Disables dark mode by removing the class from the body and saving the preference.
  *
  */
@@ -388,7 +386,6 @@ function timeAgo(unixTime) {
 	return "just now";
 }
 
-// Function to generate histogram data
 /** Generates histogram data from an array of sale prices.
  *
  * @param {Array<Object>} data - Array of sales data objects, each with a `price` property.
@@ -412,4 +409,23 @@ function generateHistogramData(data, bins = 10) {
 		(min + i * binSize).toFixed(2)
 	);
 	return { labels, histogram };
+}
+
+/** Checks if a deal is expiring soon.
+ *
+ * @param {Object} deal - The deal object to check.
+ * @param {number} deal.expirationDate - The Unix timestamp of the deal's expiration date in seconds.
+ * @returns {boolean} - True if the deal is expiring within the next 24 hours, false otherwise.
+ */
+function isExpiringSoon(deal) {
+	const timeLimit = 7 * 24 * 60 * 60; // 7 days in seconds
+	if (!deal.expirationDate) {
+		return false;
+	}
+
+	const currentTime = Math.floor(Date.now() / 1000); // Current time in seconds
+	const timeUntilExpiration = deal.expirationDate - currentTime;
+
+	// Check if the deal is expiring within the next 24 hours (86400 seconds)
+	return timeUntilExpiration <= timeLimit && timeUntilExpiration > 0;
 }
