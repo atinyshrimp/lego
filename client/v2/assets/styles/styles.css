@@ -42,6 +42,7 @@
 }
 
 /* ===== Styles for HTML tags ===== */
+/* Default styles (desktop) */
 body {
 	background-color: var(--bu-bg);
 	color: var(--bu-text);
@@ -155,9 +156,6 @@ a:hover {
 	--bs-pagination-active-bg: var(--bu-accent);
 	--bs-pagination-disabled-color: var(--bu-bg);
 	--bs-pagination-disabled-bg: var(--bu-bg);
-
-	margin-top: 2vh;
-	margin-bottom: 3.5vh;
 }
 
 /* ===== Styles for created classes & IDs ===== */
@@ -338,6 +336,214 @@ footer i {
 
 footer .social-icons a {
 	margin-right: 10px;
+/* Mobile Styles (max-width: 576px) */
+@media (max-width: 576px) {
+	header h1 {
+		font-size: 1.5rem;
+		text-align: center;
+	}
+	header img {
+		width: 60px;
+		height: 60px;
+	}
+	.nav-tabs h2 {
+		font-size: 1rem;
+	}
+	.col-2 {
+		display: none;
+	}
+	.col {
+		width: 100%;
+		padding: 0 10px;
+	}
+	.card {
+		width: 100%;
+		margin: 10px 0; /* Add margin between cards */
+	}
+	.pagination {
+		flex-wrap: wrap;
+		justify-content: center;
+		position: static; /* Ensure pagination is positioned correctly */
+		margin-top: 1rem; /* Add some space above the pagination */
+	}
+	#see-deal-btn {
+		display: none !important; /* Hide the "See deal" button on small screens */
+	}
+
+	.modal-dialog {
+		width: 100%; /* Use full screen width */
+		margin: 0; /* Remove default margin */
+	}
+	.modal-content {
+		padding: 15px; /* Add some padding for readability */
+	}
+	.modal-header {
+		display: flex;
+		justify-content: center; /* Center the title */
+		flex-wrap: wrap;
+		text-align: center;
+	}
+	.modal-header h5 {
+		font-size: 1.4rem;
+		margin-bottom: 10px; /* Space between title and close button */
+	}
+	.modal-body {
+		font-size: 0.9rem;
+		text-align: center;
+	}
+	#modalDealInfo img {
+		width: 90%; /* Reduce image size */
+		height: auto;
+		margin-bottom: 15px; /* Add spacing below image */
+	}
+	#modalSalesInfo {
+		/* display: flex;
+		flex-direction: column; Stack cards vertically */
+		gap: 15px; /* Add spacing between cards */
+		justify-content: center;
+		align-items: center; /* Center-align the cards */
+	}
+
+	#modalSalesInfo .card {
+		width: 90%; /* Set card width to occupy most of the screen */
+		max-width: 300px; /* Set a reasonable maximum width */
+		text-align: center; /* Center-align content inside cards */
+		padding: 10px; /* Add padding for better spacing */
+		box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Add subtle shadow for a modern look */
+		border-radius: 8px; /* Add rounded corners */
+		background-color: var(--bu-bg); /* Match the modal background color */
+	}
+
+	#modalSalesInfo .card h5 {
+		font-size: 1rem; /* Adjust font size for smaller devices */
+		margin-bottom: 5px;
+	}
+
+	#modalSalesInfo .card img {
+		width: 80px; /* Make images smaller */
+		height: auto;
+		margin-bottom: 10px;
+	}
+
+	#modalSalesInfo .card .badge {
+		font-size: 0.9rem; /* Adjust badge size */
+	}
+
+	#modalSalesInfo .card p {
+		font-size: 0.9rem; /* Adjust text size */
+		margin: 5px 0;
+	}
+	.modal-footer {
+		flex-direction: column; /* Stack footer elements */
+		gap: 10px; /* Add spacing between links/buttons */
+	}
+	.modal-footer a {
+		font-size: 0.8rem;
+	}
+	.modal-footer button {
+		font-size: 1rem;
+		padding: 10px; /* Adjust button size */
+	}
+}
+
+/* Tablet Styles: Ensure cards adjust to 2 or 3 columns dynamically */
+@media (min-width: 577px) and (max-width: 1024px) {
+	header h1 {
+		font-size: 1.5rem;
+		text-align: center;
+	}
+	header img {
+		width: 60px;
+		height: 60px;
+	}
+	.nav-tabs h2 {
+		font-size: 1rem;
+	}
+	.col-2 {
+		display: none;
+	}
+	.col {
+		width: 100%;
+		padding: 0 10px;
+	}
+
+	.items .col-12 {
+		width: 48%; /* Two cards per row on medium tablets */
+		margin: 1%; /* Add spacing between cards */
+	}
+
+	.img-container {
+		flex: 1 0 auto;
+	}
+
+	#see-deal-btn {
+		display: none !important; /* Hide the "See deal" button on small screens */
+	}
+
+	#options-column {
+		flex: 0 0 auto;
+		width: 100%;
+	}
+
+	.modal-dialog {
+		width: 90%; /* Slightly larger modal for tablets */
+	}
+	.modal-content {
+		padding: 15px; /* Moderate padding */
+	}
+	.modal-header h5 {
+		font-size: 1.4rem; /* Adjust title size */
+	}
+	.modal-body {
+		font-size: 1rem; /* Adjust body text size */
+	}
+	#modalSalesInfo {
+		gap: 15px; /* Adjust gap for tablets */
+	}
+	canvas {
+		max-width: 100%; /* Ensure chart resizes to fit screen */
+	}
+}
+
+/* Large Tablet Styles (1025px - 1366px): Up to 3 cards per row */
+@media (min-width: 1025px) and (max-width: 1366px) {
+	.items .col-12 {
+		width: 31%; /* Three cards per row */
+		margin: 1%; /* Add spacing between cards */
+	}
+
+	#see-deal-btn {
+		display: none !important; /* Hide the "See deal" button on small screens */
+	}
+
+	.modal-dialog {
+		max-width: 800px; /* Standard large modal size */
+	}
+	.modal-content {
+		padding: 20px; /* Generous padding for desktops */
+	}
+	.modal-header h5 {
+		font-size: 1.6rem; /* Larger title */
+	}
+	.modal-body {
+		font-size: 1.1rem; /* Adjust body text size */
+	}
+}
+
+/* Desktop Styles (min-width: 1367px) */
+@media (min-width: 1367px) {
+	.items .col-12 {
+		width: 33%; /* Three cards per row on desktop */
+	}
+
+	.card {
+		margin: 10px auto; /* Center cards and add margin between them */
+	}
+	.pagination {
+		justify-content: flex-end;
+		position: static; /* Ensure pagination is positioned correctly */
+		margin-top: 1rem; /* Add some space above the pagination */
+	}
 }
 
 /* ===== Dark mode ===== */
