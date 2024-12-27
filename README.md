@@ -16,29 +16,29 @@
 
 ## ✨ Features
 
--   🛒 **View Deals**: Browse through aggregated LEGO offers.
--   🔍 **Interactive Filters**:
-    -   🏆 _Best Discount_
-    -   🔥 _Hot Deals_
-    -   📈 _Popular Deals_
--   📊 **Deal Insights**:
-    -   Average and percentile price indicators.
-    -   Expiration countdown for time-sensitive offers.
--   ❤️ **Save Favorites**: Mark and revisit your favorite deals.
--   🌗 **Dark Mode**: Toggle between light and dark themes.
--   🔄 **Automated Refresh**: Deals update **daily** at 5 AM and 6 PM UTC+2.
-<!-- - 📱 **Responsive Design**: Works seamlessly on all devices. -->
+- 🛒 **View Deals**: Browse through aggregated LEGO offers.
+- 🔍 **Interactive Filters**:
+  - 🏆 _Best Discount_
+  - 🔥 _Hot Deals_
+  - 📈 _Popular Deals_
+- 📊 **Deal Insights**:
+  - Average and percentile price indicators.
+  - Expiration countdown for time-sensitive offers.
+- ❤️ **Save Favorites**: Mark and revisit your favorite deals.
+- 🌗 **Dark Mode**: Toggle between light and dark themes.
+- 🔄 **Automated Refresh**: Deals update **daily** at 5 AM and 6 PM UTC+2.
+- 📱 **Responsive Design**: Works seamlessly on all devices.
 
 ---
 
 ## 🛠️ Technologies Used
 
--   **Frontend**: HTML, CSS (Bootstrap 5) 🎨, JavaScript ⚡
--   **Backend**: Node.js with Express.js 🚀
--   **Database**: MongoDB Atlas 🗄️
--   **Web Scraping**: Puppeteer 🕷️, Cheerio 🌿
--   **Deployment**: Vercel 🛠️
--   **Automation**: GitHub Actions 🕒
+- **Frontend**: HTML, CSS (Bootstrap 5) 🎨, JavaScript ⚡
+- **Backend**: Node.js with Express.js 🚀
+- **Database**: MongoDB Atlas 🗄️
+- **Web Scraping**: Puppeteer 🕷️, Cheerio 🌿
+- **Deployment**: Vercel 🛠️
+- **Automation**: GitHub Actions 🕒
 
 ---
 
@@ -108,9 +108,9 @@ bricked-up/
 
 ## 👑 Acknowledgments
 
--   Public data sources: **Dealabs** and **Vinted**
--   Frameworks & Tools: Bootstrap, Puppeteer, Node.js, MongoDB
--   Icons: [Flaticon](https://flaticon.com/)
+- Public data sources: **Dealabs** and **Vinted**
+- Frameworks & Tools: Bootstrap, Puppeteer, Node.js, MongoDB
+- Icons: [Flaticon](https://flaticon.com/)
 
 ---
 
