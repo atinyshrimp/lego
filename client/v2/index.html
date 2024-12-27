@@ -85,10 +85,16 @@
 				<section class="mt-2 mb-4" id="lego">
 					<h2>Lego sets</h2>
 					<div>
-						<select
-							class="form-select form-select-sm"
-							id="lego-set-id-select"
-						></select>
+						<!-- Search Input for LEGO Set ID -->
+						<input
+							type="text"
+							id="lego-set-id-search"
+							class="form-control"
+							placeholder="Search LEGO Set ID"
+							list="lego-set-id-select"
+						/>
+						<!-- LEGO Set ID Select -->
+						<datalist id="lego-set-id-select"></datalist>
 					</div>
 				</section>
 				<section class="mt-2 mb-4" id="options">

@@ -1,8 +1,6 @@
 // Invoking strict mode https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode#invoking_strict_mode
 "use strict";
 
-// const { get } = require("https");
-
 /**
 Description of the available api
 GET https://lego-api-blue.vercel.app/deals
@@ -43,6 +41,7 @@ const savedDarkMode = localStorage.getItem("darkMode");
 const selectShow = document.querySelector("#show-select");
 const selectPage = document.querySelector("#page-select");
 const selectLegoSetIds = document.querySelector("#lego-set-id-select");
+const legoSetIdSearch = document.querySelector("#lego-set-id-search");
 const paginationContainer = document.querySelector(".pagination");
 const paginationInfo = document.querySelector("#pagination-info");
 const sectionDeals = document.querySelector("#nav-deals");
@@ -565,6 +564,10 @@ const renderFavoriteDeals = async (page = 1, itemsPerPage = 6) => {
 	renderPagination(currentPagination);
 };
 
+/** Render pagination for favorites
+ *
+ * @param {*} favoriteIds - Array of favorite deal IDs
+ */
 const renderFavoritePagination = (favoriteIds) => {
 	const itemsPerPage = parseInt(selectShow.value) || 6; // Default to 6 items per page
 	const totalFavorites = favoriteIds.length;
@@ -700,7 +703,7 @@ const setCurrentDeals = ({ results, meta }) => {
  *
  * @param  {Array} lego set ids
  */
-const renderLegoSetIds = async (deals) => {
+const renderLegoSetIds = async () => {
 	const legoSection = document.getElementById("lego");
 	if (isTabActive("nav-favorites-tab")) {
 		legoSection.style.display = "none";
@@ -712,20 +715,21 @@ const renderLegoSetIds = async (deals) => {
 	sectionOptions.style.display = "block";
 
 	const ids = await getIdsFromDeals();
-	const placeholer = `<option selected>Lego set to filter by</option>`;
+	const placeholder = `<option selected>Lego set to filter by</option>`;
 	const options = ids
 		.filter((id) => id !== "")
 		.sort((a, b) => a - b)
 		.map((id) => `<option value="${id}">${id}</option>`)
 		.join("");
 
-	selectLegoSetIds.innerHTML = placeholer + options;
+	// selectLegoSetIds.innerHTML = placeholder + options;
+	selectLegoSetIds.innerHTML = options;
 };
 
 const render = (deals, pagination) => {
 	renderDeals(deals); // Render the deals
 	renderPagination(pagination); // Render the pagination for deals
-	renderLegoSetIds(deals); // Optionally render LEGO IDs for filtering
+	renderLegoSetIds(); // Optionally render LEGO IDs for filtering
 };
 
 /** Utility function for rendering paginated deals
@@ -837,6 +841,22 @@ selectShow.addEventListener("change", async (event) => {
 /**
  * Handle filters
  */
+// Handle change event for LEGO Set ID datalist
+legoSetIdSearch.addEventListener("change", async (event) => {
+	const selectedLegoId = event.target.value;
+	console.log(selectedLegoId);
+
+	// Check if the selected LEGO ID is valid
+	if (!/^\d+$/.test(selectedLegoId)) {
+		currentParams.legoId = undefined; // Clear LEGO ID filter
+	} else {
+		currentParams.legoId = selectedLegoId; // Update global params with the selected LEGO ID
+	}
+
+	// Fetch and render deals with the selected LEGO set ID
+	await fetchAndRenderDeals(currentPagination.currentPage, selectShow.value);
+});
+
 const handleFilterClick = async (event) => {
 	const filterOption = event.target;
 
@@ -936,7 +956,7 @@ selectSort.addEventListener("change", async (event) => {
 		const { results, meta } = await fetchDeals(
 			currentPagination.currentPage,
 			currentPagination.pageSize,
-			undefined, // LEGO ID
+			currentParams.legoId, // LEGO ID
 			undefined, // Price filter
 			undefined, // Date filter
 			sortBy // Sorting parameter
