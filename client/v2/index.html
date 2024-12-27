@@ -71,6 +71,16 @@
 				</p>
 			</div>
 		</div>
+		<div class="auth-container">
+			<span id="welcome-message" class="welcome-message"></span>
+			<span
+				id="auth-prompt"
+				class="auth-prompt"
+				data-bs-toggle="modal"
+				data-bs-target="#authModal"
+				>Login</span
+			>
+		</div>
 	</header>
 	<body class="px-3">
 		<div id="loading-overlay">
@@ -79,6 +89,144 @@
 				alt="Loading..."
 			/>
 		</div>
+
+		<!-- Authentication Modal -->
+		<div
+			class="modal fade"
+			id="authModal"
+			tabindex="-1"
+			aria-labelledby="authModalLabel"
+			aria-hidden="true"
+		>
+			<div class="modal-dialog">
+				<div class="modal-content" style="padding: 0px">
+					<div class="modal-header">
+						<h5 class="modal-title" id="authModalLabel">Authentication</h5>
+						<button
+							type="button"
+							class="btn-close"
+							data-bs-dismiss="modal"
+							aria-label="Close"
+						></button>
+					</div>
+					<div class="modal-body" style="padding: 1rem 2rem 2rem 2rem">
+						<!-- Navbar to switch between Login and Register -->
+						<nav style="padding-bottom: 1rem">
+							<div class="nav nav-tabs" id="nav-tab" role="tablist">
+								<button
+									class="nav-link active"
+									id="nav-login-tab"
+									data-bs-toggle="tab"
+									data-bs-target="#nav-login"
+									type="button"
+									role="tab"
+									aria-controls="nav-login"
+									aria-selected="true"
+								>
+									Login
+								</button>
+								<button
+									class="nav-link"
+									id="nav-register-tab"
+									data-bs-toggle="tab"
+									data-bs-target="#nav-register"
+									type="button"
+									role="tab"
+									aria-controls="nav-register"
+									aria-selected="false"
+								>
+									Register
+								</button>
+							</div>
+						</nav>
+						<div class="tab-content" id="nav-tabContent">
+							<!-- Login Form -->
+							<div
+								class="tab-pane fade show active"
+								id="nav-login"
+								role="tabpanel"
+								aria-labelledby="nav-login-tab"
+							>
+								<div id="login-form" class="auth-form">
+									<h2>Login</h2>
+									<form id="login">
+										<div class="form-floating">
+											<input
+												class="form-control"
+												type="email"
+												id="login-email"
+												placeholder="Email"
+												required
+											/>
+											<label for="login-email">Email</label>
+										</div>
+										<div class="form-floating">
+											<input
+												class="form-control"
+												type="password"
+												id="login-password"
+												placeholder="Password"
+												required
+												style="font-family: auto"
+											/>
+											<label for="login-password">Password</label>
+										</div>
+										<button type="submit" class="btn btn-primary">Login</button>
+									</form>
+								</div>
+							</div>
+							<!-- Register Form -->
+							<div
+								class="tab-pane fade"
+								id="nav-register"
+								role="tabpanel"
+								aria-labelledby="nav-register-tab"
+							>
+								<div id="register-form" class="auth-form">
+									<h2>Register</h2>
+									<form id="register">
+										<div class="form-floating">
+											<input
+												class="form-control"
+												type="text"
+												id="register-username"
+												placeholder="Username"
+												required
+											/>
+											<label for="register-username">Username</label>
+										</div>
+										<div class="form-floating">
+											<input
+												class="form-control"
+												type="email"
+												id="register-email"
+												placeholder="Email"
+												required
+											/>
+											<label for="register-email">Email</label>
+										</div>
+										<div class="form-floating">
+											<input
+												class="form-control"
+												type="password"
+												id="register-password"
+												placeholder="Password"
+												required
+											/>
+											<label for="register-password">Password</label>
+										</div>
+										<button type="submit" class="btn btn-primary">
+											Register
+										</button>
+									</form>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
 		<div class="row">
 			<!-- Left column, with options & info about the page -->
 			<div class="col-12 col-md-2" id="options-column">
@@ -338,6 +486,7 @@
 				</div>
 			</div>
 		</div>
+
 		<script>
 			// Function to check if all images are loaded
 			function areImagesLoaded(images) {

@@ -1224,6 +1224,116 @@ document.addEventListener("DOMContentLoaded", async () => {
 		count: 0,
 	};
 
+	const registerForm = document.getElementById("register");
+	const loginForm = document.getElementById("login");
+	const welcomeMessage = document.getElementById("welcome-message");
+	const authPrompt = document.getElementById("auth-prompt");
+	const authModal = new bootstrap.Modal(document.getElementById("authModal"));
+
+	// Register user
+	registerForm.addEventListener("submit", async (event) => {
+		event.preventDefault();
+
+		const username = document.getElementById("register-username").value;
+		const email = document.getElementById("register-email").value;
+		const password = document.getElementById("register-password").value;
+
+		try {
+			const response = await fetch(`http://localhost:8092/v1/users/register`, {
+				method: "POST",
+				headers: {
+					"Content-Type": "application/json",
+				},
+				body: JSON.stringify({ username, email, password }),
+			});
+
+			const data = await response.json();
+			if (response.ok) {
+				localStorage.setItem("token", data.token);
+				showProfile(data.user);
+				authModal.hide();
+			} else {
+				alert(data.message);
+			}
+		} catch (error) {
+			console.error("Error registering user:", error);
+		}
+	});
+
+	// Login user
+	loginForm.addEventListener("submit", async (event) => {
+		event.preventDefault();
+
+		const email = document.getElementById("login-email").value;
+		const password = document.getElementById("login-password").value;
+
+		try {
+			const response = await fetch(`http://localhost:8092/v1/users/login`, {
+				method: "POST",
+				headers: {
+					"Content-Type": "application/json",
+				},
+				body: JSON.stringify({ email, password }),
+			});
+
+			const data = await response.json();
+			if (response.ok) {
+				localStorage.setItem("token", data.token);
+				showProfile(data.user);
+				authModal.hide();
+			} else {
+				alert(data.message);
+			}
+		} catch (error) {
+			console.error("Error logging in user:", error);
+		}
+	});
+
+	// Show profile
+	const showProfile = (user) => {
+		welcomeMessage.textContent = `Welcome, ${user.username}`;
+		authPrompt.textContent = "Logout";
+		authPrompt.removeAttribute("data-bs-toggle");
+		authPrompt.removeAttribute("data-bs-target");
+		authPrompt.addEventListener("click", logoutUser);
+	};
+
+	// Logout user
+	const logoutUser = () => {
+		localStorage.removeItem("token");
+		welcomeMessage.textContent = "";
+		authPrompt.textContent = "Login";
+		authPrompt.setAttribute("data-bs-toggle", "modal");
+		authPrompt.setAttribute("data-bs-target", "#authModal");
+		authPrompt.removeEventListener("click", logoutUser);
+	};
+
+	// Check if user is logged in
+	const checkAuth = async () => {
+		const token = localStorage.getItem("token");
+		if (token) {
+			try {
+				const response = await fetch(`http://localhost:8092/v1/users/profile`, {
+					method: "GET",
+					headers: {
+						"x-auth-token": token,
+					},
+				});
+
+				const data = await response.json();
+				if (response.ok) {
+					showProfile(data);
+				} else {
+					localStorage.removeItem("token");
+				}
+			} catch (error) {
+				console.error("Error fetching profile:", error);
+			}
+		}
+	};
+
+	checkAuth();
+
 	// Start the countdown
 	updateCountdown();
 });

@@ -1,5 +1,6 @@
 const cors = require("cors");
 const express = require("express");
+const mongoose = require("mongoose");
 const helmet = require("helmet");
 const { calculateLimitAndOffset, paginate } = require("paginate-info");
 const { MongoClient, ServerApiVersion } = require("mongodb");
@@ -64,6 +65,12 @@ process.on("SIGINT", async () => {
 });
 
 connectToDatabase();
+
+// Connect to MongoDB
+mongoose.connect(process.env.MONGODB_URI, {
+	useNewUrlParser: true,
+	useUnifiedTopology: true,
+});
 
 /** ================== Endpoints ================== */
 app.get("/", (_, res) => {
@@ -566,3 +573,9 @@ app.get("/v1/sales/search", async (req, res) => {
 		res.status(500).json({ error: "Internal server error" });
 	}
 });
+
+/** ================== Routes ================== */
+app.use("/v1/users", require("./routes/user"));
+
+const PORT = process.env.PORT || 8092;
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));

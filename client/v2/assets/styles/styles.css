@@ -182,6 +182,89 @@ a:hover {
 	height: 100vh;
 }
 
+/* Header Styles */
+.auth-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 20px;
+	margin-top: 0.5rem;
+}
+
+.welcome-message {
+	font-family: QuarterFree;
+	color: var(--bu-text);
+	font-size: 1.2rem;
+}
+
+.auth-prompt {
+	font-family: QuarterFree;
+	color: var(--bu-accent);
+	font-size: 1.2rem;
+}
+
+.auth-prompt:hover {
+	color: #d00000;
+}
+
+/* Authentication Forms */
+.auth-form {
+	background-color: var(--bu-bg);
+	color: var(--bu-text);
+	border: 1px solid var(--bu-divider);
+	border-radius: 8px;
+	padding: 20px;
+	margin: 20px auto;
+	max-width: 400px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.auth-form h2 {
+	font-family: QuarterFree;
+	color: var(--bu-accent);
+	margin-bottom: 20px;
+}
+
+.auth-form input {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 10px;
+	border: 1px solid var(--bu-divider);
+	border-radius: 4px;
+	background-color: var(--bu-bg);
+	color: var(--bu-text);
+}
+
+.auth-form input:focus {
+	border-color: #f49b00;
+	background-color: var(--bu-bg) !important;
+	color: var(--bu-text) !important;
+}
+
+.auth-form input:-webkit-autofill,
+.auth-form input:-webkit-autofill:focus {
+	background-color: var(--bu-bg) !important;
+	color: var(--bu-text) !important;
+	-webkit-box-shadow: 0 0 0px 1000px var(--bu-bg) inset;
+	-webkit-text-fill-color: var(--bu-text) !important;
+	box-shadow: 0 0 0px 1000px var(--bu-bg) inset;
+}
+
+.auth-form button {
+	width: 100%;
+	padding: 10px;
+	border: none;
+	border-radius: 4px;
+	background-color: var(--bu-accent);
+	color: #e4e4da;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.auth-form button:hover {
+	background-color: #d00000;
+}
+
 .items {
 	height: 60vh;
 }
@@ -213,7 +296,8 @@ a:hover {
 	height: 4.5rem; /* 3 lines * line-height */
 }
 
-.deal-tab {
+.deal-tab,
+.auth-prompt {
 	cursor: url("../images/Lego_Man_Pointer.png"), pointer !important;
 	color: #f49b00;
 }
