@@ -182,7 +182,14 @@ a:hover {
 	height: 100vh;
 }
 
-/* Header Styles */
+#lego-set-id-search {
+	color: var(--bu-text);
+	background-color: var(--bu-bg);
+	border-radius: 1rem;
+	border-color: var(--bu-text);
+	width: fit-content;
+}
+
 .auth-container {
 	display: flex;
 	justify-content: space-between;
