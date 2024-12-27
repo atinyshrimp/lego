@@ -576,6 +576,3 @@ app.get("/v1/sales/search", async (req, res) => {
 
 /** ================== Routes ================== */
 app.use("/v1/users", require("./routes/user"));
-
-const PORT = process.env.PORT || 8092;
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));

@@ -58,7 +58,7 @@ const spanP25Price = document.querySelector("#p25Price");
 const spanP50Price = document.querySelector("#p50Price");
 const spanLifetime = document.querySelector("#lifetimeValue");
 
-const API_URL = "https://bricked-up-api.vercel.app";
+const API_URL = "https://bricked-up-api.vercel.app/v1";
 const MINIMUM_COMMENTS = 20;
 const MINIMUM_DISCOUNT = 30;
 const MINIMUM_TEMPERATURE = 100;
@@ -87,7 +87,7 @@ const fetchDeals = async (
 		if (filterBy) params.append("filterBy", filterBy);
 
 		currentParams = { legoId, price, date, sortBy, filterBy }; // Update global params
-		const url = `${API_URL}/v1/deals/search?${params.toString()}`;
+		const url = `${API_URL}/deals/search?${params.toString()}`;
 		console.log(url);
 
 		const response = await fetch(url);
@@ -111,7 +111,7 @@ const fetchDeals = async (
  */
 const fetchSales = async (id) => {
 	try {
-		const response = await fetch(`${API_URL}/v1/sales/search?legoSetId=${id}`);
+		const response = await fetch(`${API_URL}/sales/search?legoSetId=${id}`);
 		const body = await response.json();
 		if (body.success !== true) throw new Error("Failed to fetch sales");
 		return body.results;
@@ -491,7 +491,7 @@ const fetchFavoriteDeals = async () => {
 
 	for (const dealId of favoriteIds) {
 		try {
-			const url = `${API_URL}/v1/deals/${dealId}`;
+			const url = `${API_URL}/deals/${dealId}`;
 			const res = await fetch(url);
 			const deal = await res.json();
 			if (deal) favoriteDeals.push(deal);
@@ -1239,7 +1239,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 		const password = document.getElementById("register-password").value;
 
 		try {
-			const response = await fetch(`http://localhost:8092/v1/users/register`, {
+			const response = await fetch(`${API_URL}/users/register`, {
 				method: "POST",
 				headers: {
 					"Content-Type": "application/json",
@@ -1268,7 +1268,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 		const password = document.getElementById("login-password").value;
 
 		try {
-			const response = await fetch(`http://localhost:8092/v1/users/login`, {
+			const response = await fetch(`${API_URL}/users/login`, {
 				method: "POST",
 				headers: {
 					"Content-Type": "application/json",
@@ -1313,7 +1313,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 		const token = localStorage.getItem("token");
 		if (token) {
 			try {
-				const response = await fetch(`http://localhost:8092/v1/users/profile`, {
+				const response = await fetch(`${API_URL}/users/profile`, {
 					method: "GET",
 					headers: {
 						"x-auth-token": token,
