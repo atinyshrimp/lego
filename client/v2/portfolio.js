@@ -131,15 +131,15 @@ const createDealTemplate = (deal) => {
 	const isFavorite = isFavoriteDeal(deal._id);
 
 	return `
-	  <div class="col-4">
-		<div class="card mb-4" id=${deal._id}>
+	  <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4">
+		<div class="card" id=${deal._id}>
 		  <div class="card-body d-block">
 			<!-- First row: Title and LEGO ID -->
 			<div class="row mb-2 justify-content-between">
-			  <div class="col-md-3">
+			  <div class="img-container col-3 col-md-3">
 				<img class="img-fluid img-thumbnail" src="${deal.imgUrl}">
 			  </div>
-			  <div class="col-md-7 pt-1 px-0">
+			  <div class="col-7 col-md-7 pt-1 px-0">
 				<a href="#" class="deal-title" data-bs-toggle="modal"  data-bs-target="#dealModal" data-uuid="${
 					deal._id
 				}" data-id="${deal.legoId}">
@@ -147,7 +147,7 @@ const createDealTemplate = (deal) => {
 				</a>
 				<h6 class="card-subtitle mb-2 text-muted">${deal.legoId}</h6>
 			  </div>
-			  <div class="col" style="width: 10%; flex: 0 0 auto;">
+			  <div class="col-2 col-md-2" style="width: 10%; flex: 0 0 auto;">
 				<button class="btn favorite-btn" style="width: fit-content;" data-id="${
 					deal._id
 				}">
@@ -161,8 +161,8 @@ const createDealTemplate = (deal) => {
                 <span class="relevance-badge badge bg-primary">Relevance: ${Math.round(
 									deal.relevanceScore * 100
 								)}%</span>
-            </div>
-  
+			</div>
+ 
 			<!-- Second row: Temperature, Comments, and Publication Date -->
 			<div class="row justify-content-between">
 			  <div class="col-6 d-flex flex-column align-items-start">
@@ -194,7 +194,7 @@ const createDealTemplate = (deal) => {
 					deal.nextBestPrice
 				)}</p>
 				<p class="card-text mb-0 d-inline-block">${formatPrice(deal.price)}</p>
-				<a role="button" class="btn d-inline-flex align-items-center p-0 mt-2 deal-tab" href="${
+				<a role="button" id="see-deal-btn" class="btn d-inline-flex align-items-center p-0 mt-2 deal-tab see-deal-btn" href="${
 					deal.link
 				}" target="_blank">
 				  <span style="margin-bottom:.4rem;">See deal &nbsp;</span>
