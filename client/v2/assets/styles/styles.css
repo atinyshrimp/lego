@@ -297,10 +297,11 @@ a:hover {
 	display: -webkit-box;
 	-webkit-box-orient: vertical;
 	-webkit-line-clamp: 3;
+	line-clamp: 3;
 	overflow: hidden;
 	text-overflow: ellipsis;
 	line-height: 1.5rem;
-	height: 4.5rem; /* 3 lines * line-height */
+	height: 4.5rem; /* 3 lines line-height */
 }
 
 .deal-tab,
@@ -442,17 +443,28 @@ footer .social-icons a {
 	.nav-tabs h2 {
 		font-size: 1rem;
 	}
-	.col-2 {
+	/* .col-2 {
 		display: none;
-	}
+	} */
 	.col {
 		width: 100%;
 		padding: 0 10px;
 	}
+
+	#filters .row {
+		justify-content: center !important;
+	}
+
 	.card {
 		width: 100%;
 		margin: 10px 0; /* Add margin between cards */
 	}
+
+	.favorite-btn-container {
+		width: inherit !important;
+		padding-left: 0;
+	}
+
 	.pagination {
 		flex-wrap: wrap;
 		justify-content: center;
@@ -552,12 +564,17 @@ footer .social-icons a {
 	.nav-tabs h2 {
 		font-size: 1rem;
 	}
-	.col-2 {
+	/* .col-2 {
 		display: none;
-	}
+	} */
 	.col {
 		width: 100%;
 		padding: 0 10px;
+	}
+
+	.favorite-btn-container {
+		width: inherit !important;
+		padding-left: 2px;
 	}
 
 	.items .col-12 {

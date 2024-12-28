@@ -146,7 +146,7 @@ const createDealTemplate = (deal) => {
 				</a>
 				<h6 class="card-subtitle mb-2 text-muted">${deal.legoId}</h6>
 			  </div>
-			  <div class="col-2 col-md-2" style="width: 10%; flex: 0 0 auto;">
+			  <div class="col-2 col-md-2 favorite-btn-container" style="width: 10%; flex: 0 0 auto;">
 				<button class="btn favorite-btn" style="width: fit-content;" data-id="${
 					deal._id
 				}">
