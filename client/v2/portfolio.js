@@ -1,7 +1,7 @@
 // Invoking strict mode https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode#invoking_strict_mode
 "use strict";
 
-/** Description of the available api
+/** Description of the available API
 
 GET https://bricked-up-api.vercel.app/v1/deals/search
 
