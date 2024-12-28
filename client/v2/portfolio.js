@@ -59,7 +59,6 @@ const spanP50Price = document.querySelector("#p50Price");
 const spanLifetime = document.querySelector("#lifetimeValue");
 
 const API_URL = "https://bricked-up-api.vercel.app/v1";
-// const API_URL = "http://localhost:3001/v1";
 const MINIMUM_COMMENTS = 20;
 const MINIMUM_DISCOUNT = 30;
 const MINIMUM_TEMPERATURE = 100;
@@ -432,9 +431,9 @@ const renderPagination = (pagination) => {
 			event.preventDefault();
 			const page = parseInt(event.target.getAttribute("data-page"));
 			if (!isNaN(page)) {
-				if (type === "deals") {
+				if (isTabActive("nav-deals-tab")) {
 					await fetchAndRenderDeals(page, parseInt(selectShow.value));
-				} else if (type === "favorites") {
+				} else {
 					await renderFavoriteDeals(page, favoritesPagination.pageSize);
 				}
 			}
@@ -1092,6 +1091,32 @@ document.addEventListener("click", async (event) => {
  * Handle page load and initial fetch
  */
 document.addEventListener("DOMContentLoaded", async () => {
+	// Check if user is logged in
+	const checkAuth = async () => {
+		const token = localStorage.getItem("token");
+		if (token) {
+			try {
+				const response = await fetch(`${API_URL}/users/profile`, {
+					method: "GET",
+					headers: {
+						"x-auth-token": token,
+					},
+				});
+
+				const data = await response.json();
+				if (response.ok) {
+					showProfile(data);
+				} else {
+					localStorage.removeItem("token");
+				}
+			} catch (error) {
+				console.error("Error fetching profile:", error);
+			}
+		}
+	};
+
+	checkAuth();
+
 	const deals = await fetchDeals(1, parseInt(selectShow.value));
 
 	setCurrentDeals(deals);
@@ -1201,32 +1226,6 @@ document.addEventListener("DOMContentLoaded", async () => {
 		authPrompt.removeEventListener("click", logoutUser);
 		render(currentDeals, dealsPagination);
 	};
-
-	// Check if user is logged in
-	const checkAuth = async () => {
-		const token = localStorage.getItem("token");
-		if (token) {
-			try {
-				const response = await fetch(`${API_URL}/users/profile`, {
-					method: "GET",
-					headers: {
-						"x-auth-token": token,
-					},
-				});
-
-				const data = await response.json();
-				if (response.ok) {
-					showProfile(data);
-				} else {
-					localStorage.removeItem("token");
-				}
-			} catch (error) {
-				console.error("Error fetching profile:", error);
-			}
-		}
-	};
-
-	checkAuth();
 
 	// Handle "Don't show this message again" checkbox
 	document
