@@ -1,10 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>🧱 Lego | Predictability of a lego set deal</title>
+		<title>Bricked Up</title>
+        <meta
+            name="description"
+            content="Bricked Up is a platform that predicts the predictability of a lego set deal"/>
 		<link
 			rel="icon"
 			type="image/x-icon"
@@ -57,7 +60,7 @@
 				/>
 				<label
 					class="form-check-label"
-					for="flexSwitchCheckReverse"
+					for="darkModeToggle"
 					style="font-size: 0.8rem"
 					>Enable dark mode</label
 				>
@@ -88,143 +91,6 @@
 				src="./assets/images/lego_loader_chris_gannon.gif"
 				alt="Loading..."
 			/>
-		</div>
-
-		<!-- Authentication Modal -->
-		<div
-			class="modal fade"
-			id="authModal"
-			tabindex="-1"
-			aria-labelledby="authModalLabel"
-			aria-hidden="true"
-		>
-			<div class="modal-dialog">
-				<div class="modal-content" style="padding: 0px">
-					<div class="modal-header">
-						<h5 class="modal-title" id="authModalLabel">Authentication</h5>
-						<button
-							type="button"
-							class="btn-close"
-							data-bs-dismiss="modal"
-							aria-label="Close"
-						></button>
-					</div>
-					<div class="modal-body" style="padding: 1rem 2rem 2rem 2rem">
-						<!-- Navbar to switch between Login and Register -->
-						<nav style="padding-bottom: 1rem">
-							<div class="nav nav-tabs" id="nav-tab" role="tablist">
-								<button
-									class="nav-link active"
-									id="nav-login-tab"
-									data-bs-toggle="tab"
-									data-bs-target="#nav-login"
-									type="button"
-									role="tab"
-									aria-controls="nav-login"
-									aria-selected="true"
-								>
-									Login
-								</button>
-								<button
-									class="nav-link"
-									id="nav-register-tab"
-									data-bs-toggle="tab"
-									data-bs-target="#nav-register"
-									type="button"
-									role="tab"
-									aria-controls="nav-register"
-									aria-selected="false"
-								>
-									Register
-								</button>
-							</div>
-						</nav>
-						<div class="tab-content" id="nav-tabContent">
-							<!-- Login Form -->
-							<div
-								class="tab-pane fade show active"
-								id="nav-login"
-								role="tabpanel"
-								aria-labelledby="nav-login-tab"
-							>
-								<div id="login-form" class="auth-form">
-									<h2>Login</h2>
-									<form id="login">
-										<div class="form-floating">
-											<input
-												class="form-control"
-												type="email"
-												id="login-email"
-												placeholder="Email"
-												required
-											/>
-											<label for="login-email">Email</label>
-										</div>
-										<div class="form-floating">
-											<input
-												class="form-control"
-												type="password"
-												id="login-password"
-												placeholder="Password"
-												required
-												style="font-family: auto"
-											/>
-											<label for="login-password">Password</label>
-										</div>
-										<button type="submit" class="btn btn-primary">Login</button>
-									</form>
-								</div>
-							</div>
-							<!-- Register Form -->
-							<div
-								class="tab-pane fade"
-								id="nav-register"
-								role="tabpanel"
-								aria-labelledby="nav-register-tab"
-							>
-								<div id="register-form" class="auth-form">
-									<h2>Register</h2>
-									<form id="register">
-										<div class="form-floating">
-											<input
-												class="form-control"
-												type="text"
-												id="register-username"
-												placeholder="Username"
-												required
-											/>
-											<label for="register-username">Username</label>
-										</div>
-										<div class="form-floating">
-											<input
-												class="form-control"
-												type="email"
-												id="register-email"
-												placeholder="Email"
-												required
-											/>
-											<label for="register-email">Email</label>
-										</div>
-										<div class="form-floating">
-											<input
-												class="form-control"
-												type="password"
-												id="register-password"
-												placeholder="Password"
-												required
-											/>
-											<label for="register-password">Password</label>
-										</div>
-										<button type="submit" class="btn btn-primary">
-											Register
-										</button>
-									</form>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
 		</div>
 
 		<div class="row">
@@ -443,6 +309,144 @@
 		<script type="text/javascript" charset="UTF-8" src="portfolio.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.1.0/dist/chartjs-plugin-annotation.min.js"></script>
+
+        <!-- Authentication Modal -->
+        <div
+        class="modal fade"
+        id="authModal"
+        tabindex="-1"
+        aria-labelledby="authModalLabel"
+        aria-hidden="true"
+        >
+            <div class="modal-dialog">
+                <div class="modal-content" style="padding: 0px">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="authModalLabel">Authentication</h5>
+                        <button
+                            type="button"
+                            class="btn-close"
+                            data-bs-dismiss="modal"
+                            aria-label="Close"
+                        ></button>
+                    </div>
+                    <div class="modal-body" style="padding: 1rem 2rem 2rem 2rem">
+                        <!-- Navbar to switch between Login and Register -->
+                        <nav style="padding-bottom: 1rem">
+                            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                                <button
+                                    class="nav-link active"
+                                    id="nav-login-tab"
+                                    data-bs-toggle="tab"
+                                    data-bs-target="#nav-login"
+                                    type="button"
+                                    role="tab"
+                                    aria-controls="nav-login"
+                                    aria-selected="true"
+                                >
+                                    Login
+                                </button>
+                                <button
+                                    class="nav-link"
+                                    id="nav-register-tab"
+                                    data-bs-toggle="tab"
+                                    data-bs-target="#nav-register"
+                                    type="button"
+                                    role="tab"
+                                    aria-controls="nav-register"
+                                    aria-selected="false"
+                                >
+                                    Register
+                                </button>
+                            </div>
+                        </nav>
+                        <div class="tab-content" id="nav-tabContent">
+                            <!-- Login Form -->
+                            <div
+                                class="tab-pane fade show active"
+                                id="nav-login"
+                                role="tabpanel"
+                                aria-labelledby="nav-login-tab"
+                            >
+                                <div id="login-form" class="auth-form">
+                                    <h2>Login</h2>
+                                    <form id="login">
+                                        <div class="form-floating">
+                                            <input
+                                                class="form-control"
+                                                type="email"
+                                                id="login-email"
+                                                placeholder="Email"
+                                                required
+                                            />
+                                            <label for="login-email">Email</label>
+                                        </div>
+                                        <div class="form-floating">
+                                            <input
+                                                class="form-control"
+                                                type="password"
+                                                id="login-password"
+                                                placeholder="Password"
+                                                required
+                                                style="font-family: auto"
+                                            />
+                                            <label for="login-password">Password</label>
+                                        </div>
+                                        <button type="submit" class="btn btn-primary">Login</button>
+                                    </form>
+                                </div>
+                            </div>
+                            <!-- Register Form -->
+                            <div
+                                class="tab-pane fade"
+                                id="nav-register"
+                                role="tabpanel"
+                                aria-labelledby="nav-register-tab"
+                            >
+                                <div id="register-form" class="auth-form">
+                                    <h2>Register</h2>
+                                    <form id="register">
+                                        <div class="form-floating">
+                                            <input
+                                                class="form-control"
+                                                type="text"
+                                                id="register-username"
+                                                placeholder="Username"
+                                                required
+                                            />
+                                            <label for="register-username">Username</label>
+                                        </div>
+                                        <div class="form-floating">
+                                            <input
+                                                class="form-control"
+                                                type="email"
+                                                id="register-email"
+                                                placeholder="Email"
+                                                required
+                                            />
+                                            <label for="register-email">Email</label>
+                                        </div>
+                                        <div class="form-floating">
+                                            <input
+                                                class="form-control"
+                                                type="password"
+                                                id="register-password"
+                                                placeholder="Password"
+                                                required
+                                            />
+                                            <label for="register-password">Password</label>
+                                        </div>
+                                        <button type="submit" class="btn btn-primary">
+                                            Register
+                                        </button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
 
 		<!-- Deal Modal -->
 		<div

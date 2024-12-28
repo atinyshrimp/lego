@@ -197,7 +197,7 @@ const createDealTemplate = (deal, favorites) => {
 			<!-- First row: Title and LEGO ID -->
 			<div class="row mb-2 justify-content-between">
 			  <div class="img-container col-3 col-md-3">
-				<img class="img-fluid img-thumbnail" src="${deal.imgUrl}">
+				<img class="img-fluid img-thumbnail" src="${deal.imgUrl}" alt="${deal._id}-img">
 			  </div>
 			  <div class="col-7 col-md-7 pt-1 px-0">
 				<a href="#" class="deal-title" data-bs-toggle="modal"  data-bs-target="#dealModal" data-uuid="${
@@ -337,7 +337,9 @@ const createSaleTemplate = (
         <div class="card-body d-block">
           <div class="row justify-content-between">
             <div class="col" style="width: 37%; flex: 0 0 auto;">
-              <img class="img-fluid img-thumbnail" src=${sale.imgUrl}>
+              <img class="img-fluid img-thumbnail" src=${sale.imgUrl} alt="${
+		sale._id
+	}-img">
             </div>
             <div class="col ${modal ? "px-0" : ""}">
               <a href="${sale.link}" target="_blank"">
