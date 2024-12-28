@@ -448,15 +448,19 @@ const renderPagination = (pagination) => {
 	const rangeEnd = pagination.currentPage * itemsPerPage;
 	const nbDeals = pagination.count;
 
-	paginationInfo.style.display = "block";
+	if (isTabActive("nav-deals-tab")) {
+		paginationInfo.style.display = "block";
 
-	paginationInfo.innerHTML = `
-		<div class="text-muted float-end">
-		Showing ${rangeBeg} - ${
-		rangeEnd > nbDeals ? nbDeals : rangeEnd
-	} out of ${nbDeals} deal(s)
-		</div>
-		`;
+		paginationInfo.innerHTML = `
+			<div class="text-muted float-end">
+			Showing ${rangeBeg} - ${
+			rangeEnd > nbDeals ? nbDeals : rangeEnd
+		} out of ${nbDeals} deal(s)
+			</div>
+			`;
+	} else {
+		paginationInfo.style.display = "none";
+	}
 
 	// Attach click handlers
 	document.querySelectorAll(".page-link").forEach((link) => {
