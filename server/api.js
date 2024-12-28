@@ -68,6 +68,7 @@ connectToDatabase();
 
 // Connect to MongoDB
 mongoose.connect(process.env.MONGODB_URI, {
+	dbName: "lego",
 	useNewUrlParser: true,
 	useUnifiedTopology: true,
 });
