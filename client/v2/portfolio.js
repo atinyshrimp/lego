@@ -59,6 +59,7 @@ const spanP50Price = document.querySelector("#p50Price");
 const spanLifetime = document.querySelector("#lifetimeValue");
 
 const API_URL = "https://bricked-up-api.vercel.app/v1";
+// const API_URL = "http://localhost:3001/v1";
 const MINIMUM_COMMENTS = 20;
 const MINIMUM_DISCOUNT = 30;
 const MINIMUM_TEMPERATURE = 100;
@@ -506,8 +507,31 @@ const fetchAndRenderDeals = async (page, pageSize) => {
  * @returns {Promise<Array>} Array of favorite deals
  */
 const fetchFavoriteDeals = async () => {
-	const favoriteIds = getFavoriteDeals();
-	const favoriteDeals = [];
+	let favoriteDeals = [];
+	let favoriteIds = [];
+	const token = localStorage.getItem("token");
+
+	if (!token) {
+		favoriteIds = getFavoriteDeals();
+	} else {
+		try {
+			const response = await fetch(`${API_URL}/users/favorites`, {
+				method: "GET",
+				headers: {
+					"x-auth-token": token,
+				},
+			});
+
+			const data = await response.json();
+			if (response.ok) {
+				favoriteIds = data.favorites;
+			} else {
+				console.error("Error fetching favorite deals:", data.message);
+			}
+		} catch (error) {
+			console.error("Error fetching favorite deals:", error);
+		}
+	}
 
 	for (const dealId of favoriteIds) {
 		try {
@@ -1302,6 +1326,11 @@ document.addEventListener("DOMContentLoaded", async () => {
 				localStorage.setItem("token", data.token);
 				showProfile(data.user);
 				authModal.hide();
+				if (isTabActive("nav-favorites-tab")) {
+					await renderFavoriteDeals(1, favoritesPagination.pageSize);
+				} else {
+					await render(currentDeals, dealsPagination);
+				}
 			} else {
 				alert(data.message);
 			}
@@ -1354,6 +1383,17 @@ document.addEventListener("DOMContentLoaded", async () => {
 	};
 
 	checkAuth();
+
+	// Handle "Don't show this message again" checkbox
+	document
+		.getElementById("dontShowAgain")
+		.addEventListener("change", (event) => {
+			if (event.target.checked) {
+				localStorage.setItem("dontShowLocalStorageWarning", "true");
+			} else {
+				localStorage.removeItem("dontShowLocalStorageWarning");
+			}
+		});
 
 	// Start the countdown
 	updateCountdown();

@@ -236,7 +236,24 @@ const saveFavoriteDeals = (favorites) => {
  * @returns {boolean} - True if the deal is a favorite, false otherwise.
  */
 const isFavoriteDeal = (dealId) => {
-	const favorites = getFavoriteDeals();
+	let favorites;
+	const token = localStorage.getItem("token");
+	if (!token) {
+		favorites = getFavoriteDeals();
+	} else {
+		const xhr = new XMLHttpRequest();
+		xhr.open("GET", `${API_URL}/users/favorites`, false);
+		xhr.setRequestHeader("x-auth-token", token);
+		xhr.send(null);
+
+		if (xhr.status === 200) {
+			const data = JSON.parse(xhr.responseText);
+			favorites = data.favorites;
+		} else {
+			console.error("Error fetching favorite deals:", xhr.statusText);
+			return false;
+		}
+	}
 	return favorites.includes(dealId);
 };
 
@@ -245,20 +262,63 @@ const isFavoriteDeal = (dealId) => {
  * @param {Event} event - The click event from the UI element.
  */
 const toggleFavorite = async (event) => {
+	const token = localStorage.getItem("token");
 	const dealId = event.target.getAttribute("data-id");
-	let favorites = getFavoriteDeals();
+	const localStorageWarningModal = new bootstrap.Modal(
+		document.getElementById("localStorageWarningModal")
+	);
 
-	if (favorites.includes(dealId)) {
-		// If the deal if already a favorite, we remove it
-		favorites = favorites.filter((id) => id !== dealId);
-		event.target.innerHTML = ADD_FAV_ICON;
+	if (!token) {
+		localStorageWarningModal.show();
+
+		let favorites = getFavoriteDeals();
+
+		await new Promise((resolve) => {
+			localStorageWarningModal._element.addEventListener(
+				"hidden.bs.modal",
+				resolve,
+				{ once: true }
+			);
+		});
+
+		if (favorites.includes(dealId)) {
+			// If the deal if already a favorite, we remove it
+			favorites = favorites.filter((id) => id !== dealId);
+			event.target.innerHTML = ADD_FAV_ICON;
+		} else {
+			favorites.push(dealId);
+			event.target.innerHTML = DEL_FAV_ICON;
+		}
+
+		saveFavoriteDeals(favorites);
+		console.table(getFavoriteDeals());
 	} else {
-		favorites.push(dealId);
-		event.target.innerHTML = DEL_FAV_ICON;
+		try {
+			const method =
+				event.target.innerHTML !== ADD_FAV_ICON ? "POST" : "DELETE";
+			console.log(method);
+			const response = await fetch(`${API_URL}/users/favorites`, {
+				method: method,
+				headers: {
+					"Content-Type": "application/json",
+					"x-auth-token": token,
+				},
+				body: JSON.stringify({ dealId }),
+			});
+
+			const data = await response.json();
+			console.log(data);
+			if (response.ok) {
+				event.target.innerHTML =
+					method === "POST" ? DEL_FAV_ICON : ADD_FAV_ICON;
+			} else {
+				console.error("Error toggling favorite:", data.message);
+			}
+		} catch (error) {
+			console.error("Error toggling favorite:", error);
+		}
 	}
 
-	saveFavoriteDeals(favorites);
-	console.table(getFavoriteDeals());
 	// Re-render the favorite deals if the favorites tab is active
 	if (isTabActive("nav-favorites-tab")) {
 		await renderFavoriteDeals(

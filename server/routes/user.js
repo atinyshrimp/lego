@@ -74,4 +74,44 @@ router.get("/profile", auth, async (req, res) => {
 	}
 });
 
+// Get user favorites
+router.get("/favorites", auth, async (req, res) => {
+	try {
+		const user = await User.findById(req.user.id).select("favorites");
+		res.json({ favorites: user.favorites });
+	} catch (error) {
+		res.status(500).json({ message: "Server error" });
+	}
+});
+
+// Add a favorite deal
+router.post("/favorites", auth, async (req, res) => {
+	const { dealId } = req.body;
+
+	try {
+		const user = await User.findById(req.user.id);
+		if (!user.favorites.includes(dealId)) {
+			user.favorites.push(dealId);
+			await user.save();
+		}
+		res.json({ favorites: user.favorites });
+	} catch (error) {
+		res.status(500).json({ message: "Server error" });
+	}
+});
+
+// Remove a favorite deal
+router.delete("/favorites", auth, async (req, res) => {
+	const { dealId } = req.body;
+
+	try {
+		const user = await User.findById(req.user.id);
+		user.favorites = user.favorites.filter((id) => id !== dealId);
+		await user.save();
+		res.json({ favorites: user.favorites });
+	} catch (error) {
+		res.status(500).json({ message: "Server error" });
+	}
+});
+
 module.exports = router;

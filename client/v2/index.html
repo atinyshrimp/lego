@@ -774,6 +774,30 @@
 			</div>
 		</div>
 
+                <!-- LocalStorage Warning Modal -->
+        <div class="modal fade" id="localStorageWarningModal" tabindex="-1" aria-labelledby="localStorageWarningModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="localStorageWarningModalLabel">Notice</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Since you are not logged in, your favorites will be stored in your browser's localStorage. This means your favorites will only be available on this device and browser.</p>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="dontShowAgain">
+                            <label class="form-check-label" for="dontShowAgain">
+                                Don't show this message again
+                            </label>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">OK</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
 		<script>
 			// Function to check if all images are loaded
 			function areImagesLoaded(images) {
