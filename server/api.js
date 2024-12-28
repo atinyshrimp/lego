@@ -512,7 +512,247 @@ app.get("/v1/deals/unique", async (_, res) => {
 app.get("/v1/deals/:id", async (req, res) => {
 	try {
 		const id = req.params.id;
-		const deal = await deals_collection.find({ _id: id }).toArray();
+		const pipeline = [
+			{ $match: { _id: id } }, // Apply the filter
+			{
+				$lookup: {
+					from: "sales",
+					localField: "legoId",
+					foreignField: "legoId",
+					as: "salesData",
+				},
+			},
+			{
+				$addFields: {
+					timeUntilExpiration: {
+						$subtract: ["$expirationDate", Math.floor(Date.now() / 1000)],
+					},
+				},
+			},
+			{
+				$addFields: {
+					isExpiringSoon: {
+						$cond: {
+							if: {
+								$and: [
+									{
+										$gt: ["$timeUntilExpiration", 0],
+									},
+									{
+										$lte: ["$timeUntilExpiration", 7 * 24 * 60 * 60],
+									},
+								],
+							},
+							then: true,
+							else: false,
+						},
+					},
+				},
+			},
+			{
+				$addFields: {
+					resaleListings: {
+						$size: "$salesData",
+					},
+					averageResalePrice: {
+						$cond: {
+							if: {
+								$gt: [
+									{
+										$size: "$salesData",
+									},
+									0,
+								],
+							},
+							then: {
+								$avg: "$salesData.price",
+							},
+							else: null,
+						},
+					},
+					resalesLastWeek: {
+						$size: {
+							$filter: {
+								input: "$salesData",
+								as: "sale",
+								cond: {
+									$gte: [
+										"$$sale.publicationDate",
+										{
+											$subtract: [Date.now(), 7 * 24 * 60 * 60 * 1000],
+										},
+									],
+								},
+							},
+						},
+					},
+				},
+			},
+			{
+				$addFields: {
+					discountScore: {
+						$min: [
+							{
+								$divide: ["$discount", 100],
+							},
+							1,
+						],
+					},
+					popularityScore: {
+						$min: [
+							{
+								$divide: ["$comments", MAX_COMMENTS],
+							},
+							1,
+						],
+					},
+					freshnessScore: {
+						$max: [
+							{
+								$subtract: [
+									1,
+									{
+										$divide: ["$daysSincePublication", MAX_AGE_DAYS],
+									},
+								],
+							},
+							0,
+						],
+					},
+					expiryScore: {
+						$cond: {
+							if: "$isExpiringSoon",
+							then: 0.5,
+							else: 1,
+						},
+					},
+					heatScore: {
+						$max: [
+							{
+								$min: [
+									{
+										$divide: ["$temperature", MAX_TEMPERATURE],
+									},
+									1,
+								],
+							},
+							0,
+						],
+					},
+					profitabilityScore: {
+						$cond: {
+							if: {
+								$gt: ["$price", 0],
+							},
+							then: {
+								$min: [
+									{
+										$max: [
+											{
+												$divide: [
+													{
+														$subtract: ["$averageResalePrice", "$price"],
+													},
+													"$price",
+												],
+											},
+											0,
+										],
+									},
+									1,
+								],
+							},
+							else: 1,
+						},
+					},
+					demandScore: {
+						$min: [
+							{
+								$divide: ["$resaleListings", MAX_RESALE_LISTINGS],
+							},
+							1,
+						],
+					},
+					velocityScore: {
+						$min: [
+							{
+								$divide: ["$resalesLastWeek", MAX_WEEKLY_SALES],
+							},
+							1,
+						],
+					},
+				},
+			},
+			{
+				$addFields: {
+					resalabilityScore: {
+						$add: [
+							{
+								$multiply: [
+									"$profitabilityScore",
+									weights_resalability.profitability,
+								],
+							},
+							{
+								$multiply: ["$demandScore", weights_resalability.demand],
+							},
+							{
+								$multiply: ["$velocityScore", weights_resalability.velocity],
+							},
+						],
+					},
+				},
+			},
+			{
+				$addFields: {
+					relevanceScore: {
+						$add: [
+							{
+								$multiply: ["$discountScore", weights_relevance.discount],
+							},
+							{
+								$multiply: ["$popularityScore", weights_relevance.popularity],
+							},
+							{
+								$multiply: ["$freshnessScore", weights_relevance.freshness],
+							},
+							{
+								$multiply: ["$expiryScore", weights_relevance.expiry],
+							},
+							{
+								$multiply: ["$heatScore", weights_relevance.heat],
+							},
+							{
+								$multiply: [
+									"$resalabilityScore",
+									weights_relevance.resalability,
+								],
+							},
+						],
+					},
+				},
+			},
+			{
+				$project: {
+					_id: 1,
+					imgUrl: 1,
+					title: 1,
+					legoId: 1,
+					price: 1,
+					nextBestPrice: 1,
+					discount: 1,
+					link: 1,
+					merchantLink: 1,
+					comments: 1,
+					temperature: 1,
+					publication: 1,
+					expirationDate: 1,
+					relevanceScore: 1,
+				},
+			},
+		];
+
+		const deal = await deals_collection.aggregate(pipeline).toArray();
 		res.status(200).json(deal[0]);
 	} catch (error) {
 		console.error("Error fetching the deal: ", error);

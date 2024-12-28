@@ -232,6 +232,7 @@ const renderDeals = (deals) => {
 	}
 
 	sectionDeals.innerHTML = ""; // Clear existing content
+	document.getElementById("options-column").style.display = "block";
 
 	if (deals.length === 0) {
 		sectionDeals.innerHTML = `
@@ -370,7 +371,7 @@ const createPaginationButton = (
  *
  * @param  {Object} pagination
  */
-const renderPagination = (pagination, type = "deals") => {
+const renderPagination = (pagination) => {
 	const { currentPage, pageCount } = pagination;
 	const maxVisiblePages = 5;
 	const halfVisible = Math.floor(maxVisiblePages / 2);
@@ -441,6 +442,21 @@ const renderPagination = (pagination, type = "deals") => {
                 </a>
             </li>`;
 	}
+
+	const itemsPerPage = parseInt(selectShow.value);
+	const rangeBeg = (pagination.currentPage - 1) * itemsPerPage + 1;
+	const rangeEnd = pagination.currentPage * itemsPerPage;
+	const nbDeals = pagination.count;
+
+	paginationInfo.style.display = "block";
+
+	paginationInfo.innerHTML = `
+		<div class="text-muted float-end">
+		Showing ${rangeBeg} - ${
+		rangeEnd > nbDeals ? nbDeals : rangeEnd
+	} out of ${nbDeals} deal(s)
+		</div>
+		`;
 
 	// Attach click handlers
 	document.querySelectorAll(".page-link").forEach((link) => {
@@ -514,6 +530,8 @@ const renderFavoriteDeals = async (page = 1, itemsPerPage = 6) => {
 	const pageCount = Math.ceil(totalFavorites / itemsPerPage);
 	const startIndex = (page - 1) * itemsPerPage;
 	const endIndex = startIndex + itemsPerPage;
+
+	document.getElementById("options-column").style.display = "none";
 
 	// Slice the deals for the current page
 	const paginatedFavorites = favoriteDeals.slice(startIndex, endIndex);
@@ -704,16 +722,6 @@ const setCurrentDeals = ({ results, meta }) => {
  * @param  {Array} lego set ids
  */
 const renderLegoSetIds = async () => {
-	const legoSection = document.getElementById("lego");
-	if (isTabActive("nav-favorites-tab")) {
-		legoSection.style.display = "none";
-		sectionOptions.style.display = "none";
-		return;
-	}
-
-	legoSection.style.display = "block";
-	sectionOptions.style.display = "block";
-
 	const ids = await getIdsFromDeals();
 	const placeholder = `<option selected>Lego set to filter by</option>`;
 	const options = ids
