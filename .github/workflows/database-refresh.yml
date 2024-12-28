@@ -2,8 +2,8 @@ name: Weekly Database Refresh
 
 on:
   schedule:
-    - cron: "0 3 * * *" # 5:00 AM UTC+2
-    - cron: "0 16 * * *" # 6:00 PM UTC+2
+    - cron: "0 4 * * *" # 5:00 AM UTC+2
+    - cron: "0 17 * * *" # 6:00 PM UTC+2
   workflow_dispatch: # Allows manual triggering
 
 jobs:
