@@ -380,14 +380,25 @@
 						<p class="small mb-0">
 							&copy; 2024 Bricked Up. All Rights Reserved.
 							<br />
+							<br />
+							<a
+								href="#"
+								class="text-light"
+								data-bs-toggle="modal"
+								data-bs-target="#howItWorksModal"
+								>How does Bricked Up work?</a
+							>
+							<br />
 							<em>
-								This website aggregates publicly available data for
-								informational purposes only. No malicious intent is associated
-								with data scraping. Contact me for concerns.
+								Bricked Up aggregates publicly available data for informational
+								purposes only. No malicious intent is associated with data
+								scraping. Contact me for concerns.
 							</em>
 						</p>
 					</div>
-					<div class="col-md-6 text-md-end d-flex flex-column align-items-end">
+					<div
+						class="col-md-6 text-md-end d-flex justify-content-between flex-column align-items-end"
+					>
 						<ul class="list-inline">
 							<li class="list-inline-item">
 								<a
@@ -433,7 +444,7 @@
 		<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.1.0/dist/chartjs-plugin-annotation.min.js"></script>
 
-		<!-- Modal -->
+		<!-- Deal Modal -->
 		<div
 			class="modal fade"
 			id="dealModal"
@@ -482,6 +493,282 @@
 								<i class="fi fi-rr-up-right-from-square"></i>
 							</button>
 						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- How It Works Modal -->
+		<div
+			class="modal fade"
+			id="howItWorksModal"
+			tabindex="-1"
+			aria-labelledby="howItWorksModalLabel"
+			aria-hidden="true"
+		>
+			<div class="modal-dialog modal-lg">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="howItWorksModalLabel">
+							How does the website work?
+						</h5>
+						<button
+							type="button"
+							class="btn-close"
+							data-bs-dismiss="modal"
+							aria-label="Close"
+						></button>
+					</div>
+					<div class="modal-body">
+						<div class="accordion" id="howItWorksAccordion">
+							<!-- Searching for Deals -->
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="headingOne">
+									<button
+										class="accordion-button"
+										type="button"
+										data-bs-toggle="collapse"
+										data-bs-target="#collapseOne"
+										aria-expanded="true"
+										aria-controls="collapseOne"
+									>
+										Searching for Deals
+									</button>
+								</h2>
+								<div
+									id="collapseOne"
+									class="accordion-collapse collapse show"
+									aria-labelledby="headingOne"
+									data-bs-parent="#howItWorksAccordion"
+								>
+									<div class="accordion-body">
+										<p>
+											Use the search bar to find LEGO deals by set ID or
+											keywords. Enhance your search with filters to sort deals
+											by
+											<strong>popularity</strong>, <strong>discount</strong>, or
+											<strong>publication date</strong>. Tailor your results to
+											find the perfect deal faster!
+										</p>
+									</div>
+								</div>
+							</div>
+
+							<!-- Adding to Favorites -->
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="headingTwo">
+									<button
+										class="accordion-button collapsed"
+										type="button"
+										data-bs-toggle="collapse"
+										data-bs-target="#collapseTwo"
+										aria-expanded="false"
+										aria-controls="collapseTwo"
+									>
+										Adding to Favorites
+									</button>
+								</h2>
+								<div
+									id="collapseTwo"
+									class="accordion-collapse collapse"
+									aria-labelledby="headingTwo"
+									data-bs-parent="#howItWorksAccordion"
+								>
+									<div class="accordion-body">
+										<p>
+											Click the <i class="fi fi-rr-heart"></i> heart icon on any
+											deal to save it to your <strong>Favorites</strong>. Access
+											your saved deals anytime by switching to the
+											<strong>Favorites</strong> tab in the navigation bar.
+										</p>
+									</div>
+								</div>
+							</div>
+
+							<!-- Understanding Relevance Score and Temperature -->
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="headingSix">
+									<button
+										class="accordion-button collapsed"
+										type="button"
+										data-bs-toggle="collapse"
+										data-bs-target="#collapseSix"
+										aria-expanded="false"
+										aria-controls="collapseSix"
+									>
+										Understanding Relevance Score and Temperature
+									</button>
+								</h2>
+								<div
+									id="collapseSix"
+									class="accordion-collapse collapse"
+									aria-labelledby="headingSix"
+									data-bs-parent="#howItWorksAccordion"
+								>
+									<div class="accordion-body">
+										<h6>What is the Relevance Score?</h6>
+										<p>
+											The relevance score is a metric that helps you identify
+											the best deals based on a combination of factors,
+											including:
+										</p>
+										<ul>
+											<li>
+												<strong>Discount:</strong> How significant the price
+												drop is.
+											</li>
+											<li>
+												<strong>Popularity:</strong> The number of comments on
+												the deal.
+											</li>
+											<li>
+												<strong>Freshness:</strong> How recently the deal was
+												published.
+											</li>
+											<li>
+												<strong>Temperature:</strong> The community's interest
+												in the deal.
+											</li>
+											<li>
+												<strong>Resalability:</strong> The potential profit if
+												resold.
+											</li>
+										</ul>
+										<p>
+											Scores range from 0% (least relevant) to 100% (most
+											relevant). Use it to prioritize deals worth exploring!
+										</p>
+
+										<h6>What Does Temperature Mean?</h6>
+										<p>
+											<a href="https://help.dealabs.com/help/que-signifie-la-temperature-d-un-deal" target="_blank">Temperature</a> represents the community's reaction to a deal.
+											Higher temperatures indicate that the deal is popular and
+											well-received, while lower or negative values suggest a
+											lukewarm or poor response.
+										</p>
+										<p>
+											Temperature is calculated based on factors such as
+											upvotes, comments, and engagement.
+										</p>
+
+										<h6>How to Use These Metrics?</h6>
+										<ul>
+											<li>
+												<strong>Relevance Score:</strong> Look for deals with a
+												higher score for better quality and value.
+											</li>
+											<li>
+												<strong>Temperature:</strong> Focus on deals with a high
+												or positive temperature for popular options.
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+
+							<!-- Countdown Timer -->
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="headingThree">
+									<button
+										class="accordion-button collapsed"
+										type="button"
+										data-bs-toggle="collapse"
+										data-bs-target="#collapseThree"
+										aria-expanded="false"
+										aria-controls="collapseThree"
+									>
+										Understanding the Countdown Timer
+									</button>
+								</h2>
+								<div
+									id="collapseThree"
+									class="accordion-collapse collapse"
+									aria-labelledby="headingThree"
+									data-bs-parent="#howItWorksAccordion"
+								>
+									<div class="accordion-body">
+										<p>
+											The countdown timer at the top of the page indicates when
+											the next
+											<strong>data refresh</strong> will occur. This ensures
+											you're always browsing the latest deals. Once refreshed,
+											all deals and sales data are updated.
+										</p>
+									</div>
+								</div>
+							</div>
+
+							<!-- Sorting and Filtering -->
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="headingFour">
+									<button
+										class="accordion-button collapsed"
+										type="button"
+										data-bs-toggle="collapse"
+										data-bs-target="#collapseFour"
+										aria-expanded="false"
+										aria-controls="collapseFour"
+									>
+										Sorting and Filtering Deals
+									</button>
+								</h2>
+								<div
+									id="collapseFour"
+									class="accordion-collapse collapse"
+									aria-labelledby="headingFour"
+									data-bs-parent="#howItWorksAccordion"
+								>
+									<div class="accordion-body">
+										<p>
+											Refine your search results using the
+											<strong>Sort</strong> dropdown to organize deals by
+											<strong>price</strong>, <strong>popularity</strong>, or
+											<strong>date</strong>. Use the
+											<strong>Filters</strong> section to explore deals like
+											<ul>
+                                                <li><strong>hot deals</strong>: deals which temperature is above <span id="hot-deals-threshold"></span>°,</li>
+                                                <li><strong>best discounts</strong>: deals which discount is above <span id="discount-threshold"></span>%,</li>
+                                                <li><strong>most commented</strong>: deals which number of comments exceeds <span id="comments-threshold"></span>.</li>
+
+                                            </ul>
+										</p>
+									</div>
+								</div>
+							</div>
+
+							<!-- Viewing Deal Details -->
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="headingFive">
+									<button
+										class="accordion-button collapsed"
+										type="button"
+										data-bs-toggle="collapse"
+										data-bs-target="#collapseFive"
+										aria-expanded="false"
+										aria-controls="collapseFive"
+									>
+										Viewing Deal Details
+									</button>
+								</h2>
+								<div
+									id="collapseFive"
+									class="accordion-collapse collapse"
+									aria-labelledby="headingFive"
+									data-bs-parent="#howItWorksAccordion"
+								>
+									<div class="accordion-body">
+										<p>
+											Click on a deal to open the detailed modal. Here, you'll
+											find more information, including the
+											<strong>discounted price</strong>,
+											<strong>relevant sales</strong>, and
+											<strong>sales indicators</strong>. Use the "See Deal"
+											button to visit the original listing.
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>

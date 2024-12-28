@@ -954,6 +954,14 @@ const handleFilterClick = async (event) => {
 	}
 };
 
+const populateThresholds = () => {
+	// Populate the threshold values
+	document.getElementById("discount-threshold").textContent = MINIMUM_DISCOUNT;
+	document.getElementById("comments-threshold").textContent = MINIMUM_COMMENTS;
+	document.getElementById("hot-deals-threshold").textContent =
+		MINIMUM_TEMPERATURE;
+};
+
 filters.querySelectorAll("span").forEach((filterOption) => {
 	filterOption.addEventListener("click", handleFilterClick);
 });
@@ -1227,6 +1235,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 	setCurrentDeals(deals);
 	dealsPagination = { ...currentPagination };
 	render(currentDeals, dealsPagination);
+	populateThresholds();
 
 	// Initialize favorites pagination
 	favoritesPagination = {
