@@ -304,8 +304,10 @@ const toggleFavorite = async (event) => {
 			const res = await fetch(`${API_URL}/deals/${dealId}`);
 			const deal = await res.json();
 
-			const method =
-				event.target.innerHTML !== ADD_FAV_ICON ? "POST" : "DELETE";
+			const childElement = event.target.querySelector("i");
+			const method = childElement.classList.contains("fi-rs-heart")
+				? "POST"
+				: "DELETE";
 			console.log(method);
 			const response = await fetch(`${API_URL}/users/favorites`, {
 				method: method,
