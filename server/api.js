@@ -1,3 +1,4 @@
+// Import required modules
 const cors = require("cors");
 const express = require("express");
 const mongoose = require("mongoose");
@@ -6,8 +7,10 @@ const { calculateLimitAndOffset, paginate } = require("paginate-info");
 const { MongoClient, ServerApiVersion } = require("mongodb");
 require("dotenv").config();
 
+// Initialize Express app
 const app = express();
 
+// Constants for calculating relevance score
 const MAX_COMMENTS = 100;
 const MAX_AGE_DAYS = 30;
 const MAX_TEMPERATURE = 100;
@@ -31,12 +34,13 @@ const weights_relevance = {
 	resalability: 0.3,
 };
 
+// Export the app module
 module.exports = app;
 
+// Middleware
 app.use(require("body-parser").json());
 app.use(cors());
 app.use(helmet());
-
 app.options("*", cors());
 
 /** Set Up MongoDB Connection */
@@ -50,27 +54,28 @@ const client = new MongoClient(uri, {
 });
 
 let db, deals_collection, sales_collection;
-function connectToDatabase() {
+const connectToDatabase = async () => {
 	db = client.db("lego");
 	deals_collection = db.collection("deals");
 	sales_collection = db.collection("sales");
 
 	console.log(`Connected to "${db.namespace}" on MongoDB Atlas`);
-}
-
-process.on("SIGINT", async () => {
-	console.log("Closing MongoDB connection");
-	await client.close();
-	process.exit(0);
-});
+};
 
 connectToDatabase();
 
-// Connect to MongoDB
+// Connect to MongoDB using Mongoose
 mongoose.connect(process.env.MONGODB_URI, {
 	dbName: "lego",
 	useNewUrlParser: true,
 	useUnifiedTopology: true,
+});
+
+// Graceful shutdown
+process.on("SIGINT", async () => {
+	console.log("Closing MongoDB connection");
+	await client.close();
+	process.exit(0);
 });
 
 /** ================== Endpoints ================== */
@@ -78,7 +83,6 @@ app.get("/", (_, res) => {
 	res.send({ ack: true });
 });
 
-/** Deals */
 // Search deals
 app.get("/v1/deals/search", async (req, res) => {
 	try {
@@ -421,18 +425,6 @@ app.get("/v1/deals/search", async (req, res) => {
 					temperature: 1,
 					publication: 1,
 					expirationDate: 1,
-					// resaleListings: 1,
-					// averageResalePrice: 1,
-					// resalesLastWeek: 1,
-					// discountScore: 1,
-					// popularityScore: 1,
-					// freshnessScore: 1,
-					// expiryScore: 1,
-					// heatScore: 1,
-					// profitabilityScore: 1,
-					// demandScore: 1,
-					// velocityScore: 1,
-					// resalabilityScore: 1,
 					relevanceScore: 1,
 				},
 			},
@@ -761,8 +753,7 @@ app.get("/v1/deals/:id", async (req, res) => {
 	}
 });
 
-/** Sales */
-// Search deals
+// Search sales
 app.get("/v1/sales/search", async (req, res) => {
 	try {
 		// Extract query parameters

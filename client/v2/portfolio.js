@@ -1,47 +1,106 @@
 // Invoking strict mode https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode#invoking_strict_mode
 "use strict";
 
-/**
-Description of the available api
-GET https://lego-api-blue.vercel.app/deals
+/** Description of the available api
 
-Search for specific deals
+GET https://bricked-up-api.vercel.app/v1/deals/search
 
-This endpoint accepts the following optional query string parameters:
-
-- `page` - page of deals to return
-- `size` - number of deals to return
-
-GET https://lego-api-blue.vercel.app/sales
-
-Search for current Vinted sales for a given lego set id
+Search for specific deals based on various filters.
 
 This endpoint accepts the following optional query string parameters:
 
-- `id` - lego set id to return
+- `page` - page of deals to return (default: 1)
+- `limit` - number of deals to return per page (default: 12)
+- `legoId` - lego set id to filter deals
+- `price` - price range to filter deals (e.g., 10-50)
+- `date` - date range to filter deals (e.g., 2024-01-01,2024-12-31)
+- `sortBy` - sorting order for deals (e.g., price-asc, price-desc, date-asc, date-desc)
+- `filterBy` - special filter to apply (e.g., best-discount-30, most-commented-20, hot-deals-100)
+
+GET https://bricked-up-api.vercel.app/v1/deals/unique
+
+Get unique LEGO set IDs from the database.
+
+GET https://bricked-up-api.vercel.app/v1/deals/:id
+
+Get details of a specific deal by its ID.
+
+This endpoint accepts the following URL parameters:
+
+- `id` - the unique identifier of the deal to retrieve
+
+GET https://bricked-up-api.vercel.app/v1/sales/search
+
+Search for current Vinted sales for a given LEGO set ID
+
+This endpoint accepts the following optional query string parameters:
+
+- `page` - page of sales to return (default: 1)
+- `limit` - number of sales to return per page (default: 12)
+- `legoSetId` - LEGO set ID to filter sales
+
+POST https://bricked-up-api.vercel.app/v1/users/register
+
+Register a new user account.
+
+POST https://bricked-up-api.vercel.app/v1/users/login
+
+Login to an existing user account.
+
+GET https://bricked-up-api.vercel.app/v1/users/profile
+
+Get the profile information of the currently logged-in user.
+
+This endpoint requires a valid JWT token to be sent in the `Authorization` header.
+
+GET https://bricked-up-api.vercel.app/v1/users/favorites
+
+Get the list of favorite deals for the currently logged-in user.
+
+This endpoint requires a valid JWT token to be sent in the `Authorization` header.
+
+POST https://bricked-up-api.vercel.app/v1/users/favorites
+
+Add a deal to the list of favorite deals for the currently logged-in user.
+
+This endpoint requires a valid JWT token to be sent in the `Authorization` header.
+
+DELETE https://bricked-up-api.vercel.app/v1/users/favorites/
+
+Remove a deal from the list of favorite deals for the currently logged-in user.
+
+This endpoint requires a valid JWT token to be sent in the `Authorization` header.
 */
 
-/** Global variables and selectors
- *
- */
+/** ================== Global Variables ================== */
+
+/** Deals and Sales Data */
 let currentDeals = [];
 let unfilteredDeals = [];
 let currentSales = [];
+
+/** Pagination States */
+let originalPagination;
 let currentPagination = {};
 let currentParams = {};
 let isListFiltered = false;
-
-// Separate pagination states
 let dealsPagination = {};
 let favoritesPagination = {};
 
-// Selectors
+/** ================== Selectors ================== */
+
+/** Dark Mode */
 const darkModeToggle = document.getElementById("darkModeToggle");
 const savedDarkMode = localStorage.getItem("darkMode");
+
+/** Dropdowns and Inputs */
 const selectShow = document.querySelector("#show-select");
 const selectPage = document.querySelector("#page-select");
 const selectLegoSetIds = document.querySelector("#lego-set-id-select");
 const legoSetIdSearch = document.querySelector("#lego-set-id-search");
+const selectSort = document.querySelector("#sort-select");
+
+/** Sections */
 const paginationContainer = document.querySelector(".pagination");
 const paginationInfo = document.querySelector("#pagination-info");
 const sectionDeals = document.querySelector("#nav-deals");
@@ -49,19 +108,21 @@ const sectionFavorites = document.querySelector("#nav-favorites");
 const sectionIndicators = document.getElementById("indicators");
 const sectionOptions = document.getElementById("options");
 const filters = document.querySelector("#filters");
-const selectSort = document.querySelector("#sort-select");
 
-// Indicator elements
+/** Indicator Elements */
 const spanAvgPrice = document.querySelector("#averagePrice");
 const spanP95Price = document.querySelector("#p95Price");
 const spanP25Price = document.querySelector("#p25Price");
 const spanP50Price = document.querySelector("#p50Price");
 const spanLifetime = document.querySelector("#lifetimeValue");
 
+/** Constants */
 const API_URL = "https://bricked-up-api.vercel.app/v1";
 const MINIMUM_COMMENTS = 20;
 const MINIMUM_DISCOUNT = 30;
 const MINIMUM_TEMPERATURE = 100;
+
+/** ================== Functions ================== */
 
 /** Fetch deals from API
  *
@@ -693,43 +754,6 @@ function updateCountdown() {
 	setTimeout(updateCountdown, 1000);
 }
 
-/**
- * Declaration of all Listeners
- */
-
-// Listen for changes in the "Show" dropdown to update page size
-selectShow.addEventListener("change", async (event) => {
-	const newPageSize = parseInt(event.target.value);
-
-	if (isTabActive("nav-deals-tab")) {
-		// Fetch and render deals with the new page size
-		await fetchAndRenderDeals(1, newPageSize);
-	} else if (isTabActive("nav-favorites-tab")) {
-		// Update favorites pagination and render
-		favoritesPagination.pageSize = newPageSize;
-		await renderFavoriteDeals(1, favoritesPagination.pageSize);
-	}
-});
-
-/**
- * Handle filters
- */
-// Handle change event for LEGO Set ID datalist
-legoSetIdSearch.addEventListener("change", async (event) => {
-	const selectedLegoId = event.target.value;
-	console.log(selectedLegoId);
-
-	// Check if the selected LEGO ID is valid
-	if (!/^\d+$/.test(selectedLegoId)) {
-		currentParams.legoId = undefined; // Clear LEGO ID filter
-	} else {
-		currentParams.legoId = selectedLegoId; // Update global params with the selected LEGO ID
-	}
-
-	// Fetch and render deals with the selected LEGO set ID
-	await fetchAndRenderDeals(currentPagination.currentPage, selectShow.value);
-});
-
 const handleFilterClick = async (event) => {
 	const filterOption = event.target;
 
@@ -823,6 +847,41 @@ const populateThresholds = () => {
 		MINIMUM_TEMPERATURE;
 };
 
+/** ================== Event Listeners ================== */
+
+// Listen for changes in the "Show" dropdown to update page size
+selectShow.addEventListener("change", async (event) => {
+	const newPageSize = parseInt(event.target.value);
+
+	if (isTabActive("nav-deals-tab")) {
+		// Fetch and render deals with the new page size
+		await fetchAndRenderDeals(1, newPageSize);
+	} else if (isTabActive("nav-favorites-tab")) {
+		// Update favorites pagination and render
+		favoritesPagination.pageSize = newPageSize;
+		await renderFavoriteDeals(1, favoritesPagination.pageSize);
+	}
+});
+
+/**
+ * Handle filters
+ */
+// Handle change event for LEGO Set ID datalist
+legoSetIdSearch.addEventListener("change", async (event) => {
+	const selectedLegoId = event.target.value;
+	console.log(selectedLegoId);
+
+	// Check if the selected LEGO ID is valid
+	if (!/^\d+$/.test(selectedLegoId)) {
+		currentParams.legoId = undefined; // Clear LEGO ID filter
+	} else {
+		currentParams.legoId = selectedLegoId; // Update global params with the selected LEGO ID
+	}
+
+	// Fetch and render deals with the selected LEGO set ID
+	await fetchAndRenderDeals(currentPagination.currentPage, selectShow.value);
+});
+
 filters.querySelectorAll("span").forEach((filterOption) => {
 	filterOption.addEventListener("click", handleFilterClick);
 });
@@ -850,8 +909,6 @@ selectSort.addEventListener("change", async (event) => {
 		console.error("Error applying sort:", error);
 	}
 });
-
-let originalPagination;
 
 // Update tab click listeners to use separate states
 document.querySelectorAll(".nav-link").forEach((link) => {

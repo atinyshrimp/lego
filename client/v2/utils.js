@@ -1,11 +1,11 @@
 // Invoking strict mode https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode#invoking_strict_mode
 "use strict";
 
+// Constants
 const ADD_FAV_ICON = `<i class="fi fi-rs-heart" style="color: var(--bu-text);"></i>`;
 const DEL_FAV_ICON = `
 <i class="fi fi-ss-heart" style="color: #E02A29;"></i>`;
 const DARK_MODE_CLASS = "dark-mode";
-// const API_URL = "https://bricked-up-api.vercel.app";
 
 /** Fetches the list of deals from the API
  *
@@ -26,7 +26,7 @@ const getIdsFromDeals = async () => {
  * @throws {RangeError} If `rangeBeg` is greater than or equal to `rangeEnd`.
  * @throws {RangeError} If `rangeBeg` or `rangeEnd` is outside the allowed range (0 to 100).
  */
-function filterDealsByDiscount(data, rangeBeg = 0, rangeEnd = 100) {
+const filterDealsByDiscount = (data, rangeBeg = 0, rangeEnd = 100) => {
 	try {
 		if (rangeBeg >= 0 && rangeEnd <= 100) {
 			if (rangeBeg < rangeEnd) {
@@ -44,7 +44,7 @@ function filterDealsByDiscount(data, rangeBeg = 0, rangeEnd = 100) {
 	} catch (e) {
 		console.log(e);
 	}
-}
+};
 
 /** Filters the deals by the number of comments
  *
@@ -52,7 +52,7 @@ function filterDealsByDiscount(data, rangeBeg = 0, rangeEnd = 100) {
  * @param {Number} [lowerBound = 15] - The minimum number of comments to find within `deals`. Defaults to 15.
  * @returns {Array} - The filtered deals with more than `lowerBound` comments
  */
-function filterDealsByComments(data, lowerBound = 15) {
+const filterDealsByComments = (data, lowerBound = 15) => {
 	try {
 		return data
 			.filter((deal) => deal.comments >= lowerBound)
@@ -60,7 +60,7 @@ function filterDealsByComments(data, lowerBound = 15) {
 	} catch (e) {
 		console.log(e);
 	}
-}
+};
 
 /** Filters the deals by the temperature of the deals
  *
@@ -68,7 +68,7 @@ function filterDealsByComments(data, lowerBound = 15) {
  * @param {Number} [lowerBound = 100] - The minimum number temperature to find within `deals`. Defaults to 100.
  * @returns {Array} - The filtered deals which temperature is higher than `lowerBound`
  */
-function filterDealsByTemperature(data, lowerBound = 100) {
+const filterDealsByTemperature = (data, lowerBound = 100) => {
 	try {
 		return data
 			.filter((deal) => deal.temperature >= lowerBound)
@@ -76,7 +76,7 @@ function filterDealsByTemperature(data, lowerBound = 100) {
 	} catch (e) {
 		console.log(e);
 	}
-}
+};
 
 /** Paginate deals based on the current page and page size
  *
@@ -85,11 +85,11 @@ function filterDealsByTemperature(data, lowerBound = 100) {
  * @param {Number} [size = 6] - The number of deals per page
  * @returns {Array} - Paginated deals
  */
-function paginateDeals(deals, page = 1, size = 6) {
+const paginateDeals = (deals, page = 1, size = 6) => {
 	const startIndex = (page - 1) * size;
 	const endIndex = startIndex + size;
 	return deals.slice(startIndex, endIndex);
-}
+};
 
 /** Sorts an array of deals by their `price` property.
  *
@@ -99,7 +99,7 @@ function paginateDeals(deals, page = 1, size = 6) {
  *
  * @see {@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort|Reference} for sorting functionality.
  */
-function sortDeals(deals, selectValue) {
+const sortDeals = (deals, selectValue) => {
 	try {
 		const splittedValue = selectValue.split("-");
 		const ascending = splittedValue[1] === "asc" ? true : false;
@@ -112,7 +112,7 @@ function sortDeals(deals, selectValue) {
 	} catch (e) {
 		console.log(e);
 	}
-}
+};
 
 // Feature 9 - average, p25, p50 and p95 price value indicators
 /** Calculate the 'q' quartile of an array of values
@@ -123,7 +123,7 @@ function sortDeals(deals, selectValue) {
  * @see {@link https://snippets.bentasker.co.uk/page-1907020841-Calculating-Mean,-Median,-Mode,-Range-and-Percentiles-with-Javascript-Javascript.html|Original source} for the quartile calculation method.
  *
  */
-function calcQuartile(arr, q) {
+const calcQuartile = (arr, q) => {
 	let a = arr.slice();
 	// Turn q into a decimal (e.g. 95 becomes 0.95)
 	q = q / 100;
@@ -147,7 +147,7 @@ function calcQuartile(arr, q) {
 	} else {
 		return parseFloat(data[b].price);
 	}
-}
+};
 
 /** Calculates the average discount percentage from a list of deals.
  *
