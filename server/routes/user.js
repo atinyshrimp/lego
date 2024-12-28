@@ -86,12 +86,12 @@ router.get("/favorites", auth, async (req, res) => {
 
 // Add a favorite deal
 router.post("/favorites", auth, async (req, res) => {
-	const { dealId } = req.body;
+	const { deal } = req.body;
 
 	try {
 		const user = await User.findById(req.user.id);
-		if (!user.favorites.includes(dealId)) {
-			user.favorites.push(dealId);
+		if (!user.favorites.includes(deal)) {
+			user.favorites.push(deal);
 			await user.save();
 		}
 		res.json({ favorites: user.favorites });
@@ -102,11 +102,11 @@ router.post("/favorites", auth, async (req, res) => {
 
 // Remove a favorite deal
 router.delete("/favorites", auth, async (req, res) => {
-	const { dealId } = req.body;
+	const { deal } = req.body;
 
 	try {
 		const user = await User.findById(req.user.id);
-		user.favorites = user.favorites.filter((id) => id !== dealId);
+		user.favorites = user.favorites.filter((fav) => fav._id !== deal._id);
 		await user.save();
 		res.json({ favorites: user.favorites });
 	} catch (error) {

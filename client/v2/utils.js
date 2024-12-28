@@ -218,8 +218,25 @@ const calculateLifetimeValue = (sales) => {
  * @returns {Array<string>} - An array of favorite deal IDs.
  */
 const getFavoriteDeals = () => {
-	const favorites = localStorage.getItem("favoriteDeals");
-	return favorites ? JSON.parse(favorites) : [];
+	const token = localStorage.getItem("token");
+	if (!token) {
+		const favorites = localStorage.getItem("favoriteDeals");
+		return favorites ? JSON.parse(favorites) : [];
+	} else {
+		const xhr = new XMLHttpRequest();
+		xhr.open("GET", `${API_URL}/users/favorites`, false);
+		xhr.setRequestHeader("x-auth-token", token);
+		xhr.send(null);
+
+		if (xhr.status === 200) {
+			const data = JSON.parse(xhr.responseText);
+			console.log(data);
+			return data.favorites;
+		} else {
+			console.error("Error fetching favorite deals:", xhr.statusText);
+			return false;
+		}
+	}
 };
 
 /** Saves favorite deals to localStorage.
@@ -236,25 +253,8 @@ const saveFavoriteDeals = (favorites) => {
  * @returns {boolean} - True if the deal is a favorite, false otherwise.
  */
 const isFavoriteDeal = (dealId) => {
-	let favorites;
-	const token = localStorage.getItem("token");
-	if (!token) {
-		favorites = getFavoriteDeals();
-	} else {
-		const xhr = new XMLHttpRequest();
-		xhr.open("GET", `${API_URL}/users/favorites`, false);
-		xhr.setRequestHeader("x-auth-token", token);
-		xhr.send(null);
-
-		if (xhr.status === 200) {
-			const data = JSON.parse(xhr.responseText);
-			favorites = data.favorites;
-		} else {
-			console.error("Error fetching favorite deals:", xhr.statusText);
-			return false;
-		}
-	}
-	return favorites.includes(dealId);
+	const favorites = getFavoriteDeals();
+	return favorites && favorites.some((favorite) => favorite._id === dealId);
 };
 
 /** Toggles the favorite status of a deal and updates the UI.
@@ -281,19 +281,29 @@ const toggleFavorite = async (event) => {
 			);
 		});
 
-		if (favorites.includes(dealId)) {
+		if (favorites.some((favorite) => favorite._id === dealId)) {
 			// If the deal if already a favorite, we remove it
-			favorites = favorites.filter((id) => id !== dealId);
+			favorites = favorites.filter((favorite) => favorite._id !== dealId);
 			event.target.innerHTML = ADD_FAV_ICON;
 		} else {
-			favorites.push(dealId);
-			event.target.innerHTML = DEL_FAV_ICON;
+			// Otherwise, we add it to the favorites
+			try {
+				const res = await fetch(`${API_URL}/deals/${dealId}`);
+				const content = await res.json();
+				favorites.push(content);
+				event.target.innerHTML = DEL_FAV_ICON;
+			} catch (error) {
+				console.error("Error fetching favorite deals:", error);
+			}
 		}
 
 		saveFavoriteDeals(favorites);
 		console.table(getFavoriteDeals());
 	} else {
 		try {
+			const res = await fetch(`${API_URL}/deals/${dealId}`);
+			const deal = await res.json();
+
 			const method =
 				event.target.innerHTML !== ADD_FAV_ICON ? "POST" : "DELETE";
 			console.log(method);
@@ -303,7 +313,7 @@ const toggleFavorite = async (event) => {
 					"Content-Type": "application/json",
 					"x-auth-token": token,
 				},
-				body: JSON.stringify({ dealId }),
+				body: JSON.stringify({ deal }),
 			});
 
 			const data = await response.json();

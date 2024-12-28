@@ -127,8 +127,8 @@ const fetchSales = async (id) => {
  * @param {*} deal
  * @returns
  */
-const createDealTemplate = (deal) => {
-	const isFavorite = isFavoriteDeal(deal._id);
+const createDealTemplate = (deal, favorites) => {
+	const isFavorite = favorites.some((fav) => fav._id === deal._id);
 
 	return `
 	  <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4">
@@ -226,7 +226,7 @@ const initializeExpirationTooltips = () => {
  *
  * @param  {Array} deals
  */
-const renderDeals = (deals) => {
+const renderDeals = async (deals) => {
 	if (!Array.isArray(deals)) {
 		console.error("Invalid deals array:", deals);
 		deals = [];
@@ -247,7 +247,10 @@ const renderDeals = (deals) => {
 	const div = document.createElement("div");
 	div.classList.add("row", "items", "overflow-auto");
 
-	const template = deals.map((deal) => createDealTemplate(deal)).join("");
+	const favorites = await getFavoriteDeals();
+	const template = deals
+		.map((deal) => createDealTemplate(deal, favorites))
+		.join("");
 	div.innerHTML = template;
 
 	fragment.appendChild(div);
@@ -304,46 +307,6 @@ const createSaleTemplate = (
       </div>
     </div>
   `;
-};
-
-/** Render list of Vinted sales
- *
- * @param {Array} sales
- */
-const renderSales = async (sales) => {
-	sectionFavorites.innerHTML = "";
-
-	const fragment = document.createDocumentFragment();
-	const div = document.createElement("div");
-
-	const favorites = sales.filter((deal) => isFavoriteDeal(deal._id));
-
-	let template;
-	if (favorites.length > 0) {
-		template = favorites
-			.reverse()
-			.map((fav) => createDealTemplate(fav))
-			.join("");
-
-		// Attach listeners to favorite buttons
-		document.querySelectorAll(".favorite-btn").forEach((button) => {
-			button.addEventListener("click", toggleFavorite);
-		});
-	} else {
-		template = `
-      <div class="alert alert-warning" role="alert">
-        Click on the heart on a Deal to see it here!
-      </div>
-      `;
-	}
-
-	div.classList.add("row");
-	div.classList.add("items");
-	div.classList.add("overflow-auto");
-	div.innerHTML = template;
-	fragment.appendChild(div);
-	sectionFavorites.appendChild(fragment);
-	renderPagination(currentPagination, "favorites");
 };
 
 /** Create pagination button
@@ -508,41 +471,31 @@ const fetchAndRenderDeals = async (page, pageSize) => {
  */
 const fetchFavoriteDeals = async () => {
 	let favoriteDeals = [];
-	let favoriteIds = [];
-	const token = localStorage.getItem("token");
+	// let favoriteIds = [];
+	// const token = localStorage.getItem("token");
+	favoriteDeals = getFavoriteDeals();
 
-	if (!token) {
-		favoriteIds = getFavoriteDeals();
-	} else {
-		try {
-			const response = await fetch(`${API_URL}/users/favorites`, {
-				method: "GET",
-				headers: {
-					"x-auth-token": token,
-				},
-			});
+	// if (!token) {
+	// } else {
+	// 	try {
+	// 		const response = await fetch(`${API_URL}/users/favorites`, {
+	// 			method: "GET",
+	// 			headers: {
+	// 				"x-auth-token": token,
+	// 			},
+	// 		});
 
-			const data = await response.json();
-			if (response.ok) {
-				favoriteIds = data.favorites;
-			} else {
-				console.error("Error fetching favorite deals:", data.message);
-			}
-		} catch (error) {
-			console.error("Error fetching favorite deals:", error);
-		}
-	}
-
-	for (const dealId of favoriteIds) {
-		try {
-			const url = `${API_URL}/deals/${dealId}`;
-			const res = await fetch(url);
-			const deal = await res.json();
-			if (deal) favoriteDeals.push(deal);
-		} catch (error) {
-			console.error(`Error fetching favorite deal ${dealId}:`, error);
-		}
-	}
+	// 		const data = await response.json();
+	// 		console.log(data);
+	// 		if (response.ok) {
+	// 			favoriteDeals = data.favorites;
+	// 		} else {
+	// 			console.error("Error fetching favorite deals:", data.message);
+	// 		}
+	// 	} catch (error) {
+	// 		console.error("Error fetching favorite deals:", error);
+	// 	}
+	// }
 
 	return favoriteDeals;
 };
@@ -593,7 +546,7 @@ const renderFavoriteDeals = async (page = 1, itemsPerPage = 6) => {
 
 	// Create deal templates
 	const template = paginatedFavorites
-		.map((deal) => createDealTemplate(deal))
+		.map((deal) => createDealTemplate(deal, favoriteDeals))
 		.join("");
 
 	div.innerHTML = template;
@@ -608,121 +561,6 @@ const renderFavoriteDeals = async (page = 1, itemsPerPage = 6) => {
 	// Render pagination
 	paginationContainer.style.display = "flex";
 	renderPagination(currentPagination);
-};
-
-/** Render pagination for favorites
- *
- * @param {*} favoriteIds - Array of favorite deal IDs
- */
-const renderFavoritePagination = (favoriteIds) => {
-	const itemsPerPage = parseInt(selectShow.value) || 6; // Default to 6 items per page
-	const totalFavorites = favoriteIds.length;
-	const pageCount = Math.ceil(totalFavorites / itemsPerPage);
-	const currentPage = currentPagination.currentPage || 1;
-
-	paginationContainer.innerHTML = ""; // Clear previous pagination
-
-	// Add "Previous" button
-	if (currentPage > 1) {
-		paginationContainer.innerHTML += `
-            <li class="page-item">
-                <a class="page-link" href="#" data-page="${
-									currentPage - 1
-								}" aria-label="Previous">
-                    &laquo;
-                </a>
-            </li>`;
-	} else {
-		paginationContainer.innerHTML += `
-            <li class="page-item disabled">
-                <a class="page-link" href="#" aria-label="Previous">
-                    &laquo;
-                </a>
-            </li>`;
-	}
-
-	// Add visible page numbers
-	for (let page = 1; page <= pageCount; page++) {
-		paginationContainer.innerHTML += `
-            <li class="page-item ${page === currentPage ? "active" : ""}">
-                <a class="page-link" href="#" data-page="${page}">${page}</a>
-            </li>`;
-	}
-
-	// Add "Next" button
-	if (currentPage < pageCount) {
-		paginationContainer.innerHTML += `
-            <li class="page-item">
-                <a class="page-link" href="#" data-page="${
-									currentPage + 1
-								}" aria-label="Next">
-                    &raquo;
-                </a>
-            </li>`;
-	} else {
-		paginationContainer.innerHTML += `
-            <li class="page-item disabled">
-                <a class="page-link" href="#" aria-label="Next">
-                    &raquo;
-                </a>
-            </li>`;
-	}
-
-	// Attach click handlers to pagination buttons
-	document.querySelectorAll(".page-link").forEach((link) => {
-		link.addEventListener("click", (event) => {
-			event.preventDefault();
-			const page = parseInt(event.target.getAttribute("data-page"));
-			if (!isNaN(page)) {
-				renderPaginatedFavorites(favoriteIds, page, itemsPerPage);
-			}
-		});
-	});
-};
-
-/** Paginate and render favorites */
-const renderPaginatedFavorites = (favorites, page = 1, itemsPerPage = 6) => {
-	const start = (page - 1) * itemsPerPage;
-	const end = start + itemsPerPage;
-	let paginatedFavorites = favorites.slice(start, end);
-	console.table(paginatedFavorites);
-	// paginatedFavorites = paginatedFavorites.map(
-	// 	async (dealId) => await getDealFromId(dealId)
-	// );
-	// console.table(paginatedFavorites);
-
-	// Update the pagination meta
-	currentPagination = {
-		currentPage: page,
-		pageCount: Math.ceil(favorites.length / itemsPerPage),
-		count: favorites.length,
-	};
-
-	// Render the favorites for the current page
-	sectionFavorites.innerHTML = "";
-
-	if (paginatedFavorites.length === 0) {
-		sectionFavorites.innerHTML = `
-            <div class="alert alert-warning" role="alert">
-                No favorites to display. Add some deals to your favorites!
-            </div>`;
-		return;
-	}
-
-	const fragment = document.createDocumentFragment();
-	const div = document.createElement("div");
-	div.classList.add("row", "items", "overflow-auto");
-
-	const template = paginatedFavorites
-		.map((deal) => createDealTemplate(deal))
-		.join("");
-
-	div.innerHTML = template;
-	fragment.appendChild(div);
-	sectionFavorites.appendChild(fragment);
-
-	// Update pagination
-	renderFavoritePagination(favorites);
 };
 
 /** Set global deals and pagination data
@@ -1297,6 +1135,11 @@ document.addEventListener("DOMContentLoaded", async () => {
 				localStorage.setItem("token", data.token);
 				showProfile(data.user);
 				authModal.hide();
+				if (isTabActive("nav-favorites-tab")) {
+					await renderFavoriteDeals(1, favoritesPagination.pageSize);
+				} else {
+					await render(currentDeals, dealsPagination);
+				}
 			} else {
 				alert(data.message);
 			}
@@ -1356,6 +1199,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 		authPrompt.setAttribute("data-bs-toggle", "modal");
 		authPrompt.setAttribute("data-bs-target", "#authModal");
 		authPrompt.removeEventListener("click", logoutUser);
+		render(currentDeals, dealsPagination);
 	};
 
 	// Check if user is logged in

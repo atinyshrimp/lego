@@ -15,7 +15,7 @@ const UserSchema = new mongoose.Schema({
 		required: true,
 	},
 	favorites: {
-		type: [String], // Array of deal IDs
+		type: Array, // Array of objects
 		default: [],
 	},
 });
