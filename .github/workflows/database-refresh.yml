@@ -8,7 +8,7 @@ on:
 
 jobs:
   refresh:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     defaults:
       run:
         working-directory: ./server
@@ -19,10 +19,6 @@ jobs:
           node-version: "18"
       - name: Install dependencies
         run: npm install
-      - name: Install Specific Version of Chromium
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium-browser=133.0.6937.0-1
       - name: Run Database Refresh Script
         env:
           MONGODB_CLUSTER_PWD: ${{ secrets.MONGODB_CLUSTER_PWD }}
