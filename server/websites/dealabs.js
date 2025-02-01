@@ -109,7 +109,7 @@ const saveJSONfile = (path, fileName, document) => {
  * @param {number} [maxPages=12] - The maximum number of pages to scrape.
  * @returns {Promise<Object[]>} - A promise that resolves to an array of deal objects.
  */
-const scrape = async (
+module.exports.scrape = async (
 	baseUrl = "https://www.dealabs.com/groupe/lego?hide_expired=true"
 ) => {
 	console.log(`🕵️‍♀️  browsing ${baseUrl}`);
@@ -160,7 +160,3 @@ const scrape = async (
 	// Return the JSON documents
 	return allDeals;
 };
-
-module.exports = scrape;
-
-scrape();
