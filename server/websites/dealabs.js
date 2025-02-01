@@ -11,6 +11,7 @@ const uuidv5 = require("uuid").v5;
 const parse = (data) => {
 	const $ = cheerio.load(data, { xmlMode: true }, true);
 
+	// Extract the deal information from the HTML
 	return $("article.thread")
 		.map((_, element) => {
 			const content = JSON.parse(
@@ -51,11 +52,13 @@ const parse = (data) => {
 			const temperature = content.temperature;
 
 			/** Get image URL from brother element */
-			const imgUrl = JSON.parse(
-				$(element).find("div.threadGrid-image div.js-vue2").attr("data-vue2")
-			).props.threadImageUrl;
+			const imgContent = content.mainImage
+				? content.mainImage
+				: content.merchant.avatar;
+			const imgUrl = `https://static-pepper.dealabs.com/${imgContent.path}/${imgContent.name}/re/202x202/qt/70/${imgContent.name}.jpg`;
 
-			return {
+			/** Return the extracted data */
+			const res = {
 				_id,
 				imgUrl,
 				title,
@@ -70,6 +73,8 @@ const parse = (data) => {
 				publication,
 				expirationDate,
 			};
+
+			return res;
 		})
 		.get();
 };
@@ -104,7 +109,7 @@ const saveJSONfile = (path, fileName, document) => {
  * @param {number} [maxPages=12] - The maximum number of pages to scrape.
  * @returns {Promise<Object[]>} - A promise that resolves to an array of deal objects.
  */
-module.exports.scrape = async (
+const scrape = async (
 	baseUrl = "https://www.dealabs.com/groupe/lego?hide_expired=true"
 ) => {
 	console.log(`🕵️‍♀️  browsing ${baseUrl}`);
@@ -155,3 +160,7 @@ module.exports.scrape = async (
 	// Return the JSON documents
 	return allDeals;
 };
+
+module.exports = scrape;
+
+scrape();
