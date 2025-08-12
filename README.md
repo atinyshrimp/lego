@@ -100,15 +100,15 @@ Where:
 
 #### Factors Breakdown
 
-- **Discount Score ($S_d$):** Percentage discount ($S_d = \min(\frac{\text{Discount}}{100}, 1)$).
-- **Popularity Score ($S_p$):** Community engagement ($S_p = \min(\frac{\text{Comments}}{\text{MAX\_COMMENTS}}, 1)$).
-- **Freshness Score ($S_f$):** Time since publication ($S_f = \max(1 - \frac{\text{Days}}{\text{MAX\_AGE\_DAYS}}, 0)$).
-- **Expiry Score ($S_e$):** Penalizes deals expiring soon ($S_e = 0.5$ if expiring soon, $S_e = 1$ otherwise).
-- **Heat Score ($S_h$):** Based on temperature ($S_h = \min(\frac{\text{Temperature}}{\text{MAX\_TEMPERATURE}}, 1)$).
+- **Discount Score ($S_d$):** Percentage discount ( $S_d = \min(\frac{\text{Discount}}{100}, 1)$ ).
+- **Popularity Score ($S_p$):** Community engagement ( $S_p = \min(\frac{\text{Comments}}{\text{MAX COMMENTS}}, 1)$ ).
+- **Freshness Score ($S_f$):** Time since publication ( $S_f = \max(1 - \frac{\text{Days}}{\text{MAX AGE DAYS}}, 0)$  ).
+- **Expiry Score ($S_e$):** Penalizes deals expiring soon (  $S_e = 0.5$ if expiring soon, $S_e = 1$ otherwise).
+- **Heat Score ($S_h$):** Based on temperature ( $S_h = \min(\frac{\text{Temperature}}{\text{MAX TEMPERATURE}}, 1)$ ).
 - **Resalability Score ($S_r$):** Combines:
-  - **Profitability**: ($\max(\frac{\text{Resale Price} - \text{Price}}{\text{Price}}, 0)$),
-  - **Demand**: ($\min(\frac{\text{Resale Listings}}{\text{MAX\_LISTINGS}}, 1)$),
-  - **Velocity**: ($\min(\frac{\text{Weekly Resales}}{\text{MAX\_WEEKLY\_SALES}}, 1)$).
+  - **Profitability**: ( $\max(\frac{\text{Resale Price} - \text{Price}}{\text{Price}}, 0)$ ),
+  - **Demand**: ( $\min(\frac{\text{Resale Listings}}{\text{MAX LISTINGS}}, 1)$ ),
+  - **Velocity**: ( $\min(\frac{\text{Weekly Resales}}{\text{MAX WEEKLY SALES}}, 1)$ ).
 
 #### Weight Distribution
 
